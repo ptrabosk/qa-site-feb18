@@ -4139,6 +4139,17 @@ document.addEventListener('DOMContentLoaded', async () => {
             return false;
         }
 
+        if (queue.length === 1) {
+            const onlyItemId = String((queue[0] && queue[0].assignment_id) || '').trim();
+            const currentIdSingle = assignmentContext && assignmentContext.assignment_id
+                ? String(assignmentContext.assignment_id).trim()
+                : '';
+            if (onlyItemId && currentIdSingle && onlyItemId === currentIdSingle) {
+                setAssignmentsStatus('No other assigned conversation is ready yet.', false);
+                return false;
+            }
+        }
+
         const currentId = assignmentContext && assignmentContext.assignment_id
             ? String(assignmentContext.assignment_id)
             : '';
@@ -4307,6 +4318,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 
     document.addEventListener('keydown', async (event) => {
         if (!event) return;
+        if (event.repeat) return;
         if (event.altKey || event.ctrlKey || event.metaKey || event.shiftKey) return;
         if (isTypingTarget(event.target)) return;
 
