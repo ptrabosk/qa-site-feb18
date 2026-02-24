@@ -4305,6 +4305,25 @@ document.addEventListener('DOMContentLoaded', async () => {
         });
     }
 
+    document.addEventListener('keydown', async (event) => {
+        if (!event) return;
+        if (event.altKey || event.ctrlKey || event.metaKey || event.shiftKey) return;
+        if (isTypingTarget(event.target)) return;
+
+        if (event.key === 'ArrowLeft') {
+            if (previousConversationBtn && previousConversationBtn.disabled) return;
+            event.preventDefault();
+            await navigateConversation(-1);
+            return;
+        }
+
+        if (event.key === 'ArrowRight') {
+            if (nextConversationBtn && nextConversationBtn.disabled) return;
+            event.preventDefault();
+            await navigateConversation(1);
+        }
+    });
+
     // Session Timer functionality - persists across page refreshes
     let timerStartTime = Date.now();
     let timerInterval = null;
