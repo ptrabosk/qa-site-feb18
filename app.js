@@ -84,6 +84,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     let assignmentPrefetchQueueSet = {};
     let assignmentPrefetchActiveCount = 0;
     let assignmentNavigationInProgress = false;
+    let pendingAssignmentNavigationDirection = 0;
     let snapshotCreateInFlight = false;
     let uploadedScenariosCache = [];
     let uploadedScenariosLoaded = false;
@@ -3383,7 +3384,6 @@ document.addEventListener('DOMContentLoaded', async () => {
         if (messageElement) {
             messageElement.textContent = getFirstCustomerMessageFromScenario(scenario, conversation);
         }
-        else debugLog('customerMessage element not found');
 
         // Render conversation and always land on the latest message.
         renderConversationMessages(Array.isArray(conversation) ? conversation : [], scenario);
@@ -4119,8 +4119,9 @@ document.addEventListener('DOMContentLoaded', async () => {
         if (isSnapshotMode) return false;
         if (!canUseAssignmentMode()) return false;
         if (assignmentNavigationInProgress) {
-            debugLog('navigateAssignmentQueue skipped (already in progress)');
-            return false;
+            pendingAssignmentNavigationDirection = direction > 0 ? 1 : -1;
+            debugLog('navigateAssignmentQueue queued (already in progress)', { direction: pendingAssignmentNavigationDirection });
+            return true;
         }
         assignmentNavigationInProgress = true;
         if (previousConversationBtn) previousConversationBtn.disabled = true;
@@ -4145,7 +4146,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                 ? String(assignmentContext.assignment_id).trim()
                 : '';
             if (onlyItemId && currentIdSingle && onlyItemId === currentIdSingle) {
-                setAssignmentsStatus('No other assigned conversation is ready yet.', false);
+                goToAssignmentLoadingPage('No other assigned conversation is ready yet. Checking queue...');
                 return false;
             }
         }
@@ -4207,6 +4208,13 @@ document.addEventListener('DOMContentLoaded', async () => {
             const forceView = !!(assignmentContext && (assignmentContext.role === 'viewer' || assignmentContext.mode === 'view'));
             if (previousConversationBtn) previousConversationBtn.disabled = forceView;
             if (nextConversationBtn) nextConversationBtn.disabled = forceView;
+            const queuedDirection = pendingAssignmentNavigationDirection;
+            pendingAssignmentNavigationDirection = 0;
+            if (queuedDirection === 1 || queuedDirection === -1) {
+                setTimeout(() => {
+                    navigateAssignmentQueue(queuedDirection).catch(() => {});
+                }, 0);
+            }
         }
     }
 
@@ -4219,6 +4227,12 @@ document.addEventListener('DOMContentLoaded', async () => {
         if (!movedByAssignment) {
             await navigateScenarioList(direction);
         }
+    }
+
+    function goToAssignmentLoadingPage(statusMessage = 'Loading assignments...') {
+        if (!canUseAssignmentMode() || isSnapshotMode) return;
+        setAssignmentsStatus(statusMessage, false);
+        window.location.href = 'app.html';
     }
 
     function getNextQueueItem(queue, currentAssignmentId, direction, excludeAssignmentIds = []) {
@@ -4969,7 +4983,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                     await new Promise((resolve) => setTimeout(resolve, SUBMIT_ADVANCE_DELAY_MS));
                     const moved = await openNextAssignmentAfterOptimisticSubmit(submitContext.assignment_id);
                     if (!moved) {
-                        setAssignmentsStatus('Submitted. Syncing in background; no other assigned conversation is ready yet.', false);
+                        goToAssignmentLoadingPage('Submitted. Syncing in background; checking queue...');
                     }
                     return;
                 }
