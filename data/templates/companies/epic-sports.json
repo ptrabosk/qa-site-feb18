@@ -1,0 +1,187 @@
+{
+  "companyKey": "epic sports",
+  "templates": [
+    {
+      "name": "The color looks different in different photos",
+      "content": "Colors look different online for a lot of reasons. The biggest reason that this occurs is that the two item numbers were most likely loaded onto our website as a new product at different times and by different artists. A lot of the time the images are photoshopped by the artists when loading the new products and each artist selected a different color of blue for that image color. Additionally, when comparing the same item on different monitors or at different angles on those monitors, they will appear to be different colors. This is why we put the disclaimer on all of our products about colors and how they appear online and that they may or may not be representative of how they look in reality.",
+      "id": "c9384fb1-01f7-4e11-b248-59f2c1b3d29b",
+      "companyName": "Epic Sports"
+    },
+    {
+      "name": "Promo codes / discounts",
+      "content": "You can check out all our promos here: https://epicsports.attn.tv/sl/5GSoS6Mr Keep in mind that you can use only one promo code per order and some promotions require a minimum purchase amount which doesn't include the price of the free item, shipping, or sales tax.",
+      "id": "c0d44643-4b27-4c90-8bf8-d04fdbe83aae",
+      "shortcut": "ncode",
+      "companyName": "Epic Sports"
+    },
+    {
+      "name": "Free shipping",
+      "content": "We don't currently offer free shipping, but all promos will always be shared with our SMS subscribers or on our website, so keep an eye out!",
+      "id": "ffe1f2e6-9d4a-4d45-9efa-364041b22219",
+      "shortcut": "fs",
+      "companyName": "Epic Sports"
+    },
+    {
+      "name": "Can I customize anything?",
+      "content": "You can add customization to an item from your cart (on a desktop or laptop computer) and it will show you the cost and estimated delivery date at checkout, or you can call our sales department at 1-888-269-2440 (follow the prompt for new orders) and they can make a quote for you.",
+      "id": "3b710497-65d5-46eb-ba02-edf68443dffc",
+      "companyName": "Epic Sports"
+    },
+    {
+      "name": "Tax inquiries",
+      "content": "Tax-related paperwork or questions are handled by a tax-specific service agent who can be reached at taxexempt@epicsports.com. Just email us at your earliest convenience.",
+      "id": "7931eaec-da32-4466-8f61-d3d4d1ede260",
+      "companyName": "Epic Sports"
+    },
+    {
+      "name": "Based on the picture, what would the embroidery cost be?",
+      "content": "The logo price is based on the stitch count it takes to do the logo at $1 per thousand stitches, and it generally ranges from $5-$10 (+/-) per item, plus the cost of the item itself and shipping costs. We would need the stitch file to give a specific answer. We can do some custom designs, and there'll be a one-time digitizing fee of $30 charged for the work-up of the logo. Future orders with the same logo don't get charged this fee. Our current lead time is about 2-3 weeks depending on where the items are located. If you'd like us to work up a quote, please email us at newsales@epicsports.com or give us a call at 888-269-2440. Here's the information the sales team will request; the image you want to get quoted, if your item has a color/size, please be specific. If you're a first time customer, you'll need to provide your shipping address, full name + organization name (if relevant) and phone number.",
+      "id": "dbd0a25e-1107-48d5-8ad8-bbcae89805e2",
+      "companyName": "Epic Sports"
+    },
+    {
+      "name": "Explanation of Clothing Size Acronyms",
+      "content": "Here is a brief explanation, AM = Adult Medium, YS = Youth Small, A2XL = Adult 2X-Large, YXS = Youth Extra Small, GM = Girls Medium, and WL = Womens Large.",
+      "id": "9704eaa0-b499-409a-b861-4bf2258e2617",
+      "companyName": "Epic Sports"
+    },
+    {
+      "name": "Store location",
+      "content": "We don't currently have a store but definitely keep an eye out.",
+      "id": "9ff6ef6f-b7c9-47b4-be8b-9a18ca21d934",
+      "shortcut": "sl",
+      "companyName": "Epic Sports"
+    },
+    {
+      "name": "Return policy",
+      "content": "You can check out our detailed return policy here: https://m.epicsports.com/returnpolicy.html",
+      "id": "343593fa-2059-47d1-a1db-ddcf76932fed",
+      "shortcut": "rp",
+      "companyName": "Epic Sports"
+    },
+    {
+      "name": "Cancel / edit order",
+      "content": "The best way to handle this is to visit our help portal here: https://m.epicsports.com/rd?t=cs&utm_campaign=concierge",
+      "id": "ff3a39d5-a5f1-44ea-a4fb-410a8a19b68b",
+      "shortcut": "ced",
+      "companyName": "Epic Sports"
+    },
+    {
+      "name": "Wholesale inquiries / Team or Bulk discounts",
+      "content": "We believe that everyone should get the best prices, not just those who buy in large quantities. We strive to keep our everyday prices, on a single unit basis, lower than our competition's best team discount price. That way, everyone gets the best deal, not just the big guys. If you compare our prices with other retailers, you'll find that our prices are usually the lowest and the best part is that you don't even have to haggle to get them.",
+      "id": "cb5526cd-b989-44a1-bef3-1c3eaf46e83c",
+      "shortcut": "wls",
+      "companyName": "Epic Sports"
+    },
+    {
+      "name": "Shipping time",
+      "content": "Most in-stock items usually ship out within 1-2 business days while custom items take a little longer. Vinyl heat press and braiding will take 3-5 business days, embroidery will take 3 business days, engraving 5-7 business days, and tackle twill 7 business days. Once shipped, on the desktop site, in the upper right-hand corner, click on \"estimate shipping.\" You'll be asked to enter your zip code and state and it'll give you both the shipping cost and the estimated date to arrive with all of the shipping methods that we offer. This will estimate all of the items in your shopping cart, so be sure to add them first. Different items will affect the cost and different vendors will affect processing time.",
+      "id": "c02a9f2e-2214-4934-a7ee-42efb1769138",
+      "shortcut": "shp",
+      "companyName": "Epic Sports"
+    },
+    {
+      "name": "Restock? (enabled for autosend)",
+      "content": "The best information we have can be found on the product page, you can check the box next to, \"CLICK HERE: To See All Sizes, Colors, & Quantities\" and you will be able to view inventory and backorder dates for all colors and sizes at once. If no backorder date is listed, that is the best information we have on that item at this time!",
+      "id": "44f9bb13-9436-4fab-aeb4-6ed43216924c",
+      "companyName": "Epic Sports"
+    },
+    {
+      "name": "How can I see the number of available Gold Points I have?",
+      "content": "Your Gold Points are visible online when you log in to your account. You can also add items to your cart and it will show you any Gold Points available upon checkout.",
+      "id": "7b7ac7a2-4273-4cba-a08f-5dea93d378d2",
+      "companyName": "Epic Sports"
+    },
+    {
+      "name": "When will my points expire?",
+      "content": "Gold Points expire in 18 months from the date they are created.",
+      "id": "2e4f08cd-b6e2-44c6-8919-738d91ef93c4",
+      "companyName": "Epic Sports"
+    },
+    {
+      "name": "Post purchase issues",
+      "content": "The best way to handle this is to visit our help portal here: https://m.epicsports.com/rd?t=cs&utm_campaign=concierge",
+      "id": "aa3247fc-a322-4cbc-924f-2ea0cf94806b",
+      "shortcut": "ppi",
+      "companyName": "Epic Sports"
+    },
+    {
+      "name": "Sizing questions?",
+      "content": "The sizing of the products differs from item to item. I would suggest looking at the size chart which is located below the product. If ''Individual size chart'' is listed, this refers to the body measurements of the individual it's expected to fit; naturally, the garment will be slightly larger than the individual's body measurements. If \"Garment size chart\" is listed, this's the true size of the garment, within a natural range of variance. The best comparison for these charts is to measure a garment you have that you approve of the fit, and compare that to the size chart.",
+      "id": "3a2a0ca0-ea27-4219-b5f2-e34825718ca7",
+      "shortcut": "sz",
+      "companyName": "Epic Sports"
+    },
+    {
+      "name": "I ordered several times and all got cancelled",
+      "content": "Our fulfillment center doesn't share live inventory with us, so it's susceptible to hot items selling out before inventory levels are updated. Our warehouse is over 5-acres large and we stock a vast quantity of products, however there are times that your order will ship to you directly from the manufacturer. Even though our warehouse and our manufacturers' are very automated, there are times that inventory levels will be incorrect and we won't know this until your order is actually attempted to be filled by warehouse personnel. Sometimes items will be back-ordered or discontinued and manufacturers forget to notify their retailers, which is only discovered after you order that item and the warehouse personnel can't find it. We do our best to provide all the items you order, but there are simply times we can't and when this happens, naturally we'll refund you, and if possible, help you select an alternative item.",
+      "id": "fd2456b1-82d3-4e30-b7db-91b7463cad60",
+      "companyName": "Epic Sports"
+    },
+    {
+      "name": "Where is your warehouse?",
+      "content": "We have multiple partner fulfillment centers located across the country.",
+      "id": "18a70428-f587-46e7-b42b-d3ec44fe98e5",
+      "companyName": "Epic Sports"
+    },
+    {
+      "name": "Military discount",
+      "content": "Thank you for your service! We don't have any specific discounts like that, but our deals will always be shared with our SMS subscribers or on our website, so keep an eye out!",
+      "id": "ca3835be-38b8-43cf-829b-5590d1c5bc80",
+      "shortcut": "ms",
+      "companyName": "Epic Sports"
+    },
+    {
+      "name": "Screen printing logo requirements/ personal artwork",
+      "content": "Yes, we can do custom-printed designs on garments only. Please note that helmets are not customizable. If you're providing your own artwork, it must be provided in a high-resolution, at least 300 dots per inch at 100% size, \"camera-ready\" file. If the image is distorted or pixilated, it won't allow for a good quality print. If you're sending it via email, please ensure that it is in a PC compatible format (.tif, .jpg, .eps, .ai, .psd). \"Live,\" layered files (not flattened) are requested for PhotoShop images sent as color separation may be necessary for multiple color printing. Word files can't be used. Images taken from the internet won't provide the resolution necessary to print a quality logo. Editable Line/Vector art is recommended for optimum results. Type (fonts) must be turned into \"paths\" or \"outlines\" as your typestyle will be missing when you send your art file unless you properly embed the font or attach the actual font file with it. Font substitution will be necessary if the font isn't included or paths or outlines are created on the text. The print will only look as good as the art provided.",
+      "id": "e09552a4-6038-4b0f-8f8c-653f84abfd07",
+      "companyName": "Epic Sports"
+    },
+    {
+      "name": "Custom logo estimate",
+      "content": "We can do custom-printed designs on garments. If you have a high-quality image, we can use it for printing. There'll be a one-time digitizing fee of $30 charged for the work-up of the logo. If this is something you're interested in, please give our sales department a call at 888-269-2440 or email us at newsales@epicsports.com to have a quote set up. Our sales team will request for your logo in a high-resolution file as an attachment (not embedded). It must be how you want it customized as we don't do design work in-house. Then the next step would be to add all items/quantity/size/color to your cart. A sales rep will be able to upload that cart so you can complete your quote/order. Please note that if an item isn't shown on the website, it's out of stock.",
+      "id": "d88663f8-9e02-4be8-8d56-25bee75b2657",
+      "companyName": "Epic Sports"
+    },
+    {
+      "name": "Social Media",
+      "content": "Give us a follow on FB here: https://www.facebook.com/Epic-Sports-162948754939/",
+      "id": "bbc57f41-b12b-4432-be19-9f3ea5c079b6",
+      "shortcut": "smd",
+      "companyName": "Epic Sports"
+    },
+    {
+      "name": "Do you offer samples?",
+      "content": "We don't offer free samples, but if purchasing for a team or organization; we suggest you purchase samples of items or sizes you're interested in.\n\nWhen you're ready to make a $200 or larger purchase (made within the next 30-days), call in at 1-888-269-2440 to place the order and we'll credit you for ground shipping charges on your initial sample order.",
+      "id": "dca19288-43dc-4459-b836-5419b388395d",
+      "companyName": "Epic Sports"
+    },
+    {
+      "name": "Order status/order tracking",
+      "content": "You can use our convenient online tool to see the latest updates on your order: https://store.epicsports.com/orderstatus.html",
+      "id": "bd555b22-2f6e-4b42-b73b-b8d15928abed",
+      "companyName": "Epic Sports"
+    },
+    {
+      "name": "Phone support",
+      "content": "We don't offer phone support right now but I'd be happy to help you over text, let me know what I can do for you!",
+      "id": "c0097812-ff4e-4c16-88f5-5cf70f41bd16",
+      "shortcut": "ps",
+      "companyName": "Epic Sports"
+    },
+    {
+      "name": "Customer support",
+      "content": "The best way to handle this is to contact us using this link: https://m.epicsports.com/contactform.html, or live chat with one of our agents via the website. Our team is happy to help!",
+      "id": "27f873ed-9524-4225-89aa-72e819941859",
+      "shortcut": "cs",
+      "companyName": "Epic Sports"
+    },
+    {
+      "name": "Brand ambassador / sponsorship / affiliate program",
+      "content": "Thank you for your interest! You can learn how to apply and get more details about our affiliate program here: https://soccer.epicsports.com/members/affiliate.html",
+      "id": "bb13f5d8-eb79-410d-81e5-fe6a24ac8b71",
+      "shortcut": "ams",
+      "companyName": "Epic Sports"
+    }
+  ]
+}

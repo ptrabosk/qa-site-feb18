@@ -21,7 +21,7 @@
     },
     {
       "name": "Are Minis eligible for same day hand delivery?",
-      "content": "I\u0027m afraid the Minis aren\u0027t eligible for same-day hand delivery.",
+      "content": "I'm afraid the Minis aren't eligible for same-day hand delivery.",
       "id": "3a2bb0be-4fa8-44ca-b14e-10d18a466ec8",
       "companyName": "Venus ET Fleur"
     },
@@ -34,7 +34,7 @@
     },
     {
       "name": "Do you have plain packaging?",
-      "content": "We don\u0027t have any plain packaging at the moment. All of our shipping boxes have the Venus ET Fleur logo.",
+      "content": "We don't have any plain packaging at the moment. All of our shipping boxes have the Venus ET Fleur logo.",
       "id": "cc8677e4-d370-4cfb-a50f-ea199fe19fb2",
       "companyName": "Venus ET Fleur"
     },
@@ -47,21 +47,21 @@
     },
     {
       "name": "Free shipping",
-      "content": "We don\u0027t currently offer free shipping, but all promos will always be shared with our SMS subscribers or on our website, so keep an eye out!",
+      "content": "We don't currently offer free shipping, but all promos will always be shared with our SMS subscribers or on our website, so keep an eye out!",
       "id": "1c08214c-8aa1-4891-80f6-3b9891b52cca",
       "shortcut": "fs",
       "companyName": "Venus ET Fleur"
     },
     {
       "name": "Military / First responder / Healthcare / Teacher discount",
-      "content": "Thank you for your service! We don\u0027t have any specific discounts like that, but our deals will always be shared with our SMS subscribers or on our website, so keep an eye out!",
+      "content": "Thank you for your service! We don't have any specific discounts like that, but our deals will always be shared with our SMS subscribers or on our website, so keep an eye out!",
       "id": "1d249330-fd6f-487d-8b13-44b726281cab",
       "shortcut": "ms",
       "companyName": "Venus ET Fleur"
     },
     {
       "name": "Can I order online and pick up at a store?",
-      "content": "Due to the uniqueness and design of each arrangement, and a few subtle differences between our available retail and online products, we\u0027re unable to process orders online for store pickup at this time.",
+      "content": "Due to the uniqueness and design of each arrangement, and a few subtle differences between our available retail and online products, we're unable to process orders online for store pickup at this time.",
       "id": "bbf359b8-d0c5-4282-a3dc-a122d19873d2",
       "companyName": "Venus ET Fleur"
     },
@@ -106,20 +106,20 @@
     },
     {
       "name": "Cancel / edit order",
-      "content": "As indicated during the checkout process, once an order has been submitted, we are unable to make any changes or updates to the order. Due to the custom nature of our products, all sales are final. Please note we process orders almost as soon as they\u0027re placed on our website to ensure timely delivery, particularly for rush orders or upcoming holidays. I\u0027m sorry we couldn\u0027t be of more help. If you believe that there is any information on the order that might compromise delivery, please call us at 800-808-9830 as soon as possible. We\u0027ll do our best to try to address the situation!",
+      "content": "As indicated during the checkout process, once an order has been submitted, we are unable to make any changes or updates to the order. Due to the custom nature of our products, all sales are final. Please note we process orders almost as soon as they're placed on our website to ensure timely delivery, particularly for rush orders or upcoming holidays. I'm sorry we couldn't be of more help. If you believe that there is any information on the order that might compromise delivery, please call us at 800-808-9830 as soon as possible. We'll do our best to try to address the situation!",
       "id": "7f21bf71-97cb-4d36-83af-75f45a7f72e5",
       "shortcut": "ced",
       "companyName": "Venus ET Fleur"
     },
     {
       "name": "How long will your flowers last? And how can I make it last?",
-      "content": "Our flowers can last for a year or more, don\u0027t water them, keep them in the same container you received them in. You can use a duster to lightly remove dust, keep your flower at room temperature. You can read more about it here: https://venusetfleur.attn.tv/sl/j1H8CvPJ",
+      "content": "Our flowers can last for a year or more, don't water them, keep them in the same container you received them in. You can use a duster to lightly remove dust, keep your flower at room temperature. You can read more about it here: https://venusetfleur.attn.tv/sl/j1H8CvPJ",
       "id": "f1a19232-b1cc-4e4c-aed5-78e91442d88d",
       "companyName": "Venus ET Fleur"
     },
     {
-      "name": "Do you package the arrangements so that they don\u0027t get damaged?",
-      "content": "Yes, we package the arrangements very carefully to ensure that they\u0027re not damaged during transit.",
+      "name": "Do you package the arrangements so that they don't get damaged?",
+      "content": "Yes, we package the arrangements very carefully to ensure that they're not damaged during transit.",
       "id": "f4968618-957d-4ad9-8ff0-69d6e3595d86",
       "companyName": "Venus ET Fleur"
     },
@@ -137,7 +137,7 @@
     },
     {
       "name": "Can I customize the letters/boxes?",
-      "content": "All of our boxes can be customized! Please note that you can only customize the color of the box and flower. I\u0027m afraid the count of roses cannot be customized at the moment.",
+      "content": "All of our boxes can be customized! Please note that you can only customize the color of the box and flower. I'm afraid the count of roses cannot be customized at the moment.",
       "id": "3f7a0504-e2a7-4e8e-a10f-70a3c74222d8",
       "companyName": "Venus ET Fleur"
     },
@@ -171,7 +171,7 @@
     },
     {
       "name": "Do you need to water the flowers?",
-      "content": "There\u0027s no need to water the flowers. Unlike normal roses which may require constant watering, a change of vases, and grooming of loose, wilted petals, our roses maintain their freshness and longevity for up to year without tedious and time-consuming maintenance.",
+      "content": "There's no need to water the flowers. Unlike normal roses which may require constant watering, a change of vases, and grooming of loose, wilted petals, our roses maintain their freshness and longevity for up to year without tedious and time-consuming maintenance.",
       "id": "5e79d6db-2471-4058-a091-2c242a17957c",
       "companyName": "Venus ET Fleur"
     },
@@ -184,7 +184,7 @@
     },
     {
       "name": "Can you ship to multiple addresses?",
-      "content": "Unfortunately, selecting multiple addresses isn\u0027t possible in a single order. You\u0027ll have to place an order for each address. Let me know if you need further help.",
+      "content": "Unfortunately, selecting multiple addresses isn't possible in a single order. You'll have to place an order for each address. Let me know if you need further help.",
       "id": "e0241c96-e2cf-4b29-b393-4a8acc212eee",
       "companyName": "Venus ET Fleur"
     },
@@ -215,13 +215,13 @@
     },
     {
       "name": "What happened with the Reflexed Roses?",
-      "content": "I\u0027m afraid we discontinued this product. I\u0027m sorry for any inconvenience this may cause!",
+      "content": "I'm afraid we discontinued this product. I'm sorry for any inconvenience this may cause!",
       "id": "9b851220-7178-4c31-a0fb-7793b80cf35f",
       "companyName": "Venus ET Fleur"
     },
     {
       "name": "Restock",
-      "content": "While we\u0027re unable to provide an exact restock date, we recommend entering your email address on the product page to receive a notification as soon as it becomes available. Many of our popular items are restocked within 1-3 weeks, so checking the website periodically is also a great idea.",
+      "content": "While we're unable to provide an exact restock date, we recommend entering your email address on the product page to receive a notification as soon as it becomes available. Many of our popular items are restocked within 1-3 weeks, so checking the website periodically is also a great idea.",
       "id": "aa5951c2-f681-4c6b-a4eb-939e11d4fd6d",
       "companyName": "Venus ET Fleur"
     }

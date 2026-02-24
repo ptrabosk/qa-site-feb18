@@ -9,7 +9,7 @@
     },
     {
       "name": "Shipping Time",
-      "content": "Our processing time takes 1-2 business days and we usually ship via USPS. Once shipped, it takes 1-3 business days to reach your doorstep if you\u0027re on the East Coast and 3-5 business days for the rest of the country.",
+      "content": "Our processing time takes 1-2 business days and we usually ship via USPS. Once shipped, it takes 1-3 business days to reach your doorstep if you're on the East Coast and 3-5 business days for the rest of the country.",
       "id": "40436da4-dab6-4b54-8a6d-563ffa51e092",
       "shortcut": "shp",
       "companyName": "Boston Scally"
@@ -35,14 +35,14 @@
     },
     {
       "name": "Free shipping",
-      "content": "We don\u0027t currently offer free shipping, but our shipping rates are flat fees based on how quickly you want it shipped.",
+      "content": "We don't currently offer free shipping, but our shipping rates are flat fees based on how quickly you want it shipped.",
       "id": "3d80c2e2-e030-47a0-a7e9-98feccb0ecd1",
       "shortcut": "fs",
       "companyName": "Boston Scally"
     },
     {
       "name": "Where are your caps made / manufactured ?",
-      "content": "They\u0027re made in China but designed in US.",
+      "content": "They're made in China but designed in US.",
       "id": "7869723f-a4bc-4ded-937d-1235a94143a9",
       "shortcut": "mfc",
       "companyName": "Boston Scally"
@@ -68,7 +68,7 @@
     },
     {
       "name": "What is the bill on your caps?",
-      "content": "The bill on all of our caps is 2\u0027\u0027 long.",
+      "content": "The bill on all of our caps is 2'' long.",
       "id": "692d21cd-6e12-4f9b-9d8b-c972731a09f9",
       "companyName": "Boston Scally"
     },
@@ -88,14 +88,14 @@
     },
     {
       "name": "Phone support",
-      "content": "We don\u0027t offer phone support right now but I\u0027d be happy to help you over text, let me know what I can do for you!",
+      "content": "We don't offer phone support right now but I'd be happy to help you over text, let me know what I can do for you!",
       "id": "ec8748bf-f251-4128-bd3d-c19b5904f530",
       "shortcut": "ps",
       "companyName": "Boston Scally"
     },
     {
       "name": "Store location / retailer",
-      "content": "We don\u0027t currently have a store, however we do pop-ups from time to time, so definitely keep an eye out!",
+      "content": "We don't currently have a store, however we do pop-ups from time to time, so definitely keep an eye out!",
       "id": "6a81e332-427f-449d-a52f-f367434b4ff1",
       "shortcut": "sl",
       "companyName": "Boston Scally"
@@ -108,7 +108,7 @@
     },
     {
       "name": "Sizing",
-      "content": "Happy to help you find the right size!  Do you have a tape measure? You can let me know the measurements of your head and I\u0027ll take a look. :)",
+      "content": "Happy to help you find the right size!  Do you have a tape measure? You can let me know the measurements of your head and I'll take a look. :)",
       "id": "817901a3-ab57-4417-833d-fab0e0b26ac5",
       "shortcut": "sz",
       "companyName": "Boston Scally"
@@ -136,7 +136,7 @@
     },
     {
       "name": "Post Purchase Inquiries",
-      "content": "We don\u0027t handle post-purchase requests via text and the fastest way to get help with your order is to email us at info@bostonscally.com. Please let me know if you have any questions about our products, I\u0027m more than happy to help out!",
+      "content": "We don't handle post-purchase requests via text and the fastest way to get help with your order is to email us at info@bostonscally.com. Please let me know if you have any questions about our products, I'm more than happy to help out!",
       "id": "896d0fbd-9dc8-4a9e-95c8-5b44b30c1447",
       "shortcut": "ppi",
       "companyName": "Boston Scally"

@@ -1,0 +1,193 @@
+{
+  "companyKey": "cookie's kids",
+  "templates": [
+    {
+      "name": "How long will it take my refund to appear in my account?",
+      "content": "Once issued, refunds typically take 3-5 business days to post back to your account. This time frame will be determined by your bank/credit card company.",
+      "id": "375d6fd2-3c97-43de-9bab-8939c518d10f",
+      "companyName": "Cookie's Kids"
+    },
+    {
+      "name": "Cancel/edit",
+      "content": "We work very hard to process your order as quickly as possible. In some cases, it may be too late to modify or cancel your order. Give us a call as soon as possible at 877-942-6654 and we'll try our best to help you.",
+      "id": "029df7cb-0643-477f-b6cc-5197ed30f9f8",
+      "shortcut": "ced",
+      "companyName": "Cookie's Kids"
+    },
+    {
+      "name": "Social media",
+      "content": "Give us a follow on IG: https://www.instagram.com/cookieskids/ and FB here: https://www.facebook.com/Cookieskidsfans/",
+      "id": "8a0011d2-0f5a-410b-aa99-b34ad9cb37f2",
+      "shortcut": "smd",
+      "companyName": "Cookie's Kids"
+    },
+    {
+      "name": "Store location",
+      "content": "You can find us at a store near you here: https://www.cookieskids.com/locations.aspx",
+      "id": "f9e039fd-f90b-4cbe-bb79-46386ac2c152",
+      "shortcut": "sl",
+      "companyName": "Cookie's Kids"
+    },
+    {
+      "name": "My order status is \"PS\" - what does that mean?",
+      "content": "\"PS\" stands for processing. If your order status says \"PS\", we're about to charge your card for your order.",
+      "id": "041b103e-d083-43f7-b7c3-0300a51557ec",
+      "companyName": "Cookie's Kids"
+    },
+    {
+      "name": "Can I get my shipping cost refunded?",
+      "content": "In general, we don't refund shipping charges, however, if there was a problem with your order, we may issue a credit for your shipping charge. If you're having any problem with your order, please call us at 877-942-6654.",
+      "id": "abca0778-fb09-4075-b241-587ea713ad6c",
+      "companyName": "Cookie's Kids"
+    },
+    {
+      "name": "Are all of the items available online also available in store?",
+      "content": "Many of the items available online are also available in our stores. If you'd like to check if a specific item is sold in one of our stores, please call your local Cookie's Kids and we'll check for you.",
+      "id": "89dc87c8-76da-4cea-a532-cc84540f6936",
+      "companyName": "Cookie's Kids"
+    },
+    {
+      "name": "How do I get an RMA number?",
+      "content": "If you originally placed your order through our site, you can log in to your account to get your RMA number. Once you submit your request, it may take us up to 1-2 business days to email you the number. As an alternative, you may call us at 877-942-6654 to obtain it. If you originally placed your order on Amazon, you can submit a return request through them, or give us a call instead, and if you originally placed your order through eBay, you can submit a return request through them or email us at customerservice@cookieskids.com to get an RMA number.",
+      "id": "ff7a035e-98d7-477b-ba06-c838f8e69021",
+      "companyName": "Cookie's Kids"
+    },
+    {
+      "name": "Why is my order on hold?",
+      "content": "If we have trouble verifying your order, we may place your order on hold. We may be having trouble verifying your credit card due to an issue with your billing or shipping address. Also, we're unable to verify certain cards issued outside of the US. If your order is on hold, we'll contact you by email and phone if possible.",
+      "id": "d561e345-d795-486c-ac06-0cbef37dbf9c",
+      "companyName": "Cookie's Kids"
+    },
+    {
+      "name": "How do I order for a School or Organization?",
+      "content": "If you're looking to buy school uniforms for your school or organization, you've come to the right place! Please contact our school sales department at sales@cookieskids.com.",
+      "id": "b6c3203a-9475-456d-bd6b-e133808ddac6",
+      "companyName": "Cookie's Kids"
+    },
+    {
+      "name": "Do you offer discounts for wholesale/bulk orders?",
+      "content": "Yes we do! For more information, please give us a call at 718-797-3300 ext. 342 or contact our Sales Department at sales@cookieskids.com.",
+      "id": "42cb123a-c290-412b-bc21-a7607888882c",
+      "shortcut": "wls",
+      "companyName": "Cookie's Kids"
+    },
+    {
+      "name": "Brand ambassador / sponsorship",
+      "content": "Thank you for your interest! The best way to discuss this is to contact us via this link: https://support.cookieskids.com/hc/en-us/requests/new Our team is happy to chat.",
+      "id": "99124d87-dfea-4a90-bc6c-bf3a145fc846",
+      "shortcut": "ams",
+      "companyName": "Cookie's Kids"
+    },
+    {
+      "name": "Rewards",
+      "content": "We have a referral program where you can earn a $10 credit every time one of your friends makes their first purchase over $50. Plus, each friend you invite will receive a $10 credit to spend at CookiesKids.com. Check it out here - https://www.cookieskids.com/Signup.aspx?returnurl=InviteFriends.aspx",
+      "id": "958b0a3a-b42c-4868-83f8-b460fba80a96",
+      "shortcut": "rwd",
+      "companyName": "Cookie's Kids"
+    },
+    {
+      "name": "Sizing",
+      "content": "Happy to help! To get the perfect size, please check out our sizing chart here: https://www.cookieskids.com/size_charts.aspx If you're still unsure, just let me know!",
+      "id": "50151f9a-33aa-4182-a02c-6bc9cd91ebbd",
+      "shortcut": "sz",
+      "companyName": "Cookie's Kids"
+    },
+    {
+      "name": "How can I get exact measurements on an item?",
+      "content": "If the item is available to us, we'd be happy to take measurements for you. Please email the item number and size to customerservice@cookieskids.com and we we'll do our best to get that for you. Regrettably, some items can't be measured and we're sorry about that.",
+      "id": "c2716aff-2dd7-4aa8-bc0f-29eb87ec4f18",
+      "companyName": "Cookie's Kids"
+    },
+    {
+      "name": "Do I have to pay for return shipping?",
+      "content": "If you want to return your item for a refund to the original method of payment, you must either pay for a return label or ship the item(s) back using a carrier of your choosing. Return label fees ($7 per label) will be debited from your refund. If you choose to return it for store credit, you won't have to pay the fee. Exchanges will also be subjected to the $7 fee, unless the item isn't available and store credit is chosen instead of a refund. Please let us know your preference regarding a refund or store credit when requesting your RMA number. All return labels are emailed by USPS, not us. If you've not received your return label after you receive your RMA number, please check your spam folder.",
+      "id": "9e278f92-cf43-491e-8eb6-f4aa101ee616",
+      "companyName": "Cookie's Kids"
+    },
+    {
+      "name": "Phone support",
+      "content": "You can give us a call at 877-942-6654 or let me know if I can help via text, it may be faster.",
+      "id": "e7ee624c-65e7-402c-b8e9-b6e415065827",
+      "shortcut": "ps",
+      "companyName": "Cookie's Kids"
+    },
+    {
+      "name": "Customer support",
+      "content": "The best way to handle this is to contact us via this link: https://support.cookieskids.com/hc/en-us/requests/new, email us at customerservice@cookieskids.com or give us a call at 877-942-6654. Our team is happy to help!",
+      "id": "bbf10747-8756-411f-9d0e-4645eee4b60d",
+      "shortcut": "cs",
+      "companyName": "Cookie's Kids"
+    },
+    {
+      "name": "Free shipping",
+      "content": "We offer free shipping on domestic orders over $75 using the code FREESHIP Maybe you can add something else to reach the min?",
+      "id": "243472ff-6861-4073-876c-14aeadaa9bf3",
+      "shortcut": "fs",
+      "companyName": "Cookie's Kids"
+    },
+    {
+      "name": "Military / First responder / Healthcare / Teacher discount",
+      "content": "Thank you for your service! We don't have any specific discounts like that, but our deals will always be shared with our SMS subscribers or on our website, so keep an eye out!",
+      "id": "c3f10d4d-b94f-4b60-889c-756df61e71a8",
+      "shortcut": "ms",
+      "companyName": "Cookie's Kids"
+    },
+    {
+      "name": "Return policy",
+      "content": "We have a 365-day return policy. Returns can be for a refund, exchange, or store credit. The items must be unworn, unwashed, and with original tags attached. Please note that underwear, socks, and tights, as well as special and custom orders, including embroidered and screen printed items, aren't eligible for a return or exchange. You can also check out our detailed return policy here: https://support.cookieskids.com/hc/en-us/articles/201822949-What-is-CookiesKids-com-return-policy",
+      "id": "37013f39-ef2a-4be9-8fa5-67741fb465f7",
+      "shortcut": "rp",
+      "companyName": "Cookie's Kids"
+    },
+    {
+      "name": "Shipping time",
+      "content": "Orders that don't require embroidery or screen-printing may take up to 1-2 business days to process, but ones that do, require 2-3 weeks to process before they're shipped. Once shipped it'll take 5-10 business days for domestic orders, and 1-3 weeks for international orders. We also offer expedited shipping, if needed.",
+      "id": "324433d1-e342-4434-90d2-6c340984bc21",
+      "shortcut": "shp",
+      "companyName": "Cookie's Kids"
+    },
+    {
+      "name": "Can I return my order to a physical store?",
+      "content": "You can bring your online purchase to a Cookie's retail store within 30 days of purchase for an exchange only. Please make sure to bring your receipt. If you would like a refund, you must go through the normal return process and mail the item back to us.",
+      "id": "c95ab24d-1842-4d6c-9973-58d3118c9410",
+      "companyName": "Cookie's Kids"
+    },
+    {
+      "name": "Can I use your code in physical store?",
+      "content": "Unfortunately, online codes can't be used in-store. We sincerely apologize for any inconvenience this might cause.",
+      "id": "8e093b26-4f34-496c-91b3-ffb3a4fcde0c",
+      "companyName": "Cookie's Kids"
+    },
+    {
+      "name": "Can I use store credit online?",
+      "content": "As long as the store credit was issued online, it can be used online. Store credit obtained in-store cannot be used online.",
+      "id": "c47d5d0e-de2e-454f-a992-147efcb9a79b",
+      "companyName": "Cookie's Kids"
+    },
+    {
+      "name": "Size Chart: Kids - Clothes",
+      "content": "You can take a look at our kids' size chart here: https://www.cookieskids.com/size_charts.aspx",
+      "id": "fbc6f70d-eb92-4cec-ac1d-e117b1ad829f",
+      "companyName": "Cookie's Kids"
+    },
+    {
+      "name": "Sales Collection",
+      "content": "You can take a look at our sale collection here: https://www.cookieskids.com/clearance.aspx",
+      "id": "78d1862c-3878-40b4-be35-7312ca54d8e6",
+      "shortcut": "spg",
+      "companyName": "Cookie's Kids"
+    },
+    {
+      "name": "Payment options",
+      "content": "We accept Visa, MasterCard, Discover, American Express, Military Star, and PayPal.",
+      "id": "c14e2ef3-1bcd-41a5-b0d6-c2797cd11af9",
+      "companyName": "Cookie's Kids"
+    },
+    {
+      "name": "Do you offer embroidery?",
+      "content": "Yes, we do. Due to the unique specifications of each custom order, we cannot offer online pricing. If you would like a personalized quote, call our custom order hotline at (877-942-6654 x342).",
+      "id": "0b155b83-9cf8-4847-a01b-d55e6eda016d",
+      "companyName": "Cookie's Kids"
+    }
+  ]
+}

@@ -1,0 +1,291 @@
+{
+  "companyKey": "tentree",
+  "templates": [
+    {
+      "name": "My item is pilling after washing it is that normal?",
+      "content": "Because our products contain organic and recycled materials, we're unable to add anti-pilling agents/chemicals to them as they would no longer be classified as organic in some cases, and the agents used are often not environmentally friendly.\n\nTo help reduce the risk of pilling, we recommend that you wash your tentree garments inside out in cold water and hang them to dry. You may also want to look into using a sweater stone which can help you remove some of this pilling and give your garment more longevity.",
+      "id": "c81486a4-0f6b-4f4c-a570-47a4bad528cb",
+      "companyName": "Tentree"
+    },
+    {
+      "name": "How much does the Mobius 35L backpack weigh?",
+      "content": "The Mobius 35L Backpack weight is approx 2.2 lbs.",
+      "id": "0e6435cd-1d7f-4af8-bc4d-2e8fc01dd20b",
+      "companyName": "Tentree"
+    },
+    {
+      "name": "Where do you ship from?",
+      "content": "All of our orders ship from Markham, Ontario!",
+      "id": "5a9561e4-b900-420e-bc7e-fa0d490bf656",
+      "companyName": "Tentree"
+    },
+    {
+      "name": "Final Sale",
+      "content": "All sale items are final sale as noted on our product pages, in your cart, and in your order confirmation! If you have a question about a final sale item on your order, please email support@tentree.com and our team would be happy to assist!",
+      "id": "98b817f8-4c5e-44b1-b8ec-c3f21ebde6fa",
+      "companyName": "Tentree"
+    },
+    {
+      "name": "Tax exemption",
+      "content": "We are happy to refund the taxes on your order if you can send through a photo of your status card and your order number!",
+      "id": "ff6b886b-3c58-487b-9643-5ebe3a922493",
+      "companyName": "Tentree"
+    },
+    {
+      "name": "Phone support",
+      "content": "I'm really sorry for the inconvenience. We don't offer phone support right now but let me know if I can help via text, it may be faster.",
+      "id": "e79a7b6b-75d4-495c-b618-eed917df85c3",
+      "shortcut": "ps",
+      "companyName": "Tentree"
+    },
+    {
+      "name": "Brand ambassador / sponsorship",
+      "content": "Thank you for your interest! You can sign up for our affiliate program here - https://www.tentree.com/pages/affiliate",
+      "id": "3daf0ca8-5322-4fe0-b773-15581db845c1",
+      "shortcut": "ams",
+      "companyName": "Tentree"
+    },
+    {
+      "name": "Where are your items made / manufactured?",
+      "content": "All our items are designed in Canada and ethically manufactured around the world.",
+      "id": "ec1fe9ac-b25e-4d7d-9bd9-b214cdcc5ba2",
+      "shortcut": "mfc",
+      "companyName": "Tentree"
+    },
+    {
+      "name": "Wholesale inquiries",
+      "content": "Thank you for your interest! Please fill out this form and our team will contact you as soon as possible: https://www.tentree.com/pages/wholesale-request",
+      "id": "fc039396-c050-437e-92e8-84b7df50eb8b",
+      "shortcut": "wls",
+      "companyName": "Tentree"
+    },
+    {
+      "name": "Is the Linen Offshore Short organic?",
+      "content": "The Linen Offshore Short is made from organic and non-toxic linen, and free from all PFCs.",
+      "id": "d9125278-4f39-4c87-852e-b9a41f25cfaf",
+      "companyName": "Tentree"
+    },
+    {
+      "name": "Rewards / referral",
+      "content": "We have a rewards/referral program where you can earn points to redeem on future purchases. Check it out here - https://www.tentree.com/pages/rewards",
+      "id": "31635da5-4d2f-42a6-857d-04c46e939f0d",
+      "shortcut": "rwd",
+      "companyName": "Tentree"
+    },
+    {
+      "name": "Social media",
+      "content": "Give us a follow on IG: https://www.instagram.com/tentree/ and FB here: https://www.facebook.com/tentree/",
+      "id": "d0b88a48-10bf-4900-9243-ddcc329ede6e",
+      "shortcut": "smd",
+      "companyName": "Tentree"
+    },
+    {
+      "name": "Student discount",
+      "content": "We do offer student discounts! You can learn more and apply for your discount here: https://tentree-us.connect.studentbeans.com/us",
+      "id": "2bef27d1-1dc1-4748-abb7-12e551124138",
+      "companyName": "Tentree"
+    },
+    {
+      "name": "Military / First responder / Healthcare / Teacher discount",
+      "content": "Thank you for your service! We don't have any specific discounts like that, but if it helps, you can check out the items we have on sale here: https://www.tentree.com/collections/sale",
+      "id": "07adbc16-dfba-42e6-8bae-78ababfa75cb",
+      "shortcut": "ms",
+      "companyName": "Tentree"
+    },
+    {
+      "name": "Return Policy",
+      "content": "You can check out our detailed return policy here - https://tentree.attn.tv/sl/GDq_7TCD",
+      "id": "5c500bdc-2a28-47c9-9ca6-724a5bd50476",
+      "shortcut": "rp",
+      "companyName": "Tentree"
+    },
+    {
+      "name": "What do mystery bags contain?",
+      "content": "Our Mystery Bags contain any items from any season from our website in your chosen size. We include 4 clothing items and an accessory. Please note that they don't have any specific theme.",
+      "id": "58195fb2-d1f5-4bd8-a35f-a6bb0dd5a7bd",
+      "companyName": "Tentree"
+    },
+    {
+      "name": "Shipping time",
+      "content": "We use a variety of carriers to deliver parcels and once shipped delivery will typically take 2-7 business days domestically and 2-4 weeks internationally.",
+      "id": "0c3756ba-c5d9-4369-9e62-3812efcc2ae7",
+      "shortcut": "shp",
+      "companyName": "Tentree"
+    },
+    {
+      "name": "Can you apply the discount retroactively?",
+      "content": "The best way to check if the discount can be applied retroactively is to email us at support@tentree.com. Our team is happy to help!",
+      "id": "905c3483-aab4-4415-964f-0bbcc028aa0b",
+      "companyName": "Tentree"
+    },
+    {
+      "name": "How do I redeem my seeds/points?",
+      "content": "To redeem your points, please log into your account and proceed to checkout where you should see a \"Rewards Credit\" line above the \"gift card or discount code\" box. Simply click the blue \"Apply Balance\" button, and the points should apply to your total. If you're using a phone, you'll have to click the \"Show order summary\" arrow to see and apply your rewards balance. If you're still unable to apply your points, you may have been automatically directed to ShopPay! Please \"Checkout as Guest\", and you should then be able to apply your points. If you're still having difficulties, please email support@tentree.com and we'd be happy to help you!",
+      "id": "63ea9fe4-dbe2-4fe2-ad1b-dfa9c59c93af",
+      "companyName": "Tentree"
+    },
+    {
+      "name": "Do you have an app?",
+      "content": "Unfortunately, we don't have an app. We just have our online store and social media.",
+      "id": "99a7d258-a64c-40a1-b765-704f3fc1843b",
+      "companyName": "Tentree"
+    },
+    {
+      "name": "Do you offer gift receipts and gift wrapping/notes?",
+      "content": "Unfortunately, we do not offer a gift wrapping/note service at this time. We also do not issue gift receipts. However, if the giftee would like to return their items, we have a simple gift return process.",
+      "id": "dc112d40-b6d1-4ca6-b081-877ce1ac2199",
+      "companyName": "Tentree"
+    },
+    {
+      "name": "How do I leave a review?",
+      "content": "To write a review for one of our products, simply visit that product's page on our website, scroll down to the Reviews and Questions section and click the \"Write a Review\" button. You can even add photos of your new tentree gear in action, and earn rewards for writing reviews!",
+      "id": "1f9f65e8-8a05-489d-b0f3-c5393c4a6995",
+      "companyName": "Tentree"
+    },
+    {
+      "name": "How do I register the code that came with my Climate+ package?",
+      "content": "Our Climate+ packages automatically register the associated tree code to the email that they were purchased under!",
+      "id": "27bb00bb-8a3a-4112-b2aa-0f1497e8fc64",
+      "companyName": "Tentree"
+    },
+    {
+      "name": "Is the Safari Hat UV-safe and water resistant?",
+      "content": "Our Safari hat is made from recycled polyester and spandex so it will be somewhat water-resistant, but not waterproof. It doesn't have any UV-safe specific properties.",
+      "id": "dfea5a61-77d0-488a-8b8a-647dacddcbf0",
+      "companyName": "Tentree"
+    },
+    {
+      "name": "Do your products shrink?",
+      "content": "All of our items are pre-shrunk, however, since most of our items contain organic cotton, we highly recommend that you wash all your clothing (not just tentree items) inside out in cold water and then hang to dry. This won't only reduce the chances of shrinking, but it's also environmentally friendly and will help to increase the longevity of your items!",
+      "id": "7116b8e8-fc72-42fc-8b47-571d3c5c58a7",
+      "companyName": "Tentree"
+    },
+    {
+      "name": "Sizing",
+      "content": "Our product fits true to size, so if you typically wear a size M in other brands, you would likely enjoy the fit of a size M in our products as well. I'd recommend checking out our sizing chart, so you can measure yourself and see which size will fit you best: https://cdn.shopify.com/s/files/1/2404/6643/files/SS22_Catalogue_IntroPages.pdf?v=1624899140",
+      "id": "d35cbb57-4254-40ca-ade0-fb17e4101514",
+      "shortcut": "sz",
+      "companyName": "Tentree"
+    },
+    {
+      "name": "Customer support",
+      "content": "The best way to handle this is to email us directly at support@tentree.com. Our team is happy to help!",
+      "id": "118beeb3-bd47-4501-bfa4-7092f248af05",
+      "shortcut": "cs",
+      "companyName": "Tentree"
+    },
+    {
+      "name": "Cancel / edit order",
+      "content": "The best way to check if you can cancel or edit your order is to email us directly at support@tentree.com. Our team is happy to help!",
+      "id": "cccc1f3b-6fc9-4030-83a8-924d0525f8c3",
+      "shortcut": "ced",
+      "companyName": "Tentree"
+    },
+    {
+      "name": "How do I register my tree code?",
+      "content": "Each item comes with a hang tag that has a unique QR code. This QR code has your tree code! To register, follow these steps:\n\n1. Hold your phone's camera to the barcode and you should see a prompt come up on the screen to navigate to our website.\n2. After you click to open the webpage in your browser, you will be taken to our tree registry page. There will be a code pre-entered into the text box. Just click \"\"Save your trees\"\" and log in or create an Impact account to register your code to your account!",
+      "id": "f6d426d2-a3f1-47dd-a783-5f79c2f8bff6",
+      "companyName": "Tentree"
+    },
+    {
+      "name": "Can I return items purchased from a retailer?",
+      "content": "We can only accept returns of products that were purchased on our website. If you purchased your Tentree product from a store, then you'll need to arrange your return with that retailer.",
+      "id": "2d5bc7fc-ef6d-4acb-92e3-8bfba90102a1",
+      "companyName": "Tentree"
+    },
+    {
+      "name": "Can I return a mystery bag item?",
+      "content": "Mystery Bags are a final sale item as indicated on the product page. I'm afraid we are unable to offer returns or exchanges for any items included in your Mystery Bag.",
+      "id": "91d84b11-553b-4bf1-a950-ad064693f149",
+      "companyName": "Tentree"
+    },
+    {
+      "name": "What is the Impact Wallet?",
+      "content": "The Impact Wallet is a new feature that we have added for you to track your impact from planting trees! Start by creating an account under the same email associated with your account on our website. As you register tree codes, you'll be able to see a virtual representation of your impact as your island grows. You can also earn achievements, view your offset of carbon emissions, and learn more about the trees that you've planted.",
+      "id": "1e651f82-cbaf-452b-ba37-438fe5ed4fe0",
+      "companyName": "Tentree"
+    },
+    {
+      "name": "How do I start a return?",
+      "content": "You can start your return here: https://returns.tentree.com/",
+      "id": "e4cd24e8-8e4e-4ed1-96f7-5da2232f5b48",
+      "companyName": "Tentree"
+    },
+    {
+      "name": "How soon are trees planted?",
+      "content": "Every three months, we compile the number of trees to be planted and distribute them amongst the countries that have the next closest planting season, the greatest need for trees, and the best conditions for planting. Your trees are planted within 6 months of purchase!",
+      "id": "bda50d3e-c389-4f2b-956b-3ad7da9ed4db",
+      "companyName": "Tentree"
+    },
+    {
+      "name": "When will I receive my refund?",
+      "content": "Different forms of payments have different processing times! Most refunds should be received within 3-8 business days.",
+      "id": "5a42eeb5-e967-4946-b997-9947848d0e7d",
+      "companyName": "Tentree"
+    },
+    {
+      "name": "I have an old token, how do I register my tree?",
+      "content": "If you have an old token with a tree code engraved on it, simply enter the code in the registry box on impact.tentree.com. To navigate to the registry box click \"Your Impact\" in the top menu bar of our webpage. And then the \"Register Trees\" button and a dropdown should open with a text box to enter your code!",
+      "id": "71ea22c6-6336-46a4-80d9-c4880ddb9890",
+      "companyName": "Tentree"
+    },
+    {
+      "name": "Free shipping",
+      "content": "We offer free shipping on domestic orders over $100. Maybe you can add something else to reach the minimum?",
+      "id": "2e2569a2-82d0-4c03-b961-91b42e9eeedc",
+      "shortcut": "fs",
+      "companyName": "Tentree"
+    },
+    {
+      "name": "Store location / retailer",
+      "content": "You can find us at a store near you here: https://www.tentree.com/pages/store-locator",
+      "id": "b16f9a9e-084d-4efb-9f7b-55871bc1c16e",
+      "shortcut": "sl",
+      "companyName": "Tentree"
+    },
+    {
+      "name": "Restock button (autosend enabled)",
+      "content": "I currently don't have the exact date of a possible restock, but I recommend signing up on the product page so you're notified the second it comes back in!",
+      "id": "6f2605ba-2ded-11ed-a261-0242ac120002",
+      "shortcut": "stof",
+      "companyName": "Tentree"
+    },
+    {
+      "name": "Recycled materials/fabrics",
+      "content": "All of our recycled materials are free from any harmful toxins. All of our fabrics are tested for RSLs (restricted substance list) which includes all chemicals and harmful contaminants. Rest assured that we don't use any fabric or dye that doesn't pass our strict RSL requirements.",
+      "id": "dc75bc0d-3e79-4606-8edc-1e7d5ec627b6",
+      "companyName": "Tentree"
+    },
+    {
+      "name": "Is the elastane in your boxer briefs derived from recycled materials?",
+      "content": "The 5% elastane is not derived from recycled materials.",
+      "id": "6c9e3444-f14a-4eb8-9c3c-a8b9d9a745a5",
+      "companyName": "Tentree"
+    },
+    {
+      "name": "Price adjustment",
+      "content": "Thanks for texting in! Unfortunately, I have limited abilities to make adjustments to orders. My suggestion is to email support@tentree.com with your request for the best assistance. Please note, by policy, we do not offer price adjustments but of course, you may email our team with your request.",
+      "id": "a8f0cc11-7339-4791-b790-1caa38eb92c8",
+      "companyName": "Tentree"
+    },
+    {
+      "name": "Sales Collection",
+      "content": "You can take a look at our sale collection here: https://www.tentree.com/collections/accessories-sale?page=1",
+      "id": "55a19bff-2254-4139-af25-6bfc84a0e1ea",
+      "shortcut": "spg",
+      "companyName": "Tentree"
+    },
+    {
+      "name": "Size Chart: All - Clothes",
+      "content": "You can take a look at our size chart here: https://www.tentree.com/pages/fit-guide",
+      "id": "8cfaaca3-37f3-4510-900e-77dabc65c23a",
+      "companyName": "Tentree"
+    },
+    {
+      "name": "How do I return a gift?",
+      "content": "You can start your gift return here: https://returns.tentree.com/gift-return",
+      "id": "4366e859-75f6-4908-a625-9635a2186fdc",
+      "companyName": "Tentree"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "companyKey": "gbny",
+  "templates": [
+    {
+      "name": "Wholesale inquiries",
+      "content": "Thank you for your interest! The best way to discuss wholesale is to email us directly at order@gbny.com. Our team is happy to chat.",
+      "id": "4f73bf0c-70a4-4333-b230-3b870410b206",
+      "shortcut": "wls",
+      "companyName": "GBNY"
+    },
+    {
+      "name": "Customer support",
+      "content": "The best way to handle this is to email us directly at order@gbny.com. Our team is happy to help!",
+      "id": "7d2a51f3-4116-4fd0-b298-5e7cc4ca5494",
+      "shortcut": "cs",
+      "companyName": "GBNY"
+    },
+    {
+      "name": "Brand ambassador / sponsorship / affiliate program",
+      "content": "Thank you for your interest! The best way to discuss this is to email us directly at order@gbny.com. Our team is happy to chat.",
+      "id": "a0b1edd4-6f89-45a3-a65e-446508c04674",
+      "shortcut": "ams",
+      "companyName": "GBNY"
+    },
+    {
+      "name": "Cancel / edit order",
+      "content": "The best way to check if you can cancel or edit your order is to email us at order@gbny.com. Our team is happy to help!",
+      "id": "129d1705-6cd0-47cc-92ee-764f1c7fdac4",
+      "shortcut": "ced",
+      "companyName": "GBNY"
+    },
+    {
+      "name": "How do I start a return?",
+      "content": "You can start your return here: https://returns.uturn.shop/returns/GBNY",
+      "id": "e24f2f07-f4e2-4c48-ac23-a2227d295270",
+      "companyName": "GBNY"
+    },
+    {
+      "name": "Sizing (shoes)",
+      "content": "Happy to help you find the right size! Our shoes generally run true to size. Would you mind sharing your usual size? You can also take a look at our size chart here: https://gbny.com/pages/size-chart",
+      "id": "ef788bba-67ae-406c-a7ef-4ab9a48dd1a1",
+      "shortcut": "sz",
+      "companyName": "GBNY"
+    },
+    {
+      "name": "Store Location",
+      "content": "With four separate locations in New York, we welcome you to come and visit us to see what we have to offer. Rest assured, you will not be disappointed. In all our stores we make it our goal to ensure that you, as the customer, have the best ever possible experience while you're here. Between all four stores we're open 7 days a week, so you know you can always count on GB's to be open the day you most need us. You can check out our stores and fetch their contact information here: https://gbny.com/pages/ts",
+      "id": "7f2da9fa-b164-46be-b853-e96b0330f532",
+      "shortcut": "sl",
+      "companyName": "GBNY"
+    },
+    {
+      "name": "Sizing (clothes)",
+      "content": "Happy to help you find the right size! Our clothes generally run true to size. Would you mind sharing your usual size?",
+      "id": "b6afba78-8ba7-45f4-9e38-1ceb0933be43",
+      "companyName": "GBNY"
+    },
+    {
+      "name": "Return policy",
+      "content": "You can check out our detailed return policy here: https://gbny.com/pages/refund-policy",
+      "id": "b85f51a8-c11f-4c14-a0ad-c76eea2c1d6e",
+      "shortcut": "rp",
+      "companyName": "GBNY"
+    },
+    {
+      "name": "Rewards / referral",
+      "content": "We have a rewards/referral program where you can earn points to redeem on future purchases. Check it out here - https://gbny.com/pages/rewards",
+      "id": "3dc614de-5fef-4827-9b88-e71ab748c787",
+      "shortcut": "rwd",
+      "companyName": "GBNY"
+    },
+    {
+      "name": "Free shipping",
+      "content": "We don't currently offer free shipping, but all promos will always be shared with our SMS subscribers or on our website, so keep an eye out!",
+      "id": "3518e5d3-9d67-4a28-a70f-fc1445c19242",
+      "shortcut": "fs",
+      "companyName": "GBNY"
+    },
+    {
+      "name": "Phone support",
+      "content": "You can give us a call at 1-877-746-7427 or let me know if I can help via text, it may be faster.",
+      "id": "945df31a-4f10-490a-9ec9-45866dc2a68e",
+      "shortcut": "ps",
+      "companyName": "GBNY"
+    },
+    {
+      "name": "Shipping time",
+      "content": "Orders are processed the same day if ordered by 4 pm EST. All orders placed after 4 pm are processed and shipped within 3 business days. Delivery times will depend on the shipping method selected at checkout.",
+      "id": "064e87dd-ef6a-43cc-99e8-3c363f9bb3d6",
+      "shortcut": "shp",
+      "companyName": "GBNY"
+    },
+    {
+      "name": "How do I enter the raffle?",
+      "content": "You can enter the raffle here: https://gbny.com/pages/raffle",
+      "id": "f1827609-6152-488b-ae45-3c054b036b6a",
+      "companyName": "GBNY"
+    },
+    {
+      "name": "Military / First responder / Healthcare / Teacher discount",
+      "content": "Thank you for your service! We don't have any specific discounts like that but if it helps, you can check out the items we have on sale here: https://gbny.com/pages/search-results-page?collection=mothers-day-sale",
+      "id": "df1c5d98-c625-4cca-8c10-1ccd7bbfb3e0",
+      "shortcut": "ms",
+      "companyName": "GBNY"
+    },
+    {
+      "name": "Social media",
+      "content": "Give us a follow on IG: https://www.instagram.com/gbny/ and FB here: https://www.facebook.com/gbny123",
+      "id": "837b4234-e2a8-49af-89f0-75f843d96d7e",
+      "shortcut": "smd",
+      "companyName": "GBNY"
+    },
+    {
+      "name": "Size Chart: All - Clothes",
+      "content": "You can take a look at our size chart here: https://gbny.com/pages/size-chart",
+      "id": "1cc4a4ee-2e20-492f-a8a8-fa44e88c46eb",
+      "companyName": "GBNY"
+    },
+    {
+      "name": "Sales Collection",
+      "content": "You can take a look at our sale collection here: https://gbny.com/collections/valentines-day-sale",
+      "id": "374ae254-c800-4591-b1bd-4d86e51584cc",
+      "shortcut": "spg",
+      "companyName": "GBNY"
+    }
+  ]
+}

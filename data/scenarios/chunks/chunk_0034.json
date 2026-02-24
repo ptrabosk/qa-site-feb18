@@ -3,597 +3,71 @@
   "chunk": "chunk_0034",
   "scenarios": {
     "166": {
-      "agentName": "Sarah",
-      "id": "019c4976-7917-4dfa-f000-00003f15adbf",
-      "rightPanel": {
-        "source": {
-          "label": "Website",
-          "value": "https://alabasterco.com",
-          "date": ""
-        }
-      },
-      "companyWebsite": "https://alabasterco.com",
-      "companyName": "Alabaster Co",
-      "notes": {
-        "escalate": [
-          "ESC if you\u0027re unclear about which recommendation to make regarding bible books/study options"
-        ],
-        "send_to_cs": [
-          "Send to CS for payment related inquiries",
-          "Send to CS for post purchase issues, use PPI shortcut"
-        ],
-        "tone": [
-          "Don\u0027t send long messages, just summarise or send a link",
-          "Don\u0027t talk about financial situations or opinions about our pricing",
-          "Don\u0027t reply to journey replies or critiques about the content in the automated messages, close the convo"
-        ],
-        "drive_to_purchase": [
-          "There is a bundle for bible covers for a collection of hardcover titles"
-        ],
-        "promo_and_exclusions": [
-          "If cx receives a message about an insider promo code, and the customer responds positively, share with them code GQ8Y3N for 20% off"
-        ]
-      },
-      "blocklisted_words": [
-        "gotcha",
-        "shoot",
-        "I’mafraid",
-        "afraid"
-      ],
-      "escalation_preferences": [
-        "Q\u0027s on book recommendations",
-        "Post-Purchase conversations should be directed to\\xa0help@alabasterco.com - not escalated!"
-      ],
+      "id": "019c7319-2f6d-4065-f000-00009f270025",
+      "companyName": "LensDirect",
+      "companyWebsite": "https://lensdirect.com",
+      "agentName": "Elaine",
       "messageTone": "Polished",
       "conversation": [
         {
+          "message_media": [],
+          "message_text": "LensDirect: Reply Y to subscribe to recurring automated personalized marketing alerts (e.g. cart reminders) from LensDirect.",
           "message_type": "system",
-          "message_text": "Alabaster Co: Don\u0027t wait to save: 25% off all Bible study books \u0026 sets ends soon. Shop bestsellers while the sale is still here.\n\nShop now: alabasterco.attn.tv/a3la6jcsybuG \n",
-          "date_time": "2026-01-15 12:15:59.489",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-17 07:39:36.580"
         },
         {
+          "message_media": [],
+          "message_text": "LensDirect: Welcome! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
           "message_type": "system",
-          "message_text": "Alabaster Co: Ends tomorrow: 25% off all Bible studies. Make space to slow down \u0026 reflect this new year with short, guided daily readings designed to pair with your Bible.\n\nSecure your savings now: alabasterco.attn.tv/aocNOLNjMcHw \n",
-          "date_time": "2026-01-22 12:15:51.045",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-17 07:39:53.569"
         },
         {
+          "message_media": [],
+          "message_text": "LensDirect: Welcome. Get 20% off contacts + 25% off eyewear and lens replacement with code F0E9D4846C \n\nShop here! lensdirect.attn.tv/avmek5loe0LV ",
           "message_type": "system",
-          "message_text": "Alabaster Co: We know that people love gifting our products. Who are you shopping for?\n\n1 for My Loved Ones\n2 for Myself\n3 for Both\n4 for A Church or School Group",
-          "date_time": "2026-01-25 13:46:32.681",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-17 07:39:57.572"
         },
         {
+          "message_media": [],
+          "message_text": "LensDirect: Save our contact for exclusive offers!",
           "message_type": "system",
-          "message_text": "Alabaster Co: Lent begins Feb 18. ✨ Prepare and stay present each week with our Lent Pairing: Lent devotional + The 7 Last Sayings of Jesus.\n\nShop now: alabasterco.attn.tv/aEVf-oQ-wVbk \n",
-          "date_time": "2026-02-03 12:15:33.885",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-17 07:39:57.889"
         },
         {
+          "message_media": [],
+          "message_text": "LensDirect: Hi, Elaine here! It looks like you left some items in your cart - use 8A344D6A6B to save 20% on contacts and 30% on eyewear and lens replacement!\n\nText back if you have any questions!",
           "message_type": "system",
-          "message_text": "Alabaster Co: Tomorrow\u0027s the last day for Valentine\u0027s Day delivery. 💌 Order now to get your faith-filled gifts in time for Feb. 14.\n\nShop Valentine\u0027s gifts: alabasterco.attn.tv/aQIrwetFrSEI \n",
-          "date_time": "2026-02-10 11:45:30.831",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-18 12:54:28.114"
         },
         {
-          "message_type": "system",
-          "message_text": "Alabaster Co: Hey Addy! Thanks for stopping by. alabasterco.attn.tv/advg4NGU5L-9 Are you looking for a gift for someone special? - Sarah ",
-          "date_time": "2026-02-10 15:21:16.494",
-          "message_media": [
-            
-          ]
-        },
-        {
+          "message_media": [],
+          "message_text": "Found the same glasses with same lenses for $300 less elsewhere!!!",
           "message_type": "customer",
-          "message_text": "I was checking on an order I made",
-          "date_time": "2026-02-10 15:48:10.255",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-18 18:25:01.382"
         },
         {
-          "message_id": "019c4950-2fe4-41fb-f000-00003f15adbf",
-          "message_text": "Alabaster Co: You can check your order status here: https://alabasterco.attn.tv/aQSo4TDl7i3D",
-          "message_type": "agent",
-          "agent": "62551",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-10 15:48:37.880"
-        },
-        {
-          "message_type": "customer",
-          "message_text": "I tried but nothing showed. I placed the order in December and I was charged but still haven\u0027t received any updates.",
-          "date_time": "2026-02-10 16:25:40.136",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "template",
-          "message_text": "Template used: \"Post purchase issues\"; last updated: 2022-09-23 16:59:42.391",
-          "date_time": "2026-02-10 16:30:26.992",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c4976-7917-4dfa-f000-00003f15adbf",
-          "message_text": "Alabaster Co: Thank you for getting back to me and providing that information! I\u0027m really sorry to hear about that. Please email us directly at help@alabasterco.com with your order number. Someone from our team will be happy to help you with this.",
+          "message_media": [],
+          "message_text": "LensDirect: Thanks for getting in touch! I'm really sorry to hear about that. Our goal is to always make you happy when it comes to price. So, if you happen to find a lower price on your contact lenses, we'll match it. To get your discount, just call or email us at info@lensdirect.com after you complete your online order, and we'll refund the difference. Include your order number and a link to the lower price. Please note that we won't price match promotions, only on a per box price. Also, we'll only do price matching on reputable retailers such as 1-800CONTACTS.com, VisionDirect.com, Walgreens.com and Coastal.com.",
           "message_type": "agent",
           "agent": "109840",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-10 16:30:26.994"
+          "message_id": "019c7315-25fd-4bb5-f000-00009f270025",
+          "date_time": "2026-02-18 18:28:11.802"
+        },
+        {
+          "message_media": [],
+          "message_text": "Contact lenses? I said glasses.",
+          "message_type": "customer",
+          "date_time": "2026-02-18 18:29:41.122"
+        },
+        {
+          "message_media": [],
+          "message_text": "LensDirect: I'm sorry for the confusion! I'm afraid that we only price match contact lenses at this time. ",
+          "message_type": "agent",
+          "agent": "87310",
+          "message_id": "019c7319-2f6d-4065-f000-00009f270025",
+          "date_time": "2026-02-18 18:32:36.366"
         }
-      ]
-    },
-    "167": {
-      "agentName": "Miles",
-      "id": "019c43fd-f0e9-41f7-f000-0000cc6b4755",
-      "rightPanel": {
-        "browsingHistory": [
-          {
-            "link": "https://bonobos.com/products/jetsetter-italian-seersucker-blazer?color=blue%20white%20seersucker",
-            "item": "Jetsetter Italian Seersucker Blazer",
-            "timeAgo": "2026-01-25"
-          },
-          {
-            "link": "https://bonobos.com/products/jetsetter-italian-brushed-cotton-blazer?color=olive%20green",
-            "item": "Jetsetter Italian Brushed Cotton Blazer",
-            "timeAgo": "2026-01-25"
-          },
-          {
-            "link": "https://bonobos.com/products/unconstructed-italian-wool-blazer?color=blue%20glen%20plaid",
-            "item": "Jetsetter Unconstructed Italian Wool Blazer",
-            "timeAgo": "2026-01-25"
-          },
-          {
-            "link": "https://bonobos.com/products/jetsetter-italian-flannel-blazer?color=light%20olive%20green",
-            "item": "Jetsetter Italian Brushed Wool Blazer",
-            "timeAgo": "2026-01-25"
-          },
-          {
-            "link": "https://bonobos.com/products/jetsetter-italian-brushed-cotton-blazer?color=olive%20green\u0026blazerSize=40s\u0026blazerFit=slim",
-            "item": "Jetsetter Italian Brushed Cotton Blazer",
-            "timeAgo": "2026-01-24"
-          }
-        ],
-        "source": {
-          "label": "Website",
-          "value": "https://bonobos.com",
-          "date": ""
-        }
-      },
-      "companyWebsite": "https://bonobos.com",
-      "companyName": "Bonobos",
-      "notes": {
-        "tone": [
-          "Close journey replies asking customers to text in their birthday to receive a gift"
-        ],
-        "dos_and_donts": [
-          "Offer help if the customer replies back to the automated message with number 0"
-        ],
-        "templates": [
-          "For checkout issues use COI shortcut",
-          "If the site doesn\u0027t accept the customers payment method use PME shortcut"
-        ],
-        "promo_and_exclusions": [
-          "The welcome code can be applied to discounted items",
-          "For issues with the code GETSTARTED15 use GSE shortcut",
-          "The 20% off welcome offer will automatically be added at checkout for their first order"
-        ]
-      },
-      "blocklisted_words": [
-        
       ],
-      "escalation_preferences": [
-        
-      ],
-      "messageTone": "Polished",
-      "conversation": [
-        {
-          "message_type": "system",
-          "message_text": "Bonobos: Reply Y to subscribe to recurring automated personalized marketing alerts (e.g. cart reminders) from Bonobos.",
-          "date_time": "2026-01-23 15:46:43.984",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Bonobos: Reply Y to subscribe to recurring automated personalized marketing alerts (e.g. cart reminders) from Bonobos.",
-          "date_time": "2026-01-23 15:55:50.267",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Bonobos: Welcome! Msg \u0026 data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel. Privacy: attnl.tv/p/eEr",
-          "date_time": "2026-01-23 17:27:50.485",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Bonobos: Congratulations! We might be biased, but we think you just signed up for the best text alerts in the game 😎 To put money where our mouth is, here\u0027s a coupon code for 20% off your first order - hello20_eshnjd ! Welcome to Bonobos! \n\nGet Your 20% Off Now: bonobos.attn.tv/acvg5Hb_iLxz \n\nTerms apply. ",
-          "date_time": "2026-01-23 17:27:51.915",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Bonobos: Oh, also, a lot of people like getting personal recs from us. Over the next few days we\u0027ll try to help you find something that you will love.\n\nReady for a style upgrade? Take a look at the newest arrivals and see what you discover: https://bonobos.attn.tv/aLcSQFyTzCy0 .",
-          "date_time": "2026-01-23 17:28:56.777",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Bonobos: Complete your purchase of Jetsetter Italian Brushed Cotton Blazer\n\nUse code hello20_eshnjd for 20% off your order.\n\nDiscover more: https://bonobos.attn.tv/an_b1lUjpWaR .",
-          "date_time": "2026-01-23 17:39:05.211",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Bonobos: Thank you for your purchase! We\u0027re getting your order ready and will be in touch via email with more details. If you have any questions, don\u0027t hesitate to reach out - we\u0027re here to help!\n \nForget something you wanted?\nbonobos.attn.tv/aMkjE6fS4zIM \n\nCheck Your Order Status: \nbonobos.attn.tv/akYjP4Es1OVR ",
-          "date_time": "2026-01-24 12:22:15.325",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Bonobos: Our biggest sale ever is about to take a bow tomorrow! You really don\u0027t want to miss these jaw-dropping discounts. Get in there before it\u0027s too late!\n\nShop Deepest Discounts: bonobos.attn.tv/ajNXfkrvuDKF ",
-          "date_time": "2026-01-24 15:12:07.997",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Bonobos: Hey, thanks for stopping by!\n\nThis look is for you: https://bonobos.attn.tv/aYOI1dO-V7d1 .",
-          "date_time": "2026-01-25 11:36:59.491",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Bonobos: Check out Jetsetter Italian Seersucker Blazer — smart, breathable, and made to move.\n\n5.1K people have recently viewed it.\n\nThis look is for you: https://bonobos.attn.tv/arwER68Ygw9C .",
-          "date_time": "2026-01-25 14:22:26.119",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Bonobos: Hey hey! If you have any questions, don\u0027t hesitate to reach out. We\u0027re always ready to help.\n\nVisit bonobos.attn.tv/aZse56pmz8d0 for order help, or hit us back here for some product and style tips.",
-          "date_time": "2026-01-27 12:22:22.755",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Bonobos: New pants just hit the shelves! The pleated original chino brings back classic vibes, while our 5-pocket style merges jeans with stretch chino comfort. The Chino 2.0 is ready for spring too! Don\u0027t miss out on these fresh styles!\n\nShop New Pants: bonobos.attn.tv/aXgtMM6-j-iD ",
-          "date_time": "2026-02-02 08:03:15.392",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Bonobos: Thanks again for your recent purchase! Want a discount on another one? (Of course you do.) Reply FRIENDS to learn how you and your friends can all get 25% off their Bonobos best.\n\nGot questions about your order? You can also hit us up here!\n\nCheck out New Arrivals: bonobos.attn.tv/ajorXITmPHz4 ",
-          "date_time": "2026-02-03 12:22:29.262",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Bonobos: Weather got you feeling confused? Our new jackets and coats are here to tackle whatever the forecast throws at you. Grab your favorite before they vanish!\n\nShop Now: bonobos.attn.tv/aqqOUhV_qJ_p ",
-          "date_time": "2026-02-06 08:14:14.703",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "Hi can you please check on my order? It was supposed to arrive on Jan 30th but still isn’t here 🥹",
-          "date_time": "2026-02-06 16:57:44.845",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c34f7-6b98-4577-f000-0000cc6b4755",
-          "message_text": "Bonobos: Thank you for sending that over, and I\u0027m really sorry for the inconvenience. Could you please share your email address and confirm the order number? I\u0027ll be happy to look into this with my team!",
-          "message_type": "agent",
-          "agent": "87592",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-06 16:59:16.151"
-        },
-        {
-          "message_type": "customer",
-          "message_text": "Thank you! My email is buffalomatt@gmail.com",
-          "date_time": "2026-02-06 17:04:04.775",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c350e-436e-430d-f000-0000cc6b4755",
-          "message_text": "Bonobos: I\u0027m sorry, but could you also provide me with your order number?\n",
-          "message_type": "agent",
-          "agent": "39001",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-06 17:24:13.200"
-        },
-        {
-          "message_type": "customer",
-          "message_text": "Sure!\n\n329820399",
-          "date_time": "2026-02-06 17:29:44.816",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c351a-2bb8-4a19-f000-0000cc6b4755",
-          "message_text": "Bonobos: Thanks for the info! I will pass this along to my team and get back to you as soon as possible. Hang tight!",
-          "message_type": "agent",
-          "agent": "87592",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-06 17:37:13.562"
-        },
-        {
-          "message_type": "customer",
-          "message_text": "Thanks!!",
-          "date_time": "2026-02-06 17:45:54.809",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c3524-d9e0-4d2c-f000-0000cc6b4755",
-          "message_text": "Bonobos: You\u0027re welcome!\n",
-          "message_type": "agent",
-          "agent": "39001",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-06 17:48:53.497"
-        },
-        {
-          "message_type": "system",
-          "message_text": "Bonobos: New Chinos just dropped! Two new styles, two different vibes, both fit great and look even better. \n\nCheck out our new 5-Pocket Chino 2.0 and The Original Pleated Chino:\nhttps://bonobos.attn.tv/a99oPkeZ9HSa",
-          "date_time": "2026-02-07 08:08:33.250",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c3e7d-a830-447e-f000-0000cc6b4755",
-          "message_text": "Bonobos: Thanks for your patience! I just heard from the team and the package was transferred to USPS with tracking number 92612903616278571007010775. Let me know if you have any more questions or need help with anything else; I\u0027m here! ",
-          "message_type": "agent",
-          "agent": "27727",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-08 13:22:28.431"
-        },
-        {
-          "message_type": "customer",
-          "message_text": "Thanks though I already have this tracking number from the delivery and it just still says the same thing that they don’t know where the package is 🥹🥹🥹",
-          "date_time": "2026-02-08 17:36:47.942",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c3f82-af7c-4cf5-f000-0000cc6b4755",
-          "message_text": "Bonobos: I\u0027m sorry to hear that. I highly suggest contacting the courier to check what happened with your package. I apologize for the inconvenience.",
-          "message_type": "agent",
-          "agent": "48804",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-08 18:07:35.191"
-        },
-        {
-          "message_type": "customer",
-          "message_text": "I already have! That’s why I contacted you",
-          "date_time": "2026-02-08 18:10:45.128",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "In the first place",
-          "date_time": "2026-02-08 18:10:55.146",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c3f97-1b03-4c77-f000-0000cc6b4755",
-          "message_text": "Bonobos: Thanks for letting me know. I want to make sure I give you the most accurate information, so I\u0027ll check in with my team. Since it\u0027s the weekend, I may not hear back until Monday, but I\u0027ll be sure to follow up with you as soon as I do! \n\nPlease hang tight. ",
-          "message_type": "agent",
-          "agent": "48008",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-08 18:29:53.448"
-        },
-        {
-          "message_type": "customer",
-          "message_text": "Thank you for your help 🙏",
-          "date_time": "2026-02-09 14:56:47.504",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "I got this email a little while ago but I don’t understand what’s happening now?",
-          "date_time": "2026-02-09 14:57:07.545",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c43fd-f0e9-41f7-f000-0000cc6b4755",
-          "message_text": "Bonobos: I\u0027m so sorry for the confusion! Allow me to check this with my team, too. I\u0027ll let you know as soon as I receive an update.",
-          "message_type": "agent",
-          "agent": "109964",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-09 15:00:41.751"
-        }
-      ]
-    },
-    "168": {
-      "agentName": "Sarah",
-      "id": "019c44c1-dee8-43eb-f000-0000b4c219fd",
-      "rightPanel": {
-        "source": {
-          "label": "Website",
-          "value": "https://brooklyncandlestudio.com",
-          "date": ""
-        }
-      },
-      "companyWebsite": "https://brooklyncandlestudio.com",
-      "companyName": "Brooklyn Candle Studio",
-      "notes": {
-        "dos_and_donts": [
-          "Use VPN when accessing the site!"
-        ]
-      },
-      "blocklisted_words": [
-        
-      ],
-      "escalation_preferences": [
-        
-      ],
-      "messageTone": "Casual",
-      "conversation": [
-        {
-          "message_type": "system",
-          "message_text": "Brooklyn Candle Studio: Welcome to Brooklyn Candle Studio! Msg \u0026 data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
-          "date_time": "2026-02-09 18:31:58.493",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Brooklyn Candle Studio: Welcome in! Our botanical fragrances are inspired by nature, travel, \u0026 fond memories. \n\nReady to spark joy? Take 20% off your order with code SMS-trbkrn .\n\nSHOP NOW: https://brooklyncandle.attn.tv/am_qm1S6P9LA ",
-          "date_time": "2026-02-09 18:32:03.413",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "Am I able to cancel a subscription order that went through today. I don\u0027t think I\u0027m going to like the candle of the month and did not see an email prior to the order processing.",
-          "date_time": "2026-02-09 18:32:55.316",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "Order #268305",
-          "date_time": "2026-02-09 18:33:45.408",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "template",
-          "message_text": "Template used: \"Cancel / edit order \"; last updated: 2022-10-02 18:23:09.868",
-          "date_time": "2026-02-09 18:34:42.179",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c44c1-dee8-43eb-f000-0000b4c219fd",
-          "message_text": "Brooklyn Candle Studio: Thanks for reaching out! I can check if that\u0027s possible. What\u0027s the email address and the change you\u0027d like to make? I would be happy to bring this forward with my team.",
-          "message_type": "agent",
-          "agent": "109617",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-09 18:34:42.181"
-        }
-      ]
-    },
-    "169": {
-      "agentName": "Elaine",
-      "id": "019c7319-2f6d-4065-f000-00009f270025",
-      "rightPanel": {
-        "browsingHistory": [
-          {
-            "link": "https://www.lensdirect.com/contact-lens-protection-plan",
-            "item": "Contact Lens Protection Plan",
-            "timeAgo": "2026-02-18"
-          },
-          {
-            "link": "https://www.lensdirect.com/prism",
-            "item": "Prism",
-            "timeAgo": "2026-02-17"
-          },
-          {
-            "link": "https://www.lensdirect.com/split-shot-oo9416-64mm-matte-black",
-            "item": "Split Shot OO9416 64mm - Matte Black",
-            "timeAgo": "2026-02-17"
-          },
-          {
-            "link": "https://www.lensdirect.com/split-shot-oo9416-64mm-matte-black",
-            "item": "Split Shot OO9416 64mm - Matte Black",
-            "timeAgo": "2026-02-17"
-          },
-          {
-            "link": "https://www.lensdirect.com/split-shot-oo9416-64mm-matte-black",
-            "item": "Split Shot OO9416 64mm - Matte Black",
-            "timeAgo": "2026-02-17"
-          }
-        ],
-        "source": {
-          "label": "Website",
-          "value": "https://lensdirect.com",
-          "date": ""
-        }
-      },
-      "companyWebsite": "https://lensdirect.com",
-      "companyName": "LensDirect",
       "notes": {
         "send_to_cs": [
           "Send to CS for post purchase issues, use PPI shortcut"
@@ -602,9 +76,40 @@
           "For medical inquiries about contacts or lens replacement use MQ shortcut"
         ]
       },
-      "blocklisted_words": [
-        
-      ],
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://lensdirect.com",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "Contact Lens Protection Plan",
+            "link": "https://www.lensdirect.com/contact-lens-protection-plan",
+            "timeAgo": "2026-02-18"
+          },
+          {
+            "item": "Prism",
+            "link": "https://www.lensdirect.com/prism",
+            "timeAgo": "2026-02-17"
+          },
+          {
+            "item": "Split Shot OO9416 64mm - Matte Black",
+            "link": "https://www.lensdirect.com/split-shot-oo9416-64mm-matte-black",
+            "timeAgo": "2026-02-17"
+          },
+          {
+            "item": "Split Shot OO9416 64mm - Matte Black",
+            "link": "https://www.lensdirect.com/split-shot-oo9416-64mm-matte-black",
+            "timeAgo": "2026-02-17"
+          },
+          {
+            "item": "Split Shot OO9416 64mm - Matte Black",
+            "link": "https://www.lensdirect.com/split-shot-oo9416-64mm-matte-black",
+            "timeAgo": "2026-02-17"
+          }
+        ]
+      },
       "escalation_preferences": [
         "Shipping questions",
         "Sizing questions",
@@ -615,89 +120,565 @@
         "online vision test",
         "prescription questions"
       ],
+      "blocklisted_words": [],
+      "has_shopify": false
+    },
+    "167": {
+      "id": "019c48a5-f719-4ac5-f000-0000f801fba4",
+      "companyName": "Venus ET Fleur",
+      "companyWebsite": "https://venusetfleur.com",
+      "agentName": "Megan",
       "messageTone": "Polished",
       "conversation": [
         {
+          "message_media": [],
+          "message_text": "Venus et Fleur: Welcome! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
           "message_type": "system",
-          "message_text": "LensDirect: Reply Y to subscribe to recurring automated personalized marketing alerts (e.g. cart reminders) from LensDirect.",
-          "date_time": "2026-02-17 07:39:36.580",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-05 11:09:22.256"
         },
         {
+          "message_media": [],
+          "message_text": "Venus et Fleur: Welcome! I'm Katie, your personal concierge. I would love to assist you today. I've arranged for Complimentary Standard Shipping on your first order with the code 3X46WCQD. \n\nDiscover our garden of Real Flowers That Last A Year: \nhttps://venusetfleur.attn.tv/at0Z5wOJ5lXb ",
           "message_type": "system",
-          "message_text": "LensDirect: Welcome! Msg \u0026 data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
-          "date_time": "2026-02-17 07:39:53.569",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-05 11:09:26.216"
         },
         {
+          "message_media": [],
+          "message_text": "Venus et Fleur: Don't forget to save our contact information:",
           "message_type": "system",
-          "message_text": "LensDirect: Welcome. Get 20% off contacts + 25% off eyewear and lens replacement with code F0E9D4846C \n\nShop here! lensdirect.attn.tv/avmek5loe0LV ",
-          "date_time": "2026-02-17 07:39:57.572",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-05 12:20:07.069"
         },
         {
+          "message_media": [],
+          "message_text": "Venus et Fleur: Hello ! This is Megan from Venus et Fleur. I noticed a selection of our Eternity® florals caught your eye, and I would love to assist you. \n\nI've arranged for you to have Complimentary Standard Shipping with code: 3X46WCQD. Here's a link to your cart: venusetfleur.attn.tv/a1dvZkB32PoV .",
           "message_type": "system",
-          "message_text": "LensDirect: Save our contact for exclusive offers!",
-          "date_time": "2026-02-17 07:39:57.889",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-05 12:32:19.494"
         },
         {
+          "message_media": [],
+          "message_text": "Venus et Fleur: Carefully harvested at their peak from our farms in Ecuador and Japan, each floral undergoes a delicate preservation process, maintaining its natural beauty and scent for a year or longer. \n\nPlease feel free to use my exclusive gift to you 3X46WCQD at checkout for Complimentary Shipping on your first order of Eternity® blooms \nhttps://venusetfleur.attn.tv/af7RxQA8pzMC \n\n-Katie",
           "message_type": "system",
-          "message_text": "LensDirect: Hi, Elaine here! It looks like you left some items in your cart - use 8A344D6A6B to save 20% on contacts and 30% on eyewear and lens replacement!\n\nText back if you have any questions!",
-          "date_time": "2026-02-18 12:54:28.114",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-06 12:20:14.377"
         },
         {
+          "message_media": [],
+          "message_text": "Venus et Fleur: [Only 2 Units Left!] The all-new Grandiose Le Plein with Eternity® Mixed Florals has arrived for Valentine's Day, taking over 5 hours to craft. \n\nStanding at an impressive 3 feet tall, this EXTRAORDINARY GIFT is larger-than-life, and a true reflection of the lengths one will go for loved ones. \n\nOrder today: venusetfleur.attn.tv/aUJejDwZAq24 \nHand delivered only in the TriState Area. For delivery exceptions, email concierge@venusetfleur.com. ",
+          "message_type": "system",
+          "date_time": "2026-02-07 17:30:14.356"
+        },
+        {
+          "message_media": [],
+          "message_text": "Venus et Fleur: 🌹 Guaranteed Get it in time for Valentine's Day Delivery. \nBecause there is still time for the big day! Give the gift that lasts with Real Flowers That Last A Year. \n\nPlace your order today for on-time delivery. ⏰ venusetfleur.attn.tv/ab1N32xWcGqd \n ",
+          "message_type": "system",
+          "date_time": "2026-02-07 17:40:18.233"
+        },
+        {
+          "message_media": [],
+          "message_text": "Venus et Fleur: The clock is ticking ⏰ Valentine's Day is just 5 DAYS AWAY. \n\nReal Flowers That Last A Year = a GUARANTEED win. 🌹🏈 Shop now: venusetfleur.attn.tv/ah5Zz1uxY7ac \n\n",
+          "message_type": "system",
+          "date_time": "2026-02-08 15:01:04.899"
+        },
+        {
+          "message_media": [],
+          "message_text": "Venus et Fleur: Hello ! This is Megan from Venus et Fleur. I noticed a selection of our Eternity® florals caught your eye, and I would love to assist you. \n\nI've arranged for you to have Complimentary Standard Shipping with code: 3X46WCQD. Here's a link to your cart: venusetfleur.attn.tv/a9Mf8xnzg2f2 .",
+          "message_type": "system",
+          "date_time": "2026-02-08 16:15:47.894"
+        },
+        {
+          "message_media": [],
+          "message_text": "Venus et Fleur: Last chance! Your complimentary shipping offer is expiring soon. Don't miss out on the opportunity to shop our curated collection of eternity florals and home pieces. Visit us now: venusetfleur.attn.tv/apwaUd3ncEPm .",
+          "message_type": "system",
+          "date_time": "2026-02-09 12:20:23.477"
+        },
+        {
+          "message_media": [],
+          "message_text": "Venus et Fleur: 🌹 Guaranteed Get it in time for Valentine's Day Delivery. \nValentine's Day is this Saturday and our Eternity Blooms are going quickly! This year, give the gift that lasts with Real Flowers That Last A Year. \n\nPlace your order today for on-time delivery. ⏰ venusetfleur.attn.tv/a_ikFHxC80As \n ",
+          "message_type": "system",
+          "date_time": "2026-02-09 18:30:15.839"
+        },
+        {
+          "message_media": [],
+          "message_text": "Venus et Fleur: Cupid is Counting Down! 🏹 THIS SATURDAY is VALENTINE'S DAY and our Eternity® Roses are going fast. Give the gift of Real Flowers That Last A Year.\nvenusetfleur.attn.tv/aV5TvVVMaKyE \n\nBecause Venus is a Love Letter written in florals 🌹\n",
+          "message_type": "system",
+          "date_time": "2026-02-09 19:35:19.617"
+        },
+        {
+          "message_media": [],
+          "message_text": "Venus et Fleur: Hello ! This is Megan from Venus et Fleur. I noticed a selection of our Eternity® Blooms caught your eye, and I would love to assist you. \n\n🌹 It's almost Valentine's Day and our florals are going quickly, so act fast! ⏰ I've arranged for you to have Complimentary Shipping with code: ETERNALBLOOM. Here's a link to your cart: venusetfleur.attn.tv/ave1LmSVo82T .",
+          "message_type": "system",
+          "date_time": "2026-02-10 12:34:32.207"
+        },
+        {
+          "message_media": [],
+          "message_text": "Will they get delivered by Saturday morning if I order today",
           "message_type": "customer",
-          "message_text": "Found the same glasses with same lenses for $300 less elsewhere!!!",
-          "date_time": "2026-02-18 18:25:01.382",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-10 12:40:43.119"
         },
         {
-          "message_id": "019c7315-25fd-4bb5-f000-00009f270025",
-          "message_text": "LensDirect: Thanks for getting in touch! I\u0027m really sorry to hear about that. Our goal is to always make you happy when it comes to price. So, if you happen to find a lower price on your contact lenses, we\u0027ll match it. To get your discount, just call or email us at info@lensdirect.com after you complete your online order, and we\u0027ll refund the difference. Include your order number and a link to the lower price. Please note that we won\u0027t price match promotions, only on a per box price. Also, we\u0027ll only do price matching on reputable retailers such as 1-800CONTACTS.com, VisionDirect.com, Walgreens.com and Coastal.com.",
+          "message_media": [],
+          "message_text": "Template used: \"Shipping time\"; last updated: 2024-07-09 22:16:45.728",
+          "message_type": "template",
+          "date_time": "2026-02-10 12:42:42.222"
+        },
+        {
+          "message_media": [],
+          "message_text": "Venus et Fleur: Thank you for reaching out! Good question! This depends on the selected shipping method. All of our arrangements ship with UPS or FedEx. Certain arrangements are eligible for same day hand delivery if the order is placed before 2 pm and is being delivered to NJ or NY. You are able to choose a delivery date for all of our arrangements at checkout, and we do offer next day delivery as long as the order is placed before 6 pm EST.\n\nHope this helps! If you have any questions, feel free to text me.",
+          "message_type": "agent",
+          "agent": "87295",
+          "message_id": "019c48a5-f719-4ac5-f000-0000f801fba4",
+          "date_time": "2026-02-10 12:42:42.223"
+        }
+      ],
+      "notes": {
+        "escalate": [
+          "ESC if cx wants their account name to be changed",
+          "ESC if cx complains that their order was canceled",
+          "If cx's ask when their order will arrive/estimated delivery date",
+          "➜  Ask what shipping method they selected at checkout",
+          "➜ If it's standard shipping use STS shortcut",
+          "➜ If they insist to know exactly when ESC",
+          "Cx gets a code for free shipping for the first purchase; you can escalate any issues after troubleshooting"
+        ],
+        "tone": [
+          "Don't thank the cx for the purchase, thank them for their continuous support",
+          "Don't ask the customer to contact the courier"
+        ],
+        "drive_to_purchase": [
+          "Don't D2P when the cx already made a purchase"
+        ],
+        "promo_and_promo_exclusions": [
+          "Free shipping code is only valid for standard shipping",
+          "Standard shipping charge is usually ~ $20, if you see a charge higher than that, it means the method selected is NOT standard (create a mock cart to double-check)"
+        ]
+      },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://venusetfleur.com",
+          "date": ""
+        }
+      },
+      "escalation_preferences": [
+        "Exchanges and returns",
+        "arrangement damages",
+        "delivery issues",
+        "post-purchase questions",
+        "inventory"
+      ],
+      "blocklisted_words": [
+        "preserved",
+        "chemical",
+        "cant"
+      ],
+      "has_shopify": true
+    },
+    "168": {
+      "id": "019c6911-b6d0-4e4a-f000-0000f69fd3a9",
+      "companyName": "Saatchi Art",
+      "companyWebsite": "https://saatchiart.com",
+      "agentName": "Sofia",
+      "messageTone": "Polished",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "Saatchi Art: Welcome! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
+          "message_type": "system",
+          "date_time": "2026-01-30 05:51:02.610"
+        },
+        {
+          "message_media": [],
+          "message_text": "Saatchi Art: We can't wait to help you find art you love. Click this link for your 10% off original art code: saatchiart.attn.tv/aJaYvsE1Gq35\n\nBonus: Get 10% off prints $150+ with code PRINTS10\n\nCodes expire in 30 days.",
+          "message_type": "system",
+          "date_time": "2026-01-30 05:51:06.558"
+        },
+        {
+          "message_media": [],
+          "message_text": "Saatchi Art: Our mission is simple: to help you discover and buy art from the best emerging artists around the world.\n\nGet started by browsing artwork that caught the eye of our curators: https://saatchiart.attn.tv/aejY_889k08L ",
+          "message_type": "system",
+          "date_time": "2026-01-30 05:51:07.619"
+        },
+        {
+          "message_media": [],
+          "message_text": "Saatchi Art: You've got great taste! Other collectors are interested in Red and white. Take another look before it's gone: saatchiart.attn.tv/aRokHyIsYFDn\n\nReady to purchase? Use GALLERY10 at checkout for 10% off your first original art order.",
+          "message_type": "system",
+          "date_time": "2026-01-30 12:39:53.001"
+        },
+        {
+          "message_media": [],
+          "message_text": "Saatchi Art: Hey! Have questions about finding art? Our curators are here to help-just shoot us a text.\n\n🎨 don't forget you can save 10% on original art with GALLERY10. https://saatchiart.attn.tv/aN-aQc0uBSLo ",
+          "message_type": "system",
+          "date_time": "2026-01-31 08:19:03.755"
+        },
+        {
+          "message_media": [],
+          "message_text": "Saatchi Art: Express yourself with original art. From minimalism to maximalism, find art for every style in our curated collections and save 10% on original art with GALLERY10: https://saatchiart.attn.tv/aowEEG6pHsYd ",
+          "message_type": "system",
+          "date_time": "2026-02-03 08:19:11.177"
+        },
+        {
+          "message_media": [],
+          "message_text": "Saatchi Art: You've got great taste! Other collectors are interested in Painterly - Limited Edition of 10. Take another look before it's gone: saatchiart.attn.tv/aaXQoq0_ORgE\n\nReady to purchase? Use GALLERY10 at checkout for 10% off your first original art order.",
+          "message_type": "system",
+          "date_time": "2026-02-03 11:55:49.101"
+        },
+        {
+          "message_media": [],
+          "message_text": "Saatchi Art: Small in scale, bold in impact. These pieces are perfect for a gallery wall or collecting sought-after artists at an accessible price. saatchiart.attn.tv/abTehvdBx8K5 ",
+          "message_type": "system",
+          "date_time": "2026-02-07 14:02:06.720"
+        },
+        {
+          "message_media": [],
+          "message_text": "Saatchi Art: You've got great taste! Other collectors are interested in Colorful Ladies. Take another look before it's gone: saatchiart.attn.tv/awl6TuqsA1Vb\n\nReady to purchase? Use GALLERY10 at checkout for 10% off your first original art order.",
+          "message_type": "system",
+          "date_time": "2026-02-07 17:13:32.820"
+        },
+        {
+          "message_media": [],
+          "message_text": "Saatchi Art: Hi! We noticed you haven't found art you love. Can we help you find something?\n\nYou still have time to save 10% but hurry, GALLERY10 expires in 18 days. https://saatchiart.attn.tv/a5_Ul3dX58Az ",
+          "message_type": "system",
+          "date_time": "2026-02-11 08:19:10.043"
+        },
+        {
+          "message_media": [],
+          "message_text": "Saatchi Art: You've got great taste! Other collectors are interested in Red and white. Take another look before it's gone: saatchiart.attn.tv/a3XyCoLz38iH\n\nReady to purchase? Take 10% off sitewide with FLASH10 through Feb 17.",
+          "message_type": "system",
+          "date_time": "2026-02-12 10:27:14.076"
+        },
+        {
+          "message_media": [],
+          "message_text": "Saatchi Art: Three days left for 10% off sitewide with FLASH10. Take a chance-you might find love at first sight: saatchiart.attn.tv/aaxObEE0cBHy ",
+          "message_type": "system",
+          "date_time": "2026-02-14 18:01:04.425"
+        },
+        {
+          "message_media": [],
+          "message_text": "Saatchi Art: Time's running out for 10% off sitewide. Don't miss your chance to nab that artwork at a discount. saatchiart.attn.tv/aei5eOQ077fL ",
+          "message_type": "system",
+          "date_time": "2026-02-15 18:09:07.993"
+        },
+        {
+          "message_media": [],
+          "message_text": "I ordered \"Red and White\" Friday.  Funds were deposited in your San Francisco account at Wells Fargo.\nPlease confirm you received same. \nLeonard Ardieta",
+          "message_type": "customer",
+          "date_time": "2026-02-15 19:05:46.568"
+        },
+        {
+          "message_media": [],
+          "message_text": "Saatchi Art: Thanks for reaching out! I've checked, and don't see any recent orders on my end. To be sure, could you please check if you received a confirmation email? Be sure to also check your spam and promotions folders for the email. ",
+          "message_type": "agent",
+          "agent": "87595",
+          "message_id": "019c63ca-5374-41e8-f000-0000f69fd3a9",
+          "date_time": "2026-02-15 19:12:09.998"
+        },
+        {
+          "message_media": [],
+          "message_text": "It was late Friday. Perhaps too late to register ?\nIs this Will ?\n\nLen Ardieta",
+          "message_type": "customer",
+          "date_time": "2026-02-15 19:14:14.098"
+        },
+        {
+          "message_media": [],
+          "message_text": "Saatchi Art: I'll be happy to check for you. Can you also provide me with your email address used for the purchase and the order number? ",
+          "message_type": "agent",
+          "agent": "27727",
+          "message_id": "019c63d0-afef-4b74-f000-0000f69fd3a9",
+          "date_time": "2026-02-15 19:19:06.891"
+        },
+        {
+          "message_media": [],
+          "message_text": "My email address is cyberace81406132¡aol.com\n\n 1,170.00 was deposited in 0990 located at 420 Montgomery Avenue, San Francisco 94104",
+          "message_type": "customer",
+          "date_time": "2026-02-15 19:31:54.397"
+        },
+        {
+          "message_media": [],
+          "message_text": "Saatchi Art: Thank you for the information, but could you please confirm your order number? Please check your email, and don't forget to look in your spam and promotions folders, as our emails can sometimes end up there.\n",
+          "message_type": "agent",
+          "agent": "39001",
+          "message_id": "019c63e0-d33f-44c1-f000-0000f69fd3a9",
+          "date_time": "2026-02-15 19:36:44.506"
+        },
+        {
+          "message_media": [],
+          "message_text": "I have #200014048366226. \n\nYour bank routing #121000248\nAccount name as Saatchi Online account.  \nAccount #4942370990\n\nDo I need to be concerned at this point. \n\nMy bank is Wells Fargo as yours is. Should not be difficult to locate the ¤ 1,170.00\n Please advise.\nLeonard Ardieta",
+          "message_type": "customer",
+          "date_time": "2026-02-15 20:00:24.098"
+        },
+        {
+          "message_media": [],
+          "message_text": "Saatchi Art: Thank you for providing the details. I've forwarded them to our team, and I'll let you know as soon as I hear back from them. I appreciate your patience as we work to resolve this for you. If you have any other questions or concerns in the meantime, feel free to let me know.",
+          "message_type": "agent",
+          "agent": "82223",
+          "message_id": "019c63f9-9b61-460b-f000-0000f69fd3a9",
+          "date_time": "2026-02-15 20:03:48.606"
+        },
+        {
+          "message_media": [],
+          "message_text": "Painting will be shipped to Delaware to a trusted friend so as to surprise my wife with\nwhen I present it to her in our home in Maryland.\nAgain, based on info given you this eveing do you see a problem ? \nLen Ardieta",
+          "message_type": "customer",
+          "date_time": "2026-02-15 20:10:00.821"
+        },
+        {
+          "message_media": [],
+          "message_text": "Saatchi Art: Apologies, I have limited info on my end. It would be best to wait for my team's response. I appreciate your understanding. ",
+          "message_type": "agent",
+          "agent": "31385",
+          "message_id": "019c640b-4aef-452e-f000-0000f69fd3a9",
+          "date_time": "2026-02-15 20:23:07.664"
+        },
+        {
+          "message_media": [],
+          "message_text": "👍",
+          "message_type": "customer",
+          "date_time": "2026-02-15 20:25:21.059"
+        },
+        {
+          "message_media": [],
+          "message_text": "Good Day,\nHave we verified my funds were deposited into Saatchi's account in San Francisco ?\n\nLeonard Ardieta",
+          "message_type": "customer",
+          "date_time": "2026-02-16 12:40:48.254"
+        },
+        {
+          "message_media": [],
+          "message_text": "Saatchi Art: Thank you for reaching out. I'm really sorry for the delay. It is not the experience that we want to have for our customers. Right now, I still have no response from the team. But rest assured, once I get an update, I will message you immediately. Please hang tight! ",
+          "message_type": "agent",
+          "agent": "48804",
+          "message_id": "019c678d-a4ad-4132-f000-0000f69fd3a9",
+          "date_time": "2026-02-16 12:44:21.959"
+        },
+        {
+          "message_media": [],
+          "message_text": "Thank you. A little concerned.\nLeonard Ardieta",
+          "message_type": "customer",
+          "date_time": "2026-02-16 12:47:47.686"
+        },
+        {
+          "message_media": [],
+          "message_text": "Saatchi Art: I totally understand and I'm once again sorry for the inconvenience! Our team is dealing with an influx of support requests, but they're working through them and will follow up as soon as they can. ",
+          "message_type": "agent",
+          "agent": "87474",
+          "message_id": "019c6792-b918-44bf-f000-0000f69fd3a9",
+          "date_time": "2026-02-16 12:49:54.867"
+        },
+        {
+          "message_media": [],
+          "message_text": "I presume that is good for business !\nAt 83, I've known so many wonderful artist in my younger days. Then, they would have benefited so much from a platform such as Saatchi.",
+          "message_type": "customer",
+          "date_time": "2026-02-16 13:14:32.891"
+        },
+        {
+          "message_media": [],
+          "message_text": "Saatchi Art: Yes, sir, and I assure you again that the team should follow up soon! Customer feedback means a lot to us and helps us keep improving. Thank you so much! ",
+          "message_type": "agent",
+          "agent": "87600",
+          "message_id": "019c67ad-bf1a-46d9-f000-0000f69fd3a9",
+          "date_time": "2026-02-16 13:19:25.875"
+        },
+        {
+          "message_media": [],
+          "message_text": "Transfer was made from one Wells Fargo branch to another. Should not have been that difficult to trace. Should I get involved ?\nLeonard Ardieta",
+          "message_type": "customer",
+          "date_time": "2026-02-16 19:14:31.962"
+        },
+        {
+          "message_media": [],
+          "message_text": "Saatchi Art: I completely understand your concern - transfers between bank branches should be straightforward, and it's frustrating when tracking becomes complicated.\n\nAt this point, it's best to let the bank handle the trace since they have access to the internal transfer details. You can stay informed by confirming the transfer reference number and keeping any receipts or confirmation emails handy. If you notice any delays or discrepancies, contacting your branch directly will usually get the quickest resolution.",
+          "message_type": "agent",
+          "agent": "87578",
+          "message_id": "019c68ff-0ebf-49e3-f000-0000f69fd3a9",
+          "date_time": "2026-02-16 19:27:51.895"
+        },
+        {
+          "message_media": [],
+          "message_text": "Understood, but no new feedback from your company ? Again, I was talking to a gentleman named Will who said he works for Saatchi.  Are you Will and if not do you know of him. He works in your California agency so he says.",
+          "message_type": "customer",
+          "date_time": "2026-02-16 19:32:48.308"
+        },
+        {
+          "message_media": [],
+          "message_text": "Saatchi Art: Thanks for getting back to me! I sincerely apologize for the inconvenience. This definitely isn't the experience we wanted for you! My name is Sofia. My team is currently looking into this. Rest assured, we'll get back to you as soon as we have an update. Feel free to let me know if you need help with anything else in the meantime.",
           "message_type": "agent",
           "agent": "109840",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-18 18:28:11.802"
-        },
-        {
-          "message_type": "customer",
-          "message_text": "Contact lenses? I said glasses.",
-          "date_time": "2026-02-18 18:29:41.122",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c7319-2f6d-4065-f000-00009f270025",
-          "message_text": "LensDirect: I\u0027m sorry for the confusion! I\u0027m afraid that we only price match contact lenses at this time. ",
-          "message_type": "agent",
-          "agent": "87310",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-18 18:32:36.366"
+          "message_id": "019c6911-b6d0-4e4a-f000-0000f69fd3a9",
+          "date_time": "2026-02-16 19:48:14.571"
         }
-      ]
+      ],
+      "notes": {
+        "escalate": [
+          "Customer Details that need to be gathered for esc:",
+          "➜ Buyer Name: First & Last Name",
+          "➜ Email Address used for purchase",
+          "➜ Order Number",
+          "➜ Artwork Title/Artist",
+          "ESC any questions or concerns that need specific details about an order that cannot be answered with general information"
+        ],
+        "templates": [
+          "For art/painting/print-related questions that only the artist can answer, use ARQ shortcut"
+        ]
+      },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://saatchiart.com",
+          "date": ""
+        }
+      },
+      "escalation_preferences": [],
+      "blocklisted_words": [],
+      "has_shopify": false
+    },
+    "169": {
+      "id": "019c7882-03b5-44d4-f000-0000fc891a42",
+      "companyName": "Titan Mattress",
+      "companyWebsite": "https://titanmattress.com",
+      "agentName": "Jordan",
+      "messageTone": "Polished",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "Titan Mattress: Welcome to Titan Mattress! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
+          "message_type": "system",
+          "date_time": "2026-02-19 19:17:23.314"
+        },
+        {
+          "message_media": [],
+          "message_text": "Titan Mattress: Hi, this is Jordan. Congrats! Your offer has been activated and can be redeemed here: https://titanmattress.attn.tv/aP2Z_b_Y8L13 \n\nText back with any questions! Stop to stop",
+          "message_type": "system",
+          "date_time": "2026-02-19 19:17:27.260"
+        },
+        {
+          "message_media": [],
+          "message_text": "Titan Mattress: PS: don't forget to save our contact to get exclusive updates! Stop to stop",
+          "message_type": "system",
+          "date_time": "2026-02-19 19:17:28.293"
+        },
+        {
+          "message_media": [],
+          "message_text": "Titan Mattress: Hey , this is Jordan. Thanks for checking us out! 😊 https://titanmattress.attn.tv/auV0WoxQM2Bj \n\nAny questions I can answer for you?  Stop to stop",
+          "message_type": "system",
+          "date_time": "2026-02-19 19:19:05.073"
+        },
+        {
+          "message_media": [],
+          "message_text": "What is the closest storeroom so I can try a mattress near me in 89131 zip code?",
+          "message_type": "customer",
+          "date_time": "2026-02-19 19:44:31.990"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"Store location / retailer\"; last updated: 2023-06-29 22:58:12.123",
+          "message_type": "template",
+          "date_time": "2026-02-19 19:45:12.531"
+        },
+        {
+          "message_media": [],
+          "message_text": "Titan Mattress: Hi, thanks for reaching out. You can take a look at our Showroom locations here: https://titanmattress.attn.tv/a-ee-mLyhQhT I'd recommend calling the store ahead to see if they have the product you're interested in. ",
+          "message_type": "agent",
+          "agent": "109630",
+          "message_id": "019c7882-03b5-44d4-f000-0000fc891a42",
+          "date_time": "2026-02-19 19:45:12.533"
+        }
+      ],
+      "notes": {},
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://titanmattress.com",
+          "date": ""
+        }
+      },
+      "escalation_preferences": [],
+      "blocklisted_words": [
+        "AI"
+      ],
+      "has_shopify": true
     },
     "170": {
-      "agentName": "Sarah",
       "id": "019c5f1e-7b5a-4573-f000-0000b39cc940",
+      "companyName": "FragranceNet",
+      "companyWebsite": "https://fragrancenet.com",
+      "agentName": "Sarah",
+      "messageTone": "Polished",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "FragranceNet: Thanks for your order 385450771! Check your order status: https://fragrancenet.attn.tv/ac6G38C6vPxZ\n\n",
+          "message_type": "system",
+          "date_time": "2026-01-30 15:56:56.214"
+        },
+        {
+          "message_media": [],
+          "message_text": "FragranceNet: Thanks for your order 387505347! Check your order status: https://fragrancenet.attn.tv/abo7UZdk54pD\n\n",
+          "message_type": "system",
+          "date_time": "2026-02-14 20:04:07.797"
+        },
+        {
+          "message_media": [],
+          "message_text": "FragranceNet: Welcome! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel. Privacy: attnl.tv/p/dkv",
+          "message_type": "system",
+          "date_time": "2026-02-14 20:09:32.859"
+        },
+        {
+          "message_media": [],
+          "message_text": "FragranceNet: Welcome to the world of elevated fragrance! Enjoy 35% OFF sitewide to start your journey: https://fragrancenet.attn.tv/aSU9nxZAy5fQ .",
+          "message_type": "system",
+          "date_time": "2026-02-14 20:09:35.492"
+        },
+        {
+          "message_media": [],
+          "message_text": "It want let me pay or add more items",
+          "message_type": "customer",
+          "date_time": "2026-02-14 20:10:02.205"
+        },
+        {
+          "message_media": [],
+          "message_text": "FragranceNet: Oh, also, a lot of people like getting personal recs from us. Over the next few days we'll try to help you find something that you will love.\n\nDiscover your new scent!\n\nShop now: https://fragrancenet.attn.tv/anRMxB27OdS3 .",
+          "message_type": "system",
+          "date_time": "2026-02-14 20:10:41.009"
+        },
+        {
+          "message_media": [],
+          "message_text": "FragranceNet: You left COACH Floral, COACH Love, Sung, Celine Dion Chic in your cart — grab these popular picks for less now: https://fragrancenet.attn.tv/artTm00Z0VQR .",
+          "message_type": "system",
+          "date_time": "2026-02-14 20:21:52.099"
+        },
+        {
+          "message_media": [],
+          "message_text": "FragranceNet: I'm sorry to hear about the issue you're experiencing. First, I might suggest trying to open the site in an incognito or private window to rule out any browser cache or extension issues. Do you mind sending me a screenshot of what you're seeing on your end?",
+          "message_type": "agent",
+          "agent": "31385",
+          "message_id": "019c5efb-1cd8-47e5-f000-0000b39cc940",
+          "date_time": "2026-02-14 20:47:21.199"
+        },
+        {
+          "message_media": [],
+          "message_text": "It want let me pay on affirm",
+          "message_type": "customer",
+          "date_time": "2026-02-14 20:48:12.253"
+        },
+        {
+          "message_media": [],
+          "message_text": "FragranceNet: I'm sorry to hear that. May I know if you are getting any errors? Would it also be possible to try to place the order using a different browser or device? Please let me know how it goes. ",
+          "message_type": "agent",
+          "agent": "82260",
+          "message_id": "019c5f1e-7b5a-4573-f000-0000b39cc940",
+          "date_time": "2026-02-14 21:25:59.163"
+        }
+      ],
+      "notes": {
+        "send_to_cs": [
+          "No ESC for this client, send everything to CS"
+        ],
+        "tone": [
+          "Close the convo once the client takes over",
+          "Don't use emojis/special characters"
+        ],
+        "templates": [
+          "For issues relating to free shipping with no minimum purchase, use \"FSB\" shortcut",
+          "If a product is not available on their website, use \"PNA\" shortcut"
+        ]
+      },
       "rightPanel": {
         "source": {
           "label": "Website",
@@ -705,114 +686,9 @@
           "date": ""
         }
       },
-      "companyWebsite": "https://fragrancenet.com",
-      "companyName": "FragranceNet",
-      "notes": {
-        "send_to_cs": [
-          "No ESC for this client, send everything to CS"
-        ],
-        "tone": [
-          "Close the convo once the client takes over",
-          "Don\u0027t use emojis/special characters"
-        ],
-        "templates": [
-          "For issues relating to free shipping with no minimum purchase, use \"FSB\" shortcut",
-          "If a product is not available on their website, use \"PNA\" shortcut"
-        ]
-      },
-      "blocklisted_words": [
-        
-      ],
-      "escalation_preferences": [
-        
-      ],
-      "messageTone": "Polished",
-      "conversation": [
-        {
-          "message_type": "system",
-          "message_text": "FragranceNet: Thanks for your order 385450771! Check your order status: https://fragrancenet.attn.tv/ac6G38C6vPxZ\n\n",
-          "date_time": "2026-01-30 15:56:56.214",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "FragranceNet: Thanks for your order 387505347! Check your order status: https://fragrancenet.attn.tv/abo7UZdk54pD\n\n",
-          "date_time": "2026-02-14 20:04:07.797",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "FragranceNet: Welcome! Msg \u0026 data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel. Privacy: attnl.tv/p/dkv",
-          "date_time": "2026-02-14 20:09:32.859",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "FragranceNet: Welcome to the world of elevated fragrance! Enjoy 35% OFF sitewide to start your journey: https://fragrancenet.attn.tv/aSU9nxZAy5fQ .",
-          "date_time": "2026-02-14 20:09:35.492",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "It want let me pay or add more items",
-          "date_time": "2026-02-14 20:10:02.205",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "FragranceNet: Oh, also, a lot of people like getting personal recs from us. Over the next few days we\u0027ll try to help you find something that you will love.\n\nDiscover your new scent!\n\nShop now: https://fragrancenet.attn.tv/anRMxB27OdS3 .",
-          "date_time": "2026-02-14 20:10:41.009",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "FragranceNet: You left COACH Floral, COACH Love, Sung, Celine Dion Chic in your cart — grab these popular picks for less now: https://fragrancenet.attn.tv/artTm00Z0VQR .",
-          "date_time": "2026-02-14 20:21:52.099",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c5efb-1cd8-47e5-f000-0000b39cc940",
-          "message_text": "FragranceNet: I\u0027m sorry to hear about the issue you\u0027re experiencing. First, I might suggest trying to open the site in an incognito or private window to rule out any browser cache or extension issues. Do you mind sending me a screenshot of what you\u0027re seeing on your end?",
-          "message_type": "agent",
-          "agent": "31385",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-14 20:47:21.199"
-        },
-        {
-          "message_type": "customer",
-          "message_text": "It want let me pay on affirm",
-          "date_time": "2026-02-14 20:48:12.253",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c5f1e-7b5a-4573-f000-0000b39cc940",
-          "message_text": "FragranceNet: I\u0027m sorry to hear that. May I know if you are getting any errors? Would it also be possible to try to place the order using a different browser or device? Please let me know how it goes. ",
-          "message_type": "agent",
-          "agent": "82260",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-14 21:25:59.163"
-        }
-      ]
+      "escalation_preferences": [],
+      "blocklisted_words": [],
+      "has_shopify": false
     }
   }
 }

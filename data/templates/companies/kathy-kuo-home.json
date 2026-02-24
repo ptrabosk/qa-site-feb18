@@ -28,20 +28,20 @@
     },
     {
       "name": "Price Matching",
-      "content": "I\u0027ll be glad to look into this for you! Can you please confirm the item you\u0027re interested in and send me the competitors link along with your full name and shipping address since we only match in stock items after tax?",
+      "content": "I'll be glad to look into this for you! Can you please confirm the item you're interested in and send me the competitors link along with your full name and shipping address since we only match in stock items after tax?",
       "id": "5d3b0627-ab89-465e-a248-413b6af378c1",
       "companyName": "Kathy Kuo Home"
     },
     {
       "name": "Cancel / edit order",
-      "content": "Orders may only be canceled within 24 hours of your purchase. To cancel an order, log in to your account: https://www.kathykuohome.com/Account/Login?returnUrl=%2F and click \u0027My Order History\u0027. Then choose whichever item you\u0027d like to cancel. \n\nPlease know that we\u0027re not able to process any cancellations once your item has been packaged and picked up for shipping, so these items will instead need to be returned upon delivery.",
+      "content": "Orders may only be canceled within 24 hours of your purchase. To cancel an order, log in to your account: https://www.kathykuohome.com/Account/Login?returnUrl=%2F and click 'My Order History'. Then choose whichever item you'd like to cancel. \n\nPlease know that we're not able to process any cancellations once your item has been packaged and picked up for shipping, so these items will instead need to be returned upon delivery.",
       "id": "59e5634c-5004-4c96-81af-37ceb164f7ad",
       "shortcut": "ced",
       "companyName": "Kathy Kuo Home"
     },
     {
       "name": "Design specialist",
-      "content": "Got you! I\u0027d love to put you in touch with our design specialists to help you. Feel free to email cs@kathykuohome.com, call 888-908-2925, or chat with us here: https://direct.lc.chat/10204472/",
+      "content": "Got you! I'd love to put you in touch with our design specialists to help you. Feel free to email cs@kathykuohome.com, call 888-908-2925, or chat with us here: https://direct.lc.chat/10204472/",
       "id": "70520eaf-67f0-4bdf-ad0d-a2cf09aaa170",
       "shortcut": "dss",
       "companyName": "Kathy Kuo Home"
@@ -55,7 +55,7 @@
     },
     {
       "name": "What is White Glove delivery?",
-      "content": "White-Glove is required for some of our items because they\u0027re heavy, fragile, or have large packaging. With our White Glove service, the items are brought to your room of choice and all packaging is removed and discarded for you. They\u0027ll take items up 1 flight of stairs if necessary to place them on the second floor of your home as well. It doesn\u0027t include any assembly service, but it can be added for $99 per item during checkout.",
+      "content": "White-Glove is required for some of our items because they're heavy, fragile, or have large packaging. With our White Glove service, the items are brought to your room of choice and all packaging is removed and discarded for you. They'll take items up 1 flight of stairs if necessary to place them on the second floor of your home as well. It doesn't include any assembly service, but it can be added for $99 per item during checkout.",
       "id": "05fe38f6-5f09-4145-9468-60c3cd99cfe5",
       "companyName": "Kathy Kuo Home"
     },
@@ -87,20 +87,20 @@
     },
     {
       "name": "Shopping for a client",
-      "content": "Are you part of our trade program? You can read more about it at the following link and get priority access to our design resources centers: https://www.kathykuohome.com/MyAccount/businessLogin I\u0027d also recommend emailing us directly at trade@kathykuohome.com, and our team will be more than happy to help out!",
+      "content": "Are you part of our trade program? You can read more about it at the following link and get priority access to our design resources centers: https://www.kathykuohome.com/MyAccount/businessLogin I'd also recommend emailing us directly at trade@kathykuohome.com, and our team will be more than happy to help out!",
       "id": "feaa7217-7f8d-4208-b7b0-a3f43c88b4ac",
       "shortcut": "sfc",
       "companyName": "Kathy Kuo Home"
     },
     {
       "name": "Order status inquiries",
-      "content": "If you have an account with us on our website, you can access your \u0027Order History\u0027 to see the latest estimated shipping date. You can log in here: https://www.kathykuohome.com/Account/Login?returnURL=/MyAccount/Order",
+      "content": "If you have an account with us on our website, you can access your 'Order History' to see the latest estimated shipping date. You can log in here: https://www.kathykuohome.com/Account/Login?returnURL=/MyAccount/Order",
       "id": "1fcbcf21-6982-4f4e-aff6-619779b734f7",
       "companyName": "Kathy Kuo Home"
     },
     {
       "name": "Can I delay shipping / ship at a later date?",
-      "content": "Great question! Some of our manufacturers do hold orders for us, it just depends on who the vendor is. That said, how long will we have to hold the order for? What items are you looking to get and when would you want the order to ship?\n\nI\u0027ll be glad to check with my team if the shipping can be delayed.",
+      "content": "Great question! Some of our manufacturers do hold orders for us, it just depends on who the vendor is. That said, how long will we have to hold the order for? What items are you looking to get and when would you want the order to ship?\n\nI'll be glad to check with my team if the shipping can be delayed.",
       "id": "70d053d5-5e1b-4f25-8841-e7461085f07c",
       "companyName": "Kathy Kuo Home"
     },
@@ -117,15 +117,15 @@
       "companyName": "Kathy Kuo Home"
     },
     {
-      "name": "Why doesn\u0027t my discount work on some items?",
-      "content": "We have quite a few vendors that don\u0027t participate in any of our sales so our codes won\u0027t work on their items. Our codes also won\u0027t work if an item is already discounted as discounts may not overlap.",
+      "name": "Why doesn't my discount work on some items?",
+      "content": "We have quite a few vendors that don't participate in any of our sales so our codes won't work on their items. Our codes also won't work if an item is already discounted as discounts may not overlap.",
       "id": "b7adacfe-032c-4cae-820f-27259e1fb45b",
       "shortcut": "cww",
       "companyName": "Kathy Kuo Home"
     },
     {
       "name": "Do you offer interior design services?/I want to redesign several rooms in my home/building a new home",
-      "content": "Yes, you can schedule a consultation with a design services specialist here: https://kkhome.as.me/schedule.php \nDuring the consultation, you can tell us about your home project and we\u0027ll advise you on the best design package and interior designer for your needs. \n\nPlease note that this service is only offered if you\u0027re interested in purchasing an interior design service package, not just a product recommendation.",
+      "content": "Yes, you can schedule a consultation with a design services specialist here: https://kkhome.as.me/schedule.php \nDuring the consultation, you can tell us about your home project and we'll advise you on the best design package and interior designer for your needs. \n\nPlease note that this service is only offered if you're interested in purchasing an interior design service package, not just a product recommendation.",
       "id": "50909a89-8c7c-4571-8081-444e6c6e779c",
       "shortcut": "ids",
       "companyName": "Kathy Kuo Home"
@@ -139,14 +139,14 @@
     },
     {
       "name": "Military / first responder discount",
-      "content": "Thank you for your service! We don\u0027t have any specific discounts like that, but if it helps, you can check out the items we have on sale here: https://www.kathykuohome.com/Product/Sale",
+      "content": "Thank you for your service! We don't have any specific discounts like that, but if it helps, you can check out the items we have on sale here: https://www.kathykuohome.com/Product/Sale",
       "id": "65976214-2c42-41d8-bba2-1b03f5f5e7c8",
       "shortcut": "ms",
       "companyName": "Kathy Kuo Home"
     },
     {
       "name": "Do your items ship in a box from Kathy Kuo or from the vendor?",
-      "content": "The invoice is from us, but the order will be packaged and shipped by the vendor. There\u0027s also no vendor pricing visible.",
+      "content": "The invoice is from us, but the order will be packaged and shipped by the vendor. There's also no vendor pricing visible.",
       "id": "81706307-0122-4f66-994e-a77c2c10a77c",
       "companyName": "Kathy Kuo Home"
     },
@@ -185,7 +185,7 @@
     },
     {
       "name": "Free shipping",
-      "content": "We don\u0027t currently offer free shipping, but all promos will always be shared with our SMS subscribers or on our website, so keep an eye out!",
+      "content": "We don't currently offer free shipping, but all promos will always be shared with our SMS subscribers or on our website, so keep an eye out!",
       "id": "0425e22c-b561-4007-a03b-fae0b24cf329",
       "shortcut": "fs",
       "companyName": "Kathy Kuo Home"

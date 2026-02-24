@@ -1,166 +1,166 @@
 {
-  "companyKey": "fazoli\u0027s",
+  "companyKey": "fazoli's",
   "templates": [
     {
       "name": "How can I add extra Bacon?",
       "content": "You can go to Breadsticks + Extras and Add a Meat to select a Side of Bacon.",
       "id": "a39fa452-4460-498c-a362-d0eeca0f8473",
-      "companyName": "Fazoli\u0027s"
+      "companyName": "Fazoli's"
     },
     {
       "name": "Do you offer gluten free pasta at every restaurant?",
-      "content": "Most of our locations have gluten-friendly pasta that can be substituted on any dish. This would be listed under \u0027Customize/Extras\u0027 when you go to place your order. If it is not listed, you are welcome to check with your location directly to see if they can meet your request with an in-person order.",
+      "content": "Most of our locations have gluten-friendly pasta that can be substituted on any dish. This would be listed under 'Customize/Extras' when you go to place your order. If it is not listed, you are welcome to check with your location directly to see if they can meet your request with an in-person order.",
       "id": "5323fc8d-6274-413d-8a18-fbf063ebc09b",
-      "companyName": "Fazoli\u0027s"
+      "companyName": "Fazoli's"
     },
     {
       "name": "Free shipping",
-      "content": "We don\u0027t currently offer free delivery, but all deals will always be shared with our SMS subscribers or on our website, so keep an eye out!",
+      "content": "We don't currently offer free delivery, but all deals will always be shared with our SMS subscribers or on our website, so keep an eye out!",
       "id": "f2b0c894-c680-4311-8822-c37c320928ad",
       "shortcut": "fs",
-      "companyName": "Fazoli\u0027s"
+      "companyName": "Fazoli's"
     },
     {
       "name": "How many people will this meal serve?/How much food comes in the family meal?",
-      "content": "You can determine how many each complete meal will serve based on how many breadsticks come with the meal (2 per person). For example, if a meal comes with 8 breadsticks, it\u0027s designed to serve 4 people.",
+      "content": "You can determine how many each complete meal will serve based on how many breadsticks come with the meal (2 per person). For example, if a meal comes with 8 breadsticks, it's designed to serve 4 people.",
       "id": "ec54f35b-d2fa-419d-8d46-411709a20142",
-      "companyName": "Fazoli\u0027s"
+      "companyName": "Fazoli's"
     },
     {
       "name": "Military / First responder / Healthcare / Teacher discount",
-      "content": "Thank you for your service! We don\u0027t have any specific discounts like that, but our deals will always be shared with our SMS subscribers or on our website, so keep an eye out!",
+      "content": "Thank you for your service! We don't have any specific discounts like that, but our deals will always be shared with our SMS subscribers or on our website, so keep an eye out!",
       "id": "3003a631-f2a6-42fa-9574-0b68bdc3c679",
       "shortcut": "ms",
-      "companyName": "Fazoli\u0027s"
+      "companyName": "Fazoli's"
     },
     {
       "name": "Social media",
       "content": "Give us a follow on IG: https://www.instagram.com/accounts/login/?next=/fazolisitalian/ and FB here: https://www.facebook.com/Fazolis",
       "id": "7bff9cdf-b5da-40c1-b2e3-f0eae0f8d3b7",
       "shortcut": "smd",
-      "companyName": "Fazoli\u0027s"
+      "companyName": "Fazoli's"
     },
     {
       "name": "Are the pizzas made to order or already baked?",
       "content": "Some whole pizzas are cooked to order, but the majority of our pizza is par-baked (one time through the bottom oven) and finished off to order (one final pass through the top/middle oven).",
       "id": "fa83d687-6129-49da-a463-ea53b2f971d4",
-      "companyName": "Fazoli\u0027s"
+      "companyName": "Fazoli's"
     },
     {
       "name": "Phone support",
-      "content": "To find the phone number, hours, or address for a specific location, select the participating store here: https://order.fazolis.com/locations, click on \u0027begin order\u0027 and then choose \u0027store information\u0027 or \u0027view menus\u0027.",
+      "content": "To find the phone number, hours, or address for a specific location, select the participating store here: https://order.fazolis.com/locations, click on 'begin order' and then choose 'store information' or 'view menus'.",
       "id": "059a9a92-67c0-48ba-bbcc-02ced3a40d0e",
       "shortcut": "ps",
-      "companyName": "Fazoli\u0027s"
+      "companyName": "Fazoli's"
     },
     {
       "name": "Customer support",
       "content": "If you have any questions regarding your online order, please contact the specific location for assistance.\n\nYou can find all locations here: https://order.fazolis.com/locations",
       "id": "29c997a6-4a26-46e8-a10c-28214e13d5a3",
       "shortcut": "cs",
-      "companyName": "Fazoli\u0027s"
+      "companyName": "Fazoli's"
     },
     {
       "name": "Rewards / referral",
       "content": "We have a rewards program where you can earn points to redeem on your favorites. Check it out here - https://fazolis.com/rewards",
       "id": "4924a3c1-bb80-4061-8a32-024579d27668",
       "shortcut": "rwd",
-      "companyName": "Fazoli\u0027s"
+      "companyName": "Fazoli's"
     },
     {
       "name": "Do you offer catering?",
-      "content": "Yes we do. We specialize in business meetings, corporate events, family meals, holiday occasions, team dinners and weddings. You can begin your order online here: https://cater.fazolis.com/ If you\u0027d like to get a quote, fill in the form at the bottom of this page: https://fazolis.com/catering Alternatively, you can call your local Fazoli\u0027s and our catering specialist will be happy to assist you.",
+      "content": "Yes we do. We specialize in business meetings, corporate events, family meals, holiday occasions, team dinners and weddings. You can begin your order online here: https://cater.fazolis.com/ If you'd like to get a quote, fill in the form at the bottom of this page: https://fazolis.com/catering Alternatively, you can call your local Fazoli's and our catering specialist will be happy to assist you.",
       "id": "14c594fb-ca4e-4111-a36c-f21d932bc3ed",
-      "companyName": "Fazoli\u0027s"
+      "companyName": "Fazoli's"
     },
     {
       "name": "Shipping time",
       "content": "You can begin your order here https://order.fazolis.com/ by choosing  your location, delivery time and delivery type.",
       "id": "52ca1e9a-6380-43e9-9479-582899f5505f",
       "shortcut": "shp",
-      "companyName": "Fazoli\u0027s"
+      "companyName": "Fazoli's"
     },
     {
       "name": "Store location / retailer",
-      "content": "You can find us near you here: https://order.fazolis.com/locations \n\nTo find the phone number, hours, or address for a specific location, select a store, click on \u0027begin order\u0027 and then choose \u0027store information\u0027 or \u0027view menus\u0027.",
+      "content": "You can find us near you here: https://order.fazolis.com/locations \n\nTo find the phone number, hours, or address for a specific location, select a store, click on 'begin order' and then choose 'store information' or 'view menus'.",
       "id": "508d4805-2438-4dd0-9776-db1170e9940d",
       "shortcut": "sl",
-      "companyName": "Fazoli\u0027s"
+      "companyName": "Fazoli's"
     },
     {
       "name": "Discount/Coupon Code Box",
-      "content": "You\u0027ll find the discount box at checkout. After selecting your online order and clicking on the cart button, input your details and select \"continue to payment\". You\u0027ll see the discount box labeled \"Coupon Code\". Let me know if you still can\u0027t find it! I\u0027ll be here if you need me.",
+      "content": "You'll find the discount box at checkout. After selecting your online order and clicking on the cart button, input your details and select \"continue to payment\". You'll see the discount box labeled \"Coupon Code\". Let me know if you still can't find it! I'll be here if you need me.",
       "id": "3314036f-3357-4b1d-b1d4-8cd093a29915",
       "shortcut": "db",
-      "companyName": "Fazoli\u0027s"
+      "companyName": "Fazoli's"
     },
     {
       "name": "Can the order be customized?",
       "content": "While we are not able to customize orders online (other than the options listed), you are welcome to check with your location directly to see if they can meet your request with an in-person order!",
       "id": "b0ec60da-819a-4d4c-adef-398c46bfe66a",
-      "companyName": "Fazoli\u0027s"
+      "companyName": "Fazoli's"
     },
     {
       "name": "How many does ultimate family sampler feed?",
       "content": "The Ultimate Sampler family meal serves 8.",
       "id": "218c6b7a-423e-48d1-ad77-4092cdd8ea7f",
-      "companyName": "Fazoli\u0027s"
+      "companyName": "Fazoli's"
     },
     {
       "name": "Can I use the code in store?",
       "content": "Yes, you can use this code while dining in. Just show the code to the cashier.",
       "id": "445ab05d-db59-42f3-9339-843217c43a9a",
-      "companyName": "Fazoli\u0027s"
+      "companyName": "Fazoli's"
     },
     {
       "name": "I placed an online order. Should I go through the drive through to pickup, or park and go inside to pickup?",
       "content": "Online orders can be picked up in drive-thru. Please proceed to drive-thru, let them know you placed an online order, and provide the name on the order.",
       "id": "b03a7fa7-b97a-4270-83e6-81338b947892",
-      "companyName": "Fazoli\u0027s"
+      "companyName": "Fazoli's"
     },
     {
       "name": "Does your  lasagna have pork in it?",
       "content": "Our lasagna does not contain pork.",
       "id": "edcd7beb-387c-4266-8ec6-5d77329b1e07",
-      "companyName": "Fazoli\u0027s"
+      "companyName": "Fazoli's"
     },
     {
       "name": "Cancel / edit order",
-      "content": "We\u0027re sorry to say that we cannot make changes via this method, for any changes you would need to contact your purchase location directly. You can find the location here: https://order.fazolis.com/locations To find the phone number for a specific location, select a store, click on \u0027begin order\u0027 and then choose \u0027store information\u0027 or \u0027view menus\u0027.",
+      "content": "We're sorry to say that we cannot make changes via this method, for any changes you would need to contact your purchase location directly. You can find the location here: https://order.fazolis.com/locations To find the phone number for a specific location, select a store, click on 'begin order' and then choose 'store information' or 'view menus'.",
       "id": "e760cfa2-446a-4043-86c3-65324b084175",
       "shortcut": "ced",
-      "companyName": "Fazoli\u0027s"
+      "companyName": "Fazoli's"
     },
     {
       "name": "How many people does the family meal feed/servings?",
       "content": "The small family meal is designed to serve 4, and the large is designed to serve 8!",
       "id": "f342b9cc-25f5-411f-9bef-1260b1565df6",
-      "companyName": "Fazoli\u0027s"
+      "companyName": "Fazoli's"
     },
     {
       "name": "What size is a whole pizza pie?",
       "content": "Our whole pizza pies are 14 inches.",
       "id": "460ac372-3c90-4699-b281-1a1cd3b2d731",
-      "companyName": "Fazoli\u0027s"
+      "companyName": "Fazoli's"
     },
     {
       "name": "How big is the large Spaghetti with Meatballs?",
       "content": "Our regular size is 10 oz pasta / 7 oz sauce.",
       "id": "787c35b2-6c6e-47df-904a-48fbb958084d",
-      "companyName": "Fazoli\u0027s"
+      "companyName": "Fazoli's"
     },
     {
       "name": "How big are the portions that come in the family meal that serves 4?",
       "content": "In the family meal that serves 4, you get 25 ounces of each pasta and 12 ounces of each sauce.",
       "id": "beef5a73-37c0-40ba-a007-817661f99fe5",
-      "companyName": "Fazoli\u0027s"
+      "companyName": "Fazoli's"
     },
     {
       "name": "Do you have any discounts?",
-      "content": "Hi! Thanks for reaching out! Have you downloaded our rewards app? If you haven\u0027t, you can download here: https://fazolis.com/rewards/\n\nYou\u0027ll get $5 off $15 when you sign up!",
+      "content": "Hi! Thanks for reaching out! Have you downloaded our rewards app? If you haven't, you can download here: https://fazolis.com/rewards/\n\nYou'll get $5 off $15 when you sign up!",
       "id": "8906a783-5d9e-42f6-9f5f-e6ad0734893e",
       "shortcut": "dhd",
-      "companyName": "Fazoli\u0027s"
+      "companyName": "Fazoli's"
     }
   ]
 }

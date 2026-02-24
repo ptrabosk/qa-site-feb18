@@ -11,9 +11,7 @@ function loadRuntimeSendIds(fallback = []) {
   } catch (_) {
     // Ignore file read/index parse errors and fall back to static ids.
   }
-  return Array.isArray(fallback)
-    ? fallback.map((v) => String(v || '').trim()).filter(Boolean)
-    : [];
+  return Array.isArray(fallback) ? fallback.map((v) => String(v || '').trim()).filter(Boolean) : [];
 }
 
 function createMockMultiAuditorApi(options = {}) {

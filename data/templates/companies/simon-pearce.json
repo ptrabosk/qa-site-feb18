@@ -1,0 +1,210 @@
+{
+  "companyKey": "simon pearce",
+  "templates": [
+    {
+      "name": "Military / First responder / Healthcare / Teacher discount",
+      "content": "Thank you for your service! We don't have any specific discounts like that, but our deals will always be shared with our SMS subscribers or on our website, so keep an eye out!",
+      "id": "1b506dad-3f80-4469-bf30-22124f71b9d6",
+      "shortcut": "ms",
+      "companyName": "Simon Pearce"
+    },
+    {
+      "name": "Do you offer expedited shipping?",
+      "content": "We offer 2-Day and Overnight shipping. UPS 2-Day orders placed before 11:00 am EST will arrive within two to three business days. UPS Overnight orders placed before 11:00 am EST will arrive in one to two business days. We ship only Monday through Friday; we do not ship Saturday or Sunday.\n\nPlease note that selecting 2-Day or Overnight delivery means we will ship your order via that method after we have processed, packaged, and prepared your order.",
+      "id": "eb296995-2873-45b9-9050-9373f9bba220",
+      "companyName": "Simon Pearce"
+    },
+    {
+      "name": "Return policy",
+      "content": "You can check out our detailed return policy here: https://simonpearce.com/pages/customer-care?page-returns",
+      "id": "bbc92e58-e4f1-429b-8f8c-5a22151ddc7b",
+      "shortcut": "rp",
+      "companyName": "Simon Pearce"
+    },
+    {
+      "name": "Cancel / edit order",
+      "content": "I can check if that's possible. What's the order number, email address and the change you'd like to make?",
+      "id": "6792ca75-937d-4273-8943-522b750c9ed4",
+      "shortcut": "ced",
+      "companyName": "Simon Pearce"
+    },
+    {
+      "name": "I want to create a registry. Where do I start?",
+      "content": "You can easily create a registry by filling out some basic information and creating a username and a password for your registry. This username and password is separate from your Simon Pearce customer login. However, you may use the same information if you like. You can create your registry here: https://simonpearce.com/pages/gift-registry",
+      "id": "f654a4fb-bee2-4d05-a759-67a428f0588b",
+      "companyName": "Simon Pearce"
+    },
+    {
+      "name": "I received a gift card. How can I redeem it?",
+      "content": "You can redeem your gift card by visiting one of our store locations or by contacting our customer care department at 800-774-5277.",
+      "id": "a8f50fa4-27c8-4f01-98ba-72f67c4951fe",
+      "companyName": "Simon Pearce"
+    },
+    {
+      "name": "Do you offer international shipping?",
+      "content": "While we are unable to provide international shipping online or in our stores at this time, this service is coming soon.  Please contact customer care at 800-774-5277 or customercare@simonpearce.com for additional information.",
+      "id": "3e43d13e-e484-43e9-83ca-0b6bfbf5deaa",
+      "companyName": "Simon Pearce"
+    },
+    {
+      "name": "Where do you source your home accents from?",
+      "content": "Our priority is to always work with local and domestic partners. Though not all of our home accessory products are made in the United States, we are very selective in choosing our foreign business partners. When possible, we develop relationships with vendors that help growing communities, woman, tribes, and towns in developing nations throughout the world. We enjoy assisting them with their causes and it allows us the opportunity to provide our customers with original, high quality, hand crafted products that are not available in many places.",
+      "id": "9e6daf95-079a-49ad-83cf-d547c6c987be",
+      "companyName": "Simon Pearce"
+    },
+    {
+      "name": "Are your products dishwasher safe?",
+      "content": "Our lead-free glassware is dishwasher safe, although hand washing is recommended. Avoid cleaners that contain citrus, as it may damage the glass and potentially cause cloudiness. Extreme changes in temperature may cause our glass to crack. Glass pieces with handles are particularly vulnerable. We suggest you not use glass in the microwave or place in the refrigerator or freezer to chill. Boiling hot liquids should never be poured into any handled glass. When pouring hot liquids into any other glass, place a metal spoon in the container before pouring. Intense heat may cause a candleholder to crack if the flame is allowed to burn below the rim.\n\nAll our pottery is lead-free and safe to place in the dishwasher or microwave. We do suggest you put baking dishes in a cold oven, rather than a preheated oven, when cooking or baking, allowing them to come to temperature as the oven warms.",
+      "id": "d65ff77d-1bbd-4182-8bae-76d761802b90",
+      "companyName": "Simon Pearce"
+    },
+    {
+      "name": "When can I expect my engraved order to be delivered?",
+      "content": "Engraved orders may take up to 4 weeks for delivery.",
+      "id": "c10f46c9-85dd-4dba-be31-0d1fbea7c0a7",
+      "companyName": "Simon Pearce"
+    },
+    {
+      "name": "How do I add a shipping address to my registry?",
+      "content": "To add a shipping address, login to your account and click the 'Settings' tab. From that menu, choose 'Profile & shipping info'. You can enter your address below the 'Shipping info' section. Once you add shipping information, it will display for your website visitors when they click the \"shipping info\" button at the top of your registry. We highly recommend that when you create a registry, you provide your visitors with an address to where they can ship their purchases. Many visitors find it convenient to have that kind of information handy for them when purchasing a gift for you.",
+      "id": "2fe3d83f-3e6c-4965-87ad-6d3589bacaa4",
+      "companyName": "Simon Pearce"
+    },
+    {
+      "name": "What fonts are availabe for engraving?",
+      "content": "You can take a look at our engraving font samples here: https://static.simonpearce.com/simon-pearce-font-samples.pdf Please note that all personalized/ engraved items are considered final sale and are not eligible for refunds, exchanges or price adjustments.",
+      "id": "b915b58e-60d5-42f9-ad71-76b60f9be0c8",
+      "companyName": "Simon Pearce"
+    },
+    {
+      "name": "How do I start a return?",
+      "content": "You can start your return here: https://returns.simonpearce.com/#/",
+      "id": "b432ed3e-48df-4765-9738-b868bafba871",
+      "companyName": "Simon Pearce"
+    },
+    {
+      "name": "How does corporate gifting work?",
+      "content": "You can learn more about corporate gifting at the following link: https://simonpearce.com/pages/corporate-gifting",
+      "id": "c76b71b5-a5b2-48e5-af4e-69021cea3a4b",
+      "companyName": "Simon Pearce"
+    },
+    {
+      "name": "Wholesale inquiries",
+      "content": "Thank you for your interest! You can learn more and apply for wholesale here: https://simonpearce.com/pages/wholesale-partners",
+      "id": "df6158da-d0e3-41a3-bba3-7aba9161c51e",
+      "shortcut": "wls",
+      "companyName": "Simon Pearce"
+    },
+    {
+      "name": "Brand ambassador / sponsorship / affiliate program",
+      "content": "Thank you for your interest! The best way to discuss this is to contact us via this link: https://simonpearce.com/pages/customer-care?page-customer-care Our team is happy to chat.",
+      "id": "9a89ce74-9faf-4f3b-8236-c66b5c4aaed9",
+      "shortcut": "ams",
+      "companyName": "Simon Pearce"
+    },
+    {
+      "name": "Phone support",
+      "content": "You can give us a call at 1 (800) 774-5277, Monday - Friday 9am - 5pm EST, or let me know if I can help via text, it may be faster.",
+      "id": "3253e42f-3799-4732-a9fb-b57dfeacd210",
+      "shortcut": "ps",
+      "companyName": "Simon Pearce"
+    },
+    {
+      "name": "Store location / retailer",
+      "content": "We have 12 stores across the United States. You can find more details on each storefront here: https://simonpearce.com/pages/our-stores",
+      "id": "3f42df0a-b28d-4fdf-80ba-649894220e19",
+      "shortcut": "sl",
+      "companyName": "Simon Pearce"
+    },
+    {
+      "name": "Do you offer gift wrapping?",
+      "content": "While many items are eligible for our signature gift boxes with ribbon, please note that not all products qualify. Gift Boxes are unavailable for seconds items, lampshades, books, gift cards, oversized items, and specific bowls and lamps. Additionally, some boxed items may not be eligible for ribbon wrapping.",
+      "id": "16fbdddf-9580-440f-9a8d-b72d27f833a3",
+      "companyName": "Simon Pearce"
+    },
+    {
+      "name": "Is there a way to check my gift card balance?",
+      "content": "You can check your gift card balance by contacting our Customer Care team via this link: https://simonpearce.com/pages/customer-care",
+      "id": "8fdaa9af-9ecb-4d5d-b12c-d7bb0d309e1c",
+      "companyName": "Simon Pearce"
+    },
+    {
+      "name": "How do I delete a gift I added to my registry?",
+      "content": "Please login to your account and click on the 'My Gifts' tab. Then hover over the item you'd like to delete and click the 'Trashcan' icon to delete that gift.",
+      "id": "35b98e0c-3ac9-4f3c-adea-7c440c60f3fa",
+      "companyName": "Simon Pearce"
+    },
+    {
+      "name": "Shipping time",
+      "content": "Our processing time takes up to 3 business days and we usually ship via UPS. Once shipped it will take 5-7 business days for domestic orders.",
+      "id": "7aeb0975-b14b-49c6-8a67-43d584cc20fe",
+      "shortcut": "shp",
+      "companyName": "Simon Pearce"
+    },
+    {
+      "name": "What is the difference between first and second quality?",
+      "content": "The nature of our handblown glass and pottery is such that each individually made item will have its own character and will contain minor imperfections and variations from piece to piece. All simon pearce glass and pottery must meet specific quality control standards for size, weight, height, and shape. It is then qualified to be sold as a first- or second-quality item. Second-quality items simply meet a slightly more relaxed standard but are equally as durable as our first-quality items. Second-quality glass and second-quality pottery are available in our Quechee, Windsor and Mountain Lake Park factory stores. Please note that all seconds purchases are final sale.",
+      "id": "018c59d0-a9dc-45fa-8709-5b2b0e91951d",
+      "companyName": "Simon Pearce"
+    },
+    {
+      "name": "How do I share my registry?",
+      "content": "To share your Simon Pearce registry, search for your registry on our website and click the 'Share' button to grab your Simon Pearce registry link. You can then include your link on your invitations, wedding website or any other place you wish to share your registry.",
+      "id": "5ea2934f-61f9-4e3e-b9de-ca05fd2c940b",
+      "companyName": "Simon Pearce"
+    },
+    {
+      "name": "Social media",
+      "content": "Give us a follow on IG: https://www.instagram.com/simonpearce/ and FB here: https://www.facebook.com/Simon.Pearce.Glass",
+      "id": "6ac9ed1d-be77-46ce-b918-cbd17977736e",
+      "shortcut": "smd",
+      "companyName": "Simon Pearce"
+    },
+    {
+      "name": "Free shipping",
+      "content": "We don't currently offer free shipping, but all promos will always be shared with our SMS subscribers or on our website, so keep an eye out!",
+      "id": "84f7a90a-0c3b-4a38-9a2b-782e38d3647b",
+      "shortcut": "fs",
+      "companyName": "Simon Pearce"
+    },
+    {
+      "name": "Too many emails - brand specific",
+      "content": "I'm sorry to hear that you no longer wish to receive our emails. Thank you for reaching out. We will unsubscribe you.",
+      "id": "10dd90fa-b4f5-4775-a2db-69a1069e43ce",
+      "shortcut": "tme",
+      "companyName": "Simon Pearce"
+    },
+    {
+      "name": "Do you have any second items?",
+      "content": "We offer a Seconds Collection of pieces that have natural and slight variations. You can browse through them here: https://simonpearce.com/collections/seconds",
+      "id": "b04d075a-212c-48ac-a0ba-df7674d1a989",
+      "companyName": "Simon Pearce"
+    },
+    {
+      "name": "Do you sell seconds at XX store?",
+      "content": "Seconds items are available online and in our factory stores in Quechee, Vermont; Windsor, Vermont and Oakland, MD. Please note inventory varies at each location.",
+      "id": "5f3ecd9e-c455-42fc-8450-7cfb779bdf1e",
+      "companyName": "Simon Pearce"
+    },
+    {
+      "name": "Customer support",
+      "content": "The best way to handle this is to email us directly at customercare@simonpearce.com or give us a call at (800) 774-5277, Monday - Friday 9am - 5pm EST. Our team is happy to help!",
+      "id": "e9c38aa8-7062-4b83-9efc-27ad6faca882",
+      "shortcut": "cs",
+      "companyName": "Simon Pearce"
+    },
+    {
+      "name": "With how many glasses does the Beer Glass Gift Set come with?",
+      "content": "The Beer Glass Gift Set comes with only one of each style of glass, three glasses in total.",
+      "id": "84f33b28-4274-4c2d-9c9d-dfb1b1015f68",
+      "companyName": "Simon Pearce"
+    },
+    {
+      "name": "Sales Collection",
+      "content": "You can take a look at our sale collection here: https://simonpearce.com/collections/sale",
+      "id": "7d0c27d9-0b86-43a5-a961-a317a228795f",
+      "shortcut": "spg",
+      "companyName": "Simon Pearce"
+    }
+  ]
+}

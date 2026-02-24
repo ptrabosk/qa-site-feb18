@@ -9,34 +9,34 @@
     },
     {
       "name": "Cancel / edit order",
-      "content": "I can check if that\u0027s possible. What\u0027s the order number, email address, and the change you\u0027d like to make?",
+      "content": "I can check if that's possible. What's the order number, email address, and the change you'd like to make?",
       "id": "8371c36a-18ad-4c72-a960-6c80b9592cbe",
       "shortcut": "ced",
       "companyName": "HOP WTR"
     },
     {
       "name": "Military / first responder discount",
-      "content": "Thank you for your service! We don\u0027t have any specific discounts like that, but our deals will always be shared with our SMS subscribers or on our website, so keep an eye out!",
+      "content": "Thank you for your service! We don't have any specific discounts like that, but our deals will always be shared with our SMS subscribers or on our website, so keep an eye out!",
       "id": "a5293ef5-661e-4594-ab8e-00c89cda7fd5",
       "shortcut": "ms",
       "companyName": "HOP WTR"
     },
     {
       "name": "Phone support",
-      "content": "We don\u0027t offer phone support right now but I\u0027d be happy to help you over text, let me know what I can do for you!",
+      "content": "We don't offer phone support right now but I'd be happy to help you over text, let me know what I can do for you!",
       "id": "43099a15-2de8-48b4-a8fd-693c80c97182",
       "shortcut": "ps",
       "companyName": "HOP WTR"
     },
     {
       "name": "Do you offer free samples?",
-      "content": "We don\u0027t have free samples to give out through our website, but we\u0027re available in some retail locations: https://hopwtr.attn.tv/sl/lBjttFcN Some of them offer single cans or 6-packs as a smaller format option.",
+      "content": "We don't have free samples to give out through our website, but we're available in some retail locations: https://hopwtr.attn.tv/sl/lBjttFcN Some of them offer single cans or 6-packs as a smaller format option.",
       "id": "0b2e1164-7412-4f24-82af-2bc098411057",
       "companyName": "HOP WTR"
     },
     {
       "name": "Mango sparkling hop details",
-      "content": "So happy to hear that you want to give one of our products a try! You can check out our Mango Sparkling Hop Water here: https://hopwtr.attn.tv/sl/iUdTibuq It\u0027s refreshing and hydrating with 0g carbs, 0g calories, 0g sugar and 120% Vitamin C!",
+      "content": "So happy to hear that you want to give one of our products a try! You can check out our Mango Sparkling Hop Water here: https://hopwtr.attn.tv/sl/iUdTibuq It's refreshing and hydrating with 0g carbs, 0g calories, 0g sugar and 120% Vitamin C!",
       "id": "ce0b0106-d535-45be-b57b-0327edda673c",
       "companyName": "HOP WTR"
     },
@@ -77,7 +77,7 @@
     },
     {
       "name": "Do you ship to Alaska/Hawaii?",
-      "content": "We only ship to the continental US at the moment, though I\u0027ll definitely pass this along to the team to consider in the future.",
+      "content": "We only ship to the continental US at the moment, though I'll definitely pass this along to the team to consider in the future.",
       "id": "6700a26d-6f11-4996-9407-f4ce8e8eedfd",
       "companyName": "HOP WTR"
     },
@@ -111,7 +111,7 @@
     },
     {
       "name": "Do you ship to Hawaii?",
-      "content": "Unfortunately, we don\u0027t ship to Hawaii at this time, but we\u0027re available in stores in Hawaii. Please check out our store locator to see if there is a store near you here:  https://hopwtr.attn.tv/sl/nl2EP24D",
+      "content": "Unfortunately, we don't ship to Hawaii at this time, but we're available in stores in Hawaii. Please check out our store locator to see if there is a store near you here:  https://hopwtr.attn.tv/sl/nl2EP24D",
       "id": "e5507bb6-3691-448c-be4d-58911711d174",
       "companyName": "HOP WTR"
     },
@@ -135,7 +135,7 @@
     },
     {
       "name": "What am I going to feel when I drink your product?",
-      "content": "Adaptogens and nootropics feel different for everyone. Most responses range from focused calm energy to uplifting euphoria. Here\u0027s why: the ingredients in HOP WTR adapt to your body. So while you may feel an urge to mellow out after a can, a friend may be more inclined to go for a run or start working on their next startup idea. Your unique neurochemistry and hormones - along with sleep quality and stress levels - all have an effect on how adaptogens and nootropics affect you.",
+      "content": "Adaptogens and nootropics feel different for everyone. Most responses range from focused calm energy to uplifting euphoria. Here's why: the ingredients in HOP WTR adapt to your body. So while you may feel an urge to mellow out after a can, a friend may be more inclined to go for a run or start working on their next startup idea. Your unique neurochemistry and hormones - along with sleep quality and stress levels - all have an effect on how adaptogens and nootropics affect you.",
       "id": "d15a1fb3-4ea2-4b50-88f7-0360146ffad1",
       "companyName": "HOP WTR"
     },
@@ -147,13 +147,13 @@
     },
     {
       "name": "Can women who are pregnant or breastfeeding drink hop wtr?",
-      "content": "Out of an abundance of caution, we recommend checking with your doctor first. There haven\u0027t been enough studies to show the effects of the functional ingredients in HOP WTR while pregnant or breastfeeding, so we generally suggest consulting with a medical professional about your individual circumstance.",
+      "content": "Out of an abundance of caution, we recommend checking with your doctor first. There haven't been enough studies to show the effects of the functional ingredients in HOP WTR while pregnant or breastfeeding, so we generally suggest consulting with a medical professional about your individual circumstance.",
       "id": "883bd56a-016f-4c53-bb37-851475ab85cd",
       "companyName": "HOP WTR"
     },
     {
       "name": "What are nootropics and what kind of nootropics do you use?",
-      "content": "Nootropics are supplements that boost your brain\u0027s function by targeting specific neurotransmitters such as serotonin and dopamine. This exotic term derives from the Greek word \"noos\" (mind) and \"tropein,\" which means \"towards.\" We use a 50mg dose of mood-boosting L-Theanine that is shown to improve memory, decision-making, creativity and overall cognitive performance.",
+      "content": "Nootropics are supplements that boost your brain's function by targeting specific neurotransmitters such as serotonin and dopamine. This exotic term derives from the Greek word \"noos\" (mind) and \"tropein,\" which means \"towards.\" We use a 50mg dose of mood-boosting L-Theanine that is shown to improve memory, decision-making, creativity and overall cognitive performance.",
       "id": "ea8549d1-b847-4dc6-a06b-7f3185125c98",
       "companyName": "HOP WTR"
     },
@@ -171,7 +171,7 @@
     },
     {
       "name": "What is HOP WTR?",
-      "content": "It\u0027s a calorie-free, hop-filled sparkling water crafted with stress-busting adaptogens and nootropics.",
+      "content": "It's a calorie-free, hop-filled sparkling water crafted with stress-busting adaptogens and nootropics.",
       "id": "f2e78f34-f1d5-459d-8abb-88e2a4974b8f",
       "companyName": "HOP WTR"
     },
@@ -189,7 +189,7 @@
     },
     {
       "name": "Are your products non GMO?",
-      "content": "Yes! We\u0027re proudly Non-GMO Project Verified. We pride ourselves on using the highest-quality ingredients on the market!",
+      "content": "Yes! We're proudly Non-GMO Project Verified. We pride ourselves on using the highest-quality ingredients on the market!",
       "id": "4b17d3a2-ee33-4ec1-994a-895a2522cf73",
       "companyName": "HOP WTR"
     },
@@ -213,7 +213,7 @@
     },
     {
       "name": "How is HOP WTR produced?",
-      "content": "I\u0027m afraid we can\u0027t share details on the production process as it\u0027s proprietary, apologies for the inconvenience!",
+      "content": "I'm afraid we can't share details on the production process as it's proprietary, apologies for the inconvenience!",
       "id": "307bb542-be07-461c-93f5-48c0fc0e955d",
       "companyName": "HOP WTR"
     }

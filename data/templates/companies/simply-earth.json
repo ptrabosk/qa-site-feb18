@@ -1,0 +1,278 @@
+{
+  "companyKey": "simply earth",
+  "templates": [
+    {
+      "name": "How can I change/update my payment method?",
+      "content": "Please log in to your account: https://simplyearth.com/login?externalId=wZr9U Once you are in, scroll down slightly, and click on a box on the left side of the page that says PAYMENT METHOD. You can then change your payment method here! Do not forget to click SAVE; otherwise, the system will not know how to save your updated payment method. You can also check out this video on how to update your payment method: https://simplyearth.attn.tv/ajIpCvIXdEqa",
+      "id": "edd856a5-ee67-4f2c-a36d-415ec51351a4",
+      "companyName": "Simply Earth"
+    },
+    {
+      "name": "Where are you located?",
+      "content": "The warehouse is located in Wisconsin, but we have different store locations, and you can use this link to check the nearest store in your area: https://simplyearth.attn.tv/sl/LiK4hNOc",
+      "id": "c6e546d8-1c03-4b21-97f5-38ebb50d1b77",
+      "companyName": "Simply Earth"
+    },
+    {
+      "name": "Free shipping",
+      "content": "We offer free shipping on domestic orders over $29. Maybe you can add something else to reach the minimum?",
+      "id": "dc6f8089-28e5-4705-ba5c-514e5a90dba4",
+      "shortcut": "fs",
+      "companyName": "Simply Earth"
+    },
+    {
+      "name": "Social media",
+      "content": "Give us a follow on IG: https://www.instagram.com/fromsimplyearth/?hl=en and FB here: https://www.facebook.com/fromsimplyearth/",
+      "id": "bf1caf7c-a984-4948-b34b-7c3a8b97f162",
+      "shortcut": "smd",
+      "companyName": "Simply Earth"
+    },
+    {
+      "name": "Customer support",
+      "content": "The best way to handle this is to email us directly at help@simplyearth.com. Our team is happy to help!",
+      "id": "b9ea9892-5b38-430e-bfd5-281e563889d1",
+      "shortcut": "cs",
+      "companyName": "Simply Earth"
+    },
+    {
+      "name": "Return policy",
+      "content": "You can check out our detailed return policy here: https://simplyearth.helpscoutdocs.com/article/189-return-policy",
+      "id": "9674ea43-2efc-47fc-be31-c047563d09e5",
+      "shortcut": "rp",
+      "companyName": "Simply Earth"
+    },
+    {
+      "name": "Phone support",
+      "content": "You can give us a call at 866-330-8165 (M-F 7am-3pm CST) or let me know if I can help via text, it may be faster.",
+      "id": "c09481cc-bd25-4010-8c66-1297073f9ca7",
+      "shortcut": "ps",
+      "companyName": "Simply Earth"
+    },
+    {
+      "name": "How do I store essential oils?",
+      "content": "Our Certified Aromatherapists recommend storing your essential oils in a dark place away from direct sunlight. We recommend storing them at no warmer than room temperature (72 degrees Fahrenheit). It is also essential that the lids are tightly shut. Keep in mind that most of our oils have a shelf life of 18 months or more! \n\nWe also have some Storage Boxes on our website that are a great accessory in storing your essential oils: https://simplyearth.com/products/wooden-essential-oil-box-fits-36",
+      "id": "5e55e9b6-d1fa-4479-9e64-c1ea740459ad",
+      "companyName": "Simply Earth"
+    },
+    {
+      "name": "Military / First responder / Healthcare / Teacher discount",
+      "content": "Thank you for your service! We don't have any specific discounts like that, but our deals will always be shared with our SMS subscribers or on our website, so keep an eye out!",
+      "id": "07313987-464c-45b8-a8ac-39eef0841b3c",
+      "shortcut": "ms",
+      "companyName": "Simply Earth"
+    },
+    {
+      "name": "Do you ship internationally?",
+      "content": "Yes, we do! You can take a look at the list of countries we currently ship to here: https://simplyearth.helpscoutdocs.com/article/232-do-you-ship-internationally",
+      "id": "36a70930-decb-485f-96e2-b3c2ff0bb8de",
+      "companyName": "Simply Earth"
+    },
+    {
+      "name": "Can I exchange the oils in my subscription box?",
+      "content": "Yes, you can exchange the oils that come in your box for different oils for a small fee of $2 per oil when the exchanged oil's price is within $2 of the original oil. In order to initiate the exchange please follow the steps on this link: https://simplyearth.helpscoutdocs.com/article/230-can-i-exchange-oils-in-my-subscription-box",
+      "id": "3c962ef7-a319-4bda-b14d-fdfb31771fba",
+      "companyName": "Simply Earth"
+    },
+    {
+      "name": "How to change the shipment date",
+      "content": "Please follow the steps on how to change the date your box is shipped here: https://simplyearth.helpscoutdocs.com/article/160-how-do-i-change-my-shipping-date",
+      "id": "80efccae-dc87-45e0-a02a-89a6dca04b51",
+      "companyName": "Simply Earth"
+    },
+    {
+      "name": "What’s the difference between your oils and the big brands out there?",
+      "content": "We pride ourselves on having the purest oils on earth. Our oils will either meet or exceed the big brand's quality. We source our pure oils directly and ethically from small farms in small batches, bottle them at our facility in Hingham, WI, and then sell the oils directly to you with no middle man. That's why we're able to charge so much less than a lot of other big essential oil companies, while still delivering stellar quality.\n\nWe are a family-owned business that is passionate about helping our customers create a toxin-free home. We are also a socially conscious brand, striving to be world changers by sourcing our oils ethically and by giving 13% of our profits to help end human trafficking.",
+      "id": "c75c7559-5067-4bfc-bfb6-d5ef9740452e",
+      "companyName": "Simply Earth"
+    },
+    {
+      "name": "Rewards / referral",
+      "content": "We have a referral program where you can give your friends $50 off their subscription box ($10 off for 5 months) and when they subscribe you'll receive 50% off your monthly box. Check out this video on how you can work the referral program - https://simplyearth.helpscoutdocs.com/article/205-i-would-love-to-refer-people-do-you-offer-a-program-for-this",
+      "id": "6f1b33a7-a671-4fc7-89f3-2b59b5268b78",
+      "shortcut": "rwd",
+      "companyName": "Simply Earth"
+    },
+    {
+      "name": "If I skip, pause, or cancel, do I lose my referral credit?",
+      "content": "If you skip or pause, your credit will get applied to the next box you order. If you cancel your box before you can claim your referral credit, you will need to re-activate your subscription to be eligible to redeem your referral rewards. \n\nYour $10 Discount on your referral boxes won't move to the next box, and your Big Bonus Box count will be moved forward 1 month.",
+      "id": "3630f31d-f1a0-492d-8a8c-483cc14e9e47",
+      "companyName": "Simply Earth"
+    },
+    {
+      "name": "Shipping time",
+      "content": "Once your order is shipped it will take 3-10 business days for domestic orders and up to 28 business days for international orders.",
+      "id": "999712c8-e186-497c-86d9-97e297ad12fa",
+      "shortcut": "shp",
+      "companyName": "Simply Earth"
+    },
+    {
+      "name": "Can I apply essential oils directly to my skin?",
+      "content": "Our aromatherapists recommend that all 100% pure essential oils, regardless of brand, should always be diluted with a carrier oil to avoid irritating the skin. As an additional guide, you can download our free eBook on essential oils here: https://simplyearth.com/pages/ebook",
+      "id": "d39aecb0-0b1a-4a32-96c8-32de2d658319",
+      "companyName": "Simply Earth"
+    },
+    {
+      "name": "Can I refer a friend who is already a subscriber?",
+      "content": "Unfortunately, no. To qualify for this program, your friend must be a new Simply Earth Recipe Box subscriber. If they have placed orders with us in the past but have never subscribed to our essential oil recipe box, those friends will qualify as a referral.",
+      "id": "dc0d0f2e-3cf2-412e-8ac2-759e8219b856",
+      "companyName": "Simply Earth"
+    },
+    {
+      "name": "How do I dilute essential oils?",
+      "content": "All of our essential oils are 100% pure and not diluted in any way. Our Certified Aromatherapists recommend that when using our oils topically, you use proper dilution rates. We recommend a 1%-3% dilution rate. You can find more details here: https://simplyearth.helpscoutdocs.com/article/151-how-to-dilute-the-essential-oils",
+      "id": "19b0f580-9847-4ab5-a6e6-5fb63b985415",
+      "companyName": "Simply Earth"
+    },
+    {
+      "name": "Can I use both a promo code and a gift card code in one order?",
+      "content": "Yes, you can use one promo code and one gift card code per order. Make sure to put them in the right code box upon checkout, and click apply.",
+      "id": "37d0ae6d-c3cd-497d-8517-a5b214f14e24",
+      "companyName": "Simply Earth"
+    },
+    {
+      "name": "How do I skip a box?",
+      "content": "You can do that by logging in to your account and then clicking on \"Manage Subscriptions\" on the left side of your account panel. You can also click \"Skip This Month\" in the Manage Upcoming Orders section towards the bottom of your account page.",
+      "id": "3ca96768-55f5-44f6-843d-935922271b07",
+      "companyName": "Simply Earth"
+    },
+    {
+      "name": "I'm just starting - how do I use essential oils?",
+      "content": "We have a free Ebook which you can get here: https://simplyearth.com/pages/ebook Also, our Certified Aromatherapists have spent a lot of time writing and blogging about our oils and have all of their work published on our website: https://blog.simplyearth.com/ There you will find information about our essential oils, tips, tricks, recipes, and much much more!",
+      "id": "2d7c2db4-8229-422d-a900-a1074a8e6bde",
+      "companyName": "Simply Earth"
+    },
+    {
+      "name": "Store location / retailer",
+      "content": "You can find us at a store near you here: https://simplyearth.com/store-locator",
+      "id": "5f7f962a-ab56-4c21-8cac-f8005c69215e",
+      "shortcut": "sl",
+      "companyName": "Simply Earth"
+    },
+    {
+      "name": "What is the difference between roll-ons, blends, and single oils?",
+      "content": "Oils in roll-ons come pre-diluted in a carrier oil and are safe for topical application. Single and blend oils are pure and concentrated, meaning that we recommend the single and blend oils be diluted before applying topically.",
+      "id": "4163e0a3-bc2d-43f5-bef4-5b5906421b31",
+      "companyName": "Simply Earth"
+    },
+    {
+      "name": "Why did you change bottles?",
+      "content": "The new bottle was a necessary step for us, to make sure that the oils are safer, and for us to be able to keep providing you with amazing oils at the same amazing price point. Other than the bottle, these are the same oils.",
+      "id": "87c7154d-fe2e-4131-ae67-9245b4ae3fa4",
+      "companyName": "Simply Earth"
+    },
+    {
+      "name": "What's inside my box?",
+      "content": "Every month is designed around a new theme with ingredients, containers, and extras you need to make 6 natural recipes (this includes 4 full-sized bottles of essential oils!) ... delivered right to your doorstep. You can find out what's in the monthly box being sold now here: https://simplyearth.com/pages/essential-oil-recipe-box",
+      "id": "83943cb7-20d0-4768-8cdb-64b8e93c3d6c",
+      "companyName": "Simply Earth"
+    },
+    {
+      "name": "Wholesale inquiries",
+      "content": "Thank you for your interest! You can learn more and apply for wholesale here: https://simplyearth.com/pages/wholesale-apply",
+      "id": "647e36ee-4bb1-4530-9b7a-45b426175fc1",
+      "shortcut": "wls",
+      "companyName": "Simply Earth"
+    },
+    {
+      "name": "Brand ambassador / sponsorship / affiliate program",
+      "content": "Thank you for your interest! You can learn more and apply for our ambassador program here: https://simplyearth.com/pages/ambassador",
+      "id": "59d35f0b-3eb1-4bb4-bfcd-54209af49258",
+      "shortcut": "ams",
+      "companyName": "Simply Earth"
+    },
+    {
+      "name": "Do you have recommendations about ingesting essential oils?",
+      "content": "Our certified aromatherapists have put together an article that explains why we don't recommend ingesting essential oils, regardless of brand. You can check out the article here: https://blog.simplyearth.com/is-ingesting-essential-oils-safe/",
+      "id": "0d66bc8d-c159-4118-a2fc-6d7d20c7a8ee",
+      "companyName": "Simply Earth"
+    },
+    {
+      "name": "Do you have gift cards?",
+      "content": "Yes, we do! You can select the gift card that you would like to purchase here: https://simplyearth.com/products/gift-card",
+      "id": "20c47458-2957-4a33-a53b-e1c2fe718c40",
+      "companyName": "Simply Earth"
+    },
+    {
+      "name": "How do I redeem my free month?",
+      "content": "It will automatically be applied to your account!",
+      "id": "7cc56507-3f3b-49ce-89cb-0bb67f214191",
+      "companyName": "Simply Earth"
+    },
+    {
+      "name": "I just placed my subscription! When will my box be shipped?",
+      "content": "Expect your box to ship the business day after you order for the first month, and shipping will always be on that day of the month going forward. If you ordered your first box after the 20th of the month, we move your recurring box date up to the 20th. \n\nFor example, if you order your first box on August 25th - that box will leave our warehouse within 1 business day. The next month's (September's) bill and ship date will be September 20th.",
+      "id": "15d004e7-6b7a-45aa-ab9d-ea0c21113851",
+      "companyName": "Simply Earth"
+    },
+    {
+      "name": "Can I add other products to be shipped along with my box?",
+      "content": "Yes, you absolutely can! Please check out the steps on how to add other products here: https://simplyearth.helpscoutdocs.com/article/158-can-i-add-other-products-to-be-shipped-along-with-my-box",
+      "id": "b1cc73b4-5732-4210-9b83-5abbdb8fe4b7",
+      "companyName": "Simply Earth"
+    },
+    {
+      "name": "Where are your products manufactured?",
+      "content": "We source our pure oils directly and ethically from small farms in small batches and bottle them at our facility in Hingham, WI.",
+      "id": "89dbbec1-2b71-49dc-94d1-c1a6b9c173e5",
+      "shortcut": "mfc",
+      "companyName": "Simply Earth"
+    },
+    {
+      "name": "Retroactive discount request",
+      "content": "Unfortunately, promo codes can't be added retrospectively to an already-placed order. Apologies for the inconvenience this may cause!",
+      "id": "1700bc15-636c-4dad-9772-339d6c862ec6",
+      "shortcut": "rdr",
+      "companyName": "Simply Earth"
+    },
+    {
+      "name": "Cancel / edit order",
+      "content": "We don't handle post-purchase requests via text. Please email your request to help@simplyearth.com or feel free to call this number 866-330-8165 Monday-Friday 7am-3pm CST. Please let me know if you have any questions about our products, I'm more than happy to help you here!",
+      "id": "3068eb5b-e68a-475b-902f-954c8c01cd25",
+      "shortcut": "ced",
+      "companyName": "Simply Earth"
+    },
+    {
+      "name": "How do I track my order? / Order status",
+      "content": "You can log in to our website ( https://simplyearth.com/login ) and follow the steps here: https://simplyearth.helpscoutdocs.com/article/187-how-to-track-order",
+      "id": "c767c4b5-6975-4c06-a588-4815465e17a9",
+      "companyName": "Simply Earth"
+    },
+    {
+      "name": "Is your Witch Hazel just a water and Witch Hazel extract? How is it extracted?",
+      "content": "The Witch hazel extract is a clear liquid distilled from the twigs and bark of the witch hazel tree (Hamamelis virginiana), and the certified organic witch hazel extract we offer is collected and distilled domestically.\n\nWitch Hazel Distillate, sometimes also called \"Witch Hazel Distillate Water\" and \"Witch Hazel Extract,\" is extracted from the bark and leaves of the Hamamelis virginiana botanical, better known as the Witch Hazel shrub.",
+      "id": "6cf8005a-e960-40a8-b357-6e58efd5774e",
+      "companyName": "Simply Earth"
+    },
+    {
+      "name": "How do I cancel my subscription?",
+      "content": "For security purposes, we are unable to cancel subscriptions for our customers.\n\nNothing to worry about! It can be canceled through your online account. To proceed with the cancellation, kindly log in to your account at https://simplyearth.attn.tv/sl/0HePiHkh and follow these steps: https://simplyearth.attn.tv/sl/C2d_l6YC\n\n1. From your Account, Click on \"Manage My Subscription\"\n2. A pop-up will show. Please click on \"Disable Subscription Autorenewal\"\n3. Next, you will be given the option to PAUSE for a few months as an alternative. If you want to proceed, click on \"Disable my box autorenewal\".\n4. Then, you may also be asked for the reason for your cancellation, you will be free to choose which one among the options and click on \"Disable my box Auto-Renewal\" to finalize it.\n5. Once successful, you will be prompted with a message, confirming that your subscription has been canceled.\n\nPlease take note that canceling the subscription will only stop the box for that month if done at least a day before the actual shipping date. Always remember that you can always reactivate your subscription by clicking the \"Resume Box\" Button on your Simply Earth Account.",
+      "id": "8981c651-68aa-49ef-a067-a2b083db0e13",
+      "companyName": "Simply Earth"
+    },
+    {
+      "name": "Is the Bug Fighter Essential Oil Blend safe for dogs?",
+      "content": "Yes, the Bug Fighter essential oil is safe for dogs. Learn more about it here: https://simplyearth.attn.tv/sl/wPv81ATe",
+      "id": "aad2aa55-9443-4fde-8f9b-616b0ec172a3",
+      "companyName": "Simply Earth"
+    },
+    {
+      "name": "Post Purchase Inquiries",
+      "content": "We don't handle post-purchase requests via text. Please email your request to help@simplyearth.com or feel free to call this number 866-330-8165 Monday-Friday 7am-3pm CST. Please let me know if you have any questions about our products, I'm more than happy to help you here!",
+      "id": "da28f19d-99c2-4f3f-924c-050b93a1fb8f",
+      "shortcut": "ppi",
+      "companyName": "Simply Earth"
+    },
+    {
+      "name": "Where are your laundry washing sheets made?",
+      "content": "Our Laundry Sheets are from one of our suppliers in Asia. We do source our oils and materials from different parts of the globe.",
+      "id": "dd4e7ee5-92ab-40f1-9b6a-8692455e226c",
+      "companyName": "Simply Earth"
+    },
+    {
+      "name": "Do my billing and shipping address have to match? Can you go around it?",
+      "content": "For security purposes, our system is designed so that for orders using card transactions, the billing address and shipping address should match in order for the payment to go through. This is to ensure that no fraudulent activities are happening, and that the sale is valid.\n\nIf in case the addresses do not match for personal reasons, you may use a verified PayPal as a payment method instead.",
+      "id": "78c2d43e-e109-4ed6-a59a-24d81015059e",
+      "companyName": "Simply Earth"
+    }
+  ]
+}

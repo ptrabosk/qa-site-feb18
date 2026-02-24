@@ -1,0 +1,332 @@
+{
+  "companyKey": "braun",
+  "templates": [
+    {
+      "name": "What does the cc represent in model names?",
+      "content": "The \"cc\" in our models stands for \"cleaning center,\" which means that this specific model comes with a cleaning center. For example, the Series 9 Pro + 9599cc indicates that this model includes a cleaning center. On the other hand, the \"s\" means that it is only the shaver and no other products are included in that model. For instance, the 7120s does not come with the cleaning center and includes only the shaver. Another example is the \"cs,\" which means that the shaver comes with a charging stand.",
+      "id": "d20a3c24-86f1-466f-9ac6-e436a41ad28d",
+      "companyName": "Braun"
+    },
+    {
+      "name": "Do I have to pay for tax?",
+      "content": "Sales tax will be added for taxable items in deliveries to the following states: California, Illinois, New Jersey, New York, Texas, Washington, Florida and Pennsylvania. The tax rate applied to your order will be the combined state and local rate for the address where your order is shipped. Shipments to any other state will not be charged tax.",
+      "id": "cb6a3930-f436-476a-8413-d5c6d96e9b89",
+      "companyName": "Braun"
+    },
+    {
+      "name": "What is the difference between the smart ipl and the ipl 3?",
+      "content": "The IPL3 is 50% faster compared to the normal Silk Expert with up to 60 flashes per minute. The Sensitive Modes (2 sensitive modes & UV filter) intuitively adjust the power range for effective, safe & comfortable treatment even on the more sensitive areas such as the face or intimate areas. Its Ultra Fast Flash Speed (flashes every 0.5 sec) flashes up to 125 times per minute to ensure fewer missed spots. Braun IPL is the fastest on the Market! It also features more accessories: addition of wide head & bundle packs with facial mini shaver (previously only available for Braun PL5XXX). There is also a 15% reduction in size and a 25% decrease in weight compared to the previous Silk-Expert models for easy handling and effortless treatment.",
+      "id": "5a6e16c8-61a2-40fc-b343-fc8d479cdec3",
+      "companyName": "Braun"
+    },
+    {
+      "name": "What's the difference between the silk expert PL5347 and PL5157?",
+      "content": "The PL5347 has 2 additional accessories and 2 precision heads. It also comes with 1 wide head and a beauty travel box. \n\nThe PL5157 comes with 1 additional accessory and 1 precisoin head. It doesn't come with a wide head and comes with a storage box.",
+      "id": "539c55a1-c0d7-4b63-a5db-c0de1e8f3ea0",
+      "companyName": "Braun"
+    },
+    {
+      "name": "Are there any side effects of using IPL?",
+      "content": "Some people will experience slight discomfort (e.g. heat or redness of the skin) when using the device - this is normal. You may feel heat and tingling when activating the flash, followed by redness in the skin. This type of reaction usually disappears within 24 hours. Adverse reactions are usually immediate or appear within 24 hours. In rare cases, they may take up to 72 hours to appear. If you experience abnormal skin reactions please contact your physician.",
+      "id": "37ccbfc2-1f91-4666-9099-048890dd91d2",
+      "companyName": "Braun"
+    },
+    {
+      "name": "Would the Silk-expert IPL/Silk-expert Pro IPL help get rid of hairs permanently?",
+      "content": "The FDA defines permanent hair reduction as: a long-term stable reduction in the number of hairs re-growing after a treatment regime. However, this reduction isn't required to encompass 100% of hairs treated; just a certain percentage. Therefore, although it is true that some ongoing \"maintenance\" treatments are required, the Silk-expert IPL meets the FDA definition for permanent hair reduction.  \n\nWhen used as directed, clinical trial participants showed on average 44% less hair 6 months after their last treatment and 36% less hair 12 months after their last treatment when compared to hair counts taken before treatment. Actual results did vary from person to person.",
+      "id": "4f69bc9d-003f-4287-94d5-2491f44ceccf",
+      "companyName": "Braun"
+    },
+    {
+      "name": "Can I use the Silk-expert IPL/ Silk-expert Pro IPL on my face? (for women)",
+      "content": "Braun Silk-expert IPL is safe for use on the face below the cheekbones; it should not be used near the eyes and along the forehead. It works effectively on the upper lip, chin, and jawline. We recommend doing a patch test before use.",
+      "id": "30bc4404-480d-4b6b-99db-4e7e262629cc",
+      "companyName": "Braun"
+    },
+    {
+      "name": "Does it hurt using the IPL?",
+      "content": "Some people will experience slight discomfort (e.g. heat or redness of the skin) when using the device - this is normal. You may feel heat and tingling when activating the flash, followed by redness in the skin. This type of reaction usually disappears within 24 hours.",
+      "id": "43aef5ba-9de1-4c1e-a8cd-a127a3990ea1",
+      "companyName": "Braun"
+    },
+    {
+      "name": "Would IPL cause ingrown hairs?",
+      "content": "This should not happen. If there is no hair in the follicle, it can't become ingrown.",
+      "id": "e6e2f229-0b29-4c1f-96a1-656dc69e5410",
+      "companyName": "Braun"
+    },
+    {
+      "name": "Can I use the Silk-expert IPL/Silk-expert Pro IPL with wax or hair removing cream?",
+      "content": "To begin with, you will need to remove the hair from the area you are treating, this is to help direct the light at the hair beneath the skin and not above the surface. Always start with clean, dry skin. All hair removal methods can be used before applying SilkExpert, i.e., shaving, epilating or waxing. The Important thing is that skin is hair free to ensure an efficient operation of SilkExpert device.",
+      "id": "cce1d490-7ed9-4227-81ba-92e24ba5ecba",
+      "companyName": "Braun"
+    },
+    {
+      "name": "Can I use the Silk-expert IPL/Silk-expert Pro IPL on my face? (for men)",
+      "content": "Men should not use Silk-expert on their face. Usage on male beards or facial hair may lead to uneven results.",
+      "id": "50da7231-088b-4fdf-930a-5e66261f445f",
+      "companyName": "Braun"
+    },
+    {
+      "name": "How can I compare products?",
+      "content": "Just select the products that you want to compare on the following link: https://us.braun.com/en-us/?assistant_intent=compare-all The comparison chart should pop up on the right side of your screen.",
+      "id": "a9247a41-9fc7-4cf6-abcb-d45cb9254c2a",
+      "companyName": "Braun"
+    },
+    {
+      "name": "All shaver series comparison chart",
+      "content": "You can take a look at our All Shaver Series comparison chart at the following link: https://us.braun.com/en-us/?assistant_intent=compare-all-shavers You should see the chart on the right side of the screen.",
+      "id": "b9d56a2b-5a69-447a-a5a9-b32f2ea47e00",
+      "companyName": "Braun"
+    },
+    {
+      "name": "Trimmers comparison chart",
+      "content": "You can take a look at our Trimmers comparison chart at the following link: https://us.braun.com/en-us/?assistant_intent=compare-trimmers You should see the chart on the right side of the screen.",
+      "id": "d9a363fa-02c6-40e3-ac47-475f12c18686",
+      "companyName": "Braun"
+    },
+    {
+      "name": "Which product would you recommend?",
+      "content": "I'd recommend taking our quiz in order to find the perfect Braun product for you: https://us.braun.com/en-us/?assistant_intent=recommendation You should see the quiz on the right side of the screen.",
+      "id": "3801b1ab-9959-425b-bfad-ad5e19aecf96",
+      "companyName": "Braun"
+    },
+    {
+      "name": "Premium shavers comparison",
+      "content": "You can take a look at our Premium Shvaers comparison chart at the following link: https://us.braun.com/en-us/?assistant_intent=compare-premium-shavers You should see the chart on the right side of the screen.",
+      "id": "f058cca2-3688-4f23-bcc2-b82019ee3e0d",
+      "companyName": "Braun"
+    },
+    {
+      "name": "Epilators comparison chart",
+      "content": "You can take a look at our Epilators comparison chart at the following link: https://us.braun.com/en-us/?assistant_intent=compare-epilators You should see the chart on the right side of the screen.",
+      "id": "85c9ff95-4f4b-4848-b1f0-7fa85f3473d5",
+      "companyName": "Braun"
+    },
+    {
+      "name": "Payment / financing options",
+      "content": "We offer payments via credit cards, PayPal (paylater), as well as Affirm.",
+      "id": "9006b152-1b9e-416a-84ed-b9b58c6e2ce9",
+      "companyName": "Braun"
+    },
+    {
+      "name": "Military / First responder / Healthcare / Teacher discount",
+      "content": "Thank you for your service! We don't have any specific discounts like that, but our deals will always be shared with our SMS subscribers or on our website, so keep an eye out!",
+      "id": "6a037384-a1ba-44d4-a45f-e52bc5672797",
+      "shortcut": "ms",
+      "companyName": "Braun"
+    },
+    {
+      "name": "When to replace shaver heads",
+      "content": "We recommend changing your shaver head every 12-18 months for maximum performance.",
+      "id": "7b3af046-584f-4e4f-b336-4cf7e65933e6",
+      "companyName": "Braun"
+    },
+    {
+      "name": "Is IPL suitable for intimate areas?",
+      "content": "IPL is safe to use on the bikini line, but it isn't suitable for the genital area where the skin may have a darker color and where there is a greater hair density, which would absorb more light energy and may cause discomfort.",
+      "id": "7c700b41-324a-45d3-ac80-23eb20781899",
+      "companyName": "Braun"
+    },
+    {
+      "name": "I have red hair, can I use an IPL device?",
+      "content": "It's most effective on light to medium skin tones with hair ranging from natural blonde to dark brown or black. But it's not effective on very blonde, red, grey, or white hair where the smaller amount of melanin would not absorb the light energy.",
+      "id": "cd6c7560-b6a3-46c6-88e2-016a54cc87e7",
+      "companyName": "Braun"
+    },
+    {
+      "name": "Warranty policy",
+      "content": "We honor a 2-year warranty for most of our products and it begins on the date of purchase. We cover any defects resulting from faulty materials or workmanship free of charge by either repairing or replacing the appliance at our discretion. To get service within the warranty period, hand in or send the complete appliance with your sales receipt to an authorized Braun CS center, you can find the info here: https://braun-us.infotip-rts.com/Home.xhtml?Action=ChgSp&Lg=us",
+      "id": "c2925f5d-bf9d-4afb-bd02-994c3b18288e",
+      "shortcut": "wp",
+      "companyName": "Braun"
+    },
+    {
+      "name": "Free shipping",
+      "content": "We don't currently offer free shipping, but all promos will always be shared with our SMS subscribers or on our website, so keep an eye out!",
+      "id": "6df29003-8035-4005-b7ba-59455cec712f",
+      "shortcut": "fs",
+      "companyName": "Braun"
+    },
+    {
+      "name": "Adverse events/reactions or product quality complaints",
+      "content": "I apologize for the experience you've had. The best way to handle this is to give us a call directly at 1-800-272-8611 (M-F 9am-6pm EST).",
+      "id": "fd04378d-431c-4aef-9a22-53d53d6e27d2",
+      "shortcut": "apq",
+      "companyName": "Braun"
+    },
+    {
+      "name": "Comparison of all shaver series",
+      "content": "Our Series 3 is the entry-level shaver we have, and it provides a clean and close shave. Series 5 has easy-clean which allows you to rinse the shaver clean without taking it apart and it introduces AutoSense technology, which detects your beard and adapts power necessary to cut beard hairs. Series 6 adds to AutoSense by giving SensoFlex, a 20 degree pivoting head to maintain better contact with skin making it more efficient. Series 7 continues to have AutoSense and builds on that with an even more flexible head called the 360 Flex, which pivots 20 degrees front to back and 10 degrees side to side. Series 8 moves AutoSense forward with increased power for an easier shave. Series 9 is our best shaver with its 4+1 pro head, utilizing AutoSense and providing the fastest and most comfortable shave we have to offer. Hope this helps!",
+      "id": "ee967c19-8e57-4ab9-84d8-6894d85b7115",
+      "companyName": "Braun"
+    },
+    {
+      "name": "Shipping time",
+      "content": "Orders are typically delivered within 5-8 business days via USPS. Actual delivery time depends on shipping distance and may vary. The amount of time it takes for you to receive a product will depend on how long it takes us to process your order and how long it takes the carrier to deliver the order to you once it is shipped.",
+      "id": "8363db48-800d-48cc-a118-9888b8526b87",
+      "shortcut": "shp",
+      "companyName": "Braun"
+    },
+    {
+      "name": "Where do you ship to?",
+      "content": "Orders will only be shipped to addresses within the contiguous 48 states of US or the District of Columbia. We don't ship to Hawaii, Alaska, and all military APO, AFO and military bases.. We are also unable to ship to P.O. Boxes. All items must be shipped to a valid street address.",
+      "id": "2406971e-db4e-41e5-90af-27dbd02d0c78",
+      "companyName": "Braun"
+    },
+    {
+      "name": "Phone support",
+      "content": "You can give us a call at 1-800-272-8611 between 9:00 AM - 6:00 PM ET Monday - Friday or let me know if I can help via text, it may be faster.",
+      "id": "7c810c70-ac91-4d70-9e99-dfefb24b27d3",
+      "shortcut": "ps",
+      "companyName": "Braun"
+    },
+    {
+      "name": "How do I initiate a return?",
+      "content": "To initiate the return, just log in to your account here: https://braun.attn.tv/sl/M7D-qTpY locate the order you want to return, and then click \"Return Items\". Once approved, you'll receive an email with the return label.",
+      "id": "04927bdd-5ab8-473d-afd5-6a7c19c42f45",
+      "companyName": "Braun"
+    },
+    {
+      "name": "Return policy",
+      "content": "You can check out our detailed return policy here: https://us.braun.com/en-us/store-policy",
+      "id": "e628adbb-b97d-42ba-af05-25c77a90874c",
+      "shortcut": "rp",
+      "companyName": "Braun"
+    },
+    {
+      "name": "What's the difference between all the Series 9 shavers?",
+      "content": "The Series l9 Pro shavers work on a 7-day beard, compared to the regular Series 9 shavers which work on a 3-4 day beard. The new S9 Pro comes with a new and improved Clean and Charge station and at the touch of a button, the 5-in-1 SmartCare Center intelligently selects the necessary cleaning program, automatically charges, and hygienically cleans, lubricates, and dries your shaver. The new S9 Pro also has a really cool new travel case that charges the shavers. It only comes with the 9477cc model but it will actually work on all S9 shavers!",
+      "id": "86051412-9f48-4cfe-a0f6-a0e9e731e075",
+      "companyName": "Braun"
+    },
+    {
+      "name": "Can I replace the battery of my Braun device myself?",
+      "content": "You can't replace the batteries yourself. If you want to replace them, the device must be taken apart by a trained person, because if you try to do it yourself, you can compromise the water-tightness of the device and the product won't be covered by the warranty. You can contact an authorized Braun service center to have your battery replaced. Go to www.service.braun.com - choose a region from the drop-down menu>choose a country from the next drop-down menu and then click on 'I need to get in contact with a service partner near me'.",
+      "id": "d28dc9eb-ab7a-4535-924f-01f585b70a41",
+      "companyName": "Braun"
+    },
+    {
+      "name": "Social media",
+      "content": "Give us a follow on FB here: https://www.facebook.com/braun/",
+      "id": "c6ddb8bd-d78c-4f54-bd13-5e9463e610ed",
+      "shortcut": "smd",
+      "companyName": "Braun"
+    },
+    {
+      "name": "Wholesale inquiries",
+      "content": "The best way to discuss wholesale is to contact us directly using this form: https://us.braun.com/en-us/contact-us Our team is happy to chat.",
+      "id": "46f9f05b-90dc-439f-aab9-6a8792dd2da7",
+      "shortcut": "wls",
+      "companyName": "Braun"
+    },
+    {
+      "name": "Brand ambassador / sponsorship / affiliate program",
+      "content": "The best way to discuss this is to contact us directly using this form: https://us.braun.com/en-us/contact-us Our team is happy to chat.",
+      "id": "3cf80114-5dee-494e-89c1-8aab87b0d2e6",
+      "shortcut": "ams",
+      "companyName": "Braun"
+    },
+    {
+      "name": "Store location / retailer",
+      "content": "We don't currently have a store but definitely keep an eye out.",
+      "id": "e703b42c-d6c5-42ed-a7f0-025a7b0b8b88",
+      "shortcut": "sl",
+      "companyName": "Braun"
+    },
+    {
+      "name": "Customer support",
+      "content": "The best way to handle this is to chat with one of our reps online: https://us.braun.com/en-us/contact-us or give us a call at 1-800-272-8611. Our team is happy to help!",
+      "id": "2d08ecfc-9352-4fb9-80e4-3e803ca0fd84",
+      "shortcut": "cs",
+      "companyName": "Braun"
+    },
+    {
+      "name": "Cancel / edit order",
+      "content": "We're committed to speedy shipping and we process orders as soon as they are placed, therefore we cannot make changes or cancel an order once it is placed. If you would like to return the order, please let us know.",
+      "id": "15ec91a1-38fd-4d1e-b9e1-6186b646f030",
+      "shortcut": "ced",
+      "companyName": "Braun"
+    },
+    {
+      "name": "How many Flashes does the Silk·expert Pro 5 IPL  have?",
+      "content": "It comes with 400,000 flashes equivalent to up to 22 years of full body treatment!",
+      "id": "748ed15c-466f-4689-82d3-154b3d62b514",
+      "companyName": "Braun"
+    },
+    {
+      "name": "Difference between Men's Series 8 and 9 shavers",
+      "content": "Both series feature a SmartCare Center for cleaning, charging, lubrication, and storage. Series 8 features AutoSense technology that adjusts to beard density, cuts through a 3-day bear, and has 30K cutting actions per min. Series 9 features 5 synchronized shaving elements, sonic vibrations for enhanced gliding, AutoSense technology and 40K cutting actions per min. \n\nSeries 8 has a 40° swivel head and is 100% waterproof, whereas Series 9 has a 10D Flex head, precision trimmer, precision head lock and is also 100% waterproof.",
+      "id": "ac853c23-373a-42f8-b3e2-bf5bf0bfffb6",
+      "companyName": "Braun"
+    },
+    {
+      "name": "What is the difference between the Series 7 and Series 9 trimmers?",
+      "content": "The Braun Series 7 offers exceptional shaving and trimming performance, equipped with Intelligent Sonic and AutoSensing technology to adapt to different hair densities. In contrast, the Braun Series 9 trimmers take it a step further with a superior cutting force, thanks to its five synchronized shaving elements that capture more hair in one stroke. Both series ensure a close and comfortable shave, yet the Series 9 surpasses the Series 7 in terms of powerful performance and precision. Ultimately, the choice between the two depends on individual preferences and priorities.",
+      "id": "7614f88b-0622-4f4e-b94b-92a25069f252",
+      "companyName": "Braun"
+    },
+    {
+      "name": "How to use the cleaning cartridge",
+      "content": "To use the cleaning cartridge, follow these steps: \n\n1. Plug in the station using the power cord.\n2. Press the lift button to open the housing.\n3. Place the new cartridge on a flat surface.\n4. Remove the lid from the cartridge.\n5. Slide the cartridge into the base of the station.\n6. Close the housing by pushing it down until it locks.\n7. The cleaning fluid display will show the amount of fluid in the cartridge.\n\nRemember to always handle the cleaning cartridge carefully and follow the instructions provided to ensure proper usage and maintenance of the cleaning station.",
+      "id": "a102c8a2-ddb9-4b47-b455-08293e8b98ed",
+      "companyName": "Braun"
+    },
+    {
+      "name": "Price Matching",
+      "content": "At this time, Braun does not offer price matching with other online retailers.",
+      "id": "43782b6a-c82b-43a8-b88e-9cedce232eba",
+      "shortcut": "pmc",
+      "companyName": "Braun"
+    },
+    {
+      "name": "What is the difference between 9477c and the series 9 sport +?",
+      "content": "The Braun Series 9 Pro shaver is one of our most advanced shavers to date. It has a new, significantly more efficient patented pro-lift trimmer, five improved specialized shaving elements with 35% wider openings and 30% thinner tips, and a Precision switch. That is the only difference between the Pro and our other Series 9 Shaver models.",
+      "id": "a2fbe2f6-c554-4470-8c61-93e8dae76eb0",
+      "companyName": "Braun"
+    },
+    {
+      "name": "What are the difference of Series 9 Sport and the Series 9 Pro+?",
+      "content": "The Series 9 shavers comes in main groups: Series 9, Series 9 Pro, Series 9 Sport+ and Series 9 Pro+. The shaver on all these presentations is actually the same internally, what changes is the external material, as well as the components it comes with. However they will all give the the same shaving experience.",
+      "id": "8feee623-7b0b-461f-af40-4de8f571a16d",
+      "companyName": "Braun"
+    },
+    {
+      "name": "Can the IPL be used by kids or children?",
+      "content": "The IPL has not been tested among groups under 18 years; therefore, it should not be used by them. The device should be kept out of the reach of children under 18 years of age. Children should not use, play with, maintain, or clean the device.",
+      "id": "a2ea2063-62d9-4141-a4d6-3a73978c06dc",
+      "companyName": "Braun"
+    },
+    {
+      "name": "How long do the cleaning cartridge and the blades last? How often should I change them?",
+      "content": "The shaver heads are designed to last up-to 18 months, however this may be affected depending if you have a heavy beard and how often you shave.\n\nOn the other hand, we recommend changing the cleaning solution every 2-3 months depending on the use, or after 30 cycles.",
+      "id": "4df8a969-f917-419f-a6ac-d17961031e20",
+      "companyName": "Braun"
+    },
+    {
+      "name": "Replacement parts",
+      "content": "You can reach out to Braun Encompass, which is our retailer that sells replacement parts like chargers and replacement heads for our products. You can contact them directly at the phone number 866-779-5301. Alternatively, you can also order it on their website using the following link: \nhttps://braun.attn.tv/avFV1VR73Y-Q/",
+      "id": "bf8a3764-b496-40e8-92da-daeb3d9eb6b7",
+      "companyName": "Braun"
+    },
+    {
+      "name": "Where do I add/apply the discount?",
+      "content": "You'll see the discount box at checkout! The \"Coupon/Gift Certificate\" box is under your Order Summary, right above your order total. If you don't see it, I'm here to help.",
+      "id": "3f6b2803-32a1-40e3-b6a7-457c02819c99",
+      "shortcut": "db",
+      "companyName": "Braun"
+    },
+    {
+      "name": "What is the quietest Braun 9 shaver?",
+      "content": "All the Series 9, Series 9 Pro, and Series 9 Pro+ shavers have the same level of loudness, which is 63 dB.",
+      "id": "ad8fb2f5-6883-4f34-a1ca-3e9b15995b35",
+      "companyName": "Braun"
+    },
+    {
+      "name": "What is the difference between the 7185CC and 7189CC?",
+      "content": "The 7185CC and 7189CC are the same shaver, but the difference lies in what is included in the box. In the 7185CC, we have the following: 1 shaver, 1 travel case, 1 cleaning station, 1 beard trimmer, 1 stubble trimmer, 5 trimming combs (1, 2, 3, 5, 7 mm), 1 cleaning brush, and 1 charging cord. \n\nIn the 7189CC we have these items included in the box: 1 shaver, 1 travel case, 1 cleaning station, and 5 cleaning solutions.",
+      "id": "e5a0825c-c634-4976-9290-1282a4fccd03",
+      "companyName": "Braun"
+    }
+  ]
+}

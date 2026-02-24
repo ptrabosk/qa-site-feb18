@@ -3,932 +3,1053 @@
   "chunk": "chunk_0015",
   "scenarios": {
     "71": {
-      "agentName": "",
-      "id": "019c733a-6590-490a-f000-0000fc568aee",
-      "rightPanel": {
-        "browsingHistory": [
-          {
-            "link": "https://weesqueak.com/products/hunter-boot-imperfect?externalId=e8pzS",
-            "item": "Hunter Boot (IMPERFECT) - 3",
-            "timeAgo": "2026-02-19"
-          },
-          {
-            "link": "https://weesqueak.com/products/hunter-boot-imperfect?pr_prod_strat=jac\u0026pr_rec_id=908b54cfe\u0026pr_rec_pid=4429731561526\u0026pr_ref_pid=4431977709622\u0026pr_seq=uniform",
-            "item": "Hunter Boot (IMPERFECT) - 3",
-            "timeAgo": "2026-02-18"
-          },
-          {
-            "link": "https://weesqueak.com/products/western-boot-imperfect?variant=31572890353718",
-            "item": "Western Brown Boot (IMPERFECT) - 3",
-            "timeAgo": "2026-02-18"
-          }
-        ],
-        "source": {
-          "label": "Website",
-          "value": "https://weesqueak.com",
-          "date": ""
+      "id": "019c538f-d5ed-4ade-f000-0000037d5773",
+      "companyName": "FragranceNet",
+      "companyWebsite": "https://fragrancenet.com",
+      "agentName": "Sarah",
+      "messageTone": "Polished",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "FragranceNet: Welcome! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel. Privacy: attnl.tv/p/dkv",
+          "message_type": "system",
+          "date_time": "2026-02-05 13:01:43.185"
+        },
+        {
+          "message_media": [],
+          "message_text": "FragranceNet: Welcome to the world of elevated fragrance! Enjoy 40% OFF sitewide to start your journey: https://fragrancenet.attn.tv/aIqov6TpWdtI .",
+          "message_type": "system",
+          "date_time": "2026-02-05 13:01:44.232"
+        },
+        {
+          "message_media": [],
+          "message_text": "FragranceNet: Oh, also, a lot of people like getting personal recs from us. Over the next few days we'll try to help you find something that you will love.\n\nDiscover your new scent!\n\nShop now: https://fragrancenet.attn.tv/aBc2tPt-gux3 .",
+          "message_type": "system",
+          "date_time": "2026-02-05 13:02:56.350"
+        },
+        {
+          "message_media": [],
+          "message_text": "FragranceNet: Complete your Pleasures Eau De Parfum Spray — experience a fresh, vibrant scent that brightens your day with every spray\n\nDiscover more: https://fragrancenet.attn.tv/aIvf2k9VQvzR .",
+          "message_type": "system",
+          "date_time": "2026-02-05 13:18:40.921"
+        },
+        {
+          "message_media": [],
+          "message_text": "FragranceNet: See something you like? Fall in LOVE with top designers up to 80% off department store prices: https://fragrancenet.attn.tv/aZkL61GZXA5x .",
+          "message_type": "system",
+          "date_time": "2026-02-07 13:04:08.901"
+        },
+        {
+          "message_media": [],
+          "message_text": "FragranceNet: Try Pleasures Eau de Parfum Spray for a fresh, vibrant scent that brightens your day.\n\nTime to spritz: https://fragrancenet.attn.tv/a3-Qge5n9p6Q .",
+          "message_type": "system",
+          "date_time": "2026-02-08 20:55:22.707"
+        },
+        {
+          "message_media": [],
+          "message_text": "FragranceNet: Discover Simply Belle Eau de Parfum in your cart — a captivating scent that delights the senses. Grab it before it's gone! URGENT\n\nShop now: https://fragrancenet.attn.tv/aektrNxAH9-A .",
+          "message_type": "system",
+          "date_time": "2026-02-09 15:31:52.656"
+        },
+        {
+          "message_media": [],
+          "message_text": "FragranceNet: Hi there — discover floral and fresh perfumes perfect for everyday wear.\n\nTime to spritz: https://fragrancenet.attn.tv/aKjOfTrYg7_C .",
+          "message_type": "system",
+          "date_time": "2026-02-09 16:32:11.419"
+        },
+        {
+          "message_media": [],
+          "message_text": "FragranceNet: Try Raspberry Whipped Cream Reed Diffuser for a cozy, sweet raspberry vibe that makes any room feel inviting.\n\nSink your teeth into it: https://fragrancenet.attn.tv/aOQ_tDc9Aiq5 .",
+          "message_type": "system",
+          "date_time": "2026-02-12 10:16:16.266"
+        },
+        {
+          "message_media": [],
+          "message_text": "FragranceNet: Try Complexion Rescue Tinted Hydrating Gel Cream SPF30 for a radiant, natural finish—grab it before it's gone.\n\nShop now: https://fragrancenet.attn.tv/auDIsR7OwdBh .",
+          "message_type": "system",
+          "date_time": "2026-02-12 15:26:50.106"
+        },
+        {
+          "message_media": [],
+          "message_text": "Great buy but shipping is high",
+          "message_type": "customer",
+          "date_time": "2026-02-12 15:33:36.467"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"Free shipping\"; last updated: 2024-03-22 16:35:01.885",
+          "message_type": "template",
+          "date_time": "2026-02-12 15:34:21.318"
+        },
+        {
+          "message_media": [],
+          "message_text": "FragranceNet: Thank you for reaching out, and I'm sorry to hear that! We offer free shipping on orders over $59 within the US. Maybe you can add something else to reach the minimum?",
+          "message_type": "agent",
+          "agent": "87295",
+          "message_id": "019c538f-d5ed-4ade-f000-0000037d5773",
+          "date_time": "2026-02-12 15:34:21.319"
         }
-      },
-      "companyWebsite": "https://weesqueak.com",
-      "companyName": "Wee Squeak",
+      ],
       "notes": {
         "send_to_cs": [
           "No ESC for this client, send everything to CS"
-        ]
-      },
-      "blocklisted_words": [
-        
-      ],
-      "escalation_preferences": [
-        
-      ],
-      "messageTone": "Polished",
-      "conversation": [
-        {
-          "message_type": "system",
-          "message_text": "Wee Squeak: Welcome to Wee Squeak! Msg \u0026 data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
-          "date_time": "2026-02-18 18:27:23.485",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Wee Squeak: Welcome! Use the offer MOBILE10 at checkout for a discount when you shop https://weesqueak.attn.tv/aJMQ6evT94GO .",
-          "date_time": "2026-02-18 18:27:28.481",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Wee Squeak: Don\u0027t forget to save our contact to get exclusive updates!",
-          "date_time": "2026-02-18 18:27:28.639",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Wee Squeak: Hey , this is Sarah. I see you left something in your cart. https://weesqueak.attn.tv/auWI5_EJGybL \n\nGreat choice! 😊 Any questions I can answer for you? ",
-          "date_time": "2026-02-18 18:48:28.250",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "I tried to buy 2 different f the imperfect boots but couldn\u0027t add them.",
-          "date_time": "2026-02-18 18:51:45.252",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c7334-cdba-4712-f000-0000fc568aee",
-          "message_text": "Wee Squeak: Thank you for reaching out. I\u0027m sorry about that. Are you referring to this? - https://weesqueak.attn.tv/a5zJ9Qjkoha-\n\nIf yes, then what size are you referring to so I can create a cart for you?",
-          "message_type": "agent",
-          "agent": "48804",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-18 19:02:46.356"
-        },
-        {
-          "message_type": "customer",
-          "message_text": "No, rferring to the imperfect western boot brown.",
-          "date_time": "2026-02-18 19:05:41.231",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c733a-6590-490a-f000-0000fc568aee",
-          "message_text": "Wee Squeak: Got it. Is it this one? - https://weesqueak.attn.tv/aOLPsfr_FfGb - If so, just send me your size, and I\u0027d be happy to help you.",
-          "message_type": "agent",
-          "agent": "109630",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-18 19:08:52.911"
-        }
-      ]
-    },
-    "72": {
-      "agentName": "Jordan",
-      "id": "019c4d91-60ab-438d-f000-0000a5a5fcc9",
-      "rightPanel": {
-        "source": {
-          "label": "Website",
-          "value": "https://bostonscally.com/",
-          "date": ""
-        }
-      },
-      "companyWebsite": "https://bostonscally.com/",
-      "companyName": "Boston Scally",
-      "notes": {
-        "send_to_cs": [
-          "Send to CS for post purchase issues, use PPI shortcut"
-        ]
-      },
-      "blocklisted_words": [
-        
-      ],
-      "escalation_preferences": [
-        
-      ],
-      "messageTone": "Polished",
-      "conversation": [
-        {
-          "message_type": "system",
-          "message_text": "Boston Scally: Grateful Dead x Boston Scally Dancing Bears Cap is here to bring the vibes 🎸 but won\u0027t last long ⚡️\n\nSHOP NOW: bostonscally.attn.tv/aPRg1DqEK8nZ ",
-          "date_time": "2026-01-12 12:05:14.691",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Boston Scally: These Roses never wilt - they earn their place in your rotation. Get 10% off the iconic Rose Collection scally caps with code ROSE.\n\nGrab yours before they\u0027re gone.\n \n SHOP NOW: bostonscally.attn.tv/as02XHEDIrwJ ",
-          "date_time": "2026-01-14 12:03:44.380",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Boston Scally: NEW! The \u0027Box of Chocolates\u0027 is NOW AVAILABLE! Plus, The \u0027Valentine Rose\u0027, \u0027All Heart\u0027, and \u0027Cupid\u0027 are BACK! \n\nSHOP NOW: bostonscally.attn.tv/aj_zbr5I4cs9 ",
-          "date_time": "2026-01-16 14:03:40.186",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Boston Scally: Match made in heaven. The \u0027Box of Chocolates\u0027 and \u0027Valentine Rose\u0027 🌹 Plus, shop the Valentine\u0027s Collection now: bostonscally.attn.tv/a-7KjILHMvoE ",
-          "date_time": "2026-01-19 12:05:10.976",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Boston Scally: The \u0027Scot\u0027 is HERE! 10% OFF with code: SCOT. Grab yours quick before it\u0027s gone!\n\nSHOP NOW: bostonscally.attn.tv/aa7OSGIzE3sh ",
-          "date_time": "2026-01-23 14:12:17.126",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Boston Scally: NEW! In case you missed it, the \u0027Scot\u0027 has arrived! \n\nGrab yours today and get 10% OFF with code SCOT: bostonscally.attn.tv/aj4MrQiF1AO3 ",
-          "date_time": "2026-01-26 12:04:00.474",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Boston Scally: NEW: The \u0027Cloverland\u0027 is here! Plus, The \u0027Bareknuckle Irish Edition\u0027 is back in stock! Don\u0027t miss this!\n\nSHOP NOW: bostonscally.attn.tv/ajVsiUabEDfR ",
-          "date_time": "2026-01-30 14:06:41.354",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Boston Scally: Take 10% off the NEW \u0027Cloverland\u0027 and this season\u0027s best selling scally caps with code: CLOVERLAND\n\nSHOP NOW: bostonscally.attn.tv/amg416v2ELRz ",
-          "date_time": "2026-02-02 18:07:25.409",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Boston Scally: The \u0027Kilkenny\u0027 is HERE! Plus, our favorite \u0027Irish Baker Boy\u0027 is back! Limited quantities available, don\u0027t let these get away! \n\nSHOP NOW: bostonscally.attn.tv/aCkFDg4nw_L6 ",
-          "date_time": "2026-02-06 14:07:00.933",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Boston Scally: Did you see? The \u0027Kilkenny\u0027 and \u0027Irish Baker Boy\u0027 dropped and they\u0027re going FAST! Grab these St. Pat\u0027s favorites before they\u0027re gone!\n\nSHOP NOW: bostonscally.attn.tv/a-5KTkEqtt3y ",
-          "date_time": "2026-02-07 15:01:14.294",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Boston Scally: The highly anticipated St. Patrick\u0027s Day Collection is BACK! Here\u0027s your chance to grab the season\u0027s best sellers before they sell out again! \n\nSHOP NOW: bostonscally.attn.tv/aoP8a6pLm7ep ",
-          "date_time": "2026-02-09 12:02:40.946",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Boston Scally: Don\u0027t leave Boston Scally The Guinness Cap Pin Set behind! Finish your order now before it\u0027s gone for good: bostonscally.attn.tv/aYtMC1-1u-AI",
-          "date_time": "2026-02-11 11:18:39.923",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "I\u0027m waiting for the Guinness hat",
-          "date_time": "2026-02-11 11:25:30.253",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "template",
-          "message_text": "Template used: \"Restock (website \u0026 social)\"; last updated: 2025-10-09 21:41:33.472",
-          "date_time": "2026-02-11 11:38:19.113",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c4d91-60ab-438d-f000-0000a5a5fcc9",
-          "message_text": "Boston Scally: Glad to see yoou\u0027ve taken an interest in our offering. I\u0027m afraid I currently don\u0027t have the exact date of a possible restock, but I recommend checking our website and social media frequently. In the meantime, you can check our newest arrivals here: https://bostonscally.attn.tv/aqjdXbsPWSuv",
-          "message_type": "agent",
-          "agent": "109968",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-11 11:38:19.116"
-        }
-      ]
-    },
-    "73": {
-      "agentName": "Sarah",
-      "id": "019c6df6-d25a-4597-f000-00004e76a04b",
-      "rightPanel": {
-        "source": {
-          "label": "Website",
-          "value": "https://missionmercantile.com",
-          "date": ""
-        }
-      },
-      "companyWebsite": "https://missionmercantile.com",
-      "companyName": "Mission Mercantile",
-      "notes": {
-        "send_to_cs": [
-          "Send to CS for repair/customization requests"
-        ],
-        "escalate": [
-          "If a cx had issues after a sale is over, ESC to see if they can honor the deal",
-          "ESC immediately, if the customer asks when an order will ship",
-          "If a cx has a request for urgent delivery ESC and they\u0027ll prioritize it",
-          "ESC if a cx is having trouble placing an order",
-          "If a cx asks for an update regarding an email they sent, ask for their email address, then ESC",
-          "ESC immediately if a cx is very upset",
-          "ESC if cx\u0027s have issues applying both loyalty codes"
         ],
         "tone": [
-          "Close the convo once the client takes over"
+          "Close the convo once the client takes over",
+          "Don't use emojis/special characters"
         ],
         "templates": [
-          "For Ellington repair:",
-          "➜ Ask which item the customer has",
-          "➜ If it\u0027s an Ellington item from before 2016, use ECR shortcut"
-        ],
-        "dos_and_donts": [
-          "For stock questions, check the product page to look for possible back-in-stock dates",
-          "If cx calls after hours, advise them to leave a voicemail and the team will be sure to call back"
-        ],
-        "drive_to_purchase": [
-          "When recommending a pre-order item - set proper expectations and mention the date it\u0027ll be back in stock"
-        ],
-        "promo_and_exclusions": [
-          "They have a loyalty program where cx\u0027s can use code MMLEGACY20 \u0026 FAITHFULSHIPPING at the same time to receive 20% off plus free shipping. The MMLEGACY20 code only applies to cxs who have spent $2000+",
-          "➜ These are the only 2 codes that can be stacked, and they can only be stacked with each other and no other code",
-          "Welcome code works on discounted/sale items",
-          "DO NOT share the WELCOME15 code with cx\u0027s, it\u0027s no longer valid"
+          "For issues relating to free shipping with no minimum purchase, use \"FSB\" shortcut",
+          "If a product is not available on their website, use \"PNA\" shortcut"
         ]
       },
-      "blocklisted_words": [
-        
-      ],
-      "escalation_preferences": [
-        
-      ],
-      "messageTone": "Polished",
-      "conversation": [
-        {
-          "message_type": "system",
-          "message_text": "Mission Mercantile: Welcome to Mission Mercantile! Msg \u0026 data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
-          "date_time": "2026-02-17 17:33:55.476",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Mission Mercantile: Hey this is Sarah, how can I help you? Stop to stop",
-          "date_time": "2026-02-17 17:33:57.973",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "Hey, I need help. I need a contact number for Haley. I just received a repair item and there are multiple issues. Thank you.",
-          "date_time": "2026-02-17 17:34:27.064",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "I would like to speak to someone.",
-          "date_time": "2026-02-17 17:34:57.107",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c6dbe-d7ac-4c69-f000-00004e76a04b",
-          "message_text": "Mission Mercantile: I\u0027m sorry to hear that! Email us directly at shopkeeper@missionmercantile.com or give us a call at 210-504-6698 and we\u0027ll take great care of you. Our team is happy to help! ",
-          "message_type": "agent",
-          "agent": "50271",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-17 17:35:49.584"
-        },
-        {
-          "message_type": "customer",
-          "message_text": "Thanks Sarah!\nI think Haley would be best to address this issue but if she is unavailable I would be happy to speak to anyone.",
-          "date_time": "2026-02-17 17:36:36.902",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c6dc1-0ca3-45e5-f000-00004e76a04b",
-          "message_text": "Mission Mercantile: I\u0027m sorry, but I don\u0027t have Haley\u0027s direct contact information. You can try reaching out to the team, and they should be able to point you in the right direction.",
-          "message_type": "agent",
-          "agent": "37648",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-17 17:38:14.212"
-        },
-        {
-          "message_type": "customer",
-          "message_text": "The phone number is saying after hours and leave a message. I would like to address this issue ASAP as I have waited for months for repair of this item and it was returned  without having the promised work completed and  in very poor condition. Thank you.",
-          "date_time": "2026-02-17 17:42:36.979",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "Are you able to help Sarah?",
-          "date_time": "2026-02-17 17:43:37.162",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "escalation",
-          "message_text": "Hey, I need help. I need a contact number for Haley. I just received a repair item and there are multiple issues. Thank you. The phone number is saying after hours and leave a message. I would like to address this issue ASAP as I have waited for months for repair of this item and it was returned without having the promised work completed and in very poor condition. Thank you.\n\n\n\n\n",
-          "date_time": "2026-02-17 17:47:04.445",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c6dc9-4552-4125-f000-00004e76a04b",
-          "message_text": "Mission Mercantile: I\u0027m so sorry to hear that, and I completely understand your frustration. Please know that I have limited access on my end. \n\nI\u0027ll check on this with our team. As soon as I hear back, I will send you a message right away.",
-          "message_type": "agent",
-          "agent": "87592",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-17 17:47:13.013"
-        },
-        {
-          "message_type": "customer",
-          "message_text": "Ok. I understand and truly appreciate your concern and assistance. \nI am very frustrated at this point but hope that all will work out!\nBest regards,\nBrian",
-          "date_time": "2026-02-17 17:49:37.221",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c6dcc-17f0-4c92-f000-00004e76a04b",
-          "message_text": "Mission Mercantile: I apologize for this experience. I\u0027ll be sure to keep you posted. ",
-          "message_type": "agent",
-          "agent": "87595",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-17 17:50:17.993"
-        },
-        {
-          "message_type": "customer",
-          "message_text": "Great. I appreciate that. Hope you have a nice evening!",
-          "date_time": "2026-02-17 17:52:07.155",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c6dce-94fb-44d2-f000-00004e76a04b",
-          "message_text": "Mission Mercantile: You\u0027re welcome! While I wait to hear back from my team, is there anything else I can assist you with in the meantime? ",
-          "message_type": "agent",
-          "agent": "87592",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-17 17:53:01.090"
-        },
-        {
-          "message_type": "customer",
-          "message_text": "That\u0027s all for now. Thank you so much!",
-          "date_time": "2026-02-17 17:53:56.959",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "Is there a site to upload photos?  Or is it best to wait until I connect with a representative tomorrow?",
-          "date_time": "2026-02-17 18:30:16.821",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c6df3-8cbd-40fe-f000-00004e76a04b",
-          "message_text": "Mission Mercantile: Sorry, there isn\u0027t a site to upload photos, but you can send them to shopkeeper@missionmercantile.com Since I\u0027ve already forwarded this to our team, it\u0027s best to wait for their guidance to avoid any mix-ups. If they need the photo, we\u0027ll let you know. I\u0027ll make sure this is prioritized and will monitor it closely. ",
-          "message_type": "agent",
-          "agent": "87595",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-17 18:33:23.801"
-        },
-        {
-          "message_type": "customer",
-          "message_text": "Perfect. Many thanks Sarah!",
-          "date_time": "2026-02-17 18:35:27.227",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c6df6-d25a-4597-f000-00004e76a04b",
-          "message_text": "Mission Mercantile: Thanks for getting back to me, and you\u0027re most welcome! Rest assured, we\u0027ll get back to you as soon as possible. Feel free to let me know if you need help with anything else in the meantime.",
-          "message_type": "agent",
-          "agent": "109840",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-17 18:36:58.247"
-        }
-      ]
-    },
-    "74": {
-      "agentName": "Jordan",
-      "id": "019c53f1-ea17-4e3f-f000-000092b3bf14",
       "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://fragrancenet.com",
+          "date": ""
+        },
         "browsingHistory": [
           {
-            "link": "https://www.fluevog.com/shop/8280-waldorf-black-rhinestone?utm_campaign=Question\u0026utm_source=attentive\u0026utm_medium=sms\u0026externalId=Uc9vC",
-            "item": "Dollyvogs Waldorf: Black/Rhinestone",
-            "timeAgo": "2026-02-04"
-          },
-          {
-            "link": "https://www.fluevog.com/shop/8280-waldorf-black-rhinestone",
-            "item": "Dollyvogs Waldorf: Black/Rhinestone",
-            "timeAgo": "2026-02-04"
-          },
-          {
-            "link": "https://www.fluevog.com/shop/8261-hula-hoop-blue-paisley",
-            "item": "Play Grounders Hula Hoop: Blue Paisley",
-            "timeAgo": "2026-02-02"
-          },
-          {
-            "link": "https://www.fluevog.com/shop/8010-revelation-black-mesh",
-            "item": "Miracles Revelation: Black Mesh",
-            "timeAgo": "2026-02-02"
-          },
-          {
-            "link": "https://www.fluevog.com/shop/4049-murillo-grey-paisley",
-            "item": "Baroque Murillo: Grey Paisley",
-            "timeAgo": "2026-02-02"
+            "item": "BareMinerals",
+            "link": "https://www.fragrancenet.com/makeup/bareminerals/bareminerals/complexion-rescue-tinted-hydrating-gel-cream-spf30?cto_pld=Mp7gItUGAAAUWzTyH_yN_g&mv_pc=creo_us_vday_&utm_medium=disp&utm_source=creo#266574",
+            "timeAgo": "2026-02-12"
           }
         ],
-        "source": {
-          "label": "Website",
-          "value": "https://fluevog.com",
-          "date": ""
-        }
-      },
-      "companyWebsite": "https://fluevog.com",
-      "companyName": "John Fluevog Shoes",
-      "notes": {
-        "escalate": [
-          "Add the cx\u0027s full name \u0026 which region they\u0027re shopping from (US, CA, or AU) in the ESC notes",
-          "Add the product links cx are inquiring about to your ESC notes"
-        ],
-        "templates": [
-          "For post purchase issues, use OIS shortcut",
-          "For gift exchange inquiries, use GEX shortcut",
-          "If the cx didn\u0027t receive the gift from the gift exchange program!, use GGE shortcut",
-          "If cx\u0027s say the item they want isn\u0027t on sale, don\u0027t use ncode, use SGS temp"
-        ],
-        "dos_and_donts": [
-          "Send links only from the US site",
-          "Use NordLayer when accessing their website"
+        "orders": [
+          {
+            "orderNumber": "386259547",
+            "orderDate": "2026-02-05",
+            "items": [
+              {
+                "name": "PLEASURES",
+                "price": 29.99,
+                "productLink": "https://www.evo.com/snowboard-bags/picture-organic-bag-20?image=120777/527944/picture-organic-snowboard-bag-2-0-.jpg"
+              },
+              {
+                "name": "PLEASURES",
+                "price": 29.99,
+                "productLink": "https://www.gifts.com/tonka-group-water-bottle-design-120777-pid-30385083"
+              },
+              {
+                "name": "PLEASURES",
+                "price": 29.99,
+                "productLink": "https://au.fragrancenet.com/perfume/estee-lauder/pleasures/eau-de-parfum#120777"
+              },
+              {
+                "name": "PLEASURES",
+                "price": 29.99,
+                "productLink": "https://www.enjukuracing.com/products/xclutch-xkmc20520-2e-mini-cooper-motorsport-clutch-kit.html"
+              },
+              {
+                "name": "PLEASURES",
+                "price": 29.99,
+                "productLink": "https://www.fragrancenet.com/perfume/estee-lauder/pleasures/eau-de-parfum#120777"
+              },
+              {
+                "name": "PLEASURES",
+                "price": 29.99,
+                "productLink": "https://sunshoweronline.com.au/hunter-i-core-6-to-30-zone-modular-controller-plastic-cabinet-1/"
+              },
+              {
+                "name": "PLEASURES",
+                "price": 29.99,
+                "productLink": "https://www.replacements.com/china-fashion-royale-heirloom-16-oval-serving-platter/p/1207771"
+              },
+              {
+                "name": "PLEASURES",
+                "price": 29.99,
+                "productLink": "https://www.evo.com/en-ca/snowboard-bags/picture-organic-bag-20?image=120777/527944/picture-organic-snowboard-bag-2-0-.jpg"
+              },
+              {
+                "name": "PLEASURES",
+                "price": 29.99,
+                "productLink": "https://proclubs.mybigcommerce.com/left-handed-cobra-aerojet-10-5-driver-tensei-white-75-stiff-flex-404205/"
+              },
+              {
+                "name": "PLEASURES",
+                "price": 29.99,
+                "productLink": "https://www.plumbersstock.com/nelson-3tn-9461-27-27128-3000-series-sprinkler-nozzle-whiteblue.html"
+              },
+              {
+                "name": "PLEASURES",
+                "price": 29.99,
+                "productLink": "https://tgmskateboards.com/es-skateboard-shoes-accel-og-white-black-green/"
+              },
+              {
+                "name": "PLEASURES",
+                "price": 29.99,
+                "productLink": "https://www.maurices.com/product/floral-lace-up-tunic-top/120777"
+              },
+              {
+                "name": "PLEASURES",
+                "price": 29.99,
+                "productLink": "https://www.rugs-direct.com/Details/OrientalWeavers-xVenetian-580R/76662"
+              },
+              {
+                "name": "PLEASURES",
+                "price": 29.99,
+                "productLink": "https://greekgear.com/products/phi-sigma-pi-collectors-crest-year-ceramic-stein-tankard.html"
+              },
+              {
+                "name": "PLEASURES",
+                "price": 29.99,
+                "productLink": "https://www.chairish.com/product/id/120777?utm_content=Coffee+Tables&utm_medium=text&utm_source=attentive&utm_term=120777"
+              },
+              {
+                "name": "PLEASURES",
+                "price": 29.99,
+                "productLink": "https://www.prioritytire.com/en/starsail-h-t-champ-245-70r17-108h-as-a-s-all-season-tire"
+              },
+              {
+                "name": "PLEASURES",
+                "price": 29.99,
+                "productLink": "https://www.cardkingdom.com/mtg/coldsnap/karplusan-minotaur"
+              },
+              {
+                "name": "PLEASURES",
+                "price": 29.99,
+                "productLink": "https://safetysourcellc.com/technology/data-storage-media-supplies/usb-flash-drives/innovera-ivr82308-usb-3-0-flash-drive-8-gb-3-pack/"
+              },
+              {
+                "name": "PLEASURES",
+                "price": 29.99,
+                "productLink": "https://www.claires.com/us/silver-rhinestone-chevron-statement-necklace-120777.html?cgid=holiday-looks&selectedshipment=ship_to_address"
+              },
+              {
+                "name": "PLEASURES",
+                "price": 29.99,
+                "productLink": "https://www.prioritytire.com/1-wheel-15-vn309-tt-o-15x8-5-5x120-65-silver-24et-83-06cb-vn30958561/"
+              },
+              {
+                "name": "PLEASURES",
+                "price": 29.99,
+                "productLink": "https://www.thertastore.com/stratton-dark-grey-shaker-3x96-wall-filler-120777.html"
+              },
+              {
+                "name": "PLEASURES",
+                "price": 29.99,
+                "productLink": "https://www.currentcatalog.com/hot-pink-flexible-magnifier-1614398.html"
+              },
+              {
+                "name": "PLEASURES",
+                "price": 29.99,
+                "productLink": "https://venue.com/product/jet-creations-inflatable-dinosaur/"
+              },
+              {
+                "name": "PLEASURES",
+                "price": 29.99,
+                "productLink": "https://www.everest.com/exw-50-2-lever-drag-big-game-reel.html"
+              },
+              {
+                "name": "PLEASURES",
+                "price": 29.99,
+                "productLink": "https://checkout.fascinatingdiamonds.com/lab-grown-diamonds/10-12-carat-round-cut-lab-grown-diamond-c30329/"
+              },
+              {
+                "name": "PLEASURES",
+                "price": 29.99,
+                "productLink": "https://www.vitalitymedical.com/2-5-inch-round-led-lighted-5x-magnifier.html"
+              }
+            ],
+            "total": 29.99,
+            "date_time": "2026-02-05 18:53:55.915"
+          }
         ]
       },
-      "blocklisted_words": [
-        
-      ],
-      "escalation_preferences": [
-        "Shipping questions",
-        "Sizing questions",
-        "Exchanges and returns"
-      ],
+      "escalation_preferences": [],
+      "blocklisted_words": [],
+      "has_shopify": false
+    },
+    "72": {
+      "id": "019c72a3-83a8-4b04-f000-0000fc46f4ea",
+      "companyName": "Apolis",
+      "companyWebsite": "https://apolisglobal.com",
+      "agentName": "Sarah",
       "messageTone": "Polished",
       "conversation": [
         {
+          "message_media": [],
+          "message_text": "Apolis: Welcome to Apolis! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
           "message_type": "system",
-          "message_text": "Fluevog: Reply Y to subscribe to recurring automated personalized marketing alerts (e.g. cart reminders) from Fluevog.",
-          "date_time": "2026-02-03 18:05:55.503",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-18 14:42:52.526"
         },
         {
+          "message_media": [],
+          "message_text": "Apolis: Hey this is Sarah , how can I help you?",
           "message_type": "system",
-          "message_text": "Fluevog: Welcome to Fluevog! Msg \u0026 data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
-          "date_time": "2026-02-03 18:06:13.078",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-18 14:42:56.538"
         },
         {
-          "message_type": "system",
-          "message_text": "Fluevog: You\u0027ve officially doubled your chances to snag a $200 GC! It\u0027s like winning the shoe lottery, but without the confetti clean-up. Start shopping: usvog.attn.tv/a5Q2Pb8LDj9- \nQuestions? Just give us a shout!\n",
-          "date_time": "2026-02-03 18:06:17.051",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Fluevog: Did you mean to leave Dollyvogs Waldorf: Black/Rhinestone behind? It\u0027s still waiting for your return. Take another look: usvog.attn.tv/aFMxm8Xl6maG",
-          "date_time": "2026-02-04 17:41:58.866",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Fluevog: Hey there, sole-searcher! We noticed you eyeing our fabulous kicks. Have you checked out our best sellers yet? They\u0027re so popular, even the floor is jealous! Take another look: usvog.attn.tv/aFHwx-fq5Iyz ",
-          "date_time": "2026-02-10 16:30:24.832",
-          "message_media": [
-            
-          ]
-        },
-        {
+          "message_media": [],
+          "message_text": "Do you still sell a large burlap market bag with both handles and a shoulder strap?",
           "message_type": "customer",
-          "message_text": "No. I\u0027m still waiting on an order. I do not believe I will be doing business with you anymore once my order comes.",
-          "date_time": "2026-02-10 16:31:20.697",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-18 14:48:17.946"
         },
         {
-          "message_id": "019c497a-c13d-4e44-f000-000092b3bf14",
-          "message_text": "Fluevog: I\u0027m sorry to hear that, and I understand the frustration! Are you referring to the order placed on 2/3? If so, please note that after you place your order, it goes through an order processing stage (preparing, packaging, etc.), which can take up to 3 business days. Just to be sure, did you receive any tracking info? Please check your spam and promo folders as well, as our emails sometimes end up there. ",
-          "message_type": "agent",
-          "agent": "87310",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-10 16:35:07.614"
-        },
-        {
-          "message_type": "customer",
-          "message_text": "Yes. I did. the zip code was wrong so they were shipped back to New Orleans and there has not been an update since the 6th.",
-          "date_time": "2026-02-10 16:36:10.543",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "They made it to Oakcreek which is 30-45 minutes away and would not update the zip and shipped them back for them to be shipped back to me again. if that makes a sense whatsoever. Where are my shoes?",
-          "date_time": "2026-02-10 16:38:20.907",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c497e-672f-48f2-f000-000092b3bf14",
-          "message_text": "Fluevog: I\u0027m really sorry for all the inconvenience. Since the package is already with the carrier, it\u0027s best to contact them directly. Have you tried giving them a call? They should have the most up-to-date information.",
-          "message_type": "agent",
-          "agent": "82222",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-10 16:39:06.700"
-        },
-        {
-          "message_type": "customer",
-          "message_text": "No, I haven\u0027t called. I have horrible Social phobia. I am unable to use the phone. I used UPS\u0027s website and cannot get any answers. So more or less I have to eat the cost of the shoes.",
-          "date_time": "2026-02-10 16:40:50.866",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c4982-d3a9-4777-f000-000092b3bf14",
-          "message_text": "Fluevog: I\u0027m so sorry about that. Let me double-check this with my team. Can I please have your order number, full name, email, and the region you are shopping from? ",
+          "message_media": [],
+          "message_text": "Apolis: We have several Market Bags here - https://apolis.attn.tv/aCMyegewstHO. Can you please let me know which one you are interested in? ",
           "message_type": "agent",
           "agent": "43099",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-10 16:43:56.604"
+          "message_id": "019c724d-d948-447c-f000-0000fc46f4ea",
+          "date_time": "2026-02-18 14:50:30.507"
         },
         {
+          "message_media": [],
+          "message_text": "I'm asking if you have one with handles as well as a shoulder strap",
           "message_type": "customer",
-          "message_text": "20260203-00593198 Shannon R Bishop bisho022@uwalumni.com Kenosha, WI 53144",
-          "date_time": "2026-02-10 16:51:10.717",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-18 14:51:17.898"
         },
         {
-          "message_type": "escalation",
-          "message_text": "voc: I\u0027m still waiting on an order. I do not believe I will be doing business with you anymore once my order comes. 20260203-00593198 Shannon R Bishop bisho022@uwalumni.com Kenosha, WI 53144",
-          "date_time": "2026-02-10 16:54:13.342",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c498c-530a-4ec9-f000-000092b3bf14",
-          "message_text": "Fluevog: Thanks! Let me pass this on to my team. I\u0027ll be in touch as soon as I get an update. ",
-          "message_type": "agent",
-          "agent": "82427",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-10 16:54:19.047"
-        },
-        {
-          "message_type": "customer",
-          "message_text": "Thank you.",
-          "date_time": "2026-02-10 16:56:50.766",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c498e-ef9a-4e41-f000-000092b3bf14",
-          "message_text": "Fluevog: You\u0027re welcome! We appreciate your patience.",
-          "message_type": "agent",
-          "agent": "46059",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-10 16:57:10.199"
-        },
-        {
-          "message_type": "customer",
-          "message_text": "Any word on my shoes? This is getting ridiculous .",
-          "date_time": "2026-02-11 16:11:54.330",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c4e92-409f-4cb4-f000-000092b3bf14",
-          "message_text": "Fluevog: My sincere apologies. I\u0027m still waiting to hear back from my team regarding this, but rest assured, I\u0027m keeping an eye out. As soon as I get an update, I\u0027ll let you know right away. ",
+          "message_media": [],
+          "message_text": "Apolis: This one comes with a handle and leather straps - https://apolis.attn.tv/abAO2J4oBS0w",
           "message_type": "agent",
           "agent": "43099",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-11 16:18:53.630"
+          "message_id": "019c7250-1dd2-48c3-f000-0000fc46f4ea",
+          "date_time": "2026-02-18 14:52:59.122"
         },
         {
+          "message_media": [],
+          "message_text": "The photo shows only handlesAnd I asked about a LARGE bag, not a petite",
           "message_type": "customer",
-          "message_text": "It\u0027s been two days and you still don\u0027t know where my shoes are? It\u0027s almost been a week since they were sent back to New Orleans. Where are my shoes? I have been nice and patient.",
-          "date_time": "2026-02-12 16:49:55.237",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-18 14:54:07.903"
         },
         {
-          "message_id": "019c53d7-c2fd-4dcb-f000-000092b3bf14",
-          "message_text": "Fluevog: I completely understand your frustration, and I\u0027m so sorry again for the inconvenience. Our team might currently be experiencing a high volume of inquiries, which is causing some delays.\n\nPlease be assured that I\u0027m actively following this up, and I will update you as soon as I receive a response. Thank you so much for your patience and understanding.",
+          "message_media": [],
+          "message_text": "Apolis: My sincere apologies for the confusion. You can check out our only available market bags with both handles and shoulder straps here: https://apolis.attn.tv/ahXuEqNgV-dX, https://apolis.attn.tv/axeVEEtuUsQ-\n\nRight now we don't offer others, however, I'll definitely pass this along to the team to consider in the future. Let me know if there's anything else you need. \n",
           "message_type": "agent",
-          "agent": "43099",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-12 16:52:55.065"
+          "agent": "33953",
+          "message_id": "019c7256-af76-4c40-f000-0000fc46f4ea",
+          "date_time": "2026-02-18 15:00:09.622"
         },
         {
+          "message_media": [],
+          "message_text": "Thank you",
           "message_type": "customer",
-          "message_text": "6 days ago a label was created. Where are they? I\u0027ve not been offered my money back, partial refund. No answers. Never again.",
-          "date_time": "2026-02-12 17:06:44.937",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-18 16:23:24.459"
         },
         {
-          "message_id": "019c53ed-ad53-46fb-f000-000092b3bf14",
-          "message_text": "Fluevog: I\u0027m truly sorry for the frustration and the lack of updates, I completely understand how upsetting it is to wait this long without a clear resolution. Our team is still looking into this, and I really appreciate your patience. This is not the experience we want for our customers, and I sincerely apologize for the inconvenience. Alternatively, you can email us directly at service@fluevog.com. Our team is happy to help!",
+          "message_media": [],
+          "message_text": "Apolis: You're welcome! Please don't hesitate to reach out anytime, I'm always happy to assist. ",
           "message_type": "agent",
-          "agent": "87589",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-12 17:16:51.311"
-        },
-        {
-          "message_type": "customer",
-          "message_text": "I have emailed your team. I sent an email a week ago and no one answered it.",
-          "date_time": "2026-02-12 17:17:55.088",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c53f1-ea17-4e3f-f000-000092b3bf14",
-          "message_text": "Fluevog: We sincerely apologize for the delay! The team is experiencing a high volume of emails, but they\u0027ll respond to you as soon as possible. We really appreciate your patience on this and hope you can give us more time to reply. Please check your spam and promotions folders, as our emails sometimes end up there. Our team is happy to help!",
-          "message_type": "agent",
-          "agent": "87295",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-12 17:21:29.011"
+          "agent": "109617",
+          "message_id": "019c72a3-83a8-4b04-f000-0000fc46f4ea",
+          "date_time": "2026-02-18 16:24:04.678"
         }
-      ]
-    },
-    "75": {
-      "agentName": "Sam",
-      "id": "019c5964-179c-4db5-f000-0000d48d6b35",
+      ],
+      "notes": {
+        "important": [
+          "During the Surplus Market Sale for ANY customer that reaches out - ask them first if they're shopping the sale or if they're shopping on the  Apolis Global website"
+        ],
+        "escalate": [
+          "ESC if cx's have issues with VIP perks or if they weren't able to apply them to an order",
+          "ESC damaged order issues",
+          "ESC gift voucher issues",
+          "For inquiries about new breeds added to the pet collection - use PCC shortcut and ESC once the customer responds",
+          "ESC if cx's ask if we sell detachable straps / straps sold separately"
+        ],
+        "send_to_cs": [
+          "Send to CS for shipping codes issues"
+        ],
+        "templates": [
+          "For issues regarding orders that end in S (e.g: 117670-S), use WTI shortcut",
+          "For inquiries regarding the letter limit use LTL shortcut",
+          "For replacements/refunds, use RR shortcut",
+          "For event/group gifting, use EGG shortcut",
+          "When customers can't decide what they want, use ICD shortcut",
+          "During the Surplus Market sale, use the appropriate templates specific to this sale"
+        ],
+        "dos_and_don_ts": [
+          "For Ecomm (direct to customer) bulk orders, refer to this FAQ marketbag.apolisglobal.com",
+          "For individual orders refer to this FAQ: https://apolisglobal.com/pages/help-center-faq",
+          "Do not offer the CYpress Fig Personal Fragrance, it is no longer in stock.",
+          "For the Mercado Bag, customization is limited to 3 letters or characters only",
+          "If a cx asks about Surplus Sale pricing, let them know we no longer offer it"
+        ],
+        "promo_and_promo_exclusions": [
+          "Discount codes don't work on market.apolisglobal.com. They only work on apolisglobal.com"
+        ]
+      },
       "rightPanel": {
         "source": {
           "label": "Website",
-          "value": "https://shadyrays.com",
+          "value": "https://apolisglobal.com",
           "date": ""
-        }
-      },
-      "companyWebsite": "https://shadyrays.com",
-      "companyName": "Shady Rays",
-      "notes": {
-        "escalate": [
-          "ESC restock inquiries, but use STOF shortcut first"
-        ],
-        "tone": [
-          "Close the convo if the cx first message doesn\u0027t warrant a response (e.g. Them thanking us, saying they\u0027re browsing, etc.)"
-        ],
-        "templates": [
-          "For product prescription inquiries use RPP shortcut",
-          "For prescription orders questions use RPO shortcut"
-        ],
-        "dos_and_donts": [
-          "If customers want to return an item - clarify if they’re trying to return a recently purchased pair or if they need a replacement"
+        },
+        "browsingHistory": [
+          {
+            "item": "Market Bag in Oat Strap",
+            "link": "https://apolisglobal.com/products/market-bag-in-oat-strap?_pos=3&_sid=606e785ca&_ss=r&utm_campaign=concierge-everywhere&utm_medium=sms&utm_source=attentive&externalId=kg-e5",
+            "timeAgo": "2026-02-18"
+          },
+          {
+            "item": "Market Bag in Oat Strap",
+            "link": "https://apolisglobal.com/products/market-bag-in-oat-strap?_pos=3&_sid=606e785ca&_ss=r&utm_campaign=concierge-everywhere&utm_medium=sms&utm_source=attentive&externalId=kg-e5",
+            "timeAgo": "2026-02-18"
+          },
+          {
+            "item": "Market Bag in Oat Strap",
+            "link": "https://apolisglobal.com/products/market-bag-in-oat-strap?_pos=3&_sid=606e785ca&_ss=r",
+            "timeAgo": "2026-02-18"
+          },
+          {
+            "item": "Petite Market Bag in Oat with Strap",
+            "link": "https://apolisglobal.com/products/petite-market-bag-in-oat-with-strap?_pos=2&_sid=606e785ca&_ss=r",
+            "timeAgo": "2026-02-18"
+          }
         ]
       },
+      "escalation_preferences": [],
       "blocklisted_words": [
-        
+        "deal",
+        "deals"
       ],
-      "escalation_preferences": [
-        
-      ],
-      "messageTone": "Casual",
+      "has_shopify": true
+    },
+    "73": {
+      "id": "019c5f1d-2293-4f7e-f000-0000fae60cf4",
+      "companyName": "Julie Vos",
+      "companyWebsite": "https://julievos.com",
+      "agentName": "Rebecca",
+      "messageTone": "Polished",
       "conversation": [
         {
+          "message_media": [],
+          "message_text": "Julie Vos: Welcome to Julie Vos! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel. Privacy: attnl.tv/p/N9l",
           "message_type": "system",
-          "message_text": "Shady Rays: The weekend is here, so is our BOGO sale. Double up on shades with code BOGOJAN through 1/28. Exc. apply.\n\nShop Now: shadyrays.attn.tv/aNUvv1WCw6KR ",
-          "date_time": "2026-01-16 20:15:17.265",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-12 16:33:58.293"
         },
         {
+          "message_media": [],
+          "message_text": "Julie Vos: Hey, this is Rebecca, your personal concierge ✨ Feel free to text me with any questions! Use code WELCOMEK8V2 for 10% off your order to shop now: julievos.attn.tv/aSDqD3uWHjTa .",
           "message_type": "system",
-          "message_text": "Shady Rays: Hey, it\u0027s been a while! Let\u0027s get you back in your next favorite style! Check out our new arrivals here: shadyrays.attn.tv/aZ7GdjLUev7o \n\nAnything we can help with today? Text back with any questions!",
-          "date_time": "2026-01-17 15:26:03.756",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-12 16:34:01.501"
         },
         {
+          "message_media": [],
+          "message_text": "Julie Vos: Oh, also, a lot of people like getting personal recs from us. Over the next few days we'll try to help you find something that you will love.\n\nIn the meantime, check out our newest arrivals > https://julievos.attn.tv/ap0H4B1X5iUj .",
           "message_type": "system",
-          "message_text": "Shady Rays: For a limited time, enjoy 30% OFF Sunglasses with a Snow purchase! Get your gear for the sun and the slopes: shadyrays.attn.tv/aSszTnYZk--Q ",
-          "date_time": "2026-01-18 18:01:14.869",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-12 16:35:09.048"
         },
         {
+          "message_media": [],
+          "message_text": "Julie Vos: Fall in love with the Beaded Station Bracelet—elegant, wearable style you'll reach for daily.\n\nUse code WELCOMEK8V2 for 10% off at checkout: https://julievos.attn.tv/aE3d5loDFyoo .",
           "message_type": "system",
-          "message_text": "Shady Rays: Our Valentine\u0027s Day Sale is live! Get 40% off when you buy 2 or more pairs.\n\nSave now \u0026 spread the love: shadyrays.attn.tv/aMaXT5T2eJhO ",
-          "date_time": "2026-01-22 15:00:39.750",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-12 16:45:15.982"
         },
         {
+          "message_media": [],
+          "message_text": "Julie Vos: You are already subscribed. Click here to shop what's trending now: https://julievos.attn.tv/cl/9Oj",
           "message_type": "system",
-          "message_text": "Shady Rays: Last Chance! Our Valentine\u0027s Day sale ends tonight. Save 40% on 2+ pairs while you can. \n\nShop Now: shadyrays.attn.tv/aQeH5aiu_uP7 ",
-          "date_time": "2026-01-25 16:00:16.688",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-13 16:21:10.952"
         },
         {
+          "message_media": [],
+          "message_text": "Julie Vos: Use code WELCOMEK8V2 for 10% off and free shipping on your order.\n\nShop now: https://julievos.attn.tv/aM_QpU_33Eze .",
           "message_type": "system",
-          "message_text": "Shady Rays: Hey, it\u0027s been a while! Let\u0027s get you back in your next favorite style! Check out our new arrivals here: shadyrays.attn.tv/ar66PbkHvQ4r \n\nAnything we can help with today? Text back with any questions!",
-          "date_time": "2026-01-29 15:33:27.949",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-13 16:54:24.014"
         },
         {
+          "message_media": [],
+          "message_text": "Julie Vos: Fall for the Cannes Hinge Cuff — a 24K gold‐plated cuff with sparkling rose‐cut endcaps and pear‐shaped gemstones that elevate your look.\n\nEnjoy free shipping.\n\nMake it yours: https://julievos.attn.tv/ahAnPM1R5Iud .",
           "message_type": "system",
-          "message_text": "Shady Rays: Beat winter glare! 35% off sunglasses w/ code 35OFF and 55% off new outlet styles. Grab yours before they\u0027re gone:\n\nshadyrays.attn.tv/amioyj_vOAfn ",
-          "date_time": "2026-01-30 17:15:13.027",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-14 13:37:31.038"
         },
         {
-          "message_type": "system",
-          "message_text": "Shady Rays: FLASH SALE! Save 35% on limited Green Wolf frames for the course. Use code GREEN35: shadyrays.attn.tv/anJ9YRL1C97N \n\nEnds 2/5 at 11:59pm PST.",
-          "date_time": "2026-02-04 16:00:23.330",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Shady Rays: Back by popular demand: Azalea \u0026 Calico. The retired shades you loved are back! \n\nShop the launch: shadyrays.attn.tv/asVtIVpGvpMz ",
-          "date_time": "2026-02-05 18:00:22.857",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Shady Rays: Valid through Halftime only! 50% OFF your next pair of shades with code: BG60 shadyrays.attn.tv/anxqXP-SFlqQ \n\nLimit one pair. Exclusions apply.",
-          "date_time": "2026-02-08 20:01:28.419",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Shady Rays: Hey, it\u0027s been a while! Let\u0027s get you back in your next favorite style! Check out our new arrivals here: shadyrays.attn.tv/aHUdQBPZuFyK \n\nAnything we can help with today? Text back with any questions!",
-          "date_time": "2026-02-09 15:20:53.913",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Shady Rays: The long weekend is here! Take $20 OFF shades for Presidents Day using code PD26 at checkout. Excl. apply.\n\nShop: shadyrays.attn.tv/aTh9bIaHZt2j ",
-          "date_time": "2026-02-13 18:10:08.635",
-          "message_media": [
-            
-          ]
-        },
-        {
+          "message_media": [],
+          "message_text": "Can I wear my Catalina hinge bangle with clear crystal wear in water pool or shower? I wear it every day ? And what I can stack with this ? How I can find out the size ?",
           "message_type": "customer",
-          "message_text": "I\u0027m OK I never received my second pair and when I asked you guys about it, I never gotten an explanation. Why?",
-          "date_time": "2026-02-13 18:12:58.639",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-14 13:43:08.785"
         },
         {
-          "message_id": "019c5964-179c-4db5-f000-0000d48d6b35",
-          "message_text": "Shady Rays: Thank you for reaching out, and I\u0027m truly sorry to hear about this. Could you share a few more details so I can better understand the situation and assist you right away?",
+          "message_media": [],
+          "message_text": "Julie Vos: Avoid wearing the Catalina Hinge Bangle in water or while showering to maintain its quality. For stacking, consider the Marbella or Milano bangles. Find sizing info here: https://julievos.attn.tv/ahRRCDme432j",
           "message_type": "agent",
-          "agent": "109972",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-13 18:44:17.849"
+          "agent": "62551",
+          "message_id": "019c5d77-00de-4fa4-f000-0000fae60cf4",
+          "date_time": "2026-02-14 13:43:26.071"
+        },
+        {
+          "message_media": [],
+          "message_text": "One of each or two of one kind ?",
+          "message_type": "customer",
+          "date_time": "2026-02-14 13:50:38.639"
+        },
+        {
+          "message_media": [],
+          "message_text": "Julie Vos: Pair the Catalina Hinge Bangle with one Marbella and one Milano bangle for a balanced stack.",
+          "message_type": "agent",
+          "agent": "62551",
+          "message_id": "019c5d7d-dab1-4013-f000-0000fae60cf4",
+          "date_time": "2026-02-14 13:50:55.043"
+        },
+        {
+          "message_media": [],
+          "message_text": "Can u send me picture of showing them to-gather please ? What color of Milano will go with clear crystals Catalina ?",
+          "message_type": "customer",
+          "date_time": "2026-02-14 13:52:28.499"
+        },
+        {
+          "message_media": [],
+          "message_text": "Julie Vos: I recommend the Milano Bangle in Clear Crystal to complement your Catalina Hinge Bangle. You can view the Milano Bangle here: https://julievos.attn.tv/as2FmgoFTVBw",
+          "message_type": "agent",
+          "agent": "62551",
+          "message_id": "019c5d7f-8585-4963-f000-0000fae60cf4",
+          "date_time": "2026-02-14 13:52:44.311"
+        },
+        {
+          "message_media": [],
+          "message_text": "Small Marbella u don't have ? My Catalina is Cz not crystal. Milano cz and then what else u recomend ?",
+          "message_type": "customer",
+          "date_time": "2026-02-14 14:12:23.432"
+        },
+        {
+          "message_media": [],
+          "message_text": "Julie Vos: The Marbella Bangle is available in small. Pair your CZ Catalina with a CZ Milano and a Marbella for a chic look. Check availability here: https://julievos.attn.tv/agx_LIVHue7u",
+          "message_type": "agent",
+          "agent": "62551",
+          "message_id": "019c5d91-c833-4880-f000-0000fae60cf4",
+          "date_time": "2026-02-14 14:12:41.033"
+        },
+        {
+          "message_media": [],
+          "message_text": "Are these both bangles are hinge ? \nI want in gold ? \nI also have one of your cuff with black and in gold.",
+          "message_type": "customer",
+          "date_time": "2026-02-14 14:15:03.429"
+        },
+        {
+          "message_media": [],
+          "message_text": "Julie Vos: The Milano Bangle is not hinged, but the Marbella is. Both are available in gold. Pair them with your gold cuff for a stylish stack.",
+          "message_type": "agent",
+          "agent": "62551",
+          "message_id": "019c5d94-31dd-40da-f000-0000fae60cf4",
+          "date_time": "2026-02-14 14:15:19.161"
+        },
+        {
+          "message_media": [],
+          "message_text": "I think if it is not hinge then I might need bigger size then it will not fit well ?",
+          "message_type": "customer",
+          "date_time": "2026-02-14 14:17:00.321"
+        },
+        {
+          "message_media": [],
+          "message_text": "Julie Vos: For a non-hinged bangle, consider sizing up for comfort. Check our size guide for accurate measurements: https://julievos.attn.tv/aTVwQcKyU4N8",
+          "message_type": "agent",
+          "agent": "62551",
+          "message_id": "019c5d95-fb13-4c00-f000-0000fae60cf4",
+          "date_time": "2026-02-14 14:17:16.197"
+        },
+        {
+          "message_media": [],
+          "message_text": "In your webside is showing maribella gold in small is sold out ?",
+          "message_type": "customer",
+          "date_time": "2026-02-14 14:21:37.214"
+        },
+        {
+          "message_media": [],
+          "message_text": "U said u have Maribella gold in small i can find on your webside ? Can u help me to\nFind it ? I want to order right now ?",
+          "message_type": "customer",
+          "date_time": "2026-02-14 14:29:57.288"
+        },
+        {
+          "message_media": [],
+          "message_text": "Do u have any retailer in Cincinnati ?",
+          "message_type": "customer",
+          "date_time": "2026-02-14 14:30:17.350"
+        },
+        {
+          "message_media": [],
+          "message_text": "Or Ohio ?",
+          "message_type": "customer",
+          "date_time": "2026-02-14 14:30:46.949"
+        },
+        {
+          "message_media": [],
+          "message_text": "Julie Vos: Sorry for the confusion! I rechecked, and it looks like the Marbella Bangle in small is already sold out. I don't have the exact date of a possible restock, but I recommend checking our website and social media frequently. In the meantime, what do you think about this instead? https://julievos.attn.tv/amdt8BxEa9MG \n\nWe are carried in fine boutiques and in jewelry stores throughout the U.S.A. To find a store near you, please email us at customercare@julievos.com or give us a call at (646)448-4345. One of my colleagues will be more than happy to help out! ",
+          "message_type": "agent",
+          "agent": "46498",
+          "message_id": "019c5daa-55af-4803-f000-0000fae60cf4",
+          "date_time": "2026-02-14 14:39:30.126"
+        },
+        {
+          "message_media": [],
+          "message_text": "I tried u guys are closed today. \nWhat else I replace Maribella with ? I liked that combination. But 😞!! \nAny other suggestions? I like to finish my order please ?",
+          "message_type": "customer",
+          "date_time": "2026-02-14 14:45:22.205"
+        },
+        {
+          "message_media": [],
+          "message_text": "Julie Vos: Consider the Avalon Hinge Bangle in Iridescent Coral or Chalcedony Blue as an alternative. It pairs beautifully with your existing pieces. Check it out here: https://julievos.attn.tv/afoqe23xKbJH",
+          "message_type": "agent",
+          "agent": "62551",
+          "message_id": "019c5daf-ed26-41bf-f000-0000fae60cf4",
+          "date_time": "2026-02-14 14:45:36.580"
+        },
+        {
+          "message_media": [],
+          "message_text": "Is it versatile?",
+          "message_type": "customer",
+          "date_time": "2026-02-14 14:46:40.969"
+        },
+        {
+          "message_media": [],
+          "message_text": "Julie Vos: Yes, the Avalon Hinge Bangle is versatile and complements various styles, making it a great addition to your collection.",
+          "message_type": "agent",
+          "agent": "62551",
+          "message_id": "019c5db1-1660-4be4-f000-0000fae60cf4",
+          "date_time": "2026-02-14 14:46:52.660"
+        },
+        {
+          "message_media": [],
+          "message_text": "As I like statement and different pieces.",
+          "message_type": "customer",
+          "date_time": "2026-02-14 14:47:40.707"
+        },
+        {
+          "message_media": [],
+          "message_text": "Julie Vos: For a statement piece, consider the Cannes Statement Hinge Bangle. It's bold and unique. View it here: https://julievos.attn.tv/aUGF374vw1LO",
+          "message_type": "agent",
+          "agent": "62551",
+          "message_id": "019c5db2-0757-480d-f000-0000fae60cf4",
+          "date_time": "2026-02-14 14:47:54.345"
+        },
+        {
+          "message_media": [],
+          "message_text": "I can't find Avalon hinge bangle ? Can u send me picture ? Cannes bangle looks to wide for stacking ?",
+          "message_type": "customer",
+          "date_time": "2026-02-14 14:53:20.728"
+        },
+        {
+          "message_media": [],
+          "message_text": "Julie Vos: The Avalon Hinge Bangle is available in Iridescent Chalcedony Blue and Coral. View it here: https://julievos.attn.tv/aN2X4lOqyJmw",
+          "message_type": "agent",
+          "agent": "62551",
+          "message_id": "019c5db7-3dd7-457c-f000-0000fae60cf4",
+          "date_time": "2026-02-14 14:53:35.980"
+        },
+        {
+          "message_media": [],
+          "message_text": "I don't see it or search it ? Can u send me screen shot ?",
+          "message_type": "customer",
+          "date_time": "2026-02-14 14:55:50.690"
+        },
+        {
+          "message_media": [],
+          "message_text": "Julie Vos: I'm so sorry for the confusion! It looks like we no longer have the Avalon Hinge Bangle on the website.\nFor a stone bangle, what do you think of our 'Carnaby Stone Bangle' - https://julievos.attn.tv/amiudB5LSWlK\nYou may also check our 'Colette Bangle' that looks great on stacking! - https://julievos.attn.tv/adW0iepavUoW",
+          "message_type": "agent",
+          "agent": "109964",
+          "message_id": "019c5dbe-5614-4db2-f000-0000fae60cf4",
+          "date_time": "2026-02-14 15:01:20.954"
+        },
+        {
+          "message_media": [],
+          "message_text": "What kind of material is this ? It looks white ?",
+          "message_type": "customer",
+          "date_time": "2026-02-14 15:06:21.780"
+        },
+        {
+          "message_media": [],
+          "message_text": "Julie Vos: Our jewelry is hand set in 24k gold plate over nickel-free brass. The white appearance may be due to the stone or enamel used in the design.",
+          "message_type": "agent",
+          "agent": "62551",
+          "message_id": "019c5dc3-30c7-4436-f000-0000fae60cf4",
+          "date_time": "2026-02-14 15:06:39.072"
+        },
+        {
+          "message_media": [],
+          "message_text": "What kind of plating is those? It is not gold ?",
+          "message_type": "customer",
+          "date_time": "2026-02-14 15:07:38.535"
+        },
+        {
+          "message_media": [],
+          "message_text": "Julie Vos: Our jewelry is hand set in 24k gold plate over nickel-free brass.",
+          "message_type": "agent",
+          "agent": "62551",
+          "message_id": "019c5dc4-5cdd-4576-f000-0000fae60cf4",
+          "date_time": "2026-02-14 15:07:55.893"
+        },
+        {
+          "message_media": [],
+          "message_text": "I spend so much time today and I think I deserve better deal or discount ?",
+          "message_type": "customer",
+          "date_time": "2026-02-14 15:08:58.335"
+        },
+        {
+          "message_media": [],
+          "message_text": "Julie Vos: Thank you for shopping with us! Use code WELCOMEK8V2 for 10% off your first purchase at julievos.com. Keep an eye on our website for more deals!",
+          "message_type": "agent",
+          "agent": "62551",
+          "message_id": "019c5dc5-8ddb-424c-f000-0000fae60cf4",
+          "date_time": "2026-02-14 15:09:13.973"
+        },
+        {
+          "message_media": [],
+          "message_text": "I wish u had retail here ?",
+          "message_type": "customer",
+          "date_time": "2026-02-14 15:09:28.430"
+        },
+        {
+          "message_media": [],
+          "message_text": "I already have this discount but I am hoping u can do better than this ?",
+          "message_type": "customer",
+          "date_time": "2026-02-14 15:10:28.122"
+        },
+        {
+          "message_media": [],
+          "message_text": "Julie Vos: Complete your Milano Bangle — lightly hammered 24K gold-plated bangle with six circular gemstones for elegant layering.\n\nUse code WELCOMEK8V2 for 10% off.\n\nShop now: https://julievos.attn.tv/aFcMu25ihaSo .",
+          "message_type": "system",
+          "date_time": "2026-02-14 15:15:45.033"
+        },
+        {
+          "message_media": [],
+          "message_text": "But that only make one piece but I need two ? That's what we are struggling from this morning ? Unless u want to discount more on 2nd piece since all the pieces we struggling on are out of stock u recomended. I already have the code u send me.",
+          "message_type": "customer",
+          "date_time": "2026-02-14 15:51:36.315"
+        },
+        {
+          "message_media": [],
+          "message_text": "I ordered that !!",
+          "message_type": "customer",
+          "date_time": "2026-02-14 16:01:56.227"
+        },
+        {
+          "message_media": [],
+          "message_text": "Julie Vos: Thanks for your order. I added 2 Milano Bangle Cubic Zirconia / Medium in my cart and it worked with the code. I'm afraid we are unable to make any changes to an order once it has been placed. I can check if it's possible to cancel. If you'd like to proceed, please confirm your email address. ",
+          "message_type": "agent",
+          "agent": "31385",
+          "message_id": "019c5e26-92cf-4078-f000-0000fae60cf4",
+          "date_time": "2026-02-14 16:55:12.248"
+        },
+        {
+          "message_media": [],
+          "message_text": "I did not get it ? I mean understand !",
+          "message_type": "customer",
+          "date_time": "2026-02-14 20:36:22.198"
+        },
+        {
+          "message_media": [],
+          "message_text": "This is how I am wearing today.",
+          "message_type": "customer",
+          "date_time": "2026-02-14 21:22:42.191"
+        },
+        {
+          "message_media": [],
+          "message_text": "Julie Vos: I do apologize for the confusion. Just to confirm, you are currently looking for an additional discount code so you could add another piece, correct? Please let me know so I can check further on this for you. ",
+          "message_type": "agent",
+          "agent": "82260",
+          "message_id": "019c5f1d-2293-4f7e-f000-0000fae60cf4",
+          "date_time": "2026-02-14 21:24:30.895"
         }
-      ]
+      ],
+      "notes": {
+        "escalate": [
+          "When ESC during the weekend/late Friday use the \"Weekend escalation template\" template"
+        ],
+        "tone": [
+          "Don't use the term \"customer service team\", use \"customer care\" instead"
+        ],
+        "dos_and_don_ts": [
+          "Do not direct cx to contact the carrier",
+          "Do not provide customers with dates for restock before checking with our team."
+        ],
+        "promo_and_promo_exclusions": [
+          "They have only 2 sales per year (June/November) - when those end the sale items are removed from the site"
+        ]
+      },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://julievos.com",
+          "date": ""
+        },
+        "orders": [
+          {
+            "orderNumber": "691201",
+            "orderDate": "2026-02-14",
+            "items": [
+              {
+                "name": "Milano Bangle",
+                "price": 95,
+                "productLink": "https://juliecollection.myshopify.com/products/milano-bangle"
+              }
+            ],
+            "link": "https://www.julievos.com/57472/orders/09a21d880ba4c29db57e837c3e731ee6/authenticate?key=4ff99b05347ec8575021201854b6737a",
+            "trackingLink": "https://www.ups.com/WebTracking?loc=en_US&requester=ST&trackNums=1ZH4Y248YN39584887",
+            "order_tracking_link": "https://www.ups.com/WebTracking?loc=en_US&requester=ST&trackNums=1ZH4Y248YN39584887",
+            "total": 91.06,
+            "coupon": "WELCOMEK8V2",
+            "date_time": "2026-02-14 20:53:35.531"
+          }
+        ]
+      },
+      "escalation_preferences": [],
+      "blocklisted_words": [],
+      "has_shopify": true
+    },
+    "74": {
+      "id": "019c4d88-4179-4928-f000-0000ea3a2808",
+      "companyName": "DreamCloud",
+      "companyWebsite": "https://dreamcloudsleep.com",
+      "agentName": "Sam",
+      "messageTone": "Polished",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "DreamCloud: That queen hybrid mattress catch your eye? Better mornings start here. Save up to 60%! Act now!\n\ndreamcloud.attn.tv/a00vkuGXYBgI \n.\n",
+          "message_type": "system",
+          "date_time": "2026-02-05 10:21:24.429"
+        },
+        {
+          "message_media": [],
+          "message_text": "DreamCloud: Hello, this is Sam! We noticed you left the Bed Frame with Headboard in your cart! You can save up to 60%. Complete your purchase now to lock in these savings: dreamcloud.attn.tv/a63t85fg6WVY \n\nIf you have questions before you check out, text me back!\n.",
+          "message_type": "system",
+          "date_time": "2026-02-11 10:32:52.824"
+        },
+        {
+          "message_media": [],
+          "message_text": "Will I need a base with the bed and headboard?",
+          "message_type": "customer",
+          "date_time": "2026-02-11 11:17:00.633"
+        },
+        {
+          "message_media": [],
+          "message_text": "DreamCloud: No, you don't need a box spring. Your DreamCloud can be placed on any firm, solid surface like a bed base.",
+          "message_type": "agent",
+          "agent": "62551",
+          "message_id": "019c4d7e-190d-4c55-f000-0000ea3a2808",
+          "date_time": "2026-02-11 11:17:15.554"
+        },
+        {
+          "message_media": [],
+          "message_text": "How much is a queen base?",
+          "message_type": "customer",
+          "date_time": "2026-02-11 11:18:32.739"
+        },
+        {
+          "message_media": [],
+          "message_text": "DreamCloud: Good question! At this time, our queen sized bases range from $349 too $479. You can find our selections available here: https://dreamcloud.attn.tv/aGJfuN0I5ui5",
+          "message_type": "agent",
+          "agent": "109968",
+          "message_id": "019c4d88-4179-4928-f000-0000ea3a2808",
+          "date_time": "2026-02-11 11:28:21.266"
+        }
+      ],
+      "notes": {
+        "send_to_cs": [
+          "No ESC for this client, send everything to CS, use ESC shortcut",
+          "Use escalation template if customer mentions any of the following:",
+          "➜ Exchanges or returns",
+          "➜ Premuim In - Home Setup Questions",
+          "➜ Discount code errors",
+          "➜ Recalls",
+          "➜ Better Business Bureau (BBB)",
+          "➜ Fiberglass",
+          "➜ Lawyers/Lawsuits",
+          "➜ Class Action",
+          "➜ Post Purchase Issues"
+        ],
+        "tone": [
+          "Let the customer have the last word"
+        ]
+      },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://dreamcloudsleep.com",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "DreamCloud Classic Hybrid Mattress",
+            "link": "https://www.dreamcloudsleep.com/mattress?dg=9c6258fb12628f88728eca43aaf42c06cfa6afe2&utm_source=Klaviyo&utm_medium=email&utm_campaign=B-%28D%29_TH-%28%29_T-%28flow%29_ST-%28%29_N-%28welcome%29_S-%28%29_CT-%28nonpurchasers%29_SG-%28%29_Nu-%281%29_O-%28adjbun%29_CR-%28ssbheadlinebox%29_TE-%28ssbwelcomeone111825%29_V-%281%29_D-%28111825%29_AT-%28static%29_W-%28%29_WE-%28%29_P-%28pdp%29_L-%28mid%29_Z-%28shopnow%29_SE-%28brand%29%20%28SSTqXa%29&rh_s=Klaviyo&rh_m=email&utm_klaviyo_id=01KB1P2KHWSC3EJ6Z6KWCB3ZT9&_kx=gqOSNl0-Wz5F6fvQXek5VsbZaQTS_cGl4SZUQBkn9T8.QfgGsv",
+            "timeAgo": "2026-02-11"
+          },
+          {
+            "item": "DreamCloud Classic Hybrid Mattress",
+            "link": "https://www.dreamcloudsleep.com/mattress/queen?&utm_source=rtb&utm_medium=ds&utm_campaign=rm_bau&rtbhc=jzG6k-16y4meWVTLJQ6cIDeRtUKw9LVEE6oLDdIiVY8.dcttmattress_s_queen.1770820940162.0.y2rhDuAvmu42FlnlkNq6",
+            "timeAgo": "2026-02-11"
+          },
+          {
+            "item": "Zadilyn Storage Bed - Midcentury Inspired in Walnut Finish",
+            "link": "https://www.dreamcloudsleep.com/bed-frames/zadilyn-storage-bed/size-queen",
+            "timeAgo": "2026-02-11"
+          },
+          {
+            "item": "DreamCloud Classic Memory Foam Mattress",
+            "link": "https://www.dreamcloudsleep.com/mattresses/memory-foam-mattress/queen",
+            "timeAgo": "2026-02-11"
+          },
+          {
+            "item": "DreamCloud Premier Hybrid Mattress",
+            "link": "https://www.dreamcloudsleep.com/mattresses/premier-hybrid-mattress/queen",
+            "timeAgo": "2026-02-11"
+          }
+        ],
+        "orders": [
+          {
+            "orderNumber": "D-17235377",
+            "orderDate": "2025-12-03",
+            "items": [
+              {
+                "name": "the-stf-box-queen",
+                "price": 0
+              },
+              {
+                "name": "the-dreamcloud-premier-rest",
+                "price": 1499,
+                "productLink": "http://www.dreamcloudsleep.com/premier-rest-hybrid-mattress"
+              }
+            ],
+            "total": 2998,
+            "date_time": "2025-12-03 20:02:07.356"
+          },
+          {
+            "orderNumber": "D-17172044",
+            "orderDate": "2025-11-27",
+            "items": [
+              {
+                "name": "the-stf-box-queen",
+                "price": 0
+              },
+              {
+                "name": "the-dreamcloud-premier-rest",
+                "price": 1499,
+                "productLink": "http://www.dreamcloudsleep.com/premier-rest-hybrid-mattress"
+              }
+            ],
+            "total": 1499,
+            "date_time": "2025-11-27 04:23:09.854"
+          },
+          {
+            "orderNumber": "D-17171934",
+            "orderDate": "2025-11-27",
+            "items": [
+              {
+                "name": "the-stf-box-queen",
+                "price": 0
+              },
+              {
+                "name": "dreamcloud-foam-mattress-10",
+                "price": 799,
+                "productLink": "http://www.dreamcloudsleep.com/memory-foam-mattress"
+              }
+            ],
+            "total": 799,
+            "date_time": "2025-11-27 03:57:54.932"
+          }
+        ]
+      },
+      "escalation_preferences": [
+        "Exchanges and returns",
+        "Discount code errors",
+        "Shipping questions",
+        "Recall",
+        "BBB",
+        "fiberglass",
+        "lawyer",
+        "class action"
+      ],
+      "blocklisted_words": [
+        "organic"
+      ],
+      "has_shopify": false
+    },
+    "75": {
+      "id": "019c5d41-dfcd-4907-f000-0000fb7c6957",
+      "companyName": "Nectar Sleep",
+      "companyWebsite": "https://nectarsleep.com",
+      "agentName": "Quinn",
+      "messageTone": "Polished",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "Nectar: Welcome! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel. Phone support: (888) 863-2827.",
+          "message_type": "system",
+          "date_time": "2026-02-14 11:53:14.906"
+        },
+        {
+          "message_media": [],
+          "message_text": "Nectar: You're in!",
+          "message_type": "system",
+          "date_time": "2026-02-14 11:53:19.926"
+        },
+        {
+          "message_media": [],
+          "message_text": "Nectar: You've unlocked savings up to 66% on a mattress + base + bedding set. Better sleep starts here. \n\nClaim your savings:\nnectarsleep.attn.tv/aGwAUicX325j ",
+          "message_type": "system",
+          "date_time": "2026-02-14 11:53:20.005"
+        },
+        {
+          "message_media": [],
+          "message_text": "Nectar: Hi, this is Quinn. Save up to 50% on mattresses plus get free delivery (usually within a week). Everything you need to sleep better, delivered to your door.\n\nnectarsleep.attn.tv/ak2UPO-ROcMR\n\nQuestions? Text us back!\n.",
+          "message_type": "system",
+          "date_time": "2026-02-14 11:55:31.135"
+        },
+        {
+          "message_media": [],
+          "message_text": "It wont let me see if I can get pre qualified as it states my social security doesn't match and it does!",
+          "message_type": "customer",
+          "date_time": "2026-02-14 11:56:14.593"
+        },
+        {
+          "message_media": [],
+          "message_text": "Im teying for affirm",
+          "message_type": "customer",
+          "date_time": "2026-02-14 11:56:34.595"
+        },
+        {
+          "message_media": [],
+          "message_text": "Nectar: I'm really sorry to hear that! As much as I would like to help, my system access is limited from here.\nKindly double-check all the information to make sure that it matches all of your details, with no typos, as well as the SSN if it matches what is on file with credit bureaus. If you are still having the same error, I would suggest reaching out to Affirm through their available channels here: https://nectarsleep.attn.tv/a4vIvBWf0OA4 ",
+          "message_type": "agent",
+          "agent": "109964",
+          "message_id": "019c5d41-dfcd-4907-f000-0000fb7c6957",
+          "date_time": "2026-02-14 12:45:24.193"
+        }
+      ],
+      "notes": {
+        "send_to_cs": [
+          "No ESC for this client, send everything to CS",
+          "Send to CS for refund inquiries"
+        ],
+        "tone": [
+          "Close the convo once the client takes over",
+          "Close the convo if the cx first message is ok, no, etc.",
+          "Don't use the word \"off\" when talking about promotions"
+        ],
+        "dos_and_don_ts": [
+          "Don't proactively offer to find pricing info, redirect them to the website instead"
+        ],
+        "promo_and_promo_exclusions": [
+          "Do not offer a coupon to first time purchasers/subscribers. There is not an active discount code at this time. Use DCI shortcut"
+        ]
+      },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://nectarsleep.com",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "Premier Adjustable Bed Frame",
+            "link": "https://www.nectarsleep.com/mattress-bundles/adjustable-frame-bundle?utm_campaign=B-(N)_TH-(BAU)_T-(flow)_ST-()_N-(welcome)_S-()_CT-(nonpurchasers)_SG-()_Nu-(1)_O-(adjbun)_TE-()_V-()_D-(020926)&utm_medium=sms&utm_source=Attentive&externalId=4GOfY",
+            "timeAgo": "2026-02-14"
+          }
+        ]
+      },
+      "escalation_preferences": [
+        "Shipping questions",
+        "Exchanges and returns",
+        "Discount code errors",
+        "Recall",
+        "BBB",
+        "fiberglass",
+        "lawyer",
+        "class action"
+      ],
+      "blocklisted_words": [],
+      "has_shopify": false
     }
   }
 }

@@ -85,6 +85,9 @@ document.addEventListener('DOMContentLoaded', async () => {
     let assignmentPrefetchActiveCount = 0;
     let assignmentNavigationInProgress = false;
     let snapshotCreateInFlight = false;
+    let uploadedScenariosCache = [];
+    let uploadedScenariosLoaded = false;
+    let uploadedScenariosLoadPromise = null;
 
     if (snapshotShareBtn) {
         snapshotShareBtn.addEventListener('click', async () => {
@@ -1532,33 +1535,27 @@ document.addEventListener('DOMContentLoaded', async () => {
         // Keep the snapshot lean, but preserve browsing history and templates.
         const scenario = next.scenario && typeof next.scenario === 'object' ? next.scenario : {};
         const rightPanel = scenario.rightPanel && typeof scenario.rightPanel === 'object' ? scenario.rightPanel : {};
-        const keepRightPanel = {
-            source: rightPanel.source || {},
-            customer: rightPanel.customer || {},
-            guidelines: rightPanel.guidelines || {}
-        };
-        [
-            'browsingHistory',
-            'browsing_history',
-            'last5Products',
-            'last_5_products',
-            'orders',
-            'templates'
-        ].forEach((key) => {
-            if (Object.prototype.hasOwnProperty.call(rightPanel, key)) {
-                keepRightPanel[key] = clone(rightPanel[key], Array.isArray(rightPanel[key]) ? [] : {});
-            }
-        });
+        const keepRightPanel = clone(rightPanel, {});
+        const keepSource = clone(rightPanel.source || {}, {});
+        const keepCustomer = clone(rightPanel.customer || {}, {});
+        const keepGuidelines = clone(rightPanel.guidelines || {}, {});
 
         next.scenario = {
+            ...clone(scenario, {}),
             id: scenario.id || next.send_id || '',
             companyName: scenario.companyName || '',
             companyWebsite: scenario.companyWebsite || '',
+            has_shopify: scenarioHasShopify(scenario),
             agentName: scenario.agentName || '',
             customerPhone: scenario.customerPhone || '',
             conversation: Array.isArray(scenario.conversation) ? clone(scenario.conversation, []) : [],
             notes: scenario.notes && typeof scenario.notes === 'object' ? clone(scenario.notes, {}) : {},
-            rightPanel: keepRightPanel
+            rightPanel: {
+                ...keepRightPanel,
+                source: keepSource,
+                customer: keepCustomer,
+                guidelines: keepGuidelines
+            }
         };
         next.templates = Array.isArray(next.templates) ? clone(next.templates, []) : [];
         if (sizeOf(next) <= maxChars) return next;
@@ -1819,10 +1816,24 @@ document.addEventListener('DOMContentLoaded', async () => {
 
     function renderAssignmentQueue(assignments) {
         const rawQueue = Array.isArray(assignments) ? assignments : [];
+        const seenAssignmentIds = new Set();
+        const seenSendIds = new Set();
+        let dedupedCount = 0;
         assignmentQueue = rawQueue.filter((item) => {
             const entry = item || {};
-            const assignmentId = entry.assignment_id;
+            const assignmentId = String(entry.assignment_id || '').trim();
             const sendId = String(entry.send_id || '').trim();
+            if (assignmentId && isAssignmentPendingDone(assignmentId)) {
+                return false;
+            }
+            if (assignmentId && seenAssignmentIds.has(assignmentId)) {
+                dedupedCount++;
+                return false;
+            }
+            if (sendId && seenSendIds.has(sendId)) {
+                dedupedCount++;
+                return false;
+            }
             if (IGNORED_SEND_IDS.has(sendId)) {
                 markAssignmentLocallySkipped(assignmentId, 'ignored_send_id');
                 return false;
@@ -1837,12 +1848,15 @@ document.addEventListener('DOMContentLoaded', async () => {
                 }
                 return false;
             }
+            if (assignmentId) seenAssignmentIds.add(assignmentId);
+            if (sendId) seenSendIds.add(sendId);
             return !isAssignmentLocallySkipped(assignmentId);
         });
         debugLog('Rendered assignment queue', {
             total: rawQueue.length,
             active: assignmentQueue.length,
-            locallySkipped: locallySkippedAssignmentIds.size
+            locallySkipped: locallySkippedAssignmentIds.size,
+            deduped: dedupedCount
         });
         pruneAssignmentResponseCacheToQueue(assignmentQueue);
         prefetchAssignmentDetailsInBackground(assignmentQueue);
@@ -2540,9 +2554,16 @@ document.addEventListener('DOMContentLoaded', async () => {
         if (!content.trim()) return null;
 
         const normalized = { role, content };
+        if (messageType) normalized.message_type = messageType;
         if (agentIdentifier) normalized.agent = agentIdentifier;
         const media = normalizeMessageMedia(message.media || message.message_media);
         if (media.length) normalized.media = media;
+        const dateTimeValue = String(
+            message.date_time != null
+                ? message.date_time
+                : (message.dateTime != null ? message.dateTime : (message.timestamp != null ? message.timestamp : (message.created_at != null ? message.created_at : '')))
+        ).trim();
+        if (dateTimeValue) normalized.date_time = dateTimeValue;
 
         const id = String(message.id || message.message_id || '').trim();
         if (id) normalized.id = id;
@@ -2594,6 +2615,8 @@ document.addEventListener('DOMContentLoaded', async () => {
                 ...(scenarioObject.rightPanel || {})
             }
         };
+
+        mergedScenario.has_shopify = scenarioHasShopify(mergedScenario);
 
         const preloadedConversation = Array.isArray(scenarioObject.conversation)
             ? scenarioObject.conversation
@@ -2714,6 +2737,37 @@ document.addEventListener('DOMContentLoaded', async () => {
         return !normalizeName(template && template.companyName);
     }
 
+    function scenarioHasShopify(scenario) {
+        const rawFlag = scenario && Object.prototype.hasOwnProperty.call(scenario, 'has_shopify')
+            ? scenario.has_shopify
+            : scenario && scenario.hasShopify;
+        const explicit = rawFlag === true || String(rawFlag || '').trim().toLowerCase() === 'true';
+        if (explicit) return true;
+        if (!scenario || typeof scenario !== 'object') return false;
+
+        // Runtime chunk data can lag behind scenarios.json; infer from Shopify domains in scenario payload.
+        const stack = [scenario];
+        const seen = new Set();
+        while (stack.length) {
+            const current = stack.pop();
+            if (!current) continue;
+            if (typeof current === 'string') {
+                if (current.toLowerCase().includes('.myshopify.com')) return true;
+                continue;
+            }
+            if (Array.isArray(current)) {
+                for (let i = 0; i < current.length; i++) stack.push(current[i]);
+                continue;
+            }
+            if (typeof current === 'object') {
+                if (seen.has(current)) continue;
+                seen.add(current);
+                Object.values(current).forEach(value => stack.push(value));
+            }
+        }
+        return false;
+    }
+
     function formatDollarAmount(rawValue) {
         if (rawValue == null) return '';
         const text = String(rawValue).trim();
@@ -2722,13 +2776,32 @@ document.addEventListener('DOMContentLoaded', async () => {
         return `$${text}`;
     }
 
+    function firstNonEmptyValue(candidates) {
+        const list = Array.isArray(candidates) ? candidates : [];
+        for (let i = 0; i < list.length; i++) {
+            const value = list[i];
+            if (value == null) continue;
+            const text = String(value).trim();
+            if (text) return text;
+        }
+        return '';
+    }
+
     function appendUploadedScenarios(scenarios, uploadedList) {
         const uploaded = Array.isArray(uploadedList) ? uploadedList : [];
         if (!uploaded.length) return scenarios;
         const keys = Object.keys(scenarios).map(k => parseInt(k, 10)).filter(n => !isNaN(n));
         let nextKey = keys.length ? Math.max(...keys) + 1 : 1;
+        const existingIds = new Set(
+            Object.values(scenarios)
+                .map(item => String(item && item.id != null ? item.id : '').trim())
+                .filter(Boolean)
+        );
         uploaded.forEach(item => {
+            const itemId = String(item && item.id != null ? item.id : '').trim();
+            if (itemId && existingIds.has(itemId)) return;
             scenarios[String(nextKey)] = normalizeScenarioRecord(item, {}, String(nextKey));
+            if (itemId) existingIds.add(itemId);
             nextKey++;
         });
         return scenarios;
@@ -2752,7 +2825,32 @@ document.addEventListener('DOMContentLoaded', async () => {
     }
 
     async function loadUploadedScenarios() {
-        return [];
+        if (uploadedScenariosLoaded) {
+            return Array.isArray(uploadedScenariosCache) ? uploadedScenariosCache : [];
+        }
+        if (uploadedScenariosLoadPromise) return uploadedScenariosLoadPromise;
+        uploadedScenariosLoadPromise = (async () => {
+            if (!GOOGLE_SCRIPT_URL) {
+                uploadedScenariosLoaded = true;
+                uploadedScenariosCache = [];
+                return uploadedScenariosCache;
+            }
+            try {
+                const url = `${GOOGLE_SCRIPT_URL}?action=getUploadedScenarios`;
+                const response = await fetchJsonWithTimeout(url, { method: 'GET' }, ASSIGNMENT_GET_TIMEOUT_MS);
+                if (!response.ok) throw new Error(`uploaded scenarios request failed (${response.status})`);
+                const data = await response.json();
+                uploadedScenariosCache = Array.isArray(data && data.scenarios) ? data.scenarios : [];
+            } catch (error) {
+                console.warn('Failed to load uploaded scenarios:', error);
+                uploadedScenariosCache = [];
+            } finally {
+                uploadedScenariosLoaded = true;
+                uploadedScenariosLoadPromise = null;
+            }
+            return uploadedScenariosCache;
+        })();
+        return uploadedScenariosLoadPromise;
     }
 
     function resolveScenarioKeyFromRuntimeIndex(runtimeIndex) {
@@ -2813,8 +2911,17 @@ document.addEventListener('DOMContentLoaded', async () => {
     
     // Load scenarios data
     async function loadScenariosData() {
+        const mergeUploaded = async (baseScenarios) => {
+            const target = (baseScenarios && typeof baseScenarios === 'object') ? baseScenarios : {};
+            const uploaded = await loadUploadedScenarios();
+            appendUploadedScenarios(target, uploaded);
+            allScenariosData = target;
+            return allScenariosData;
+        };
+
         if (window.location.protocol === 'file:') {
-            return loadScenariosDataMonolith();
+            const scenarios = await loadScenariosDataMonolith();
+            return mergeUploaded(scenarios);
         }
 
         const runtimeIndex = await loadRuntimeScenariosIndex();
@@ -2822,11 +2929,12 @@ document.addEventListener('DOMContentLoaded', async () => {
             const preferredScenarioKey = resolveScenarioKeyFromRuntimeIndex(runtimeIndex);
             if (preferredScenarioKey) {
                 await ensureScenariosLoaded([preferredScenarioKey]);
-                return allScenariosData || {};
+                return mergeUploaded(allScenariosData || {});
             }
         }
 
-        return loadScenariosDataMonolith();
+        const fallbackScenarios = await loadScenariosDataMonolith();
+        return mergeUploaded(fallbackScenarios);
     }
     
     // Helper function to get display name and icon for guideline categories
@@ -3037,6 +3145,61 @@ document.addEventListener('DOMContentLoaded', async () => {
             }
         };
 
+        const appendMessageDateTime = (messageEl, message) => {
+            if (!messageEl || !message || typeof message !== 'object') return;
+            const contentText = String(message.content || '').trim();
+            if (/^(template used:|conversation escalated:)/i.test(contentText)) return;
+            const dateTime = String(message.date_time || '').trim().replace(/\.\d{3}$/, '');
+            if (!dateTime) return;
+            const agentId = String((message.agent || message.agent_id || message.agentId || '')).trim();
+            const rawType = String(message.message_type || '').trim().toLowerCase();
+            let messageTypeLabel = rawType || String(message.role || '').trim().toLowerCase();
+            if (messageTypeLabel === 'agent') {
+                messageTypeLabel = specialAgentIds.has(agentId) ? 'AI' : 'agent';
+            }
+            const metaText = messageTypeLabel ? `${dateTime} from ${messageTypeLabel}` : dateTime;
+            const dateEl = document.createElement('span');
+            dateEl.className = 'message-date-time';
+            dateEl.textContent = metaText;
+            messageEl.classList.add('has-date-time');
+            messageEl.appendChild(dateEl);
+        };
+
+        const adjustDateTimeMetaBubbleSizing = () => {
+            if (!chatMessages) return;
+            const bubbles = chatMessages.querySelectorAll('.message.has-date-time');
+            bubbles.forEach((bubble) => {
+                if (!(bubble instanceof HTMLElement)) return;
+                const dateEl = bubble.querySelector('.message-date-time');
+                if (!(dateEl instanceof HTMLElement)) return;
+
+                // Reset dynamic sizing before re-measuring.
+                bubble.style.minWidth = '';
+                bubble.style.width = '';
+                bubble.style.maxWidth = '';
+                bubble.style.marginLeft = '';
+                bubble.style.marginRight = '';
+
+                const baseWidth = Math.ceil(bubble.getBoundingClientRect().width);
+                const requiredWidth = Math.ceil(dateEl.scrollWidth + 32); // 16px inset on both sides
+                if (requiredWidth <= baseWidth) return;
+
+                const growBy = requiredWidth - baseWidth;
+                bubble.style.maxWidth = 'none';
+                bubble.style.width = `${requiredWidth}px`;
+                bubble.style.minWidth = `${requiredWidth}px`;
+
+                if (bubble.classList.contains('received')) {
+                    // Customer: grow naturally to the right from left alignment.
+                    bubble.style.marginLeft = '';
+                    bubble.style.marginRight = '';
+                } else if (bubble.classList.contains('sent')) {
+                    // System/agent: keep inner/left edge stable and grow outward (right).
+                    bubble.style.marginRight = `-${growBy}px`;
+                }
+            });
+        };
+
         if (!Array.isArray(conversation) || conversation.length === 0) {
             const fallbackMessage = document.createElement('div');
             fallbackMessage.className = 'message received';
@@ -3063,6 +3226,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                 appendLinkifiedText(systemParagraph, message.content);
                 systemContent.appendChild(systemParagraph);
                 systemMessage.appendChild(systemContent);
+                appendMessageDateTime(systemMessage, message);
                 appendMedia(systemContent, message.media);
                 chatMessages.appendChild(systemMessage);
                 return;
@@ -3109,8 +3273,11 @@ document.addEventListener('DOMContentLoaded', async () => {
             }
 
             wrapper.appendChild(content);
+            appendMessageDateTime(wrapper, message);
             chatMessages.appendChild(wrapper);
         });
+
+        requestAnimationFrame(adjustDateTimeMetaBubbleSizing);
     }
 
     function scrollChatToBottomAfterRender() {
@@ -3139,6 +3306,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 
         // Update company info with error checking
         const companyLink = document.getElementById('companyNameLink');
+        const shopifyBadge = document.getElementById('companyShopifyBadge');
         const agentElement = document.getElementById('agentName');
         const messageToneElement = document.getElementById('messageTone');
         const blocklistedWordsRow = document.getElementById('blocklistedWordsRow');
@@ -3164,6 +3332,10 @@ document.addEventListener('DOMContentLoaded', async () => {
             }
         } else {
             console.error('companyNameLink element not found');
+        }
+        if (shopifyBadge) {
+            const hasShopify = scenarioHasShopify(scenario);
+            shopifyBadge.style.display = hasShopify ? 'inline-flex' : 'none';
         }
         
         if (agentElement) {
@@ -3508,7 +3680,9 @@ document.addEventListener('DOMContentLoaded', async () => {
                         ? String(order.link || order.order_status_url || order.statusUrl).trim()
                         : '';
                     const orderLabel = document.createElement(resolvedOrderLink ? 'a' : 'span');
-                    orderLabel.textContent = (order && order.orderNumber) ? `#${order.orderNumber}` : 'Order';
+                    const rawOrderNumber = order && order.orderNumber != null ? String(order.orderNumber).trim() : '';
+                    const cleanOrderNumber = rawOrderNumber.replace(/^#+\s*/, '');
+                    orderLabel.textContent = cleanOrderNumber ? `# ${cleanOrderNumber}` : 'Order';
                     if (resolvedOrderLink && orderLabel.tagName.toLowerCase() === 'a') {
                         orderLabel.href = resolvedOrderLink;
                         orderLabel.target = '_blank';
@@ -3517,7 +3691,11 @@ document.addEventListener('DOMContentLoaded', async () => {
 
                     const orderDate = document.createElement('span');
                     orderDate.className = 'time-ago';
-                    orderDate.textContent = (order && order.orderDate) ? order.orderDate : '';
+                    orderDate.textContent = firstNonEmptyValue([
+                        order && order.orderDate,
+                        order && order.order_date,
+                        order && order.date
+                    ]);
 
                     summaryLeft.appendChild(orderLabel);
                     summaryLeft.appendChild(orderDate);
@@ -3533,10 +3711,37 @@ document.addEventListener('DOMContentLoaded', async () => {
                     const body = document.createElement('div');
                     body.className = 'order-body';
 
+                    const orderDateTime = firstNonEmptyValue([
+                        order && order.date_time,
+                        order && order.dateTime,
+                        order && order.created_at,
+                        order && order.createdAt
+                    ]);
+                    if (orderDateTime) {
+                        const createdRow = document.createElement('div');
+                        createdRow.className = 'order-meta-row';
+                        const createdLabel = document.createElement('strong');
+                        createdLabel.textContent = 'Created';
+                        const createdValue = document.createElement('span');
+                        createdValue.className = 'order-meta-value';
+                        createdValue.textContent = orderDateTime;
+                        createdRow.appendChild(createdLabel);
+                        createdRow.appendChild(createdValue);
+                        body.appendChild(createdRow);
+                    }
+
+                    const summaryTitle = document.createElement('div');
+                    summaryTitle.className = 'order-section-title';
+                    summaryTitle.textContent = 'Order summary';
+                    body.appendChild(summaryTitle);
+
                     const products = Array.isArray(order && order.items) ? order.items : [];
                     products.forEach(product => {
                         const row = document.createElement('div');
                         row.className = 'order-product-row';
+
+                        const nameWrap = document.createElement('div');
+                        nameWrap.className = 'order-product-name-wrap';
 
                         const resolvedProductLink = product && (product.productLink || product.product_link)
                             ? String(product.productLink || product.product_link)
@@ -3548,28 +3753,83 @@ document.addEventListener('DOMContentLoaded', async () => {
                             productName.target = '_blank';
                             productName.rel = 'noopener';
                         }
+                        nameWrap.appendChild(productName);
+
+                        const productQtyRaw = firstNonEmptyValue([
+                            product && product.qty,
+                            product && product.quantity,
+                            product && product.qnty
+                        ]);
+                        if (productQtyRaw) {
+                            const qty = document.createElement('span');
+                            qty.className = 'order-product-qty';
+                            qty.textContent = `Qty: ${productQtyRaw}`;
+                            nameWrap.appendChild(qty);
+                        }
 
                         const productPrice = document.createElement('span');
                         const productPriceRaw = (product && product.price != null) ? String(product.price).trim() : '';
                         productPrice.textContent = formatDollarAmount(productPriceRaw);
 
-                        row.appendChild(productName);
+                        row.appendChild(nameWrap);
                         row.appendChild(productPrice);
                         body.appendChild(row);
                     });
 
-                    const totalRow = document.createElement('div');
-                    totalRow.className = 'order-total-row';
-                    const totalLabel = document.createElement('strong');
-                    totalLabel.textContent = 'Total';
-                    const totalValue = document.createElement('strong');
-                    const orderTotalRaw = (order && order.total != null)
-                        ? String(order.total).trim()
-                        : (order && order.subtotal != null ? String(order.subtotal).trim() : '');
-                    totalValue.textContent = formatDollarAmount(orderTotalRaw);
-                    totalRow.appendChild(totalLabel);
-                    totalRow.appendChild(totalValue);
-                    body.appendChild(totalRow);
+                    const discountRaw = firstNonEmptyValue([
+                        order && order.discount,
+                        order && order.order_discount,
+                        order && order.orderDiscount,
+                        order && order.total_discount,
+                        order && order.totalDiscount
+                    ]);
+                    if (discountRaw) {
+                        const discountText = String(discountRaw).trim();
+                        const discountRow = document.createElement('div');
+                        discountRow.className = 'order-total-row order-total-row--discount';
+                        const discountLabel = document.createElement('strong');
+                        discountLabel.textContent = 'Total discount';
+                        const discountValue = document.createElement('strong');
+                        const cleanDiscount = discountText.replace(/^\-\s*/, '');
+                        const formattedDiscount = formatDollarAmount(cleanDiscount);
+                        discountValue.textContent = discountText.startsWith('-') ? `- ${formattedDiscount}` : formattedDiscount;
+                        discountRow.appendChild(discountLabel);
+                        discountRow.appendChild(discountValue);
+                        body.appendChild(discountRow);
+                    }
+
+                    const couponRaw = firstNonEmptyValue([
+                        order && order.coupon,
+                        order && order.coupon_code,
+                        order && order.couponCode
+                    ]);
+                    if (couponRaw) {
+                        const couponRow = document.createElement('div');
+                        couponRow.className = 'order-total-row';
+                        const couponLabel = document.createElement('strong');
+                        couponLabel.textContent = 'Coupon used';
+                        const couponValue = document.createElement('span');
+                        couponValue.textContent = couponRaw;
+                        couponRow.appendChild(couponLabel);
+                        couponRow.appendChild(couponValue);
+                        body.appendChild(couponRow);
+                    }
+
+                    const subtotalRow = document.createElement('div');
+                    subtotalRow.className = 'order-total-row';
+                    const subtotalLabel = document.createElement('strong');
+                    subtotalLabel.textContent = 'Order subtotal';
+                    const subtotalValue = document.createElement('strong');
+                    const orderSubtotalRaw = firstNonEmptyValue([
+                        order && order.subtotal,
+                        order && order.order_subtotal,
+                        order && order.orderSubtotal,
+                        order && order.total
+                    ]);
+                    subtotalValue.textContent = formatDollarAmount(orderSubtotalRaw);
+                    subtotalRow.appendChild(subtotalLabel);
+                    subtotalRow.appendChild(subtotalValue);
+                    body.appendChild(subtotalRow);
 
                     details.appendChild(body);
                     li.appendChild(details);
@@ -3584,6 +3844,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         // Update template items
         const templatesForScenario = getTemplatesForScenario(scenario);
         initializeTemplateSearch(templatesForScenario);
+        resetTemplateSearch();
     }
     
     // Helper function to convert timestamp to EST - just date
@@ -4213,6 +4474,14 @@ document.addEventListener('DOMContentLoaded', async () => {
 
         renderTemplateItems(templateSearchSourceTemplates, searchInput.value || '');
     }
+
+    function resetTemplateSearch() {
+        const searchInput = document.querySelector('.search-templates input');
+        if (searchInput) {
+            searchInput.value = '';
+        }
+        renderTemplateItems(templateSearchSourceTemplates, '');
+    }
     
     // Initialize everything
     const snapshotParams = getSnapshotParamsFromUrl();
@@ -4444,10 +4713,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         const notesRequiredIndicator = customForm.querySelector('h4 .required');
 
         function shouldRequireNotes() {
-            const anyUnchecked = Array.from(customForm.querySelectorAll('input[type="checkbox"]'))
-                .some(cb => !cb.checked);
-            const zeroTolerancePicked = !!(zeroToleranceSelect && String(zeroToleranceSelect.value || '').trim());
-            return anyUnchecked || zeroTolerancePicked;
+            return true;
         }
 
         function updateNotesRequirementUI() {
@@ -4658,6 +4924,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 
                     customForm.reset();
                     applyDefaultCustomFormState(customForm);
+                    resetTemplateSearch();
                     try {
                         localStorage.removeItem(`customFormState_assignment_${submitContext.assignment_id}`);
                         localStorage.removeItem(`internalNotes_assignment_${submitContext.assignment_id}`);
@@ -4683,6 +4950,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                 }
                 customForm.reset();
                 applyDefaultCustomFormState(customForm);
+                resetTemplateSearch();
                 try {
                     const key = assignmentContext && assignmentContext.assignment_id
                         ? assignmentFormStateStorageKey()

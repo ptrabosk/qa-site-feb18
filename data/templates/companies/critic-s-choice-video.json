@@ -1,88 +1,88 @@
 {
-  "companyKey": "critic\u0027s choice video",
+  "companyKey": "critic's choice video",
   "templates": [
     {
       "name": "Sales Collection",
       "content": "You can take a look at our sale collection here: https://www.ccvideo.com/deals",
       "id": "b95dc48d-eb94-4488-9627-4ce6bb750a9e",
       "shortcut": "spg",
-      "companyName": "Critic\u0027s Choice Video"
+      "companyName": "Critic's Choice Video"
     },
     {
       "name": "Catalog Request",
-      "content": "You can request a print catalog from us by visiting https://www.ccvideo.com/catalog/requestprintcatalog. Just fill out the form, and we\u0027ll send you a catalog featuring all our products. \n\nIf you need help with anything else or have any questions, feel free to ask. I\u0027m here to assist you!",
+      "content": "You can request a print catalog from us by visiting https://www.ccvideo.com/catalog/requestprintcatalog. Just fill out the form, and we'll send you a catalog featuring all our products. \n\nIf you need help with anything else or have any questions, feel free to ask. I'm here to assist you!",
       "id": "c95d9a52-86d7-4ee9-9287-8613ccb36428",
-      "companyName": "Critic\u0027s Choice Video"
+      "companyName": "Critic's Choice Video"
     },
     {
       "name": "Return policy",
       "content": "You can check out our detailed return policy here: https://www.ccvideo.com/help",
       "id": "73bc6ed3-a8b1-47df-87df-6c6270111c59",
       "shortcut": "rp",
-      "companyName": "Critic\u0027s Choice Video"
+      "companyName": "Critic's Choice Video"
     },
     {
       "name": "Customer support",
       "content": "The best way to handle this is to email us directly at cs@ccvideo.com. Our team is happy to help!",
       "id": "b97da207-811d-49eb-bfb5-c1d2359bea99",
       "shortcut": "cs",
-      "companyName": "Critic\u0027s Choice Video"
+      "companyName": "Critic's Choice Video"
     },
     {
       "name": "Free shipping",
-      "content": "We don\u0027t currently offer free shipping, but all promos will always be shared with our SMS subscribers or on our website, so keep an eye out!",
+      "content": "We don't currently offer free shipping, but all promos will always be shared with our SMS subscribers or on our website, so keep an eye out!",
       "id": "7dfff1f4-bd8c-468f-b6f8-311029145c9a",
       "shortcut": "fs",
-      "companyName": "Critic\u0027s Choice Video"
+      "companyName": "Critic's Choice Video"
     },
     {
       "name": "Cancel / edit order",
-      "content": "I can check if that\u0027s possible. What\u0027s the order number, email address and the change you\u0027d like to make?",
+      "content": "I can check if that's possible. What's the order number, email address and the change you'd like to make?",
       "id": "21be4127-7a7e-46b3-a722-49cf44a3820f",
       "shortcut": "ced",
-      "companyName": "Critic\u0027s Choice Video"
+      "companyName": "Critic's Choice Video"
     },
     {
       "name": "Wholesale inquiries",
       "content": "Thank you for your interest! The best way to discuss wholesale is to email us directly at cs@ccvideo.com. Our team is happy to chat.",
       "id": "79ffe714-4339-4b56-8402-477646c23a88",
       "shortcut": "wls",
-      "companyName": "Critic\u0027s Choice Video"
+      "companyName": "Critic's Choice Video"
     },
     {
       "name": "Military / First responder / Healthcare / Teacher discount",
-      "content": "Thank you for your service! We don\u0027t have any specific discounts like that but if it helps, you can check out the items we have on sale here: https://www.ccvideo.com/deals",
+      "content": "Thank you for your service! We don't have any specific discounts like that but if it helps, you can check out the items we have on sale here: https://www.ccvideo.com/deals",
       "id": "59e76521-8efe-4457-a3cf-c58917dfb73f",
       "shortcut": "ms",
-      "companyName": "Critic\u0027s Choice Video"
+      "companyName": "Critic's Choice Video"
     },
     {
       "name": "Brand ambassador / sponsorship / affiliate program",
       "content": "Thank you for your interest! The best way to discuss this is to email us directly at cs@ccvideo.com.. Our team is happy to chat.",
       "id": "1e92d373-4221-4eee-b4b3-738830315a3b",
       "shortcut": "ams",
-      "companyName": "Critic\u0027s Choice Video"
+      "companyName": "Critic's Choice Video"
     },
     {
       "name": "Shipping time",
       "content": "We usually ship via USPS and once shipped it will take 3-10 business days for domestic orders.",
       "id": "3ffa0562-50f9-4c62-ae28-0f99a9d61a9d",
       "shortcut": "shp",
-      "companyName": "Critic\u0027s Choice Video"
+      "companyName": "Critic's Choice Video"
     },
     {
       "name": "Phone support",
-      "content": "You can give us a call at 630-919-2246 Monday - Friday, 8am - 7pm \u0026\nSaturday 9am - 5pm CT, or let me know if I can help via text, it may be faster.",
+      "content": "You can give us a call at 630-919-2246 Monday - Friday, 8am - 7pm &\nSaturday 9am - 5pm CT, or let me know if I can help via text, it may be faster.",
       "id": "f7c1df3e-30f2-4402-a77c-896e39d92d9b",
       "shortcut": "ps",
-      "companyName": "Critic\u0027s Choice Video"
+      "companyName": "Critic's Choice Video"
     },
     {
       "name": "Social media",
       "content": "Give us a follow on IG: https://www.instagram.com/criticschoicevideo/ and FB here: https://www.facebook.com/CriticsChoiceVideo",
       "id": "8f5aba74-b3a5-4ac7-9b10-cb46940c383e",
       "shortcut": "smd",
-      "companyName": "Critic\u0027s Choice Video"
+      "companyName": "Critic's Choice Video"
     }
   ]
 }

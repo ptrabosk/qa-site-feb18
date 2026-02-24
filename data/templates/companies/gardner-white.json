@@ -3,20 +3,20 @@
   "templates": [
     {
       "name": "Post Purchase Inquiries",
-      "content": "We don\u0027t handle post-purchase requests via text. Please submit your request using this link: https://www.gardner-white.com/about/contact, live chat with one of our agents via the website or give us a call at 248-481-2200. Please let me know if you have any questions about our products, I\u0027m more than happy to help out!",
+      "content": "We don't handle post-purchase requests via text. Please submit your request using this link: https://www.gardner-white.com/about/contact, live chat with one of our agents via the website or give us a call at 248-481-2200. Please let me know if you have any questions about our products, I'm more than happy to help out!",
       "id": "f5135cf1-da63-40d8-8961-6ab03a632402",
       "shortcut": "ppi",
       "companyName": "Gardner-White"
     },
     {
       "name": "Can I track my delivery truck?",
-      "content": "Yes! On the scheduled day of your delivery/service, you will get a text and email with a three-hour window of when to drivers expect at your house. If you\u0027re scheduled for daytime you will be contacted the night before or early in the morning with your timeframe. If you\u0027re scheduled for evening you will be contacted in the afternoon (between 3pm and 5pm) with your timeframe. After that happens you can then use the Track Your Truck tool: https://www.gardner-white.com/customer-service/delivery-tracking\n\nIt will let you know what stop you are in the lineup, what the expected time for arrival is, and where your truck is at the moment.",
+      "content": "Yes! On the scheduled day of your delivery/service, you will get a text and email with a three-hour window of when to drivers expect at your house. If you're scheduled for daytime you will be contacted the night before or early in the morning with your timeframe. If you're scheduled for evening you will be contacted in the afternoon (between 3pm and 5pm) with your timeframe. After that happens you can then use the Track Your Truck tool: https://www.gardner-white.com/customer-service/delivery-tracking\n\nIt will let you know what stop you are in the lineup, what the expected time for arrival is, and where your truck is at the moment.",
       "id": "10d76836-f87d-4d37-bd35-28c8a860a396",
       "companyName": "Gardner-White"
     },
     {
       "name": "Can I use 50 month financing with multiple cheaper mattresses?",
-      "content": "I\u0027m afraid that our 50-month financing won\u0027t work on mattresses below $1499, even when you buy multiple of them and the total is over $1499.\nIt will only work on individual mattresses over $1499.",
+      "content": "I'm afraid that our 50-month financing won't work on mattresses below $1499, even when you buy multiple of them and the total is over $1499.\nIt will only work on individual mattresses over $1499.",
       "id": "6830310e-0659-479f-a3f0-e0e5412d5099",
       "companyName": "Gardner-White"
     },
@@ -49,13 +49,13 @@
     },
     {
       "name": "How can I enter the spin to win?",
-      "content": "The spin to win is an in-store promotion. When you arrive at one of our showrooms, you can ask the salesperson to participate in the spin to win and they\u0027ll bring you to the digital wheel so you can spin.",
+      "content": "The spin to win is an in-store promotion. When you arrive at one of our showrooms, you can ask the salesperson to participate in the spin to win and they'll bring you to the digital wheel so you can spin.",
       "id": "38f198c3-6dca-4e8f-87f3-351443f2bbdc",
       "companyName": "Gardner-White"
     },
     {
       "name": "What is doorstep delivery / door step?",
-      "content": "Doorstep delivery is our contactless delivery option. Our delivery team won\u0027t bring your furniture inside like they do with our White Glove option, but they\u0027ll deliver to your doorstep, garage, deck, driveway, or wherever on your property that works best for you. Be aware that some assembly may be required.",
+      "content": "Doorstep delivery is our contactless delivery option. Our delivery team won't bring your furniture inside like they do with our White Glove option, but they'll deliver to your doorstep, garage, deck, driveway, or wherever on your property that works best for you. Be aware that some assembly may be required.",
       "id": "2c839c81-cf84-483e-9061-d618cf6626b3",
       "companyName": "Gardner-White"
     },
@@ -87,7 +87,7 @@
     },
     {
       "name": "Up North Delivery deals?",
-      "content": "Sure, we\u0027re now delivering to a wider area. You can check this for more details about that deal: https://www.gardner-white.com/customer-service/pickup-delivery/up-north-delivery-deals",
+      "content": "Sure, we're now delivering to a wider area. You can check this for more details about that deal: https://www.gardner-white.com/customer-service/pickup-delivery/up-north-delivery-deals",
       "id": "7edb4ecb-e7f3-41c5-be11-aaa9cf922b90",
       "companyName": "Gardner-White"
     },
@@ -100,7 +100,7 @@
     },
     {
       "name": "Military / First responder / Healthcare / Teacher discount",
-      "content": "Thank you for your service! We don\u0027t have any specific discounts like that, but if it helps, you can check out the items we have on sale here: https://www.gardner-white.com/promo/on-sale-now/",
+      "content": "Thank you for your service! We don't have any specific discounts like that, but if it helps, you can check out the items we have on sale here: https://www.gardner-white.com/promo/on-sale-now/",
       "id": "204b00cf-474a-4e74-9b14-94c53c8d600f",
       "shortcut": "ms",
       "companyName": "Gardner-White"
@@ -128,7 +128,7 @@
     },
     {
       "name": "Cancel / edit order",
-      "content": "We don\u0027t handle post-purchase requests via text. Please submit your request using this link: https://www.gardner-white.com/about/contact, live chat with one of our agents via the website or give us a call at 248-481-2200. Please let me know if you have any questions about our products, I\u0027m more than happy to help out!",
+      "content": "We don't handle post-purchase requests via text. Please submit your request using this link: https://www.gardner-white.com/about/contact, live chat with one of our agents via the website or give us a call at 248-481-2200. Please let me know if you have any questions about our products, I'm more than happy to help out!",
       "id": "31d02e07-e2a6-470a-ab3d-052d7c6d2f39",
       "shortcut": "ced",
       "companyName": "Gardner-White"
@@ -160,7 +160,7 @@
     },
     {
       "name": "Can I select my delivery time?",
-      "content": "While you can\u0027t select a specific time for delivery, we do offer two different delivery windows: daytime/afternoon and evening delivery. Our daytime deliveries begin at 8 am and our evening deliveries (including Same Day) begin at 4pm and run through 11 pm. Some areas outside our regular delivery area are limited to specific days of the week. We also have a Track Your Truck tool to give your more specific information when your delivery will arrive on the day.",
+      "content": "While you can't select a specific time for delivery, we do offer two different delivery windows: daytime/afternoon and evening delivery. Our daytime deliveries begin at 8 am and our evening deliveries (including Same Day) begin at 4pm and run through 11 pm. Some areas outside our regular delivery area are limited to specific days of the week. We also have a Track Your Truck tool to give your more specific information when your delivery will arrive on the day.",
       "id": "93e34baa-35e7-420c-9fc9-451343e35aa0",
       "companyName": "Gardner-White"
     },
@@ -172,7 +172,7 @@
     },
     {
       "name": "Do you offer evening delivery?",
-      "content": "Yes! We offer evening delivery 7 days a week (excluding major holidays) in our regular delivery area. Our evening delivery routes start at 4pm and run through 11pm. You\u0027ll receive a 3-hour window of time to expect your truck.",
+      "content": "Yes! We offer evening delivery 7 days a week (excluding major holidays) in our regular delivery area. Our evening delivery routes start at 4pm and run through 11pm. You'll receive a 3-hour window of time to expect your truck.",
       "id": "e9ba53c9-2b3c-44d0-a63c-8442dc99318b",
       "companyName": "Gardner-White"
     },
@@ -248,7 +248,7 @@
     },
     {
       "name": "Will you remove my old mattress?",
-      "content": "Pick up and disposal of an old mattress is at the driver\u0027s discretion and can and will be refused if it\u0027s torn, ripped, stained, infested with bugs, etc.",
+      "content": "Pick up and disposal of an old mattress is at the driver's discretion and can and will be refused if it's torn, ripped, stained, infested with bugs, etc.",
       "id": "5821badc-caf6-41aa-a41e-83a31e711804",
       "companyName": "Gardner-White"
     }

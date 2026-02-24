@@ -3,7 +3,7 @@
   "templates": [
     {
       "name": "Student discount",
-      "content": "We offer student discounts for post-secondary students, trade school students, and full-time or part-time college students. It\u0027s a great way to save on footwear, clothing, and accessories for campus. You can find all the details here: https://www.ryka.com/discount-program",
+      "content": "We offer student discounts for post-secondary students, trade school students, and full-time or part-time college students. It's a great way to save on footwear, clothing, and accessories for campus. You can find all the details here: https://www.ryka.com/discount-program",
       "id": "9b0c737d-02f2-42ff-bd75-9052c924a36f",
       "companyName": "Ryka"
     },
@@ -16,21 +16,21 @@
     },
     {
       "name": "Store location / retailer",
-      "content": "We currently don\u0027t have a store but our retailers are Famous Footwear and DSW.",
+      "content": "We currently don't have a store but our retailers are Famous Footwear and DSW.",
       "id": "45ee8885-8d88-44c7-b607-3c2d4ce20535",
       "shortcut": "sl",
       "companyName": "Ryka"
     },
     {
       "name": "Do you offer warranty or a money-back guarantee for your shoes?",
-      "content": "We stand behind our shoes and recommend reaching out to the original retailer first regarding a return or exchange. If they can\u0027t help or the item was purchased from our site, please click here to find information \nregarding our defective policy: https://www.ryka.com/help/faq",
+      "content": "We stand behind our shoes and recommend reaching out to the original retailer first regarding a return or exchange. If they can't help or the item was purchased from our site, please click here to find information \nregarding our defective policy: https://www.ryka.com/help/faq",
       "id": "016b5e5d-b83f-45cd-9d73-098f37f6ff7d",
       "shortcut": "wp",
       "companyName": "Ryka"
     },
     {
       "name": "I purchased before the on-going sale, can the discount be refunded retroactively?",
-      "content": "We\u0027re able to honor price adjustments within 10 days of the purchase date.",
+      "content": "We're able to honor price adjustments within 10 days of the purchase date.",
       "id": "327b7a43-aa4c-434c-9c7e-45447b955ccc",
       "companyName": "Ryka"
     },
@@ -42,7 +42,7 @@
     },
     {
       "name": "Which style provides good arch support?",
-      "content": "We offer several styles with an anatomical insole with extra arch \u0026 heel support. You can find these styles here: \nhttps://www.ryka.com/search#hq=arch%20support\u0026sort=relevancy",
+      "content": "We offer several styles with an anatomical insole with extra arch & heel support. You can find these styles here: \nhttps://www.ryka.com/search#hq=arch%20support&sort=relevancy",
       "id": "489b8e1e-a079-43b1-a64f-602e659829f7",
       "companyName": "Ryka"
     },
@@ -88,7 +88,7 @@
     },
     {
       "name": "Are any of your shoes vegan?",
-      "content": "None of our shoes are considered vegan, but some styles are made with faux leather. You can check out these styles here: https://www.ryka.com/search#q=faux%20leather\u0026sort=relevancy",
+      "content": "None of our shoes are considered vegan, but some styles are made with faux leather. You can check out these styles here: https://www.ryka.com/search#q=faux%20leather&sort=relevancy",
       "id": "e43dedf6-61c1-4e3f-9961-5580f8f8e843",
       "companyName": "Ryka"
     },
@@ -101,18 +101,18 @@
     },
     {
       "name": "Can I use other insoles or orthotics with your shoes?",
-      "content": "We currently have one style available with a removable insole. You can find this style here: https://www.ryka.com/search#hq=removable%20insoles\u0026sort=relevancy",
+      "content": "We currently have one style available with a removable insole. You can find this style here: https://www.ryka.com/search#hq=removable%20insoles&sort=relevancy",
       "id": "f9d641fa-1187-4c97-ae62-4c67fa526a45",
       "companyName": "Ryka"
     },
     {
       "name": "I have medical issues. Are your shoes good for bunions, fasciitis, etc?",
-      "content": "Thank you for your interest in our footwear! We\u0027d love to serve your footwear needs, but we do recommend checking with your doctor to see what they recommend.",
+      "content": "Thank you for your interest in our footwear! We'd love to serve your footwear needs, but we do recommend checking with your doctor to see what they recommend.",
       "id": "fbcab4af-7a16-47e2-ad84-fbb93ed1abb9",
       "companyName": "Ryka"
     },
     {
-      "name": "Any women\u0027s shoes that can help with plantar fasciitis?",
+      "name": "Any women's shoes that can help with plantar fasciitis?",
       "content": "We recommend working with a doctor for specific needs for plantar fasciitis. Based on customer reviews, we can point you in the direction of our devotion styles where consumers mentioned these worked well for their plantar fasciitis.\n\n- https://www.ryka.com/product/womens-devotion-plus-2-walking-shoe-5249811/navy-blue-27710?icid=2022_TopNav_Devotion_Plus2\n- https://www.ryka.com/product/womens-devotion-plus-3-walking-shoe-5260574/navy-blazer-21468?icid=2022_TopNav_Devotion_Plus3",
       "id": "8b3c5e0f-dcdd-49ab-b206-4f2a301c592f",
       "companyName": "Ryka"
@@ -126,33 +126,33 @@
     },
     {
       "name": "Cancel/edit template",
-      "content": "To better serve you, orders are processed and shipped very quickly. Therefore, we\u0027re unable to cancel or modify your order, as we can\u0027t edit orders once they begin to process. Unworn items purchased on our site may be returned within 30 days of the purchase date for a refund.",
+      "content": "To better serve you, orders are processed and shipped very quickly. Therefore, we're unable to cancel or modify your order, as we can't edit orders once they begin to process. Unworn items purchased on our site may be returned within 30 days of the purchase date for a refund.",
       "id": "2a13ed26-d0df-45b5-ba0c-80dea90d7235",
       "shortcut": "ced",
       "companyName": "Ryka"
     },
     {
       "name": "Do you offer repairs?",
-      "content": "We don\u0027t offer repair services or replacements parts. If you believe your shoes are defective, you have the option to return them to our warehouse for inspection.",
+      "content": "We don't offer repair services or replacements parts. If you believe your shoes are defective, you have the option to return them to our warehouse for inspection.",
       "id": "42b287ed-8992-44c3-a0d9-99b32654c9db",
       "companyName": "Ryka"
     },
     {
       "name": "How can I become a brand ambassador for Ryka?",
-      "content": "Thank you for your interest in collaborating with us! Please send your information to CSSocial@caleres.com indicating that you\u0027d like to be a brand ambassador for us. We can then forward your information to the \nappropriate team.",
+      "content": "Thank you for your interest in collaborating with us! Please send your information to CSSocial@caleres.com indicating that you'd like to be a brand ambassador for us. We can then forward your information to the \nappropriate team.",
       "id": "63f1749c-1db9-4010-9374-46f5505145a0",
       "shortcut": "ams",
       "companyName": "Ryka"
     },
     {
       "name": "Do you have waterproof shoes? How do they affect sweat absorbance?",
-      "content": "You can click here to see the styles we have that are water-repellent: https://www.ryka.com/search#hq=water\n%20repellent\u0026sort=relevancy",
+      "content": "You can click here to see the styles we have that are water-repellent: https://www.ryka.com/search#hq=water\n%20repellent&sort=relevancy",
       "id": "8290ff7b-9139-434c-bb37-79ec6edc4481",
       "companyName": "Ryka"
     },
     {
       "name": "Which stores carry your products?",
-      "content": "For our full online catalog please shop at https://www.ryka.com. If you can\u0027t shop from our site, you can find our brand at Famous Footwear, DSW, Macy\u0027s, Nordstrom Rack, Kohl\u0027s, TJMaxx, Dunham\u0027s, Meijer, and Burlington Coat Factory.",
+      "content": "For our full online catalog please shop at https://www.ryka.com. If you can't shop from our site, you can find our brand at Famous Footwear, DSW, Macy's, Nordstrom Rack, Kohl's, TJMaxx, Dunham's, Meijer, and Burlington Coat Factory.",
       "id": "a2fd2e60-22b9-49d7-b590-e853d5dab262",
       "shortcut": "sl",
       "companyName": "Ryka"
@@ -173,20 +173,20 @@
     },
     {
       "name": "Restock? (autosend enabled)",
-      "content": "I currently don\u0027t have the exact date of a possible restock, but I recommend checking our website and social media frequently.",
+      "content": "I currently don't have the exact date of a possible restock, but I recommend checking our website and social media frequently.",
       "id": "83b858b6-3531-11ed-a261-0242ac120002",
       "shortcut": "stok",
       "companyName": "Ryka"
     },
     {
       "name": "Are your packages discreet? Is pricing information included?",
-      "content": "Pricing information isn\u0027t included in the package. The return slip only has your itemized list of purchases. Our boxes are branded with the logo.",
+      "content": "Pricing information isn't included in the package. The return slip only has your itemized list of purchases. Our boxes are branded with the logo.",
       "id": "dd58d675-6d4d-4b1f-9b16-d6020c21b22e",
       "companyName": "Ryka"
     },
     {
       "name": "Can you apply a code retroactively?",
-      "content": "I\u0027m afraid we can\u0027t make any changes after the order has been placed, but you can use the code on the next purchase as it won\u0027t expire.",
+      "content": "I'm afraid we can't make any changes after the order has been placed, but you can use the code on the next purchase as it won't expire.",
       "id": "b1d96142-0d41-485a-bfb9-0791846f8055",
       "companyName": "Ryka"
     },
@@ -226,7 +226,7 @@
     },
     {
       "name": "Size Chart: Women - Shoes",
-      "content": "You can take a look at our women\u0027s size chart here: https://www.ryka.com/overlays/size-chart-2?icid=sizechart_shoes",
+      "content": "You can take a look at our women's size chart here: https://www.ryka.com/overlays/size-chart-2?icid=sizechart_shoes",
       "id": "4c52057b-4c54-4b9f-95fe-80871bf862f2",
       "companyName": "Ryka"
     },

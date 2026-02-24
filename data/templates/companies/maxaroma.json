@@ -27,14 +27,14 @@
     },
     {
       "name": "Store location / retailer",
-      "content": "We don\u0027t currently have a store but definitely keep an eye out.",
+      "content": "We don't currently have a store but definitely keep an eye out.",
       "id": "42c60dd3-7f34-45d2-b7e2-3442a2b214a9",
       "shortcut": "sl",
       "companyName": "Maxaroma"
     },
     {
       "name": "Customer wants a discount",
-      "content": "I\u0027m happy to check if we have some discounts! What brand are you looking to get today?",
+      "content": "I'm happy to check if we have some discounts! What brand are you looking to get today?",
       "id": "aa295754-e6b8-4402-9d4d-93045a97e86d",
       "companyName": "Maxaroma"
     },
@@ -88,13 +88,13 @@
     },
     {
       "name": "Do you have any discount for Aaron Terence Hughes fragrances?",
-      "content": "We don\u0027t have any codes available for Aaron Terence Hughes fragrances at the moment.",
+      "content": "We don't have any codes available for Aaron Terence Hughes fragrances at the moment.",
       "id": "976ae3b6-04e9-4e6e-8c94-bd3baced1465",
       "companyName": "Maxaroma"
     },
     {
       "name": "Is the packaging new? The fragrance looks/smells different",
-      "content": "We pride ourselves on providing 100% authentic fragrances from many designer brands as well as niche brands. Please be aware that manufacturers might change their formulas and/or their packaging as well. When it comes to handmade products, the performance will vary from batch to batch and that will depend on the manufacturer.  As you may understand, we\u0027re not in control of any changes manufacturers decide to do with their products. Also, there\u0027s a good chance that you\u0027re comparing the product you received with another one from a different batch.",
+      "content": "We pride ourselves on providing 100% authentic fragrances from many designer brands as well as niche brands. Please be aware that manufacturers might change their formulas and/or their packaging as well. When it comes to handmade products, the performance will vary from batch to batch and that will depend on the manufacturer.  As you may understand, we're not in control of any changes manufacturers decide to do with their products. Also, there's a good chance that you're comparing the product you received with another one from a different batch.",
       "id": "85e7f02f-7bae-4968-873b-0a974b824fd5",
       "companyName": "Maxaroma"
     },
@@ -107,7 +107,7 @@
     },
     {
       "name": "To help with your decision",
-      "content": "To help with your decision today, check out our gift sets, they\u0027re perfect if you\u0027re buying for someone or for yourself: https://www.maxaroma.com/p4u/key-gift-set/view",
+      "content": "To help with your decision today, check out our gift sets, they're perfect if you're buying for someone or for yourself: https://www.maxaroma.com/p4u/key-gift-set/view",
       "id": "491228cf-278a-46c3-abd9-0b6e411be6e3",
       "shortcut": "hyd",
       "companyName": "Maxaroma"
@@ -127,13 +127,13 @@
     },
     {
       "name": "My item arrived damaged / broken",
-      "content": "I\u0027m sorry to hear that! We\u0027re happy to offer you a full refund or exchange if you received any bottles that are defective. You can request a return on our website through this link: https://www.maxaroma.com/site-page/returns-policy.html",
+      "content": "I'm sorry to hear that! We're happy to offer you a full refund or exchange if you received any bottles that are defective. You can request a return on our website through this link: https://www.maxaroma.com/site-page/returns-policy.html",
       "id": "5521bfc3-b8a9-4198-84b3-7be78fb13be9",
       "companyName": "Maxaroma"
     },
     {
       "name": "Military / First responder discount",
-      "content": "Thank you for your service! We don\u0027t have any specific discounts like that but if it helps, you can check out our current offers here: https://www.maxaroma.com/offers.html",
+      "content": "Thank you for your service! We don't have any specific discounts like that but if it helps, you can check out our current offers here: https://www.maxaroma.com/offers.html",
       "id": "05032c6c-ee6f-4a1a-8556-032a5bcd9706",
       "shortcut": "ms",
       "companyName": "Maxaroma"
@@ -154,14 +154,14 @@
     },
     {
       "name": "Cancel / edit order",
-      "content": "We don\u0027t handle post-purchase requests via text. Please submit your request at customercare@maxaroma.com or feel free to call this number 1-844-552-7662. Please let me know if you have any questions about our products, I\u0027m more than happy to help out!",
+      "content": "We don't handle post-purchase requests via text. Please submit your request at customercare@maxaroma.com or feel free to call this number 1-844-552-7662. Please let me know if you have any questions about our products, I'm more than happy to help out!",
       "id": "eb92ab42-8186-4acf-8db5-d7d900c99a03",
       "shortcut": "ced",
       "companyName": "Maxaroma"
     },
     {
       "name": "Restock? (autosend enabled)",
-      "content": "I currently don\u0027t have the exact date of a possible restock, but I recommend signing up on the product page so you\u0027re notified the second it comes back in!",
+      "content": "I currently don't have the exact date of a possible restock, but I recommend signing up on the product page so you're notified the second it comes back in!",
       "id": "6f25f8c2-2ded-11ed-a261-0242ac120002",
       "shortcut": "stof",
       "companyName": "Maxaroma"
@@ -182,7 +182,7 @@
     },
     {
       "name": "Post Purchase Inquiries",
-      "content": "We don\u0027t handle post-purchase requests via text. Please submit your request at  customercare@maxaroma.com or feel free to call this number 1-844-552-7662. Please let me know if you have any questions about our products, I\u0027m more than happy to help out!",
+      "content": "We don't handle post-purchase requests via text. Please submit your request at  customercare@maxaroma.com or feel free to call this number 1-844-552-7662. Please let me know if you have any questions about our products, I'm more than happy to help out!",
       "id": "d4eabb2d-6d59-4139-ba94-25ab105dc820",
       "shortcut": "ppi",
       "companyName": "Maxaroma"

@@ -63,13 +63,13 @@
     },
     {
       "name": "Personalization: Shipping Time",
-      "content": "Please allow 5 additional business days for processing. All personalized items will ship from our East Coast 3PL - Outerspace. \n Personalization is not available for international orders.\nI\u0027m afraid expedited shipping will also not be available at checkout for personalized orders.",
+      "content": "Please allow 5 additional business days for processing. All personalized items will ship from our East Coast 3PL - Outerspace. \n Personalization is not available for international orders.\nI'm afraid expedited shipping will also not be available at checkout for personalized orders.",
       "id": "d2b405ae-ebe5-45b2-8d6b-1419acb3383d",
       "companyName": "CALPAK"
     },
     {
-      "name": "Code won\u0027t work - brand specific",
-      "content": "Our promo codes are only eligible for full-priced items. They don\u0027t work on already discounted products, including bundled sets. I\u0027m sorry for the inconvenience.",
+      "name": "Code won't work - brand specific",
+      "content": "Our promo codes are only eligible for full-priced items. They don't work on already discounted products, including bundled sets. I'm sorry for the inconvenience.",
       "id": "fc374dfc-68d8-4a27-9dd2-19b72d2f3c35",
       "shortcut": "cww",
       "companyName": "CALPAK"
@@ -81,8 +81,8 @@
       "companyName": "CALPAK"
     },
     {
-      "name": "What features do the kid\u0027s backpacks have?",
-      "content": "They have a water-resistant exterior and water-resistant/antimicrobial lining. They feature a clear mesh pvc window pocket and multiple keychain attachment points so your keys don\u0027t get lost. They also have multiple interior pockets and padded shoulder straps.",
+      "name": "What features do the kid's backpacks have?",
+      "content": "They have a water-resistant exterior and water-resistant/antimicrobial lining. They feature a clear mesh pvc window pocket and multiple keychain attachment points so your keys don't get lost. They also have multiple interior pockets and padded shoulder straps.",
       "id": "a46c6098-0730-4c8f-85b6-8f3681498671",
       "companyName": "CALPAK"
     },
@@ -129,14 +129,14 @@
       "companyName": "CALPAK"
     },
     {
-      "name": "I can\u0027t redeem my points/I don\u0027t see the option at checkout",
-      "content": "If you\u0027d like to apply your rewards points, please be sure to opt out of the Express Checkout methods and proceed with standard checkout fields. Here\u0027s a screenshot: https://prnt.sc/d_Qqp1-wsyEH \n\nThough we\u0027d love to offer rewards redemption through Shop Pay Express Checkout (or whatever accelerated checkout method used) for your ease, unfortunately at this time this checkout method does not allow us to do so.",
+      "name": "I can't redeem my points/I don't see the option at checkout",
+      "content": "If you'd like to apply your rewards points, please be sure to opt out of the Express Checkout methods and proceed with standard checkout fields. Here's a screenshot: https://prnt.sc/d_Qqp1-wsyEH \n\nThough we'd love to offer rewards redemption through Shop Pay Express Checkout (or whatever accelerated checkout method used) for your ease, unfortunately at this time this checkout method does not allow us to do so.",
       "id": "91bab956-10a4-4538-b5fa-8db84e31a850",
       "companyName": "CALPAK"
     },
     {
       "name": "How do I redeem my points?",
-      "content": "When using your points, you want to make sure you are logged in and then click the VIT Rewards link at the top right of the homepage. Once you are in the VIT Rewards lounge, you will see a button that says redeem at checkout.\n\nYou can use the slider to choose how many points you want to add to your order. Once you have the desired amount of points, you must click the Apply button to see the points reflected in your total. Please note, that you can\u0027t apply any other promo codes to your order. The points, when applied, are assigned a promo code. You will be able to redeem your points once your order reaches $50.",
+      "content": "When using your points, you want to make sure you are logged in and then click the VIT Rewards link at the top right of the homepage. Once you are in the VIT Rewards lounge, you will see a button that says redeem at checkout.\n\nYou can use the slider to choose how many points you want to add to your order. Once you have the desired amount of points, you must click the Apply button to see the points reflected in your total. Please note, that you can't apply any other promo codes to your order. The points, when applied, are assigned a promo code. You will be able to redeem your points once your order reaches $50.",
       "id": "bf579240-94a8-4ed9-b682-3d7ab5cec4a2",
       "companyName": "CALPAK"
     },
@@ -148,19 +148,19 @@
     },
     {
       "name": "How do I reset my lock?",
-      "content": "Please send a photo of your lock to help@calpaks.com. One of my colleagues will get back to you within 2 business days. If it\u0027s urgent, we recommend trying all the combinations between 0-0-0 and 9-9-9. We promise it takes less time than you would think (we happen to know from experience).",
+      "content": "Please send a photo of your lock to help@calpaks.com. One of my colleagues will get back to you within 2 business days. If it's urgent, we recommend trying all the combinations between 0-0-0 and 9-9-9. We promise it takes less time than you would think (we happen to know from experience).",
       "id": "1232e588-3a36-4980-830d-d3960df0b98c",
       "companyName": "CALPAK"
     },
     {
       "name": "Is your luggage waterproof?",
-      "content": "Most of our luggage is water resistant but it\u0027s not waterproof.",
+      "content": "Most of our luggage is water resistant but it's not waterproof.",
       "id": "326ec640-2170-4d45-a124-4e442a6bbb63",
       "companyName": "CALPAK"
     },
     {
       "name": "Can I buy individual luggage pieces if they are only offered in a set?",
-      "content": "We\u0027re always working on adding new collections for individual sale. If it\u0027s not available on our website as a single item, I\u0027m afraid it\u0027s not available for individual sale at this time. Sorry!",
+      "content": "We're always working on adding new collections for individual sale. If it's not available on our website as a single item, I'm afraid it's not available for individual sale at this time. Sorry!",
       "id": "8e69e964-08f3-483b-85ce-5a014eaad511",
       "companyName": "CALPAK"
     },
@@ -178,13 +178,13 @@
     },
     {
       "name": "Spare/Repair/Replacement",
-      "content": "If you\u0027d like to purchase a spare part, snap a picture of what needs to be replaced and send it to warranty@calpaks.com. We\u0027ll help you through the process.",
+      "content": "If you'd like to purchase a spare part, snap a picture of what needs to be replaced and send it to warranty@calpaks.com. We'll help you through the process.",
       "id": "1d006a3f-8a09-431e-b818-76b64ad45bd1",
       "companyName": "CALPAK"
     },
     {
-      "name": "How many day\u0027s of clothes can a trunk fit?",
-      "content": "It would be dependent on what you\u0027re taking along with you. Size, shoes, outerwear, accessories, etc, all play a part in how much a piece of luggage can hold. It\u0027s subjective, but to get an idea, a medium trunk is good for a week.",
+      "name": "How many day's of clothes can a trunk fit?",
+      "content": "It would be dependent on what you're taking along with you. Size, shoes, outerwear, accessories, etc, all play a part in how much a piece of luggage can hold. It's subjective, but to get an idea, a medium trunk is good for a week.",
       "id": "6fc979ec-a8cf-42f4-a2b6-783231f6fba6",
       "companyName": "CALPAK"
     },
@@ -216,7 +216,7 @@
     },
     {
       "name": "Wholesale Inquiries",
-      "content": "We\u0027re happy to hear you\u0027re interested in working with us! Please email sales@calpaks.com for all wholesale and stocking inquiries.",
+      "content": "We're happy to hear you're interested in working with us! Please email sales@calpaks.com for all wholesale and stocking inquiries.",
       "id": "60598785-0cf3-437d-8a9e-9d860025cea4",
       "shortcut": "wls",
       "companyName": "CALPAK"
@@ -230,7 +230,7 @@
     },
     {
       "name": "Do you offer gift wrapping?",
-      "content": "We don\u0027t offer gift wrapping at this time, though I\u0027ll definitely pass this along to the team to consider in the future!",
+      "content": "We don't offer gift wrapping at this time, though I'll definitely pass this along to the team to consider in the future!",
       "id": "293d4c33-7413-4f34-bd4b-b555e7ab4dc7",
       "companyName": "CALPAK"
     },
@@ -243,12 +243,12 @@
     },
     {
       "name": "Can I return a gift card?",
-      "content": "Unfortunately, e-Gift cards aren\u0027t refundable and can\u0027t be changed or cancelled. We suggest regifting loved ones so they can get what they truly want this year.",
+      "content": "Unfortunately, e-Gift cards aren't refundable and can't be changed or cancelled. We suggest regifting loved ones so they can get what they truly want this year.",
       "id": "0d5a726e-d6fe-4861-b1ba-9aa7a72e768e",
       "companyName": "CALPAK"
     },
     {
-      "name": "I only received the Carry-On Luggage, where\u0027s the smaller luggage/duffel I ordered?",
+      "name": "I only received the Carry-On Luggage, where's the smaller luggage/duffel I ordered?",
       "content": "We are so sorry for the confusion, we ship smaller items nested inside the luggage.",
       "id": "b984f212-6eb1-4196-a1f6-3c96253fea53",
       "companyName": "CALPAK"
@@ -262,13 +262,13 @@
     },
     {
       "name": "Can I return an item that is marked as final sale?",
-      "content": "I\u0027m afraid items that are marked as final sale are not eligible for returns however if there are any defects upon arrival please send us an email with images and our team will be happy to assist further.",
+      "content": "I'm afraid items that are marked as final sale are not eligible for returns however if there are any defects upon arrival please send us an email with images and our team will be happy to assist further.",
       "id": "e077a4b7-3a03-49d1-b928-4b528c5c1779",
       "companyName": "CALPAK"
     },
     {
       "name": "Ambassador Program",
-      "content": "We\u0027re glad to hear you want to work with us! The best way to discuss this is to email us directly at press@calpaks.com. Our team is happy to chat.",
+      "content": "We're glad to hear you want to work with us! The best way to discuss this is to email us directly at press@calpaks.com. Our team is happy to chat.",
       "id": "b1458c29-1681-407c-b637-9c4620db52c7",
       "shortcut": "ams",
       "companyName": "CALPAK"
@@ -287,7 +287,7 @@
     },
     {
       "name": "Can you ship to multiple addresses?",
-      "content": "I\u0027m afraid you\u0027re only able to ship to one address per order. If you need the order to be sent to two different addresses, you will need to place two different orders. Apologies for the inconvenience!",
+      "content": "I'm afraid you're only able to ship to one address per order. If you need the order to be sent to two different addresses, you will need to place two different orders. Apologies for the inconvenience!",
       "id": "77914db4-d069-4498-9bf4-dafecd54ff7e",
       "companyName": "CALPAK"
     },
@@ -305,7 +305,7 @@
     },
     {
       "name": "No promotions available",
-      "content": "I\u0027m sorry, I don\u0027t have any codes available at the moment, but our deals will always be shared with our SMS subscribers or on our website, so keep an eye out! You can also join our VIT club to get first access to sales, a special birthday gift, exclusive events, and more. Plus you also get $5 just for signing up 😉Here\u0027s where you can start your VIT journey: https://www.calpaktravel.com/pages/rewards",
+      "content": "I'm sorry, I don't have any codes available at the moment, but our deals will always be shared with our SMS subscribers or on our website, so keep an eye out! You can also join our VIT club to get first access to sales, a special birthday gift, exclusive events, and more. Plus you also get $5 just for signing up 😉Here's where you can start your VIT journey: https://www.calpaktravel.com/pages/rewards",
       "id": "e64f7aed-5471-448d-bd7e-c80a86be822c",
       "shortcut": "ncode",
       "companyName": "CALPAK"
@@ -330,13 +330,13 @@
     },
     {
       "name": "Do reward points expire?",
-      "content": "Your points expire  2 years after they\u0027re earned, leaving you ample time to use your points.",
+      "content": "Your points expire  2 years after they're earned, leaving you ample time to use your points.",
       "id": "18ad7603-8008-435b-a0c1-a850a7b408e4",
       "companyName": "CALPAK"
     },
     {
       "name": "Do you ship to P.O. Boxes?",
-      "content": "Unfortunately, we\u0027re unable to deliver to a P.O. box address, so if a P.O. box is entered at checkout, your order may be delayed or cancelled.",
+      "content": "Unfortunately, we're unable to deliver to a P.O. box address, so if a P.O. box is entered at checkout, your order may be delayed or cancelled.",
       "id": "f62d5935-6223-4647-9c64-d4e295aa3bc9",
       "companyName": "CALPAK"
     },
@@ -367,7 +367,7 @@
     },
     {
       "name": "How are you different from other brands?",
-      "content": "We\u0027re among the most popular luggage brands today and we also carry more affordable carry-ons in a wide array of designs. Since the begging of CALPAK, we try to provide and make modern, low-cost luxury luggage which is available to everybody. We\u0027re trendsetters as well as trend followers! We offer a wide selection of amateur carry-ons with a chic look and also a wide selection of carry-on designs that will fit different personalities and tastes.",
+      "content": "We're among the most popular luggage brands today and we also carry more affordable carry-ons in a wide array of designs. Since the begging of CALPAK, we try to provide and make modern, low-cost luxury luggage which is available to everybody. We're trendsetters as well as trend followers! We offer a wide selection of amateur carry-ons with a chic look and also a wide selection of carry-on designs that will fit different personalities and tastes.",
       "id": "bda5bfc3-2e42-4952-bb67-161271d7863f",
       "companyName": "CALPAK"
     },
@@ -379,7 +379,7 @@
     },
     {
       "name": "Restock button (autosend enabled)",
-      "content": "I currently don\u0027t have the exact date of a possible restock, but I recommend signing up for notifications on the product page so you\u0027re the first to know of any future restocks!",
+      "content": "I currently don't have the exact date of a possible restock, but I recommend signing up for notifications on the product page so you're the first to know of any future restocks!",
       "id": "6f25ce88-2ded-11ed-a261-0242ac120002",
       "shortcut": "stof",
       "companyName": "CALPAK"
@@ -397,14 +397,14 @@
       "companyName": "CALPAK"
     },
     {
-      "name": "I got it as a gift and don\u0027t like it, can I get a refund?",
+      "name": "I got it as a gift and don't like it, can I get a refund?",
       "content": "If you received an item as a gift, refunds will be issued to the original purchaser or, if requested, a CALPAK gift card will be emailed to you once the return has been processed. We are not able to offer refunds to anyone other than the original purchaser and their form of payment.",
       "id": "e02785ff-cc12-4545-9885-2585fe3d582f",
       "companyName": "CALPAK"
     },
     {
       "name": "Are returns free?",
-      "content": "Return shipping is not free, however, we offer a flat rate return shipping. You\u0027ll be charged a single fee, even with multiple items. For Luggage, it\u0027s $24.95, for Bags \u0026 Accessories it\u0027s $11.95.",
+      "content": "Return shipping is not free, however, we offer a flat rate return shipping. You'll be charged a single fee, even with multiple items. For Luggage, it's $24.95, for Bags & Accessories it's $11.95.",
       "id": "d917d52d-d0c6-4575-bce9-71c493af1567",
       "companyName": "CALPAK"
     },
@@ -416,13 +416,13 @@
     },
     {
       "name": "Do you do gift receipts?",
-      "content": "While we aren\u0027t offering gift receipts at this time, the packing slip that is included with your order will have all the necessary information should the giftee want to return/exchange the item.\n\nDon\u0027t worry, prices are not included. :)",
+      "content": "While we aren't offering gift receipts at this time, the packing slip that is included with your order will have all the necessary information should the giftee want to return/exchange the item.\n\nDon't worry, prices are not included. :)",
       "id": "ee9de143-cb02-49d7-9d77-644d97b61f02",
       "companyName": "CALPAK"
     },
     {
       "name": "Do you price adjust?",
-      "content": "If an item you purchased from us is discounted within 5 days of the purchase date on the site, we\u0027ll honor a one-time price adjustment on full-price \npurchases, however items that are on sale on websites other than ours are ineligible for price adjustments. The product must be in stock and identical in size, color, and quantity.",
+      "content": "If an item you purchased from us is discounted within 5 days of the purchase date on the site, we'll honor a one-time price adjustment on full-price \npurchases, however items that are on sale on websites other than ours are ineligible for price adjustments. The product must be in stock and identical in size, color, and quantity.",
       "id": "f3df9a90-f1a0-4c44-8118-d8028ffea2f3",
       "companyName": "CALPAK"
     },
@@ -447,7 +447,7 @@
     },
     {
       "name": "Phone support",
-      "content": "We don\u0027t offer phone support right now but I\u0027d be happy to help you over text, let me know what I can do for you.",
+      "content": "We don't offer phone support right now but I'd be happy to help you over text, let me know what I can do for you.",
       "id": "66731a90-d8a3-41f3-a33a-52aeec630cd7",
       "shortcut": "ps",
       "companyName": "CALPAK"
@@ -461,13 +461,13 @@
     },
     {
       "name": "Medium clear cosmetic case specs",
-      "content": "This travel makeup bag is small enough to fit in your carry-on, and large enough to store all your beauty essentials. We designed our newest makeup case to be transparent, so you wouldn\u0027t leave anything behind. It features an easy zip-around opening, dual lay-flat handles and an ultra-spacious interior mesh zippered pocket.",
+      "content": "This travel makeup bag is small enough to fit in your carry-on, and large enough to store all your beauty essentials. We designed our newest makeup case to be transparent, so you wouldn't leave anything behind. It features an easy zip-around opening, dual lay-flat handles and an ultra-spacious interior mesh zippered pocket.",
       "id": "a13ea505-378d-471b-9b65-c63692f7e75b",
       "companyName": "CALPAK"
     },
     {
       "name": "Luka Key Pouch specs",
-      "content": "The Luka Key Pouch is designed for your most important things. This coin purse keychain can store your keys, headphones, and maybe even a little more! It features a soft \u0026 water-resistant exterior, a versatile elastic strap for attaching to your belt or even your wrist and a carabiner for secure attachment to keys, bags, and beyond.",
+      "content": "The Luka Key Pouch is designed for your most important things. This coin purse keychain can store your keys, headphones, and maybe even a little more! It features a soft & water-resistant exterior, a versatile elastic strap for attaching to your belt or even your wrist and a carabiner for secure attachment to keys, bags, and beyond.",
       "id": "7a9cfcfd-6478-460c-962e-1237d6604fd3",
       "companyName": "CALPAK"
     },
@@ -479,7 +479,7 @@
     },
     {
       "name": "Birthday Points",
-      "content": "Please note birthdays must be shared 30 days prior to the date. If your birthday falls within the next 30 days, please reach out to our customer service team at help@calpaks.com, and we\u0027re happy to help you add your birthday to our system!",
+      "content": "Please note birthdays must be shared 30 days prior to the date. If your birthday falls within the next 30 days, please reach out to our customer service team at help@calpaks.com, and we're happy to help you add your birthday to our system!",
       "id": "799509e7-49a1-4277-a815-bcb4a77fdf20",
       "companyName": "CALPAK"
     },
@@ -491,14 +491,14 @@
     },
     {
       "name": "Cancel / edit order",
-      "content": "We don\u0027t handle post-purchase requests via text and the fastest way to get help with your order is to email us at help@calpaks.com. Please let me know if you have any questions about our products, I\u0027m more than happy to help out!",
+      "content": "We don't handle post-purchase requests via text and the fastest way to get help with your order is to email us at help@calpaks.com. Please let me know if you have any questions about our products, I'm more than happy to help out!",
       "id": "96bb872b-7dec-44b0-b459-4f8d0de0719e",
       "shortcut": "ced",
       "companyName": "CALPAK"
     },
     {
       "name": "Can I add my discount/reward points retroactively?",
-      "content": "I\u0027m afraid that we\u0027re not able to apply any promo codes or rewards points to orders that have already been placed. Apologies for the inconvenience!",
+      "content": "I'm afraid that we're not able to apply any promo codes or rewards points to orders that have already been placed. Apologies for the inconvenience!",
       "id": "071d8903-b8a4-48de-af51-7d22635657e4",
       "shortcut": "rdr",
       "companyName": "CALPAK"
@@ -523,7 +523,7 @@
     },
     {
       "name": "Post Purchase Inquiries",
-      "content": "We don\u0027t handle post-purchase requests via text and the fastest way to get help with your order is to email us at help@calpaks.com or to send us a chat on our site. Please let me know if you have any questions about our products, I\u0027m more than happy to help out!",
+      "content": "We don't handle post-purchase requests via text and the fastest way to get help with your order is to email us at help@calpaks.com or to send us a chat on our site. Please let me know if you have any questions about our products, I'm more than happy to help out!",
       "id": "838b4d15-07ec-4c5a-a112-1223b66b494c",
       "shortcut": "ppi",
       "companyName": "CALPAK"
@@ -548,14 +548,14 @@
       "companyName": "CALPAK"
     },
     {
-      "name": "Personalization: Terms \u0026 Conditions",
-      "content": "Please note you will be asked to review the following personalization Terms \u0026 Conditions before you place your order: \n1.  Final Sale: Personalized items cannot be canceled, returned, or exchanged once an order is placed. \n2.  Digital Preview vs. Final Product: Slight variations may occur due to screen differences, thread texture, and fabric details. \n3.  Text Restrictions: Offensive or inappropriate text is prohibited. Orders violating this policy may be canceled. \n4.  Warranty: Warranties apply only to the product itself. \n5.  Past Purchases: Customers will not be able to send back previously purchased CALPAK items to be personalized.  \n6.  Production Time: Add up to 5 extra business days to standard processing for personalized items.",
+      "name": "Personalization: Terms & Conditions",
+      "content": "Please note you will be asked to review the following personalization Terms & Conditions before you place your order: \n1.  Final Sale: Personalized items cannot be canceled, returned, or exchanged once an order is placed. \n2.  Digital Preview vs. Final Product: Slight variations may occur due to screen differences, thread texture, and fabric details. \n3.  Text Restrictions: Offensive or inappropriate text is prohibited. Orders violating this policy may be canceled. \n4.  Warranty: Warranties apply only to the product itself. \n5.  Past Purchases: Customers will not be able to send back previously purchased CALPAK items to be personalized.  \n6.  Production Time: Add up to 5 extra business days to standard processing for personalized items.",
       "id": "60629b41-affa-4ca9-85ec-c9d78a99b49e",
       "companyName": "CALPAK"
     },
     {
       "name": "Rewards Program / What’s a VIT?",
-      "content": "We have a VIT club where you can get first access to sales, a special birthday gift, exclusive events, and more. Plus you also get $5 just for signing up 😉 Here\u0027s where you can start your VIT journey: https://calpak.attn.tv/sl/UNlPK-CH",
+      "content": "We have a VIT club where you can get first access to sales, a special birthday gift, exclusive events, and more. Plus you also get $5 just for signing up 😉 Here's where you can start your VIT journey: https://calpak.attn.tv/sl/UNlPK-CH",
       "id": "658c2216-9843-4ee3-b212-519b616d781a",
       "shortcut": "rwd",
       "companyName": "CALPAK"

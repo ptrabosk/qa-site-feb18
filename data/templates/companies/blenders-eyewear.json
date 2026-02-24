@@ -63,7 +63,7 @@
     },
     {
       "name": "Cancel / edit order",
-      "content": "I\u0027m afraid we are not able to edit orders once placed but we do have a 30-minute cancellation window. Please contact us directly at mermaids@blenderseyewear.com and include your order number as well.",
+      "content": "I'm afraid we are not able to edit orders once placed but we do have a 30-minute cancellation window. Please contact us directly at mermaids@blenderseyewear.com and include your order number as well.",
       "id": "d12c5efb-9797-4993-87c3-5f93c220f7d8",
       "shortcut": "ced",
       "companyName": "Blenders Eyewear"
@@ -77,7 +77,7 @@
     },
     {
       "name": "What is the processing time for your prescription glasses?",
-      "content": "The processing time for our Clear Reading Glasses is 7-10 business days and for our\nTinted Sunglasses, it\u0027s 15-20 business days.",
+      "content": "The processing time for our Clear Reading Glasses is 7-10 business days and for our\nTinted Sunglasses, it's 15-20 business days.",
       "id": "b0302df0-252f-4874-87cc-c8060d75771a",
       "companyName": "Blenders Eyewear"
     },
@@ -88,20 +88,20 @@
       "companyName": "Blenders Eyewear"
     },
     {
-      "name": "I\u0027m unable to see my reward points in my account",
-      "content": "You may be experiencing a tech issue, if so, this troubleshooting should work:\n\nFirst, make sure you\u0027re not signed into any shopping apps for faster checkout, such as Shop Pay, Apple Pay, Amazon Pay, etc. If you are, please sign out or opt to \"checkout as guest.\"\n\nSecondly, make sure you are signed in to your Blenders Account. You can login at checkout by the contact information section. Once you are logged in, you will see your rewards and can apply any points you have available.\n\nPlease keep in my mind you must be on the \u0027information\u0027 page at checkout to apply rewards.",
+      "name": "I'm unable to see my reward points in my account",
+      "content": "You may be experiencing a tech issue, if so, this troubleshooting should work:\n\nFirst, make sure you're not signed into any shopping apps for faster checkout, such as Shop Pay, Apple Pay, Amazon Pay, etc. If you are, please sign out or opt to \"checkout as guest.\"\n\nSecondly, make sure you are signed in to your Blenders Account. You can login at checkout by the contact information section. Once you are logged in, you will see your rewards and can apply any points you have available.\n\nPlease keep in my mind you must be on the 'information' page at checkout to apply rewards.",
       "id": "52029fbb-ac87-4bb5-8056-109761593442",
       "companyName": "Blenders Eyewear"
     },
     {
-      "name": "What\u0027s the difference between Polarized, Non-Polarized and PureBlend Lenses?",
-      "content": "Good question! Polarized lenses have an additional anti-reflective coating of film to filter bright, reflected light as well as ambient light, reducing glare during driving, water sports, and other outdoor activites. \n\nNon-polarized lenses do not reduce glare as well as polarized lenses, but are equally efficient at protecting against UV rays and offer enhanced clarity when viewing LCD screens on digital devices.\n\nOur new PureBlend lens is lightweight and offers superior clarity, and durability. It is available in polarized and non-polarized options.\n\nI\u0027m just here if you have other questions.",
+      "name": "What's the difference between Polarized, Non-Polarized and PureBlend Lenses?",
+      "content": "Good question! Polarized lenses have an additional anti-reflective coating of film to filter bright, reflected light as well as ambient light, reducing glare during driving, water sports, and other outdoor activites. \n\nNon-polarized lenses do not reduce glare as well as polarized lenses, but are equally efficient at protecting against UV rays and offer enhanced clarity when viewing LCD screens on digital devices.\n\nOur new PureBlend lens is lightweight and offers superior clarity, and durability. It is available in polarized and non-polarized options.\n\nI'm just here if you have other questions.",
       "id": "b1564210-48a0-414f-b965-e25a130ac234",
       "companyName": "Blenders Eyewear"
     },
     {
       "name": "How do I get the glasses prescribed?",
-      "content": "We have created an RX Validator just for you! Please enter your prescription information and we\u0027ll let you know which pairs and lens types you will be able to choose from- https://blenderseyewear.attn.tv/sl/_dGP83sw\n\n Let me know if you have any questions, I\u0027ll be here!",
+      "content": "We have created an RX Validator just for you! Please enter your prescription information and we'll let you know which pairs and lens types you will be able to choose from- https://blenderseyewear.attn.tv/sl/_dGP83sw\n\n Let me know if you have any questions, I'll be here!",
       "id": "ca548d22-2942-4c14-9189-243301e75c44",
       "companyName": "Blenders Eyewear"
     },
@@ -114,7 +114,7 @@
     },
     {
       "name": "Can I pick up my shades that I ordered online in-store?",
-      "content": "Unfortunately, that\u0027s not an option we offer at the moment. We fulfill online orders from our fulfillment centers to allow for the fastest processing times. If you would like to make a purchase in-store, please use our Store Locator to find a store close to you: https://www.blenderseyewear.com/pages/blenders-eyewear-store-locator",
+      "content": "Unfortunately, that's not an option we offer at the moment. We fulfill online orders from our fulfillment centers to allow for the fastest processing times. If you would like to make a purchase in-store, please use our Store Locator to find a store close to you: https://www.blenderseyewear.com/pages/blenders-eyewear-store-locator",
       "id": "231d6ca3-4a5a-414e-ac06-c23cb427d065",
       "companyName": "Blenders Eyewear"
     },
@@ -132,7 +132,7 @@
     },
     {
       "name": "Military / First responder / Healthcare / Teacher discount",
-      "content": "Thank you for your service! We don\u0027t have any specific discounts like that but if it helps, you can check out the items we have on sale here: https://www.blenderseyewear.com/collections/sale",
+      "content": "Thank you for your service! We don't have any specific discounts like that but if it helps, you can check out the items we have on sale here: https://www.blenderseyewear.com/collections/sale",
       "id": "e2509666-fdb9-4fad-9b33-f64902a8a57b",
       "shortcut": "ms",
       "companyName": "Blenders Eyewear"
@@ -146,7 +146,7 @@
     },
     {
       "name": "Sizing",
-      "content": "Happy to help! I\u0027d recommend checking out our fit guides for each collection offering and suggestions based on your face shape/frame size here: https://www.blenderseyewear.com/pages/fit-guide",
+      "content": "Happy to help! I'd recommend checking out our fit guides for each collection offering and suggestions based on your face shape/frame size here: https://www.blenderseyewear.com/pages/fit-guide",
       "id": "19db0846-dc68-4be9-b2fa-394745532da1",
       "shortcut": "sz",
       "companyName": "Blenders Eyewear"
@@ -159,8 +159,8 @@
       "companyName": "Blenders Eyewear"
     },
     {
-      "name": "Where\u0027s the first Millenia?",
-      "content": "I\u0027m afraid the Millenia is a discontinued style. I would highly recommend checking out Millenia X2 here: https://www.blenderseyewear.com/collections/millenia-x2",
+      "name": "Where's the first Millenia?",
+      "content": "I'm afraid the Millenia is a discontinued style. I would highly recommend checking out Millenia X2 here: https://www.blenderseyewear.com/collections/millenia-x2",
       "id": "30261360-5f04-4a64-bd5e-34af83a60df3",
       "companyName": "Blenders Eyewear"
     },
@@ -173,7 +173,7 @@
     },
     {
       "name": "Conversation closer",
-      "content": "You\u0027re welcome! If there\u0027s anything else I can help you with, feel free to shoot me a text. In the meantime check out our best sellers here: https://www.blenderseyewear.com/collections/best-sellers\n\nHave a great day!",
+      "content": "You're welcome! If there's anything else I can help you with, feel free to shoot me a text. In the meantime check out our best sellers here: https://www.blenderseyewear.com/collections/best-sellers\n\nHave a great day!",
       "id": "d870446f-4e79-40a7-a24f-ae0513547cdf",
       "shortcut": "cc",
       "companyName": "Blenders Eyewear"
@@ -199,7 +199,7 @@
     },
     {
       "name": "How do I redeem my points?",
-      "content": "Redeeming your points is easy! Just log in to your account, head to the rewards dashboard, and choose how you want to use your points. When you\u0027re ready to check out, select your reward, and your discount will be applied automatically.",
+      "content": "Redeeming your points is easy! Just log in to your account, head to the rewards dashboard, and choose how you want to use your points. When you're ready to check out, select your reward, and your discount will be applied automatically.",
       "id": "9c2f1015-db74-4dd9-967a-c1a8229017ae",
       "companyName": "Blenders Eyewear"
     }

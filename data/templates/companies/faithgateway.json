@@ -10,13 +10,13 @@
     },
     {
       "name": "How do I apply my reward points to an order?",
-      "content": "When you\u0027re placing an order, you\u0027ll be able to apply your rewards points directly during checkout under the order summary section! Just make sure you\u0027re logged in first to see and use your points at checkout. When redeeming points, minimum purchases do apply.\n\n- When redeeming 75 points ($5), you must spend at least $10 before applying your points.\n- When redeeming 150 points ($10), you must spend at least $15 before applying your points.\n- When redeeming 300 points ($20), you must spend at least $25 before applying your points.\n\nLet me know how that goes!",
+      "content": "When you're placing an order, you'll be able to apply your rewards points directly during checkout under the order summary section! Just make sure you're logged in first to see and use your points at checkout. When redeeming points, minimum purchases do apply.\n\n- When redeeming 75 points ($5), you must spend at least $10 before applying your points.\n- When redeeming 150 points ($10), you must spend at least $15 before applying your points.\n- When redeeming 300 points ($20), you must spend at least $25 before applying your points.\n\nLet me know how that goes!",
       "id": "d0c2ab02-dc79-4cc0-ac5e-785e0d806522",
       "companyName": "FaithGateway"
     },
     {
       "name": "Can you engrave this?",
-      "content": "Unfortunately, we don\u0027t offer any engraving or imprinting services at this time.",
+      "content": "Unfortunately, we don't offer any engraving or imprinting services at this time.",
       "id": "5715b930-8c1d-4ef2-8546-7c989c74564f",
       "companyName": "FaithGateway"
     },
@@ -59,7 +59,7 @@
     },
     {
       "name": "Where can I read my e-book?",
-      "content": "Once you\u0027ve redeemed your e-book, you can read it on your computer, smartphone, tablet, or smartphone, through Glose. Read your e-book on all iOS devices (iPhone, iPad) and all Android devices. Alternatively, you can read on a Kindle Fire through Glose.com on your web browser. Unfortunately, you cannot read your e-book on an e-ink reader like Kindle or Nook.",
+      "content": "Once you've redeemed your e-book, you can read it on your computer, smartphone, tablet, or smartphone, through Glose. Read your e-book on all iOS devices (iPhone, iPad) and all Android devices. Alternatively, you can read on a Kindle Fire through Glose.com on your web browser. Unfortunately, you cannot read your e-book on an e-ink reader like Kindle or Nook.",
       "id": "52f52d4c-8964-4689-be6e-2bd7aebcdc9f",
       "companyName": "FaithGateway"
     },
@@ -97,7 +97,7 @@
     },
     {
       "name": "Can I read my e-books offline?",
-      "content": "Of course! Now that your e-book is available to read on the Glose reading service, you can totally read it anytime, anywhere, through your Glose account. And you don\u0027t even have to download them! The only time you need to be online is when you first download an e-book you want to read.",
+      "content": "Of course! Now that your e-book is available to read on the Glose reading service, you can totally read it anytime, anywhere, through your Glose account. And you don't even have to download them! The only time you need to be online is when you first download an e-book you want to read.",
       "id": "b3e9fe9a-df43-411d-b6d9-e4dcf8a33350",
       "companyName": "FaithGateway"
     },
@@ -158,14 +158,14 @@
     },
     {
       "name": "Bible Warranty and Replacement",
-      "content": "Our manufacturer\u0027s warranty provides coverage for defective bindings on hardcover, softcover, and Leather-LookTM and Italian Duo-Tone Bibles for four years and on bonded and top-grain leather Bibles for six years. This warranty doesn\u0027t apply to normal wear and tear. A lifetime warranty applies to defects within Bibles and books like missing pages, chapters, or books, collating errors and pages bound upside down. If your Bible meets these criteria, we\u0027ll replace it for you. You can find further instructions on how to request a replacement here: https://www.harpercollinschristian.com/p/2020/06/30/bible-warranty-and-replacement/",
+      "content": "Our manufacturer's warranty provides coverage for defective bindings on hardcover, softcover, and Leather-LookTM and Italian Duo-Tone Bibles for four years and on bonded and top-grain leather Bibles for six years. This warranty doesn't apply to normal wear and tear. A lifetime warranty applies to defects within Bibles and books like missing pages, chapters, or books, collating errors and pages bound upside down. If your Bible meets these criteria, we'll replace it for you. You can find further instructions on how to request a replacement here: https://www.harpercollinschristian.com/p/2020/06/30/bible-warranty-and-replacement/",
       "id": "dc583572-1a14-477c-878e-f1a2fb8c84f7",
       "shortcut": "wp",
       "companyName": "FaithGateway"
     },
     {
       "name": "Military / First responder / Healthcare / Teacher discount",
-      "content": "Thank you for your service! We don\u0027t have any specific discounts like that, but our deals will always be shared with our SMS subscribers or on our website, so keep an eye out!",
+      "content": "Thank you for your service! We don't have any specific discounts like that, but our deals will always be shared with our SMS subscribers or on our website, so keep an eye out!",
       "id": "0a4792cb-c231-4657-936f-11ed3e6481b4",
       "shortcut": "ms",
       "companyName": "FaithGateway"
@@ -191,13 +191,13 @@
     },
     {
       "name": "Order Status/Lookup/Tracking",
-      "content": "For help tracking your order, please make sure you sign in to your account, register or sign in here: https://harpercollins.auth0.com/login?state=hKFo2SBJeXBVLV8yMzc1VE40R1djMThRUmFzSldybVowWmR5LaFupWxvZ2luo3RpZNkgaUVCdGNVSG9LNzNJeHB4bThPN3BnTVpocTBZdkJOa02jY2lk2SBHbnhNYVhoV3pRUUFyQTVSeUdXd1FBUmJvV3VseGJLcg\u0026client=GnxMaXhWzQQArA5RyGWwQARboWulxbKr\u0026protocol=oauth2\u0026response_type=code\u0026returnTo=https%3A%2F%2Ffaithgateway.com%2F You will be able to access order tracking from your profile page!",
+      "content": "For help tracking your order, please make sure you sign in to your account, register or sign in here: https://harpercollins.auth0.com/login?state=hKFo2SBJeXBVLV8yMzc1VE40R1djMThRUmFzSldybVowWmR5LaFupWxvZ2luo3RpZNkgaUVCdGNVSG9LNzNJeHB4bThPN3BnTVpocTBZdkJOa02jY2lk2SBHbnhNYVhoV3pRUUFyQTVSeUdXd1FBUmJvV3VseGJLcg&client=GnxMaXhWzQQArA5RyGWwQARboWulxbKr&protocol=oauth2&response_type=code&returnTo=https%3A%2F%2Ffaithgateway.com%2F You will be able to access order tracking from your profile page!",
       "id": "4e8c5825-2246-48ed-9d54-8e9817e2fae3",
       "companyName": "FaithGateway"
     },
     {
       "name": "Post Purchase Inquiries",
-      "content": "We don\u0027t handle post-purchase requests via text. Please email your request to customercare@harpercollins.com or feel free to call this number (800) 834-7828, Monday-Friday, 7am to 5pm CST. Please let me know if you have any questions about our products, I\u0027m more than happy to help you here!",
+      "content": "We don't handle post-purchase requests via text. Please email your request to customercare@harpercollins.com or feel free to call this number (800) 834-7828, Monday-Friday, 7am to 5pm CST. Please let me know if you have any questions about our products, I'm more than happy to help you here!",
       "id": "86bba5ac-f48c-4645-8a1c-7d23e2d95655",
       "shortcut": "ppi",
       "companyName": "FaithGateway"
@@ -222,13 +222,13 @@
     },
     {
       "name": "How to start a return?",
-      "content": "To start a return, write down the reason for sending the item back and include the packing slip. If you don\u0027t have the slip, provide your order number along with your name, address, and phone number on a separate sheet. Then, wrap the package securely and mail it to HarperCollins Christian Publishing Return Center, 2205 East Lincoln Way, La Porte, IN 46350.",
+      "content": "To start a return, write down the reason for sending the item back and include the packing slip. If you don't have the slip, provide your order number along with your name, address, and phone number on a separate sheet. Then, wrap the package securely and mail it to HarperCollins Christian Publishing Return Center, 2205 East Lincoln Way, La Porte, IN 46350.",
       "id": "e57bb2ee-1231-4a73-a830-7e1b1e5153eb",
       "companyName": "FaithGateway"
     },
     {
       "name": "Can you retroactively apply a code to my order?",
-      "content": "Unfortunately, we can\u0027t apply a promo code after the order has been placed. Apologies for the inconvenience!",
+      "content": "Unfortunately, we can't apply a promo code after the order has been placed. Apologies for the inconvenience!",
       "id": "0aaa47c2-604d-4802-8c58-fa116aea0ade",
       "shortcut": "rdr",
       "companyName": "FaithGateway"

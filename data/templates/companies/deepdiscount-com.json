@@ -1,0 +1,113 @@
+{
+  "companyKey": "deepdiscount.com",
+  "templates": [
+    {
+      "name": "Sales Collection",
+      "content": "You can take a look at our sale collection here: https://www.deepdiscount.com/deals",
+      "id": "5df77272-a1c8-4f3e-945d-1a3166838586",
+      "shortcut": "spg",
+      "companyName": "DeepDiscount.com"
+    },
+    {
+      "name": "Order status / tracking",
+      "content": "You can use our convenient online tool to see the latest updates on your order:  https://www.deepdiscount.com/account/login?ReturnUrl=%2Faccount%2Fmanage",
+      "id": "0893d05f-29b7-437b-a3ff-9f6f3855ccf5",
+      "companyName": "DeepDiscount.com"
+    },
+    {
+      "name": "Pre-order policy",
+      "content": "In many instances, you may pre-order items on DeepDiscount.com. Such items will list a release/available date. If you pre-order an item, your credit card will be charged at the time the product is shipped. If you pay using PayPal, payment will be taken at time of check out. We will ship the item(s) to you to arrive as close as possible to the release/available date. Availability dates are supplied by the manufacturer or distributor of the product and are subject to change without notice.\n\nIf you do not wish to wait for a delay, you may request a cancellation for your order, provided that the item has not entered the shipping process in our warehouse. If we do not hear from you before we ship the item, we will assume you have agreed to the shipment delay.",
+      "id": "92a99d64-3bc8-4964-ace5-c8c12c93804f",
+      "companyName": "DeepDiscount.com"
+    },
+    {
+      "name": "Cancel / edit order",
+      "content": "I can check if that's possible. What's the order number, email address and the change you'd like to make?",
+      "id": "441d9fdf-d6b0-4777-aad3-1e94f60430bf",
+      "shortcut": "ced",
+      "companyName": "DeepDiscount.com"
+    },
+    {
+      "name": "Phone support",
+      "content": "You can give us a call at 800-264-5076 or let me know if I can help via text, it may be faster.",
+      "id": "91866b01-6783-490b-a559-9c0daf9ac4a0",
+      "shortcut": "ps",
+      "companyName": "DeepDiscount.com"
+    },
+    {
+      "name": "Social media",
+      "content": "Give us a follow on IG: https://www.instagram.com/deepdiscount/ and FB here: https://www.facebook.com/DeepDiscount/",
+      "id": "5076914b-aa9e-4fe6-9bf5-368104f0827a",
+      "shortcut": "smd",
+      "companyName": "DeepDiscount.com"
+    },
+    {
+      "name": "Store location / retailer",
+      "content": "We don't currently have a store but definitely keep an eye out.",
+      "id": "301c6a78-edfd-4d13-a1ed-b0ad73e1d9b0",
+      "shortcut": "sl",
+      "companyName": "DeepDiscount.com"
+    },
+    {
+      "name": "Customer support",
+      "content": "The best way to handle this is to email us directly at  cs@deepdiscount.com. Our team is happy to help!",
+      "id": "fabc93e8-72fb-4878-89b7-3e74b521529b",
+      "shortcut": "cs",
+      "companyName": "DeepDiscount.com"
+    },
+    {
+      "name": "Do you offer price matching?",
+      "content": "If you have found an item we currently offer at a competitor's site, with the same UPC code, at a Total Price, simply e-mail the URL linking the production formation to cs@deepdiscount.com with PRICE MATCH in the subject line. This must be done prior to placing the order with us. Price Match requests will include competitor shipping and handling, as well as state sales tax, if applicable. Hope this helps! You can check out more info here: https://deepdiscount.attn.tv/sl/4GL7HJFd",
+      "id": "7f716ccb-2bc2-4e9b-87ba-9379222a9e5e",
+      "companyName": "DeepDiscount.com"
+    },
+    {
+      "name": "Military / First responder / Healthcare / Teacher discount",
+      "content": "Thank you for your service! We don't have any specific discounts like that, but our deals will always be shared with our SMS subscribers or on our website, so keep an eye out!",
+      "id": "dade5487-829c-47eb-bd1e-7bfa734afe52",
+      "shortcut": "ms",
+      "companyName": "DeepDiscount.com"
+    },
+    {
+      "name": "Return policy",
+      "content": "You can check out our detailed return policy here: https://www.deepdiscount.com/return-policy",
+      "id": "71adda20-3909-473a-b2d6-ed2daf23bcec",
+      "shortcut": "rp",
+      "companyName": "DeepDiscount.com"
+    },
+    {
+      "name": "Shipping time",
+      "content": "We usually ship via USPS, UPS or DHL, and once shipped, it will take 3-10 business days for domestic orders and 8-15 business days for international orders.",
+      "id": "2955040e-4f90-4802-a734-dfca84c02baf",
+      "shortcut": "shp",
+      "companyName": "DeepDiscount.com"
+    },
+    {
+      "name": "Wholesale inquiries",
+      "content": "Thank you for your interest! The best way to discuss wholesale is to contact us via this link: https://deepdiscount.attn.tv/sl/SFEYppOK Our team is happy to chat.",
+      "id": "22b50528-8fb6-4324-a531-8cf5337aa27d",
+      "shortcut": "wls",
+      "companyName": "DeepDiscount.com"
+    },
+    {
+      "name": "Free shipping",
+      "content": "We offer free shipping on domestic orders over $25. Maybe you can add something else to reach the minimum?",
+      "id": "e53dc03b-cf62-4452-9c4c-951bfba25059",
+      "shortcut": "fs",
+      "companyName": "DeepDiscount.com"
+    },
+    {
+      "name": "Brand ambassador / sponsorship / affiliate program",
+      "content": "Thank you for your interest! The best way to discuss this is to email us directly at cs@deepdiscount.com. Our team is happy to chat.",
+      "id": "ef8834f8-873e-41a3-b124-24c03b320472",
+      "shortcut": "ams",
+      "companyName": "DeepDiscount.com"
+    },
+    {
+      "name": "Where do you ship from?",
+      "content": "We ship from Kentucky.",
+      "id": "f5956dda-8f76-4e30-8997-af017725049a",
+      "companyName": "DeepDiscount.com"
+    }
+  ]
+}

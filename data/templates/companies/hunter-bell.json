@@ -1,0 +1,125 @@
+{
+  "companyKey": "hunter bell",
+  "templates": [
+    {
+      "name": "Can I return or exchange sale items?",
+      "content": "Items purchased at a discount are eligible for returns or exchanges, except for items noted as \"Final Sale\". Final Sale items are any items 50% off or more and will be noted on their product page. Hope this helps! Let me know if you have further questions.",
+      "id": "fe66089e-2f81-4c1d-b91b-8a4eea52db6d",
+      "companyName": "Hunter Bell"
+    },
+    {
+      "name": "Shipping time",
+      "content": "Our processing time takes 2-5 business days, excluding transit time. All shipping transit times are based on the order's address.",
+      "id": "06490dcb-593a-4574-a5f2-cd55d7de2e2a",
+      "shortcut": "shp",
+      "companyName": "Hunter Bell"
+    },
+    {
+      "name": "Customer support",
+      "content": "The best way to handle this is to email us directly at studio@hunterbellnyc.com. Our team is happy to help!",
+      "id": "0eec2df3-a0f4-4350-9801-203762c7e807",
+      "shortcut": "cs",
+      "companyName": "Hunter Bell"
+    },
+    {
+      "name": "Free shipping",
+      "content": "We offer free shipping on domestic orders over $500. Maybe you can add something else to reach the minimum?",
+      "id": "f0bfa4aa-622c-46f6-809f-1a981afcf91b",
+      "shortcut": "fs",
+      "companyName": "Hunter Bell"
+    },
+    {
+      "name": "How do I care for my clothing?",
+      "content": "Every item has its own care instructions on its description, but most of our items are dry clean only.",
+      "id": "90c08c86-bd38-4d6a-b4fb-9e6e147ba303",
+      "companyName": "Hunter Bell"
+    },
+    {
+      "name": "Social Media",
+      "content": "Give us a follow on IG: https://www.instagram.com/hunterbellnyc/ and FB here: https://www.facebook.com/HunterBellNYC/",
+      "id": "e11a7eff-c2b9-494f-80ab-ced7a80718b1",
+      "shortcut": "smd",
+      "companyName": "Hunter Bell"
+    },
+    {
+      "name": "Wholesale inquiries",
+      "content": "The best way to discuss wholesale is to email us directly at studio@hunterbellnyc.com and we will connect you to our wholesale team.",
+      "id": "76d29d86-8ca7-4ad5-9aa3-a847609844c0",
+      "shortcut": "wls",
+      "companyName": "Hunter Bell"
+    },
+    {
+      "name": "Cancel / edit order",
+      "content": "I can check if that's possible. What's the order number, email address, and the change you'd like to make?",
+      "id": "3aa1e4f8-e9ca-4cd4-8b47-28f53c456366",
+      "shortcut": "ced",
+      "companyName": "Hunter Bell"
+    },
+    {
+      "name": "Store location / retailer",
+      "content": "We don't currently have a store but definitely keep an eye out.",
+      "id": "5c964b9c-2fda-48c0-86d5-5e1ac760a94a",
+      "shortcut": "sl",
+      "companyName": "Hunter Bell"
+    },
+    {
+      "name": "Military / First responder / Healthcare / Teacher discount",
+      "content": "Thank you for your service! We don't have any specific discounts like that, but our deals will always be shared with our SMS subscribers or on our website, so keep an eye out!",
+      "id": "6aa898a4-2375-45cb-8aef-a74aa3aa948d",
+      "shortcut": "ms",
+      "companyName": "Hunter Bell"
+    },
+    {
+      "name": "What forms of payment can I use?",
+      "content": "We currently accept most major credit and debit cards, international credit/debit cards, Afterpay interest-free payments, domestic Paypal accounts, Amazon Pay, and Apple Pay.",
+      "id": "9dcd22b8-9c03-4014-aee6-e78656a36347",
+      "companyName": "Hunter Bell"
+    },
+    {
+      "name": "What fabrics do you use?",
+      "content": "Fabrics vary by item. You may refer to the individual item page for details.",
+      "id": "0651ad93-867a-4ce1-9a21-1ffd7bd475ce",
+      "companyName": "Hunter Bell"
+    },
+    {
+      "name": "Brand ambassador / sponsorship",
+      "content": "The best way to discuss this is to email us directly at studio@hunterbellnyc.com. Our team is happy to chat.",
+      "id": "613b17c6-d8a8-44c6-810a-cae02eac15f7",
+      "shortcut": "ams",
+      "companyName": "Hunter Bell"
+    },
+    {
+      "name": "Phone support",
+      "content": "We don't offer phone support right now, but you can email us directly at studio@hunterbellnyc.com. I'd be happy to help you over text as well, let me know what I can do for you!",
+      "id": "7706bd23-0d3c-4101-ae22-086fbed2ec6c",
+      "shortcut": "ps",
+      "companyName": "Hunter Bell"
+    },
+    {
+      "name": "Sizing",
+      "content": "You can find our size guide on every product page, or you can also check it out here: https://hunterbellnyc.com/pages/size-chart",
+      "id": "af418384-37e7-431e-bf23-60bcd6fa4c7d",
+      "shortcut": "sz",
+      "companyName": "Hunter Bell"
+    },
+    {
+      "name": "Return policy",
+      "content": "You can check out our detailed return policy here: https://hunterbellnyc.com/pages/returns or go directly to our return portal here: https://hunterbellnyc.com/apps/redo/returns-portal#/login",
+      "id": "cf351f4c-76f1-4f21-8308-d9c02acdcc22",
+      "shortcut": "rp",
+      "companyName": "Hunter Bell"
+    },
+    {
+      "name": "Retroactive discount/price adjustment requests",
+      "content": "The best way to handle this is to email us directly at studio@hunterbellnyc.com. Our team is happy to help with your request.",
+      "id": "940da7cb-4165-44fa-8883-52ded4a25a6f",
+      "companyName": "Hunter Bell"
+    },
+    {
+      "name": "Size Chart: Women - Clothes",
+      "content": "You can take a look at our women's size chart here: https://hunterbellnyc.com/pages/size-chart",
+      "id": "22a90789-1e15-4ba2-af57-0b68f447a959",
+      "companyName": "Hunter Bell"
+    }
+  ]
+}

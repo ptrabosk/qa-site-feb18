@@ -15,7 +15,7 @@
     },
     {
       "name": "Can I use more than one/multiple codes",
-      "content": "I\u0027m afraid only one promotional coupon code, voucher, or free gift can be used per purchase. Sorry about that!",
+      "content": "I'm afraid only one promotional coupon code, voucher, or free gift can be used per purchase. Sorry about that!",
       "id": "cbbb68cf-7137-4e1a-bf41-20f785998b06",
       "companyName": "Dorado Fashion"
     },
@@ -71,7 +71,7 @@
     },
     {
       "name": "Phone support",
-      "content": "We don\u0027t offer phone support right now but I\u0027d be happy to help you over text, let me know what I can do for you.",
+      "content": "We don't offer phone support right now but I'd be happy to help you over text, let me know what I can do for you.",
       "id": "cbdc58c4-9d9b-4ceb-a3e3-d587017782fe",
       "shortcut": "ps",
       "companyName": "Dorado Fashion"
@@ -85,20 +85,20 @@
     },
     {
       "name": "Store location",
-      "content": "We don\u0027t currently have a store but definitely keep an eye out.",
+      "content": "We don't currently have a store but definitely keep an eye out.",
       "id": "4baa8a32-09b3-4bd7-99cc-d41731846369",
       "shortcut": "sl",
       "companyName": "Dorado Fashion"
     },
     {
       "name": "Can I use emojis in the custom text?",
-      "content": "The only emoji you can use is the heart emoji ❤️. All other emojis won\u0027t be designed on your items.",
+      "content": "The only emoji you can use is the heart emoji ❤️. All other emojis won't be designed on your items.",
       "id": "4a255dc6-9df3-41ee-9c2c-c09d33523c1f",
       "companyName": "Dorado Fashion"
     },
     {
       "name": "Return policy",
-      "content": "Due to the custom nature of personalized items, we cannot offer returns or exchanges for personalized items. Your personalized jewelry is designed just for you! However, if there is an issue or defect with your order, we will replace it at no additional cost. \n\nIn the case of non-personalized items, if you\u0027re not satisfied, you can exchange or return within 30 days of your purchase. Unfortunately, we can\u0027t offer you a return or exchange if 30 days have passed.\n\n You can check out our return policy in detail here: https://www.doradofashion.com/policies/refund-policy",
+      "content": "Due to the custom nature of personalized items, we cannot offer returns or exchanges for personalized items. Your personalized jewelry is designed just for you! However, if there is an issue or defect with your order, we will replace it at no additional cost. \n\nIn the case of non-personalized items, if you're not satisfied, you can exchange or return within 30 days of your purchase. Unfortunately, we can't offer you a return or exchange if 30 days have passed.\n\n You can check out our return policy in detail here: https://www.doradofashion.com/policies/refund-policy",
       "id": "6d61ce59-64f5-4384-acea-7f9fefcf0d10",
       "shortcut": "rp",
       "companyName": "Dorado Fashion"
@@ -126,7 +126,7 @@
     },
     {
       "name": "Military / First responder / Healthcare / Teacher discount",
-      "content": "Thank you for your service! We don\u0027t have any specific discounts like that, but our deals will always be shared with our SMS subscribers or on our website, so keep an eye out!",
+      "content": "Thank you for your service! We don't have any specific discounts like that, but our deals will always be shared with our SMS subscribers or on our website, so keep an eye out!",
       "id": "e2486f32-97e8-484b-93a2-5c77587e8c94",
       "shortcut": "ms",
       "companyName": "Dorado Fashion"
@@ -139,7 +139,7 @@
     },
     {
       "name": "How do I use my gift card/store credit?",
-      "content": "E-gift cards and store credit function like a digital wallet and can be used exclusively for online purchases. \n\nTo redeem your e-gift card or store credit, simply enter the provided code in the Discount/Gift Card box at checkout. You\u0027re welcome to use multiple gift cards for a single purchase!",
+      "content": "E-gift cards and store credit function like a digital wallet and can be used exclusively for online purchases. \n\nTo redeem your e-gift card or store credit, simply enter the provided code in the Discount/Gift Card box at checkout. You're welcome to use multiple gift cards for a single purchase!",
       "id": "992bd6b6-715c-4981-aad5-2b78a11b1497",
       "companyName": "Dorado Fashion"
     },

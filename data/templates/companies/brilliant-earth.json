@@ -3,19 +3,19 @@
   "templates": [
     {
       "name": "I want to customize one of your alternative metal rings. Is that possible?",
-      "content": "I\u0027m afraid we can\u0027t customize alternative metal rings at the moment. I apologize for the inconvenience!",
+      "content": "I'm afraid we can't customize alternative metal rings at the moment. I apologize for the inconvenience!",
       "id": "29f3243c-49bc-440a-a2ad-7e174d1c7a2b",
       "companyName": "Brilliant Earth"
     },
     {
       "name": "Can you use third party gem stone to create the ring i want?",
-      "content": "I\u0027m afraid we don\u0027t work with third-party or heirloom gemstones of any kind.",
+      "content": "I'm afraid we don't work with third-party or heirloom gemstones of any kind.",
       "id": "86c95f11-f2e6-4518-b6a0-a525d1cb440c",
       "companyName": "Brilliant Earth"
     },
     {
       "name": "I have a diamond and I want to make it into a ring. Do you offer that option?",
-      "content": "I\u0027m afraid we don\u0027t work with outside diamonds. I apologize for the inconvenience!",
+      "content": "I'm afraid we don't work with outside diamonds. I apologize for the inconvenience!",
       "id": "ab898521-339c-4b6f-80d7-384fabbafd13",
       "companyName": "Brilliant Earth"
     },
@@ -121,7 +121,7 @@
     },
     {
       "name": "What is an Extend Protection Plan?",
-      "content": "The Extend Protection Plan is a great way for you to protect yourself from damage to your most valued items, and provide you with coverage beyond our manufacturer\u0027s warranty. There are different lengths of plans from 2-years to Lifetime that vary based on the qualifying Brilliant Earth item you purchase. \n \nExtend Protection Plan options appear in your online shopping cart with any qualifying Brilliant Earth Product. The Extend Protection Plan is offered by Extend in collaboration with Brilliant Earth. For more Protection Plan details, please click here: https://customers.extend.com/en-US/plan_details/A0-BEJEW-2y?storeId=2e0a507b-57de-453a-a650-26fa55113fbf",
+      "content": "The Extend Protection Plan is a great way for you to protect yourself from damage to your most valued items, and provide you with coverage beyond our manufacturer's warranty. There are different lengths of plans from 2-years to Lifetime that vary based on the qualifying Brilliant Earth item you purchase. \n \nExtend Protection Plan options appear in your online shopping cart with any qualifying Brilliant Earth Product. The Extend Protection Plan is offered by Extend in collaboration with Brilliant Earth. For more Protection Plan details, please click here: https://customers.extend.com/en-US/plan_details/A0-BEJEW-2y?storeId=2e0a507b-57de-453a-a650-26fa55113fbf",
       "id": "0b1a099a-4946-45d4-a66a-76adcefc5036",
       "companyName": "Brilliant Earth"
     },
@@ -139,7 +139,7 @@
     },
     {
       "name": "Are your sapphires treated?",
-      "content": "All sapphires purchased from Brilliant Earth are of natural origin and have not been chemically treated to alter their natural beauty. Most of Brilliant Earth\u0027s sapphires are heat-treated, which is an accepted industry standard. Heat treatment improves color, clarity, and overall appearance. No radiation, chemicals, or health risks are involved in this process. Brilliant Earth offers lab grown sapphires as well.",
+      "content": "All sapphires purchased from Brilliant Earth are of natural origin and have not been chemically treated to alter their natural beauty. Most of Brilliant Earth's sapphires are heat-treated, which is an accepted industry standard. Heat treatment improves color, clarity, and overall appearance. No radiation, chemicals, or health risks are involved in this process. Brilliant Earth offers lab grown sapphires as well.",
       "id": "daad9890-eac5-4b9f-ac0c-0e8da9c67816",
       "companyName": "Brilliant Earth"
     },
@@ -169,7 +169,7 @@
     },
     {
       "name": "How is brilliant earth different from other retailers that claim they offer conflict free diamonds?",
-      "content": "Brilliant Earth is most well-known for our Beyond Conflict Free standards, meaning we take it a step above and beyond the industry to make sure there are no human rights abuses, poverty, environmental degradation, and other issues at any of the mines we source from. All of our diamonds offer transparent views into the stone\u0027s origins. We use repurposed metal in the products we create.\n \nOur select group of diamond suppliers demonstrate a robust chain of custody protocol for their diamonds and have the ability to track and segregate diamonds by origin. These suppliers are required to source diamonds that originate from specific mine operators who follow internationally recognized labor, trade, and environmental standards.",
+      "content": "Brilliant Earth is most well-known for our Beyond Conflict Free standards, meaning we take it a step above and beyond the industry to make sure there are no human rights abuses, poverty, environmental degradation, and other issues at any of the mines we source from. All of our diamonds offer transparent views into the stone's origins. We use repurposed metal in the products we create.\n \nOur select group of diamond suppliers demonstrate a robust chain of custody protocol for their diamonds and have the ability to track and segregate diamonds by origin. These suppliers are required to source diamonds that originate from specific mine operators who follow internationally recognized labor, trade, and environmental standards.",
       "id": "fa4f478b-7cb9-45cc-b08e-b4fcd0f50850",
       "companyName": "Brilliant Earth"
     },
@@ -181,13 +181,13 @@
     },
     {
       "name": "What is a Conflict Diamond?",
-      "content": "Brilliant Earth is most well-known for our Beyond Conflict Free standards, meaning we take it a step above and beyond the industry to make sure there are no human rights abuses, poverty, environmental degradation, and other issues at any of the mines we source from. All of our diamonds offer transparent views into the stone\u0027s origins. We use repurposed metal in the products we create.",
+      "content": "Brilliant Earth is most well-known for our Beyond Conflict Free standards, meaning we take it a step above and beyond the industry to make sure there are no human rights abuses, poverty, environmental degradation, and other issues at any of the mines we source from. All of our diamonds offer transparent views into the stone's origins. We use repurposed metal in the products we create.",
       "id": "50f7891e-f9c5-4594-a5ff-584762cb7bf1",
       "companyName": "Brilliant Earth"
     },
     {
       "name": "Phone support",
-      "content": "We\u0027re here to assist however is most convenient for you-please call us at 800-691-0952, or let me know if you would prefer to continue over text for quicker support.",
+      "content": "We're here to assist however is most convenient for you-please call us at 800-691-0952, or let me know if you would prefer to continue over text for quicker support.",
       "id": "850bccae-c995-45be-9de9-df10c7f88cf5",
       "shortcut": "ps",
       "companyName": "Brilliant Earth"
@@ -214,7 +214,7 @@
     },
     {
       "name": "Is in store pick up possible?",
-      "content": "Great question! Yes, we do offer store pick-up. On our checkout page, under shipping, you can find the option for store pick-up. Don\u0027t forget to select the showroom where your order will be delivered.",
+      "content": "Great question! Yes, we do offer store pick-up. On our checkout page, under shipping, you can find the option for store pick-up. Don't forget to select the showroom where your order will be delivered.",
       "id": "fe672c3e-1716-4305-9d8d-7d97066b8b87",
       "companyName": "Brilliant Earth"
     },
@@ -232,7 +232,7 @@
     },
     {
       "name": "Is affirm financing available in store?",
-      "content": "We currently only offer Affirm on our website. During your appointment, we can assist you in checking out and direct you to Affirm\u0027s application process.",
+      "content": "We currently only offer Affirm on our website. During your appointment, we can assist you in checking out and direct you to Affirm's application process.",
       "id": "e90fbde6-a494-45a6-9a2e-f2350ea5107d",
       "companyName": "Brilliant Earth"
     },
@@ -256,7 +256,7 @@
     },
     {
       "name": "Can I be put on a showroom waitlist?",
-      "content": "Of course! I\u0027m happy to help. Just give our Customer Care Team a call at 800-691-0952 and let them know your preferred times. They\u0027ll be happy to add you to the waitlist! Let me know if there\u0027s anything else I can assist you with!",
+      "content": "Of course! I'm happy to help. Just give our Customer Care Team a call at 800-691-0952 and let them know your preferred times. They'll be happy to add you to the waitlist! Let me know if there's anything else I can assist you with!",
       "id": "c54a80cc-639e-45d6-bc9c-79f7aff10a49",
       "companyName": "Brilliant Earth"
     },
@@ -281,7 +281,7 @@
     },
     {
       "name": "Can I get a promotional item in store?",
-      "content": "You can get the promo items no matter where you make your purchase, as long as it qualifies, you\u0027re good to go!",
+      "content": "You can get the promo items no matter where you make your purchase, as long as it qualifies, you're good to go!",
       "id": "f7c03e70-aea2-4f28-97ad-e694412feeac",
       "companyName": "Brilliant Earth"
     },
@@ -298,7 +298,7 @@
       "companyName": "Brilliant Earth"
     },
     {
-      "name": "I\u0027m on a budget. What are my options? (If there are any discounts available share that as well)",
+      "name": "I'm on a budget. What are my options? (If there are any discounts available share that as well)",
       "content": "You can design your own ring according to your budget and preferences in 3 steps here: https://www.brilliantearth.com/engagement-rings/shop-all",
       "id": "5791c469-5b6c-4782-b135-3a5cf9c4352f",
       "companyName": "Brilliant Earth"
@@ -317,7 +317,7 @@
       "companyName": "Brilliant Earth"
     },
     {
-      "name": "I\u0027m looking to customize an engagement ring.",
+      "name": "I'm looking to customize an engagement ring.",
       "content": "You can start here: https://www.brilliantearth.com/custom-engagement-rings Our designers will use your ideas, drawings, and images to conceptualize your custom engagement ring design.",
       "id": "d233eb3f-9250-4f91-820c-6a47df989f9e",
       "companyName": "Brilliant Earth"
@@ -369,7 +369,7 @@
     },
     {
       "name": "What is the difference between Moissanite and Diamonds?",
-      "content": "I\u0027d recommend taking a look at our article here: https://www.brilliantearth.com/news/moissanite-vs-diamond where you can learn about the key differences between moissanite and diamond including durability, brilliance, and color.",
+      "content": "I'd recommend taking a look at our article here: https://www.brilliantearth.com/news/moissanite-vs-diamond where you can learn about the key differences between moissanite and diamond including durability, brilliance, and color.",
       "id": "ad7effef-6700-45bf-8814-776729b73858",
       "companyName": "Brilliant Earth"
     },
@@ -381,7 +381,7 @@
     },
     {
       "name": "Sizing",
-      "content": "Happy to help! I\u0027d recommend taking a look at our Size Chart here: https://www.brilliantearth.com/jewelry/buying-guide/ring-size You can also download our Ring Sizing Guide or request a complimentary Ring Sizer at the link above.",
+      "content": "Happy to help! I'd recommend taking a look at our Size Chart here: https://www.brilliantearth.com/jewelry/buying-guide/ring-size You can also download our Ring Sizing Guide or request a complimentary Ring Sizer at the link above.",
       "id": "b2f0d6cf-744a-481d-a09b-7557ee32c975",
       "shortcut": "sz",
       "companyName": "Brilliant Earth"
@@ -414,7 +414,7 @@
     },
     {
       "name": "How do you identify mines that meet its standards?",
-      "content": "We source our natural diamonds from approved mines with strong social and environmental governance practices in Botswana, Namibia, Lesotho, South Africa, and Canada, which are ranked low or moderate risk. We evaluate the labor, trade, and environmental standards of these natural diamond mining companies. These mining companies have been screened for information such as RJC certifications, the world\u0027s leading standard setting organization for the jewelry industry, and publicly available mining practices such as the DTC Best Practice Principles. We perform ongoing evaluations of mining companies for environmental and social risks, in-country supply chain risks, and geopolitical and environmental issues related to natural diamond supply chains. You can learn more about our responsibly mined diamonds here: https://www.brilliantearth.com/conflict-free-diamonds",
+      "content": "We source our natural diamonds from approved mines with strong social and environmental governance practices in Botswana, Namibia, Lesotho, South Africa, and Canada, which are ranked low or moderate risk. We evaluate the labor, trade, and environmental standards of these natural diamond mining companies. These mining companies have been screened for information such as RJC certifications, the world's leading standard setting organization for the jewelry industry, and publicly available mining practices such as the DTC Best Practice Principles. We perform ongoing evaluations of mining companies for environmental and social risks, in-country supply chain risks, and geopolitical and environmental issues related to natural diamond supply chains. You can learn more about our responsibly mined diamonds here: https://www.brilliantearth.com/conflict-free-diamonds",
       "id": "a24d7017-652e-41cb-a0aa-a1932f989162",
       "companyName": "Brilliant Earth"
     },
@@ -426,19 +426,19 @@
     },
     {
       "name": "Customer says no thanks",
-      "content": "No worries! Feel free to reach out if there\u0027s anything I can help with, and in the meantime, check out our new arrivals here: https://www.brilliantearth.com/jewelry/new-arrivals/fine-jewelry",
+      "content": "No worries! Feel free to reach out if there's anything I can help with, and in the meantime, check out our new arrivals here: https://www.brilliantearth.com/jewelry/new-arrivals/fine-jewelry",
       "id": "5138b9d1-9550-4d67-95c7-4f7a6e235ed0",
       "shortcut": "nw",
       "companyName": "Brilliant Earth"
     },
     {
       "name": "Can your rings be resized?",
-      "content": "Yes. Within 60 days, we will resize your ring for free, including free shipping both ways. The 60-day policy begins when your purchase is first available for shipment or pickup. However, please note that the following cannot be resized: eternity rings (due to their design), alternative metals (such as tantalum or titanium), but these can be exchanged under our 30-day policy. \n\nAdditionally, any custom, modified, and engraved rings can be resized but are subject to resize fees. Please read our full Return \u0026 Resize policy here: https://www.brilliantearth.com/en-ca/30-Day-Returns",
+      "content": "Yes. Within 60 days, we will resize your ring for free, including free shipping both ways. The 60-day policy begins when your purchase is first available for shipment or pickup. However, please note that the following cannot be resized: eternity rings (due to their design), alternative metals (such as tantalum or titanium), but these can be exchanged under our 30-day policy. \n\nAdditionally, any custom, modified, and engraved rings can be resized but are subject to resize fees. Please read our full Return & Resize policy here: https://www.brilliantearth.com/en-ca/30-Day-Returns",
       "id": "5e1a9e0f-d604-4098-8cd5-49f28b8bde00",
       "companyName": "Brilliant Earth"
     },
     {
-      "name": "I\u0027m wondering if I can see this diamond in person?",
+      "name": "I'm wondering if I can see this diamond in person?",
       "content": "Thanks for your interest! Our diamonds can be brought into an appointment for viewing. You can choose the store closest to you and schedule your appointment here: https://www.brilliantearth.com/stores",
       "id": "5687eaf7-b702-409a-b618-9f30ead4316e",
       "companyName": "Brilliant Earth"
@@ -458,7 +458,7 @@
     },
     {
       "name": "Can I create/design my own engagement ring?",
-      "content": "You can design your own engagement ring on our website by selecting the setting, stone, and the desired size of your stone.\nIf you\u0027d like something more custom, our designers can work with your ideas, drawings, or images to create a one-of-a-kind ring just for you. Please contact us at https://www.brilliantearth.com/contact or call us at +1-800-691-0952 to discuss all of your modification options.",
+      "content": "You can design your own engagement ring on our website by selecting the setting, stone, and the desired size of your stone.\nIf you'd like something more custom, our designers can work with your ideas, drawings, or images to create a one-of-a-kind ring just for you. Please contact us at https://www.brilliantearth.com/contact or call us at +1-800-691-0952 to discuss all of your modification options.",
       "id": "53d3f43a-351e-4956-bd8f-6b8826a66c0f",
       "companyName": "Brilliant Earth"
     },
@@ -470,13 +470,13 @@
     },
     {
       "name": "walk-in the showroom/location in person - no appointment",
-      "content": "We encourage appointments for the best experience but also take walk-ins.\nYou can book your appointment here: https://www.brilliantearth.com/stores\nIf you don\u0027t prefer to book, you can reach out to us at this number for more help  800-691-0952",
+      "content": "We encourage appointments for the best experience but also take walk-ins.\nYou can book your appointment here: https://www.brilliantearth.com/stores\nIf you don't prefer to book, you can reach out to us at this number for more help  800-691-0952",
       "id": "9a054f6d-0337-4166-99a1-76f5451300cd",
       "companyName": "Brilliant Earth"
     },
     {
-      "name": "I\u0027m looking for an engagement ring",
-      "content": "Wonderful! I\u0027d recommend checking out this page to select your ideal engagement ring setting and pair it with a Beyond Conflict Free Diamond: https://www.brilliantearth.com/engagement-rings/settings\nAny idea about when the proposal will be?",
+      "name": "I'm looking for an engagement ring",
+      "content": "Wonderful! I'd recommend checking out this page to select your ideal engagement ring setting and pair it with a Beyond Conflict Free Diamond: https://www.brilliantearth.com/engagement-rings/settings\nAny idea about when the proposal will be?",
       "id": "be98b545-9276-42d0-84a8-85277e7d3d92",
       "shortcut": "ler",
       "companyName": "Brilliant Earth"

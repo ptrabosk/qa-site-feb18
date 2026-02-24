@@ -3,7 +3,7 @@
   "templates": [
     {
       "name": "Which refill do I need?",
-      "content": "You can use our Refill Finder here: https://www.montblanc.com/en-us/categories/refills/refill-finder If you let me know which writing instrument you have, I\u0027ll be happy to check for you.",
+      "content": "You can use our Refill Finder here: https://www.montblanc.com/en-us/categories/refills/refill-finder If you let me know which writing instrument you have, I'll be happy to check for you.",
       "id": "517dc815-afe0-4351-b689-47b7b34774bf",
       "companyName": "Montblanc"
     },
@@ -15,7 +15,7 @@
     },
     {
       "name": "Products too expensive",
-      "content": "Thanks for your feedback, I\u0027ll share future offers that may interest you since we\u0027d love to change your mind! If you have any questions just reach out and I\u0027d love to help!",
+      "content": "Thanks for your feedback, I'll share future offers that may interest you since we'd love to change your mind! If you have any questions just reach out and I'd love to help!",
       "id": "022c5ae8-ed3b-41a2-95b8-1df1963412d9",
       "shortcut": "pte",
       "companyName": "Montblanc"
@@ -29,7 +29,7 @@
     },
     {
       "name": "Do you offer gift vouchers?",
-      "content": "I\u0027m afraid gift vouchers cannot be purchased online. However, we do offer gift vouchers in our boutiques. You can find a boutique near you here: https://stores.montblanc.com/storelocator?locale=eng\u0026defaultLat=40.141230747646\u0026defaultLng=-101.810657762798\u0026defaultZoom=4",
+      "content": "I'm afraid gift vouchers cannot be purchased online. However, we do offer gift vouchers in our boutiques. You can find a boutique near you here: https://stores.montblanc.com/storelocator?locale=eng&defaultLat=40.141230747646&defaultLng=-101.810657762798&defaultZoom=4",
       "id": "91958a5d-4212-4c02-8319-55ea469c0fb5",
       "companyName": "Montblanc"
     },
@@ -41,7 +41,7 @@
     },
     {
       "name": "Cancel / edit order",
-      "content": "I\u0027m afraid once an order has been confirmed, it is processed automatically and cannot be canceled or modified. I apologize for any inconvenience this may cause!",
+      "content": "I'm afraid once an order has been confirmed, it is processed automatically and cannot be canceled or modified. I apologize for any inconvenience this may cause!",
       "id": "36546d81-c93e-47ab-af9e-c63b60483f0e",
       "shortcut": "ced",
       "companyName": "Montblanc"
@@ -54,13 +54,13 @@
     },
     {
       "name": "Can I have my product engraved or embossed after I receive it?",
-      "content": "Yes, we offer personalization services in most of our boutiques. Please note, you may be charged for this service. Please check with your nearest boutique for further information: https://stores.montblanc.com/storelocator?locale=eng\u0026defaultLat=40.141230747646\u0026defaultLng=-101.810657762798\u0026defaultZoom=4",
+      "content": "Yes, we offer personalization services in most of our boutiques. Please note, you may be charged for this service. Please check with your nearest boutique for further information: https://stores.montblanc.com/storelocator?locale=eng&defaultLat=40.141230747646&defaultLng=-101.810657762798&defaultZoom=4",
       "id": "22b6af9b-94b0-4db8-a107-5ddbe40bec3d",
       "companyName": "Montblanc"
     },
     {
       "name": "Is engraving or embossing available online?",
-      "content": "We do indeed offer complimentary personalization at the time of purchase for the products that have noted \u0027Free Personalisation\u0027 under the product image.",
+      "content": "We do indeed offer complimentary personalization at the time of purchase for the products that have noted 'Free Personalisation' under the product image.",
       "id": "4e2ca1da-70e5-4200-b850-3cbbb4516a8e",
       "companyName": "Montblanc"
     },
@@ -78,7 +78,7 @@
     },
     {
       "name": "Do you offer gift wrapping?",
-      "content": "Each item purchased online is wrapped in our signature Montblanc packaging. You will also receive a blank branded card for you to leave a hand-written note. Please note that exceptions are made for refills, notebooks, and diaries.\n \nFor gift orders to be directly delivered to the recipient, you can add free gift wrapping and a personal message in your Shopping Bag. Enter the text into the \"Gift Message\" field; we will print it on an A6 Montblanc card.\n \nThe invoice won\u0027t be included in the delivery and will be sent to you via the email address you provided.",
+      "content": "Each item purchased online is wrapped in our signature Montblanc packaging. You will also receive a blank branded card for you to leave a hand-written note. Please note that exceptions are made for refills, notebooks, and diaries.\n \nFor gift orders to be directly delivered to the recipient, you can add free gift wrapping and a personal message in your Shopping Bag. Enter the text into the \"Gift Message\" field; we will print it on an A6 Montblanc card.\n \nThe invoice won't be included in the delivery and will be sent to you via the email address you provided.",
       "id": "d9585e62-df0c-4b6a-a297-50f39dcd593e",
       "companyName": "Montblanc"
     },
@@ -167,7 +167,7 @@
     },
     {
       "name": "Store location / retailer",
-      "content": "You can find us near you here: https://stores.montblanc.com/storelocator?locale=eng\u0026defaultLat=40.141230747646\u0026defaultLng=-101.810657762798\u0026defaultZoom=4",
+      "content": "You can find us near you here: https://stores.montblanc.com/storelocator?locale=eng&defaultLat=40.141230747646&defaultLng=-101.810657762798&defaultZoom=4",
       "id": "43a7e3ee-5fe6-4d96-8982-17efe21cf7d1",
       "shortcut": "sl",
       "companyName": "Montblanc"
@@ -192,13 +192,13 @@
     },
     {
       "name": "I decided to keep my order but I filled out the return form",
-      "content": "We are glad you have decided to keep your purchase. Don\u0027t worry, you don\u0027t have to do anything and there is no need to contact our customer support team.",
+      "content": "We are glad you have decided to keep your purchase. Don't worry, you don't have to do anything and there is no need to contact our customer support team.",
       "id": "090fac7d-bc46-420d-9013-d56c0aee464c",
       "companyName": "Montblanc"
     },
     {
       "name": "Military / First responder / Healthcare / Teacher discount",
-      "content": "Thank you for your service! I\u0027m afraid we don\u0027t have any specific discounts like that.",
+      "content": "Thank you for your service! I'm afraid we don't have any specific discounts like that.",
       "id": "ac03588b-84bf-4dd6-b443-93be6910efb6",
       "shortcut": "ms",
       "companyName": "Montblanc"
@@ -212,7 +212,7 @@
     },
     {
       "name": "Is the item available in the XX store?",
-      "content": "I would highly suggest clicking on the \"Check availability in boutiques\" link on the product page to see if inventory is available. You\u0027ll also have the ability to reserve the item in-store. Just fill out the form and you will be contacted by our staff to confirm availability.",
+      "content": "I would highly suggest clicking on the \"Check availability in boutiques\" link on the product page to see if inventory is available. You'll also have the ability to reserve the item in-store. Just fill out the form and you will be contacted by our staff to confirm availability.",
       "id": "bdfcb4f7-0579-4f62-bdc2-965f4f5277df",
       "companyName": "Montblanc"
     },

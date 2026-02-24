@@ -3,7 +3,7 @@
   "templates": [
     {
       "name": "Store location / retailer",
-      "content": "We don\u0027t currently have a store but definitely keep an eye out!",
+      "content": "We don't currently have a store but definitely keep an eye out!",
       "id": "39c8fc2c-3a93-4c85-9e67-6501fa8b60d8",
       "shortcut": "sl",
       "companyName": "AllPosters"
@@ -16,7 +16,7 @@
       "companyName": "AllPosters"
     },
     {
-      "name": "What\u0027s the difference between a Poster and an Art Print?",
+      "name": "What's the difference between a Poster and an Art Print?",
       "content": "Typically, the art print is printed on a higher grade of paper so it is thicker and often provides more texture.",
       "id": "1a23c445-829d-4c2f-9d65-18774ac1cd9d",
       "companyName": "AllPosters"
@@ -29,7 +29,7 @@
     },
     {
       "name": "Shipping time",
-      "content": "Processing of in-stock posters, prints, and photographs takes 24 hours. Once shipped, it will take 1-3 days to arrive. \nYou can check more about Order Processing \u0026 Delivery Expectations here: https://www.allposters.com/help/shipping",
+      "content": "Processing of in-stock posters, prints, and photographs takes 24 hours. Once shipped, it will take 1-3 days to arrive. \nYou can check more about Order Processing & Delivery Expectations here: https://www.allposters.com/help/shipping",
       "id": "89e4b5ce-d77d-4f15-b65a-5092a4f014a2",
       "shortcut": "shp",
       "companyName": "AllPosters"
@@ -42,8 +42,8 @@
       "companyName": "AllPosters"
     },
     {
-      "name": "﻿Why are some Art Prints more expensive than others?",
-      "content": "Most of the more expensive Art Prints, if they are not oversized, maybe one or a combination of the following:\n\n- Signed by the artist: The artist\u0027s signature appears on the print.\n- Limited edition: The publisher or artist has released a limited amount of each print.\n- Serigraph: An Art Print that is printed through a silkscreen stencil. Each color requires a separate stencil and is printed with higher-quality ink.\n-  Lithograph: An Art Print that has been produced by the process of putting designs or writing with a greasy material on stone, from which printed impressions are produced.",
+      "name": "Why are some Art Prints more expensive than others?",
+      "content": "Most of the more expensive Art Prints, if they are not oversized, maybe one or a combination of the following:\n\n- Signed by the artist: The artist's signature appears on the print.\n- Limited edition: The publisher or artist has released a limited amount of each print.\n- Serigraph: An Art Print that is printed through a silkscreen stencil. Each color requires a separate stencil and is printed with higher-quality ink.\n-  Lithograph: An Art Print that has been produced by the process of putting designs or writing with a greasy material on stone, from which printed impressions are produced.",
       "id": "de643302-39ca-4d44-887f-4395d8321be6",
       "companyName": "AllPosters"
     },
@@ -60,14 +60,14 @@
       "companyName": "AllPosters"
     },
     {
-      "name": "What\u0027s an original movie poster \u0026 a double-sided movie poster?",
+      "name": "What's an original movie poster & a double-sided movie poster?",
       "content": "Generally, original movie posters have a limited print run and are only available for a short time. Original movie posters are often double-sided-with a mirror image of the print on each side.",
       "id": "2fffe2bb-9647-4337-9e66-deea0e05dfda",
       "companyName": "AllPosters"
     },
     {
       "name": "Phone support",
-      "content": "You can give us a call at 1-888-654-0143. We\u0027re available Monday through Friday, from 9 AM to 6 PM EST, or let me know if I can help via text, it may be faster.",
+      "content": "You can give us a call at 1-888-654-0143. We're available Monday through Friday, from 9 AM to 6 PM EST, or let me know if I can help via text, it may be faster.",
       "id": "5ced2843-ee94-4ab5-914b-29678dbc3b0d",
       "shortcut": "ps",
       "companyName": "AllPosters"
@@ -79,13 +79,13 @@
       "companyName": "AllPosters"
     },
     {
-      "name": "Why can\u0027t I frame certain posters or prints I find on your site?",
+      "name": "Why can't I frame certain posters or prints I find on your site?",
       "content": "The print or the combination of print, cropping, matting, and molding is too big to frame. We can only frame combinations when the largest side is less than 114 centimeters and the smaller side is less than 89 centimeters.\nYou can try to reduce the size by:\n- Cropping the print\n- Removing mats\n- Choosing a smaller molding\n- Selecting from our Oversized Mats",
       "id": "01493811-ef71-4153-9174-edf9640061e2",
       "companyName": "AllPosters"
     },
     {
-      "name": "This is a gift, can I add a gift card \u0026 what if the package won\u0027t arrive in time?",
+      "name": "This is a gift, can I add a gift card & what if the package won't arrive in time?",
       "content": "During checkout, you can indicate your order is a gift and write your own personal gift message. Your message will be printed on the packing slip and we will not include any prices on the packing slip. Additionally, you can use our free E-cards. Simply find the image on our Web site and click on the \"Send This Image as Free E-Card\" link. You can use this free service to notify the recipient that the gift is on its way.",
       "id": "18713054-33ed-41be-af5d-4865c9c11716",
       "companyName": "AllPosters"
@@ -98,14 +98,14 @@
     },
     {
       "name": "Free shipping",
-      "content": "We don\u0027t currently offer free shipping, but all promos will always be shared with our SMS subscribers or on our website, so keep an eye out!",
+      "content": "We don't currently offer free shipping, but all promos will always be shared with our SMS subscribers or on our website, so keep an eye out!",
       "id": "db505beb-a86d-404b-993c-ae3cf82bac47",
       "shortcut": "fs",
       "companyName": "AllPosters"
     },
     {
       "name": "Cancel / edit order",
-      "content": "The best way to handle this is to email us directly at Orders@allposters.com or give us a call at 1-888-654-0143. We\u0027re available Monday through Friday, from 9 AM to 6 PM EST.\nOur team is happy to help!",
+      "content": "The best way to handle this is to email us directly at Orders@allposters.com or give us a call at 1-888-654-0143. We're available Monday through Friday, from 9 AM to 6 PM EST.\nOur team is happy to help!",
       "id": "3309500c-8eb6-45f9-b4f4-30f01c1fa838",
       "shortcut": "ced",
       "companyName": "AllPosters"
@@ -118,7 +118,7 @@
     },
     {
       "name": "Customer Support",
-      "content": "The best way to handle this is to email us directly at Orders@allposters.com or give us a call at 1-888-654-0143. We\u0027re available Monday through Friday, from 9 AM to 6 PM EST.\nOur team is happy to help!",
+      "content": "The best way to handle this is to email us directly at Orders@allposters.com or give us a call at 1-888-654-0143. We're available Monday through Friday, from 9 AM to 6 PM EST.\nOur team is happy to help!",
       "id": "5681691e-5a58-4a79-9e93-8fae4db51d6f",
       "shortcut": "cs",
       "companyName": "AllPosters"

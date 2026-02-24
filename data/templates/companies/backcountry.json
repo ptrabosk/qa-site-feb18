@@ -45,7 +45,7 @@
     },
     {
       "name": "Cancel / edit order",
-      "content": "We don\u0027t handle post-purchase requests via text. Please reach out to our customer support team via chat, phone or email here: https://www.backcountry.com/service/bc-help-center Let me know if you have any questions about our products, I\u0027m more than happy to help you here!",
+      "content": "We don't handle post-purchase requests via text. Please reach out to our customer support team via chat, phone or email here: https://www.backcountry.com/service/bc-help-center Let me know if you have any questions about our products, I'm more than happy to help you here!",
       "id": "74b09ea6-f5f2-4ebe-b101-471c2e60e928",
       "shortcut": "ced",
       "companyName": "Backcountry"
@@ -59,7 +59,7 @@
     },
     {
       "name": "Group sales",
-      "content": "Our Group Sales team is focused on delivering a client service relationship to customers in both the public and private sectors. We\u0027ll work one-on-one with you to find you the best product for your needs at a competitive price. Find out more here: https://www.backcountry.com/Store/content/groupSalesContact.jsp",
+      "content": "Our Group Sales team is focused on delivering a client service relationship to customers in both the public and private sectors. We'll work one-on-one with you to find you the best product for your needs at a competitive price. Find out more here: https://www.backcountry.com/Store/content/groupSalesContact.jsp",
       "id": "65d69c27-8885-4c09-a1a5-d6ddc53a405d",
       "companyName": "Backcountry"
     },
@@ -135,7 +135,7 @@
       "companyName": "Backcountry"
     },
     {
-      "name": "Code won\u0027t work",
+      "name": "Code won't work",
       "content": "Please note that discounts are not valid on certain manufacturer-restricted items, including bikes and frames, digital cameras, any item with GPS technology, personal locator beacons, strollers, ski and snowboard equipment, airbag packs, fishing gear, and watercraft. You can learn more here: https://www.backcountry.com/sc/new-customer-coupon-rules?srsltid=AfmBOopX3EbU5igksrFl3cuEGqJksvZkY574I-GnqIPq3Dpr5rdNUuG8",
       "id": "6595b1d1-37cd-45a3-9ccd-9b65dc918ecc",
       "shortcut": "cww",

@@ -1,0 +1,152 @@
+{
+  "companyKey": "dr. scholl's shoes",
+  "templates": [
+    {
+      "name": "Sales Collection",
+      "content": "You can take a look at our sale collection here: https://www.drschollsshoes.com/sale?icid=DRS_2023_TopNav_Header_Text_SALE_PLP-AllSale_NonPromo#sort=%40newarrivalenddate%20descending",
+      "id": "a082d0f3-8c36-43c3-b7f6-4e204c16ce69",
+      "shortcut": "spg",
+      "companyName": "Dr. Scholl's Shoes"
+    },
+    {
+      "name": "Military / First responder / Healthcare / Teacher discount",
+      "content": "Thank you for your service! We don't have any specific discounts like that but if it helps, you can check out the items we have on sale here: https://www.drschollsshoes.com/sale?icid=TopNav_MMTile_Sale_promo_HOLIYAY_Upto70OffSale_2022_FW22_Wk45",
+      "id": "efdd88b4-54c8-4a8e-ad07-7006e836a352",
+      "shortcut": "ms",
+      "companyName": "Dr. Scholl's Shoes"
+    },
+    {
+      "name": "Does the Original Collection feature toe grips?",
+      "content": "Due to reviews regarding comfort, we removed the metatarsal toe grip about 15 years ago. We found that without it, the shoe has a more comfortable fit.",
+      "id": "a7c30508-7c03-4856-93ed-4e0239efac6b",
+      "companyName": "Dr. Scholl's Shoes"
+    },
+    {
+      "name": "Store location / retailer",
+      "content": "We don't currently have a store but definitely keep an eye out.",
+      "id": "1e55d5e1-ab19-46cb-aabc-cdeabd5345fa",
+      "shortcut": "sl",
+      "companyName": "Dr. Scholl's Shoes"
+    },
+    {
+      "name": "Wholesale inquiries",
+      "content": "Thank you for your interest! The best way to discuss wholesale is to contact us via this link: https://drschollshoes.custhelp.com/app/ask/ Our team is happy to chat!",
+      "id": "dc0c9ac7-a653-41de-bb04-ee2834444886",
+      "shortcut": "wls",
+      "companyName": "Dr. Scholl's Shoes"
+    },
+    {
+      "name": "Return policy",
+      "content": "You can check out our detailed return policy here: https://www.drschollsshoes.com/help/returns-and-exchanges?icid=Footer_Help_Returns",
+      "id": "cbd5893d-c3e4-479f-9750-2b837471d1fd",
+      "shortcut": "rp",
+      "companyName": "Dr. Scholl's Shoes"
+    },
+    {
+      "name": "Social media",
+      "content": "Give us a follow on IG: https://www.instagram.com/drschollsshoes/ and FB here: https://www.facebook.com/drschollsshoes",
+      "id": "2eba3c87-f01d-46d7-9cf6-fc781fa707a1",
+      "shortcut": "smd",
+      "companyName": "Dr. Scholl's Shoes"
+    },
+    {
+      "name": "Sizing",
+      "content": "Happy to help you find the right size! I'd recommend taking a look at our size chart on each product page as well as the additional information noted in the description of each item. If you're still unsure, just let me know!",
+      "id": "1b73281d-ce39-4294-b418-8cbc45fb6f2f",
+      "shortcut": "sz",
+      "companyName": "Dr. Scholl's Shoes"
+    },
+    {
+      "name": "Phone support",
+      "content": "You can give us a call at 1-800-558-7614 or let me know if I can help via text, it may be faster.",
+      "id": "ed09aec5-0edc-4e67-9505-719436972fc7",
+      "shortcut": "ps",
+      "companyName": "Dr. Scholl's Shoes"
+    },
+    {
+      "name": "Customer support",
+      "content": "The best way to handle this is to contact us via this link: https://drschollshoes.custhelp.com/app/ask/ Our team is happy to help!",
+      "id": "c9237f37-76df-456b-a5c4-ebd21602eef5",
+      "shortcut": "cs",
+      "companyName": "Dr. Scholl's Shoes"
+    },
+    {
+      "name": "Free shipping",
+      "content": "We offer free economy shipping on domestic orders over $65. Maybe you can add something else to reach the minimum?",
+      "id": "2fc20954-ee50-4316-9985-9d02128fda34",
+      "shortcut": "fs",
+      "companyName": "Dr. Scholl's Shoes"
+    },
+    {
+      "name": "Shipping time",
+      "content": "Our processing time takes 3 business days and we usually ship via USPS and FedEx. Once shipped, it will take 5-9 business days for domestic orders.",
+      "id": "1b3c29ad-791b-48ec-9668-9aaec8375cd3",
+      "shortcut": "shp",
+      "companyName": "Dr. Scholl's Shoes"
+    },
+    {
+      "name": "How do I start a return?",
+      "content": "You can start your return here: https://drschollsshoes.happyreturns.com/",
+      "id": "7998c874-be99-40a3-a860-2574e04954aa",
+      "companyName": "Dr. Scholl's Shoes"
+    },
+    {
+      "name": "Do you ship to APO/FPO addresses?",
+      "content": "I'm afraid we cannot deliver to military APO/FPO addresses.",
+      "id": "546a4270-9b1e-401a-9cc9-92c97a3462d1",
+      "companyName": "Dr. Scholl's Shoes"
+    },
+    {
+      "name": "When will I receive my refund?",
+      "content": "For returns made via our Happy Returns Bar, the refund will be initiated immediately. For returns via mail using our pre-printed label a fee of $7 will be applied to your refund. It may take up to 3 weeks to process your return, and you'll receive a notification if your return is approved.",
+      "id": "7e940bb4-cfaa-4cac-be2b-59f8ca3f0572",
+      "companyName": "Dr. Scholl's Shoes"
+    },
+    {
+      "name": "Do you ship to PO Boxes?",
+      "content": "We're happy to offer economy shipping to P.O. boxes. Ground and expedited shipping options to P.O. boxes are not available at this time.",
+      "id": "22522f80-734b-4773-9528-3f513a9b2ae5",
+      "companyName": "Dr. Scholl's Shoes"
+    },
+    {
+      "name": "Can you apply the code retroactively?",
+      "content": "I'm afraid we can't make any changes after the order has been placed, but you can use the code on the next purchase as this one won't expire.",
+      "id": "6cc84dea-b038-4e08-9694-f7dc376c6739",
+      "companyName": "Dr. Scholl's Shoes"
+    },
+    {
+      "name": "Escalation template",
+      "content": "Can I have your full name, email, order number, phone number and your zip code please?",
+      "id": "ca037c9d-8a53-48af-973c-d2c976bda17b",
+      "shortcut": "esc",
+      "companyName": "Dr. Scholl's Shoes"
+    },
+    {
+      "name": "Cancel/edit order",
+      "content": "To better serve you, orders are processed and shipped very quickly, therefore, we're unable to edit orders once they begin to process. If you wish to cancel, I can check if that's possible. Can I have your email address and order number please?",
+      "id": "d4cead0e-eeba-4bb8-89a9-302ba3a9e893",
+      "shortcut": "ced",
+      "companyName": "Dr. Scholl's Shoes"
+    },
+    {
+      "name": "Order update / status / tracking",
+      "content": "You can use our convenient online tool to see the latest updates on your order: https://www.drschollsshoes.com/track-order?icid=Footer_Help_TrackOrder",
+      "id": "a1c9487e-6ec4-4f88-b2f3-95f95f2efdd1",
+      "shortcut": "upd",
+      "companyName": "Dr. Scholl's Shoes"
+    },
+    {
+      "name": "Brand ambassador / sponsorship",
+      "content": "Thank you for your interest! The best way to discuss this is to contact us via this link: https://drschollshoes.custhelp.com/app/ask/ Our team is happy to chat!",
+      "id": "a11db13f-1b3e-4109-882f-ccce92860b93",
+      "shortcut": "ams",
+      "companyName": "Dr. Scholl's Shoes"
+    },
+    {
+      "name": "Size Chart: All - Clothes",
+      "content": "You can take a look at our size chart here: https://www.drschollsshoes.com/help/fit-assist",
+      "id": "5d697068-7ad9-4573-bb59-dab20ee9ceb2",
+      "companyName": "Dr. Scholl's Shoes"
+    }
+  ]
+}

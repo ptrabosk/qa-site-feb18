@@ -3,20 +3,20 @@
   "templates": [
     {
       "name": "Do you have an app?",
-      "content": "We currently don\u0027t have an app.",
+      "content": "We currently don't have an app.",
       "id": "a2e10e25-79d7-4aed-89c4-cf9c774ad700",
       "companyName": "R + Co"
     },
     {
       "name": "No promo/Rewards Program",
-      "content": "I don\u0027t have any codes available at the moment but I\u0027d recommend checking out our Rewards program where you can unlock exciting perks and earn points that you can redeem for free products, coupon codes, surprise offers, VIP experiences and many more!",
+      "content": "I don't have any codes available at the moment but I'd recommend checking out our Rewards program where you can unlock exciting perks and earn points that you can redeem for free products, coupon codes, surprise offers, VIP experiences and many more!",
       "id": "d1417dd8-11e2-4754-8daa-ee1bd4e699a8",
       "shortcut": "ncode",
       "companyName": "R + Co"
     },
     {
       "name": "Do you accept PO boxes?",
-      "content": "PO Boxes don\u0027t bypass our system, and therefore we only accept physical addresses. All PO Boxes are flagged by the system and get delayed because we need an alternate address.",
+      "content": "PO Boxes don't bypass our system, and therefore we only accept physical addresses. All PO Boxes are flagged by the system and get delayed because we need an alternate address.",
       "id": "ad87ae37-cd9f-4ab4-951e-88e0557a36cd",
       "companyName": "R + Co"
     },
@@ -177,7 +177,7 @@
     },
     {
       "name": "Phone support",
-      "content": "We don\u0027t offer phone support right now but I\u0027d be happy to help you over text, let me know what I can do for you!",
+      "content": "We don't offer phone support right now but I'd be happy to help you over text, let me know what I can do for you!",
       "id": "a1a84894-324a-48a2-8b10-adc616bc09a5",
       "shortcut": "ps",
       "companyName": "R + Co"
@@ -190,7 +190,7 @@
     },
     {
       "name": "Do your products including bleu contain silicone?",
-      "content": "Yes, we strategically utilize high-performance silicones in many of our products to achieve just the right amount of slip and feel, leaving hair moisturized and protected. The silicones we use are of a higher quality. Lower-grade silicones act as \u0027fillers\u0027 which can build up, leaving hair weighed down and overloaded.",
+      "content": "Yes, we strategically utilize high-performance silicones in many of our products to achieve just the right amount of slip and feel, leaving hair moisturized and protected. The silicones we use are of a higher quality. Lower-grade silicones act as 'fillers' which can build up, leaving hair weighed down and overloaded.",
       "id": "7b3a88c1-9e24-4b0c-9596-b5ab685a07c4",
       "companyName": "R + Co"
     },
@@ -202,13 +202,13 @@
     },
     {
       "name": "Are your products including bleu safe to use with keratin treatments?",
-      "content": "Yes, our hair care products are safe for use in keratin treatments. We don\u0027t use Sodium Lauryl Sulfate or Ammonium Lauryl Sulfate, both of which can be harsh, stripping and could potentially shorten the length of time that a straightening process lasts.",
+      "content": "Yes, our hair care products are safe for use in keratin treatments. We don't use Sodium Lauryl Sulfate or Ammonium Lauryl Sulfate, both of which can be harsh, stripping and could potentially shorten the length of time that a straightening process lasts.",
       "id": "d2a15a5b-2457-4790-8498-ddbce0fece3b",
       "companyName": "R + Co"
     },
     {
       "name": "Do your products including bleu contain alcohol?",
-      "content": "Yes, in order to maintain a high level of performance, a certain amount of alcohols are necessary in specific formulations. However, they are cosmetic-grade alcohols that won\u0027t dry or strip the hair. As a result, you can get the style you want without the negative effects that alcohols are sometimes associated with.",
+      "content": "Yes, in order to maintain a high level of performance, a certain amount of alcohols are necessary in specific formulations. However, they are cosmetic-grade alcohols that won't dry or strip the hair. As a result, you can get the style you want without the negative effects that alcohols are sometimes associated with.",
       "id": "35c15707-1c46-4e0a-b8ab-25e17dcdfe35",
       "companyName": "R + Co"
     },
@@ -220,7 +220,7 @@
     },
     {
       "name": "Do your products including bleu contain phthalates?",
-      "content": "No, our products don\u0027t contain phthalates.",
+      "content": "No, our products don't contain phthalates.",
       "id": "9782200b-1e8a-4842-83d1-c588e89db7e8",
       "companyName": "R + Co"
     },
@@ -240,24 +240,24 @@
     },
     {
       "name": "Retroactive discount/price adjustment (edit when needed)",
-      "content": "I can check if that\u0027s possible. What\u0027s the order number, email address, and the code you wish to have applied to your order?",
+      "content": "I can check if that's possible. What's the order number, email address, and the code you wish to have applied to your order?",
       "id": "595bb156-d599-445c-822b-965e37456956",
       "companyName": "R + Co"
     },
     {
       "name": "What fragrance is used in your Bleu Products?",
-      "content": "We use our fragrance Light Waves, which is a light, warm romantic scent consisting of Cardamom, Pineapple, Tangerine, Lavender, Bamboo,  and Blonde Woods. The fragrance is gentle enough that it does not interfere with the wearer\u0027s own perfume, but vibrant enough to enhance the in-shower experience.",
+      "content": "We use our fragrance Light Waves, which is a light, warm romantic scent consisting of Cardamom, Pineapple, Tangerine, Lavender, Bamboo,  and Blonde Woods. The fragrance is gentle enough that it does not interfere with the wearer's own perfume, but vibrant enough to enhance the in-shower experience.",
       "id": "a9fbde7f-a4ce-4c4e-b736-be829f109ff3",
       "companyName": "R + Co"
     },
     {
       "name": "Is the Cactus shampoo going to be restocked?",
-      "content": "Unfortunately, the Cactus shampoo has been discontinued. However, I would suggest our Labyrinth 3-in-1 Texturizing shampoo instead. It\u0027s a new and improved formula from Cactus that carries many better benefits. You can check it out here: https://www.randco.com/products/labyrinth?utm_campaign=concierge\u0026utm_medium=sms\u0026utm_source=attentive\u0026externalId=HsG0v",
+      "content": "Unfortunately, the Cactus shampoo has been discontinued. However, I would suggest our Labyrinth 3-in-1 Texturizing shampoo instead. It's a new and improved formula from Cactus that carries many better benefits. You can check it out here: https://www.randco.com/products/labyrinth?utm_campaign=concierge&utm_medium=sms&utm_source=attentive&externalId=HsG0v",
       "id": "77239e48-3d97-40fa-846a-0705d5b5e326",
       "companyName": "R + Co"
     },
     {
-      "name": "What\u0027s the HairMail App?",
+      "name": "What's the HairMail App?",
       "content": "The HairMail app is exclusively for affiliates to share hair product recommendations with their followers and clients. I would suggest creating an account on our website for faster checkout: https://www.randco.com/account/login When you do this, you can also sign up for our rewards program which provides you with points that can be redeemed on discounts and free product.",
       "id": "17e6c9c6-9a37-41dd-8511-477f9dff341d",
       "companyName": "R + Co"

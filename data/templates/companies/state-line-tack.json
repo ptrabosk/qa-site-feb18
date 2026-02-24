@@ -10,7 +10,7 @@
     },
     {
       "name": "Rewards/referral",
-      "content": "We have a rewards/referral program where you can earn points to redeem on future purchases. Check it out here: https://www.statelinetack.com/content/rewards/about/?utm_campaign=Concierge\u0026utm_medium=sms\u0026utm_source=attentive\u0026externalId=3OACo",
+      "content": "We have a rewards/referral program where you can earn points to redeem on future purchases. Check it out here: https://www.statelinetack.com/content/rewards/about/?utm_campaign=Concierge&utm_medium=sms&utm_source=attentive&externalId=3OACo",
       "id": "db3c919b-2469-46cf-9761-680a5af9f143",
       "shortcut": "rwd",
       "companyName": "State Line Tack"
@@ -22,39 +22,39 @@
       "companyName": "State Line Tack"
     },
     {
-      "name": "Discount doesn\u0027t apply to certain items",
-      "content": "Your cart will show the discount if your item is eligible for it. Some items unfortunately can\u0027t have discounts applied based on manufacturers policy.",
+      "name": "Discount doesn't apply to certain items",
+      "content": "Your cart will show the discount if your item is eligible for it. Some items unfortunately can't have discounts applied based on manufacturers policy.",
       "id": "8715a9e1-eb80-4e0b-a8c3-3b7311f6d295",
       "companyName": "State Line Tack"
     },
     {
-      "name": "What\u0027s the highest temperature OEQ can withstand?",
-      "content": "OEQ doesn\u0027t have a temperature rating system. Cold weather comfort is largely dependent on personal temperature tolerances. These boots are lined in a plush synthetic fleece, and if paired with the appropriate sock, can provide sufficient comfort in colder weather conditions. Please check out the other reviews on this boot from very happy riders.",
+      "name": "What's the highest temperature OEQ can withstand?",
+      "content": "OEQ doesn't have a temperature rating system. Cold weather comfort is largely dependent on personal temperature tolerances. These boots are lined in a plush synthetic fleece, and if paired with the appropriate sock, can provide sufficient comfort in colder weather conditions. Please check out the other reviews on this boot from very happy riders.",
       "id": "4443da98-ce18-451c-8f23-3f96fcbb6296",
       "companyName": "State Line Tack"
     },
     {
       "name": "I need a smaller size",
-      "content": "You\u0027re welcome to check our mini supplies collection here: https://www.statelinetack.com/miniature-tack-and-supplies/2439/",
+      "content": "You're welcome to check our mini supplies collection here: https://www.statelinetack.com/miniature-tack-and-supplies/2439/",
       "id": "259511bc-286d-410a-bfc7-6a56fe32e321",
       "companyName": "State Line Tack"
     },
     {
       "name": "How do I submit a price match request?",
-      "content": "Price match requests must be submitted online. Please click on the red \u0027$ Price Match Request\u0027 link on the product page after the size/color is selected to submit your request.",
+      "content": "Price match requests must be submitted online. Please click on the red '$ Price Match Request' link on the product page after the size/color is selected to submit your request.",
       "id": "fa8b11ab-6803-45df-958e-65e57190f8bc",
       "companyName": "State Line Tack"
     },
     {
       "name": "Store location / retailer",
-      "content": "We don\u0027t currently have a store but definitely keep an eye out.",
+      "content": "We don't currently have a store but definitely keep an eye out.",
       "id": "318e100e-c582-4d93-ba15-4ba84bd06925",
       "shortcut": "sl",
       "companyName": "State Line Tack"
     },
     {
       "name": "Military / First responder / Healthcare / Teacher discount",
-      "content": "Thank you for your service! We don\u0027t have any specific discounts like that, but if it helps, you can check out the items we have on sale here: https://www.statelinetack.com/clearance/2000/",
+      "content": "Thank you for your service! We don't have any specific discounts like that, but if it helps, you can check out the items we have on sale here: https://www.statelinetack.com/clearance/2000/",
       "id": "9876909d-d811-4f14-82e7-2d684902a2dd",
       "shortcut": "ms",
       "companyName": "State Line Tack"
@@ -68,7 +68,7 @@
     },
     {
       "name": "Cancel / edit order",
-      "content": "We don\u0027t handle post-purchase requests via text. Please submit your request using this link: https://www.statelinetack.com/CS/Feedback.aspx or feel free to call this number 1-844-384-6814. Please let me know if you have any questions about our products, I\u0027ll be more than happy to help out!",
+      "content": "We don't handle post-purchase requests via text. Please submit your request using this link: https://www.statelinetack.com/CS/Feedback.aspx or feel free to call this number 1-844-384-6814. Please let me know if you have any questions about our products, I'll be more than happy to help out!",
       "id": "874e2193-0012-4a6c-98b6-cb8827ae88f1",
       "shortcut": "ced",
       "companyName": "State Line Tack"
@@ -88,7 +88,7 @@
     },
     {
       "name": "What does the \"list price\" mean?",
-      "content": "The list price is the manufacturer\u0027s suggested retail price. Please note this may not be the regular retail price.",
+      "content": "The list price is the manufacturer's suggested retail price. Please note this may not be the regular retail price.",
       "id": "d37758f4-976f-4b85-9747-9b0041ca53eb",
       "companyName": "State Line Tack"
     },
@@ -154,7 +154,7 @@
     },
     {
       "name": "Blanket size for horses",
-      "content": "Can I have the measurements of your horse? I\u0027d be happy to check for you! You can also reference our size chart here: https://www.statelinetack.com/ContentFiles/Associated_Content/sizingchart23.pdf",
+      "content": "Can I have the measurements of your horse? I'd be happy to check for you! You can also reference our size chart here: https://www.statelinetack.com/ContentFiles/Associated_Content/sizingchart23.pdf",
       "id": "e01307c4-620a-4f10-84c0-7f35159aa07d",
       "companyName": "State Line Tack"
     },
@@ -166,20 +166,20 @@
     },
     {
       "name": "Post purchase inquiries",
-      "content": "We don\u0027t handle post-purchase requests via text. Please submit your request using this link: https://www.statelinetack.com/CS/Feedback.aspx or feel free to call this number 1-844-384-6814. Please let me know if you have any questions about our products, I\u0027m more than happy to help you here!",
+      "content": "We don't handle post-purchase requests via text. Please submit your request using this link: https://www.statelinetack.com/CS/Feedback.aspx or feel free to call this number 1-844-384-6814. Please let me know if you have any questions about our products, I'm more than happy to help you here!",
       "id": "d9c715c2-d061-47a0-885d-7ae47ef3b820",
       "shortcut": "ppi",
       "companyName": "State Line Tack"
     },
     {
       "name": "I get an error when I enter the e-gift certificate",
-      "content": "Please be sure the e-gift certificate\u0027s 9 digit claim code is being entered in the payment section during checkout. If the claim code is entered into the promo/catalog code box in the shopping cart, you will receive an expired/invalid error message.",
+      "content": "Please be sure the e-gift certificate's 9 digit claim code is being entered in the payment section during checkout. If the claim code is entered into the promo/catalog code box in the shopping cart, you will receive an expired/invalid error message.",
       "id": "c480412c-a6ee-4dc2-a80f-c6684084412d",
       "companyName": "State Line Tack"
     },
     {
       "name": "Do I have to pay for return shipping?",
-      "content": "Unless the return is being made due to an error with the order on our part (wrong item sent, incorrect quantity, etc.) return shipping is on the customer\u0027s expense. We have included a link to our full return policy for your reference: https://slt.attn.tv/a5868XZR1aqW",
+      "content": "Unless the return is being made due to an error with the order on our part (wrong item sent, incorrect quantity, etc.) return shipping is on the customer's expense. We have included a link to our full return policy for your reference: https://slt.attn.tv/a5868XZR1aqW",
       "id": "dfd6a4cb-a0f6-4604-861e-f43c1c060d9a",
       "companyName": "State Line Tack"
     }

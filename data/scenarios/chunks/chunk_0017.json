@@ -3,8 +3,1691 @@
   "chunk": "chunk_0017",
   "scenarios": {
     "81": {
-      "agentName": "Jordan",
+      "id": "019c49d6-d6ba-41fe-f000-0000aa2dafe7",
+      "companyName": "The Art of Shaving",
+      "companyWebsite": "https://theartofshaving.com",
+      "agentName": "John",
+      "messageTone": "Polished",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "The Art of Shaving: We miss you! Visit us for all of your grooming needs and use code TAKE20 to save 20% sitewide! Exclusions apply: https://aos.attn.tv/aPntKYhjUkHO",
+          "message_type": "system",
+          "date_time": "2026-02-05 15:37:10.901"
+        },
+        {
+          "message_media": [],
+          "message_text": "The Art of Shaving: Hey, this is John. Thanks for checking us out! https://aos.attn.tv/ayEGPMXZ1WWg \n\nAny specific shaving questions I can help with?",
+          "message_type": "system",
+          "date_time": "2026-02-10 17:22:26.510"
+        },
+        {
+          "message_media": [],
+          "message_text": "My order keeps getting canceled.",
+          "message_type": "customer",
+          "date_time": "2026-02-10 18:14:00.541"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"Customer support\"; last updated: 2022-03-18 01:36:00.620",
+          "message_type": "template",
+          "date_time": "2026-02-10 18:15:42.419"
+        },
+        {
+          "message_media": [],
+          "message_text": "The Art of Shaving: Thanks for reaching out, and I'm really sorry to hear that! It's not the experience we wanted you to have with us. Could you please let me know what item/s you were trying to purchase? I would like to check on this further for you. ",
+          "message_type": "agent",
+          "agent": "109617",
+          "message_id": "019c49d6-d6ba-41fe-f000-0000aa2dafe7",
+          "date_time": "2026-02-10 18:15:42.424"
+        }
+      ],
+      "notes": {
+        "send_to_cs": [
+          "Send to CS if cx wants us to place order for them, use CS shortcut"
+        ],
+        "templates": [
+          "For adverse events or product quality complaints, use PS shortcut"
+        ],
+        "tone": [
+          "Ensure the word \"staging\" isn't in any link you send"
+        ]
+      },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://theartofshaving.com",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "Sandalwood Full Size Kit",
+            "link": "https://www.theartofshaving.com/products/gifts-kits/sandalwood-full-size-kit/?utm_campaign=Copy%20of%20Copy%20of%20Re-warm%20Campaign&utm_source=taossms&utm_medium=email&externalId=hKfFe",
+            "timeAgo": "2026-02-10"
+          },
+          {
+            "item": "Sandalwood Stubble Balm",
+            "link": "https://www.theartofshaving.com/products/oils-balms/sandalwood-stubble-balm/",
+            "timeAgo": "2025-11-30"
+          },
+          {
+            "item": "Sandalwood Stubble Balm",
+            "link": "https://www.theartofshaving.com/products/oils-balms/sandalwood-stubble-balm/",
+            "timeAgo": "2025-11-20"
+          },
+          {
+            "item": "Sandalwood Stubble Balm",
+            "link": "https://www.theartofshaving.com/products/oils-balms/sandalwood-stubble-balm/",
+            "timeAgo": "2025-11-19"
+          },
+          {
+            "item": "Sandalwood Stubble Balm",
+            "link": "https://www.theartofshaving.com/products/oils-balms/sandalwood-stubble-balm/",
+            "timeAgo": "2025-11-17"
+          }
+        ],
+        "orders": [
+          {
+            "orderNumber": "2031203",
+            "orderDate": "2026-02-10",
+            "items": [
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://www.myotcstore.com/store/p/27199-Giovanni-L-A-Natural-Styling-Hair-Gel-Strong-Hold-6-8-Oz"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://www.boatoutfitters.com/savannah-corian"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://www.sportrx.com/wiley-x-airrage.html?child_product=692"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://checkout.burrow.com/range-fabric/5-piece-open-sectional-double-lounger"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://global-medical-solutions.com/Bovie-ES10-Disposable-Loop-Electrode-15mm-X-8mm-5-per-Box_p_1095.html"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://www.newchapter.com/ingredients/schizandra-1/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://wilton-industries-inc.mybigcommerce.com/wilton-yellow-sanding-sugar-sprinkles-2-5-oz/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://www.myotcstore.com/store/p/59495-Jamaican-Mango-and-Lime-Locking-Hair-Gel-16-oz"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://secure.selkent.com/m5-dome-nuts-bzp-din-1587"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://mechanicsuperstore.com/belaire-438vl-iron-series-7-5-hp-80-gallon-two-stage-cast-iron-air-compressor-208-230v-3-phase/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://cheapfood.co.uk/volvic-touch-of-fruits-strawberry-50cl/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://www.petflow.com/product/zoetis/cestex-tablets-for-cats-and-dogs/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://simply-nutrients.mybigcommerce.com/pregnenolone-30-mg-180-capsules-p2129.html"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://healthypets.com/vitasone-with-hydrocortisone/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://www.seriouspuzzles.com/santorini-lights-1000pc-jigsaw-puzzle-by-castorland/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://mcstaging-eu.elemis.com/freestyle-deep-tissue-massage.html"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://checkout.platformart.com/pangs/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://www.t3micro.com/product-t3-airebrush-duo-64mm-round-brush"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://www.modani.com/corsica-outdoor-coffee-table-gray.html"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://www.plumbersstock.com/xpvcl60112-319-1-12in-pvc-dwv-60-elbow.html"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://us.jellycat.com/flumpie-pig/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://renegadegamestudios.com/transformers-roleplaying-game-free-bonus-material/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://www.thrivemarket.com/p/earthworm-natural-drain-cleaner"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://www.curlscurls.com/natural-curly-3b-3c-half-wig.html"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://www.lamkingrips.com/?post_type=product&p=539"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://shophockeytown.com/detroit-red-wings-msx-freestyle-short-sleeve-t-shirt/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://www.macofalltrades.com/apple-imac-27-inch-3-4ghz-quad-core-i7-late-2012-md096ll-a-10-excellent-condition/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://checkout.nordicware.com/waffle-dippers-pan/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://alfreddunner.com/Womens-Crewneck-3/4-Sleeve-Stripe-Sweater/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://ruby-rd-store-2.mybigcommerce.com/womens-petite-solid-knit-interlock-top/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://shop.centralparkpuppies.com/puppy/f1b-mini-goldendoodle-female-id0541-am/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://www.curlscurls.com/cj-33.html"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://shop.gasketguy.com/22-1-4-x-26-1-4-bastian-blessing-gasket/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://www.keylessentryremotefob.com/l2m433-factory-oem-key-fob-keyless-entry-remote-alarm-replace/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://www.dormco.com/College_Cosmetic_Dorm_Case_Cool_Dorm_Stuff_Girls_p/aa2-1-1-42731.htm"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://gcx.raise.com/buy-chevron-and-texaco-gift-cards"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://livecarmodel.com/products/1-18-kia-sportage-brown-diecast-car-model.html"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://otbdiscs.com/product/wasp/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://trendytransfers.com/love-without-fear-elephant-screen-print-heat-transfer/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://www.flashrouters.com/cudy-wr3000-vpn-router-by-flashrouters"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://www.macofalltrades.com/apple-ipad-air-wi-fi-64gb-space-gray-md787ll-a-excellent-condition/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://www.cravenspeed.com/bullet-style-stubby-antenna-for-2007-2010-dodge-nitro/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://www.judybluewholesale.com/8262reg-dk-3-26.html"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://www.firstaidbeauty.com/kits-gifts/online-exclusive-bundles/tone-hydrate-trio"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://francescas.com/product/WWL18172/cynthia-ditsy-flower-mini-dress"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://www.ascolour.com.au/wos-relax-crew-4160/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://sagaconcepts.com/63-22/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://www.beautifiedyou.com/jan-marini-bioglycolic-facial-cleanser/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://yonidapunani.com/star-lust-pink-20g-nose-hoop/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://www.naturalpigments.com/verona-red-marble-dust.html"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://yonidapunani.com/zala-nose-hoop/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://secure.selkent.com/m20-x-50-hexagon-set-screw-8-8-nut-washer-assembled-bzp"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://chrischristensen.com/champagne-by-chris-christensen-flat-link-snake-chain-show-collars/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://wilton-industries-inc.mybigcommerce.com/wilton-christmas-nonpareils-sprinkles-13-6-oz/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://www.eztestpools.com/lamotte-insta-test-5-plus-test-strips-50-bottle-2977-12-pt/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://bestpricenutrition.com/products/kal-pure-liquid-stevia-extract-2-fl-oz-1?sku=4256"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://www.keylessentryremotefob.com/56046638-ad-dodge-ram-factory-oem-key-fob-keyless-entry-remote-alarm-ready-to-program/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://checkout.livesuper.com/products/white-shoulders-2-75-oz-eau-de-cologne-spray/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://lemproducts.com/products/spring-loaded-pliers-hog-rings.html"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://www.petersons.com/testprep/product/clep-practice-tests-introductory-sociology/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://csd.shop/products/women/shoes/black-gold-leather-gold-watch-mule-heeled-sandals.html"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://korbanth.com/the-unleashed/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://www.ams-samplers.com/1-1-8-x-33-plated-open-end-soil-probe-w-handle/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://twinklingtree.com/products/jolly-glowing-gnome"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://www.coolergaskets.com/brown-gasket-55-3-8-x-78-3-8/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://www.nutrisystem.com/diet-plans"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://earthley.com/products/ginger-root-capsules"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://shopstarbeauty.com/annie-premium-extra-jumbo-day-and-night-cap/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://www.cecilandlou.com/shop-all/light-pink-satin-bow/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://www.bestpricenutrition.com/products/kal-pure-liquid-stevia-extract-2-fl-oz-1"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://barndoorag.com/black-mamba-6-25-mil-nitrile-glove-black-xx-large-blk140/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://checkout.livesuper.com/products/kim-kardashian-1-7-oz-edp-spray/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://csd.shop/products/women/gold-glitter-viscose-knit-mini-dress.html"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://www.steeda.com/ford-racing-mustang-shocks-struts-161-m-18000-a.html"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://www.rpgshow.com/natural-straight-bangs-virgin-human-hair-full-lace-wig-pts001.html"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://murad-uat.mybigcommerce.com/product/targeted-wrinkle-corrector-sample/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://feltmanbrothers.com/boys-open-front-daygown-with-train/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://genright.com/shop-by-vehicle/jeep-jku-4-dr-07-18/suspension/king-2-5-shocks-w-clicker-res-jk-rear-6-lift/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://www.sollenaturals.com/product/692"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://www.murad.com/product/everyday-essentials-5-piece-gift/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://titancornholebags.com/virginia-cutters-official-acl-teams-titan-bags-toss-bags-set-of-4/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://www.carnivalsavers.com/catalog/item/1917756/7235560.htm"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://nononsense-dev.mybigcommerce.com/cotton-scallop-pointelle-crew-sock-4-pair-pack/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://checkout.nordicware.com/8-spatter-cover/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://digilent.com/shop/adp-5000-series/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://www.gorgeousshop.com/burt-s-bees-baby-bee-fragrance-free-lotion-175ml.html"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://www.utvsource.com/prp-polaris-rzr-xp-1000-overhead-storage-bag/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://getbitoutdoors.com/batson-ltcpct08r07-5"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://renegadegamestudios.com/vampire-the-masquerade-5th-edition-cults-of-the-blood-gods-sourcebook-onyx-path-edition/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://www.heritagebooks.org/products/roses-and-thorns.html"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://www.carnivalsavers.com/mini-gingerbread-figures/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://www.filtersfast.com/ge-merlin-carbon-pre-filter-1237460.asp"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://kamprite.com/shop/accessories/rain-flys/rain-fly-double-tent-cot-camouflage/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://www.mysupplementstore.com/products/now-foods-carbo-gain-8-lbs-1"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://beautysense.ca/en/opi-lights-of-emerald-city-oz-collection.html"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://sagaconcepts.com/asm-cp04en/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://www.teammotorcycle.com/two-piece-motorcycle-rain-gear-with-hood"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://testing.eastwood.com/powder-translucent-grape-8-oz-nv.html"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://www.thermoworks.com/prb-k-124/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://www.toolnut.com/jet-5674023-bi-metal-bandsaw-blade-1-x-035-x-156-x-5-8vt-for-j-7060-4.html"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://korbanth.com/elf-sabers-the-kestis-survivor-chasi/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://www.cantoni.com/designer/john-shaw"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://earthley.com/products/coconut-milk-soap"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://bodyjewelry.com/50-body-piercing-needles-20gauge-18gauge-16gauge.html"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://www.cuttingboardcompany.com/18-x-24-tan-cutting-board/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://groomerschoice.com/behave-cable-slip-noose-31/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://www.toolnut.com/klein-5139-canvas-zipper-bag-tool-pouch.html"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://shop.lacrawfish.com/Gulf-Shrimp/Peeled/Gulf-Shrimp-Peeled-and-Deveined-31-35-count-2-lb-IQF"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://lifeaidbevco.com.au/brigaid-mens-tee-red-lg"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://ampeduplearning.com/acts-leading-to-the-american-revolution/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://store.human-i-t.org/back-to-school/hp-elitebook-850-g2-laptop-intel-core-i7-5600u-2-60ghz-8gb-ram-ddr3l-240gb-ssd/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://cheapfood.co.uk/clean-sparkle-20-sponge-scourers/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://onestopboardshop.com/sealant/green-armor-dilloz-protection/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://www.alekoproducts.com/outdoor-living/awnings/retractable-black-frame-patio-awning-12-x-10-feet-burgundy/ab12x10burg37-ap/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://store.goodandbeautiful.com/pre-k-8-my-weekly-planner-level-2/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://trendytransfers.com/products/leopard-animal-print-lips-sublimation-transfer/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://mountaincrestgardens.com/sempervivum-heuffelii-xanthoheuff/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://healthypets.com/ohhammock/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://store.candlewarmers.com/iron-and-clay-illumination-fragrance-warmer/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://www.teammotorcycle.com/hjc-fg-17-x-fuera-helmet-rear-vent"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://www.justsaygolf.com/orange-whip-stan-utley-wedge/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://www.versare.com/room-divider-360-accordion-portable-partition-25-x-6-navy-blue-fabric/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://katieloxton.com/cable-knit-pearl-gloves-pale-grey?___store=KL_B2C_GBP_GB"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://aspen-company.com/its-a-girl-wooden-disc-blossom-style-2/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://artbeads.com/gunmetal-plated-crystal-pearl-rhinestone-snowflake-button-btn675/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://stage.empirecovers.com/539-3-bow-round-bimini-replacement-tops"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://shop.loriwhitlock.com/5x4-accordion-fold-mini-album/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://www.factorydirectjewelry.com/pendants/yellow-gold-big-sis-little-sis-mom-breakable-heart-3-piece-family-pendant/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://www.masterpiecesinc.com/nebraska-checkers-board-game/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://www.lightopia.com/Details/FredrickRamond-Dune/692"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://jovialfoods.com/100-organic-gluten-free-brown-rice-elbows-1/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://www.seriouspuzzles.com/princess-and-knight-300pc-jigsaw-puzzle-by-castorland/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://artbeads.com/silver-plated-12mm-crystal-pearl-rhinestone-round-button-btn689/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://skintruth.com/skincare/sanitas-skincare-rejuvena-level-1/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://dermelect.com/the-signature-foot-facial/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://eggcartonstore.com/plastic-15-dozen-egg-case/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://www.enjukuracing.com/products/borla-headers-02-14-wrx-04-18-sti.html"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://utahairguns.com/donnyfl-fx-moderator/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://makospearguns.com/spearfishing-longfins-freediving-backpack/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://www.festive-lights.com/soft-lilac-glass-bauble-with-saturn-ring-detail"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://secure.solostove.com/carry-case-replacement/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://www.ams-samplers.com/2-x-6-scs-cup-cap/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://bullionsharks.com/1954-s-franklin-half-dollar-brilliant-uncirculated-the-last-san-francisco-franklin/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://sharkwheel.com/54mm-bundle-white-twisted-wheels-abec-9-bearings-150mm-shiver-trucks/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://northern-reflections-store-2.mybigcommerce.com/emily-stone-microtwill-capri-pant-4000011625/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://global-medical-solutions.com/Clinton-Industries-SS-Adjustable-Folding-Hamper-H-42-with-Wheels_p_1323.html"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://www.cuttingboards.net/1-2-black-richlite-cutting-board/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://www.goldenmine.com/mp/Link-Chains/0.5mm-14K-White-Gold-Micro-Rolo-Link-Chain-Necklace-16-20in/539.html"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://checkout.platformart.com/wiki-wiki/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://store.goodandbeautiful.com/ted-and-tom-and-the-tall-tall-peak-by-jenny-phillips/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://www.t3micro.com/product/softtouch-7"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://us.jellycat.com/bashful-luxe-bunny-blankie/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://oral-care-staging.mybigcommerce.com/en-us/products/more-products/water-flosser/water-flosser-advanced-portable-oral-irrigator-handle/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://coco-republic-us-store-1-b2b.mybigcommerce.com/products/pico-concrete-stool.html"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://macks-prairie-wings-inc-alb.mybigcommerce.com/haydel-big-barreled-cutdown-mallard-double-reed-duck-call/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://www.griotsgarage.com/enthusiast-drill-polishing-system/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://hyva.odindev.com/110005-yukon-flaps.html"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://secure.theartofshaving.com/sandalwood-stubble-balm/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://lazyone.com/bat-moose-kid-sock/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://makospearguns.com/ocean-guardian-shark-shield-for-scuba/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://buildmyharvest.com"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://www.wrightlife.com/disc-dog/sets-pack-deals/wham-o-fastback-frisbee-six-pack-6-wright-life-frisbees/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://www.tasteoftexas.com/taste-of-texas-throwback-original-rope-hat/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://stage.empirecovers.com/692-protechtor-class-a-rv-covers"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://macks-prairie-wings-inc-alb.mybigcommerce.com/avery-diy-game-call-lanyard-green-khaki-round-braid/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://www.griotsgarage.com/best-of-show-detailer/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://oceanmosaics.com/pebble-stone-sliced-marmara-tile-sample/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://warriorpoetsupplyco.com/utliclip-slim-3-3/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://www.bltdirect.com/golfball-15-watt-es-red"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://new.serioussips.com/davinci-classic-flavored-syrups-750-ml-glass-bottle-cherry/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://burjushoes.com/sofiya-nude-made-to-order-open-toe-cut-out-bootie-truly-nude-shade-four/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://testing.eastwood.com/powder-architectural-bronze-8-oz-nv.html"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://store.candlewarmers.com/wood-cane-vintage-style-bulb-illumination-fragrance-warmer/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://hyva.odindev.com/11191-mitsubishi-eclipse-trailer-hitch.html"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://creole.net/genes-special-blend-cajun-seasoning-8-oz/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://www.dormco.com/20_Pocket_Over_the_Door_Shoe_Caddy_Black_Cream_p/f3-1-3-5176.htm"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://energyartistjulia.com/products/forest-fox-energy-pendant.html"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://comainducer.com/git-cozy-coma-inducer-oversized-comforter-darkest-gray/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://livecarmodel.com/products/kyosho-1-18-ferrari-daytona-365-gtb-diecast-car-model.html"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://knifeworks.com/case-042-medium-stockman-amber-bone-6318-ss/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://strathfieldcarradios.com.au/aerpro-ap406-4gx2-8gx4-dist-block/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://mocoqueen.com/products/rainbow-crystal-violet-designer-contacts.html"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://www.bents.co.uk/p/paeonia-select-vanilla-schnapps-4l-21cm-phhgen1350/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://museumreplicas.com/sinbad-turban/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://smithsproducts.com/8in-bait-shears/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://barberco.com.au/wahl-kids-pin-stripe-cape-grey/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://aimpoint.us/gbrs-group-patriotism-trucker-hat/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://blessedperformance.com/xdp-wrinkle-black-gear-reduction-starter-2003-to-2007-powerstroke/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://www.elemis.com/freestyle-deep-tissue-massage.html"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://www.judybluewholesale.com/8418reg-md-11-30.html"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://genright.com/shop-by-vehicle/rear-axle-bridge-truss-dana-60-un-welded/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://getbitoutdoors.com/batson-stzt12f10-5"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://museumreplicas.com/elven-leaf-leather-pouch/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://heritagebooks.org/products/precious-remedies-against-satans-devices-puritan-paperbacks-brooks.html"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://knifeworks.com/rpw-x46-5-tanto-od-combo-edge-w-khaki-nylon-sheath/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://secure.theartofshaving.com/sandalwood-shaving-cream-2-5-oz/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://checkout.solostove.com/pi-ultimate-bundle/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://leonardusa.com/product/curt-trailer-brake-controller-harness-select-cadillac-chevrolet-gmc-51342/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://www.misfitsmarket.com/shop/aisle?addToCart=539"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://livingspinal.com/walking-and-grabbing-assists/fixed-front-swivel-wheel-foot-piece-medline-industries-guardian/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://www.rpgshow.com/detailed-pictures-metal-rat-tail-parting-comb-jwsz.html"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://store.hedcycling.com/emporia-gc3-pro/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://skintruth.com/skincare/epionce-melanolyte-tx/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://www.skinstation.co.uk/medik8-hydr8-b5-30ml"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://mechanicsuperstore.com/amgo-extension-adapter-3-6/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://www.bestpricenutrition.com/products/universal-nutrition-animal-cuts-1"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://www.ascolour.com.au/wos-heavy-crew-4145/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://crowdershop.com/ameri-christmas-mens-apparel/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://www.viovet.co.uk/James-Wellbeloved-Grain-Free-Turkey-in-Gravy-Puppy-Junior-Wet-Dog-Food/c692/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://mcstaging.charlesbentley.com/charles-bentley-salvage-stackable-steel-stool.html"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://tartecosmetics.com/shop/beyond-bb-perfecting-liquid-foundation-539.html"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://comainducer.com/oh-sweetie-bare-coma-inducer-oversized-comforter-chalk-blue/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://barberco.com.au/proraso-after-shave-balm-azur-lime-100ml-ref-400781/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://www.vitalitymedical.com/hollister-leg-bag-for-urine.html"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://shopstarbeauty.com/jamaican-mango-lime-locking-wax-and-gel/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://www.bcwsupplies.com/acrylic-jersey-case-large"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://www.alamomusic.com/rapco-3-16g-1-4-1-4-speaker-cable/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://northern-reflections-store-2.mybigcommerce.com/crepe-de-chine-crop-leg-pleated-jumpsuit-4000011190/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://creole.net/karys-dark-roux-16oz-2-pack/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://figureskatingstore.com/ice-skates-vibe-adjustable-xp1000-orange/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://www.festive-lights.com/black-and-gold-table-runner"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://www.factorydirectjewelry.com/white-gold-irish-celtic-cross-pendant/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://www.luckyduck.com/lucky-duck-retro-tank-black/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://checkout.burrow.com/accessories/portals-smoke-set"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://getglowingnowskincare.com/merikit-azulene-blue-1000-ampoule/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://www.bcwsupplies.com/4-screw-card-holder-non-recessed"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://oralb.com/en-us/products/replacement-brush-heads/charcoal-replacement-brush-heads-2-count"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://www.cravenspeed.com/highlight-for-fiat/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://www.shopakira.com/keeping-it-real-multi-chain-necklace.html"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://coco-republic-us-store-1-b2b.mybigcommerce.com/products/milano-woven-dining-chair.html"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://titancornholebags.com/built-in-bluetooth-speakers/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://www.vitalitymedical.com/fisher-and-paykel-chamber-connector.html"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://www.jackit.com/day-kj02018.html"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://www.murad.com/product/summer-essentials-5-piece-gift/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://mocoqueen.com/products/aegean-sea-mint-green-designer-contacts.html"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://www.theproteinworks.com/total-mass-matrix-strawberry-500g"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://bodyjewelry.com/acsmfabeburi.html"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://bullionsharks.com/1989-50-proof-gold-eagle-ngc-pf70-ucam/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://www.rcsuperstore.com/micro-heli-cnc-aluminum-lower-main-blade-grips-blue-blade-cx/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://www.cuttingboardcompany.com/continental-5-256-cutting-board/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://www.flowersbyflourish.com/product/stocks-purple/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://dailysteals.com/products/adjustable-lcd-screen-exercise-bike.html"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://ruby-rd-store-2.mybigcommerce.com/plus-womens-gingham-half-button-front-top/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://us.swann.com/swifi-coresol/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://shop.loriwhitlock.com/halloween-snack-bag-holder/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://www.designsbyjuju.com/zdbjj316-3-patriotic-bears-single"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://www.plumbersstock.com/abst21122-2in-x-1-12-x-2-abs-sanitary-tee.html"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://chefs.spiceology.com/products/marley-kitchen-one-world-blend"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://api-m2-na.coravin.com/model-six-limited-edition-mica-eu.html"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://monumentmetals.com/2016-american-silver-eagle-ngc-ms69-er-30th-anniversary-label.html"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://checkout.springbok-puzzles.com/Tin-of-Treats-p/33-20498.htm"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://hue-dev6.mybigcommerce.com/blackout-tights-smooth-control-top/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://www.tipperarycrystal.ie/silver-round-earrings-with-pave-bale/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://checkout.springbok-puzzles.com/Moonlit-Village-p/34-10631.htm"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://us.swann.com/swifi-solar4/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://www.skinlight.co.uk/premium-hydrating-toning-mist-for-men/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://originmaine.com/bjj-mma-fit/four-horsemen-compression-fit-rashguard/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://francescas.com/product/148547/mr-mrs-car-coasters"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://ca.eccotemp.com/l5-solenoid/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://www.lafurniturestore.com/espresso-coffee-table.html"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://new.serioussips.com/dolce-classic-flavored-syrups-750-ml-plastic-bottle-cinnamon/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://www.beercartel.com.au/spiegelau-stout-glass/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://www.smartbuyglasses.com/contact-lenses/monthly-disposable-lenses/Smylens-Monthly-Disposable-3-Pack/539.html"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://www.luckyduck.com/brown-unstructured-hat/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://area13ebikes.com/flyer-cruiser/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://www.thermoworks.com/ths-830-259/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://mcstaging.charlesbentley.com/charles-bentley-premium-rattan-day-bed-cover.html"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://www.lightopia.com/Details/HinkleyLighting-Harrison/539"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://www.filtersfast.com/pentek-150558-filter-housing.asp"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://stampington.com/vintage-office-deco-wrap/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://www.misfitsmarket.com/shop/aisle?addToCart=692"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://crowdershop.com/fight-like-hell-statement-tri-blend-womens-tee/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://digilent.com/shop/arty-z7-zynq-7000-soc-development-board/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://store.philamuseum.org/brancusi-duchamp-the-art-of-dialogue/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://www.rcsuperstore.com/brake-disc-jato/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://store.philamuseum.org/how-to-draw-faces-kit/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://www.designsbyjuju.com/zdbjj333-2-beary-sweet-autumn-bears-single"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://www.joeboxer.com/mens-anthracite-dotted-thermal-lounge-shorts/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://www.brilliantdiamonds.com/3-0ct-emerald-cut-solitaire-pendant-set-in-14k-white-gold-with-diamond-cut-cable-chain"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://www.clearbags.com/a1-5-1-8-x-3-5-8-bright-envelope-white-50-pieces-e5302.html"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://christmasfromgermany.com/gingerbread-house-with-deer/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://www.lafurniturestore.com/et-001-modern-lounge-chair-with-ottoman.html"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://merrystockings.com/santa-express-merrystockings-felt-stocking-kit.html"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://monumentmetals.com/1884-o-morgan-silver-dollar-pcgs-ms64.html"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://www.lifeaidbevco.com/brigaid-mens-tee-red-lg"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://www.jackit.com/day-kg61001.html"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://jasonofbh.com/collection/the-bow-earrings/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://twinklingtree.com/products/twinkling-tulip-frame/"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://alfreddunner.com/petite-womens-sleek-wide-leg-medium-length-pant/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://rafflex.io/product/edradour-speedway-3-winners-race-4"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://onestopboardshop.com/onewheel/stunt-pack-cbsp-upgrade/"
+              },
+              {
+                "name": "Sandalwood Shaving Cream 2.5 OZ",
+                "price": 20,
+                "productLink": "https://originmaine.com/durable-goods/boots/the-coronado-boot-whiskey-minilug"
+              },
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://www.coolergaskets.com/ardco-aftermarket-gasket-24-5-8-x-61-1-2/"
+              }
+            ],
+            "total": 100,
+            "coupon": "unknown",
+            "date_time": "2026-02-10 22:26:59.866"
+          },
+          {
+            "orderNumber": "",
+            "orderDate": "2025-11-20",
+            "items": [
+              {
+                "name": "",
+                "price": 0
+              }
+            ],
+            "total": 0,
+            "date_time": "2025-11-20 18:13:42.716"
+          },
+          {
+            "orderNumber": "1966181",
+            "orderDate": "2025-03-12",
+            "items": [
+              {
+                "name": "Travel Bag SA",
+                "price": 0,
+                "productLink": "https://www.chairish.com/product/3447556/rue-de-seine-wallpaper-by-anna-french-price-per-roll?utm_content=Wallpaper+Rolls&utm_medium=text&utm_source=attentive&utm_term=3447556"
+              }
+            ],
+            "total": 75,
+            "date_time": "2025-03-12 15:54:53.323"
+          },
+          {
+            "orderNumber": "1966181",
+            "orderDate": "2025-03-12",
+            "items": [
+              {
+                "name": "Sandalwood Stubble Balm",
+                "price": 40,
+                "productLink": "https://www.chairish.com/product/3447555/handmade-wool-oushak-runner?utm_content=Rugs&utm_medium=text&utm_source=attentive&utm_term=3447555"
+              }
+            ],
+            "total": 75,
+            "date_time": "2025-03-12 15:54:53.295"
+          },
+          {
+            "orderNumber": "1966181",
+            "orderDate": "2025-03-12",
+            "items": [
+              {
+                "name": "Sandalwood Shaving Cream 5 OZ",
+                "price": 35,
+                "productLink": "https://www.chairish.com/product/id/3447554?utm_content=Decorative+Pillow+Covers&utm_medium=text&utm_source=attentive&utm_term=3447554"
+              }
+            ],
+            "total": 75,
+            "date_time": "2025-03-12 15:54:53.265"
+          }
+        ]
+      },
+      "escalation_preferences": [
+        "Adverse Events",
+        "Product Quality Complaints"
+      ],
+      "blocklisted_words": [],
+      "has_shopify": false
+    },
+    "82": {
       "id": "019c6369-e603-4ffb-f000-0000fba196b8",
+      "companyName": "Critic's Choice Video",
+      "companyWebsite": "https://ccvideo.com",
+      "agentName": "Jordan",
+      "messageTone": "Polished",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "Critics' Choice Video: Welcome! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
+          "message_type": "system",
+          "date_time": "2026-02-15 16:44:01.893"
+        },
+        {
+          "message_media": [],
+          "message_text": "Critics' Choice Video: Welcome! This is Jordan, your personal Concierge. \n\nYour code is CCV10. Use it at checkout for 10% off your order! Shop now: https://criticschoice.attn.tv/an4aQaNrQ03v \n\nAnything I can help you with? Stop to stop",
+          "message_type": "system",
+          "date_time": "2026-02-15 16:44:06.849"
+        },
+        {
+          "message_media": [],
+          "message_text": "Critics' Choice Video: It looks like you forgot The Beekeeper in your cart...complete your checkout today: criticschoice.attn.tv/aAPRt4fZYlVW  Stop to stop",
+          "message_type": "system",
+          "date_time": "2026-02-15 17:08:40.853"
+        },
+        {
+          "message_media": [],
+          "message_text": "Is this still Jordan?",
+          "message_type": "customer",
+          "date_time": "2026-02-15 17:10:25.523"
+        },
+        {
+          "message_media": [],
+          "message_text": "Critics' Choice Video: Yes, it is! How may I help you today?",
+          "message_type": "agent",
+          "agent": "37648",
+          "message_id": "019c635d-0034-4968-f000-0000fba196b8",
+          "date_time": "2026-02-15 17:12:45.265"
+        },
+        {
+          "message_media": [],
+          "message_text": "I got 3 movies in my cart can they sit there til next week when I get paid so I can make my purchase? If not do I need to make a purchase soon? How long does my 10% off last?",
+          "message_type": "customer",
+          "date_time": "2026-02-15 17:17:24.783"
+        },
+        {
+          "message_media": [],
+          "message_text": "Critics' Choice Video: Thanks for checking in! Items in your cart aren't reserved, so availability can change if they sell out. The code CCV10 is valid for your first order on our site. Let me know if there's anything else I can help you with.",
+          "message_type": "agent",
+          "agent": "109972",
+          "message_id": "019c6369-e603-4ffb-f000-0000fba196b8",
+          "date_time": "2026-02-15 17:26:50.534"
+        }
+      ],
+      "notes": {
+        "promo_and_promo_exclusions": [
+          "🅿 Refer to brand's site for the most up to date promotional information where applicable."
+        ]
+      },
       "rightPanel": {
         "source": {
           "label": "Website",
@@ -12,700 +1695,419 @@
           "date": ""
         }
       },
-      "companyWebsite": "https://ccvideo.com",
-      "companyName": "Critic\u0027s Choice Video",
-      "notes": {
-        "promo_and_exclusions": [
-          "🅿 Refer to brand\u0027s site for the most up to date promotional information where applicable."
-        ]
-      },
-      "blocklisted_words": [
-        
-      ],
       "escalation_preferences": [
         "Exchanges and returns"
       ],
-      "messageTone": "Polished",
-      "conversation": [
-        {
-          "message_type": "system",
-          "message_text": "Critics\u0027 Choice Video: Welcome! Msg \u0026 data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
-          "date_time": "2026-02-15 16:44:01.893",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Critics\u0027 Choice Video: Welcome! This is Jordan, your personal Concierge. \n\nYour code is CCV10. Use it at checkout for 10% off your order! Shop now: https://criticschoice.attn.tv/an4aQaNrQ03v \n\nAnything I can help you with? Stop to stop",
-          "date_time": "2026-02-15 16:44:06.849",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Critics\u0027 Choice Video: It looks like you forgot The Beekeeper in your cart...complete your checkout today: criticschoice.attn.tv/aAPRt4fZYlVW  Stop to stop",
-          "date_time": "2026-02-15 17:08:40.853",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "Is this still Jordan?",
-          "date_time": "2026-02-15 17:10:25.523",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c635d-0034-4968-f000-0000fba196b8",
-          "message_text": "Critics\u0027 Choice Video: Yes, it is! How may I help you today?",
-          "message_type": "agent",
-          "agent": "37648",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-15 17:12:45.265"
-        },
-        {
-          "message_type": "customer",
-          "message_text": "I got 3 movies in my cart can they sit there til next week when I get paid so I can make my purchase? If not do I need to make a purchase soon? How long does my 10% off last?",
-          "date_time": "2026-02-15 17:17:24.783",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c6369-e603-4ffb-f000-0000fba196b8",
-          "message_text": "Critics\u0027 Choice Video: Thanks for checking in! Items in your cart aren\u0027t reserved, so availability can change if they sell out. The code CCV10 is valid for your first order on our site. Let me know if there\u0027s anything else I can help you with.",
-          "message_type": "agent",
-          "agent": "109972",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-15 17:26:50.534"
-        }
-      ]
-    },
-    "82": {
-      "agentName": "Ashley",
-      "id": "019c43bb-a24c-40cd-f000-0000fa1a7bc3",
-      "rightPanel": {
-        "source": {
-          "label": "Website",
-          "value": "https://sauder.com",
-          "date": ""
-        }
-      },
-      "companyWebsite": "https://sauder.com",
-      "companyName": "Sauder",
-      "notes": {
-        "send_to_cs": [
-          "Send to CS for post-purchase inquiries for items purchased through a retailer"
-        ],
-        "templates": [
-          "If customers already purchased use TFP shortcut"
-        ],
-        "tone": [
-          "Let the customer have the last word!"
-        ],
-        "drive_to_purchase": [
-          "Don\u0027t recommend Retailer Exclusive items"
-        ],
-        "promo_and_exclusions": [
-          "Discount codes CAN be applied to clearance items"
-        ]
-      },
-      "blocklisted_words": [
-        
-      ],
-      "escalation_preferences": [
-        
-      ],
-      "messageTone": "Polished",
-      "conversation": [
-        {
-          "message_type": "system",
-          "message_text": "Sauder: Welcome! Msg \u0026 data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
-          "date_time": "2026-02-08 20:07:43.254",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Sauder: Welcome! Click this link for your 20% OFF coupon code: https://sauder.attn.tv/ajhHjlk1opQY",
-          "date_time": "2026-02-08 20:07:47.340",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Sauder: Hey there! We noticed you left something in your cart!\nhttps://sauder.attn.tv/audO-dcYZRce \n\nUse code XPBZB2E2 for 20% off your first order!\n\nWas there anything I could help you with? \n- Ashley ",
-          "date_time": "2026-02-09 13:16:19.029",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "Thank you! I am seeing the same nightstands listed on Walmart for $167.00. Is there a way to price match?",
-          "date_time": "2026-02-09 13:17:32.267",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c43a3-e4ec-4b59-f000-0000fa1a7bc3",
-          "message_text": "Sauder: Happy to help, and thank you so much for sharing those details. We strive to offer the best possible options available to our consumers when it comes to purchasing our products. Our intention is not to compete with our retailers on price and service but to simply offer online shopping as a convenience.",
-          "message_type": "agent",
-          "agent": "87589",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-09 13:22:20.424"
-        },
-        {
-          "message_type": "customer",
-          "message_text": "Where else is the dresser sold outside of your website directly?",
-          "date_time": "2026-02-09 13:38:42.162",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c43b6-9495-4757-f000-0000fa1a7bc3",
-          "message_text": "Sauder: I\u0027ll be happy to check this for you. Can you please share the specific item you\u0027re eyeing and your zip code?\n\nAlternatively, you can find us at a store near you here: https://sauder.attn.tv/a5RuS2dRZrbx",
-          "message_type": "agent",
-          "agent": "109955",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-09 13:42:45.043"
-        },
-        {
-          "message_type": "customer",
-          "message_text": "6 Drawer Bedroom Dresser in Pacific Maple - thank you!Zip code: 55414",
-          "date_time": "2026-02-09 13:44:12.053",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c43bb-a24c-40cd-f000-0000fa1a7bc3",
-          "message_text": "Sauder: Thanks for sharing the details! The Sauder 6-Drawer Bedroom Dresser in Pacific Maple is also sold at Walmart and Target near zip code 55414, in addition to our website. Both retailers ship directly to your area. Let me know if there\u0027s anything else I can help you with.",
-          "message_type": "agent",
-          "agent": "109972",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-09 13:48:16.229"
-        }
-      ]
+      "blocklisted_words": [],
+      "has_shopify": false
     },
     "83": {
-      "agentName": "Olivia",
-      "id": "019c4e8f-77fd-41b6-f000-0000f653c908",
-      "rightPanel": {
-        "source": {
-          "label": "Website",
-          "value": "https://shoppe.amberinteriordesign.com",
-          "date": ""
-        }
-      },
-      "companyWebsite": "https://shoppe.amberinteriordesign.com",
-      "companyName": "Shoppe Amber Interiors",
-      "notes": {
-        "send_to_cs": [
-          "Send to CS for order update requests",
-          "Send to CS for damaged products/quality complaints"
-        ],
-        "templates": [
-          "DOn\u0027t use STE temp, their shipping prices depend on the order total"
-        ],
-        "promo_and_exclusions": [
-          "Codes can\u0027t be used on sale, gift boxes, as well as some lighting and furniture pieces"
-        ]
-      },
-      "blocklisted_words": [
-        "couch",
-        "vendor",
-        "goodies"
-      ],
-      "escalation_preferences": [
-        "Product quality questions"
-      ],
+      "id": "019c779e-dfe8-48bc-f000-0000fc559035",
+      "companyName": "The Art of Shaving",
+      "companyWebsite": "https://theartofshaving.com",
+      "agentName": "John",
       "messageTone": "Polished",
       "conversation": [
         {
+          "message_media": [],
+          "message_text": "The Art of Shaving: Reply Y to subscribe to recurring automated personalized marketing alerts (e.g. cart reminders) from The Art of Shaving. Msg and data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel. Privacy: https://aos.attn.tv/cl/vHm",
           "message_type": "system",
-          "message_text": "Shoppe Amber Interiors: Welcome to Shoppe Amber Interiors! Msg \u0026 data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
-          "date_time": "2026-01-27 22:59:25.654",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-18 17:43:19.632"
         },
         {
+          "message_media": [],
+          "message_text": "The Art of Shaving: Welcome! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
           "message_type": "system",
-          "message_text": "Shoppe Amber Interiors: Hey, this is Olivia, your personal concierge! Feel free to text me with any questions. Enjoy 10% off with code WL-7VU909X3457 . https://shoppeamberinteriors.attn.tv/ayZ6VgAWmB52 ",
-          "date_time": "2026-01-27 22:59:29.549",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-18 17:43:57.243"
         },
         {
+          "message_media": [],
+          "message_text": "The Art of Shaving: Welcome to the ultimate grooming experience! Use code I5R8Z1E7 for 50% off Perfect Shave Sampler. Shop Now: ",
           "message_type": "system",
-          "message_text": "Shoppe Amber Interiors: Let\u0027s make it official. Save us in your contacts to stay in the know about all things Shoppe!",
-          "date_time": "2026-01-27 22:59:30.869",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-18 17:44:00.253"
         },
         {
+          "message_media": [],
+          "message_text": "The Art of Shaving: Don't forget to save our contact for exclusive deals and updates!",
           "message_type": "system",
-          "message_text": "Shoppe Amber Interiors: Hey, Olivia here! We noticed you eyeing Harding Cabinet... anything I can help with? Shoppe the collection: shoppeamberinteriors.attn.tv/apIXZPC1MCSK .",
-          "date_time": "2026-01-28 15:07:04.942",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-18 17:44:01.603"
         },
         {
-          "message_type": "system",
-          "message_text": "Shoppe Amber Interiors: Hey , this is Olivia. Thank you so much for shopping our site! \n\nAre you looking for anything in particular today? shoppeamberinteriors.attn.tv/aufxtSby4c11 ",
-          "date_time": "2026-01-28 15:34:11.162",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Shoppe Amber Interiors: Hey, Olivia here! We noticed you eyeing Bari Desk... anything I can help with? Don\u0027t forget to use code WL-7VU909X3457 for 10% off your next purchase shoppeamberinteriors.attn.tv/aMct-HAB7DfR .",
-          "date_time": "2026-01-29 16:07:59.674",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Shoppe Amber Interiors: Ready to elevate your space? Shop our best sellers below: shoppeamberinteriors.attn.tv/aE27kHDaqpiL ",
-          "date_time": "2026-01-31 16:24:40.993",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Shoppe Amber Interiors: Final Reminder: Don\u0027t forget to use WL-7VU909X3457 for 10% off your first purchase: https://shoppeamberinteriors.attn.tv/aqcpvxitFKAZ .",
-          "date_time": "2026-02-01 15:47:14.330",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Shoppe Amber Interiors: Thank you for your purchase! Your order number is 288863. View more information about your order here: https://shoppeamberinteriors.attn.tv/aiplTypLz8L7 .",
-          "date_time": "2026-02-03 19:01:41.382",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Shoppe Amber Interiors: New lighting styles are here! From table lamps to sconces and more, this new collection is designed to complement every corner of your space.\n\nShop new lighting: shoppeamberinteriors.attn.tv/a9UDgoa-PWce ",
-          "date_time": "2026-02-04 18:06:05.331",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Shoppe Amber Interiors: Hey Natalene, this is Olivia. Thank you so much for shopping our site! \n\nWhat room are you shopping for today? shoppeamberinteriors.attn.tv/ad1J3NYCgZu7 ",
-          "date_time": "2026-02-05 16:57:58.027",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Shoppe Amber Interiors: Hey, Olivia here! We noticed you eyeing Bari Desk... anything I can help with? Shoppe the collection: shoppeamberinteriors.attn.tv/aXXK-iVHmqM8 .",
-          "date_time": "2026-02-08 15:58:40.051",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Shoppe Amber Interiors: Hey, Olivia here! We noticed you eyeing Elbert Chandelier... anything I can help with? Shoppe the collection: shoppeamberinteriors.attn.tv/astBPUA7vHx6 .",
-          "date_time": "2026-02-09 14:10:21.234",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Shoppe Amber Interiors: Hey, Olivia here! We noticed you eyeing Olga Pendant - Small... anything I can help with? Shoppe the collection: shoppeamberinteriors.attn.tv/adIi7Ik8XS49 .",
-          "date_time": "2026-02-10 16:59:00.530",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Shoppe Amber Interiors: Hey, Olivia here! We saw you left Emilia Pendant in your cart, anything I can help with today? Come on back and complete your order today: shoppeamberinteriors.attn.tv/aB4gq6DtxTq8 ",
-          "date_time": "2026-02-11 16:05:35.436",
-          "message_media": [
-            
-          ]
-        },
-        {
+          "message_media": [],
+          "message_text": "Help",
           "message_type": "customer",
-          "message_text": "I was looking at the Fayth bar stools but it says there\u0027s only 1 left but I need 4",
-          "date_time": "2026-02-11 16:06:25.510",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-18 17:49:11.300"
         },
         {
-          "message_type": "template",
-          "message_text": "Template used: \"Restock (website \u0026 social)\"; last updated: 2025-10-09 21:41:33.472",
-          "date_time": "2026-02-11 16:15:51.198",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c4e8f-77fd-41b6-f000-0000f653c908",
-          "message_text": "Shoppe Amber Interiors: Thanks for reaching out! Upon checking the Fayth Bar \u0026 Counter Stool, I can see that there is only 1 stock left. I understand that you need 4 of it, but unfortunately, I currently don\u0027t have the exact date of a possible restock, but I recommend checking our website and social media frequently. \n\nPlease let me know how I can assist you further today, I\u0027m just a text away!",
+          "message_media": [],
+          "message_text": "The Art of Shaving: I would be more than happy to help out, ask away! ",
           "message_type": "agent",
-          "agent": "109617",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-11 16:15:51.201"
+          "agent": "82427",
+          "message_id": "019c72f1-ab0e-4c40-f000-0000fc559035",
+          "date_time": "2026-02-18 17:49:26.570"
+        },
+        {
+          "message_media": [],
+          "message_text": "Need functioning PROMO code",
+          "message_type": "customer",
+          "date_time": "2026-02-18 17:50:14.487"
+        },
+        {
+          "message_media": [],
+          "message_text": "The Art of Shaving: You can use code I5R8Z1E7 for 50% off Perfect Shave Sampler here: https://aos.attn.tv/atRHuQApFqTU\n\nLet me know if you have any further questions, I'll be more than happy to help! ",
+          "message_type": "agent",
+          "agent": "82427",
+          "message_id": "019c72f4-cbb6-43a5-f000-0000fc559035",
+          "date_time": "2026-02-18 17:52:51.536"
+        },
+        {
+          "message_media": [],
+          "message_text": "The Art of Shaving: You are already subscribed. Click here to shop now: theartofshaving.com.",
+          "message_type": "system",
+          "date_time": "2026-02-19 15:17:41.315"
+        },
+        {
+          "message_media": [],
+          "message_text": "Promo code doesn't work",
+          "message_type": "customer",
+          "date_time": "2026-02-19 15:19:09.492"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"Why isn't my discount working?\"; last updated: 2022-12-15 23:37:57.558",
+          "message_type": "template",
+          "date_time": "2026-02-19 15:37:06.694"
+        },
+        {
+          "message_media": [],
+          "message_text": "The Art of Shaving: Do you have the replenishment bundle in your cart? If so, those are already set up as promoted items. As such, they're excluded from other promotions so no other codes will work at checkout if the bundle is in your cart. You can remove this item and then use the promo code on other items. Then you can create a new order for the replenishment bundle which will receive a discount.",
+          "message_type": "agent",
+          "agent": "109964",
+          "message_id": "019c779e-dfe8-48bc-f000-0000fc559035",
+          "date_time": "2026-02-19 15:37:06.697"
         }
-      ]
-    },
-    "84": {
-      "agentName": "Taylor",
-      "id": "019c49c1-2cea-404d-f000-00009d28ec08",
+      ],
+      "notes": {
+        "send_to_cs": [
+          "Send to CS if cx wants us to place order for them, use CS shortcut"
+        ],
+        "templates": [
+          "For adverse events or product quality complaints, use PS shortcut"
+        ],
+        "tone": [
+          "Ensure the word \"staging\" isn't in any link you send"
+        ]
+      },
       "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://theartofshaving.com",
+          "date": ""
+        },
         "browsingHistory": [
           {
-            "link": "https://safishing.com/products/united-by-hat",
-            "item": "Fintech United By Outdoors Hat - Dune",
-            "timeAgo": "2026-02-06"
+            "item": "Sandalwood After-Shave Balm & Moisturizer",
+            "link": "https://www.theartofshaving.com/products/oils-balms/sandalwood-after-shave-balm-moisturizer/",
+            "timeAgo": "2026-02-18"
           },
           {
-            "link": "https://safishing.com/products/5-for-20-fleece-neck-gaiters?utm_campaign=1%2F9%2F26%20(Legacy)%205%20Fleece%20$20\u0026utm_medium=sms\u0026tw_source=attentive\u0026tw_campaign=1%2F9%2F26%20(Legacy)%205%20Fleece%20$20\u0026utm_source=attentive\u0026externalId=zCB7C",
-            "item": "5 for $20 Fleece Neck Gaiters",
-            "timeAgo": "2026-01-09"
+            "item": "Bergamot & Neroli Pre-Shave Oil 2 oz",
+            "link": "https://www.theartofshaving.com/products/pre-shave-oils/bergamot-neroli-pre-shave-oil-2-oz-1/?gclsrc=aw.ds&gad_source=1&gad_campaignid=21210179918&gclid=EAIaIQobChMIi_mC6Y3kkgMVnCBECB2h5xbkEAQYAyABEgIO8_D_BwE",
+            "timeAgo": "2026-02-18"
           },
           {
-            "link": "https://safishing.com/products/5-for-20-fleece-neck-gaiters?utm_campaign=1%2F9%2F26%20(Legacy)%205%20Fleece%20$20\u0026utm_medium=sms\u0026tw_source=attentive\u0026tw_campaign=1%2F9%2F26%20(Legacy)%205%20Fleece%20$20\u0026utm_source=attentive\u0026externalId=zCB7C",
-            "item": "5 for $20 Fleece Neck Gaiters",
-            "timeAgo": "2026-01-09"
+            "item": "Bergamot & Neroli After Shave Balm Moisturizer",
+            "link": "https://www.theartofshaving.com/products/oils-balms/bergamot-neroli-after-shave-balm-moisturizer/",
+            "timeAgo": "2026-02-18"
           }
-        ],
-        "source": {
-          "label": "Website",
-          "value": "https://safishing.com",
-          "date": ""
-        }
-      },
-      "companyWebsite": "https://safishing.com",
-      "companyName": "SA Company",
-      "notes": {
-        "send_to_cs": [
-          "Send to CS for post purchase issues, use PPI shortcut"
-        ],
-        "promo_and_exclusions": [
-          "Do not share the Concierge 15% off offer, the code is currently not valid"
         ]
       },
-      "blocklisted_words": [
-        
-      ],
       "escalation_preferences": [
-        
+        "Adverse Events",
+        "Product Quality Complaints"
       ],
+      "blocklisted_words": [],
+      "has_shopify": false
+    },
+    "84": {
+      "id": "019c57ff-0a54-4551-f000-0000fb2696b6",
+      "companyName": "Venus ET Fleur",
+      "companyWebsite": "https://venusetfleur.com",
+      "agentName": "Megan",
       "messageTone": "Polished",
       "conversation": [
         {
+          "message_media": [],
+          "message_text": "Venus et Fleur: Reply Y to subscribe to recurring automated personalized marketing alerts (e.g. cart reminders) from Venus et Fleur.",
           "message_type": "system",
-          "message_text": "Soul of Adventure: Discover our Silicone Rings - Buy 1 and get 4 Free. With over 30+ designs, perfect fit any adventure!\n\nsafishing.attn.tv/ax3DCqE_W_8c ",
-          "date_time": "2026-01-14 11:00:56.636",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-12 22:36:27.051"
         },
         {
+          "message_media": [],
+          "message_text": "Venus et Fleur: Welcome! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
           "message_type": "system",
-          "message_text": "Soul of Adventure: FLASH SALE! 8 Neck Gaiters for just $12. This deal vanishes in 60 minutes.\n\nShop Now:\n safishing.attn.tv/aqv4zHD3GaT- \n",
-          "date_time": "2026-01-16 12:00:54.985",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-12 22:36:43.161"
         },
         {
+          "message_media": [],
+          "message_text": "Venus et Fleur: Welcome to Venus et Fleur! I'm Megan, your personal concierge and we are excited to have you experience our Eternity® Blooms. I've arranged for Complimentary Standard Shipping on your first order with the code JFT2446K. \n\nDiscover our garden of Real Flowers That Last A Year: \nhttps://venusetfleur.attn.tv/akmBpJEdOAMr ",
           "message_type": "system",
-          "message_text": "Soul of Adventure: Gear up with exclusive new arrivals! Check them out here 👉 https://safishing.attn.tv/a_zqzGw7KQaV \n\nReply for a special discount!",
-          "date_time": "2026-01-18 12:19:50.034",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-12 22:36:47.124"
         },
         {
+          "message_media": [],
+          "message_text": "Venus et Fleur: It's not TOO LATE 🌹 Order today for on-time Valentine's Day delivery with OVERNIGHT SHIPPING. Place your order by 4pm EST. \n\nDon't wait, order now: venusetfleur.attn.tv/aadaCoa8sv6B ",
           "message_type": "system",
-          "message_text": "Soul of Adventure: LIGHTING DEAL! Get 8 Neck Gaiters for just $12! This deal vanishes in 60 minutes, so act fast!\n\nShop Now:\n safishing.attn.tv/ajwsjBHlK6bY \n",
-          "date_time": "2026-01-23 12:02:32.760",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-13 09:01:45.902"
         },
         {
+          "message_media": [],
+          "message_text": "Venus et Fleur: Hello ! This is Megan from Venus et Fleur. I noticed a selection of our Eternity® Blooms caught your eye, and I would love to assist you. \n\n🌹 It's almost Valentine's Day and our florals are going quickly, so act fast! ⏰ I've arranged for you to have Complimentary Standard Shipping, delivering AFTER Valentine's Day, with code: ETERNALBLOOM. Here's a link to your cart: venusetfleur.attn.tv/aVbse_h755sX .",
           "message_type": "system",
-          "message_text": "Soul of Adventure: Last chance! Time\u0027s running out on our 8 Neck Gaiters for just $12. Grab yours before it\u0027s gone! \n\nShop Now: safishing.attn.tv/aj1xaZKelnP5",
-          "date_time": "2026-01-24 12:01:13.081",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-13 12:10:10.030"
         },
         {
-          "message_type": "system",
-          "message_text": "Soul of Adventure: CLAIM YOUR DEAL: Buy 1 arm sleeve, get 3 FREE! \n\nHurry:\nsafishing.attn.tv/aQkDwO8wUmUe ",
-          "date_time": "2026-01-25 14:01:56.044",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Soul of Adventure: Lock in 8 Neck Gaiters at $12 before this flash deal ends (60 min left).\n\nShop Now:\nsafishing.attn.tv/ao-pInqwhWiX \n",
-          "date_time": "2026-01-30 13:01:19.298",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Soul of Adventure: Lock in 8 Neck Gaiters at $12 before this flash deal ends (60 min left).\n\nShop Now:\nsafishing.attn.tv/a6Y6_Ygceiop ",
-          "date_time": "2026-01-31 13:05:39.438",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Soul of Adventure: BUY 1, GET 3 FREE! Stock up on arm sleeves today and save big. Simple as that. \n\nShop the deal here:\nsafishing.attn.tv/a3x-y4N_asPM ",
-          "date_time": "2026-02-01 16:01:03.400",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Soul of Adventure: Lighting deal: Fintech Trucker Hat Only $9.99!\n\nHurry Limited Time Offer: \nsafishing.attn.tv/ak73ORr6db0K ",
-          "date_time": "2026-02-06 15:02:13.137",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Soul of Adventure: Hi Randall, it\u0027s Taylor. I\u0027m a personal concierge here to answer your questions or share recommendations. Would you like to see if I can get you a discount code?\n\nhttps://safishing.attn.tv/aWKivFhNwCL- .",
-          "date_time": "2026-02-07 16:26:27.113",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Soul of Adventure: FLASH SALE: Buy 1 Arm Sleeve, Get 3 FREE! (Limited Time Only)\n\nHurry Show Now: \nsafishing.attn.tv/abBc4Qr_VVhl ",
-          "date_time": "2026-02-08 13:01:58.657",
-          "message_media": [
-            
-          ]
-        },
-        {
+          "message_media": [],
+          "message_text": "I need it today or tomorrow",
           "message_type": "customer",
-          "message_text": "I have not received this order yet ?",
-          "date_time": "2026-02-10 17:47:53.728",
-          "message_media": [
-            "https://attentive-files.s3.amazonaws.com/receive-event-media/1770763666142_50ae815d-42a9-410c-a393-4ff51f6f53f6-1.png"
-          ]
+          "date_time": "2026-02-13 12:12:11.099"
         },
         {
+          "message_media": [],
+          "message_text": "Template used: \"Shipping time\"; last updated: 2024-07-09 22:16:45.728",
           "message_type": "template",
-          "message_text": "Template used: \"Check spam - All brands\"; last updated: 2023-10-10 16:43:53.913",
-          "date_time": "2026-02-10 17:52:02.710",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-13 12:14:18.104"
         },
         {
-          "message_type": "template",
-          "message_text": "Template used: \"Order Lookup/Tracking\"; last updated: 2024-03-18 14:45:28.316",
-          "date_time": "2026-02-10 17:52:02.710",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c49c1-2cea-404d-f000-00009d28ec08",
-          "message_text": "Soul of Adventure: Thanks for reaching out, and sorry to hear that! Just to be sure, are you referring to order #288981? If so, it appears that the order is already on its way. Did you receive a tracking info? Please check your spam and promo folders as well, as our emails sometimes end up there. \n\nIn the meantime, you can also use our convenient online tool to see the latest updates on your order: \n\nhttps://safishing.attn.tv/aC2rw5gzu0r5\n\nLet me know if you have any questions!",
+          "message_media": [],
+          "message_text": "Venus et Fleur: Thanks for reaching out! All of our arrangements ship with UPS or FedEx. Certain arrangements are eligible for same-day hand delivery if the order is placed before 2 pm and is being delivered to NJ or NY. You are able to choose a delivery date for all of our arrangements at checkout, and we do offer next day delivery as long as the order is placed before 6 pm EST.",
           "message_type": "agent",
-          "agent": "87310",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-10 17:52:02.713"
+          "agent": "109972",
+          "message_id": "019c57ff-0a54-4551-f000-0000fb2696b6",
+          "date_time": "2026-02-13 12:14:18.107"
         }
-      ]
-    },
-    "85": {
-      "agentName": "Sarah",
-      "id": "019c71bd-d6a6-45b1-f000-00004e26c979",
+      ],
+      "notes": {
+        "escalate": [
+          "ESC if cx wants their account name to be changed",
+          "ESC if cx complains that their order was canceled",
+          "If cx's ask when their order will arrive/estimated delivery date",
+          "➜  Ask what shipping method they selected at checkout",
+          "➜ If it's standard shipping use STS shortcut",
+          "➜ If they insist to know exactly when ESC",
+          "Cx gets a code for free shipping for the first purchase; you can escalate any issues after troubleshooting"
+        ],
+        "tone": [
+          "Don't thank the cx for the purchase, thank them for their continuous support",
+          "Don't ask the customer to contact the courier"
+        ],
+        "drive_to_purchase": [
+          "Don't D2P when the cx already made a purchase"
+        ],
+        "promo_and_promo_exclusions": [
+          "Free shipping code is only valid for standard shipping",
+          "Standard shipping charge is usually ~ $20, if you see a charge higher than that, it means the method selected is NOT standard (create a mock cart to double-check)"
+        ]
+      },
       "rightPanel": {
         "source": {
           "label": "Website",
-          "value": "https://incommonbeauty.com",
+          "value": "https://venusetfleur.com",
           "date": ""
         }
       },
-      "companyWebsite": "https://incommonbeauty.com",
-      "companyName": "In Common Beauty",
-      "notes": {
-        "templates": [
-          "If a customer asks for a recommendation, use HRQ shortcut"
-        ],
-        "promo_and_exclusions": [
-          "🅿 Refer to brand\u0027s site for the most up to date promotional information!"
-        ]
-      },
-      "blocklisted_words": [
-        "guarantee"
-      ],
       "escalation_preferences": [
-        "Shipping questions",
         "Exchanges and returns",
-        "Formula Related"
+        "arrangement damages",
+        "delivery issues",
+        "post-purchase questions",
+        "inventory"
       ],
+      "blocklisted_words": [
+        "preserved",
+        "chemical",
+        "cant"
+      ],
+      "has_shopify": true
+    },
+    "85": {
+      "id": "019c44a0-c47c-4b4f-f000-0000845dbe7a",
+      "companyName": "Gary's Wine & Marketplace",
+      "companyWebsite": "https://garyswine.com",
+      "agentName": "Jordan",
       "messageTone": "Polished",
       "conversation": [
         {
+          "message_media": [],
+          "message_text": "Gary's Wine: One Night Only: The Art of Burgundy\nDine with Frédéric Barnier, Head Winemaker of Louis Jadot. Premier & Grand Cru Burgundy incl. Corton-Charlemagne.\nJan 29 - 6:30pm - Fleur de Sel, Chatham NJ\n$175 all-in - Very Limited - Tickets in Bernardsville & Madison only garyswine.attn.tv/ahUT94F_fFrI ",
           "message_type": "system",
-          "message_text": "IN COMMON: Welcome to IN COMMON! Msg \u0026 data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
-          "date_time": "2026-02-18 11:32:44.949",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-01-16 15:01:18.437"
         },
         {
+          "message_media": [],
+          "message_text": "Gary's Wine: Hey, this is Jordan. Thanks for checking out our site! 😊 https://garyswine.attn.tv/aJrcyPS2hCSd \n\nAny questions I can answer for you? ",
           "message_type": "system",
-          "message_text": "IN COMMON: Hey this is Sarah, how can I help you?",
-          "date_time": "2026-02-18 11:32:48.997",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-01-22 12:14:30.509"
         },
         {
+          "message_media": [],
+          "message_text": "Gary's Wine: Hey, this is Jordan. Thanks for checking out our site! 😊 https://garyswine.attn.tv/a1Dzj1sYX1-y \n\nAny questions I can answer for you? ",
+          "message_type": "system",
+          "date_time": "2026-01-30 12:39:39.582"
+        },
+        {
+          "message_media": [],
+          "message_text": "Gary's Wine: Up to 74% off Over 3,000 Wines!\n\nGary's Inventory Reduction Sale\n\nEvery Palate. Every Price Point. HUGE DEALS\n\nOnly @ Gary's Until February 2nd!\n\nIn-Store + Online! garyswine.attn.tv/avKNeJOrDDeG ",
+          "message_type": "system",
+          "date_time": "2026-01-30 14:01:09.364"
+        },
+        {
+          "message_media": [],
+          "message_text": "Gary's Wine: Sip with a SUPERMODEL! Meet Ashley Graham at Gary's Madison for the first in-store launch of Lucci Lambrusco on Fri, Feb 13 from 5:30-6:30pm. Bubbles, bites & bottle signings - arrive early! garyswine.attn.tv/aIsAi1ON-gwm ",
+          "message_type": "system",
+          "date_time": "2026-02-07 13:05:42.459"
+        },
+        {
+          "message_media": [],
+          "message_text": "Gary's Wine: Hey, this is Jordan. Thanks for checking out our site! 😊 https://garyswine.attn.tv/aV7nqtIaOlye \n\nAny questions I can answer for you? ",
+          "message_type": "system",
+          "date_time": "2026-02-09 17:42:36.865"
+        },
+        {
+          "message_media": [],
+          "message_text": "I think I bought the last bottle Zubtowka at the Bernardsville store. Are there any bottles in your other stores? I would buy 6 bottles. Thanks!",
           "message_type": "customer",
-          "message_text": "Help with order",
-          "date_time": "2026-02-18 11:33:10.077",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-09 17:46:25.508"
         },
         {
-          "message_type": "customer",
-          "message_text": "Order number 98070",
-          "date_time": "2026-02-18 11:33:59.636",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "Helloooo",
-          "date_time": "2026-02-18 11:38:29.923",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "(attn) Hey, I need help with something:",
-          "date_time": "2026-02-18 11:38:43.001",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "Order number 306035",
-          "date_time": "2026-02-18 11:39:20.057",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c719f-cdf4-4683-f000-00004e26c979",
-          "message_text": "IN COMMON: Thank you for reaching out! I\u0027m happy to help with your order. Can you please let me know a bit more about the issue or question regarding Order #306035? That way, I can provide the most accurate assistance for you. ",
+          "message_media": [],
+          "message_text": "Gary's Wine: Thanks for your continuous support! I'd be happy to check on this for you. Could you share your zip code, please?",
           "message_type": "agent",
-          "agent": "87578",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-18 11:40:24.339"
+          "agent": "87310",
+          "message_id": "019c449b-0e29-4a48-f000-0000845dbe7a",
+          "date_time": "2026-02-09 17:52:18.764"
         },
         {
+          "message_media": [],
+          "message_text": "07920",
           "message_type": "customer",
-          "message_text": "I ordered February 3 and still haven\u0027t received and no updates on shipping since February 4",
-          "date_time": "2026-02-18 11:43:29.777",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-09 17:52:45.421"
         },
         {
-          "message_id": "019c71b1-2591-4109-f000-00004e26c979",
-          "message_text": "IN COMMON: Thank you for letting me know, and I\u0027m sorry for the inconvenience! Can you please share your email address so I can check this with my team? ",
-          "message_type": "agent",
-          "agent": "109955",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-18 11:59:20.877"
-        },
-        {
-          "message_type": "customer",
-          "message_text": "Kbliebing@gmail.com",
-          "date_time": "2026-02-18 12:03:50.909",
-          "message_media": [
-            
-          ]
-        },
-        {
+          "message_media": [],
+          "message_text": "Template used: \"Pass to the team - All brands\"; last updated: 2023-10-10 17:46:43.559",
           "message_type": "template",
-          "message_text": "Template used: \"Tracking Info - All brands\"; last updated: 2023-10-10 16:47:28.277",
-          "date_time": "2026-02-18 12:13:12.652",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-09 17:58:32.725"
         },
         {
-          "message_id": "019c71bd-d6a6-45b1-f000-00004e26c979",
-          "message_text": "IN COMMON: Just to clarify, did you receive a confirmation email after placing your order? You\u0027ll get a tracking email as soon as your order ships. If you don\u0027t see it in your inbox, be sure to check your spam and promo folders; sometimes our emails end up there as well.",
+          "message_media": [],
+          "message_text": "Gary's Wine: Thanks for the info! I will pass this along to my team and get back to you as soon as possible, hang tight! ",
           "message_type": "agent",
-          "agent": "109972",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-18 12:13:12.654"
+          "agent": "87310",
+          "message_id": "019c44a0-c47c-4b4f-f000-0000845dbe7a",
+          "date_time": "2026-02-09 17:58:32.726"
         }
-      ]
+      ],
+      "notes": {
+        "escalate": [
+          "ESC post purchase local delivery inquiries immediately",
+          "ESC inventory inquiries",
+          "ESC product recommendations",
+          "ESC NAPA wines campaign responses (when the subscriber replies with the number of bottles they want)"
+        ],
+        "text_to_buy_reply_to_buy_campaign": [
+          "The client sends out a campaign featuring a bottle of wine and asking customers how many they would like to order. When a subscriber replies with a number of bottles:",
+          "➜ Use CPN shortcut",
+          "➜ ESC the convo & include if the cx wants to do pickup or delivery in your ESC notes",
+          "➜ Close the convo after ESC, the client will reply"
+        ],
+        "dos_and_don_ts": [
+          "Shipping zones (agent use only): bit.ly/3qiYcb7",
+          "If customers want us to place a order for them, refer them to chat support on the website",
+          "If a customer asks for a driver's personal information, let them know we can't provide it for privacy reasons"
+        ]
+      },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://garyswine.com",
+          "date": ""
+        },
+        "orders": [
+          {
+            "orderNumber": "6941e28efb4958743856803f",
+            "orderDate": "2025-12-16",
+            "items": [
+              {
+                "name": "Stoli Vodka",
+                "price": 31.99
+              },
+              {
+                "name": "Champagne André Chemin Tradition Blanc de Noirs",
+                "price": 29.97
+              }
+            ],
+            "total": 157.93,
+            "date_time": "2025-12-16 22:52:07.244"
+          },
+          {
+            "orderNumber": "6769f755c0c08b4c0bf20aeb",
+            "orderDate": "2024-12-23",
+            "items": [
+              {
+                "name": "Mount Gay Eclipse Rum",
+                "price": 23.99
+              }
+            ],
+            "total": 52.98,
+            "date_time": "2024-12-23 23:50:50.745"
+          },
+          {
+            "orderNumber": "6769f755c0c08b4c0bf20aeb",
+            "orderDate": "2024-12-23",
+            "items": [
+              {
+                "name": "Sailor Jerry Spiced Rum",
+                "price": 28.99
+              }
+            ],
+            "total": 52.98,
+            "date_time": "2024-12-23 23:50:50.743"
+          },
+          {
+            "orderNumber": "66bd4f249d0d5a47e24aca25",
+            "orderDate": "2024-08-15",
+            "items": [
+              {
+                "name": "Ingrid Groiss Grüner Veltliner Weinviertal Austria",
+                "price": 18.97
+              }
+            ],
+            "total": 42.95,
+            "date_time": "2024-08-15 00:43:23.256"
+          },
+          {
+            "orderNumber": "66bd4f249d0d5a47e24aca25",
+            "orderDate": "2024-08-15",
+            "items": [
+              {
+                "name": "Von Kisel Gruner Veltliner",
+                "price": 12.99
+              }
+            ],
+            "total": 42.95,
+            "date_time": "2024-08-15 00:43:23.242"
+          }
+        ]
+      },
+      "escalation_preferences": [
+        "product recommendations",
+        "inventory",
+        "login issues",
+        "delayed orders"
+      ],
+      "blocklisted_words": [],
+      "has_shopify": false
     }
   }
 }

@@ -3,14 +3,14 @@
   "templates": [
     {
       "name": "Ambassador program / sponsorship",
-      "content": "Thanks for your interest in working with us! I would recommend applying to our influencer program here: https://www.halloweencostumes.com/influencer-program.html\n\nYou can just follow one of these links and our team will reach out if it\u0027s a good fit!",
+      "content": "Thanks for your interest in working with us! I would recommend applying to our influencer program here: https://www.halloweencostumes.com/influencer-program.html\n\nYou can just follow one of these links and our team will reach out if it's a good fit!",
       "id": "68837120-9055-4e2d-bbc6-8e9a4a808426",
       "shortcut": "ams",
       "companyName": "HalloweenCostumes.com"
     },
     {
       "name": "Why is one size more expensive than the other sizes?",
-      "content": "Prices can fluctuate throughout the year depending on the quantity of the item. This is due to production costs, where less popular sizes may end up more expensive at the production level. Unfortunately, we won\u0027t be able to lower the price on that item.",
+      "content": "Prices can fluctuate throughout the year depending on the quantity of the item. This is due to production costs, where less popular sizes may end up more expensive at the production level. Unfortunately, we won't be able to lower the price on that item.",
       "id": "021eb330-c2e8-4277-89aa-110dff3007ea",
       "companyName": "HalloweenCostumes.com"
     },
@@ -22,7 +22,7 @@
     },
     {
       "name": "How do I find my Cart ID?",
-      "content": "You can find your Cart ID on the top left corner of your cart before proceeding to checkout. Let me know if you still can\u0027t find it.",
+      "content": "You can find your Cart ID on the top left corner of your cart before proceeding to checkout. Let me know if you still can't find it.",
       "id": "a87c6501-ca49-4d1a-9970-c15b664cd21d",
       "companyName": "HalloweenCostumes.com"
     },
@@ -34,7 +34,7 @@
     },
     {
       "name": "Customized costumes",
-      "content": "We don\u0027t currently have the option to customize any of our costumes, but keep an eye out on the website for updates on this!",
+      "content": "We don't currently have the option to customize any of our costumes, but keep an eye out on the website for updates on this!",
       "id": "61d13253-0f7a-46e5-ae48-49c847c10f85",
       "companyName": "HalloweenCostumes.com"
     },
@@ -77,7 +77,7 @@
     },
     {
       "name": "Wholesale inquiries",
-      "content": "We don\u0027t currently have any wholesale or B2B options since we\u0027re focused on direct consumer retail, but you\u0027re welcome to make use of our available consumer discounts such as our 15% welcome discount for your first order!",
+      "content": "We don't currently have any wholesale or B2B options since we're focused on direct consumer retail, but you're welcome to make use of our available consumer discounts such as our 15% welcome discount for your first order!",
       "id": "627536f9-728b-480d-bb5a-a26263cc1f49",
       "shortcut": "wls",
       "companyName": "HalloweenCostumes.com"
@@ -91,7 +91,7 @@
     },
     {
       "name": "Free Shipping",
-      "content": "At the moment we do not offer free shipping. Shipping prices vary based on weight/dimensions of the items in your cart, so the best way to determine pricing would be to add the items you\u0027re interested in to a cart and head to the checkout screen!",
+      "content": "At the moment we do not offer free shipping. Shipping prices vary based on weight/dimensions of the items in your cart, so the best way to determine pricing would be to add the items you're interested in to a cart and head to the checkout screen!",
       "id": "d0ee934f-421f-4997-845b-34a40fe56c0a",
       "shortcut": "fs",
       "companyName": "HalloweenCostumes.com"
@@ -112,7 +112,7 @@
     },
     {
       "name": "Cancel / edit order",
-      "content": "I can check if that\u0027s possible. What\u0027s the order number, email address, and the change you\u0027d like to make?",
+      "content": "I can check if that's possible. What's the order number, email address, and the change you'd like to make?",
       "id": "0a1967d8-d5d1-4b42-ad16-5db9ac746b53",
       "shortcut": "ced",
       "companyName": "HalloweenCostumes.com"
@@ -152,7 +152,7 @@
     },
     {
       "name": "Retroactive discount",
-      "content": "If the discount is a military discount, student discount, or any active discount we\u0027re currently offering, we might be able to issue a retroactive refund. Can I have your email address and order number, please?",
+      "content": "If the discount is a military discount, student discount, or any active discount we're currently offering, we might be able to issue a retroactive refund. Can I have your email address and order number, please?",
       "id": "cabe205a-9559-420b-a132-d12b88c61bb1",
       "shortcut": "rdr",
       "companyName": "HalloweenCostumes.com"
@@ -166,7 +166,7 @@
     },
     {
       "name": "Store location / retailer",
-      "content": "We don\u0027t currently have a store but definitely keep an eye out.",
+      "content": "We don't currently have a store but definitely keep an eye out.",
       "id": "e8c0c752-42cc-46a8-b735-69964a1b129c",
       "shortcut": "sl",
       "companyName": "HalloweenCostumes.com"

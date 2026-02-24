@@ -3,7 +3,7 @@
   "templates": [
     {
       "name": "Cancel/edit order",
-      "content": "I can check if that\u0027s possible! Can I have your full name, email, order number, phone number, and your zip code please?",
+      "content": "I can check if that's possible! Can I have your full name, email, order number, phone number, and your zip code please?",
       "id": "da961db1-4a74-44dc-92ef-ef3951f9ca17",
       "shortcut": "ced",
       "companyName": "Sam Edelman"
@@ -22,7 +22,7 @@
     },
     {
       "name": "Retroactive discount request",
-      "content": "I\u0027ll be more than happy to check on this with my team for you! Can I have your full name, email, order number, phone number, zip code, and the discount that you wish to apply?",
+      "content": "I'll be more than happy to check on this with my team for you! Can I have your full name, email, order number, phone number, zip code, and the discount that you wish to apply?",
       "id": "7ee582a8-fa52-4e47-987c-aa67f673e19c",
       "shortcut": "rdr",
       "companyName": "Sam Edelman"
@@ -42,7 +42,7 @@
     },
     {
       "name": "Phone Support",
-      "content": "You can give us a call at (888) 889-9609 (M-F 9am-6pm \u0026 Sat 10am-5pm CT) or let me know if I can help via text, it may be faster.",
+      "content": "You can give us a call at (888) 889-9609 (M-F 9am-6pm & Sat 10am-5pm CT) or let me know if I can help via text, it may be faster.",
       "id": "fa34634f-c4de-4cc1-82fc-e00c77bd6d14",
       "shortcut": "ps",
       "companyName": "Sam Edelman"
@@ -70,7 +70,7 @@
     },
     {
       "name": "Military / First responder / Healthcare / Teacher discount",
-      "content": "Thank you for your service! We don\u0027t have any specific discounts like that but if it helps, you can check out the items we have on sale here: https://www.samedelman.com/sale?icid=TopNav_Sale",
+      "content": "Thank you for your service! We don't have any specific discounts like that but if it helps, you can check out the items we have on sale here: https://www.samedelman.com/sale?icid=TopNav_Sale",
       "id": "92b13a2a-4a7b-42a4-a407-4e365776efe8",
       "shortcut": "ms",
       "companyName": "Sam Edelman"
@@ -91,7 +91,7 @@
     },
     {
       "name": "Sizing",
-      "content": "Happy to help! I recommend checking out our size guide to find the best fit: https://samedelman.attn.tv/sl/v3cJnu6O If you\u0027re still unsure, just let me know!",
+      "content": "Happy to help! I recommend checking out our size guide to find the best fit: https://samedelman.attn.tv/sl/v3cJnu6O If you're still unsure, just let me know!",
       "id": "0f4fb53a-2878-4067-90cc-cbc2795c10f3",
       "shortcut": "sz",
       "companyName": "Sam Edelman"

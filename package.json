@@ -14,7 +14,11 @@
     "test:e2e:assignment": "playwright test tests/e2e/assignment-submit.spec.js",
     "test:e2e:snapshot": "playwright test tests/e2e/snapshot-view.spec.js",
     "test:e2e:ui": "playwright test --ui",
-    "test:e2e:install": "playwright install chromium"
+    "test:e2e:install": "playwright install chromium",
+    "audits:run": "node scripts/run-audits-pipeline.js"
+  },
+  "dependencies": {
+    "snowflake-sdk": "^2.3.0"
   },
   "devDependencies": {
     "@playwright/test": "^1.51.0",

@@ -3,7 +3,7 @@
   "templates": [
     {
       "name": "Can you place the order for me?",
-      "content": "I\u0027m afraid I can\u0027t place orders over text but give us a call at 1-800-493-2212, and my team will be more than happy to help!",
+      "content": "I'm afraid I can't place orders over text but give us a call at 1-800-493-2212, and my team will be more than happy to help!",
       "id": "4d06ba1c-6f75-4005-a064-98f3641e09c3",
       "companyName": "The Art of Shaving"
     },
@@ -27,14 +27,14 @@
       "companyName": "The Art of Shaving"
     },
     {
-      "name": "Why isn\u0027t my code working?",
-      "content": "There are some items that are excluded from all our promotions such as subscriptions, Barber Spa Services, all Gillette Heated Razor products including blades and cases, all Braun products, all Panasonic products, Gifted Groomer Kit, Festive Duo Kit, Gift Cards and Cartridge Blades. If you\u0027re buying one or more of these items, the code won\u0027t work on them.",
+      "name": "Why isn't my code working?",
+      "content": "There are some items that are excluded from all our promotions such as subscriptions, Barber Spa Services, all Gillette Heated Razor products including blades and cases, all Braun products, all Panasonic products, Gifted Groomer Kit, Festive Duo Kit, Gift Cards and Cartridge Blades. If you're buying one or more of these items, the code won't work on them.",
       "id": "52eb9c89-5438-4063-91fb-55ffc7ba6daf",
       "companyName": "The Art of Shaving"
     },
     {
       "name": "When does my Replenishment Service end?",
-      "content": "We\u0027ll keep sending you deliveries until you cancel!",
+      "content": "We'll keep sending you deliveries until you cancel!",
       "id": "6f27f798-f472-44c8-88dd-f47f04166837",
       "companyName": "The Art of Shaving"
     },
@@ -71,19 +71,19 @@
     },
     {
       "name": "Why does my Gift Card not get shipped with the rest of my order?",
-      "content": "Gift Cards are fulfilled by a different center than our other products, but you won\u0027t have to wait long as they\u0027re typically sent within 2-3 business days of the main shipment.",
+      "content": "Gift Cards are fulfilled by a different center than our other products, but you won't have to wait long as they're typically sent within 2-3 business days of the main shipment.",
       "id": "2b1bcd68-3b2f-4e69-8cfd-5b9360725f09",
       "companyName": "The Art of Shaving"
     },
     {
       "name": "How do I join the Replenishment Service?",
-      "content": "Joining is easy! When you\u0027re browsing a product page, just choose the Replenishment option, select your preferred shipment frequency and then check out as usual. If you\u0027re in a retail location, please speak with any one of our shave consultants.",
+      "content": "Joining is easy! When you're browsing a product page, just choose the Replenishment option, select your preferred shipment frequency and then check out as usual. If you're in a retail location, please speak with any one of our shave consultants.",
       "id": "2b5acb28-eb4e-408f-8737-21770308852e",
       "companyName": "The Art of Shaving"
     },
     {
       "name": "Cancel / edit order",
-      "content": "Since our team is so fast at fulfilling orders as soon as they\u0027re placed, we unfortunately can\u0027t make changes or cancellations. Apologies for the inconvenience!",
+      "content": "Since our team is so fast at fulfilling orders as soon as they're placed, we unfortunately can't make changes or cancellations. Apologies for the inconvenience!",
       "id": "15b30147-c1f8-4a5e-8194-4827c9760342",
       "shortcut": "ced",
       "companyName": "The Art of Shaving"
@@ -110,8 +110,8 @@
       "companyName": "The Art of Shaving"
     },
     {
-      "name": "Why isn\u0027t my discount working?",
-      "content": "Do you have the replenishment bundle in your cart? If so, those are already set up as promoted items. As such, they\u0027re excluded from other promotions so no other codes will work at checkout if the bundle is in your cart. You can remove this item and then use the promo code on other items. Then you can create a new order for the replenishment bundle which will receive a discount.",
+      "name": "Why isn't my discount working?",
+      "content": "Do you have the replenishment bundle in your cart? If so, those are already set up as promoted items. As such, they're excluded from other promotions so no other codes will work at checkout if the bundle is in your cart. You can remove this item and then use the promo code on other items. Then you can create a new order for the replenishment bundle which will receive a discount.",
       "id": "e8562c4f-2a6a-443b-b989-18391d6604be",
       "companyName": "The Art of Shaving"
     },
@@ -123,19 +123,19 @@
     },
     {
       "name": "Are there any advantages for joining the Replenishment Service?",
-      "content": "Besides the convience? Yes! We\u0027ll give you free shipping and up to 20% off your Replenishment order when items are shipped together. 1 item saves you 5% off your replenishment order, 2 items 10%, 3 items 15%, and 4 items 20%.  Fusion ProShield Manual Cartridges (8 Count), Fusion ProShield Manual Chill Cartridges (8 Count), Mach3 Turbo (8 Count), GilletteLabs Heated Razor Cartridges (8 count), Gillette SkinGuard (8 count), and Gillette Body Cartridge (4 Count) currently automatically qualify for 20% off.",
+      "content": "Besides the convience? Yes! We'll give you free shipping and up to 20% off your Replenishment order when items are shipped together. 1 item saves you 5% off your replenishment order, 2 items 10%, 3 items 15%, and 4 items 20%.  Fusion ProShield Manual Cartridges (8 Count), Fusion ProShield Manual Chill Cartridges (8 Count), Mach3 Turbo (8 Count), GilletteLabs Heated Razor Cartridges (8 count), Gillette SkinGuard (8 count), and Gillette Body Cartridge (4 Count) currently automatically qualify for 20% off.",
       "id": "19f5c544-c898-4842-83e9-100d1f0dd644",
       "companyName": "The Art of Shaving"
     },
     {
       "name": "Do you have a corporate gifting program?",
-      "content": "Yes! Companies large and small use us for corporate gifting to show appreciation to their employees, celebrate milestones, and build important business relationships.  We\u0027ll work with you to curate gifts within your budget.  Please contact us at 1-800-493-2212 Monday-Friday 9am-6pm EST.",
+      "content": "Yes! Companies large and small use us for corporate gifting to show appreciation to their employees, celebrate milestones, and build important business relationships.  We'll work with you to curate gifts within your budget.  Please contact us at 1-800-493-2212 Monday-Friday 9am-6pm EST.",
       "id": "575343e8-b702-490e-880f-480acdb47147",
       "companyName": "The Art of Shaving"
     },
     {
       "name": "What are your shipping options for military addresses and P.O. boxes?",
-      "content": "For military addresses (APO/FPO/DPO) or P.O. boxes, your order will ship using standard ground shipping.  We can\u0027t ship gift cards or hazardous materials (i.e., aerosols, alcohol-based products).",
+      "content": "For military addresses (APO/FPO/DPO) or P.O. boxes, your order will ship using standard ground shipping.  We can't ship gift cards or hazardous materials (i.e., aerosols, alcohol-based products).",
       "id": "a2ec8ca4-03d1-4999-a95c-36326e0086a3",
       "companyName": "The Art of Shaving"
     },
@@ -147,7 +147,7 @@
     },
     {
       "name": "Why is my Date of Birth required?",
-      "content": "We need to make sure you\u0027re legally allowed to make an online purchase. In most of the US, you need to be 18, in Alabama and Nebraska you need to be 19, and in Mississippi you\u0027ve got to wait until you\u0027re 21 to buy from us - but what a 21st birthday that will be!",
+      "content": "We need to make sure you're legally allowed to make an online purchase. In most of the US, you need to be 18, in Alabama and Nebraska you need to be 19, and in Mississippi you've got to wait until you're 21 to buy from us - but what a 21st birthday that will be!",
       "id": "f9903c9f-b3ee-4736-adae-19fb65be648b",
       "companyName": "The Art of Shaving"
     },
@@ -165,7 +165,7 @@
     },
     {
       "name": "Adverse events or product quality complaints. (esc)",
-      "content": "I\u0027m so sorry to hear this! Can I have your full name and email address, please? You can also call us right away at 1 (800) 493-2212 and our team will be glad to assist!",
+      "content": "I'm so sorry to hear this! Can I have your full name and email address, please? You can also call us right away at 1 (800) 493-2212 and our team will be glad to assist!",
       "id": "f026a6da-1bfd-444e-a016-88b05c43f93e",
       "companyName": "The Art of Shaving"
     },
@@ -177,7 +177,7 @@
     },
     {
       "name": "Why is my credit card authorized for more than the purchase amount?",
-      "content": "Don\u0027t worry! The pending transaction is a pre-authorization, not an actual charge. You will only be charged once the item ships.",
+      "content": "Don't worry! The pending transaction is a pre-authorization, not an actual charge. You will only be charged once the item ships.",
       "id": "aa757c51-9304-4fdb-ae37-f63f99b53893",
       "companyName": "The Art of Shaving"
     },
@@ -211,13 +211,13 @@
     },
     {
       "name": "What do I do if I lost my Gift Card?",
-      "content": "I\u0027m afraid we don\u0027t replace lost or stolen gift cards. Apologies for the inconvenience!",
+      "content": "I'm afraid we don't replace lost or stolen gift cards. Apologies for the inconvenience!",
       "id": "c26c6e00-9657-45b1-983c-4d8333ae0898",
       "companyName": "The Art of Shaving"
     },
     {
       "name": "Restock? (autosend enabled)",
-      "content": "I currently don\u0027t have the exact date of a possible restock, but I recommend checking our website and social media frequently.",
+      "content": "I currently don't have the exact date of a possible restock, but I recommend checking our website and social media frequently.",
       "id": "83b85500-3531-11ed-a261-0242ac120002",
       "shortcut": "stok",
       "companyName": "The Art of Shaving"

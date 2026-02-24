@@ -1,0 +1,238 @@
+{
+  "companyKey": "steve madden",
+  "templates": [
+    {
+      "name": "Do you offer exchanges?",
+      "content": "We do not do exchanges. Our reasoning is simple. Our products are in high demand and if you send back the item you want to exchange, there is no guarantee we will have what you want at that time. Therefore, we suggest you place a new order for the style, color, size you want, and then call customer service at 1-888-SMADDEN to get a return authorization and a prepaid FedEx shipping label to send the item back to us as a return. When you call customer service please have your new order number handy so they can file the return as an exchange and a full refund will be issued once the merchandise is received at our warehouse.",
+      "id": "7f2c1a3c-92f7-451c-951d-cc028dd64796",
+      "companyName": "Steve Madden"
+    },
+    {
+      "name": "Sales Collection",
+      "content": "You can take a look at our sale collection here: https://www.stevemadden.com/pages/deals",
+      "id": "8d0f8ca3-3e6c-416b-aad2-cb0d022e5fa5",
+      "shortcut": "spg",
+      "companyName": "Steve Madden"
+    },
+    {
+      "name": "Can I ship an order to multiple addresses?",
+      "content": "At this time we can only have one shipping address per order. However, you may place multiple orders.",
+      "id": "db8c91f2-6560-4aa2-bfe3-ce34e0ed0b61",
+      "companyName": "Steve Madden"
+    },
+    {
+      "name": "What is the difference between a Pre Order and a Back Order?",
+      "content": "A pre-order is an item sold for the first time on our website. Be among the first to wear these hot new styles! Orders will ship on or about the date mentioned on the product page. A back order is a product which we currently don't have in stock but we are accepting new orders for it and, just like pre-orders, will ship on or about the date mentioned on the product page. Preorders and backorder items are usually charged on the 6th day since the order was placed.",
+      "id": "add4c7ce-2878-48e6-a280-c6c5a3935afb",
+      "companyName": "Steve Madden"
+    },
+    {
+      "name": "Damaged item",
+      "content": "If you receive damaged or defective items, please notify us immediately via email, live chat or call 1-888-SMADDEN (888 762-3336) and we will send you a return label. As soon as the item is sent back a full refund will be issued.\n\nIf you prefer, you may return the item to a Steve Madden store (only stores in the USA excluding Colorado, Utah and Savannah, GA locations). Take the merchandise in its original packaging to the store. Make sure you have the order number or the email confirmation sent after an order is placed.",
+      "id": "84b0d097-43ea-43bc-8b7d-6008b70a8b8a",
+      "shortcut": "dmi",
+      "companyName": "Steve Madden"
+    },
+    {
+      "name": "Do stars/points expire?",
+      "content": "Your stars will expire on a rolling 12 month period. For example: you earned 50 stars on April 1, 2022. Your 50 stars will expire on March 31, 2023.",
+      "id": "8140bf35-2085-489f-b0d9-8187b68d1907",
+      "companyName": "Steve Madden"
+    },
+    {
+      "name": "When will my starts/reward points be added to my account?",
+      "content": "Your stars will be added to your account once your order has shipped. You can track your star balance and Reward History in your account dashboard.",
+      "id": "c546a346-3b9c-4d47-a13c-38d31376a671",
+      "companyName": "Steve Madden"
+    },
+    {
+      "name": "How do I return an item I received as a gift?",
+      "content": "If the item was purchased on SteveMadden.com you may contact our Customer Service department at info@stevemaddendirect.com and they will issue a 'Gift Exchange' return authorization. Once the item is received back, a Promotional Code equal to the amount paid for the merchandise will be emailed to the gift recipient so they may purchase a different item on SteveMadden.com. \n\nThe gift recipient may also return the item to a Steve Madden store (only stores in the USA excluding Colorado, Utah and Savannah, GA locations). Take the merchandise in its original packaging to the store. Make sure you have the order number or the email confirmation sent after an order is placed.",
+      "id": "83644fef-49ea-481b-877a-8fef5b58522a",
+      "companyName": "Steve Madden"
+    },
+    {
+      "name": "Can Store Credits be used on your website?",
+      "content": "I'm afraid Store Credits cannot be used on SteveMadden.com or for phone orders. They may only be redeemed in Steve Madden Stores.",
+      "id": "f5c0b98c-fb57-4c9e-bd5f-d12a41b05595",
+      "companyName": "Steve Madden"
+    },
+    {
+      "name": "What is SM PASS?",
+      "content": "The SM PASS Loyalty Program is a 4-tiered loyalty and rewards program. There is no purchase, payment or credit card required to sign up for, join or participate in the basic Tier One of the Program. Members in the basic Tier One have the option to advance to Tiers Two, Three or Four based upon the accumulation of loyalty \"stars\" which are earned through qualifying purchases and participation in program activities.",
+      "id": "b5ed5552-97ce-4eaf-8afd-728ae626c0ac",
+      "companyName": "Steve Madden"
+    },
+    {
+      "name": "Rewards / referral",
+      "content": "If it helps to know, we have a rewards program where you can earn points to redeem on future purchases. Check it out here - https://www.stevemadden.com/pages/rewards",
+      "id": "05fe79fd-9a78-48e2-bb47-0f2c0dbec0d8",
+      "shortcut": "rwd",
+      "companyName": "Steve Madden"
+    },
+    {
+      "name": "Phone support",
+      "content": "You can give us a call at 1-888-762-3336 (7 days a week, 9am - 10pm ET) or let me know if I can help via text, it may be faster.",
+      "id": "883c821a-3d44-402c-a3ca-bb5ab300da27",
+      "shortcut": "ps",
+      "companyName": "Steve Madden"
+    },
+    {
+      "name": "Customer support",
+      "content": "The best way to handle this is to email us directly at info@stevemaddendirect.com, live chat with one of our agents via the website or give us a call at 1-888-762-3336. Our team is happy to help!",
+      "id": "7afb282f-ede9-44f2-a873-ff83cc0d09ee",
+      "shortcut": "cs",
+      "companyName": "Steve Madden"
+    },
+    {
+      "name": "Do you offer free returns?",
+      "content": "I'm afraid we don't offer free returns. You can check out our detailed return policy here: https://www.stevemadden.com/pages/returnpolicy",
+      "id": "65284717-5c15-4e9f-a414-92d2b4368259",
+      "companyName": "Steve Madden"
+    },
+    {
+      "name": "Sizing",
+      "content": "Happy to help! Would you mind sharing your usual size? I'd also recommend taking a look at our size chart which will guide you toward selecting the right shoe size: https://www.stevemadden.com/pages/shoesizechart",
+      "id": "3fb9ee95-14d7-4afe-a1c7-34990292083d",
+      "shortcut": "sz",
+      "companyName": "Steve Madden"
+    },
+    {
+      "name": "Does your shoe run narrow/wide?",
+      "content": "All our styles are available in standard width B for women and standard width D for men. You can read more about our sizing here: https://www.stevemadden.com/pages/shoesizechart",
+      "id": "55ecfea4-c03b-4b46-b3b3-2da685f752f1",
+      "companyName": "Steve Madden"
+    },
+    {
+      "name": "Military discount",
+      "content": "Thank you for your service! You can get your discount here: https://www.stevemadden.com/pages/military-discount",
+      "id": "96777f2d-33ee-44a7-886c-cf34efc9b7bc",
+      "companyName": "Steve Madden"
+    },
+    {
+      "name": "Teacher / educator discount",
+      "content": "You can get your teacher/educator discount here: https://www.stevemadden.com/pages/teacher-discount",
+      "id": "814d13f2-80b2-4761-9ba8-80bf02c82b95",
+      "companyName": "Steve Madden"
+    },
+    {
+      "name": "Student discount",
+      "content": "You can get your student discount here: https://www.stevemadden.com/pages/student-discount",
+      "id": "bbbf45df-a0d9-4c3d-a731-435e445c52ae",
+      "companyName": "Steve Madden"
+    },
+    {
+      "name": "Order status / tracking?",
+      "content": "Please use this link to track your order: https://help.stevemadden.com/en-US/ssp/login Just login with the email address used when making your purchase.",
+      "id": "4d02c21b-0211-48c3-a1bc-8c6da8ee2a8a",
+      "shortcut": "trck",
+      "companyName": "Steve Madden"
+    },
+    {
+      "name": "Social media",
+      "content": "Give us a follow on IG: https://www.instagram.com/stevemadden and FB here: https://www.facebook.com/SteveMaddenShoes",
+      "id": "f9b22f03-d31e-4f14-b881-2729fbf3b43d",
+      "shortcut": "smd",
+      "companyName": "Steve Madden"
+    },
+    {
+      "name": "Store location / retailer",
+      "content": "You can find us at a store near you here: https://www.stevemadden.com/apps/store-locator",
+      "id": "9283161d-7dc0-47ca-b248-c9ace9e63403",
+      "shortcut": "sl",
+      "companyName": "Steve Madden"
+    },
+    {
+      "name": "Wholesale inquiries",
+      "content": "Thank you for your interest! The best way to discuss wholesale is to email us directly at info@stevemaddendirect.com. Our team is happy to chat.",
+      "id": "21fc51fe-b68b-4fc7-b388-0b9280f51528",
+      "shortcut": "wls",
+      "companyName": "Steve Madden"
+    },
+    {
+      "name": "Brand ambassador / sponsorship",
+      "content": "Thank you for your interest! The best way to discuss this is to email us directly at info@stevemaddendirect.com. Our team is happy to chat.",
+      "id": "dfc6368f-ff52-4df2-aee6-bbf89a0a5a0a",
+      "shortcut": "ams",
+      "companyName": "Steve Madden"
+    },
+    {
+      "name": "Return policy",
+      "content": "You can check out our detailed return policy here: https://www.stevemadden.com/pages/returnpolicy",
+      "id": "08afbce5-e97c-474b-b060-839cec02c6a1",
+      "shortcut": "rp",
+      "companyName": "Steve Madden"
+    },
+    {
+      "name": "Can I return online purchases in your physical stores?",
+      "content": "Yes, we accept online returns at Steve Madden stores (only stores in the USA excluding Colorado, Utah and Savannah, GA locations). We gladly accept returns of unworn merchandise within 30 days of delivery. This excludes clearance items and earrings which may not be returned or exchanged. All handbags and accessories must have original tags attached.\n\nSimply take the merchandise in its original packaging and the packing slip from the shipping carton to the store. You can find a retail store near you here: https://www.stevemadden.com/apps/store-locator",
+      "id": "e7f36187-1a4d-4212-98bb-d1e8ce68dbb5",
+      "companyName": "Steve Madden"
+    },
+    {
+      "name": "Unable to use physical gift card online",
+      "content": "Gift cards may be used at our Steve Madden retail stores (only stores in the USA excluding Colorado, Utah and Savannah, GA locations). \n\nWe just launched our new Digital Gift Cards that can be used only at stevemadden.com. You can learn more at the following link: https://help.stevemadden.com/en-US/articles/digital-gift-cards-25506",
+      "id": "b7caa1e8-2d59-482b-b17a-f5c66e31c2e9",
+      "companyName": "Steve Madden"
+    },
+    {
+      "name": "Looking for a discount / SM Pass Code for 20% off",
+      "content": "Glad you asked! You can receive a 20% off discount code by creating an SM Pass account on our website where you will also have the option to subscribe to our mailing list. Once the information is submitted, you will receive an email with instructions to activate your account.\n \nOnce the account is activated, you will receive an email with a 20% off discount code. Please note that the email with the discount code can take up to an hour to arrive in your inbox!",
+      "id": "30ed9019-1495-43b8-b938-5b8b03b55f04",
+      "shortcut": "ncode",
+      "companyName": "Steve Madden"
+    },
+    {
+      "name": "How do I start a return?",
+      "content": "You can start your return here: https://www.stevemadden.com/pages/returns",
+      "id": "29367a74-7b9c-4e84-80a7-b2cdae950878",
+      "companyName": "Steve Madden"
+    },
+    {
+      "name": "Cleaning/care instructions",
+      "content": "You can take a look at our cleaning and care instructions here: https://www.stevemadden.com/pages/care-cleaning",
+      "id": "3de7dfc0-1418-4903-af1c-97f5dc484237",
+      "companyName": "Steve Madden"
+    },
+    {
+      "name": "Cancel / edit order",
+      "content": "I'm afraid once an order begins processing no changes can be made. But we can cancel and replace the order if you contact us within 20 minutes of placing your order. If that's the case, please contact us immediately via Chat or by calling 888-762-3336.",
+      "id": "8d177c01-66dd-4d87-a82b-1d87a5c35d68",
+      "shortcut": "ced",
+      "companyName": "Steve Madden"
+    },
+    {
+      "name": "Shipping time",
+      "content": "Most orders are shipped within 2 business days after they are placed unless the items are preorder or backorder. We usually ship via FedEx and once shipped, it will take 3-7 business days domestically.",
+      "id": "4bc9a9e5-f140-4b63-8858-7ace31046e76",
+      "shortcut": "shp",
+      "companyName": "Steve Madden"
+    },
+    {
+      "name": "Do you ship to P.O boxes?",
+      "content": "I'm afraid we cannot ship to P.O. Boxes. We ship everything via FedEx and need a street address for delivery.",
+      "id": "3ab62325-2c34-4f30-8583-3cd565c1fda7",
+      "companyName": "Steve Madden"
+    },
+    {
+      "name": "Size Chart: All - Clothes",
+      "content": "You can take a look at our size chart here: https://www.stevemadden.com/pages/shoesizechart",
+      "id": "dcc66082-e884-4d0e-a009-c0a5bd377638",
+      "companyName": "Steve Madden"
+    },
+    {
+      "name": "Discount doesn’t work / Discount won’t apply",
+      "content": "Please note that promotions do not apply to sale items and clearance items unless otherwise stated. Promotions exclude pre-order, back-order, and the following styles included in our Promotion Terms & Conditions: https://help.stevemadden.com/en-US/exclusions-82041",
+      "id": "ebc70b3a-6c14-43b9-a58d-289b575b1b10",
+      "shortcut": "cww",
+      "companyName": "Steve Madden"
+    },
+    {
+      "name": "Free shipping",
+      "content": "Our standard shipping has a flat rate fee of $8.95 for orders shipping within the 48 contiguous United States.\n\nSM Pass Insider accounts receive free standard shipping for overs over $50, while SM Pass VIPs receive free 2 day shipping for orders over $50, and Superstars and Icons receive free 2 day shipping on every order. Free 2 day shipping promotion is only valid for shipping addresses in the United States excluding Alaska, Hawaii, US Virgin Islands, Puerto Rico, Guam, military and air force bases. Please note, this promotion may not be combined with any other offers unless explicitly noted. Here's where you can sign up: https://www.stevemadden.com/pages/rewards",
+      "id": "cfaeb0f5-0771-481f-8a9d-e9b984c0828e",
+      "shortcut": "fs",
+      "companyName": "Steve Madden"
+    }
+  ]
+}

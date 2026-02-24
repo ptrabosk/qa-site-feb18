@@ -9,7 +9,7 @@
     },
     {
       "name": "How do returns, refunds, and partial refunds work if I used ZIP?",
-      "content": "As soon as Zip is notified of the return, you will be refunded the amount you\u0027ve paid to date and Zip cancels all future payments. In the event of a partial refund, scheduled installments are cancelled first, and then paid installments are refunded. Refunds can take 2-3 business days to process, depending on the financial institution.",
+      "content": "As soon as Zip is notified of the return, you will be refunded the amount you've paid to date and Zip cancels all future payments. In the event of a partial refund, scheduled installments are cancelled first, and then paid installments are refunded. Refunds can take 2-3 business days to process, depending on the financial institution.",
       "id": "7255fa4b-d0f4-4288-8cd4-55b20ba52331",
       "companyName": "Naturalizer"
     },
@@ -33,7 +33,7 @@
     },
     {
       "name": "Do you price match a sale? I purchased before the on-going sale, can the discount be refunded?",
-      "content": "I\u0027m really sorry for the inconvenience. We do not provide discounts if offer/deals/sales happen after the day of purchase.",
+      "content": "I'm really sorry for the inconvenience. We do not provide discounts if offer/deals/sales happen after the day of purchase.",
       "id": "6a45f28c-4c1f-4637-b2e5-ddae3d17937c",
       "companyName": "Naturalizer"
     },
@@ -46,7 +46,7 @@
     },
     {
       "name": "Do you offer catalogs?",
-      "content": "No, we don\u0027t. Our site is our online catalog.",
+      "content": "No, we don't. Our site is our online catalog.",
       "id": "7c65a205-c34f-406a-b678-0527ab9863b4",
       "companyName": "Naturalizer"
     },
@@ -91,13 +91,13 @@
     },
     {
       "name": "Do you offer repairs?",
-      "content": "We don\u0027t offer repairs. I\u0027m really sorry for the inconvenience.",
+      "content": "We don't offer repairs. I'm really sorry for the inconvenience.",
       "id": "8d5417a5-c5d2-43a6-85cf-09d45f2d1025",
       "companyName": "Naturalizer"
     },
     {
       "name": "Sizing",
-      "content": "Happy to help! I\u0027d recommend taking a look at our size chart on each product page and the additional information noted in the description for each item. If you\u0027re still unsure, just let me know!",
+      "content": "Happy to help! I'd recommend taking a look at our size chart on each product page and the additional information noted in the description for each item. If you're still unsure, just let me know!",
       "id": "6ad51de2-28b9-4d07-95c5-c5966a54a446",
       "shortcut": "sz",
       "companyName": "Naturalizer"
@@ -129,19 +129,19 @@
     },
     {
       "name": "Are your packages discreet? Is pricing information included?",
-      "content": "The price isn\u0027t included in the package. The return slip only has your itemized list of purchase. Boxes for Naturalizer come inside a brown box, different from other brands from Caleres.",
+      "content": "The price isn't included in the package. The return slip only has your itemized list of purchase. Boxes for Naturalizer come inside a brown box, different from other brands from Caleres.",
       "id": "2729b47b-b584-4725-bb2f-42c90dba450f",
       "companyName": "Naturalizer"
     },
     {
       "name": "Are any of your shoes vegan?",
-      "content": "A portion of the shoes are considered vegan as they\u0027re made from synthetic or fabric uppers but not all our shoes are vegan.",
+      "content": "A portion of the shoes are considered vegan as they're made from synthetic or fabric uppers but not all our shoes are vegan.",
       "id": "cc5db3aa-2464-485a-a3be-fe6ee681ae63",
       "companyName": "Naturalizer"
     },
     {
       "name": "Cancel/edit order",
-      "content": "Unfortunately once you place your order, we can\u0027t cancel or edit it. To get a refund, you\u0027ll need to wait for the item to arrive and then return it easily by going to our Returns page here: https://naturalizer.attn.tv/sl/eSq_G3GM From there, choose the best return method for you.",
+      "content": "Unfortunately once you place your order, we can't cancel or edit it. To get a refund, you'll need to wait for the item to arrive and then return it easily by going to our Returns page here: https://naturalizer.attn.tv/sl/eSq_G3GM From there, choose the best return method for you.",
       "id": "f3b59b11-647a-4dc2-b90c-34b5e51a603a",
       "shortcut": "ced",
       "companyName": "Naturalizer"
@@ -168,14 +168,14 @@
     },
     {
       "name": "Restock? (autosend enabled)",
-      "content": "I currently don\u0027t have the exact date of a possible restock, but I recommend checking our website and social media frequently.",
+      "content": "I currently don't have the exact date of a possible restock, but I recommend checking our website and social media frequently.",
       "id": "83b84272-3531-11ed-a261-0242ac120002",
       "shortcut": "stok",
       "companyName": "Naturalizer"
     },
     {
-      "name": "I\u0027ve already placed an order! Can you apply my discount retroactively?",
-      "content": "I\u0027m afraid we can\u0027t make any changes after the order has been placed, but you can use the code on the next purchase as this one does not expire.",
+      "name": "I've already placed an order! Can you apply my discount retroactively?",
+      "content": "I'm afraid we can't make any changes after the order has been placed, but you can use the code on the next purchase as this one does not expire.",
       "id": "0b43f624-cb46-426d-ba4d-79be0d461363",
       "companyName": "Naturalizer"
     },
@@ -223,7 +223,7 @@
     },
     {
       "name": "Size Chart: Women - Shoes",
-      "content": "You can take a look at our women\u0027s size chart here: https://www.naturalizer.com/shoe-size-chart?icid=Footer_Help_Size%20Chart",
+      "content": "You can take a look at our women's size chart here: https://www.naturalizer.com/shoe-size-chart?icid=Footer_Help_Size%20Chart",
       "id": "b545dbe5-a558-4353-b5e4-a7b3700e37ec",
       "companyName": "Naturalizer"
     },

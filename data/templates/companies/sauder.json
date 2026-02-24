@@ -3,19 +3,19 @@
   "templates": [
     {
       "name": "Will you restock the August Hill side table model# 426137?",
-      "content": "I\u0027m afraid the August Hill side table has been discontinued.",
+      "content": "I'm afraid the August Hill side table has been discontinued.",
       "id": "70079039-a043-4141-b280-01dd3d3f0950",
       "companyName": "Sauder"
     },
     {
       "name": "Do you give student discounts?",
-      "content": "We don\u0027t have any specific discounts like that but if it helps, you can check out the items we have on sale here: https://www.sauder.com/shop/clearance",
+      "content": "We don't have any specific discounts like that but if it helps, you can check out the items we have on sale here: https://www.sauder.com/shop/clearance",
       "id": "8640eff1-2e4a-4a26-80c8-02d028d52da3",
       "companyName": "Sauder"
     },
     {
       "name": "Do you have a catalog?",
-      "content": "I\u0027m afraid catalogs are no longer available. To view our current line of furniture, please visit our full-service website at https://sauder.attn.tv/sl/bxxwS_x5/ which offers detailed product information.",
+      "content": "I'm afraid catalogs are no longer available. To view our current line of furniture, please visit our full-service website at https://sauder.attn.tv/sl/bxxwS_x5/ which offers detailed product information.",
       "id": "725715ba-9717-416c-9aef-6712598fd601",
       "companyName": "Sauder"
     },
@@ -46,7 +46,7 @@
     },
     {
       "name": "Do you ship tp Hawaii or Alaska?",
-      "content": "I\u0027m afraid we currently do not ship to Hawaii and Alaska.",
+      "content": "I'm afraid we currently do not ship to Hawaii and Alaska.",
       "id": "3a2483a0-a05a-4e94-bc75-a2c86cb2f722",
       "companyName": "Sauder"
     },
@@ -70,7 +70,7 @@
       "companyName": "Sauder"
     },
     {
-      "name": "Some of the pieces are wrong/don\u0027t fit right together",
+      "name": "Some of the pieces are wrong/don't fit right together",
       "content": "Please call our customer service team at 800-523-3987 for help with assembly or replacement parts. One of my colleagues will be more than happy to assist you!",
       "id": "11e28931-0b2f-4354-bc0c-f803f9888e36",
       "companyName": "Sauder"
@@ -124,7 +124,7 @@
     },
     {
       "name": "Where are you located?",
-      "content": "We\u0027re located approximately 40 miles west of Toledo in the small Northwestern town of Archbold, Ohio.",
+      "content": "We're located approximately 40 miles west of Toledo in the small Northwestern town of Archbold, Ohio.",
       "id": "36c4b84d-b6d9-487a-b97e-f26681a6dabe",
       "companyName": "Sauder"
     },
@@ -168,20 +168,20 @@
     },
     {
       "name": "Military / First responder / Healthcare / Teacher discount",
-      "content": "Thank you for your service! We don\u0027t have any specific discounts like that but if it helps, you can check out the items we have on sale here: https://www.sauder.com/shop/clearance",
+      "content": "Thank you for your service! We don't have any specific discounts like that but if it helps, you can check out the items we have on sale here: https://www.sauder.com/shop/clearance",
       "id": "fb42c762-7e8c-4319-8190-ecdd96c3e587",
       "shortcut": "ms",
       "companyName": "Sauder"
     },
     {
       "name": "How long does it take to assemble a piece of Sauder furniture?",
-      "content": "Experience and capability can cause assembly times to vary considerably. Some models can be assembled in an hour or two, while others may take several hours. Don\u0027t get us wrong - the assembly process is relatively simple but can be time-consuming. The more experience you have with our furniture, the faster the job will go. Working with someone is also a great way to cut down on your workload.",
+      "content": "Experience and capability can cause assembly times to vary considerably. Some models can be assembled in an hour or two, while others may take several hours. Don't get us wrong - the assembly process is relatively simple but can be time-consuming. The more experience you have with our furniture, the faster the job will go. Working with someone is also a great way to cut down on your workload.",
       "id": "120e3896-58a8-4dfc-91f8-efd30808087e",
       "companyName": "Sauder"
     },
     {
       "name": "Can I add casters to my furniture?",
-      "content": "I\u0027m afraid not. If the unit wasn\u0027t designed with casters, it\u0027s just not safe to add them. It also voids the warranty, so please keep that in mind.",
+      "content": "I'm afraid not. If the unit wasn't designed with casters, it's just not safe to add them. It also voids the warranty, so please keep that in mind.",
       "id": "0ec31163-6345-4d9a-9ccc-3f6715784ad7",
       "companyName": "Sauder"
     },
@@ -200,13 +200,13 @@
     },
     {
       "name": "Where can I get a replacement hardware pack?",
-      "content": "To get a replacement hardware pack, you can give us a call at 1-800-523-3987. Our team\u0027s happy to help!",
+      "content": "To get a replacement hardware pack, you can give us a call at 1-800-523-3987. Our team's happy to help!",
       "id": "2924b82f-38f1-448b-a6b7-e54370037da1",
       "companyName": "Sauder"
     },
     {
       "name": "I need some touch up paint for office furniture I purchased",
-      "content": "We have a marker/pen for touch-up that we can send to you. Please contact our team at 800-523-3987 and they\u0027ll be happy to send it out!",
+      "content": "We have a marker/pen for touch-up that we can send to you. Please contact our team at 800-523-3987 and they'll be happy to send it out!",
       "id": "9a4189d2-46a6-491f-bd0c-b889e970873f",
       "companyName": "Sauder"
     },
@@ -226,7 +226,7 @@
     },
     {
       "name": "Return policy",
-      "content": "If you receive a damaged item, please contact us via this link: https://www.sauder.com/service/email-us and we will arrange for a replacement part! If you\u0027re looking to return, you can check out our detailed return policy here: https://www.sauder.com/service/returns-cancellations",
+      "content": "If you receive a damaged item, please contact us via this link: https://www.sauder.com/service/email-us and we will arrange for a replacement part! If you're looking to return, you can check out our detailed return policy here: https://www.sauder.com/service/returns-cancellations",
       "id": "2b226d18-5810-416d-ad2e-c8bd231c7238",
       "shortcut": "rp",
       "companyName": "Sauder"
@@ -239,7 +239,7 @@
     },
     {
       "name": "What’s your furniture made of?/ Is it solid wood?",
-      "content": "It\u0027s made from an environmentally friendly material called \"engineered wood.\" It\u0027s a combination of high-quality hard wood and soft wood residuals of other lumber processes. These components are bonded together with a synthetic resin and then applied to high heat and pressure. The result is a dense, strong panel that is laminated and cut into pieces.",
+      "content": "It's made from an environmentally friendly material called \"engineered wood.\" It's a combination of high-quality hard wood and soft wood residuals of other lumber processes. These components are bonded together with a synthetic resin and then applied to high heat and pressure. The result is a dense, strong panel that is laminated and cut into pieces.",
       "id": "9e7f73eb-22b9-4031-ac3a-9f591134b52b",
       "companyName": "Sauder"
     },
@@ -258,7 +258,7 @@
     },
     {
       "name": "What do I do if my item arrives damaged? Do I need to return the whole item?",
-      "content": "We offer replacement parts at no charge and there\u0027s no need to return the entire furniture item. You\u0027ll need to call our customer service team at 800-523-3987 and we\u0027ll replace those specific parts at no charge to you.",
+      "content": "We offer replacement parts at no charge and there's no need to return the entire furniture item. You'll need to call our customer service team at 800-523-3987 and we'll replace those specific parts at no charge to you.",
       "id": "5dd9f376-c3b0-46e9-9809-f8d2d108a610",
       "companyName": "Sauder"
     },
@@ -282,14 +282,14 @@
     },
     {
       "name": "Customer confirms they have a pending charge",
-      "content": "If you didn\u0027t receive a confirmation email, your order may not have gone through. The authorization or pending charge you\u0027re seeing will typically fall off within 5 business days. Please note, your card will not be charged until the order has shipped and been invoiced. If the pending charge disappears and you\u0027d still like to place the order, you can try again. Once it processes successfully, you\u0027ll receive a confirmation email.",
+      "content": "If you didn't receive a confirmation email, your order may not have gone through. The authorization or pending charge you're seeing will typically fall off within 5 business days. Please note, your card will not be charged until the order has shipped and been invoiced. If the pending charge disappears and you'd still like to place the order, you can try again. Once it processes successfully, you'll receive a confirmation email.",
       "id": "9929a77c-1c20-401b-aaf5-8f21f382e2cd",
       "shortcut": "cp",
       "companyName": "Sauder"
     },
     {
       "name": "What type of wood is your furniture made from, solid, manufactured?",
-      "content": "Sauder furniture is made from an environmentally friendly material called \u0027engineered wood,\u0027 a combination of high quality hard wood and soft wood materials which are residuals of other lumber processes. These materials are bonded together with a synthetic resin, and then applied to high heat and pressure.",
+      "content": "Sauder furniture is made from an environmentally friendly material called 'engineered wood,' a combination of high quality hard wood and soft wood materials which are residuals of other lumber processes. These materials are bonded together with a synthetic resin, and then applied to high heat and pressure.",
       "id": "dc5f1e4c-4ba0-4aaf-b7bc-27eb0d938d70",
       "companyName": "Sauder"
     },

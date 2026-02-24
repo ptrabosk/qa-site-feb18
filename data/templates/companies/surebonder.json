@@ -3,7 +3,7 @@
   "templates": [
     {
       "name": "Cancel / edit order",
-      "content": "I can check if that\u0027s possible. What\u0027s the order number, email address and the change you\u0027d like to make?",
+      "content": "I can check if that's possible. What's the order number, email address and the change you'd like to make?",
       "id": "94fafa7e-cc10-4e88-add8-046bc4ab9541",
       "shortcut": "ced",
       "companyName": "Surebonder"
@@ -17,7 +17,7 @@
     },
     {
       "name": "Military / First responder / Healthcare / Teacher discount",
-      "content": "Thank you for your service! We don\u0027t have any specific discounts like that but if it helps, you can check out the items we have on sale here: https://surebonder.com/collections/clearance-glue-guns",
+      "content": "Thank you for your service! We don't have any specific discounts like that but if it helps, you can check out the items we have on sale here: https://surebonder.com/collections/clearance-glue-guns",
       "id": "cc40345c-8d92-4992-b705-48e70a1ff037",
       "shortcut": "ms",
       "companyName": "Surebonder"

@@ -21,26 +21,26 @@
     },
     {
       "name": "Can you ship to PO Boxes?",
-      "content": "We currently aren\u0027t able to ship to PO Boxes, but keep an eye out for more improvements there.",
+      "content": "We currently aren't able to ship to PO Boxes, but keep an eye out for more improvements there.",
       "id": "3b0847dd-8324-4c7a-8c59-2490f2ba32d9",
       "companyName": "Elevated Faith"
     },
     {
       "name": "Are your phone cases shock resistant?",
-      "content": "Our Phone Cases aren\u0027t shock resistant.",
+      "content": "Our Phone Cases aren't shock resistant.",
       "id": "85fc1354-334e-4f5c-b0e3-44df7a80b90b",
       "companyName": "Elevated Faith"
     },
     {
       "name": "Store location / retailer",
-      "content": "We don\u0027t currently have a store but definitely keep an eye out.",
+      "content": "We don't currently have a store but definitely keep an eye out.",
       "id": "c1497fd7-c405-4d16-b757-c0b9eefd0320",
       "shortcut": "sl",
       "companyName": "Elevated Faith"
     },
     {
       "name": "What are your rings made of? / Will your rings turn my finger green?",
-      "content": "Our rings are made from stainless steel, so they won\u0027t turn your finger green.",
+      "content": "Our rings are made from stainless steel, so they won't turn your finger green.",
       "id": "18410084-5abd-4249-9edf-0896a459fc7f",
       "companyName": "Elevated Faith"
     },
@@ -59,7 +59,7 @@
     },
     {
       "name": "Prayer request",
-      "content": "Thank you for having the courage to reach out! We take your requests very seriously, and we are here for you. Please fill out the following form to complete your request: https://elevatedfaith.com/pages/prayer-request?utm_campaign=concierge-everywhere\u0026utm_medium=sms\u0026utm_source=attentive\u0026externalId=86lka",
+      "content": "Thank you for having the courage to reach out! We take your requests very seriously, and we are here for you. Please fill out the following form to complete your request: https://elevatedfaith.com/pages/prayer-request?utm_campaign=concierge-everywhere&utm_medium=sms&utm_source=attentive&externalId=86lka",
       "id": "5278b276-243c-4558-8fae-2f771a054671",
       "companyName": "Elevated Faith"
     },
@@ -72,7 +72,7 @@
     },
     {
       "name": "Do you sell through Amazon?",
-      "content": "We don\u0027t sell through Amazon at this time.",
+      "content": "We don't sell through Amazon at this time.",
       "id": "469db767-ec68-46a0-9370-32813eda107e",
       "companyName": "Elevated Faith"
     },
@@ -125,7 +125,7 @@
     },
     {
       "name": "Are your shirts screen printed?",
-      "content": "Our shirts are screen printed unless otherwise noted that they\u0027re printed with puff ink.",
+      "content": "Our shirts are screen printed unless otherwise noted that they're printed with puff ink.",
       "id": "b3b58183-cff7-4eb7-bb17-cca380496cea",
       "companyName": "Elevated Faith"
     },
@@ -137,52 +137,52 @@
     },
     {
       "name": "Ring size",
-      "content": "You can check out this page to help you figure out your ring size - https://elevatedfaith.attn.tv/sl/YLomeLve If you need further assistance, don\u0027t hesitate to let me know.",
+      "content": "You can check out this page to help you figure out your ring size - https://elevatedfaith.attn.tv/sl/YLomeLve If you need further assistance, don't hesitate to let me know.",
       "id": "5f8a7232-19c0-4e09-b874-144651c2d726",
       "companyName": "Elevated Faith"
     },
     {
       "name": "Military discount",
-      "content": "Thank you for your service! We don\u0027t have any specific discounts like that, but our deals will always be shared with our SMS subscribers or on our website, so keep an eye out!",
+      "content": "Thank you for your service! We don't have any specific discounts like that, but our deals will always be shared with our SMS subscribers or on our website, so keep an eye out!",
       "id": "47c09e72-2698-4f59-a1c2-e31bafac242e",
       "shortcut": "ms",
       "companyName": "Elevated Faith"
     },
     {
       "name": "Warranty policy",
-      "content": "All of our bracelets \u0026 accessories have a 30-day warranty, which means we\u0027ll replace the damaged item within 30 days from the time of purchase. To get a replacement, go to returns.elevatedfaith.com and go through the return/exchange process.  Keep in mind, there are 3 exceptions; we can only issue a replacement if you provide a photo of the damaged item, if an item has been altered in any way, we can\u0027t replace it, and we\u0027re unable to replace lost or stolen items.",
+      "content": "All of our bracelets & accessories have a 30-day warranty, which means we'll replace the damaged item within 30 days from the time of purchase. To get a replacement, go to returns.elevatedfaith.com and go through the return/exchange process.  Keep in mind, there are 3 exceptions; we can only issue a replacement if you provide a photo of the damaged item, if an item has been altered in any way, we can't replace it, and we're unable to replace lost or stolen items.",
       "id": "f6eda6a4-4fff-410c-ba48-67cd2124157f",
       "shortcut": "wp",
       "companyName": "Elevated Faith"
     },
     {
-      "name": "What\u0027s the Cause/ Where do profits go",
+      "name": "What's the Cause/ Where do profits go",
       "content": "Every item we sell is a conversation starter that has a unique meaning to help you grow in your faith. We give a portion of every order to Christian charities around the world.",
       "id": "07218f2b-d0b6-48af-83ba-f98701617f5e",
       "companyName": "Elevated Faith"
     },
     {
       "name": "Are phone cases protective / durable?",
-      "content": "You don\u0027t have to worry about that as our cases are durable enough to protect your phone from drops and scratches!",
+      "content": "You don't have to worry about that as our cases are durable enough to protect your phone from drops and scratches!",
       "id": "df2522f4-3950-4053-88d1-92de0bbe141d",
       "companyName": "Elevated Faith"
     },
     {
       "name": "Will a handling fee apply if I choose to exchange my order?",
-      "content": "Exchanges for a different size or store credit don\u0027t incur any handling fees. This fee only applies if you want a refund to your original payment method.",
+      "content": "Exchanges for a different size or store credit don't incur any handling fees. This fee only applies if you want a refund to your original payment method.",
       "id": "30797ba4-ad8d-47e8-b5e2-981fd192fcea",
       "companyName": "Elevated Faith"
     },
     {
       "name": "Wholesale inquiries",
-      "content": "Thank you for your interest! The best way to apply for wholesale is to go here: https://elevatedfaith.com/pages/wholesale?utm_campaign=concierge\u0026utm_medium=sms\u0026utm_source=attentive\u0026externalId=kapRh",
+      "content": "Thank you for your interest! The best way to apply for wholesale is to go here: https://elevatedfaith.com/pages/wholesale?utm_campaign=concierge&utm_medium=sms&utm_source=attentive&externalId=kapRh",
       "id": "49b6e72a-b9ec-4839-8bfa-3377596e26e9",
       "shortcut": "wls",
       "companyName": "Elevated Faith"
     },
     {
       "name": "Phone support",
-      "content": "We don\u0027t offer phone support right now but I\u0027d be happy to help you over text, let me know what I can do for you.",
+      "content": "We don't offer phone support right now but I'd be happy to help you over text, let me know what I can do for you.",
       "id": "50c7d687-641a-4468-820b-8f94489d3e70",
       "shortcut": "ps",
       "companyName": "Elevated Faith"
@@ -196,7 +196,7 @@
     },
     {
       "name": "Sizing",
-      "content": "Happy to help you find the right size! Our clothes generally run true to size. Would you mind sharing your usual size? You can also check out the size chart on the product page of the item you\u0027re interested in.",
+      "content": "Happy to help you find the right size! Our clothes generally run true to size. Would you mind sharing your usual size? You can also check out the size chart on the product page of the item you're interested in.",
       "id": "37206d2f-c3af-4d8a-add7-583fab463fb3",
       "shortcut": "sz",
       "companyName": "Elevated Faith"
@@ -210,7 +210,7 @@
     },
     {
       "name": "Restock? (autosend enabled)",
-      "content": "I currently don\u0027t have the exact date of a possible restock, but I recommend signing up on the product page so you\u0027re notified the second it comes back in!",
+      "content": "I currently don't have the exact date of a possible restock, but I recommend signing up on the product page so you're notified the second it comes back in!",
       "id": "6f25d6e4-2ded-11ed-a261-0242ac120002",
       "shortcut": "stof",
       "companyName": "Elevated Faith"
@@ -224,7 +224,7 @@
     },
     {
       "name": "Rewards / referral",
-      "content": "We have a rewards/referral program where you can earn points to redeem on future purchases. Check it out here - https://elevatedfaith.com/pages/rewards?utm_campaign=concierge\u0026utm_medium=sms\u0026utm_source=attentive\u0026externalId=QW8kn",
+      "content": "We have a rewards/referral program where you can earn points to redeem on future purchases. Check it out here - https://elevatedfaith.com/pages/rewards?utm_campaign=concierge&utm_medium=sms&utm_source=attentive&externalId=QW8kn",
       "id": "1f6c46cb-dacd-462a-95bc-7704b5df0278",
       "shortcut": "rwd",
       "companyName": "Elevated Faith"
@@ -237,7 +237,7 @@
     },
     {
       "name": "Can I return or exchange my mystery item purchase?",
-      "content": "Due to the nature of our mystery items, they are final sale. If the mystery item you received is damaged or defective, feel free to reach out to our team at orders@elevatedfaith.com, and we\u0027ll be happy to help!",
+      "content": "Due to the nature of our mystery items, they are final sale. If the mystery item you received is damaged or defective, feel free to reach out to our team at orders@elevatedfaith.com, and we'll be happy to help!",
       "id": "942f9c8c-2454-4b9f-9d3e-77fb12eafa70",
       "companyName": "Elevated Faith"
     },
@@ -255,13 +255,13 @@
     },
     {
       "name": "Do you provide price adjustments?",
-      "content": "Unfortunately, as a small business, we are not able to maintain adjustments that many large corporate retailers put in place since our margins are now razor thin due to our product \u0026 shipping cost increases and inflation over the last year. We do however appreciate your understanding and support as we continue to support charities around the world in need through your purchase.",
+      "content": "Unfortunately, as a small business, we are not able to maintain adjustments that many large corporate retailers put in place since our margins are now razor thin due to our product & shipping cost increases and inflation over the last year. We do however appreciate your understanding and support as we continue to support charities around the world in need through your purchase.",
       "id": "1d7d6858-21bd-411b-9af7-4be7e9ec7373",
       "companyName": "Elevated Faith"
     },
     {
       "name": "Order Lookup/Tracking",
-      "content": "For help tracking your order, please ensure you\u0027re signed into your Elevated Faith account and use this link:\n\nhttps://elevatedfaith.com/#status-orders\n\nLet me know if you have any questions!",
+      "content": "For help tracking your order, please ensure you're signed into your Elevated Faith account and use this link:\n\nhttps://elevatedfaith.com/#status-orders\n\nLet me know if you have any questions!",
       "id": "ea14dfee-59ac-47ac-b95b-9b83380d5ff2",
       "shortcut": "trck",
       "companyName": "Elevated Faith"

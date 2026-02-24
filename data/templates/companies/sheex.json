@@ -1,0 +1,495 @@
+{
+  "companyKey": "sheex",
+  "templates": [
+    {
+      "name": "Did I win the gift card / SLEEP WEEK?",
+      "content": "Thank you for reaching out! The winners have been contacted through email, please check your email including spam and promo folders to see if you were among the lucky ones! We thank you for your participation.",
+      "id": "a0b120d8-23a0-4410-9673-94bd1d94c16f",
+      "shortcut": "crd",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "How do I redeem my rewards?",
+      "content": "First, make sure that you are logged in to your account: https://www.sheex.com/account/login?return_url=%2Faccount At checkout, you'll see a dropdown with your rewards. Select whichever reward you would like to use, hit the apply button and you will see it deducted from your total. Just a reminder, Dream Team Rewards can be used in increments of $40. Here's a screenshot for reference: https://prnt.sc/mMQviFL2X9ld",
+      "id": "eeb4543a-8dda-4b27-ba57-74ac78558186",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "How long after purchase will I see my rewards in my dashboard?",
+      "content": "Points may take up to 5 business days after payment is processed to show in your account.",
+      "id": "fcae111c-f10f-4343-89dc-a9d9e88b1eac",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "What's the best pillow for both side and back sleepers?",
+      "content": "For sleepers that don't fall into specific categories of stomach/back or side sleepers, the Infinite Zen pillow is an ideal solution: https://www.sheex.com/products/sheex-infinite-zen-performance-pillow?variant=39257603408010",
+      "id": "dc63bda5-00c7-4d1f-955c-65617ac55c85",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "Which methods of payment do you accept?",
+      "content": "We accept payment with Visa, MasterCard, American Express, Discover, Apple Pay, Amazon Pay, Google Pay and PayPal. We also offer installment payments via ShopPay for orders over $150.",
+      "id": "d4109587-552b-4529-be14-cf57ef0fae09",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "Are the renewed sheets same material as your original high performance sheets?",
+      "content": "Yes, both of them have the exact same fabric composition of 87% Performance Polyester and 13% Spandex.",
+      "id": "3e711e7e-00a8-4e2f-81a5-77212d43e06c",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "Do you have bamboo sheets?",
+      "content": "I'm afraid we don't carry bamboo sheets at the moment but I'll definitely pass this on to my team to consider in the future! Our Arctic Aire MAX Channel Coverlet is made from 100% TENCEL Lyocell, a naturally hypoallergenic fiber. It's a great alternative if you love bamboo. You can check it out here: https://sheex.attn.tv/sl/NEpzUpFO",
+      "id": "39de0086-cd4d-4098-822e-b29f0ed74827",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "THANKS25 code errors",
+      "content": "I apologize that coupon is expired and can no longer be applied to the cart as the promotion has ended.",
+      "id": "5fb84787-7132-4b32-acd6-c7b93a23e4f4",
+      "shortcut": "tce",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "Where do you ship from?",
+      "content": "All orders are shipped from our New Jersey warehouse.",
+      "id": "0e21a83d-3af5-42ba-b516-48f344160670",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "Customer doesn't want sheets that stretch",
+      "content": "We recommend you try our woven, Arctic Aire•MAX Collection since it's more like a traditional feeling sheet, but still has incredibly soft cooling properties.",
+      "id": "51ce3be7-be97-43f1-989c-b972b0440ee1",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "Products too expensive",
+      "content": "It's important to invest in your rest and after a decade of research and countless hours of product testing against every bed sheet on the market, we guarantee SHEEX will improve your sleep. If not, you can take advantage of our 60-night risk-free guarantee.\n\nWe also frequently have more affordable options available in our SHEEXOutlet. While this section is non-returnable, it's still the same product our customers know and love!",
+      "id": "47e81936-3286-4cd4-8f8c-e03310d93d50",
+      "shortcut": "pte",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "Are your products pet friendly?",
+      "content": "SHEEX are extremely pet-friendly. We recommend the Original Performance sheets. Our pups love them!",
+      "id": "5291223b-6a3f-4f6a-8ba9-61a51182d6b5",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "Difference between Coverlet and Duvet Cover",
+      "content": "A Duvet Cover goes over a comforter. Kind of a pillowcase for your comforter to keep it clean! Our coverlet is more like a cooling quilt.",
+      "id": "803cad26-b7e7-4aa2-a638-454f32c7052e",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "Difference between the Pillows",
+      "content": "Our side sleeper pillow has a 2\" gusset to properly distribute the fill for a consistent loft across the entire pillow, providing neck support and better spine alignment for side sleepers. The back/stomach pillow does not have the gusset.",
+      "id": "494fc791-87b8-457c-888f-7a3529c197a9",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "Fabrics",
+      "content": "We offer several fabrications of SHEEX:\n\n- Original Performance: 87% Performance Polyester / 13% Spandex\n- Midnight Label: 37% brrr ̊ Nylon/ 37% Nylon / 26% Spandex\n- Arctic Aire MAX: 300 thread count woven sateen made from 100% TENCEL® Lyocell\n- Active Comfort: 88% performance polyester, 12% spandex",
+      "id": "2daadaf0-64ef-49e3-9e9f-f6894195dcb6",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "Customer is looking for color we don't offer",
+      "content": "We currently do not carry that color but thanks for the suggestion! We've passed it along to the product development team. Make sure you're signed up for our Dream Team Rewards Program-they get notified first!",
+      "id": "5b71f12d-fea9-4acd-9f43-619d0b249705",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "Are your sheets stretchy?",
+      "content": "Our Original Performance, Midnight Label and Active Comfort sheet sets all have a decent amount of stretch. Our Arctic Aire•MAX sheets do not stretch but all our sheets are designed with deep pockets & athletic-grade elastic to ensure a snug fit on any bed!",
+      "id": "e810634e-c460-431f-b713-3056ab0507e9",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "How do I wash my sheets?",
+      "content": "Use cold water and choose a regular cycle with no bleach or fabric softener and no fabric dryer sheets. Tumble dry on low, and don't worry about having to iron - SHEEX Original Performance are wrinkle-resistant, wash and dry wonderfully and also hold up well against fading and shrinking.",
+      "id": "93dc543d-7ee8-46f3-a377-e74c4a745093",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "Have ReNEWed SHEEX been used?",
+      "content": "Some of them may have been gently used during their 60-night guarantee window, but they have been meticulously inspected to ensure a top-quality product. Following this rigorous procedure, the sheets and pillowcases are professionally laundered, cleansed, and sanitized using an innovative process that harnesses the power of Ozone Technology to ensure your bedding is refreshed, repackaged like new. I hope this helps!",
+      "id": "7e0fb1f9-17f8-44d8-89ce-412b6afbd83a",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "Outlet store",
+      "content": "Check out our outlet store, SHEEXOutlet.com. Lots of your favorite SHEEX products, for less! But hurry, once these are gone - it's forever!",
+      "id": "6247d777-544b-4abb-bdbf-68deced8fd81",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "Customer doesn't like the products",
+      "content": "We're so sorry to hear you didn't love your SHEEX. We offer a few different types of sheets, so maybe the one you're looking for is still out there! Don't forget, you can take advantage of our 60-night risk-free guarantee.",
+      "id": "49315994-1b12-4f4a-8e4e-e9002465a32f",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "Are they the same at BBB (Bath, Beauty and Beyond)?",
+      "content": "We developed a product line exclusively for Bed Bath & Beyond. Fortunately for everyone, we have incorporated our SLEEP•FIT® Technology into every bedding and sleepwear product we make to ensure you get the restful night's sleep you deserve.",
+      "id": "e294fa1c-74e2-4639-9c80-0670214b9b53",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "I purchased at a retailer, can I return online?",
+      "content": "We're so sorry to hear that you don't love your new SHEEX. Since the sheets were purchased from one of our retailers, they would be the appropriate place to accept the return and refund your purchase. We are confident they will resolve this for you! \n\nIf you have any other questions or concerns, please feel free to contact us at customerservice@sheex.com.",
+      "id": "9729598a-3e1a-454e-8935-6e7494b0e238",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "Midnight Label - Split King/Twin/Twin XL/Full set sizes",
+      "content": "At this time, we don't have plans for a Split King/Twin/Twin XL/Full set in Midnight label. We do, however, offer a full assortment of sizes in our Original Performance Collection: https://www.sheex.com/collections/original-performance",
+      "id": "a03ab123-5c65-48d8-83fb-2f4aa5b1f008",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "Which of your sheets are designed to wick moisture?",
+      "content": "All of our sheets are designed to wick moisture.",
+      "id": "8c4163e0-eb82-455d-b031-fabcb8c8f18e",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "What comes with the Studio Tech?",
+      "content": "Happy to help! The Studio Tech comes with 1 fitted sheet, 1 duvet cover, 2 pillowcases, and 2 shams.",
+      "id": "3c917458-0f6b-4e55-85a1-2b6f5bab2dff",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "Do you have woven sheets?",
+      "content": "All of our sheet sets are knit fabrications except our Arctic Aire MAX which I recommend if you need woven sheets: https://www.sheex.com/products/arctic-aire-max-sheet-set?variant=18028554223687",
+      "id": "cc28dcbd-fc05-419f-a727-a18178f92627",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "Are pillowcases included in my sheet set?",
+      "content": "Twin/Twin-XL sets include one standard pillowcase. Full and Queen sets include two standard pillowcases. King, California King, and Split King sets include two King pillowcases. All sets (with the exception of Split King) also include one fitted sheet (also known as a bottom sheet) and one flat sheet (also known as a top sheet).",
+      "id": "bfa59fc4-06eb-415e-848f-fba7a1565fe8",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "Do you ship to PO Boxes or APO/FPO addresses?",
+      "content": "Unfortunately, we're unable to ship to P.O. Boxes due to current limitations with the US Postal Service. For APO/FPO addresses, please give us a call at (856) 334-3021.",
+      "id": "6c7ae891-6a46-4693-9d30-526397ac50db",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "Sleep Fit Quiz",
+      "content": "To help with your decision today, I suggest taking our Sleep Fit Quiz here: https://sheex.attn.tv/sl/PLTDfyEc to find the perfect cooling, yet cozy, bedding to help you get the restful and restorative night's sleep you deserve!",
+      "id": "04bfa19e-77e6-47d3-9791-7b8fc62d17ae",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "Are your sheets elastic, I have an adjustable/split bed",
+      "content": "Due to our Sleep Fit® Technology, our sheets have stretch that has been tested and proven on all types of mattresses. We have had many customers utilize our sheets on split head and split adjustable base beds and have been very happy! We encourage you to try them as we have a 60-night risk-free guarantee. \n\nCheck out one of our demos here: https://vimeo.com/718025422",
+      "id": "4ead1200-c06c-42ec-bbf0-8d6a7a08588a",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "Pilling issues",
+      "content": "Thanks for letting us know! This definitely should not be happening. If you contact our Customer Care Team at: customerservice@SHEEX.com, we are happy to help you with your issue.",
+      "id": "5f8411da-686b-4426-b95e-68fef2b32f8e",
+      "shortcut": "pls",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "Customer received products with stains",
+      "content": "Would it be possible to send us an email with a photo of the stain at customerservice@sheex.com and in the line for SUBJECT please write Stain Issues and your order number. I am really sorry about this. Our quality control folks are interested to see what you are seeing. Again, my apologies.",
+      "id": "44130113-8204-4ebd-a0b9-e95a8d4b1840",
+      "shortcut": "pws",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "Difference between Arctic Aire Max Sheet Set and Active Comfort Sheet Set",
+      "content": "Our Arctic AireMAX sheet sets are softer than silk and thoughtfully designed with Sheex CoolX technology that wicks away moisture to keep your body cool and comfortable while you sleep. The super-fast moisture transport system and carefully engineered fibers allow you to stay fresh, clean and healthy while you sleep. Our Active Comfort sheet set on the other hand work hard when you're at rest. Performance fibers channel moisture and heat away from your body and maintain ideal body temperature for quality sleep. It's 2x-3x better than traditional cotton to facilitate faster evaporation, making sure you don't wake up damp or sweaty.",
+      "id": "850afb67-c4c2-406b-810d-adfea207ef72",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "Summer / lightweight recommendations?",
+      "content": "Our Coverlets make for perfect summer-lightweight blankets.",
+      "id": "ffa0fa95-916a-4bd8-b5a1-54c350724645",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "Will your sheets fit my extra-deep or pillow-top mattress?",
+      "content": "Our sheets are designed with deep pockets and stay-fit corners to ensure your fitted sheet stays in place all night. You can find our size charts here: https://www.sheex.com/pages/size-charts",
+      "id": "7371ca49-ad5f-4528-828f-5de5fcd736be",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "How do I start a return?",
+      "content": "You can start your return here: https://sheex.loopreturns.com/#/",
+      "id": "7a3d666e-07e4-4fe0-bbb8-ffbe5ba93536",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "Social media",
+      "content": "Give us a follow on IG: https://www.instagram.com/SHEEXofficial and FB here: https://www.facebook.com/SHEEX",
+      "id": "ef95047d-240b-4226-82df-054f3c078c37",
+      "shortcut": "smd",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "Cancel / edit order",
+      "content": "I can check if that's possible. What's the order number, email address and the change you'd like to make?",
+      "id": "dcd5f9ee-2e7d-4d06-94bb-5440b540e6f4",
+      "shortcut": "ced",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "Return policy",
+      "content": "You can check out our detailed return policy here: https://www.sheex.com/pages/returns",
+      "id": "ffed62b1-d2fe-46aa-bb04-c53731d9d929",
+      "shortcut": "rp",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "Customer support",
+      "content": "The best way to handle this is to email us directly at customerservice@sheex.com or give us a call at 1 (856) 334-3021. Our team is happy to help!",
+      "id": "24bf3af5-4b53-4e34-bdea-cd90420a6f0b",
+      "shortcut": "cs",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "Store location / retailer",
+      "content": "We don't currently have a store but definitely keep an eye out!",
+      "id": "58e16b78-6e7e-498a-a790-a8aa7942e50a",
+      "shortcut": "sl",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "Price match request",
+      "content": "The best way to handle this is to email our team directly at customerservice@sheex.com.",
+      "id": "054e474d-ee2c-4d7f-89ea-60456daba25c",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "Wholesale inquiries",
+      "content": "Thank you for your interest! The best way to discuss wholesale is to email us directly at wholesale@sheex.com. Our team is happy to chat.",
+      "id": "5d0f10a7-a574-4b3a-8916-01923a5ed2df",
+      "shortcut": "wls",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "Brand ambassador / sponsorship",
+      "content": "Thank you for your interest! The best way to discuss this is to email us directly at customerservice@sheex.com. Our team is happy to chat.",
+      "id": "a734d77c-7fcc-4a92-a632-2e84eca12375",
+      "shortcut": "ams",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "Sizing",
+      "content": "Happy to help! You can consult our size chart to help guide you in choosing the perfect size: https://www.sheex.com/pages/size-charts If you're still unsure, just let me know!",
+      "id": "05b56330-c306-439d-9d02-8b3033627d91",
+      "shortcut": "sz",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "Phone support",
+      "content": "You can give us a call at 1 (856) 334-3021 (Monday-Friday, 8am-6pm EST) or let me know if I can help via text, it may be faster.",
+      "id": "358c7592-69ef-4530-8a8c-ba9550a771ac",
+      "shortcut": "ps",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "Free shipping",
+      "content": "We offer free ground shipping on domestic orders over $150. Maybe you can add something else to reach the minimum?",
+      "id": "f8921d0a-1704-4d51-bcdf-5e486da10898",
+      "shortcut": "fs",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "Military / First responder/ Healthcare/ Teacher discount",
+      "content": "Thank you for your service! We offer discounts through ID.me. Please log in to your ID.me account at checkout to view your discount.",
+      "id": "ed3b7d08-a0c0-4c22-829f-7e0fe615ecee",
+      "shortcut": "ms",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "Shipping time",
+      "content": "Orders placed after 11 am EST will ship the next business day. We usually ship via FedEx and once shipped, it will take 7-10 business days for domestic orders and 4-6 weeks for international orders.",
+      "id": "f2eb553a-55e9-406d-8981-e7ea73f085b6",
+      "shortcut": "shp",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "Can I return a sale item?",
+      "content": "You can return a sale item. Only items marked as final sale are not eligible for return.",
+      "id": "2fb09dc0-2a77-4d62-958c-a16cbb20f775",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "When will I get my 100 birthday points?",
+      "content": "You have to be signed up for a month before receiving the 100 points for your birthday.",
+      "id": "99d36952-cdc0-405e-acbc-86d8f1ffc202",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "Can I use my reward points together with a promo code/sale?",
+      "content": "Your reward points can be used in combination with a site sale (where no code is needed) but can't be stacked with other promotional codes at checkout.",
+      "id": "6f700f6d-639b-452d-ade5-87d8528a8e42",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "What's the difference between the Original and Midnight Label sheets?",
+      "content": "The SHEEX Original Performance Sheets prevent overheating and disruptive temperature fluctuations when you hit the hay so that you won't wake up covered in night sweats. In fact, they transfer body heat two times more effectively than traditional cotton sheets.\n\nAs for the SHEEX Midnight Label Sheets, these would be perfect if you're an especially hot sleeper as it's here to help you cool down. Developed in collaboration with brrr, the Midnight Label set is the world's coolest bedding, powered by The Triple Chill Effect, which combines a proprietary mixture of cooling minerals, active wicking technology, and quick drying to reduce your skin temperature.",
+      "id": "2395fe71-d8b3-4ea9-9b6c-9c9cb50da1c3",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "Which pillowcase would you recommend that doesn't slide off the pillow?",
+      "content": "We recommend a pillowcase with an envelope closure, like our Arctic Aire MAX Pillowcases. Check it out here: https://www.sheex.com/products/arctic-aire-max-pillowcase",
+      "id": "b21806bf-2792-497a-9c03-5baef2cd0c53",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "Are your sheets wrinkle free?",
+      "content": "All of our sheets are wrinkle-free with the exception of our Arctic Aire MAX sheet sets.",
+      "id": "7442f75a-8c9f-4257-8010-b850baaf3e98",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "What's the difference between the California King and Split King?",
+      "content": "A California King (72 x 84 inches) is four inches narrower (side to side) and four inches longer (head to toe) than a King (76 x 80 inches). Split Kings are composed of two twin mattresses.",
+      "id": "858a838b-b896-4037-92e8-c9225d10bd13",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "Warranty policy",
+      "content": "SHEEX carries a one-year warranty on all of our products. Please contact customerservice@sheex.com and in the Subject line please write WARRANTY ISSUE. In your email, please include your SHEEX order #, email and phone number. You can also take a look at our full warranty policy here: https://www.sheex.com/pages/returns",
+      "id": "3645f5b2-89c4-4713-975a-e56d5d2422bb",
+      "shortcut": "wp",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "Difference between Arctic and Original Performance",
+      "content": "SHEEX Arctic Aire sheets present a 300 thread count woven sateen sheet made from 100% TENCEL Lyocell, feels softer than silk, and has CoolXTM Technology. Our Original Performance sheets fabrication is 87% microfiber polyester, 13% spandex, making it feel more similar to workout clothes. They are both soft and cooling. The Arctic is woven and Original Performance is a knit fabric. If you really like the feel of cotton but are looking for cooling sheets, try the Arctic. If you are open to a new fabric feel, try the Original Performance. I prefer that Original Performance. Hope that helps!",
+      "id": "d52e3427-5e3f-4fbc-bbab-4c8501e770b9",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "Do you carry Polar Max?",
+      "content": "I'm afraid we don't have the Polar Max currently available, but our Active Comfort line is very similar to Polar Max: https://www.sheex.com/products/sheex-active-comfort-sheet-set?variant=39659476484234",
+      "id": "f32cfaef-79b8-4d67-a6d4-f07d539568c9",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "Performance reNEWed Sheet Set",
+      "content": "That is an amazing choice, check it out here: https://sheexoutlet.com/products/sheex-performance-renewed-sheet-set",
+      "id": "9894653a-9f99-4b50-b65c-b221d9660535",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "Do all of your sheets have cooling properties?",
+      "content": "While all of our sheets have cooling properties, our Midnight Label is our coolest sheet set.",
+      "id": "ee053bbc-03c2-40a1-a85c-95e036e1f71f",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "Student discount",
+      "content": "We have a student discount available through ID.me. You can read more about it here - https://www.sheex.com/pages/back-to-school-essentials",
+      "id": "cb841d69-b204-49f1-843a-043648c5b6e1",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "Why is fabric softener in the dryer not good for these sheets?",
+      "content": "These products can be harsh and damaging for technical fabrics. Because SHEEX performance fabrics were developed to be wrinkle-resistant and moisture-wicking, it is best to skip fabric softeners to preserve the products' innate qualities. Softeners can coat the fibers of athletic fabrics like SHEEX, which can fade their moisture-wicking capabilities.",
+      "id": "358bed89-cba2-4e0b-a762-993ac3fc05f1",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "Where are your items made / manufactured?",
+      "content": "Our products are made in China but they're proudly designed in the USA and shipped from our warehouse in Cranbury, New Jersey.",
+      "id": "23ebff8a-91b5-4620-a1af-985e436b359d",
+      "shortcut": "mfc",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "I don't like top sheets! Any alternatives?",
+      "content": "If you're not a fan of top sheets, you should definitely check out our Studio Tech Bedding Set: https://www.sheex.com/collections/cooling-duvet-covers/products/sheex-studio-tech-bedding-set",
+      "id": "2beaeb76-2195-4be7-b2aa-cdbaf25f546b",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "Can I use my discount/reward points on the outlet site?",
+      "content": "I'm afraid that rewards and discount codes can't be used on our outlet site.",
+      "id": "a525cd30-6dc1-4765-beb6-770671455061",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "Do the sheets shrink?",
+      "content": "Like all fabrics, washing could result in shrinkage of the sheet. However, if you follow our care guide, shrinkage will be insignificant.",
+      "id": "f1fab672-2850-4678-9410-238bf753d1d2",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "What is the thread count of your sheets?",
+      "content": "We offer several fabrications of SHEEX. In our performance fabrics, such as Original Performance, Midnight Label and Active Comfort, due to the unique circular-knit microfiber technology, the concept of thread count does not apply as it does with traditional cotton sheets. SHEEX Arctic Aire sheets present a 300 thread count woven sateen sheet made from 100% TENCEL Lyocell, it feels softer than silk and has CoolXTM Technology.",
+      "id": "9fd99ff8-c844-42d5-820a-a9a10f580e5e",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "Restock button (autosend enabled)",
+      "content": "It's difficult to keep our best sellers in stock! You can sign up for back in stock notifications on the product page to be among the first to know when it returns.",
+      "id": "6f25f78c-2ded-11ed-a261-0242ac120002",
+      "shortcut": "stof",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "When do my points expire?",
+      "content": "Points expire after a year from your last purchase.",
+      "id": "15cfe7df-06c6-464a-a41d-0db1b99c62ab",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "Difference between a duvet and comforter",
+      "content": "The difference is that the comforter is the blanket and the duvet is kind of like a pillow case for the comforter to keep it clean and make it even cozier! You can also check out this blog for more details: https://www.sheex.com/community/betweentheSHEEX/duvet-cover-vs-comforter-understanding-the-differences",
+      "id": "71b1700e-cba7-4f6b-871f-4096e3fc2482",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "Do you offer price adjustments?",
+      "content": "The best way to handle this is to email us directly at customerservice@sheex.com. Our team is happy to help!",
+      "id": "106085f7-740f-4f50-9a92-3c64fe9b8ed5",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "I still haven't gotten a confirmation about the Free Sleep Mask promotion!",
+      "content": "Thank you for reaching out regarding our Sleep Mask Giveaway. Response to this offer was overwhelming and we are working hard to distribute these Sleep Masks as quickly as possible. Rest assured that your mask will be on the way soon. We expect to have these delivered across the country in the mail within the next 2-3 weeks. Thanks in advance for your patience.",
+      "id": "ac80f6aa-70ac-4a40-8887-771f3a641b0d",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "Size Chart: All - Clothes",
+      "content": "You can take a look at our size chart here: https://www.sheex.com/pages/size-charts",
+      "id": "100a8b03-82e5-48c5-9b48-ed5801656a52",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "Sales Collection",
+      "content": "You can take a look at our sale collection here: https://www.sheex.com/collections/warehouse-sale",
+      "id": "77f5fbd9-b2e5-4b6d-930a-b311ffc353ac",
+      "shortcut": "spg",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "Order Tracking",
+      "content": "It's easy to check your order status after it has been placed. To track your order, log in to your customer account by clicking here: https://www.sheex.com/#account:a:login",
+      "id": "7bf1c139-5e8a-46c6-8ba7-f7c503aeca06",
+      "companyName": "SHEEX"
+    },
+    {
+      "name": "Rewards / referral",
+      "content": "We're in the process of sunsetting our rewards program, which means customers are no longer able to earn points. The Dream Team Rewards program will officially conclude on October 1, 2025. You can learn more about this here: https://www.sheex.com/pages/dream-team-rewards-join-now",
+      "id": "13b6cfd9-9f41-42a6-a89c-8bcf29fca9df",
+      "shortcut": "rwd",
+      "companyName": "SHEEX"
+    }
+  ]
+}

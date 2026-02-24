@@ -3,19 +3,19 @@
   "templates": [
     {
       "name": "Can I exchange my items?",
-      "content": "If you already know which item you would like to exchange your product for, head to our returns portal to arrange your own exchange. Your new order will be shipped out to you as soon as we have received your order back in our warehouse. Please note that items can be exchanged for another product within 100 days from the date of delivery. If you exceed this timeframe, unfortunately, we won\u0027t be able to offer a refund, store credit, or exchange. You can find more details here: https://ekster.attn.tv/abjH6cAhs07k",
+      "content": "If you already know which item you would like to exchange your product for, head to our returns portal to arrange your own exchange. Your new order will be shipped out to you as soon as we have received your order back in our warehouse. Please note that items can be exchanged for another product within 100 days from the date of delivery. If you exceed this timeframe, unfortunately, we won't be able to offer a refund, store credit, or exchange. You can find more details here: https://ekster.attn.tv/abjH6cAhs07k",
       "id": "bbce9e71-97d4-48c8-8ac9-960231d749b8",
       "companyName": "Ekster"
     },
     {
-      "name": "I didn\u0027t get a return label",
-      "content": "If you didn\u0027t receive a return label after processing a request via our return portal, we are reviewing your return request as it consists of items that require additional attention. You\u0027ll receive an email from us as soon as your return has been reviewed. Please allow 2-3 business days for this. \n\nIf the items you are returning are defective or damaged, please complete a Warranty Claim for instead. Defective items will not be processed for a refund at our warehouse.",
+      "name": "I didn't get a return label",
+      "content": "If you didn't receive a return label after processing a request via our return portal, we are reviewing your return request as it consists of items that require additional attention. You'll receive an email from us as soon as your return has been reviewed. Please allow 2-3 business days for this. \n\nIf the items you are returning are defective or damaged, please complete a Warranty Claim for instead. Defective items will not be processed for a refund at our warehouse.",
       "id": "424ac4cd-e519-43c3-8cb7-3ceca7d325e8",
       "companyName": "Ekster"
     },
     {
       "name": "How to reedem rewards/loyalty points?",
-      "content": "To redeem your Ekster + Loyalty points, please ensure that you are logged in to your account before proceeding to checkout. During the checkout process, you will have the option to select the points you\u0027d like to apply to your order which will apply the discounted value to your total before you pay.",
+      "content": "To redeem your Ekster + Loyalty points, please ensure that you are logged in to your account before proceeding to checkout. During the checkout process, you will have the option to select the points you'd like to apply to your order which will apply the discounted value to your total before you pay.",
       "id": "3d2ba75c-4390-4579-bd3b-19027d177489",
       "companyName": "Ekster"
     },
@@ -33,7 +33,7 @@
     },
     {
       "name": "How do I get the free Cash Clip?",
-      "content": "In order to claim a free cash clip with your order, make sure to add one to your cart before you checkout. Then, as you proceed to the checkout - put your code in the discount field. Keep in mind that the free clip wouldn\u0027t work for the orders which have solely a gift bag, a cash clip already in them, or only the cash clip as the product in the cart.",
+      "content": "In order to claim a free cash clip with your order, make sure to add one to your cart before you checkout. Then, as you proceed to the checkout - put your code in the discount field. Keep in mind that the free clip wouldn't work for the orders which have solely a gift bag, a cash clip already in them, or only the cash clip as the product in the cart.",
       "id": "70578f99-202a-4518-ad0f-9c39889d6fed",
       "companyName": "Ekster"
     },
@@ -60,7 +60,7 @@
     },
     {
       "name": "Store location / retailer",
-      "content": "We don\u0027t currently have a store but definitely keep an eye out!",
+      "content": "We don't currently have a store but definitely keep an eye out!",
       "id": "31d313ca-4333-450c-8da6-6257507a1252",
       "shortcut": "sl",
       "companyName": "Ekster"
@@ -87,7 +87,7 @@
     },
     {
       "name": "Phone support",
-      "content": "We don\u0027t offer phone support right now but I\u0027d be happy to help you over text, let me know what I can do for you!",
+      "content": "We don't offer phone support right now but I'd be happy to help you over text, let me know what I can do for you!",
       "id": "1b1f34de-22d3-4799-befa-547b591dcf26",
       "shortcut": "ps",
       "companyName": "Ekster"
@@ -106,14 +106,14 @@
       "companyName": "Ekster"
     },
     {
-      "name": "What\u0027s the Ekster Tool Card?",
+      "name": "What's the Ekster Tool Card?",
       "content": "The Ekster Tool Card is a wallet tool card that includes 7 unique tools into one compact card. The tool collection includes 5-inch wrenches, a flathead screwdriver, a SIM card pin, a box opener, a bottle opener, a metric ruler, and an inch ruler.",
       "id": "daa00c87-283f-46e8-b3c2-048f4622953c",
       "companyName": "Ekster"
     },
     {
       "name": "Is the Ekster Tool Card TSA-compliant?",
-      "content": "Yes, this tool card is currently considered compatible with TSA guidelines, so you don\u0027t have to worry about bringing it through security (but make sure to double-check based on your specific location).",
+      "content": "Yes, this tool card is currently considered compatible with TSA guidelines, so you don't have to worry about bringing it through security (but make sure to double-check based on your specific location).",
       "id": "27187df3-0086-4244-a99a-e072e38de242",
       "companyName": "Ekster"
     },
@@ -140,7 +140,7 @@
     },
     {
       "name": "Difference between a tracker card, and an AirTag?",
-      "content": "Our Tracker Card is a thin, credit card-shaped tracker with a small square of solar panels that it uses for charging. Our AirTag is a small disc that\u0027s almost the shape and size of the watch battery that powers it. You can read more about it here: https://ekster.attn.tv/sl/q44Z88VG",
+      "content": "Our Tracker Card is a thin, credit card-shaped tracker with a small square of solar panels that it uses for charging. Our AirTag is a small disc that's almost the shape and size of the watch battery that powers it. You can read more about it here: https://ekster.attn.tv/sl/q44Z88VG",
       "id": "bfaf2653-669e-4bcd-bb03-3b5d3f4fb967",
       "companyName": "Ekster"
     },
@@ -189,7 +189,7 @@
     },
     {
       "name": "What is the difference between your wallets?",
-      "content": "The Parliament Wallet: https://ekster.attn.tv/apc2oB9kIa51 is crafted with premium Indian leather. It is our bestseller and can hold up to 12 cards. It has a built-in aluminum cardholder that is RFID-protected so you can fan your cards out at the click of a button.\n\nThe Vachetta collection: https://ekster.attn.tv/aQfTVXvSrgVF is made with Italian leather, and vegetable-tanned according to traditional methods which only a handful of tanneries carry out. Vachetta\u0027s vegetable tanning means the leather becomes darker and shinier as it ages.\n\nThe Fortuna collection: https://ekster.attn.tv/aMDtJery-f0s is made with Cambridge leather, which is low-waxed and slightly shinier. As it ages, the Fortuna will wear with a matte finish, and the leather will become softer with use.\n\nAll of our wallets come with our quick card access mechanism and RFID-blocking technology with the exception of our Modular Bifold wallet.",
+      "content": "The Parliament Wallet: https://ekster.attn.tv/apc2oB9kIa51 is crafted with premium Indian leather. It is our bestseller and can hold up to 12 cards. It has a built-in aluminum cardholder that is RFID-protected so you can fan your cards out at the click of a button.\n\nThe Vachetta collection: https://ekster.attn.tv/aQfTVXvSrgVF is made with Italian leather, and vegetable-tanned according to traditional methods which only a handful of tanneries carry out. Vachetta's vegetable tanning means the leather becomes darker and shinier as it ages.\n\nThe Fortuna collection: https://ekster.attn.tv/aMDtJery-f0s is made with Cambridge leather, which is low-waxed and slightly shinier. As it ages, the Fortuna will wear with a matte finish, and the leather will become softer with use.\n\nAll of our wallets come with our quick card access mechanism and RFID-blocking technology with the exception of our Modular Bifold wallet.",
       "id": "561d3a0a-b1db-413f-a4c2-773545297ba2",
       "companyName": "Ekster"
     },
@@ -225,7 +225,7 @@
     },
     {
       "name": "Can I choose a color for the engraving?",
-      "content": "It\u0027s not possible to choose a colour for engraving. We precision engrave our wallets with a laser, a process where a very thin layer in the aluminium or leather is altered revealing your design. On coloured aluminium this results in white engravings, on silver aluminium and leather the engraving is dark grey.",
+      "content": "It's not possible to choose a colour for engraving. We precision engrave our wallets with a laser, a process where a very thin layer in the aluminium or leather is altered revealing your design. On coloured aluminium this results in white engravings, on silver aluminium and leather the engraving is dark grey.",
       "id": "9d14da5a-63d1-47f5-9006-5544ed00a54a",
       "companyName": "Ekster"
     },

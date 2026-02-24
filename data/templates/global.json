@@ -8,13 +8,13 @@
     },
     {
       "name": "Escalating after business hours - All brands",
-      "content": "Thanks! Let me check on this for you. It\u0027s a little late so it\u0027s likely I won\u0027t hear back by today, though rest assured I\u0027ll reach out once business hours resume.",
+      "content": "Thanks! Let me check on this for you. It's a little late so it's likely I won't hear back by today, though rest assured I'll reach out once business hours resume.",
       "id": "55dd7b5e-d171-4a48-ba87-f8743a76ded8",
       "shortcut": "bh"
     },
     {
       "name": "Sorry - All brands",
-      "content": "I\u0027m sorry!",
+      "content": "I'm sorry!",
       "id": "af2ae396-0b76-44fd-80a6-71ef31bb7353",
       "shortcut": "tsr"
     },
@@ -26,7 +26,7 @@
     },
     {
       "name": "Price Matching",
-      "content": "I\u0027ll be happy to check on this with my team! Can you please send me a screenshot or the link of the item you want us to price match?",
+      "content": "I'll be happy to check on this with my team! Can you please send me a screenshot or the link of the item you want us to price match?",
       "id": "968d1a68-7b30-4139-8089-9b9e540cb404",
       "shortcut": "pmc"
     },
@@ -50,55 +50,55 @@
     },
     {
       "name": "Order number and email - All brands",
-      "content": "Can you please send your order number and your email address? I\u0027ll check on this with my team and get back to you as soon as I have more info.",
+      "content": "Can you please send your order number and your email address? I'll check on this with my team and get back to you as soon as I have more info.",
       "id": "cee98549-b6a0-446e-a72c-8d77df6b07a3",
       "shortcut": "onm"
     },
     {
       "name": "Cost of Duty - All brands",
-      "content": "The cost of duty isn\u0027t charged by us, and is specific to your country! I suggest hopping on google and finding a duty calculator, those are pretty accurate.",
+      "content": "The cost of duty isn't charged by us, and is specific to your country! I suggest hopping on google and finding a duty calculator, those are pretty accurate.",
       "id": "36deb120-0a8a-11ec-9a03-0242ac130003",
       "shortcut": "dty"
     },
     {
       "name": "How do I remove items from my cart? - All brands",
-      "content": "To remove an item from your cart, return to our home page, and click on the cart button in the top right corner. You should be able to edit your order from there. Here\u0027s the link to our website {companySiteLink}",
+      "content": "To remove an item from your cart, return to our home page, and click on the cart button in the top right corner. You should be able to edit your order from there. Here's the link to our website {companySiteLink}",
       "id": "36dec2d2-0a8a-11ec-9a03-0242ac130003",
       "shortcut": "rmv"
     },
     {
       "name": "No promotions available - All brands",
-      "content": "I\u0027m sorry, I don\u0027t have any codes available at the moment, but our deals will always be shared with our SMS subscribers or on our website, so keep an eye out! In the meantime, you can check out our sales collection here:",
+      "content": "I'm sorry, I don't have any codes available at the moment, but our deals will always be shared with our SMS subscribers or on our website, so keep an eye out! In the meantime, you can check out our sales collection here:",
       "id": "36decc64-0a8a-11ec-9a03-0242ac130003",
       "shortcut": "ncode"
     },
     {
       "name": "Color is not the same - All brands",
-      "content": "The actual product color may vary from the images shown. Every display has a different color range, and every individual may see these colors differently. In addition, lighting conditions at the time the photo was taken can also affect an image\u0027s color.",
+      "content": "The actual product color may vary from the images shown. Every display has a different color range, and every individual may see these colors differently. In addition, lighting conditions at the time the photo was taken can also affect an image's color.",
       "id": "d06e39cf-f4da-41fe-985d-7bbcc43e8b20",
       "shortcut": "clr"
     },
     {
       "name": "Angry customer - All brands",
-      "content": "I totally understand where you\u0027re coming from and what you\u0027re feeling right now is absolutely valid. I can assure you that our team is doing its best to handle the situation in the best way possible.",
+      "content": "I totally understand where you're coming from and what you're feeling right now is absolutely valid. I can assure you that our team is doing its best to handle the situation in the best way possible.",
       "id": "36dec598-0a8a-11ec-9a03-0242ac130003",
       "shortcut": "agr"
     },
     {
       "name": "Can I use two discounts? - All brands",
-      "content": "You actually won\u0027t be able to use multiple deals at checkout but feel free to use the one that has better value for you.",
+      "content": "You actually won't be able to use multiple deals at checkout but feel free to use the one that has better value for you.",
       "id": "36ded9e8-0a8a-11ec-9a03-0242ac130003",
       "shortcut": "stck"
     },
     {
-      "name": "I haven\u0027t received my order yet - All brands",
+      "name": "I haven't received my order yet - All brands",
       "content": "Let me look into that for you! When did you place your order? You might still be within our production time frame.",
       "id": "36ded718-0a8a-11ec-9a03-0242ac130003",
       "shortcut": "prd"
     },
     {
       "name": "I can get better shipping with Amazon, can you match them? - All brands",
-      "content": "I\u0027m afraid it\u0027s really hard for a small business to compete with Amazon and their free shipping. They get much better rates based on their volume and are a massive company by comparison.",
+      "content": "I'm afraid it's really hard for a small business to compete with Amazon and their free shipping. They get much better rates based on their volume and are a massive company by comparison.",
       "id": "36def8d8-0a8a-11ec-9a03-0242ac130003",
       "shortcut": "az"
     },
@@ -110,7 +110,7 @@
     },
     {
       "name": "Why does the company name show up in your messages? - All brands",
-      "content": "Our texting system includes our brand name so that you always know who\u0027s texting you, even if you haven\u0027t saved the number yet.",
+      "content": "Our texting system includes our brand name so that you always know who's texting you, even if you haven't saved the number yet.",
       "id": "36defc65-0a8a-11ec-9a03-0242ac130003",
       "shortcut": "cnm"
     },
@@ -134,7 +134,7 @@
     },
     {
       "name": "I bought it from Amazon (returns)",
-      "content": "Thanks for letting me know! Since the order was placed through Amazon, you\u0027ll need to contact them directly to begin the return process, they handle all returns on their end.",
+      "content": "Thanks for letting me know! Since the order was placed through Amazon, you'll need to contact them directly to begin the return process, they handle all returns on their end.",
       "id": "a413dee8-39a7-4bc6-b044-986fd595dee3",
       "shortcut": "baz"
     },
@@ -146,19 +146,19 @@
     },
     {
       "name": "Feel free to reach out - All brands",
-      "content": "Feel free to reach out to me if any questions come up, I\u0027ll be more than happy to help out!",
+      "content": "Feel free to reach out to me if any questions come up, I'll be more than happy to help out!",
       "id": "038eb9b7-c998-45f1-8f48-f4f67aae4f8c",
       "shortcut": "ffr"
     },
     {
       "name": "Before the conversation closer 2 - All brands",
-      "content": "You\u0027re welcome! Is there anything else I can help you with?",
+      "content": "You're welcome! Is there anything else I can help you with?",
       "id": "da3ee4d3-1b36-4f7a-878d-321411e1c2e1",
       "shortcut": "yay"
     },
     {
       "name": "How do I exit shop pay/ How do I see your financing options? - All brands",
-      "content": "You will have to exit out of ShopPay where you are, first. Click on the cart icon on our website, fill in your contact information, click on next, select your shipping method, click on next, and then you\u0027ll see the available payment methods. Let me know if that doesn\u0027t work for you!",
+      "content": "You will have to exit out of ShopPay where you are, first. Click on the cart icon on our website, fill in your contact information, click on next, select your shipping method, click on next, and then you'll see the available payment methods. Let me know if that doesn't work for you!",
       "id": "36def81a-0a8a-11ec-9a03-0242ac130003",
       "shortcut": "xsp"
     },
@@ -176,7 +176,7 @@
     },
     {
       "name": "When shipping timeframes do not work out for a customer - All brands",
-      "content": "I\u0027ll definitely appreciate it if you can consider us in the future when we have more time to get you your order though!",
+      "content": "I'll definitely appreciate it if you can consider us in the future when we have more time to get you your order though!",
       "id": "36def702-0a8a-11ec-9a03-0242ac130003",
       "shortcut": "cns"
     },
@@ -187,26 +187,26 @@
       "shortcut": "scr"
     },
     {
-      "name": "Code won\u0027t work - All brands",
-      "content": "Sorry to hear that, I just tested the code and it worked on my end! Make sure you enter it in the promo box at checkout and click apply. Let me know if you\u0027re getting a specific error message.",
+      "name": "Code won't work - All brands",
+      "content": "Sorry to hear that, I just tested the code and it worked on my end! Make sure you enter it in the promo box at checkout and click apply. Let me know if you're getting a specific error message.",
       "id": "36deafc2-0a8a-11ec-9a03-0242ac130003",
       "shortcut": "cww"
     },
     {
       "name": "No response from customer support 2",
-      "content": "So sorry for the delay! We are dealing with an influx of support messages but this does not make your concern any less important. The team is working as hard as possible to address each issue promptly and as soon as I hear back I will message you immediately. I know my apologies won\u0027t help in this situation but rest assured, I understand how frustrating this can be and I\u0027m very sorry I can\u0027t provide you with an immediate solution. I\u0027m thankful for your patience and understanding and as soon as I get word about this, I will contact you!",
+      "content": "So sorry for the delay! We are dealing with an influx of support messages but this does not make your concern any less important. The team is working as hard as possible to address each issue promptly and as soon as I hear back I will message you immediately. I know my apologies won't help in this situation but rest assured, I understand how frustrating this can be and I'm very sorry I can't provide you with an immediate solution. I'm thankful for your patience and understanding and as soon as I get word about this, I will contact you!",
       "id": "e7c48cbe-7e07-4d34-8c5a-604963bd13e4",
       "shortcut": "nrc"
     },
     {
       "name": "Tracking Info - All brands",
-      "content": "You\u0027ll receive tracking info via email as soon as it ships. Please check your spam and promo folders as sometimes our emails end up there.",
+      "content": "You'll receive tracking info via email as soon as it ships. Please check your spam and promo folders as sometimes our emails end up there.",
       "id": "36decd22-0a8a-11ec-9a03-0242ac130003",
       "shortcut": "trck"
     },
     {
       "name": "Customer tells us we are scamming them",
-      "content": "I\u0027m sorry for any inconvenience this has caused. I want to reassure you that our brand is not a scam, and it is never our intention to mislead or cause frustration. We truly appreciate you taking the time to share this feedback with us, and we take concerns like this very seriously. Mind telling me a bit more about what happened? I\u0027d be happy to look into it.",
+      "content": "I'm sorry for any inconvenience this has caused. I want to reassure you that our brand is not a scam, and it is never our intention to mislead or cause frustration. We truly appreciate you taking the time to share this feedback with us, and we take concerns like this very seriously. Mind telling me a bit more about what happened? I'd be happy to look into it.",
       "id": "36dee6ae-0a8a-11ec-9a03-0242ac130003",
       "shortcut": "scm"
     },
@@ -218,7 +218,7 @@
     },
     {
       "name": "My (person/pet) passed away/died - All brands",
-      "content": "On behalf of the team, I\u0027m truly sorry for your loss and wish you and your family my deepest condolences as you grieve through this.",
+      "content": "On behalf of the team, I'm truly sorry for your loss and wish you and your family my deepest condolences as you grieve through this.",
       "id": "36defab8-0a8a-11ec-9a03-0242ac130003",
       "shortcut": "ls"
     },
@@ -236,31 +236,31 @@
     },
     {
       "name": "Are you a concierge/Attentive representative? - All brands",
-      "content": "I\u0027m part of the customer service team, let me know how I can help today, happy to assist you.",
+      "content": "I'm part of the customer service team, let me know how I can help today, happy to assist you.",
       "id": "30baed57-777d-425d-af06-658ad240f996",
       "shortcut": "attr"
     },
     {
       "name": "Send me a link - All brands",
-      "content": "Do you mind sending me a link to that product so I can make sure we\u0027re on the same page?",
+      "content": "Do you mind sending me a link to that product so I can make sure we're on the same page?",
       "id": "36dee3fc-0a8a-11ec-9a03-0242ac130003",
       "shortcut": "sdl"
     },
     {
       "name": "While I wait for the team - All brands",
-      "content": "While waiting for my team\u0027s response, is there anything else I can help you with?",
+      "content": "While waiting for my team's response, is there anything else I can help you with?",
       "id": "8373a879-c674-4d89-8df5-cbd4fe0a8103",
       "shortcut": "wwf"
     },
     {
       "name": "Where do I add the discount? - All brands",
-      "content": "You\u0027ll find the discount box at checkout. If you\u0027re on a desktop you\u0027ll see it at the right side of your screen when you enter your shipping details. If you\u0027re using a phone, you\u0027ll need to enter your info and shipping method, and then expand the \"Order Details\" at the top of the order section in order to reveal the discount code box! Let me know if you can\u0027t find it.",
+      "content": "You'll find the discount box at checkout. If you're on a desktop you'll see it at the right side of your screen when you enter your shipping details. If you're using a phone, you'll need to enter your info and shipping method, and then expand the \"Order Details\" at the top of the order section in order to reveal the discount code box! Let me know if you can't find it.",
       "id": "36debb84-0a8a-11ec-9a03-0242ac130003",
       "shortcut": "db"
     },
     {
       "name": "Too many texts",
-      "content": "I\u0027m truly sorry for the inconvenience. I\u0027m unable to limit the number of texts we send out, as we do our best to keep everyone informed about the latest news and promos. However, if you\u0027d prefer not to receive any more messages from us, just let me know and I\u0027ll be glad to coordinate this for you!",
+      "content": "I'm truly sorry for the inconvenience. I'm unable to limit the number of texts we send out, as we do our best to keep everyone informed about the latest news and promos. However, if you'd prefer not to receive any more messages from us, just let me know and I'll be glad to coordinate this for you!",
       "id": "b743a10f-00db-4bcb-b849-2056408c588c",
       "shortcut": "tmt"
     },
@@ -272,24 +272,24 @@
     },
     {
       "name": "Timeframe - All brands",
-      "content": "This is the only timeframe I can provide and I\u0027m afraid I also can\u0027t guarantee it because of the possibility, however slight, that the courier might run into unforeseen delays in transit.",
+      "content": "This is the only timeframe I can provide and I'm afraid I also can't guarantee it because of the possibility, however slight, that the courier might run into unforeseen delays in transit.",
       "id": "35a6c01c-0b6c-11ec-9a03-0242ac130003",
       "shortcut": "tf"
     },
     {
       "name": "Feedback - All brands",
-      "content": "Thanks for your feedback, I\u0027ll definitely pass it along to my team for it to be considered in the future!",
+      "content": "Thanks for your feedback, I'll definitely pass it along to my team for it to be considered in the future!",
       "id": "1940ef56-8aef-4e19-a90b-e92927364bc2",
       "shortcut": "fdb"
     },
     {
       "name": "Bad reviews - All brands",
-      "content": "I understand the hesitation after seeing a bad review, but I can assure you we watch all reviews closely and do our best to remedy those issues. We\u0027ll work hard to make sure you\u0027re happy with your purchase.",
+      "content": "I understand the hesitation after seeing a bad review, but I can assure you we watch all reviews closely and do our best to remedy those issues. We'll work hard to make sure you're happy with your purchase.",
       "id": "36dede66-0a8a-11ec-9a03-0242ac130003",
       "shortcut": "brev"
     },
     {
-      "name": "Site won\u0027t work - All brands",
+      "name": "Site won't work - All brands",
       "content": "First, I might suggest trying to open the site in an incognito or private window, to rule out any browser cache or extension issues. Let me know how that goes.",
       "id": "36dedc90-0a8a-11ec-9a03-0242ac130003",
       "shortcut": "sww"
@@ -302,13 +302,13 @@
     },
     {
       "name": "Trying to use a gift card - All brands",
-      "content": "If you have a site-specific gift card, you can enter it at checkout in the box that says, \"gift card\" to the right of where you enter your shipping info. If you\u0027re referring to a prepaid card, our site will accept some and reject others, so if you put it into the site, and it rejects it, you won\u0027t be able to use that as your form of payment.",
+      "content": "If you have a site-specific gift card, you can enter it at checkout in the box that says, \"gift card\" to the right of where you enter your shipping info. If you're referring to a prepaid card, our site will accept some and reject others, so if you put it into the site, and it rejects it, you won't be able to use that as your form of payment.",
       "id": "36ded128-0a8a-11ec-9a03-0242ac130003",
       "shortcut": "gc"
     },
     {
       "name": "Which item - All brands",
-      "content": "Can you please tell me which item are you looking at? I\u0027ll be more than happy to check on this for you!",
+      "content": "Can you please tell me which item are you looking at? I'll be more than happy to check on this for you!",
       "id": "6596fb49-6d32-4f3c-a959-293310141fd2",
       "shortcut": "wim"
     },
@@ -337,13 +337,13 @@
     },
     {
       "name": "Feedback 1 - All brands",
-      "content": "Feedback from our customers is really valuable for us and helps us constantly improve! I\u0027ll definitely pass this along to the team to consider in the future and thank you for the feedback!",
+      "content": "Feedback from our customers is really valuable for us and helps us constantly improve! I'll definitely pass this along to the team to consider in the future and thank you for the feedback!",
       "id": "29925c95-cbe2-4968-971b-5bf9678ebdb6",
       "shortcut": "fdo"
     },
     {
       "name": "Customer says NO THANKS, just browsing, not right now etc - All Brands",
-      "content": "No worries! Feel free to reach out if there\u0027s anything I can help with, and in the meantime, check out our best sellers here:",
+      "content": "No worries! Feel free to reach out if there's anything I can help with, and in the meantime, check out our best sellers here:",
       "id": "36dec214-0a8a-11ec-9a03-0242ac130003",
       "shortcut": "nw"
     },
@@ -361,7 +361,7 @@
     },
     {
       "name": "Already purchased 2 - All brands",
-      "content": "That\u0027s great! Thank you for shopping with us and I hope you enjoy your new purchase. Feel free to reach out anytime if you have questions!",
+      "content": "That's great! Thank you for shopping with us and I hope you enjoy your new purchase. Feel free to reach out anytime if you have questions!",
       "id": "36deb652-0a8a-11ec-9a03-0242ac130003",
       "shortcut": "tfpt"
     },
@@ -385,7 +385,7 @@
     },
     {
       "name": "Have a great day! - ALL BRANDS",
-      "content": "You\u0027re welcome! Have a great day and if you have any questions, feel free to shoot me a text.",
+      "content": "You're welcome! Have a great day and if you have any questions, feel free to shoot me a text.",
       "id": "36deb4ea-0a8a-11ec-9a03-0242ac130003",
       "shortcut": "np"
     },
@@ -403,25 +403,25 @@
     },
     {
       "name": "When does the promo end? - All brands",
-      "content": "I don\u0027t have the exact info as to when the specific promo ends but I suggest you take advantage of it as soon as you can so you don\u0027t miss the deal!",
+      "content": "I don't have the exact info as to when the specific promo ends but I suggest you take advantage of it as soon as you can so you don't miss the deal!",
       "id": "36def9fa-0a8a-11ec-9a03-0242ac130003",
       "shortcut": "upp"
     },
     {
       "name": "Customer replies with 2+ numbers/letters for Concierge journeys (PLEASE EDIT PART THAT SAYS NUMBER/LETTER ACCORDINGLY DEPENDING ON THE JOURNEY) - All brands",
-      "content": "Thanks! Our system provides you with personalized exclusive content automatically. And if you don\u0027t mind, please respond with a single NUMBER/LETTER to get sent the details you need!",
+      "content": "Thanks! Our system provides you with personalized exclusive content automatically. And if you don't mind, please respond with a single NUMBER/LETTER to get sent the details you need!",
       "id": "e80a80dd-c610-4a94-9980-f4e411ab29e2",
       "shortcut": "jny"
     },
     {
       "name": "Personal information - All brands",
-      "content": "I\u0027m flattered but I\u0027m afraid that due to strict company policy, I\u0027m unable to give out any personal info, hope you understand! Though I\u0027ll be happy to chat about our products if you need any help.",
+      "content": "I'm flattered but I'm afraid that due to strict company policy, I'm unable to give out any personal info, hope you understand! Though I'll be happy to chat about our products if you need any help.",
       "id": "36dedf92-0a8a-11ec-9a03-0242ac130003",
       "shortcut": "pi"
     },
     {
       "name": "Are you a bot?",
-      "content": "I\u0027m definitely a live person, we don\u0027t rely on bots when it comes to providing excellent service. Let me know if there\u0027s anything I can help you with.",
+      "content": "I'm definitely a live person, we don't rely on bots when it comes to providing excellent service. Let me know if there's anything I can help you with.",
       "id": "7f7dfb41-1a98-4b66-bd7a-59e490e14082",
       "shortcut": "bt"
     },
@@ -439,13 +439,13 @@
     },
     {
       "name": "Provide a discount (Concierge Offer)",
-      "content": "Here\u0027s a code for you to use: {coupon} - Simply follow this link to redeem it: {couponLink} I personally love this collection, it\u0027s definitely worth checking out:",
+      "content": "Here's a code for you to use: {coupon} - Simply follow this link to redeem it: {couponLink} I personally love this collection, it's definitely worth checking out:",
       "id": "b6996cc4-0121-11ec-9a03-0242ac130003",
       "shortcut": "aw"
     },
     {
       "name": "Too many emails - All brands",
-      "content": "I\u0027m truly sorry for the inconvenience! I can\u0027t limit the number of emails we send out because we do what we can to keep everyone looped in about the latest news and promos, though if you prefer not to get any more emails from us, you can simply open any recent one you received, scroll down and hit the \u0027unsubscribe\u0027 button. If you\u0027d also like to have your number removed from our system, please let me know and I\u0027ll be glad to coordinate this for you!",
+      "content": "I'm truly sorry for the inconvenience! I can't limit the number of emails we send out because we do what we can to keep everyone looped in about the latest news and promos, though if you prefer not to get any more emails from us, you can simply open any recent one you received, scroll down and hit the 'unsubscribe' button. If you'd also like to have your number removed from our system, please let me know and I'll be glad to coordinate this for you!",
       "id": "9d6b80ee-e1de-4c39-a009-26afdea62173",
       "shortcut": "tme"
     },
@@ -456,26 +456,26 @@
       "shortcut": "sp"
     },
     {
-      "name": "The Site Won\u0027t take my Card - All brands",
-      "content": "Make sure your billing information zip and the zip on your credit card match. I also suggest trying a different internet browser, as certain ones have issues with ecommerce stores. Is there an error message you\u0027re seeing on your end?",
+      "name": "The Site Won't take my Card - All brands",
+      "content": "Make sure your billing information zip and the zip on your credit card match. I also suggest trying a different internet browser, as certain ones have issues with ecommerce stores. Is there an error message you're seeing on your end?",
       "id": "36deb788-0a8a-11ec-9a03-0242ac130003",
       "shortcut": "mtch"
     },
     {
-      "name": "Customer wasn\u0027t approved for financing - All brands",
-      "content": "My apologies, we use a separate company for financing and not everyone qualifies for it! The terms of financing and approvals are set by our partners and I\u0027m afraid I have no additional information on this on my end. I suggest reaching out to them directly for more details.",
+      "name": "Customer wasn't approved for financing - All brands",
+      "content": "My apologies, we use a separate company for financing and not everyone qualifies for it! The terms of financing and approvals are set by our partners and I'm afraid I have no additional information on this on my end. I suggest reaching out to them directly for more details.",
       "id": "4ccd1460-fde1-4218-99d2-e706bf1780dc",
       "shortcut": "fnn"
     },
     {
       "name": "Discount error 2 - All brands",
-      "content": "Sorry about that! Any specific error you\u0027re getting? Mind sending me a screenshot?",
+      "content": "Sorry about that! Any specific error you're getting? Mind sending me a screenshot?",
       "id": "552d3b1b-a6a7-41df-86f0-25db9d2ed6a6",
       "shortcut": "det"
     },
     {
       "name": "Invalid code for marketing texts - All brands",
-      "content": "Just to be sure, have you already signed up for marketing alerts via text or email before? Because if you have, our system is actually set up to offer the same promotion you were already provided which might be why that discount code isn\u0027t working!",
+      "content": "Just to be sure, have you already signed up for marketing alerts via text or email before? Because if you have, our system is actually set up to offer the same promotion you were already provided which might be why that discount code isn't working!",
       "id": "846ee2bf-3e81-45b2-804e-c6935a746576",
       "shortcut": "mkt"
     },
@@ -487,19 +487,19 @@
     },
     {
       "name": "Overall cost ( you need to add a discount code) - All brands",
-      "content": "I\u0027m sorry about that. If it helps with the overall cost, you can use",
+      "content": "I'm sorry about that. If it helps with the overall cost, you can use",
       "id": "681b0bf4-b482-4a96-a08d-6925fbcb8f9e",
       "shortcut": "ovc"
     },
     {
-      "name": "What should I do if my package says delivered but I don\u0027t have it?",
-      "content": "I\u0027m so sorry about this. If your tracking says the package was delivered but you haven\u0027t received it, I recommend checking around your home and with nearby houses, just in case it was dropped off by mistake. Also, check with anyone you live with, like family, roommates, or a landlord, to see if they accepted it for you. Sometimes packages are also held by property managers, an apartment office, or even your local post office. Let me know if you can\u0027t find it, I\u0027m here to help!",
+      "name": "What should I do if my package says delivered but I don't have it?",
+      "content": "I'm so sorry about this. If your tracking says the package was delivered but you haven't received it, I recommend checking around your home and with nearby houses, just in case it was dropped off by mistake. Also, check with anyone you live with, like family, roommates, or a landlord, to see if they accepted it for you. Sometimes packages are also held by property managers, an apartment office, or even your local post office. Let me know if you can't find it, I'm here to help!",
       "id": "36defc66-0a8a-11ec-9a03-0242ac130003",
       "shortcut": "stl"
     },
     {
-      "name": "I can\u0027t redeem my points/there\u0027s no option to do it at checkout - All brands",
-      "content": "If you\u0027re using express checkout you won\u0027t be able to redeem your points. You\u0027ll need to click on the cart icon on our website, fill in your contact information, click on next, and at checkout you\u0027ll see the option to redeem your points. Let me know how that goes!",
+      "name": "I can't redeem my points/there's no option to do it at checkout - All brands",
+      "content": "If you're using express checkout you won't be able to redeem your points. You'll need to click on the cart icon on our website, fill in your contact information, click on next, and at checkout you'll see the option to redeem your points. Let me know how that goes!",
       "id": "36deb846-0a8a-11ec-9a03-0242ac130003",
       "shortcut": "crp"
     },
@@ -511,7 +511,7 @@
     },
     {
       "name": "Purchase at your convenient time - All brands",
-      "content": "You can make your purchase at your most convenient time. Let me know if there\u0027s anything else I can assist you with today, happy to help!",
+      "content": "You can make your purchase at your most convenient time. Let me know if there's anything else I can assist you with today, happy to help!",
       "id": "972ec75c-559b-47c8-8551-dd600639840b",
       "shortcut": "cnv"
     },
@@ -523,25 +523,25 @@
     },
     {
       "name": "No expedited shipping - All Brands",
-      "content": "I\u0027m afraid we don\u0027t have any expedited shipping options available at this time, sorry about that!",
+      "content": "I'm afraid we don't have any expedited shipping options available at this time, sorry about that!",
       "id": "35a6bf2c-0b6c-11ec-9a03-0242ac130003",
       "shortcut": "exs"
     },
     {
       "name": "No response from customer support - All brands",
-      "content": "I totally understand the frustration with this! Our team handles emails in the order they come in and sending additional ones will further delay the team\u0027s response. Rest assured that one of my colleagues will follow up with you in no time!",
+      "content": "I totally understand the frustration with this! Our team handles emails in the order they come in and sending additional ones will further delay the team's response. Rest assured that one of my colleagues will follow up with you in no time!",
       "id": "36dee046-0a8a-11ec-9a03-0242ac130003",
       "shortcut": "frust"
     },
     {
-      "name": "I\u0027m feeling suicidal / I want to end my life - All brands",
+      "name": "I'm feeling suicidal / I want to end my life - All brands",
       "content": "I totally understand the mounting pressure fighting our personal battles puts us under, and the effect this has in all areas of our lives! I myself have found that talking things out can definitely help and I urge you to call this lifeline right away that provides 24/7, free, and confidential support: 1-800-273-8255",
       "id": "d5732ca3-9ff0-490b-8342-68b087641780",
       "shortcut": "suc"
     },
     {
       "name": "Pre purchase support - All brands",
-      "content": "I\u0027m afraid my system isn\u0027t set up to help you solve this issue - please get in touch with our customer support team, as they\u0027re much more equipped to help you with this.",
+      "content": "I'm afraid my system isn't set up to help you solve this issue - please get in touch with our customer support team, as they're much more equipped to help you with this.",
       "id": "36dee1cc-0a8a-11ec-9a03-0242ac130003",
       "shortcut": "pps"
     },
@@ -552,8 +552,8 @@
       "shortcut": "ppl"
     },
     {
-      "name": "Label created but there\u0027s no movement",
-      "content": "\"Label Created\" means that a shipping label has been generated by us, but the package has not yet been scanned or picked up by the carrier. The package might still be waiting for pickup or may have already been dropped off but not yet scanned. Please give it a few more days, and if there\u0027s still no update, feel free to check back in. I\u0027m happy to help!",
+      "name": "Label created but there's no movement",
+      "content": "\"Label Created\" means that a shipping label has been generated by us, but the package has not yet been scanned or picked up by the carrier. The package might still be waiting for pickup or may have already been dropped off but not yet scanned. Please give it a few more days, and if there's still no update, feel free to check back in. I'm happy to help!",
       "id": "5c034f18-e1e1-4da8-987a-c18a34a2b5fc",
       "shortcut": "lbl"
     },
@@ -565,19 +565,19 @@
     },
     {
       "name": "Weekend Escalations - All brands",
-      "content": "Let me pass this on to my team! Since it is the weekend, they might not get back to me until Monday but I\u0027ll be in touch as soon as I get an update.",
+      "content": "Let me pass this on to my team! Since it is the weekend, they might not get back to me until Monday but I'll be in touch as soon as I get an update.",
       "id": "36debfbc-0a8a-11ec-9a03-0242ac130003",
       "shortcut": "wkd"
     },
     {
       "name": "Restock (notifications)",
-      "content": "I\u0027m sorry, I currently don\u0027t have the exact date of a possible restock, but I recommend signing up on the product page so you\u0027re notified the second it comes back in! In the meantime, what do you think about this instead?",
+      "content": "I'm sorry, I currently don't have the exact date of a possible restock, but I recommend signing up on the product page so you're notified the second it comes back in! In the meantime, what do you think about this instead?",
       "id": "e202960c-cf37-4614-be22-f9a86229feee",
       "shortcut": "stof"
     },
     {
       "name": "Wrong name",
-      "content": "I apologize for the misunderstanding. Can you please share your name and your phone number? I\u0027d be happy to notify my team of this and help get this resolved!",
+      "content": "I apologize for the misunderstanding. Can you please share your name and your phone number? I'd be happy to notify my team of this and help get this resolved!",
       "id": "4cb2ae9b-10d0-43da-a054-7fc51723b84f",
       "shortcut": "wn"
     },
@@ -595,7 +595,7 @@
     },
     {
       "name": "Proud - All brands",
-      "content": "My pleasure! We\u0027re actually quite proud of how we\u0027re able to engage with our customers like this! Have a wonderful day and if you have any questions, feel free to reach out.",
+      "content": "My pleasure! We're actually quite proud of how we're able to engage with our customers like this! Have a wonderful day and if you have any questions, feel free to reach out.",
       "id": "1cbbdce0-3baf-444a-acb7-36ef12964d48",
       "shortcut": "pru"
     },
@@ -607,25 +607,25 @@
     },
     {
       "name": "Guarantee delivery dates - All brands",
-      "content": "Unfortunately, I can\u0027t guarantee delivery dates, I can only give you an estimate in business days.",
+      "content": "Unfortunately, I can't guarantee delivery dates, I can only give you an estimate in business days.",
       "id": "35a6bd06-0b6c-11ec-9a03-0242ac130003",
       "shortcut": "grn"
     },
     {
       "name": "Prepaid card rejected - All brands",
-      "content": "Sorry about that! Our site will accept some and reject others, so if you put it into the site and it rejects it, you won\u0027t be able to use that as your form of payment. Do you have a credit card you can use?",
+      "content": "Sorry about that! Our site will accept some and reject others, so if you put it into the site and it rejects it, you won't be able to use that as your form of payment. Do you have a credit card you can use?",
       "id": "10c9970a-40cd-4ac4-8db6-ac2a94f0ff3d",
       "shortcut": "pcr"
     },
     {
       "name": "Signed up for restock - All brands",
-      "content": "Alright, you\u0027re all set! We\u0027ll notify you via email once they\u0027re back in stock",
+      "content": "Alright, you're all set! We'll notify you via email once they're back in stock",
       "id": "4dd398a1-9cd9-4ebe-93bb-b69deae63dac",
       "shortcut": "sgd"
     },
     {
-      "name": "Hope you\u0027ll go for it - All brands",
-      "content": "Hope you\u0027ll decide to go for it!",
+      "name": "Hope you'll go for it - All brands",
+      "content": "Hope you'll decide to go for it!",
       "id": "efa16376-a252-48e3-bf4c-c0d64cd495ed",
       "shortcut": "gfi"
     },
@@ -643,43 +643,43 @@
     },
     {
       "name": "Follow up - Email 3",
-      "content": "Thanks for your patience on this! I just heard back from the team and it looks like we\u0027re already in touch with you via email/phone. You can just respond from there. You\u0027re in excellent hands!",
+      "content": "Thanks for your patience on this! I just heard back from the team and it looks like we're already in touch with you via email/phone. You can just respond from there. You're in excellent hands!",
       "id": "58b9f928-13b7-4691-8f7d-47086ebbe646",
       "shortcut": "emp"
     },
     {
       "name": "Waiting for the team - All brands",
-      "content": "I\u0027m still waiting to hear back from the team though rest assured I\u0027ll shoot you a text as soon as I have an update!",
+      "content": "I'm still waiting to hear back from the team though rest assured I'll shoot you a text as soon as I have an update!",
       "id": "74123403-b32a-49bd-b33c-1b299842c419",
       "shortcut": "wtt"
     },
     {
       "name": "Pre-purchase escalations - All brands",
-      "content": "I\u0027ll be more than happy to check on this with my team for you. I\u0027ll reach out the moment I have an update.",
+      "content": "I'll be more than happy to check on this with my team for you. I'll reach out the moment I have an update.",
       "id": "27245174-3187-4f39-bdb2-74c0ec08cd87",
       "shortcut": "ppe"
     },
     {
-      "name": "You\u0027re welcome! - All brands",
-      "content": "You\u0027re welcome!",
+      "name": "You're welcome! - All brands",
+      "content": "You're welcome!",
       "id": "2b8d39e3-0d6b-48dd-adec-d5343f036a12",
       "shortcut": "yw"
     },
     {
       "name": "Already have discount but not working - All brands",
-      "content": "I don\u0027t have any info on that code but there could be some requirements included with it. Interested to know where you got it? Think you can send me a screenshot? I\u0027ll be more than happy to help out!",
+      "content": "I don't have any info on that code but there could be some requirements included with it. Interested to know where you got it? Think you can send me a screenshot? I'll be more than happy to help out!",
       "id": "36dec82c-0a8a-11ec-9a03-0242ac130003",
       "shortcut": "disk"
     },
     {
       "name": "Customer confirms they have a pending charge and no email (edit accordingly) - All brands",
-      "content": "If you didn\u0027t get an email confirmation, then it\u0027s possible that the order didn\u0027t go through. If the charge on your account is pending, the order has not gone through and should either be refunded within 24-48 hours or processed successfully. If the charge reverts, you can place the order again. If the order processes, you\u0027ll get a confirmation email soon.",
+      "content": "If you didn't get an email confirmation, then it's possible that the order didn't go through. If the charge on your account is pending, the order has not gone through and should either be refunded within 24-48 hours or processed successfully. If the charge reverts, you can place the order again. If the order processes, you'll get a confirmation email soon.",
       "id": "cd86a31c-c9d9-4fa6-8c9c-c4a7b72e95a0",
       "shortcut": "cp"
     },
     {
       "name": "I understand - All brands",
-      "content": "I completely understand and I\u0027m really sorry you had to go through this.",
+      "content": "I completely understand and I'm really sorry you had to go through this.",
       "id": "f071b7ff-82a0-4872-90b1-a979cd596b38",
       "shortcut": "iu"
     },
@@ -696,8 +696,8 @@
       "shortcut": "hth"
     },
     {
-      "name": "Customer wants an item we don\u0027t offer",
-      "content": "I\u0027m sorry for any inconvenience! I\u0027m afraid we don\u0027t carry that item at the moment but I\u0027ll definitely pass this along to the team to consider again in the future, thank you for the feedback! If you have any more questions, feel free to let me know. For now, what do you think about this instead? -",
+      "name": "Customer wants an item we don't offer",
+      "content": "I'm sorry for any inconvenience! I'm afraid we don't carry that item at the moment but I'll definitely pass this along to the team to consider again in the future, thank you for the feedback! If you have any more questions, feel free to let me know. For now, what do you think about this instead? -",
       "id": "668e73d1-bdb6-4c81-b234-3d80a678289f",
       "shortcut": "dof"
     },
@@ -709,7 +709,7 @@
     },
     {
       "name": "Follow up - Email 1",
-      "content": "Thanks for your patience! I just heard from the team and one of my colleagues will reach out to you and will be assisting you directly from here on out. You\u0027ll be in excellent hands!",
+      "content": "Thanks for your patience! I just heard from the team and one of my colleagues will reach out to you and will be assisting you directly from here on out. You'll be in excellent hands!",
       "id": "56b3cefd-5916-4d1a-bda2-27599bd4e955",
       "shortcut": "emi"
     },
@@ -721,7 +721,7 @@
     },
     {
       "name": "Experience - All brands",
-      "content": "I\u0027m really sorry about this and surely, this isn\u0027t the experience I want you to have.",
+      "content": "I'm really sorry about this and surely, this isn't the experience I want you to have.",
       "id": "673845ed-7c39-46e8-b50e-81353a360758",
       "shortcut": "exp"
     },
@@ -739,7 +739,7 @@
     },
     {
       "name": "PC/Laptop - All brands",
-      "content": "So sorry about that. If you\u0027re on your phone can you please try from your PC/laptop instead?",
+      "content": "So sorry about that. If you're on your phone can you please try from your PC/laptop instead?",
       "id": "c0714069-cbf5-4838-85da-31ee4d288eca",
       "shortcut": "pcl"
     },
@@ -751,19 +751,19 @@
     },
     {
       "name": "Can I use 2 different cards at checkout? (send ONLY if E-gift cards are offered) - All brands",
-      "content": "Unfortunately, you won\u0027t be able to split your payments at checkout but here\u0027s a little secret - you can purchase an E-gift card so it can be emailed to you. Then use that balance towards your purchase, and use the other form of payment you had in mind. It\u0027s the easiest fix!",
+      "content": "Unfortunately, you won't be able to split your payments at checkout but here's a little secret - you can purchase an E-gift card so it can be emailed to you. Then use that balance towards your purchase, and use the other form of payment you had in mind. It's the easiest fix!",
       "id": "5e97e8d8-d9e2-42f2-966f-eb4397d76387",
       "shortcut": "dcc"
     },
     {
-      "name": "Restock (website \u0026 social)",
-      "content": "I\u0027m sorry, I currently don\u0027t have the exact date of a possible restock, but I recommend checking our website and social media frequently. In the meantime, what do you think about this instead?",
+      "name": "Restock (website & social)",
+      "content": "I'm sorry, I currently don't have the exact date of a possible restock, but I recommend checking our website and social media frequently. In the meantime, what do you think about this instead?",
       "id": "36dec8e0-0a8a-11ec-9a03-0242ac130003",
       "shortcut": "stok"
     },
     {
       "name": "No processing time available",
-      "content": "Just a heads up, after you place the order, it will then go through a stringent order-processing stage (preparing, packaging, etc), so we can make sure they\u0027re safe in transit and that can take a maximum of 3 business days. Once it\u0027s handed over to the courier, that\u0027s when your chosen shipping method takes effect.",
+      "content": "Just a heads up, after you place the order, it will then go through a stringent order-processing stage (preparing, packaging, etc), so we can make sure they're safe in transit and that can take a maximum of 3 business days. Once it's handed over to the courier, that's when your chosen shipping method takes effect.",
       "id": "c780389d-9096-409d-b851-76daa75c2162",
       "shortcut": "npt"
     },
@@ -775,36 +775,36 @@
     },
     {
       "name": "Already purchased - All brands",
-      "content": "Awesome, thank you for your purchase, I hope you\u0027ll love it! Have a great day and if anything comes up, I\u0027m here.",
+      "content": "Awesome, thank you for your purchase, I hope you'll love it! Have a great day and if anything comes up, I'm here.",
       "id": "36dece4e-0a8a-11ec-9a03-0242ac130003",
       "shortcut": "tfp"
     },
     {
       "name": "Customer spread the word - All brands",
-      "content": "That\u0027s wonderful to hear! Your steadfast support is one thing; spreading the good word is quite another. Thank you very much!",
+      "content": "That's wonderful to hear! Your steadfast support is one thing; spreading the good word is quite another. Thank you very much!",
       "id": "47e4c2e0-a7d0-45a6-aea8-b4df6c2d554a",
       "shortcut": "spw"
     },
     {
       "name": "[Auto-responses] Goodbye Message",
-      "content": "No problem. Feel free to reach out anytime, I\u0027m always here to help!",
+      "content": "No problem. Feel free to reach out anytime, I'm always here to help!",
       "id": "55616232-802d-49db-8744-af14ccb499a4"
     },
     {
       "name": "Why do you retain my credit card info when I pay with ShopPay? - All brands",
-      "content": "We don\u0027t retain the card info of our customers. Shop Pay is owned by Shopify and if you opt in on Shop Pay, your card details will get saved. You can opt out of Shop Pay at anytime by going to: shop.app/opt-out",
+      "content": "We don't retain the card info of our customers. Shop Pay is owned by Shopify and if you opt in on Shop Pay, your card details will get saved. You can opt out of Shop Pay at anytime by going to: shop.app/opt-out",
       "id": "11dfbae1-48de-4994-adb1-53674c036402",
       "shortcut": "psp"
     },
     {
       "name": "Will financing affect my credit score? - All brands",
-      "content": "It\u0027s possible. Once you have taken out a loan or payments by installment, the financing company may report repayment information about your account to the consumer reporting agencies, which may impact your credit score. Ultimately, it would be best to check on this directly with the financing company, as certain policies may vary.",
+      "content": "It's possible. Once you have taken out a loan or payments by installment, the financing company may report repayment information about your account to the consumer reporting agencies, which may impact your credit score. Ultimately, it would be best to check on this directly with the financing company, as certain policies may vary.",
       "id": "36def658-0a8a-11ec-9a03-0242ac130003",
       "shortcut": "fcc"
     },
     {
-      "name": "Can\u0027t take calls - All brands",
-      "content": "This number was set up for SMS messaging only, so I can\u0027t make or take calls. Are you ok with texting?",
+      "name": "Can't take calls - All brands",
+      "content": "This number was set up for SMS messaging only, so I can't make or take calls. Are you ok with texting?",
       "id": "36dedda8-0a8a-11ec-9a03-0242ac130003",
       "shortcut": "nr"
     },
@@ -822,7 +822,7 @@
     },
     {
       "name": "How did you get my phone number - All brands",
-      "content": "I texted you because you subscribed to receive personalized marketing messages from our brand. If you didn\u0027t mean to sign up for this, let me know and I can unsubscribe you from our text message marketing list. Otherwise, I\u0027m happy to help you with any questions you have today!",
+      "content": "I texted you because you subscribed to receive personalized marketing messages from our brand. If you didn't mean to sign up for this, let me know and I can unsubscribe you from our text message marketing list. Otherwise, I'm happy to help you with any questions you have today!",
       "id": "36dedb82-0a8a-11ec-9a03-0242ac130003",
       "shortcut": "txt"
     },
@@ -834,13 +834,13 @@
     },
     {
       "name": "Thank you for your support - All brands",
-      "content": "Thank you so much for your support, we always strive to provide only the best and all hard work pays off every single time we hear that a valued customer like you loves our items! Please don\u0027t hesitate to text me for future concerns.",
+      "content": "Thank you so much for your support, we always strive to provide only the best and all hard work pays off every single time we hear that a valued customer like you loves our items! Please don't hesitate to text me for future concerns.",
       "id": "e8df2820-5840-4016-b553-3de3371d844a",
       "shortcut": "tfs"
     },
     {
       "name": "Follow up - Email 2",
-      "content": "Thanks for your patience. I just heard from the team and one of my colleagues has reached out to you via email and will be assisting you directly from here on out. You\u0027re in excellent hands.",
+      "content": "Thanks for your patience. I just heard from the team and one of my colleagues has reached out to you via email and will be assisting you directly from here on out. You're in excellent hands.",
       "id": "b5194d1b-bb26-467f-b5e8-6841a0f75fbd",
       "shortcut": "emo"
     },
@@ -851,8 +851,8 @@
       "shortcut": "rdr"
     },
     {
-      "name": "Customer texts \"Price\" (there\u0027s no indication what they could be referring to from previous messages)",
-      "content": "Thank you for reaching out! Prices and discounts vary depending on the item you are looking to buy. Are you looking for anything in particular? I\u0027d love to check the price for you.",
+      "name": "Customer texts \"Price\" (there's no indication what they could be referring to from previous messages)",
+      "content": "Thank you for reaching out! Prices and discounts vary depending on the item you are looking to buy. Are you looking for anything in particular? I'd love to check the price for you.",
       "id": "ed9fb245-d826-4ad5-bdc0-a72df6040256",
       "shortcut": "cpr"
     },
@@ -875,7 +875,7 @@
       "shortcut": "fup"
     },
     {
-      "name": "I ordered with your discount and I don\u0027t see it applied! - All brands",
+      "name": "I ordered with your discount and I don't see it applied! - All brands",
       "content": "Just to be sure, did you tap/click \"apply\" to make the code take effect?",
       "id": "36defd24-0a8a-11ec-9a03-0242ac130003",
       "shortcut": "clk"
@@ -894,25 +894,25 @@
     },
     {
       "name": "I love your company - All brands",
-      "content": "I\u0027m so happy to hear that! Thank you for your support, it means the world to us!",
+      "content": "I'm so happy to hear that! Thank you for your support, it means the world to us!",
       "id": "260544fa-d91f-4dbf-817a-10ae45619282",
       "shortcut": "luv"
     },
     {
       "name": "Products too expensive - All brands",
-      "content": "Thanks for your feedback, I\u0027ll share future deals that may interest you since we\u0027d love to change your mind! If you have any questions just reach out and I\u0027d love to help!",
+      "content": "Thanks for your feedback, I'll share future deals that may interest you since we'd love to change your mind! If you have any questions just reach out and I'd love to help!",
       "id": "36debecc-0a8a-11ec-9a03-0242ac130003",
       "shortcut": "pte"
     },
     {
-      "name": "My item has been with UPS / USPS/ FedEx for a while now, it\u0027s not moving - All brands",
-      "content": "Since it\u0027s already with the courier, the best way to handle this is to contact them directly. Did you try calling them? They should have more info.",
+      "name": "My item has been with UPS / USPS/ FedEx for a while now, it's not moving - All brands",
+      "content": "Since it's already with the courier, the best way to handle this is to contact them directly. Did you try calling them? They should have more info.",
       "id": "36deebea-0a8a-11ec-9a03-0242ac130003",
       "shortcut": "mv"
     },
     {
       "name": "Sorry 2 - All brands",
-      "content": "I\u0027m sorry about that!",
+      "content": "I'm sorry about that!",
       "id": "60fe367e-4597-4845-bda6-5c43fbf8214c",
       "shortcut": "ssr"
     },
@@ -930,7 +930,7 @@
     },
     {
       "name": "Automatic discount - All brands",
-      "content": "I just checked and it seems like what you\u0027re looking to purchase already has a discount pre-applied which is why the code isn\u0027t working as the system typically can\u0027t stack more than one promo at checkout.",
+      "content": "I just checked and it seems like what you're looking to purchase already has a discount pre-applied which is why the code isn't working as the system typically can't stack more than one promo at checkout.",
       "id": "36ded92a-0a8a-11ec-9a03-0242ac130003",
       "shortcut": "atd"
     },
@@ -942,13 +942,13 @@
     },
     {
       "name": "Get well - All brands",
-      "content": "I hope you\u0027ll feel better soon! I\u0027m sending positive vibes your way for a speedy recovery!",
+      "content": "I hope you'll feel better soon! I'm sending positive vibes your way for a speedy recovery!",
       "id": "36deef64-0a8a-11ec-9a03-0242ac130003",
       "shortcut": "gws"
     },
     {
       "name": "Screenshot 2 - All brands",
-      "content": "Can you please send me a screenshot of what you\u0027re seeing on your end? I\u0027ll be more than happy to look into this for you!",
+      "content": "Can you please send me a screenshot of what you're seeing on your end? I'll be more than happy to look into this for you!",
       "id": "cb066917-1818-4332-8bcb-2539f702a449",
       "shortcut": "scrt"
     }

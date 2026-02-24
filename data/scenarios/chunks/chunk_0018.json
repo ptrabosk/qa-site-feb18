@@ -3,122 +3,96 @@
   "chunk": "chunk_0018",
   "scenarios": {
     "86": {
+      "id": "019c77ee-ecb4-462b-f000-0000fb8ab5dc",
+      "companyName": "Sam Edelman",
+      "companyWebsite": "https://samedelman.com",
       "agentName": "Jordan",
-      "id": "019c6cf1-5631-4146-f000-00003e5ebc5f",
-      "rightPanel": {
-        "source": {
-          "label": "Website",
-          "value": "https://calpaktravel.com",
-          "date": ""
-        }
-      },
-      "companyWebsite": "https://calpaktravel.com",
-      "companyName": "CALPAK",
-      "notes": {
-        "send_to_cs": [
-          "Send to CS for post purchase inquiries, use PPI shortcut",
-          "If cx needs help returning/exchanging a gift send to CS",
-          "Send to CS for discount code issues"
-        ],
-        "escalate": [
-          "When ESC add email to notes for all escalations"
-        ]
-      },
-      "blocklisted_words": [
-        
-      ],
-      "escalation_preferences": [
-        "change of address"
-      ],
       "messageTone": "Polished",
       "conversation": [
         {
+          "message_media": [],
+          "message_text": "Sam Edelman: Reply Y to subscribe to recurring automated personalized marketing alerts (e.g. cart reminders) from Sam Edelman.",
           "message_type": "system",
-          "message_text": "CALPAK: Welcome! Msg \u0026 data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
-          "date_time": "2026-02-17 13:01:48.690",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-14 19:52:06.092"
         },
         {
+          "message_media": [],
+          "message_text": "Sam Edelman: Welcome! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel. Privacy: attnl.tv/p/1HB",
           "message_type": "system",
-          "message_text": "CALPAK: Thanks for traveling with CALPAK. Enjoy 10% off your first order with code AT1NT1V26GcEXlO.\n\nShop best sellers: calpak.attn.tv/aXyN2l1oI98Q \n*Offer expires in 7 days and excludes sale items. ",
-          "date_time": "2026-02-17 13:01:53.837",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-14 19:52:48.452"
         },
         {
+          "message_media": [],
+          "message_text": "Sam Edelman: Welcome to the family! Click this link to copy your 10% off coupon code: https://samedelman.attn.tv/aSDjpzqn2sbW \n\nReply if you need help!",
           "message_type": "system",
-          "message_text": "CALPAK: Save our number so you never miss an update!",
-          "date_time": "2026-02-17 13:07:04.656",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-14 19:52:53.054"
         },
         {
+          "message_media": [],
+          "message_text": "Sam Edelman: Oh, also, a lot of people like getting personal recs from us. Over the next few days we'll try to help you find something that you will love.\n\nIn the meantime, check out what's new > https://samedelman.attn.tv/avXxJ0gblw30 .",
+          "message_type": "system",
+          "date_time": "2026-02-14 19:54:00.477"
+        },
+        {
+          "message_media": [],
+          "message_text": "Sam Edelman: Slide into the sandal and enjoy lightweight straps and a cushioned footbed for easy, all-day wear\n\nUse code SAMUSBATRUPGFVMU for 10% off valid on select styles: https://samedelman.attn.tv/aYVgWvCmFPeQ .",
+          "message_type": "system",
+          "date_time": "2026-02-14 20:08:16.271"
+        },
+        {
+          "message_media": [],
+          "message_text": "Sam Edelman: It's your last day to save: join our loyalty program for $30 off $140+ with code FEB30, or enjoy $25 off $140+ with code FEB25. Ends tonight. \n\nShop now: samedelman.attn.tv/a3Q8BN5m97Fb .",
+          "message_type": "system",
+          "date_time": "2026-02-16 13:16:30.399"
+        },
+        {
+          "message_media": [],
+          "message_text": "Sam Edelman: SALE alert! Unbeatable deals on new styles. Grab em' while you still can samedelman.attn.tv/a928ZfATdUdl .",
+          "message_type": "system",
+          "date_time": "2026-02-17 13:21:25.910"
+        },
+        {
+          "message_media": [],
+          "message_text": "Sam Edelman: Spring '26: gorgeous strappy sandals and modern, sleek wedges are all new in the Sam Edelman world. \n\nShop now: samedelman.attn.tv/asLvNM7w2wEd ",
+          "message_type": "system",
+          "date_time": "2026-02-18 19:07:15.852"
+        },
+        {
+          "message_media": [],
+          "message_text": "Sam Edelman: You are already subscribed. Click here to shop now: https://samedelman.attn.tv/cl/2kU.",
+          "message_type": "system",
+          "date_time": "2026-02-18 20:36:20.436"
+        },
+        {
+          "message_media": [],
+          "message_text": "Sam Edelman: Looks like you forgot something! Don't worry I saved it for you: https://samedelman.attn.tv/aehTZH_5ggGt . Snag bay slide sandal before it's gone!\n\nLet me know if you have any questions!\n\n-Jordan",
+          "message_type": "system",
+          "date_time": "2026-02-19 14:49:37.659"
+        },
+        {
+          "message_media": [],
+          "message_text": "I need more discount pls.",
           "message_type": "customer",
-          "message_text": "This code did not work",
-          "date_time": "2026-02-17 13:24:49.967",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-19 17:00:18.716"
         },
         {
-          "message_type": "system",
-          "message_text": "CALPAK: Hey Wende, thanks for stopping by\n\nFind your go-to luggage picks: https://calpak.attn.tv/a6e4zC3EBoVl .",
-          "date_time": "2026-02-17 13:40:47.568",
-          "message_media": [
-            
-          ]
-        },
-        {
+          "message_media": [],
+          "message_text": "Template used: \"No promotions available - All brands\"; last updated: 2023-10-10 16:37:45.165",
           "message_type": "template",
-          "message_text": "Template used: \"Code won\u0027t work - brand specific\"; last updated: 2024-12-17 01:20:50.475",
-          "date_time": "2026-02-17 13:51:21.543",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-19 17:04:32.852"
         },
         {
-          "message_id": "019c6cf1-5631-4146-f000-00003e5ebc5f",
-          "message_text": "CALPAK: I\u0027m sorry to hear that your code isn\u0027t working. Do you mind sharing a screenshot of your cart? I\u0027m happy to take a closer look for you. Kindly note that our promo codes are only eligible for full-priced items. They don\u0027t work on already discounted products, including bundled sets. I\u0027m sorry for the inconvenience.",
+          "message_media": [],
+          "message_text": "Sam Edelman: I understand wanting to take advantage of a better deal. I'm sorry, but I don't have any codes available at the moment. Our deals will always be shared with our SMS subscribers or on our website, so keep an eye out! In the meantime, you can check out our sales collection here: https://samedelman.attn.tv/akSaECQxzUBH",
           "message_type": "agent",
-          "agent": "109968",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-17 13:51:21.544"
+          "agent": "87310",
+          "message_id": "019c77ee-ecb4-462b-f000-0000fb8ab5dc",
+          "date_time": "2026-02-19 17:04:32.856"
         }
-      ]
-    },
-    "87": {
-      "agentName": "Jordan",
-      "id": "019c77ee-ecb4-462b-f000-0000fb8ab5dc",
-      "rightPanel": {
-        "browsingHistory": [
-          {
-            "link": "https://www.samedelman.com/product/womens-bay-jelly-slide-sandal-3022622/clear-green-limon-jelly-ec0209960",
-            "item": "bay jelly slide sandal",
-            "timeAgo": "2026-02-19"
-          },
-          {
-            "link": "https://www.samedelman.com/product/womens-bay-multicolor-slide-sandal-3029177/brick-se-faux-raffia-ec0209850",
-            "item": "bay multicolor slide sandal",
-            "timeAgo": "2026-02-15"
-          }
-        ],
-        "source": {
-          "label": "Website",
-          "value": "https://samedelman.com",
-          "date": ""
-        }
-      },
-      "companyWebsite": "https://samedelman.com",
-      "companyName": "Sam Edelman",
+      ],
       "notes": {
         "send_to_cs": [
-          "If the cx sends us their credit card information (written or screenshot) and it\u0027s an issue we can\u0027t resolve - send the customer to CS",
+          "If the cx sends us their credit card information (written or screenshot) and it's an issue we can't resolve - send the customer to CS",
           "➜ Do NOT ESC any conversation that contains this type of information in the thread"
         ],
         "escalate": [
@@ -126,161 +100,449 @@
           "ESC if the charge on cx account is pending"
         ]
       },
-      "blocklisted_words": [
-        
-      ],
-      "escalation_preferences": [
-        
-      ],
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://samedelman.com",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "bay jelly slide sandal",
+            "link": "https://www.samedelman.com/product/womens-bay-jelly-slide-sandal-3022622/clear-green-limon-jelly-ec0209960",
+            "timeAgo": "2026-02-19"
+          },
+          {
+            "item": "bay multicolor slide sandal",
+            "link": "https://www.samedelman.com/product/womens-bay-multicolor-slide-sandal-3029177/brick-se-faux-raffia-ec0209850",
+            "timeAgo": "2026-02-15"
+          }
+        ],
+        "orders": [
+          {
+            "orderNumber": "005029262221",
+            "orderDate": "2026-02-15",
+            "items": [
+              {
+                "name": "petty ankle bootie",
+                "price": 62.99,
+                "productLink": "https://www.samedelman.com/product/womens-petty-ankle-bootie-3031977/olive-multi-fabric-ec0208535"
+              }
+            ],
+            "total": 62.99,
+            "coupon": "sam attentive bluecore 10 percent off welcome",
+            "date_time": "2026-02-15 01:12:38.530"
+          }
+        ]
+      },
+      "escalation_preferences": [],
+      "blocklisted_words": [],
+      "has_shopify": false
+    },
+    "87": {
+      "id": "019c71bd-d6a6-45b1-f000-00004e26c979",
+      "companyName": "In Common Beauty",
+      "companyWebsite": "https://incommonbeauty.com",
+      "agentName": "Sarah",
       "messageTone": "Polished",
       "conversation": [
         {
+          "message_media": [],
+          "message_text": "IN COMMON: Welcome to IN COMMON! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
           "message_type": "system",
-          "message_text": "Sam Edelman: Reply Y to subscribe to recurring automated personalized marketing alerts (e.g. cart reminders) from Sam Edelman.",
-          "date_time": "2026-02-14 19:52:06.092",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-18 11:32:44.949"
         },
         {
+          "message_media": [],
+          "message_text": "IN COMMON: Hey this is Sarah, how can I help you?",
           "message_type": "system",
-          "message_text": "Sam Edelman: Welcome! Msg \u0026 data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel. Privacy: attnl.tv/p/1HB",
-          "date_time": "2026-02-14 19:52:48.452",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-18 11:32:48.997"
         },
         {
-          "message_type": "system",
-          "message_text": "Sam Edelman: Welcome to the family! Click this link to copy your 10% off coupon code: https://samedelman.attn.tv/aSDjpzqn2sbW \n\nReply if you need help!",
-          "date_time": "2026-02-14 19:52:53.054",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Sam Edelman: Oh, also, a lot of people like getting personal recs from us. Over the next few days we\u0027ll try to help you find something that you will love.\n\nIn the meantime, check out what\u0027s new \u003e https://samedelman.attn.tv/avXxJ0gblw30 .",
-          "date_time": "2026-02-14 19:54:00.477",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Sam Edelman: Slide into the sandal and enjoy lightweight straps and a cushioned footbed for easy, all-day wear\n\nUse code SAMUSBATRUPGFVMU for 10% off valid on select styles: https://samedelman.attn.tv/aYVgWvCmFPeQ .",
-          "date_time": "2026-02-14 20:08:16.271",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Sam Edelman: It\u0027s your last day to save: join our loyalty program for $30 off $140+ with code FEB30, or enjoy $25 off $140+ with code FEB25. Ends tonight. \n\nShop now: samedelman.attn.tv/a3Q8BN5m97Fb .",
-          "date_time": "2026-02-16 13:16:30.399",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Sam Edelman: SALE alert! Unbeatable deals on new styles. Grab em\u0027 while you still can samedelman.attn.tv/a928ZfATdUdl .",
-          "date_time": "2026-02-17 13:21:25.910",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Sam Edelman: Spring \u002726: gorgeous strappy sandals and modern, sleek wedges are all new in the Sam Edelman world. \n\nShop now: samedelman.attn.tv/asLvNM7w2wEd ",
-          "date_time": "2026-02-18 19:07:15.852",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Sam Edelman: You are already subscribed. Click here to shop now: https://samedelman.attn.tv/cl/2kU.",
-          "date_time": "2026-02-18 20:36:20.436",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Sam Edelman: Looks like you forgot something! Don\u0027t worry I saved it for you: https://samedelman.attn.tv/aehTZH_5ggGt . Snag bay slide sandal before it\u0027s gone!\n\nLet me know if you have any questions!\n\n-Jordan",
-          "date_time": "2026-02-19 14:49:37.659",
-          "message_media": [
-            
-          ]
-        },
-        {
+          "message_media": [],
+          "message_text": "Help with order",
           "message_type": "customer",
-          "message_text": "I need more discount pls.",
-          "date_time": "2026-02-19 17:00:18.716",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-18 11:33:10.077"
         },
         {
-          "message_type": "template",
-          "message_text": "Template used: \"No promotions available - All brands\"; last updated: 2023-10-10 16:37:45.165",
-          "date_time": "2026-02-19 17:04:32.852",
-          "message_media": [
-            
-          ]
+          "message_media": [],
+          "message_text": "Order number 98070",
+          "message_type": "customer",
+          "date_time": "2026-02-18 11:33:59.636"
         },
         {
-          "message_id": "019c77ee-ecb4-462b-f000-0000fb8ab5dc",
-          "message_text": "Sam Edelman: I understand wanting to take advantage of a better deal. I\u0027m sorry, but I don\u0027t have any codes available at the moment. Our deals will always be shared with our SMS subscribers or on our website, so keep an eye out! In the meantime, you can check out our sales collection here: https://samedelman.attn.tv/akSaECQxzUBH",
+          "message_media": [],
+          "message_text": "Helloooo",
+          "message_type": "customer",
+          "date_time": "2026-02-18 11:38:29.923"
+        },
+        {
+          "message_media": [],
+          "message_text": "(attn) Hey, I need help with something:",
+          "message_type": "customer",
+          "date_time": "2026-02-18 11:38:43.001"
+        },
+        {
+          "message_media": [],
+          "message_text": "Order number 306035",
+          "message_type": "customer",
+          "date_time": "2026-02-18 11:39:20.057"
+        },
+        {
+          "message_media": [],
+          "message_text": "IN COMMON: Thank you for reaching out! I'm happy to help with your order. Can you please let me know a bit more about the issue or question regarding Order #306035? That way, I can provide the most accurate assistance for you. ",
           "message_type": "agent",
-          "agent": "87310",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-19 17:04:32.856"
+          "agent": "87578",
+          "message_id": "019c719f-cdf4-4683-f000-00004e26c979",
+          "date_time": "2026-02-18 11:40:24.339"
+        },
+        {
+          "message_media": [],
+          "message_text": "I ordered February 3 and still haven't received and no updates on shipping since February 4",
+          "message_type": "customer",
+          "date_time": "2026-02-18 11:43:29.777"
+        },
+        {
+          "message_media": [],
+          "message_text": "IN COMMON: Thank you for letting me know, and I'm sorry for the inconvenience! Can you please share your email address so I can check this with my team? ",
+          "message_type": "agent",
+          "agent": "109955",
+          "message_id": "019c71b1-2591-4109-f000-00004e26c979",
+          "date_time": "2026-02-18 11:59:20.877"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kbliebing@gmail.com",
+          "message_type": "customer",
+          "date_time": "2026-02-18 12:03:50.909"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"Tracking Info - All brands\"; last updated: 2023-10-10 16:47:28.277",
+          "message_type": "template",
+          "date_time": "2026-02-18 12:13:12.652"
+        },
+        {
+          "message_media": [],
+          "message_text": "IN COMMON: Just to clarify, did you receive a confirmation email after placing your order? You'll get a tracking email as soon as your order ships. If you don't see it in your inbox, be sure to check your spam and promo folders; sometimes our emails end up there as well.",
+          "message_type": "agent",
+          "agent": "109972",
+          "message_id": "019c71bd-d6a6-45b1-f000-00004e26c979",
+          "date_time": "2026-02-18 12:13:12.654"
         }
-      ]
-    },
-    "88": {
-      "agentName": "Ashley",
-      "id": "019c77fa-7754-4b59-f000-0000d41dee0d",
-      "rightPanel": {
-        "browsingHistory": [
-          {
-            "link": "https://www.sauder.com/furniture/442180/tv-credenza-with-sliding-doors-in-deco-cherry#",
-            "item": "TV Credenza with Sliding Doors in Deco Cherry",
-            "timeAgo": "2026-02-19"
-          },
-          {
-            "link": "https://www.sauder.com/furniture/442180/tv-credenza-with-sliding-doors-in-deco-cherry",
-            "item": "TV Credenza with Sliding Doors in Deco Cherry",
-            "timeAgo": "2026-02-19"
-          },
-          {
-            "link": "https://www.sauder.com/furniture/422426/storage-cabinet",
-            "item": "Storage Cabinet",
-            "timeAgo": "2026-02-08"
-          },
-          {
-            "link": "https://www.sauder.com/furniture/422426/storage-cabinet",
-            "item": "Storage Cabinet",
-            "timeAgo": "2026-02-08"
-          },
-          {
-            "link": "https://www.sauder.com/furniture/411802/wardrobestorage-cabinet",
-            "item": "Wardrobe/Storage Cabinet",
-            "timeAgo": "2026-02-06"
-          }
+      ],
+      "notes": {
+        "templates": [
+          "If a customer asks for a recommendation, use HRQ shortcut"
         ],
+        "promo_and_promo_exclusions": [
+          "🅿 Refer to brand's site for the most up to date promotional information!"
+        ]
+      },
+      "rightPanel": {
         "source": {
           "label": "Website",
-          "value": "https://sauder.com",
+          "value": "https://incommonbeauty.com",
+          "date": ""
+        },
+        "orders": [
+          {
+            "orderNumber": "306035",
+            "orderDate": "2026-02-04",
+            "items": [
+              {
+                "name": "Madi's V-Day Bundle",
+                "price": 70,
+                "productLink": "https://treatment-lbp.myshopify.com/products/2pk-with-gwp"
+              }
+            ],
+            "link": "https://www.incommonbeauty.com/6004113473/orders/40cc8db0b07a76c2530f872128f0ed0a/authenticate?key=223cacd285eaacc93e2e7589f10f4d58",
+            "trackingLink": "https://tools.usps.com/go/TrackConfirmAction_input?qtc_tLabels1=9434636105617275500145",
+            "order_tracking_link": "https://tools.usps.com/go/TrackConfirmAction_input?qtc_tLabels1=9434636105617275500145",
+            "total": 49,
+            "coupon": "Madi30",
+            "date_time": "2026-02-04 03:48:08.159"
+          }
+        ]
+      },
+      "escalation_preferences": [
+        "Shipping questions",
+        "Exchanges and returns",
+        "Formula Related"
+      ],
+      "blocklisted_words": [
+        "guarantee"
+      ],
+      "has_shopify": true
+    },
+    "88": {
+      "id": "019c4a33-ff73-498c-f000-0000fa726c2b",
+      "companyName": "Kathy Kuo Home",
+      "companyWebsite": "https://kathykuohome.com",
+      "agentName": "Sarah",
+      "messageTone": "Polished",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Welcome! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
+          "message_type": "system",
+          "date_time": "2026-02-10 19:07:32.682"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: You're in! Enjoy up to 25% Off + Free Shipping Over $1000 with code PREZ2026: kathykuohome.attn.tv/a-UrTBJWHPoa . \n\nShopping full price? Use code YOUREIN for 10% Off. Exclusions apply. ",
+          "message_type": "system",
+          "date_time": "2026-02-10 19:07:35.746"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Save our contact info to never miss exclusive offers and updates!",
+          "message_type": "system",
+          "date_time": "2026-02-10 19:07:36.970"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Hey there, this is Sarah. Thanks for checking out our site! https://kathykuohome.attn.tv/aSd-6qV6YU1y . Are you working on a home design project we can help you with?",
+          "message_type": "system",
+          "date_time": "2026-02-10 19:09:50.275"
+        },
+        {
+          "message_media": [],
+          "message_text": "My Designer can't get me a discount because she doesn't have a freight company down where I am.  I want to buy the Mullins desk but I really need this discount discounted past the Presidents' Day free shipping...",
+          "message_type": "customer",
+          "date_time": "2026-02-10 19:10:53.513"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Thanks for getting in touch! I'm really sorry to hear about that. Currently, we have the code PREZ2026 for up to 25% Off + Free Shipping Over $1000 for items that are ready to ship. Since the Mullins Modern Classic Natural Burl Desk is set to ship at a later date, I'm afraid it's not eligible for the discount code. In this case, you can use the code YOUREIN for 10% Off. Hope this helps! Should you need help with anything else, I'm only a message away!",
+          "message_type": "agent",
+          "agent": "109840",
+          "message_id": "019c4a14-5527-41d9-f000-0000fa726c2b",
+          "date_time": "2026-02-10 19:22:52.480"
+        },
+        {
+          "message_media": [],
+          "message_text": "The you're in isn't working. Doesn't matter I can't go that high - do you foresee this dropping in price ?",
+          "message_type": "customer",
+          "date_time": "2026-02-10 19:41:43.580"
+        },
+        {
+          "message_media": [],
+          "message_text": "YOUREIN *",
+          "message_type": "customer",
+          "date_time": "2026-02-10 19:42:03.635"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: I understand! Thank you for sharing that. Our deals will always be shared with our SMS subscribers or on our website, so keep an eye out! In the meantime, you can check out our sales collection here: https://kathykuohome.attn.tv/aOjbj9DC60QH",
+          "message_type": "agent",
+          "agent": "109972",
+          "message_id": "019c4a33-ff73-498c-f000-0000fa726c2b",
+          "date_time": "2026-02-10 19:57:27.694"
+        }
+      ],
+      "notes": {
+        "escalate": [
+          "Esc inquiries about items not on the site",
+          "ESC if the cx missed a sale & wants to take advantage of it",
+          "ESC if the customer is asking for a discount and we don't have one",
+          "If cx is looking for general recommendations use LFR shortcut and ESC"
+        ],
+        "templates": [
+          "If cx is building a new home, interested in refurnishing their entire home or rooms in their home, use the IDS shortcut",
+          "If cx is shopping for a client use SFC shortcut",
+          "Any convo without a positive outcome (out of stock, not on sale, not shipping in time), use DSS shortcut"
+        ],
+        "dos_and_don_ts": [
+          "For product-specific delivery time-frame inquiries always check the product page for delivery info and share that with the cx"
+        ]
+      },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://kathykuohome.com",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "Mullins Modern Classic Natural Burl Desk",
+            "link": "https://www.kathykuohome.com/Product/Detail/169948-Mullins-Modern-Classic-Natural-Burl-Desk",
+            "timeAgo": "2026-02-11"
+          },
+          {
+            "item": "Briella Modern Classic Dark Brown Burl Wood Rectangular Desk",
+            "link": "https://www.kathykuohome.com/Product/Detail/158224-Briella-Modern-Classic-Dark-Brown-Burl-Wood-Rectangular-Desk",
+            "timeAgo": "2026-02-11"
+          },
+          {
+            "item": "Briella Modern Classic Light Brown Burl Wood Rectangular Desk",
+            "link": "https://www.kathykuohome.com/Product/Detail/158225-Briella-Modern-Classic-Light-Brown-Burl-Wood-Rectangular-Desk",
+            "timeAgo": "2026-02-11"
+          }
+        ]
+      },
+      "escalation_preferences": [
+        "Shipping questions",
+        "Discount code errors",
+        "Exchanges and returns",
+        "Lead time questions",
+        "Stock questions",
+        "Price matching",
+        "Angry or dissatisfied customer"
+      ],
+      "blocklisted_words": [],
+      "has_shopify": false
+    },
+    "89": {
+      "id": "019c786b-245c-4824-f000-0000fc890cc5",
+      "companyName": "Backcountry",
+      "companyWebsite": "https://backcountry.com",
+      "agentName": "Sarah",
+      "messageTone": "Polished",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "Backcountry: Reply Y to subscribe to recurring automated personalized marketing alerts (e.g. cart reminders) from Backcountry.",
+          "message_type": "system",
+          "date_time": "2026-02-19 19:17:08.721"
+        },
+        {
+          "message_media": [],
+          "message_text": "Backcountry: Welcome to Backcountry! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel. Privacy: attnl.tv/p/iVG",
+          "message_type": "system",
+          "date_time": "2026-02-19 19:17:27.275"
+        },
+        {
+          "message_media": [],
+          "message_text": "Backcountry: Welcome to the Herd! Get up to 60% off the latest apparel & gear from our best brands. Shop Semi- Annual Sale:http://bctxt.co/arkQzvFpHk5d ",
+          "message_type": "system",
+          "date_time": "2026-02-19 19:17:33.025"
+        },
+        {
+          "message_media": [],
+          "message_text": "Backcountry: Oh, also, a lot of people like getting personal recs from us. Over the next few days we'll try to help you find something that you will love.\n\nSome of our favorite gear just went on sale! Get the best deals on our top brands before they're gone: http://bctxt.co/awORyRnBLRMw .",
+          "message_type": "system",
+          "date_time": "2026-02-19 19:18:34.938"
+        },
+        {
+          "message_media": [],
+          "message_text": "Where's my coupon?",
+          "message_type": "customer",
+          "date_time": "2026-02-19 19:19:01.958"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"No promotions available - All brands\"; last updated: 2023-10-10 16:37:45.165",
+          "message_type": "template",
+          "date_time": "2026-02-19 19:20:13.555"
+        },
+        {
+          "message_media": [],
+          "message_text": "Backcountry: Thanks for reaching out! Unfortunately, I don't have any codes available at the moment, but our deals will always be shared with our SMS subscribers or on our website, so keep an eye out! In the meantime, you can check out our semi-annual sale here:\n\nhttp://bctxt.co/aE9zkt0Vm43n \n\nLet me know how that goes.",
+          "message_type": "agent",
+          "agent": "109617",
+          "message_id": "019c786b-245c-4824-f000-0000fc890cc5",
+          "date_time": "2026-02-19 19:20:13.557"
+        }
+      ],
+      "notes": {
+        "escalate": [
+          "No escalations for this client, send everything to CS"
+        ],
+        "tone": [
+          "Close the convo once the client takes over"
+        ],
+        "promo_and_promo_exclusions": [
+          "Welcome offer page:   https://www.backcountry.com/sc/new-customer-coupon-rules"
+        ]
+      },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://backcountry.com",
           "date": ""
         }
       },
-      "companyWebsite": "https://sauder.com",
+      "escalation_preferences": [],
+      "blocklisted_words": [],
+      "has_shopify": false
+    },
+    "90": {
+      "id": "019c77fa-7754-4b59-f000-0000d41dee0d",
       "companyName": "Sauder",
+      "companyWebsite": "https://sauder.com",
+      "agentName": "Ashley",
+      "messageTone": "Polished",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "Sauder: FINAL DAYS to get ready for the BIG GAME! Score 20% OFF select TV stands, credenzas and more! Deal ends 2/1! sauder.attn.tv/ap1LoLpcwgDO ",
+          "message_type": "system",
+          "date_time": "2026-01-29 14:16:45.897"
+        },
+        {
+          "message_media": [],
+          "message_text": "Sauder: It looks like you forgot something in your cart...complete your checkout today: \nhttps://sauder.attn.tv/ap9useiZvnh2\n\nUse code W48ZGH4S for 20% off your first order! ",
+          "message_type": "system",
+          "date_time": "2026-02-04 12:45:09.503"
+        },
+        {
+          "message_media": [],
+          "message_text": "Sauder: Hey there! We noticed you eyeing something on our site... did you have any questions I could help with?\n\nUse code W48ZGH4S for 20% off your first order!\n\n-Ashley\n https://sauder.attn.tv/a-mbv03HsEwq",
+          "message_type": "system",
+          "date_time": "2026-02-06 12:44:14.875"
+        },
+        {
+          "message_media": [],
+          "message_text": "Sauder: Hey there! We noticed you eyeing something on our site... did you have any questions I could help with?\n\nUse code W48ZGH4S for 20% off your first order!\n\n-Ashley\n https://sauder.attn.tv/alryWYyY0K5C",
+          "message_type": "system",
+          "date_time": "2026-02-08 14:27:59.244"
+        },
+        {
+          "message_media": [],
+          "message_text": "Sauder: Don't miss our President's Day deals: 20% OFF hundreds of home office and storage best sellers. Hurry, this sale ends 3/1! sauder.attn.tv/ahkXtU3ZEmIH ",
+          "message_type": "system",
+          "date_time": "2026-02-16 12:29:10.942"
+        },
+        {
+          "message_media": [],
+          "message_text": "Sauder: Hey, this is Ashley . Thanks for checking us out! 😊 https://sauder.attn.tv/al7jEkBFl58a \n\nAny questions I can answer for you? ",
+          "message_type": "system",
+          "date_time": "2026-02-19 15:48:15.234"
+        },
+        {
+          "message_media": [],
+          "message_text": "Sauder: It looks like you forgot something in your cart...complete your checkout today: \nhttps://sauder.attn.tv/aUd5UPgOhs4a\n\nUse code W48ZGH4S for 20% off your first order! ",
+          "message_type": "system",
+          "date_time": "2026-02-19 16:09:48.286"
+        },
+        {
+          "message_media": [],
+          "message_text": "Yes wanted to see if you could provide with a replacement for 60\" TV Credenza #420472",
+          "message_type": "customer",
+          "date_time": "2026-02-19 17:06:28.724"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"My item arrived damaged/defective\"; last updated: 2023-10-18 16:17:08.519",
+          "message_type": "template",
+          "date_time": "2026-02-19 17:17:09.230"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"My item arrived damaged/defective\"; last updated: 2023-10-18 16:17:08.519",
+          "message_type": "template",
+          "date_time": "2026-02-19 17:17:09.230"
+        },
+        {
+          "message_media": [],
+          "message_text": "Sauder: Thank you for reaching out, and I'm sorry for the inconvenience. Just to be sure, did you recently place an order, and it was damaged upon delivery? If so, we offer replacement parts at no charge! Simply call our customer service team at 800-523-3987 for help with assembly or replacement parts. One of my colleagues will be more than happy to assist you! \n\nIf you were looking for an alternartive to Harbor View Curado Cherry Entertainment Credenza, what do you think about these options? - https://sauder.attn.tv/aR5RKSqAeRoO\nhttps://sauder.attn.tv/aKnaOnK2bwPV",
+          "message_type": "agent",
+          "agent": "87310",
+          "message_id": "019c77fa-7754-4b59-f000-0000d41dee0d",
+          "date_time": "2026-02-19 17:17:09.236"
+        }
+      ],
       "notes": {
         "send_to_cs": [
           "Send to CS for post-purchase inquiries for items purchased through a retailer"
@@ -292,394 +554,49 @@
           "Let the customer have the last word!"
         ],
         "drive_to_purchase": [
-          "Don\u0027t recommend Retailer Exclusive items"
+          "Don't recommend Retailer Exclusive items"
         ],
-        "promo_and_exclusions": [
+        "promo_and_promo_exclusions": [
           "Discount codes CAN be applied to clearance items"
         ]
       },
-      "blocklisted_words": [
-        
-      ],
-      "escalation_preferences": [
-        
-      ],
-      "messageTone": "Polished",
-      "conversation": [
-        {
-          "message_type": "system",
-          "message_text": "Sauder: FINAL DAYS to get ready for the BIG GAME! Score 20% OFF select TV stands, credenzas and more! Deal ends 2/1! sauder.attn.tv/ap1LoLpcwgDO ",
-          "date_time": "2026-01-29 14:16:45.897",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Sauder: It looks like you forgot something in your cart...complete your checkout today: \nhttps://sauder.attn.tv/ap9useiZvnh2\n\nUse code W48ZGH4S for 20% off your first order! ",
-          "date_time": "2026-02-04 12:45:09.503",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Sauder: Hey there! We noticed you eyeing something on our site... did you have any questions I could help with?\n\nUse code W48ZGH4S for 20% off your first order!\n\n-Ashley\n https://sauder.attn.tv/a-mbv03HsEwq",
-          "date_time": "2026-02-06 12:44:14.875",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Sauder: Hey there! We noticed you eyeing something on our site... did you have any questions I could help with?\n\nUse code W48ZGH4S for 20% off your first order!\n\n-Ashley\n https://sauder.attn.tv/alryWYyY0K5C",
-          "date_time": "2026-02-08 14:27:59.244",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Sauder: Don\u0027t miss our President\u0027s Day deals: 20% OFF hundreds of home office and storage best sellers. Hurry, this sale ends 3/1! sauder.attn.tv/ahkXtU3ZEmIH ",
-          "date_time": "2026-02-16 12:29:10.942",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Sauder: Hey, this is Ashley . Thanks for checking us out! 😊 https://sauder.attn.tv/al7jEkBFl58a \n\nAny questions I can answer for you? ",
-          "date_time": "2026-02-19 15:48:15.234",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Sauder: It looks like you forgot something in your cart...complete your checkout today: \nhttps://sauder.attn.tv/aUd5UPgOhs4a\n\nUse code W48ZGH4S for 20% off your first order! ",
-          "date_time": "2026-02-19 16:09:48.286",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "Yes wanted to see if you could provide with a replacement for 60\" TV Credenza #420472",
-          "date_time": "2026-02-19 17:06:28.724",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "template",
-          "message_text": "Template used: \"My item arrived damaged/defective\"; last updated: 2023-10-18 16:17:08.519",
-          "date_time": "2026-02-19 17:17:09.230",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "template",
-          "message_text": "Template used: \"My item arrived damaged/defective\"; last updated: 2023-10-18 16:17:08.519",
-          "date_time": "2026-02-19 17:17:09.230",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c77fa-7754-4b59-f000-0000d41dee0d",
-          "message_text": "Sauder: Thank you for reaching out, and I\u0027m sorry for the inconvenience. Just to be sure, did you recently place an order, and it was damaged upon delivery? If so, we offer replacement parts at no charge! Simply call our customer service team at 800-523-3987 for help with assembly or replacement parts. One of my colleagues will be more than happy to assist you! \n\nIf you were looking for an alternartive to Harbor View Curado Cherry Entertainment Credenza, what do you think about these options? - https://sauder.attn.tv/aR5RKSqAeRoO\nhttps://sauder.attn.tv/aKnaOnK2bwPV",
-          "message_type": "agent",
-          "agent": "87310",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-19 17:17:09.236"
-        }
-      ]
-    },
-    "89": {
-      "agentName": "Kat",
-      "id": "019c7872-7748-4982-f000-0000f47613e2",
       "rightPanel": {
-        "browsingHistory": [
-          {
-            "link": "https://www.restartmed.com/product/thyroid-glandular-plus/?utm_source=google\u0026utm_medium=paid\u0026utm_campaign=16930217942\u0026utm_content=\u0026utm_term=\u0026gadid=\u0026gad_source=1\u0026gad_campaignid=16916687895\u0026gbraid=0AAAAADoARgWAFq7H8NxgnFUn19L7jaoVK\u0026gclid=Cj0KCQiAhtvMBhDBARIsAL26pjHuvwl5g0-HJxA7sBst_wITFeVDUU0jvkovHOgRI8u7ccdyb1bLOswaAitlEALw_wcB",
-            "item": "https://www.restartmed.com/product/thyroid-glandular-plus/?utm_source=google\u0026utm_medium=paid\u0026utm_campaign=16930217942\u0026utm_content=\u0026utm_term=\u0026gadid=\u0026gad_source=1\u0026gad_campaignid=16916687895\u0026gbraid=0AAAAADoARgWAFq7H8NxgnFUn19L7jaoVK\u0026gclid=Cj0KCQiAhtvMBhDBARIsAL26pjHuvwl5g0-HJxA7sBst_wITFeVDUU0jvkovHOgRI8u7ccdyb1bLOswaAitlEALw_wcB",
-            "timeAgo": "2026-02-19"
-          },
-          {
-            "link": "https://www.restartmed.com/product/thyroid-glandular-plus/?utm_source=google\u0026utm_medium=paid\u0026utm_campaign=16930217942\u0026utm_content=\u0026utm_term=\u0026gadid=\u0026gad_source=1\u0026gad_campaignid=16916687895\u0026gbraid=0AAAAADoARgWAFq7H8NxgnFUn19L7jaoVK\u0026gclid=Cj0KCQiAhtvMBhDBARIsAL26pjEQqz1LBged1VpqhOVA6UuQerHM_qeIzygRYWBkx0-M79KnrrxLlW0aAkrbEALw_wcB",
-            "item": "https://www.restartmed.com/product/thyroid-glandular-plus/?utm_source=google\u0026utm_medium=paid\u0026utm_campaign=16930217942\u0026utm_content=\u0026utm_term=\u0026gadid=\u0026gad_source=1\u0026gad_campaignid=16916687895\u0026gbraid=0AAAAADoARgWAFq7H8NxgnFUn19L7jaoVK\u0026gclid=Cj0KCQiAhtvMBhDBARIsAL26pjEQqz1LBged1VpqhOVA6UuQerHM_qeIzygRYWBkx0-M79KnrrxLlW0aAkrbEALw_wcB",
-            "timeAgo": "2026-02-19"
-          },
-          {
-            "link": "https://www.restartmed.com/product/thyroid-glandular-plus/",
-            "item": "https://www.restartmed.com/product/thyroid-glandular-plus/",
-            "timeAgo": "2026-02-19"
-          },
-          {
-            "link": "https://www.restartmed.com/product/thyroid-glandular-plus/",
-            "item": "https://www.restartmed.com/product/thyroid-glandular-plus/",
-            "timeAgo": "2026-02-19"
-          },
-          {
-            "link": "https://www.restartmed.com/product/thyroid-glandular-plus/",
-            "item": "https://www.restartmed.com/product/thyroid-glandular-plus/",
-            "timeAgo": "2026-02-18"
-          }
-        ],
         "source": {
           "label": "Website",
-          "value": "https://restartmed.com",
+          "value": "https://sauder.com",
           "date": ""
-        }
-      },
-      "companyWebsite": "https://restartmed.com",
-      "companyName": "Dr.Westin Childs",
-      "notes": {
-        "send_to_cs": [
-          "Send to CS for post purchase issues, use PPI shortcut"
-        ]
-      },
-      "blocklisted_words": [
-        
-      ],
-      "escalation_preferences": [
-        
-      ],
-      "messageTone": "Polished",
-      "conversation": [
-        {
-          "message_type": "system",
-          "message_text": "Dr. Westin Childs: Reply Y to subscribe to recurring automated personalized marketing alerts (e.g. cart reminders) from Dr. Westin Childs.",
-          "date_time": "2026-02-19 18:37:53.452",
-          "message_media": [
-            
-          ]
         },
-        {
-          "message_type": "system",
-          "message_text": "Dr. Westin Childs: Welcome to Dr. Westin Childs! Msg \u0026 data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
-          "date_time": "2026-02-19 18:39:01.724",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Dr. Westin Childs: Welcome! Click here to for your 20% off coupon: https://drwc.attn.tv/aeKdEzeboins ",
-          "date_time": "2026-02-19 18:39:05.711",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "You did not apply my 20% discount to   the order, and there was no space to enter the code at checkout.  I do not understand.",
-          "date_time": "2026-02-19 19:10:36.433",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c7864-8e9f-4881-f000-0000f47613e2",
-          "message_text": "Dr. Westin Childs: I apologize for the confusion this has caused. The promo code field is available at checkout-you\u0027ll just need to click on \"Have a coupon? Click here to enter your code,\" and the box will appear.\n\nI don\u0027t see any orders placed on my end yet. To confirm, have you already completed the order, or are you still in the process of checking out? Let me know so I can guide you further. ",
-          "message_type": "agent",
-          "agent": "87595",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-19 19:13:02.019"
-        },
-        {
-          "message_type": "customer",
-          "message_text": "I finished my order and got a confirmation thank you for your order with no discount.",
-          "date_time": "2026-02-19 19:17:06.545",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c7869-dc48-496e-f000-0000f47613e2",
-          "message_text": "Dr. Westin Childs: I\u0027m sorry to hear that. We don\u0027t handle post-purchase requests via text. Please email your request to hello@restartmed.com or feel free to call this number (480) 331-9431. Please let me know if you have any questions about our products, I\u0027m more than happy to help you here!\n ",
-          "message_type": "agent",
-          "agent": "46059",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-19 19:18:49.575"
-        },
-        {
-          "message_type": "customer",
-          "message_text": "My receipt # is 370030 at 3:47 PM for $46.75 and there should be $9.35 discount.",
-          "date_time": "2026-02-19 19:22:36.504",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c7872-7748-4982-f000-0000f47613e2",
-          "message_text": "Dr. Westin Childs: Thanks for letting me know. However, we don\u0027t handle post-purchase requests via text. I truly wish I could fix this directly for you, but my system can only handle product-related concerns. Thank you for your utmost patience and understanding.",
-          "message_type": "agent",
-          "agent": "109630",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-19 19:28:13.534"
-        }
-      ]
-    },
-    "90": {
-      "agentName": "Jamie",
-      "id": "019c68e5-9224-46e7-f000-0000fbc292ee",
-      "rightPanel": {
         "browsingHistory": [
           {
-            "link": "https://www.capillus.com/products/capillus-pro-s2?contact_posted=true#ContactForm-template--18577459249291__faq",
-            "item": "Capillus PRO S2",
-            "timeAgo": "2026-02-16"
+            "item": "TV Credenza with Sliding Doors in Deco Cherry",
+            "link": "https://www.sauder.com/furniture/442180/tv-credenza-with-sliding-doors-in-deco-cherry#",
+            "timeAgo": "2026-02-19"
           },
           {
-            "link": "https://www.capillus.com/products/capillus-pro-s2?contact_posted=true#ContactForm-template--18577459249291__faq",
-            "item": "Capillus PRO S2",
-            "timeAgo": "2026-02-16"
+            "item": "TV Credenza with Sliding Doors in Deco Cherry",
+            "link": "https://www.sauder.com/furniture/442180/tv-credenza-with-sliding-doors-in-deco-cherry",
+            "timeAgo": "2026-02-19"
           },
           {
-            "link": "https://www.capillus.com/products/capillus-pro-s2",
-            "item": "Capillus PRO S2",
-            "timeAgo": "2026-02-16"
+            "item": "Storage Cabinet",
+            "link": "https://www.sauder.com/furniture/422426/storage-cabinet",
+            "timeAgo": "2026-02-08"
+          },
+          {
+            "item": "Storage Cabinet",
+            "link": "https://www.sauder.com/furniture/422426/storage-cabinet",
+            "timeAgo": "2026-02-08"
+          },
+          {
+            "item": "Wardrobe/Storage Cabinet",
+            "link": "https://www.sauder.com/furniture/411802/wardrobestorage-cabinet",
+            "timeAgo": "2026-02-06"
           }
-        ],
-        "source": {
-          "label": "Website",
-          "value": "https://capillus.com",
-          "date": ""
-        }
-      },
-      "companyWebsite": "https://capillus.com",
-      "companyName": "Capillus",
-      "notes": {
-        "send_to_cs": [
-          "Send to CS if a subscriber mentions a medical issue or an adverse effect from using products from this brand"
-        ],
-        "escalate": [
-          "ESC immediately discount code issues"
-        ],
-        "dos_and_donts": [
-          "Do not share any medical advice or guidance to subscribers outside of recommending appropriate products or directing them to purchase the right item",
-          "Do not comment on their medical situations",
-          "Close the covo if the customer says they\u0027re receiving too many messages/we\u0027re texting them too often - don\u0027t send TMT"
-        ],
-        "drive_to_purchase": [
-          "If cx says they will be ordering soon, offer to schedule a call if they need further assistance with their purchase (shortcut OS) - do not upsell"
-        ],
-        "tone": [
-          "Don\u0027t use the term \"hang tight\", just say that you\u0027ve passed the information to the team",
-          "Close the conversation once the client takes over"
-        ],
-        "templates": [
-          "If cx already purchased, use specific TFP template"
-        ],
-        "promo_and_exclusions": [
-          "We do not offer any discounts for the SPECTRUM"
         ]
       },
-      "blocklisted_words": [
-        "Curallux",
-        "hang"
-      ],
-      "escalation_preferences": [
-        "Discount code errors",
-        "Exchanges and returns"
-      ],
-      "messageTone": "Polished",
-      "conversation": [
-        {
-          "message_type": "system",
-          "message_text": "Capillus: Reply Y to subscribe to recurring automated personalized marketing alerts (e.g. cart reminders) from Capillus.",
-          "date_time": "2026-02-16 18:20:07.838",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Capillus: Welcome to Capillus! Msg \u0026 data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
-          "date_time": "2026-02-16 18:20:27.699",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Capillus: Welcome to Capillus 👋\nYou\u0027re officially in. Discover science-backed red light therapy designed for hair regrowth, recovery, and everyday wellness. Explore here: capillus.attn.tv/aPokiV_lAWXn \n*Up to 30% OFF. Discount is applied on site. No code needed. \n",
-          "date_time": "2026-02-16 18:20:31.680",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Capillus: Don\u0027t forget to save our contact to get exclusive updates!",
-          "date_time": "2026-02-16 18:20:32.781",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Capillus: Hey there, this is Jamie! You left Capillus PRO S2 in your cart. \n\nBoost your confidence with Capillus Red Light Therapy. Complete your purchase now capillus.attn.tv/a_7h5P-ZLd0U\n\nText back if you need help!",
-          "date_time": "2026-02-16 18:42:44.691",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Capillus: Hey there, this is Jamie! We saw you checking out Capillus PRO S2! \n\nDon\u0027t wait, transform your confidence back today: capillus.attn.tv/af4yz3EW1Uk7 .\n\nText back if you need assistance.",
-          "date_time": "2026-02-16 18:43:08.287",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "i need the larger size how do i order",
-          "date_time": "2026-02-16 18:43:54.379",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c68e2-5d87-488c-f000-0000fbc292ee",
-          "message_text": "Capillus: Thank you for reaching out. Sure, let me help you. Regular caps fit most heads, up to 23\" in circumference (comparable to a size 7 hat). Extra-large caps, comparable to a size 8 hat, are available upon request by scheduling a call with our customer service at: https://capillus.attn.tv/ahGFRr4ekxjg. ",
-          "message_type": "agent",
-          "agent": "48804",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-16 18:56:31.536"
-        },
-        {
-          "message_type": "customer",
-          "message_text": "great i need xl and have a call set up",
-          "date_time": "2026-02-16 18:57:34.271",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c68e5-9224-46e7-f000-0000fbc292ee",
-          "message_text": "Capillus: Great, glad you have a call scheduled! Please let me know if there\u0027s anything else that I could assist you with while I have you, I\u0027m just a text away. ",
-          "message_type": "agent",
-          "agent": "109617",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-16 19:00:01.609"
-        }
-      ]
+      "escalation_preferences": [],
+      "blocklisted_words": [],
+      "has_shopify": false
     }
   }
 }

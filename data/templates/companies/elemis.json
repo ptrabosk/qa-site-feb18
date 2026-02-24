@@ -2,7 +2,7 @@
   "companyKey": "elemis",
   "templates": [
     {
-      "name": "My code isn\u0027t working",
+      "name": "My code isn't working",
       "content": "We are so sorry to hear this, we would recommend checking the terms and conditions for eligibility of the products and ensuring you are only using one code. If this continues to still not apply, please let us know which items you are trying to purchase alongside the code for us to assist further.",
       "id": "508b53db-4dfb-45a8-bff7-0371f3639c0b",
       "shortcut": "cww",
@@ -10,13 +10,13 @@
     },
     {
       "name": "Birthday rewards/loyalty",
-      "content": "I\u0027m so sorry. The birthday gift was retired together with the loyalty program on 07/27/22, but we will provide other birthday treats to our loyal customers. Please make sure to check out our emails during your birthday month.",
+      "content": "I'm so sorry. The birthday gift was retired together with the loyalty program on 07/27/22, but we will provide other birthday treats to our loyal customers. Please make sure to check out our emails during your birthday month.",
       "id": "23f7f3c5-0297-4f07-b935-ec7442ccfdf1",
       "companyName": "ELEMIS"
     },
     {
       "name": "Military / First responder / Healthcare / Teacher discount",
-      "content": "Thank you for your service! We don\u0027t have any specific discounts like that, but our deals will always be shared with our SMS subscribers or on our website, so keep an eye out!",
+      "content": "Thank you for your service! We don't have any specific discounts like that, but our deals will always be shared with our SMS subscribers or on our website, so keep an eye out!",
       "id": "e1a0b5e2-eefc-4743-aefc-79f244bcaffe",
       "shortcut": "ms",
       "companyName": "ELEMIS"
@@ -37,7 +37,7 @@
     },
     {
       "name": "Difference between the pro-collagen definition night cream and the oxygenating night cream",
-      "content": "They\u0027re both great choices, so you can\u0027t go wrong, but the key difference is that the pro-collagen visibly redefines, sculpts and smooths skin with its firming overnight moisturiser which reduces the appearance of sagging skin around the jowls, cheeks and chin, whereas the oxygenating night cream helps improve the appearance of skin suppleness, firmness, and elasticity which targets the signs of aging to reveal a radiant, firmer-looking complexion upon waking.",
+      "content": "They're both great choices, so you can't go wrong, but the key difference is that the pro-collagen visibly redefines, sculpts and smooths skin with its firming overnight moisturiser which reduces the appearance of sagging skin around the jowls, cheeks and chin, whereas the oxygenating night cream helps improve the appearance of skin suppleness, firmness, and elasticity which targets the signs of aging to reveal a radiant, firmer-looking complexion upon waking.",
       "id": "96a52f63-aaf0-423c-9d30-f4509954d056",
       "companyName": "ELEMIS"
     },
@@ -78,20 +78,20 @@
     },
     {
       "name": "Do you have discounts?",
-      "content": "I\u0027m afraid we don\u0027t have any codes at the moment but feel free to check on our offers here: https://us.elemis.com/offers",
+      "content": "I'm afraid we don't have any codes at the moment but feel free to check on our offers here: https://us.elemis.com/offers",
       "id": "d7cfb2f5-2c0a-4e23-a160-0cbd6ac9c04b",
       "shortcut": "ncode",
       "companyName": "ELEMIS"
     },
     {
       "name": "Can I request a sample?",
-      "content": "We don\u0027t give any samples at the moment, but I\u0027d recommend visiting one of our stores or spas where they\u0027ll be happy to demonstrate our products and help you out with your decision. To find the nearest one near you, go here: https://elemis.attn.tv/sl/1V4aKHIc",
+      "content": "We don't give any samples at the moment, but I'd recommend visiting one of our stores or spas where they'll be happy to demonstrate our products and help you out with your decision. To find the nearest one near you, go here: https://elemis.attn.tv/sl/1V4aKHIc",
       "id": "f9b3fcf0-48a0-4734-816d-3703be7f20b2",
       "companyName": "ELEMIS"
     },
     {
       "name": "What is your approach to sustainability?",
-      "content": "Sustainability is the capacity to endure. In ecology, the word describes how biological systems remain diverse and productive over time. For humans, it\u0027s the potential for long-term maintenance of well-being, which in turn depends on the wellbeing of the natural world and the responsible use of natural resources. We actively seek out sustainable ingredients and always endeavours to support local growers and their communities.",
+      "content": "Sustainability is the capacity to endure. In ecology, the word describes how biological systems remain diverse and productive over time. For humans, it's the potential for long-term maintenance of well-being, which in turn depends on the wellbeing of the natural world and the responsible use of natural resources. We actively seek out sustainable ingredients and always endeavours to support local growers and their communities.",
       "id": "b7cfce9d-d2c0-4752-8a71-ed6d032aa461",
       "companyName": "ELEMIS"
     },
@@ -115,14 +115,14 @@
     },
     {
       "name": "Cancel/edit order",
-      "content": "I\u0027m afraid once your order has been placed, we\u0027re unable to cancel or amend it. Apologies for the inconvenience! However please reach out to our Customer Care Team at customercare@elemis.com who will be able to assist you with a return.",
+      "content": "I'm afraid once your order has been placed, we're unable to cancel or amend it. Apologies for the inconvenience! However please reach out to our Customer Care Team at customercare@elemis.com who will be able to assist you with a return.",
       "id": "d8bc43d0-41ae-481b-bca3-22858d7550a7",
       "shortcut": "ced",
       "companyName": "ELEMIS"
     },
     {
       "name": "What can I do if a favorite product is discontinued?",
-      "content": "We\u0027re sorry to hear your favorite product has been discontinued! We do offer consultations via email or phone, to help you find an alternative product that will benefit your skin.",
+      "content": "We're sorry to hear your favorite product has been discontinued! We do offer consultations via email or phone, to help you find an alternative product that will benefit your skin.",
       "id": "bb4aeadb-673e-4f6a-b754-d683e42eea3f",
       "companyName": "ELEMIS"
     },
@@ -166,7 +166,7 @@
     },
     {
       "name": "Which Elemis products were offered on XXX cruise ship?",
-      "content": "Please reach out via email at postcruisecustomerservice@steinerlesuire.com. Rest assured you\u0027ll be in excellent hands!",
+      "content": "Please reach out via email at postcruisecustomerservice@steinerlesuire.com. Rest assured you'll be in excellent hands!",
       "id": "b19287b9-0573-488f-b247-59a3a3a19139",
       "companyName": "ELEMIS"
     },
@@ -179,7 +179,7 @@
     },
     {
       "name": "Do you offer price adjustment?",
-      "content": "Unfortunately, we don\u0027t offer any price adjustments.",
+      "content": "Unfortunately, we don't offer any price adjustments.",
       "id": "302a109c-bccf-43f0-b7ba-cad88322004c",
       "companyName": "ELEMIS"
     },
@@ -191,7 +191,7 @@
     },
     {
       "name": "Manage Subscription",
-      "content": "I\u0027m happy to help. You have complete control over your Subscription orders, and we will send you an email reminder 7 days before each order ships. You can update your details and change your delivery frequency, next order date, or quantity at any time by visiting \"Subscriptions\" located within your account. Changes to orders can be made up to 24 hours before the next scheduled shipment date. Please note that once your order is placed, we are unable to make any guaranteed amendments.",
+      "content": "I'm happy to help. You have complete control over your Subscription orders, and we will send you an email reminder 7 days before each order ships. You can update your details and change your delivery frequency, next order date, or quantity at any time by visiting \"Subscriptions\" located within your account. Changes to orders can be made up to 24 hours before the next scheduled shipment date. Please note that once your order is placed, we are unable to make any guaranteed amendments.",
       "id": "8e67bc39-a192-46d3-938d-58d1c02a54b9",
       "companyName": "ELEMIS"
     },

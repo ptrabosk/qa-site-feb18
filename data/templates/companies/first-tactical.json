@@ -63,7 +63,7 @@
     },
     {
       "name": "Restock [autosend enabled]",
-      "content": "We\u0027re sorry the item you wanted is sold out! Please let me know the item/color/size and I\u0027ll see if I can find a date of when this may be in stock.",
+      "content": "We're sorry the item you wanted is sold out! Please let me know the item/color/size and I'll see if I can find a date of when this may be in stock.",
       "id": "30f90935-d0cd-4824-b23b-c20b41a6fdc6",
       "shortcut": "stok",
       "companyName": "First Tactical"
@@ -126,14 +126,14 @@
       "companyName": "First Tactical"
     },
     {
-      "name": "Are your women\u0027s pants considered low rise or high rise?",
-      "content": "The women\u0027s pants would be considered a mid rise in todays market. These are specifically designed for a uniform, professional customer as compared to fashion. We have intentionally fit the pants to allow for the many activities and performance needs of our target consumer so that they can bend, move and function in their everyday active work environment.",
+      "name": "Are your women's pants considered low rise or high rise?",
+      "content": "The women's pants would be considered a mid rise in todays market. These are specifically designed for a uniform, professional customer as compared to fashion. We have intentionally fit the pants to allow for the many activities and performance needs of our target consumer so that they can bend, move and function in their everyday active work environment.",
       "id": "73567e9d-1143-4adf-afa5-c98c82af8c81",
       "companyName": "First Tactical"
     },
     {
       "name": "Sales group",
-      "content": "Where are you from? If you provide your contact details (email/phone number) I\u0027d be happy to pass it along to one of our sales reps in your area to start a conversation on how we can better serve you.",
+      "content": "Where are you from? If you provide your contact details (email/phone number) I'd be happy to pass it along to one of our sales reps in your area to start a conversation on how we can better serve you.",
       "id": "1387208f-e68a-4b0d-918f-f46f8a22a1e6",
       "companyName": "First Tactical"
     },
@@ -145,13 +145,13 @@
     },
     {
       "name": "Is your Mulitcam defender coming back in stock?",
-      "content": "As of now, we won\u0027t continue production on our Multicam defender. It\u0027s marked as closeout.",
+      "content": "As of now, we won't continue production on our Multicam defender. It's marked as closeout.",
       "id": "7028b1b1-1c36-49c8-a667-e75ed468b96f",
       "companyName": "First Tactical"
     },
     {
       "name": "Cancel / edit order",
-      "content": "I\u0027m afraid we\u0027re unable to edit orders once they\u0027ve been placed. However, I can check if it\u0027s possible to cancel the order instead. If you would like to proceed with the cancelation please send me your order number and email adress as well.",
+      "content": "I'm afraid we're unable to edit orders once they've been placed. However, I can check if it's possible to cancel the order instead. If you would like to proceed with the cancelation please send me your order number and email adress as well.",
       "id": "722dbd6a-dce5-4e22-8981-366a0a43fd2d",
       "shortcut": "ced",
       "companyName": "First Tactical"
@@ -178,25 +178,25 @@
     },
     {
       "name": "Do you do custom patches?",
-      "content": "I\u0027m afraid we don\u0027t make custom patches.",
+      "content": "I'm afraid we don't make custom patches.",
       "id": "1d7e4411-251e-4d0a-a8c7-8223a7866cd7",
       "companyName": "First Tactical"
     },
     {
-      "name": "What is the weight of the men\u0027s 7\" operators boot size 12 ( Style 165010 )",
-      "content": "The Men\u0027s 7\" Operator Boots weigh approximately 1.36 lbs.",
+      "name": "What is the weight of the men's 7\" operators boot size 12 ( Style 165010 )",
+      "content": "The Men's 7\" Operator Boots weigh approximately 1.36 lbs.",
       "id": "ada93e24-b811-420e-8558-f4f938cd65b6",
       "companyName": "First Tactical"
     },
     {
       "name": "Can I combine points and code?",
-      "content": "Please note that only one discount code can be used per order. I\u0027m afraid points and discount codes cannot be combined.",
+      "content": "Please note that only one discount code can be used per order. I'm afraid points and discount codes cannot be combined.",
       "id": "ec24d572-c353-4cc2-8802-1875fa9f5b6f",
       "companyName": "First Tactical"
     },
     {
       "name": "Size Chart: Women - Clothes",
-      "content": "You can take a look at our women\u0027s size chart here: https://www.firsttactical.com/pages/womens-apparel-size-charts-24",
+      "content": "You can take a look at our women's size chart here: https://www.firsttactical.com/pages/womens-apparel-size-charts-24",
       "id": "0f3a44b4-24c5-4644-a850-63bd43900f3c",
       "companyName": "First Tactical"
     },
@@ -209,7 +209,7 @@
     },
     {
       "name": "Size Chart: Men - Clothes",
-      "content": "You can take a look at our men\u0027s size chart here: https://www.firsttactical.com/pages/mens-apparel-size-charts-24",
+      "content": "You can take a look at our men's size chart here: https://www.firsttactical.com/pages/mens-apparel-size-charts-24",
       "id": "8e99c73a-b450-4c85-a391-3ec395d4e4a9",
       "companyName": "First Tactical"
     },
@@ -222,7 +222,7 @@
     },
     {
       "name": "Shipping time",
-      "content": "We offer ground and 2-day shipping. Note that free shipping promotions are for ground shipments only. To get 2-day shipping, orders must be received 10am PST.  Ground orders will be processed to ship on the following business day, unless otherwise noted. Once shipped via USPS or FedEx, orders arrive within 7-10 business days. We don\u0027t offer international shipping right now, but hopefully will in the future.",
+      "content": "We offer ground and 2-day shipping. Note that free shipping promotions are for ground shipments only. To get 2-day shipping, orders must be received 10am PST.  Ground orders will be processed to ship on the following business day, unless otherwise noted. Once shipped via USPS or FedEx, orders arrive within 7-10 business days. We don't offer international shipping right now, but hopefully will in the future.",
       "id": "aebafd03-72c9-4f5a-84bd-dc4b9642a982",
       "shortcut": "shp",
       "companyName": "First Tactical"

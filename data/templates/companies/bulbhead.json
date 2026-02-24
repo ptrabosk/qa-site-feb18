@@ -15,21 +15,21 @@
     },
     {
       "name": "Cancel / edit order",
-      "content": "I can check if that\u0027s possible. What\u0027s the order number, email address and the change you\u0027d like to make?",
+      "content": "I can check if that's possible. What's the order number, email address and the change you'd like to make?",
       "id": "a2a99604-def6-4b92-8a32-d64391b112d9",
       "shortcut": "ced",
       "companyName": "BulbHead"
     },
     {
       "name": "Store location / retailer",
-      "content": "We don\u0027t currently have a store, but definitely keep an eye out!",
+      "content": "We don't currently have a store, but definitely keep an eye out!",
       "id": "b1a279fb-1e34-4932-92cd-1e903d2ba9fc",
       "shortcut": "sl",
       "companyName": "BulbHead"
     },
     {
       "name": "Military / First responder / Healthcare / Teacher discount",
-      "content": "Thank you for your service! We don\u0027t have any specific discounts like that, but our deals will always be shared with our SMS subscribers or on our website, so keep an eye out!",
+      "content": "Thank you for your service! We don't have any specific discounts like that, but our deals will always be shared with our SMS subscribers or on our website, so keep an eye out!",
       "id": "5cc71f07-9be5-4fde-ac3f-cd3843ff1f72",
       "shortcut": "ms",
       "companyName": "BulbHead"
@@ -68,13 +68,13 @@
     },
     {
       "name": "Can I apply multiple promo codes?",
-      "content": "I\u0027m sorry, but only one code can be used at a time.",
+      "content": "I'm sorry, but only one code can be used at a time.",
       "id": "2a4e12b5-0f4e-494f-938a-4fd9652d78ba",
       "companyName": "BulbHead"
     },
     {
       "name": "How do I unsubscribe from BulbHead’s marketing emails?",
-      "content": "To unsubscribe from BulbHead\u0027s marketing emails, please click on the unsubscribe link located in the footer within the email.",
+      "content": "To unsubscribe from BulbHead's marketing emails, please click on the unsubscribe link located in the footer within the email.",
       "id": "c408760c-a73d-4a5e-bfbd-1db8277f0f06",
       "companyName": "BulbHead"
     },
@@ -87,7 +87,7 @@
     },
     {
       "name": "How do I apply a promo code to my purchase?",
-      "content": "You can edit or remove a promo code by clicking on \u0027Cancel\u0027 on the promo code box within your shopping cart or on the order review section of checkout before you place your order.",
+      "content": "You can edit or remove a promo code by clicking on 'Cancel' on the promo code box within your shopping cart or on the order review section of checkout before you place your order.",
       "id": "c7174b1b-98d5-4985-b3e2-fa89c002de73",
       "companyName": "BulbHead"
     },
@@ -120,7 +120,7 @@
     },
     {
       "name": "Can I get a refund from BulbHead for a product I purchased in a retail store?",
-      "content": "BulbHead products are subject to the individual retail store\u0027s return policy where it was originally purchased. Please return to the store directly.",
+      "content": "BulbHead products are subject to the individual retail store's return policy where it was originally purchased. Please return to the store directly.",
       "id": "2440156d-24ee-42d7-9958-d194bcff8157",
       "companyName": "BulbHead"
     },
@@ -152,7 +152,7 @@
     },
     {
       "name": "Phone support",
-      "content": "We don\u0027t offer phone support right now but I\u0027d be happy to help you over text, let me know what I can do for you!",
+      "content": "We don't offer phone support right now but I'd be happy to help you over text, let me know what I can do for you!",
       "id": "ef45df6e-154a-4895-9ac0-6f9a31d1e23f",
       "shortcut": "ps",
       "companyName": "BulbHead"

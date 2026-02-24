@@ -3,7 +3,7 @@
   "templates": [
     {
       "name": "To help with your decision",
-      "content": "To help with your decision today, check out our gift guide. It\u0027s helpful when picking something out even if it\u0027s for yourself: https://www.fragrancenet.com/gift-guide",
+      "content": "To help with your decision today, check out our gift guide. It's helpful when picking something out even if it's for yourself: https://www.fragrancenet.com/gift-guide",
       "id": "236c0f63-8c74-46bb-af49-e030b752721b",
       "shortcut": "hyd",
       "companyName": "FragranceNet"
@@ -17,25 +17,25 @@
     },
     {
       "name": "Difference between parfum, EDP, EDT, and cologne",
-      "content": "Parfum has the highest concentration of juice, causing the scent to be released over a longer period of time in a series of notes. The second-highest concentration is found in Eau de Parfum which has a touch lighter smell to it than perfume. Then, the Eau de Toilette has a lighter scent than Eau de Parfum, so I recommend that you apply it liberally. Lastly, Eau de Cologne is the most subtle version of fragrance. If it helps further, Eau de Toilette and Eau de Cologne are generally interchangeable, particularly in Men\u0027s fragrances.",
+      "content": "Parfum has the highest concentration of juice, causing the scent to be released over a longer period of time in a series of notes. The second-highest concentration is found in Eau de Parfum which has a touch lighter smell to it than perfume. Then, the Eau de Toilette has a lighter scent than Eau de Parfum, so I recommend that you apply it liberally. Lastly, Eau de Cologne is the most subtle version of fragrance. If it helps further, Eau de Toilette and Eau de Cologne are generally interchangeable, particularly in Men's fragrances.",
       "id": "0e42173a-f43a-4128-9014-98df5b93423a",
       "companyName": "FragranceNet"
     },
     {
       "name": "Do the testers come with regular caps?",
-      "content": "It\u0027s not guaranteed because some of them come without the caps. Let me know if you have more questions I can answer for you.",
+      "content": "It's not guaranteed because some of them come without the caps. Let me know if you have more questions I can answer for you.",
       "id": "65badd22-b5d5-48e4-a2bc-cd250e79ea4e",
       "companyName": "FragranceNet"
     },
     {
       "name": "Where are you located?",
-      "content": "We\u0027re located in NY, USA.",
+      "content": "We're located in NY, USA.",
       "id": "98f6cc8c-3d8d-4c2a-8b40-83f628fd6721",
       "companyName": "FragranceNet"
     },
     {
       "name": "Why am I not getting 80% off as advertised?",
-      "content": "The savings on some items can be \u0027up to 80%\u0027 off in comparison to the manufacturer\u0027s suggested retail price. However, the final discount depends on the coupon. Feel free to check out our coupons page for the best available deals: https://www.fragrancenet.com/discount_coupon",
+      "content": "The savings on some items can be 'up to 80%' off in comparison to the manufacturer's suggested retail price. However, the final discount depends on the coupon. Feel free to check out our coupons page for the best available deals: https://www.fragrancenet.com/discount_coupon",
       "id": "1acba4be-30b5-4f3b-83bd-ee22c781b10e",
       "companyName": "FragranceNet"
     },
@@ -47,13 +47,13 @@
     },
     {
       "name": "Does the fragrance have a new or old recipe/formula/scent?",
-      "content": "Unfortunately, we do not have a record on what batch will be received in an order. We are also unable to ensure that a specific batch will be received in an order as well. However, we do gladly accept returns on any item you\u0027re unhappy with.",
+      "content": "Unfortunately, we do not have a record on what batch will be received in an order. We are also unable to ensure that a specific batch will be received in an order as well. However, we do gladly accept returns on any item you're unhappy with.",
       "id": "867e81a5-2730-473a-aa8a-fa12701f1d36",
       "companyName": "FragranceNet"
     },
     {
       "name": "Order Status / When will my order arrive?",
-      "content": "We offer a convenient online \u0027Order Status\u0027 feature which you can access here: https://www.fragrancenet.com/status",
+      "content": "We offer a convenient online 'Order Status' feature which you can access here: https://www.fragrancenet.com/status",
       "id": "9a651a2b-093f-43c9-93aa-4028fb8bd8f1",
       "companyName": "FragranceNet"
     },
@@ -77,8 +77,8 @@
       "companyName": "FragranceNet"
     },
     {
-      "name": "I don\u0027t see a product on your website, product is not in stock/available",
-      "content": "Unfortunately, we don\u0027t have a specific timeline on when new products will be listed. But we do have this product suggestion form that you can fill out - https://www.fragrancenet.com/f/net/request_product.html We\u0027ll do our best to notify you via email when it\u0027s in stock.",
+      "name": "I don't see a product on your website, product is not in stock/available",
+      "content": "Unfortunately, we don't have a specific timeline on when new products will be listed. But we do have this product suggestion form that you can fill out - https://www.fragrancenet.com/f/net/request_product.html We'll do our best to notify you via email when it's in stock.",
       "id": "0047bbba-5db5-4397-8b98-3c0ad62ee93d",
       "shortcut": "pna",
       "companyName": "FragranceNet"
@@ -91,7 +91,7 @@
     },
     {
       "name": "Do you offer gift wrapping?",
-      "content": "Unfortunately, we don\u0027t offer gift-wrapping services at this time.",
+      "content": "Unfortunately, we don't offer gift-wrapping services at this time.",
       "id": "c45c143d-e0d0-4b17-bd6b-6aa404f30d32",
       "companyName": "FragranceNet"
     },
@@ -103,8 +103,8 @@
       "companyName": "FragranceNet"
     },
     {
-      "name": "Website shows free shipping with no minimum purchase but it\u0027s not reflected at checkout",
-      "content": "Shipping is free on all domestic orders over $59.\n\nHowever, free shipping with no minimum is a \u0027coupon\u0027. The offer banner must be clicked on to have the coupon applied to your shopping bag. \n\nIt\u0027s important to note that we can only authorize the use of one coupon per order. Coupons, discounts and other promotions cannot be combined.",
+      "name": "Website shows free shipping with no minimum purchase but it's not reflected at checkout",
+      "content": "Shipping is free on all domestic orders over $59.\n\nHowever, free shipping with no minimum is a 'coupon'. The offer banner must be clicked on to have the coupon applied to your shopping bag. \n\nIt's important to note that we can only authorize the use of one coupon per order. Coupons, discounts and other promotions cannot be combined.",
       "id": "72e39252-3d48-4d2d-a1b8-b5fce8a6c41a",
       "shortcut": "fsb",
       "companyName": "FragranceNet"
@@ -128,20 +128,20 @@
       "companyName": "FragranceNet"
     },
     {
-      "name": "I\u0027m tax exempt, any tax deductions? Which states collect sales tax?",
+      "name": "I'm tax exempt, any tax deductions? Which states collect sales tax?",
       "content": "Sales taxes are automatically calculated depending on where the order is being shipped. If the county where the order is being shipped to requires the collection of taxes, a sales tax will be charged. States exempt from sales taxes are: Alaska, Delaware, Montana, New Hampshire and Oregon",
       "id": "c0bb2b96-b5b4-4d39-a9d4-0649d7af54a3",
       "companyName": "FragranceNet"
     },
     {
       "name": "Do you offer price matching?",
-      "content": "At this time, we don\u0027t offer price matching.",
+      "content": "At this time, we don't offer price matching.",
       "id": "ebe07107-2e74-41ad-a1a0-f3975db4c5d6",
       "companyName": "FragranceNet"
     },
     {
       "name": "Do you offer monthly subscriptions?",
-      "content": "We do offer monthly subscriptions, that\u0027s a great way to test out new perfumes! You can subscribe here: https://www.fragrancenet.com/subscriptions/subscribe",
+      "content": "We do offer monthly subscriptions, that's a great way to test out new perfumes! You can subscribe here: https://www.fragrancenet.com/subscriptions/subscribe",
       "id": "31a855cc-4912-4226-9546-d2e239712e16",
       "companyName": "FragranceNet"
     },
@@ -178,7 +178,7 @@
     },
     {
       "name": "Military / First responder discount",
-      "content": "Thank you for your service! We don\u0027t specifically have discounts for that, however, you can check out current promotions here: https://www.fragrancenet.com/discount_coupon",
+      "content": "Thank you for your service! We don't specifically have discounts for that, however, you can check out current promotions here: https://www.fragrancenet.com/discount_coupon",
       "id": "3ac8f3cf-851b-4454-a58d-b19198ca79d9",
       "shortcut": "ms",
       "companyName": "FragranceNet"
@@ -241,7 +241,7 @@
     },
     {
       "name": "Shipping policy - expedited shipping",
-      "content": "We offer Express U.S. Shipping which takes 1-2 business days guaranteed, excluding weekends. The price starts at $15.95 depending on the weight of what you ordered. We also offer 1-Business Day Shipping which takes 1 business day guaranteed, if you order by 12pm EST for delivery next business day, excluding weekends. It starts at $19.95 depending on the weight of what you ordered. Please note that both options aren\u0027t available for a P.O Box address.",
+      "content": "We offer Express U.S. Shipping which takes 1-2 business days guaranteed, excluding weekends. The price starts at $15.95 depending on the weight of what you ordered. We also offer 1-Business Day Shipping which takes 1 business day guaranteed, if you order by 12pm EST for delivery next business day, excluding weekends. It starts at $19.95 depending on the weight of what you ordered. Please note that both options aren't available for a P.O Box address.",
       "id": "b48741f7-928f-40b2-be39-8463274d64ba",
       "companyName": "FragranceNet"
     },
@@ -285,7 +285,7 @@
     },
     {
       "name": "Payment Methods",
-      "content": "We accept: MasterCard, Visa, American Express, Discover Card, Diners Club, PayPal, PayPal Credit, Amazon Payments \u0026 Afterpay.",
+      "content": "We accept: MasterCard, Visa, American Express, Discover Card, Diners Club, PayPal, PayPal Credit, Amazon Payments & Afterpay.",
       "id": "33a9b7da-e52e-470a-9a32-61083597c1d0",
       "companyName": "FragranceNet"
     }

@@ -1,0 +1,137 @@
+{
+  "companyKey": "beam",
+  "templates": [
+    {
+      "name": "What happens if an item in my Subscription is not in Stock?",
+      "content": "If items are out of stock, you can change the item or flavor in your portal if you want a shipment that month. If not, the item will not be shipped and you will not be charged for that renewal. The subscription will pick back up automatically once the item is in stock on your next order date.",
+      "id": "9a478feb-22f6-4791-aa4b-9b6c716b2acf",
+      "companyName": "BEAM"
+    },
+    {
+      "name": "Phone support",
+      "content": "We don't offer phone support right now but I'd be happy to help you over text, let me know what I can do for you!",
+      "id": "63098edc-74ae-443b-8818-4889d314c66f",
+      "shortcut": "ps",
+      "companyName": "BEAM"
+    },
+    {
+      "name": "Is your pure pump x brittany lupton pregnancy safe?",
+      "content": "Our Pure pump has no ingredients that would be unsafe for pregnancy or breastfeeding. However, we always recommend running any supplement by your doctor to confirm.",
+      "id": "9a38d010-7f44-4b96-944d-ddb228617fb7",
+      "companyName": "BEAM"
+    },
+    {
+      "name": "Cancel / edit order",
+      "content": "I can check if that's possible. What's the order number, email address, and the change you'd like to make?",
+      "id": "cc11be25-21d3-4296-bd12-d2b3042e5b76",
+      "shortcut": "ced",
+      "companyName": "BEAM"
+    },
+    {
+      "name": "Return policy",
+      "content": "You can check out our detailed return policy here: https://youcanbeam.com/pages/faq",
+      "id": "5b57fb07-0fe7-4439-a58c-0599cee9d9cd",
+      "shortcut": "rp",
+      "companyName": "BEAM"
+    },
+    {
+      "name": "Where do you ship from?",
+      "content": "We have 3 warehouses across the United States and will ship from the warehouse located closest to you. Our warehouses are in Nevada, Texas, and Pennsylvania.",
+      "id": "309e7be2-7620-45a9-bc4f-ede3e59ec93a",
+      "companyName": "BEAM"
+    },
+    {
+      "name": "Customer support",
+      "content": "The best way to handle this is to email us directly at hi@youcanbeam.com. Our team is happy to help!",
+      "id": "3f0242de-8941-4bd2-bf0a-b49bf6e415a4",
+      "shortcut": "cs",
+      "companyName": "BEAM"
+    },
+    {
+      "name": "Military / first responder discount",
+      "content": "Thank you for your service! We don't have any specific discounts like that, but our deals will always be shared with our SMS subscribers or on our website, so keep an eye out!",
+      "id": "9e481e3b-c208-4116-b871-72797bd95343",
+      "shortcut": "ms",
+      "companyName": "BEAM"
+    },
+    {
+      "name": "Shipping time",
+      "content": "Our processing time takes 1 business day and once shipped, we aim to deliver packages in 2-3 business days.",
+      "id": "b8b67b17-19c7-482a-abd3-e9ee1f0df157",
+      "shortcut": "shp",
+      "companyName": "BEAM"
+    },
+    {
+      "name": "Social media",
+      "content": "Give us a follow on IG: https://instagram.com/youcanbeam and FB here: https://facebook.com/youcanbeam",
+      "id": "571d5e2e-8c92-44f7-b56b-fbf830b99f2c",
+      "shortcut": "smd",
+      "companyName": "BEAM"
+    },
+    {
+      "name": "Free shipping",
+      "content": "We offer free shipping on domestic orders over $100. Maybe you can add something else to reach the minimum?",
+      "id": "d77c1573-aa31-4980-b8fd-a61893c01b6e",
+      "shortcut": "fs",
+      "companyName": "BEAM"
+    },
+    {
+      "name": "Wholesale inquiries",
+      "content": "Thank you for your interest! The best way to discuss wholesale is to email us directly at hi@youcanbeam.com. Our team is happy to chat.",
+      "id": "9258c1ff-3678-4542-913f-ee18ce84a6d1",
+      "shortcut": "wls",
+      "companyName": "BEAM"
+    },
+    {
+      "name": "Rewards / referral program",
+      "content": "We have a rewards program where you can earn points to redeem on future purchases. Check it out here - https://youcanbeam.com/pages/faq#smile-referral-program-details",
+      "id": "cc5bbaf9-d414-475c-a99c-b506fb861334",
+      "shortcut": "rwd",
+      "companyName": "BEAM"
+    },
+    {
+      "name": "Brand ambassador / sponsorship",
+      "content": "Thank you for your interest! The best way to discuss this is to email us directly at hi@youcanbeam.com. Our team is happy to chat.",
+      "id": "876c2e2a-367c-4fa0-88f1-f1266b5230d2",
+      "shortcut": "ams",
+      "companyName": "BEAM"
+    },
+    {
+      "name": "Store location / retailer",
+      "content": "We don't currently have a store but definitely keep an eye out.",
+      "id": "24d19fbc-eff4-4a68-b9a7-ee444043f6d9",
+      "shortcut": "sl",
+      "companyName": "BEAM"
+    },
+    {
+      "name": "Can I have a sample?",
+      "content": "Yes, you can! Please use code BEAMPACK at checkout to try up to 2 samples for free (just pay for the shipping). You can check our available samples here: https://youcanbeam.com/collections/beam-sample-pack",
+      "id": "d3117822-046c-4240-beb2-af3fa67781f0",
+      "companyName": "BEAM"
+    },
+    {
+      "name": "Do you ship internationally?",
+      "content": "Yes, we ship worldwide! Just choose your country at checkout. Please note that taxes and duties are not included in the shipping price.",
+      "id": "ee645c36-1761-456d-9fc7-6d255bf6b858",
+      "companyName": "BEAM"
+    },
+    {
+      "name": "How do I start a return?",
+      "content": "You can start your return here: https://youcanbeam.loopreturns.com/#/",
+      "id": "c1a80f35-355a-445b-a99d-7f64d58d9ca5",
+      "companyName": "BEAM"
+    },
+    {
+      "name": "How can I make changes to my subscription?",
+      "content": "You can modify or cancel your subscription anytime after the second shipment. You have the option of swapping the product, changing the frequency, or pausing the subscription. Please sign in to your account here: https://youcanbeam.com/account/login?return_url=%2Faccount From there, you'll be able to access your subscriptions and make changes to it!",
+      "id": "31c1f3d5-a9f0-4ce3-a3f8-3d2ef31752d2",
+      "companyName": "BEAM"
+    },
+    {
+      "name": "Why is there a Warning 65 in your products?",
+      "content": "The warning you see on our products is related to Proposition 65, which is a warning required on all supplements bought and sold in California. Our products are in fact sold in California, so we are required by law to add this label, as the ingredients in our products may contain trace amounts of the chemicals on their list. Most, if not all, supplements have this label on them. Those harmful ingredients can only be detrimental to your health at high levels. Luckily, all of our products are third-party tested to confirm no harmful chemicals are present, especially in dangerous amounts.\n\nIf you're ever curious about our reports, feel free to reach out to us, and we'll be happy to provide you with reports for the products you are planning to purchase and consume. These reports will provide a detailed description of each ingredient in the powder, as well as its amounts.\n\nPlease feel free to let me know if there is anything else I can assist you with.",
+      "id": "c6fb8718-2d47-4535-b157-1f4648fcddf8",
+      "companyName": "BEAM"
+    }
+  ]
+}

@@ -3,7 +3,7 @@
   "templates": [
     {
       "name": "Can I request a second exchange?",
-      "content": "Yes! If the replacement item(s) you received did not work for you then feel free to request a second exchange within 5 days of receiving your replacement item(s) online through our exchange portal: https://exchange.statelymen.com/rma?_ga=2.110455301.1408100492.1673648607-745713449.1673648607 Please keep in mind that while we\u0027re happy to cover the cost of shipping for the first exchange request, we do require second exchange shipping costs to be covered by the member. You will also be asked to provide the tracking information of the second exchange once it has been shipped so our Fulfillment Team can be on the lookout for your package.",
+      "content": "Yes! If the replacement item(s) you received did not work for you then feel free to request a second exchange within 5 days of receiving your replacement item(s) online through our exchange portal: https://exchange.statelymen.com/rma?_ga=2.110455301.1408100492.1673648607-745713449.1673648607 Please keep in mind that while we're happy to cover the cost of shipping for the first exchange request, we do require second exchange shipping costs to be covered by the member. You will also be asked to provide the tracking information of the second exchange once it has been shipped so our Fulfillment Team can be on the lookout for your package.",
       "id": "4a2cb862-ff70-4682-8e76-e01f716ae6bd",
       "companyName": "Stately"
     },
@@ -37,7 +37,7 @@
     },
     {
       "name": "How do I cancel my subscription?",
-      "content": "To cancel your subscription, you\u0027d just need to log in to your dashboard here - https://statelymen.attn.tv/sl/hBhornXT Find the subscription you would like to cancel and then click Cancel Subscription. If you didn\u0027t receive a cancellation confirmation email, please let me know. \nPlease note that the subscription should be cancelled at least 24 hours before your renewal date or else you\u0027ll no longer be able to stop the box from being shipped. Hope it helps.",
+      "content": "To cancel your subscription, you'd just need to log in to your dashboard here - https://statelymen.attn.tv/sl/hBhornXT Find the subscription you would like to cancel and then click Cancel Subscription. If you didn't receive a cancellation confirmation email, please let me know. \nPlease note that the subscription should be cancelled at least 24 hours before your renewal date or else you'll no longer be able to stop the box from being shipped. Hope it helps.",
       "id": "f40633c5-2db9-4223-8b22-c3509af2754b",
       "companyName": "Stately"
     },
@@ -56,25 +56,25 @@
     },
     {
       "name": "Do you ship Internationally?",
-      "content": "Currently, we only offer our service in the United States of America! Send us an email at concierge@statelymen.com letting us know where you\u0027d like to see our service next and we will send you an email when we start shipping to your country.",
+      "content": "Currently, we only offer our service in the United States of America! Send us an email at concierge@statelymen.com letting us know where you'd like to see our service next and we will send you an email when we start shipping to your country.",
       "id": "44fd831b-5c05-4442-aa74-c1a9d526f1c8",
       "companyName": "Stately"
     },
     {
       "name": "Can I exchange an item that I don’t like?",
-      "content": "Sure! We definitely don\u0027t want our members to receive clothing they don\u0027t like and would be happy to replace the item(s) disliked with options you might enjoy more! You have 5 days from the day you receive your package to request a style-related exchange. \n\nTo ensure that your exchange and future Stately packages better suit your style, all we ask for in return is for you to include detailed feedback on why something didn\u0027t work for you and to upload style inspiration photos to your Additional Style Preferences. Your stylist references this information prior to curating every package for you, so the more feedback, the better!",
+      "content": "Sure! We definitely don't want our members to receive clothing they don't like and would be happy to replace the item(s) disliked with options you might enjoy more! You have 5 days from the day you receive your package to request a style-related exchange. \n\nTo ensure that your exchange and future Stately packages better suit your style, all we ask for in return is for you to include detailed feedback on why something didn't work for you and to upload style inspiration photos to your Additional Style Preferences. Your stylist references this information prior to curating every package for you, so the more feedback, the better!",
       "id": "6c343b31-98d8-4931-9d10-13f20f331482",
       "companyName": "Stately"
     },
     {
       "name": "Can I get a refund?",
-      "content": "While we don\u0027t offer refunds for subscription orders placed, we\u0027re happy to exchange the items you are unhappy with so long as proper detailed feedback is provided. If you weren\u0027t crazy about a print, let us know. The more details you share about your likes and dislikes, the better our styling team can assist with what you\u0027re trying to achieve through our services.",
+      "content": "While we don't offer refunds for subscription orders placed, we're happy to exchange the items you are unhappy with so long as proper detailed feedback is provided. If you weren't crazy about a print, let us know. The more details you share about your likes and dislikes, the better our styling team can assist with what you're trying to achieve through our services.",
       "id": "70821a25-0133-427e-ae0e-ca8945e66412",
       "companyName": "Stately"
     },
     {
       "name": "When am I charged?",
-      "content": "The first cycle\u0027s membership fee is charged right after you press Complete on the Secure Checkout page. The charges will continue to recur based on the billing frequency you selected at sign up until you decide to cancel.",
+      "content": "The first cycle's membership fee is charged right after you press Complete on the Secure Checkout page. The charges will continue to recur based on the billing frequency you selected at sign up until you decide to cancel.",
       "id": "36670b17-353f-424d-9a60-9ad5f8585f31",
       "companyName": "Stately"
     },
@@ -113,13 +113,13 @@
     },
     {
       "name": "Can I make special requests?",
-      "content": "Absolutely! If there is something that you really want to see in your next package, feel free to visit your Additional Style Preferences and update the section at the bottom with any special requests for future packages or provide feedback from prior packages. While we cannot guarantee that we will be able to fulfill all special requests, we can assure you that your stylist will make every best effort to get you what you\u0027re looking for or provide a similar style.",
+      "content": "Absolutely! If there is something that you really want to see in your next package, feel free to visit your Additional Style Preferences and update the section at the bottom with any special requests for future packages or provide feedback from prior packages. While we cannot guarantee that we will be able to fulfill all special requests, we can assure you that your stylist will make every best effort to get you what you're looking for or provide a similar style.",
       "id": "3d0e6d04-c813-4fd0-bf64-8aae5d9fd047",
       "companyName": "Stately"
     },
     {
       "name": "I only want to purchase one package, what can I do?",
-      "content": "We offer a recurring subscription service based on the plan and frequency you select when signing up. Therefore, we don\u0027t have a system in place to purchase only one package. If you\u0027d like to only receive one package, email us a cancellation request at concierge@statelymen.com within 7 days of receiving your first package and we\u0027ll start the cancellation process!",
+      "content": "We offer a recurring subscription service based on the plan and frequency you select when signing up. Therefore, we don't have a system in place to purchase only one package. If you'd like to only receive one package, email us a cancellation request at concierge@statelymen.com within 7 days of receiving your first package and we'll start the cancellation process!",
       "id": "4f3eb410-ef0f-45e0-8101-129d3558548f",
       "companyName": "Stately"
     },
@@ -132,7 +132,7 @@
     },
     {
       "name": "How do I start an exchange?",
-      "content": "If you receive something that doesn\u0027t quite work for you, please create an Exchange Request here: https://exchange.statelymen.com/rma?_ga=2.76965397.1408100492.1673648607-745713449.1673648607 All requests need to be made within 5 days of receiving your package. Items for the approved exchange request must be for that particular order number only. Please don\u0027t include any unapproved items. Any items from prior orders not previously approved that are included with your new exchange request, will be shipped back to you and won\u0027t be replaced. Additional shipping fees may apply and you\u0027ll be notified of the added charges. While your stylist will do their best to exchange the item(s) you return with the same item(s) in a better fit, we\u0027re unable to guarantee an even exchange (replacement of the exact item) due to our ever changing wardrobe options. If an even exchange is unavailable, your stylist will do their best to include a replacement item that\u0027s comparable to what was originally sent.",
+      "content": "If you receive something that doesn't quite work for you, please create an Exchange Request here: https://exchange.statelymen.com/rma?_ga=2.76965397.1408100492.1673648607-745713449.1673648607 All requests need to be made within 5 days of receiving your package. Items for the approved exchange request must be for that particular order number only. Please don't include any unapproved items. Any items from prior orders not previously approved that are included with your new exchange request, will be shipped back to you and won't be replaced. Additional shipping fees may apply and you'll be notified of the added charges. While your stylist will do their best to exchange the item(s) you return with the same item(s) in a better fit, we're unable to guarantee an even exchange (replacement of the exact item) due to our ever changing wardrobe options. If an even exchange is unavailable, your stylist will do their best to include a replacement item that's comparable to what was originally sent.",
       "id": "320c7936-1e3e-4946-b2cc-fc66527be841",
       "companyName": "Stately"
     },
@@ -151,7 +151,7 @@
     },
     {
       "name": "How do I ship back the items?",
-      "content": "We will cover the cost of shipping for the first exchange request of every initial package. Please refer to the email you\u0027ll receive after your exchange request has been approved for detailed instructions.",
+      "content": "We will cover the cost of shipping for the first exchange request of every initial package. Please refer to the email you'll receive after your exchange request has been approved for detailed instructions.",
       "id": "f33d4bf3-fdea-448d-8a83-8113e8dc4e1e",
       "companyName": "Stately"
     },
@@ -176,13 +176,13 @@
     },
     {
       "name": "Do you have a sample box?",
-      "content": "We don\u0027t have a sample box, but I would suggest checking our out-of-the-box store to see what kind of inventory we offer: https://statelymen.attn.tv/sl/zfwVicS4",
+      "content": "We don't have a sample box, but I would suggest checking our out-of-the-box store to see what kind of inventory we offer: https://statelymen.attn.tv/sl/zfwVicS4",
       "id": "91d0282c-ecdb-4db4-9ee9-bc570adcbab9",
       "companyName": "Stately"
     },
     {
       "name": "Can you add deals retroactively?",
-      "content": "I\u0027m afraid we don\u0027t handle post-purchase requests via text. Please submit your request at concierge@statelymen.com or feel free to call this number 323-948-8852, Monday - Thursday 9:00am - 3:30pm PST. Please let me know if you have any questions about our products, I\u0027m more than happy to help out!",
+      "content": "I'm afraid we don't handle post-purchase requests via text. Please submit your request at concierge@statelymen.com or feel free to call this number 323-948-8852, Monday - Thursday 9:00am - 3:30pm PST. Please let me know if you have any questions about our products, I'm more than happy to help out!",
       "id": "1a421b0c-4cfe-404d-adb0-c5358ad75d71",
       "companyName": "Stately"
     },
@@ -193,27 +193,27 @@
       "companyName": "Stately"
     },
     {
-      "name": "You don\u0027t offer my size, can you help?",
+      "name": "You don't offer my size, can you help?",
       "content": "Please be aware that if your size is not listed as an option when creating a Style Profile with us, then at this time it is not a size our brand partners currently offer and we will be unable to accommodate your size needs.",
       "id": "94383ba1-589d-4002-b4c7-45ce8fe562de",
       "companyName": "Stately"
     },
     {
       "name": "Do you offer gift wrapping?",
-      "content": "We currently don\u0027t offer gift packaging. Sorry about that!",
+      "content": "We currently don't offer gift packaging. Sorry about that!",
       "id": "8414db55-7ef6-4415-a94d-5ef4cd9c1ccd",
       "companyName": "Stately"
     },
     {
       "name": "Military / First responder / Healthcare / Teacher discount",
-      "content": "Thank you for your service! We don\u0027t have any specific discounts like that, but our deals will always be shared with our SMS subscribers or on our website, so keep an eye out!",
+      "content": "Thank you for your service! We don't have any specific discounts like that, but our deals will always be shared with our SMS subscribers or on our website, so keep an eye out!",
       "id": "f7b37619-d33a-438e-b9ed-bbd579280328",
       "shortcut": "ms",
       "companyName": "Stately"
     },
     {
       "name": "Store location / retailer",
-      "content": "We don\u0027t currently have a store but definitely keep an eye out.",
+      "content": "We don't currently have a store but definitely keep an eye out.",
       "id": "f3269393-23d6-4ec3-af4d-843c9c6da00e",
       "shortcut": "sl",
       "companyName": "Stately"
@@ -226,20 +226,20 @@
     },
     {
       "name": "Post Purchase Inquiries",
-      "content": "We don\u0027t handle post-purchase requests via text. Please submit your request at concierge@statelymen.com or feel free to call this number 323-948-8852, Monday - Thursday 9:00am - 3:30pm PST. Please let me know if you have any questions about our products, I\u0027m more than happy to help out!",
+      "content": "We don't handle post-purchase requests via text. Please submit your request at concierge@statelymen.com or feel free to call this number 323-948-8852, Monday - Thursday 9:00am - 3:30pm PST. Please let me know if you have any questions about our products, I'm more than happy to help out!",
       "id": "b7d167fa-369d-4edf-83e8-5e80f61f5032",
       "shortcut": "ppi",
       "companyName": "Stately"
     },
     {
       "name": "Size Chart: Men - Clothes",
-      "content": "You can take a look at our men\u0027s size chart here: https://statelymen.com/blogs/posts/the-ultimate-size-guide-for-men-when-shopping-online",
+      "content": "You can take a look at our men's size chart here: https://statelymen.com/blogs/posts/the-ultimate-size-guide-for-men-when-shopping-online",
       "id": "80ef4a18-4e1e-4ddb-bc67-0265a90bdd23",
       "companyName": "Stately"
     },
     {
       "name": "Can I see the items before purchasing them?",
-      "content": "At Stately, we understand that our members enjoy both convenience and discovery regarding fashion. Our personal stylists handpick items tailored to your unique Style Profile and preferences. This means that items included in your package are a surprise until they arrive, adding an element of excitement to each delivery!\n\nHowever, if there\u0027s something specific you\u0027d like to see in your next package, please feel free to update your Additional Style Preferences. Our stylists will do their best to accommodate your requests.",
+      "content": "At Stately, we understand that our members enjoy both convenience and discovery regarding fashion. Our personal stylists handpick items tailored to your unique Style Profile and preferences. This means that items included in your package are a surprise until they arrive, adding an element of excitement to each delivery!\n\nHowever, if there's something specific you'd like to see in your next package, please feel free to update your Additional Style Preferences. Our stylists will do their best to accommodate your requests.",
       "id": "28549956-a499-4498-a14c-189a4af5816c",
       "companyName": "Stately"
     },

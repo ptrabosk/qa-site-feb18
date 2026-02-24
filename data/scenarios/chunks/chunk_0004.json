@@ -3,63 +3,697 @@
   "chunk": "chunk_0004",
   "scenarios": {
     "16": {
-      "agentName": "Sarah",
-      "id": "019c4367-8c88-49ac-f000-000066dc3764",
+      "id": "019c76f8-5cf1-4915-f000-0000f4ac4809",
+      "companyName": "Howitzer Clothing",
+      "companyWebsite": "https://howitzerclothing.com",
+      "agentName": "Kim",
+      "messageTone": "Polished",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "Howitzer Clothing: Hey Kaleb, we noticed you checking us out. Have you seen our best sellers yet? https://howitzerclothing.attn.tv/adH7dxzhIMrj \n\nText back with any questions!",
+          "message_type": "system",
+          "date_time": "2026-02-19 11:12:03.228"
+        },
+        {
+          "message_media": [],
+          "message_text": "Order was placed and I need to cancel",
+          "message_type": "customer",
+          "date_time": "2026-02-19 11:12:38.583"
+        },
+        {
+          "message_media": [],
+          "message_text": "Howitzer Clothing: I understand! The best way to check if you can cancel or edit your order is to email our support team directly at customerservice@howitzerclothing.com ",
+          "message_type": "agent",
+          "agent": "50271",
+          "message_id": "019c76b0-1327-47a0-f000-0000f4ac4809",
+          "date_time": "2026-02-19 11:16:16.714"
+        },
+        {
+          "message_media": [],
+          "message_text": "Already did no answer",
+          "message_type": "customer",
+          "date_time": "2026-02-19 11:16:58.824"
+        },
+        {
+          "message_media": [],
+          "message_text": "Howitzer Clothing: Sorry to hear that! Rest assured, our team is doing everything to respond to each inquiry in a timely manner. They should follow up with you in no time! If you don't see the team's response in your inbox, be sure to check your spam and promo folders, sometimes our emails end up there as well. ",
+          "message_type": "agent",
+          "agent": "50271",
+          "message_id": "019c76b4-5521-4b8d-f000-0000f4ac4809",
+          "date_time": "2026-02-19 11:20:55.741"
+        },
+        {
+          "message_media": [],
+          "message_text": "Can you get me in contact with someone to call me please?",
+          "message_type": "customer",
+          "date_time": "2026-02-19 11:29:38.550"
+        },
+        {
+          "message_media": [],
+          "message_text": "I need to talk to a customer support agent",
+          "message_type": "customer",
+          "date_time": "2026-02-19 11:51:38.484"
+        },
+        {
+          "message_media": [],
+          "message_text": "Howitzer Clothing: I'm sorry about that! This number is for SMS only, so I'm not able to make or receive calls. You can give us a call at 1-855-717-3963, Monday - Friday from 9:00 am - 5:00 pm PST. ",
+          "message_type": "agent",
+          "agent": "50269",
+          "message_id": "019c76d1-71b8-40d6-f000-0000f4ac4809",
+          "date_time": "2026-02-19 11:52:43.608"
+        },
+        {
+          "message_media": [],
+          "message_text": "I am but nobody is answering my calls or my emails",
+          "message_type": "customer",
+          "date_time": "2026-02-19 11:53:28.794"
+        },
+        {
+          "message_media": [],
+          "message_text": "Howitzer Clothing: We sincerely apologize for the wait! As much as I would love to help out directly, I'm afraid my access is limited, and the team is better equipped to assist you. They are experiencing a high volume of emails, but they'll respond to you as soon as possible. Please check your spam and promo folders, as sometimes our emails end up there. We appreciate your patience on this!",
+          "message_type": "agent",
+          "agent": "33482",
+          "message_id": "019c76d4-226a-493b-f000-0000f4ac4809",
+          "date_time": "2026-02-19 11:55:39.910"
+        },
+        {
+          "message_media": [],
+          "message_text": "Still no answer from phone call or email please connect me with someone",
+          "message_type": "customer",
+          "date_time": "2026-02-19 12:20:50.580"
+        },
+        {
+          "message_media": [],
+          "message_text": "Howitzer Clothing: As mentioned earlier, I truly apologize that I'm unable to assist with this directly, as my system isn't equipped to handle this type of issue. Our team is working hard to respond to all inquiries as quickly as possible, and you should hear back from them very soon.",
+          "message_type": "agent",
+          "agent": "82427",
+          "message_id": "019c76ee-86d9-44eb-f000-0000f4ac4809",
+          "date_time": "2026-02-19 12:24:29.555"
+        },
+        {
+          "message_media": [],
+          "message_text": "I just want to return it and get my money back in my account ASAP",
+          "message_type": "customer",
+          "date_time": "2026-02-19 12:32:11.197"
+        },
+        {
+          "message_media": [],
+          "message_text": "Howitzer Clothing: I truly apologize that I'm not able to resolve this directly. Our team is actively working through inquiries and will get back to you as soon as possible.",
+          "message_type": "agent",
+          "agent": "109972",
+          "message_id": "019c76f8-5cf1-4915-f000-0000f4ac4809",
+          "date_time": "2026-02-19 12:35:14.187"
+        }
+      ],
+      "notes": {
+        "send_to_cs": [
+          "No ESC for this client, send everything to CS"
+        ]
+      },
       "rightPanel": {
-        "browsingHistory": [
-          {
-            "link": "https://www.wooden-ships.com/collections/blossom/products/blossom-cropped-top-crew-cotton-sweater-breaker-white-86?utm_campaign=$10%20off%20Concierge\u0026utm_medium=sms\u0026utm_source=attentive\u0026externalId=ldkyI",
-            "item": "BLOSSOM CROPPED TOP CREW COTTON - X/S (2-4) / Breaker White",
-            "timeAgo": "2026-02-08"
-          },
-          {
-            "link": "https://www.wooden-ships.com/collections/blossom/products/mini-daisy-v-cotton-sweater-beach-sky-blue-86",
-            "item": "MINI DAISY V COTTON - X/S (2-4) / Beach Sky",
-            "timeAgo": "2026-02-08"
-          },
-          {
-            "link": "https://www.wooden-ships.com/collections/blossom/products/mini-daisy-v-cotton-sweater-beach-sky-blue-86",
-            "item": "MINI DAISY V COTTON - X/S (2-4) / Beach Sky",
-            "timeAgo": "2026-02-08"
-          },
-          {
-            "link": "https://www.wooden-ships.com/collections/blossom/products/blossom-cropped-top-crew-cotton-sweater-breaker-white-86",
-            "item": "BLOSSOM CROPPED TOP CREW COTTON - X/S (2-4) / Breaker White",
-            "timeAgo": "2026-02-08"
-          },
-          {
-            "link": "https://www.wooden-ships.com/products/everyday-ribbed-v-mercer-sweater-cantaloupe-orange?variant=42722012495920",
-            "item": "EVERYDAY RIBBED V MERCER - S/M (6-8) / Pale Shale",
-            "timeAgo": "2026-02-07"
-          }
-        ],
         "source": {
           "label": "Website",
-          "value": "https://wooden-ships.com",
+          "value": "https://howitzerclothing.com",
           "date": ""
-        }
+        },
+        "browsingHistory": [
+          {
+            "item": "Battle Ram - ANTIQUE WHITE / S",
+            "link": "https://howitzerclothing.com/collections/born-to-hunt/products/battle-ram-1",
+            "timeAgo": "2026-01-19"
+          },
+          {
+            "item": "Hunting Stand Hood - OATMEAL / S",
+            "link": "https://howitzerclothing.com/collections/born-to-hunt/products/hunting-stand-po-hood",
+            "timeAgo": "2026-01-19"
+          },
+          {
+            "item": "Outdoor Ops Hood - ARMY HEATHER / S",
+            "link": "https://howitzerclothing.com/collections/born-to-hunt/products/outdoor-ops-po-hood",
+            "timeAgo": "2026-01-19"
+          },
+          {
+            "item": "Miami Tiger Boardshort - ASSORTED / S",
+            "link": "https://howitzerclothing.com/collections/mens-shorts/products/miami-tiger-boardshort",
+            "timeAgo": "2026-01-19"
+          },
+          {
+            "item": "Miami Tiger Boardshort - ASSORTED / S",
+            "link": "https://howitzerclothing.com/collections/mens-shorts/products/miami-tiger-boardshort",
+            "timeAgo": "2026-01-19"
+          }
+        ],
+        "orders": [
+          {
+            "orderNumber": "5851860074631",
+            "orderDate": "2026-02-19",
+            "items": [
+              {
+                "name": "Camo Tote",
+                "price": 24.95,
+                "productLink": "https://howitzer-clothing.myshopify.com/products/camo-tote"
+              },
+              {
+                "name": "Scout Pant",
+                "price": 109.95,
+                "productLink": "https://howitzer-clothing.myshopify.com/products/scout-pant"
+              },
+              {
+                "name": "Tiger Camo Scout Pants",
+                "price": 109.95,
+                "productLink": "https://howitzer-clothing.myshopify.com/products/tiger-camo-scout-pants"
+              }
+            ],
+            "total": 266.07,
+            "date_time": "2026-02-19 15:50:12.144"
+          }
+        ]
       },
-      "companyWebsite": "https://wooden-ships.com",
+      "escalation_preferences": [],
+      "blocklisted_words": [],
+      "has_shopify": true
+    },
+    "17": {
+      "id": "019c6da6-6c08-4da2-f000-0000d1566d24",
+      "companyName": "Comfrt",
+      "companyWebsite": "https://comfrt.com",
+      "agentName": "Samantha",
+      "messageTone": "Polished",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "Comfrt: Winter storm? We've got you covered.\n\nShop up to 70% off sitewide on the coziest essentials.\n\nShop now: comfrt.attn.tv/aB-FDyVpNpeQ ",
+          "message_type": "system",
+          "date_time": "2026-01-23 16:36:40.322"
+        },
+        {
+          "message_media": [],
+          "message_text": "Comfrt: Made to move with you.\n\nComing 1.28. \n\nShop your favorites while you wait: comfrt.attn.tv/aFpvDUj9hIFS ",
+          "message_type": "system",
+          "date_time": "2026-01-26 19:29:27.472"
+        },
+        {
+          "message_media": [],
+          "message_text": "Comfrt: JUST DROPPED\n\nDesigned to move with you. Made to feel like you.\n\nIntroducing ComfrtCoreTM. Created for your body and mind.\n\nMove your way:\ncomfrt.attn.tv/aa0hvsMauYGc",
+          "message_type": "system",
+          "date_time": "2026-01-28 15:16:29.646"
+        },
+        {
+          "message_media": [],
+          "message_text": "Comfrt: The finishing touch. \n\nThe NEW Basic Crop Zip Hoodie is the perfect layer for your ComfrtCoreTM sets. \n\nLightweight, cropped, and ready for your life in motion.\n\nComplete the look:\ncomfrt.attn.tv/abytnBzjxEXG",
+          "message_type": "system",
+          "date_time": "2026-01-30 16:03:18.210"
+        },
+        {
+          "message_media": [],
+          "message_text": "Comfrt: You reached the finish line. January is over and the weekend is here!\n\nReward yourself with the NEW Basic Quarter Zip.\n\nGrab your go-to:\ncomfrt.attn.tv/aSWA5v5z8gK0",
+          "message_type": "system",
+          "date_time": "2026-01-31 22:08:13.889"
+        },
+        {
+          "message_media": [],
+          "message_text": "Comfrt: Whether your team wins or loses, your outfit shouldn't. \n\nFinal score: You look great.\n\nGrab your game day set:\ncomfrt.attn.tv/aAKm1xGvchLI",
+          "message_type": "system",
+          "date_time": "2026-02-01 16:02:01.521"
+        },
+        {
+          "message_media": [],
+          "message_text": "Comfrt: Your winter remedy is here.\n\nMeet the Ember Heated Blanket. Perfectly warm, irresistibly soft, and made to feel like a dream you never want to wake up from.\n\nGet cozy: comfrt.attn.tv/aURHf6MPvABv",
+          "message_type": "system",
+          "date_time": "2026-02-11 21:15:19.234"
+        },
+        {
+          "message_media": [],
+          "message_text": "Comfrt: Upgrade to first class.\n\nThe VIP Airplane Mode Hoodie with a satin-lined hood and eye mask has officially landed! \n\nAlso, four new limited shades just got added to our original collection.\n\nGet it while you can: comfrt.attn.tv/aTeKoxSE3bn2 \n",
+          "message_type": "system",
+          "date_time": "2026-02-13 18:31:19.824"
+        },
+        {
+          "message_media": [],
+          "message_text": "Comfrt: You are already subscribed. Click here to shop now: comfrt.com.",
+          "message_type": "system",
+          "date_time": "2026-02-13 23:11:36.102"
+        },
+        {
+          "message_media": [],
+          "message_text": "Comfrt: Forgot Valentine's Day is today? Your secret is safe with us.\n\nSend a Comfrt E-Gift Card and let them pick their new favorite set. Delivered instantly.\n\nNo shipping, no stress: comfrt.attn.tv/aVVY0JYs2Feh \n",
+          "message_type": "system",
+          "date_time": "2026-02-14 14:16:07.179"
+        },
+        {
+          "message_media": [],
+          "message_text": "Comfrt: Hi Jeremiah, saw you stopped by!\n\nWe have a feeling you'll love more Comfrt. \n\nCome back and see all of our latest arrivals: comfrt.attn.tv/ar3Kt0zV-vPD ",
+          "message_type": "system",
+          "date_time": "2026-02-17 15:26:37.978"
+        },
+        {
+          "message_media": [],
+          "message_text": "Checking on preorder ugh!!😩",
+          "message_type": "customer",
+          "date_time": "2026-02-17 17:07:57.071"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"Pre-order shipping, when will my pre-order arrive?\"; last updated: 2025-05-07 18:45:20.495",
+          "message_type": "template",
+          "date_time": "2026-02-17 17:09:09.152"
+        },
+        {
+          "message_media": [],
+          "message_text": "Comfrt: Thanks for reaching out! Are you referring to Order #7851928? If so, I can confirm that the items in your order are pre-orders.\n\nThe estimated shipping date for pre-ordered items will be displayed on the product page and in your order confirmation email. Please note that this date is an estimate, and is not a guaranteed date of delivery or receipt. The estimated delivery date that you receive in your confirmation email is subject to change based on production, supplier availability, or other unforeseen circumstances. \n\nLet me know how that goes. ",
+          "message_type": "agent",
+          "agent": "109617",
+          "message_id": "019c6da6-6c08-4da2-f000-0000d1566d24",
+          "date_time": "2026-02-17 17:09:09.153"
+        }
+      ],
+      "notes": {
+        "send_to_cs": [
+          "Send to CS for post-purchase issues"
+        ],
+        "escalate": [
+          "ESC if the discount % is not the same as indicated in the automated message"
+        ],
+        "templates": [
+          "If cx asks if Comfrt was formerly another brand, use CFB shortcut"
+        ]
+      },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://comfrt.com",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "Travel Essentials Hoodie",
+            "link": "https://comfrt.com/products/cozy-city-hoodie?variant=42116974182444",
+            "timeAgo": "2026-02-01"
+          },
+          {
+            "item": "Travel Essentials Hoodie",
+            "link": "https://comfrt.com/products/cozy-city-hoodie?variant=44126975655980",
+            "timeAgo": "2026-02-01"
+          },
+          {
+            "item": "Airplane Mode Travel Hoodie",
+            "link": "https://comfrt.com/products/travel-hoodie?variant=44347028766764",
+            "timeAgo": "2025-12-08"
+          },
+          {
+            "item": "Airplane Mode Travel Hoodie",
+            "link": "https://comfrt.com/products/travel-hoodie?variant=44347028766764",
+            "timeAgo": "2025-12-08"
+          },
+          {
+            "item": "Airplane Mode Travel Hoodie",
+            "link": "https://comfrt.com/products/travel-hoodie?variant=44347028766764",
+            "timeAgo": "2025-12-08"
+          }
+        ]
+      },
+      "escalation_preferences": [
+        "Exchanges and returns",
+        "Sizing questions",
+        "Discount code errors"
+      ],
+      "blocklisted_words": [],
+      "has_shopify": true
+    },
+    "18": {
+      "id": "019c777d-e316-4454-f000-00002cf05b37",
+      "companyName": "Gary's Wine & Marketplace",
+      "companyWebsite": "https://garyswine.com",
+      "agentName": "Jordan",
+      "messageTone": "Polished",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "Gary's Wine: Reply to this text with the # of half-bottles you would like to purchase!\n\n63% off Silky 92pt Italian Barbera\n\n375ml Half-Bottles ONLY $6.28!\n\nBlackberry, Spice, Perfect for Pizza!\n\nLAST BOTTLES at Madison, Bernardsville or Online Stores! garyswine.attn.tv/aQ2V0DHzuh6e ",
+          "message_type": "system",
+          "date_time": "2026-01-27 14:20:11.649"
+        },
+        {
+          "message_media": [],
+          "message_text": "Gary's Wine: Up to 74% off Over 3,000 Wines!\n\nGary's Inventory Reduction Sale\n\nEvery Palate. Every Price Point. HUGE DEALS\n\nOnly @ Gary's Until February 2nd!\n\nIn-Store + Online! garyswine.attn.tv/aGa-Jgjfwlaz ",
+          "message_type": "system",
+          "date_time": "2026-01-30 14:01:19.384"
+        },
+        {
+          "message_media": [],
+          "message_text": "Gary's Wine: Hey, this is Jordan. Thanks for checking out our site! 😊 https://garyswine.attn.tv/aYxyoB_Tfhxd \n\nAny questions I can answer for you? ",
+          "message_type": "system",
+          "date_time": "2026-02-01 16:45:26.410"
+        },
+        {
+          "message_media": [],
+          "message_text": "Gary's Wine: 47% off 94PT Châteauneuf-du-Pape!\n\nORGANIC Rhône Grenache blend\n\nBlack fruit, Savory herbs - Collectible!\n\nU.S. LOWEST Price - 48hrs ONLY! garyswine.attn.tv/aF9PUPoU25Nr ",
+          "message_type": "system",
+          "date_time": "2026-02-03 13:05:19.653"
+        },
+        {
+          "message_media": [],
+          "message_text": "Gary's Wine: It looks like you forgot something in your cart - complete your checkout today: \ngaryswine.attn.tv/aFgofnddQlrC ",
+          "message_type": "system",
+          "date_time": "2026-02-05 12:10:10.554"
+        },
+        {
+          "message_media": [],
+          "message_text": "Gary's Wine: Sip with a SUPERMODEL! Meet Ashley Graham at Gary's Madison for the first in-store launch of Lucci Lambrusco on Fri, Feb 13 from 5:30-6:30pm. Bubbles, bites & bottle signings - arrive early! garyswine.attn.tv/a0X8703wLRjW ",
+          "message_type": "system",
+          "date_time": "2026-02-07 13:05:44.703"
+        },
+        {
+          "message_media": [],
+          "message_text": "Gary's Wine: Reply to this text with the # of bottles you would like to purchase!\n\nUNDER $8 - Red Bordeaux Beauty!\n\nClassic Merlot/Cabernet Blend\n\nRipe, Savory, Dry + Smooth\n\nUp to 45% OFF - 48hrs ONLY!\ngaryswine.attn.tv/ajwen6U_UanA ",
+          "message_type": "system",
+          "date_time": "2026-02-10 13:40:21.250"
+        },
+        {
+          "message_media": [],
+          "message_text": "Gary's Wine: Meet supermodel Ashley Graham tomorrow at Gary's Madison for the exclusive Lucci Lambrusco launch, 5:30-6:30pm. Signed bottles + bites. Don't miss it. garyswine.attn.tv/aUcgZICN3Agh ",
+          "message_type": "system",
+          "date_time": "2026-02-12 13:05:30.675"
+        },
+        {
+          "message_media": [],
+          "message_text": "Gary's Wine: Reply to this text with the # of bottles you would like to purchase! \n\n36% OFF French Sun in a Bottle\n\n90pt BEST BUY Rosé - NOW $8.97!\n\nFresh. Zesty. Berry Bursts!\n\n48 HOURS ONLY at Gary's! garyswine.attn.tv/anwEqDTUVWSI ",
+          "message_type": "system",
+          "date_time": "2026-02-17 13:05:21.668"
+        },
+        {
+          "message_media": [],
+          "message_text": "Gary's Wine: Hey, this is Jordan. Thanks for checking out our site! 😊 https://garyswine.attn.tv/a3cC7B6j2X7x \n\nAre you looking for anything in particular today? ",
+          "message_type": "system",
+          "date_time": "2026-02-19 12:58:08.146"
+        },
+        {
+          "message_media": [
+            "https://attentive-files.s3.amazonaws.com/receive-event-media/1771529844465_2024569012981100544.png",
+            "https://attentive-files.s3.amazonaws.com/receive-event-media/1771529844159_2024569012981100544.application/smil"
+          ],
+          "message_text": "Six bottles",
+          "message_type": "customer",
+          "date_time": "2026-02-19 14:37:36.504"
+        },
+        {
+          "message_media": [],
+          "message_text": "Gary's Wine: Thank you for sharing that. You can find the Palazzo Brunello di Montalcino DOCG here: https://garyswine.attn.tv/aWxh-DPAwYWc\n\nIf you'd like for us to place the order for you, I will kindly refer you to our chat support on the website. The team there will be better equipped to handle this for you.\n\nPlease don't hesitate to reach out if you have any questions. I'm happy to help.",
+          "message_type": "agent",
+          "agent": "109968",
+          "message_id": "019c777d-e316-4454-f000-00002cf05b37",
+          "date_time": "2026-02-19 15:01:04.820"
+        }
+      ],
+      "notes": {
+        "escalate": [
+          "ESC post purchase local delivery inquiries immediately",
+          "ESC inventory inquiries",
+          "ESC product recommendations",
+          "ESC NAPA wines campaign responses (when the subscriber replies with the number of bottles they want)"
+        ],
+        "text_to_buy_reply_to_buy_campaign": [
+          "The client sends out a campaign featuring a bottle of wine and asking customers how many they would like to order. When a subscriber replies with a number of bottles:",
+          "➜ Use CPN shortcut",
+          "➜ ESC the convo & include if the cx wants to do pickup or delivery in your ESC notes",
+          "➜ Close the convo after ESC, the client will reply"
+        ],
+        "dos_and_don_ts": [
+          "Shipping zones (agent use only): bit.ly/3qiYcb7",
+          "If customers want us to place a order for them, refer them to chat support on the website",
+          "If a customer asks for a driver's personal information, let them know we can't provide it for privacy reasons"
+        ]
+      },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://garyswine.com",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "Palazzo Brunello di Montalcino DOCG",
+            "link": "https://garyswine.com/shop/product/palazzo-brunello-di-montalcino-docg/66b42546e084ac781b8ef7eb?option-id=3299153fce6317ef76344b3c7ffcb0efaf536771b5da7bb09805010ab1ecb4b3",
+            "timeAgo": "2026-02-19"
+          },
+          {
+            "item": "Macauley Vineyard Cabernet Sauvignon 'Oakville Ranch'",
+            "link": "https://garyswine.com/shop/product/macauley-vineyard-cabernet-sauvignon-oakville-ranch/69011ae0f78b743616871168?option-id=68133bfd95500a42e20bf9fabb5bd2d53020a2f1c56ad88036ef977b1eb7c5af",
+            "timeAgo": "2026-02-08"
+          },
+          {
+            "item": "Domaine de Beaurenard Châteauneuf-du-Pape",
+            "link": "https://garyswine.com/shop/product/domaine-de-beaurenard-ch-teauneuf-du-pape/5a1a8e9361df8817a4ed9bed?option-id=3760e3cda6cf80baa878c4b18244ad4f778da0bd43b1b2ce248eafda0e590feb&utm_campaign=REPLY+TO+BUY+SMS+02032026_2021+Domaine+de+Beaurenard+Ch%C3%A2teauneuf-du-Pape&utm_medium=sms&utm_source=attentive&externalId=A7bU6&assigned_merchant_id=true",
+            "timeAgo": "2026-02-05"
+          },
+          {
+            "item": "Domaine de Beaurenard Châteauneuf-du-Pape",
+            "link": "https://garyswine.com/shop/product/domaine-de-beaurenard-ch-teauneuf-du-pape/5a1a8e9361df8817a4ed9bed?option-id=3760e3cda6cf80baa878c4b18244ad4f778da0bd43b1b2ce248eafda0e590feb&utm_campaign=REPLY+TO+BUY+SMS+02032026_2021+Domaine+de+Beaurenard+Ch%C3%A2teauneuf-du-Pape&utm_medium=sms&utm_source=attentive&externalId=A7bU6&assigned_merchant_id=true",
+            "timeAgo": "2026-02-05"
+          }
+        ],
+        "orders": [
+          {
+            "orderNumber": "68938dfa833b650e6880f490",
+            "orderDate": "2025-08-06",
+            "items": [
+              {
+                "name": "Villa Antinori Toscana Rosso IGT",
+                "price": 16.99
+              }
+            ],
+            "total": 416.87,
+            "date_time": "2025-08-06 17:16:48.588"
+          },
+          {
+            "orderNumber": "68938dfa833b650e6880f490",
+            "orderDate": "2025-08-06",
+            "items": [
+              {
+                "name": "Marchesi Di Barolo Barbera D'alba Peiragal Single Vineyard",
+                "price": 28.99
+              }
+            ],
+            "total": 416.87,
+            "date_time": "2025-08-06 17:16:48.568"
+          },
+          {
+            "orderNumber": "68938dfa833b650e6880f490",
+            "orderDate": "2025-08-06",
+            "items": [
+              {
+                "name": "Ramirez De La Piscina Seleccion Rioja Reserva",
+                "price": 24.99
+              }
+            ],
+            "total": 416.87,
+            "date_time": "2025-08-06 17:16:48.564"
+          },
+          {
+            "orderNumber": "68938dfa833b650e6880f490",
+            "orderDate": "2025-08-06",
+            "items": [
+              {
+                "name": "Marques De Caceres Rioja Crianza",
+                "price": 14.99
+              }
+            ],
+            "total": 416.87,
+            "date_time": "2025-08-06 17:16:48.545"
+          },
+          {
+            "orderNumber": "68938dfa833b650e6880f490",
+            "orderDate": "2025-08-06",
+            "items": [
+              {
+                "name": "Bruna Grimaldi Barolo Camilla Piedmont Italy",
+                "price": 49.99
+              }
+            ],
+            "total": 416.87,
+            "date_time": "2025-08-06 17:16:48.535"
+          }
+        ]
+      },
+      "escalation_preferences": [
+        "product recommendations",
+        "inventory",
+        "login issues",
+        "delayed orders"
+      ],
+      "blocklisted_words": [],
+      "has_shopify": false
+    },
+    "19": {
+      "id": "019c4367-8c88-49ac-f000-000066dc3764",
       "companyName": "Wooden Ships",
+      "companyWebsite": "https://wooden-ships.com",
+      "agentName": "Sarah",
+      "messageTone": "Super Casual",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "Wooden Ships: NEW RELEASE!\n\nSoft, breathable, chunky cotton. Perfect for cuddle weather.\n\nwoodenships.attn.tv/axmOolBXQlH-  stop to stop",
+          "message_type": "system",
+          "date_time": "2026-01-10 14:00:31.504"
+        },
+        {
+          "message_media": [],
+          "message_text": "Wooden Ships: NEW! JUST DROPPED!\n\nMeet your newest WS crush! Free Shipping!\n\nwoodenships.attn.tv/asySyCWXRmbG  stop to stop",
+          "message_type": "system",
+          "date_time": "2026-01-11 14:00:36.540"
+        },
+        {
+          "message_media": [],
+          "message_text": "Wooden Ships: NEW Release!\n\nCasual, cute & Laid-back layers you'll fall in love with. Free Shipping!\n\nwoodenships.attn.tv/aFdeRMtRW0KP  stop to stop",
+          "message_type": "system",
+          "date_time": "2026-01-17 14:00:48.663"
+        },
+        {
+          "message_media": [],
+          "message_text": "Wooden Ships: NEW: Transition\n\nLight, calm & airy. Perfect for layering. Perfect for lounging. Perfect for now.\n\nwoodenships.attn.tv/acFmxeGvJFcr  stop to stop",
+          "message_type": "system",
+          "date_time": "2026-01-18 14:00:28.545"
+        },
+        {
+          "message_media": [],
+          "message_text": "Wooden Ships: Celebrating Love!\n\nWear and share love everyday in knits that are light, soft and relaxed.\n\nwoodenships.attn.tv/aWIiIjJ3JHo3  stop to stop",
+          "message_type": "system",
+          "date_time": "2026-01-19 15:00:30.726"
+        },
+        {
+          "message_media": [],
+          "message_text": "Wooden Ships: We miss you! Have you seen our new collection? Shop now woodenships.attn.tv/a4AA98rTKva3  stop to stop",
+          "message_type": "system",
+          "date_time": "2026-01-19 17:58:58.193"
+        },
+        {
+          "message_media": [],
+          "message_text": "Wooden Ships: Superbowl!\n\nWhat're you gonna wear?! Hurry before it's too late!\n\nwoodenships.attn.tv/aqp7UPj8RxKc  stop to stop",
+          "message_type": "system",
+          "date_time": "2026-01-22 15:00:12.757"
+        },
+        {
+          "message_media": [],
+          "message_text": "Wooden Ships: NEW RELEASE!\n\nInez, because beachy stripes are always right! Soft & Chunky!\n\nwoodenships.attn.tv/a-tre_auxVMJ  stop to stop",
+          "message_type": "system",
+          "date_time": "2026-01-24 14:00:33.401"
+        },
+        {
+          "message_media": [],
+          "message_text": "Wooden Ships: Easy to Love, Easy to Wear\n\nCozy, flattering, and effortless-Grab our Valentine's sweaters before they're gone!\n\nwoodenships.attn.tv/a2Yu-0QqKW63  stop to stop",
+          "message_type": "system",
+          "date_time": "2026-01-25 14:00:16.429"
+        },
+        {
+          "message_media": [],
+          "message_text": "Wooden Ships: Order by Midnight\n\nTo receive in time for SUPER BOWL, order now! Free Shipping!\n\nwoodenships.attn.tv/afQDtlsgAviE  stop to stop",
+          "message_type": "system",
+          "date_time": "2026-01-26 14:00:17.701"
+        },
+        {
+          "message_media": [],
+          "message_text": "Wooden Ships: Last Call for Valentines!\n\nOrder by midnight to ensure your Valentines look arrives right on time\n\nwoodenships.attn.tv/aSRTY_AbUb84  stop to stop",
+          "message_type": "system",
+          "date_time": "2026-01-30 15:00:12.427"
+        },
+        {
+          "message_media": [],
+          "message_text": "Wooden Ships: New Release!\n\nFresh, new styles for a new season. Light, soft, and easy! Free Shipping\n\nwoodenships.attn.tv/agi7gfW1nYlY  stop to stop",
+          "message_type": "system",
+          "date_time": "2026-01-31 14:00:32.547"
+        },
+        {
+          "message_media": [],
+          "message_text": "Wooden Ships: Hey Deborah, this is Sarah. Thanks for checking us out! woodenships.attn.tv/aUBcH_q-MnoO\n\nWould a $15 off discount code be helpful? Let me know if you have any questions! stop to stop",
+          "message_type": "system",
+          "date_time": "2026-01-31 17:16:47.301"
+        },
+        {
+          "message_media": [],
+          "message_text": "Wooden Ships: Ending soon!\n\nTime is running out for Love! Grab a topseller while you can!\n\nwoodenships.attn.tv/atqTGSSzIx6u  stop to stop",
+          "message_type": "system",
+          "date_time": "2026-02-01 14:00:14.682"
+        },
+        {
+          "message_media": [],
+          "message_text": "Wooden Ships: Last Call for Valentines!\n\nOrder by midnight to ensure your Valentines look arrives right on time!\n\nwoodenships.attn.tv/aHbBMQOTYIle  stop to stop",
+          "message_type": "system",
+          "date_time": "2026-02-02 14:00:21.378"
+        },
+        {
+          "message_media": [],
+          "message_text": "Wooden Ships: It looks like you forgot EVERYDAY RIBBED V MERCER in your cart...anything I can help with? \n\nComplete your checkout today: woodenships.attn.tv/aku9Bdlmv62m  stop to stop",
+          "message_type": "system",
+          "date_time": "2026-02-05 17:46:17.040"
+        },
+        {
+          "message_media": [],
+          "message_text": "Wooden Ships: NEW RELEASE!\n\nEasy, airy, and perfect for the first spring days. Free Shipping!\n\nwoodenships.attn.tv/aSRvXiWE6iow  stop to stop",
+          "message_type": "system",
+          "date_time": "2026-02-07 14:00:38.479"
+        },
+        {
+          "message_media": [],
+          "message_text": "Wooden Ships: GAME DAY!\n\nCelebrate with a custom knit! Free Shipping!\n\nwoodenships.attn.tv/aedxfafC_nqJ  stop to stop",
+          "message_type": "system",
+          "date_time": "2026-02-08 14:00:10.660"
+        },
+        {
+          "message_media": [],
+          "message_text": "Wooden Ships: Hey Deborah, this is Sarah. Thanks for checking us out! woodenships.attn.tv/aLbRmV8ds4Kb\n\nWould a $10 off discount code be helpful? Let me know if you have any questions! stop to stop",
+          "message_type": "system",
+          "date_time": "2026-02-08 17:47:21.275"
+        },
+        {
+          "message_media": [],
+          "message_text": "Thank you that would be wonderful",
+          "message_type": "customer",
+          "date_time": "2026-02-08 17:48:41.969"
+        },
+        {
+          "message_media": [],
+          "message_text": "Wooden Ships: Great! Feel free to use the code CART10 at checkout to enjoy $10 off with our full-priced items. You can shop our Top Sellers here: https://woodenships.attn.tv/aH5QpQxKqoSR\n\nWhat kind of clothing, color, and size do you need?",
+          "message_type": "agent",
+          "agent": "31385",
+          "message_id": "019c3f8f-7266-4f9d-f000-000066dc3764",
+          "date_time": "2026-02-08 18:21:31.520"
+        },
+        {
+          "message_media": [],
+          "message_text": "Sara can you ask if I buy what's in my cart is it possible to recieve 50% off the second sweater I know it's only  seasonal thank you Sara for trying",
+          "message_type": "customer",
+          "date_time": "2026-02-09 11:28:51.987"
+        },
+        {
+          "message_media": [],
+          "message_text": "Wooden Ships: I completely understand wanting to maximize your savings. However, our promotions can't be combined. The CART10 code applies to full-priced items, and it can't be stacked with another promo.",
+          "message_type": "agent",
+          "agent": "109972",
+          "message_id": "019c4367-8c88-49ac-f000-000066dc3764",
+          "date_time": "2026-02-09 12:16:25.638"
+        }
+      ],
       "notes": {
         "important": [
           "The client wants us to sound as ONE person",
-          "➜  Do NOT mention that you\u0027re reaching out to the team, you haven\u0027t heard back from the team, or any reference to the team or another team - we should sound as one person"
+          "➜  Do NOT mention that you're reaching out to the team, you haven't heard back from the team, or any reference to the team or another team - we should sound as one person"
         ],
         "send_to_cs": [
           "Send to CS if cx sends photos of items from the website or if photos/screenshots are not coming through"
         ],
         "escalate": [
-          "Go the extra mile for cx\u0027s - ESC any q\u0027s you\u0027re unsure of",
+          "Go the extra mile for cx's - ESC any q's you're unsure of",
           "When ESC on weekdays, use ESC shortcut",
           "When ESC on weekends, use WKD shortcut",
-          "ESC if a cx doesn\u0027t want to sign the package / provide a signature when receiving their order",
+          "ESC if a cx doesn't want to sign the package / provide a signature when receiving their order",
           "ESC if a cx wants to know when an item will be available/back in stock",
           "ESC if a cx wants to know where an item is shipped from",
-          "ESC immediately if a cx has an issue applying a code that we didn\u0027t share (it\u0027s not in the UI or website)"
+          "ESC immediately if a cx has an issue applying a code that we didn't share (it's not in the UI or website)"
         ],
         "templates": [
-          "If a cx is asking for updates after we\u0027ve escalated - use DUP shortcut. Don\u0027t tell the cx, you haven\u0027t heard back",
+          "If a cx is asking for updates after we've escalated - use DUP shortcut. Don't tell the cx, you haven't heard back",
           "If a cx shares an incorrect response to the Journey asking them to share their birthday month - use BRE shortcut"
         ],
         "tone": [
@@ -72,490 +706,281 @@
           "➜  If 5PM, or a day has passed we should reply"
         ],
         "drive_to_purchase": [
-          "Don\u0027t tell cx\u0027s we\u0027ll restock an item which is not available on the website"
+          "Don't tell cx's we'll restock an item which is not available on the website"
         ],
-        "dos_and_donts": [
+        "dos_and_don_ts": [
           "Do not say that \"my system is limited\", limited access\" or similar phrases",
-          "Do not say \"I don\u0027t have better deals\", \"I don\u0027t have any codes available\", or similar phrases",
+          "Do not say \"I don't have better deals\", \"I don't have any codes available\", or similar phrases",
           "Do not say \"sales collection\", say \"sale collection\""
         ],
-        "promo_and_exclusions": [
+        "promo_and_promo_exclusions": [
           "We have a brand-specific CWW template",
           "If a cx shows any purchase intent, always share our code.",
           "Examples, but not limited to:",
           "➜ Asks when an item will go on sale",
           "➜ Responds to the browsing/cart abandonment journey, showing interest",
-          "➜ Asks q\u0027s about products/items",
+          "➜ Asks q's about products/items",
           "If cx asks for a percentage code, share 10WELCOME code for 10% off",
-          "Cx\u0027s can use a code and receive free shipping as well"
+          "Cx's can use a code and receive free shipping as well"
         ]
       },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://wooden-ships.com",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "BLOSSOM CROPPED TOP CREW COTTON - X/S (2-4) / Breaker White",
+            "link": "https://www.wooden-ships.com/collections/blossom/products/blossom-cropped-top-crew-cotton-sweater-breaker-white-86?utm_campaign=$10%20off%20Concierge&utm_medium=sms&utm_source=attentive&externalId=ldkyI",
+            "timeAgo": "2026-02-08"
+          },
+          {
+            "item": "MINI DAISY V COTTON - X/S (2-4) / Beach Sky",
+            "link": "https://www.wooden-ships.com/collections/blossom/products/mini-daisy-v-cotton-sweater-beach-sky-blue-86",
+            "timeAgo": "2026-02-08"
+          },
+          {
+            "item": "MINI DAISY V COTTON - X/S (2-4) / Beach Sky",
+            "link": "https://www.wooden-ships.com/collections/blossom/products/mini-daisy-v-cotton-sweater-beach-sky-blue-86",
+            "timeAgo": "2026-02-08"
+          },
+          {
+            "item": "BLOSSOM CROPPED TOP CREW COTTON - X/S (2-4) / Breaker White",
+            "link": "https://www.wooden-ships.com/collections/blossom/products/blossom-cropped-top-crew-cotton-sweater-breaker-white-86",
+            "timeAgo": "2026-02-08"
+          },
+          {
+            "item": "EVERYDAY RIBBED V MERCER - S/M (6-8) / Pale Shale",
+            "link": "https://www.wooden-ships.com/products/everyday-ribbed-v-mercer-sweater-cantaloupe-orange?variant=42722012495920",
+            "timeAgo": "2026-02-07"
+          }
+        ],
+        "orders": [
+          {
+            "orderNumber": "6208774996016",
+            "orderDate": "2025-06-10",
+            "items": [
+              {
+                "name": "POCKET FULL OF SUNSHINE CREW COTTON",
+                "price": 142,
+                "productLink": "https://wooden-ships.myshopify.com/products/pocket-full-of-sunshine-crew-cotton-breaker-white-tuscan-sun-2"
+              }
+            ],
+            "total": 160.32,
+            "date_time": "2025-06-10 23:39:57.777"
+          },
+          {
+            "orderNumber": "6110238048304",
+            "orderDate": "2025-04-14",
+            "items": [
+              {
+                "name": "KEY WEST CREW COTTON",
+                "price": 145,
+                "productLink": "https://wooden-ships.myshopify.com/products/key-west-crew-cotton-sweater-sea-glass-blue-102"
+              }
+            ],
+            "total": 123.92,
+            "coupon": "LL-A5RKTS79",
+            "date_time": "2025-04-14 14:34:53.089"
+          },
+          {
+            "orderNumber": "5387172708400",
+            "orderDate": "2024-03-15",
+            "items": [
+              {
+                "name": "Route Package Protection",
+                "price": 3.95,
+                "productLink": "https://wooden-ships.myshopify.com/products/routeins"
+              }
+            ],
+            "total": 156.69,
+            "date_time": "2024-03-15 19:15:43.240"
+          },
+          {
+            "orderNumber": "5387172708400",
+            "orderDate": "2024-03-15",
+            "items": [
+              {
+                "name": "MINI DAISY V COTTON",
+                "price": 140,
+                "productLink": "https://wooden-ships.myshopify.com/products/mini-daisy-v-cotton-6"
+              }
+            ],
+            "total": 156.69,
+            "date_time": "2024-03-15 19:15:43.227"
+          },
+          {
+            "orderNumber": "5264802152496",
+            "orderDate": "2024-01-05",
+            "items": [
+              {
+                "name": "AUDREY V COTTON",
+                "price": 135,
+                "productLink": "https://wooden-ships.myshopify.com/products/audrey-v-cotton-2"
+              }
+            ],
+            "total": 147.29,
+            "date_time": "2024-01-05 15:02:27.756"
+          }
+        ]
+      },
+      "escalation_preferences": [],
       "blocklisted_words": [
         "deal",
         "deals"
       ],
-      "escalation_preferences": [
-        
-      ],
-      "messageTone": "Super Casual",
+      "has_shopify": true
+    },
+    "20": {
+      "id": "019c48af-6381-4f9e-f000-0000f801fba4",
+      "companyName": "Venus ET Fleur",
+      "companyWebsite": "https://venusetfleur.com",
+      "agentName": "Megan",
+      "messageTone": "Polished",
       "conversation": [
         {
+          "message_media": [],
+          "message_text": "Venus et Fleur: Welcome! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
           "message_type": "system",
-          "message_text": "Wooden Ships: NEW RELEASE!\n\nSoft, breathable, chunky cotton. Perfect for cuddle weather.\n\nwoodenships.attn.tv/axmOolBXQlH-  stop to stop",
-          "date_time": "2026-01-10 14:00:31.504",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-05 11:09:22.256"
         },
         {
+          "message_media": [],
+          "message_text": "Venus et Fleur: Welcome! I'm Katie, your personal concierge. I would love to assist you today. I've arranged for Complimentary Standard Shipping on your first order with the code 3X46WCQD. \n\nDiscover our garden of Real Flowers That Last A Year: \nhttps://venusetfleur.attn.tv/at0Z5wOJ5lXb ",
           "message_type": "system",
-          "message_text": "Wooden Ships: NEW! JUST DROPPED!\n\nMeet your newest WS crush! Free Shipping!\n\nwoodenships.attn.tv/asySyCWXRmbG  stop to stop",
-          "date_time": "2026-01-11 14:00:36.540",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-05 11:09:26.216"
         },
         {
+          "message_media": [],
+          "message_text": "Venus et Fleur: Don't forget to save our contact information:",
           "message_type": "system",
-          "message_text": "Wooden Ships: NEW Release!\n\nCasual, cute \u0026 Laid-back layers you\u0027ll fall in love with. Free Shipping!\n\nwoodenships.attn.tv/aFdeRMtRW0KP  stop to stop",
-          "date_time": "2026-01-17 14:00:48.663",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-05 12:20:07.069"
         },
         {
+          "message_media": [],
+          "message_text": "Venus et Fleur: Hello ! This is Megan from Venus et Fleur. I noticed a selection of our Eternity® florals caught your eye, and I would love to assist you. \n\nI've arranged for you to have Complimentary Standard Shipping with code: 3X46WCQD. Here's a link to your cart: venusetfleur.attn.tv/a1dvZkB32PoV .",
           "message_type": "system",
-          "message_text": "Wooden Ships: NEW: Transition\n\nLight, calm \u0026 airy. Perfect for layering. Perfect for lounging. Perfect for now.\n\nwoodenships.attn.tv/acFmxeGvJFcr  stop to stop",
-          "date_time": "2026-01-18 14:00:28.545",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-05 12:32:19.494"
         },
         {
+          "message_media": [],
+          "message_text": "Venus et Fleur: Carefully harvested at their peak from our farms in Ecuador and Japan, each floral undergoes a delicate preservation process, maintaining its natural beauty and scent for a year or longer. \n\nPlease feel free to use my exclusive gift to you 3X46WCQD at checkout for Complimentary Shipping on your first order of Eternity® blooms \nhttps://venusetfleur.attn.tv/af7RxQA8pzMC \n\n-Katie",
           "message_type": "system",
-          "message_text": "Wooden Ships: Celebrating Love!\n\nWear and share love everyday in knits that are light, soft and relaxed.\n\nwoodenships.attn.tv/aWIiIjJ3JHo3  stop to stop",
-          "date_time": "2026-01-19 15:00:30.726",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-06 12:20:14.377"
         },
         {
+          "message_media": [],
+          "message_text": "Venus et Fleur: [Only 2 Units Left!] The all-new Grandiose Le Plein with Eternity® Mixed Florals has arrived for Valentine's Day, taking over 5 hours to craft. \n\nStanding at an impressive 3 feet tall, this EXTRAORDINARY GIFT is larger-than-life, and a true reflection of the lengths one will go for loved ones. \n\nOrder today: venusetfleur.attn.tv/aUJejDwZAq24 \nHand delivered only in the TriState Area. For delivery exceptions, email concierge@venusetfleur.com. ",
           "message_type": "system",
-          "message_text": "Wooden Ships: We miss you! Have you seen our new collection? Shop now woodenships.attn.tv/a4AA98rTKva3  stop to stop",
-          "date_time": "2026-01-19 17:58:58.193",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-07 17:30:14.356"
         },
         {
+          "message_media": [],
+          "message_text": "Venus et Fleur: 🌹 Guaranteed Get it in time for Valentine's Day Delivery. \nBecause there is still time for the big day! Give the gift that lasts with Real Flowers That Last A Year. \n\nPlace your order today for on-time delivery. ⏰ venusetfleur.attn.tv/ab1N32xWcGqd \n ",
           "message_type": "system",
-          "message_text": "Wooden Ships: Superbowl!\n\nWhat\u0027re you gonna wear?! Hurry before it\u0027s too late!\n\nwoodenships.attn.tv/aqp7UPj8RxKc  stop to stop",
-          "date_time": "2026-01-22 15:00:12.757",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-07 17:40:18.233"
         },
         {
+          "message_media": [],
+          "message_text": "Venus et Fleur: The clock is ticking ⏰ Valentine's Day is just 5 DAYS AWAY. \n\nReal Flowers That Last A Year = a GUARANTEED win. 🌹🏈 Shop now: venusetfleur.attn.tv/ah5Zz1uxY7ac \n\n",
           "message_type": "system",
-          "message_text": "Wooden Ships: NEW RELEASE!\n\nInez, because beachy stripes are always right! Soft \u0026 Chunky!\n\nwoodenships.attn.tv/a-tre_auxVMJ  stop to stop",
-          "date_time": "2026-01-24 14:00:33.401",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-08 15:01:04.899"
         },
         {
+          "message_media": [],
+          "message_text": "Venus et Fleur: Hello ! This is Megan from Venus et Fleur. I noticed a selection of our Eternity® florals caught your eye, and I would love to assist you. \n\nI've arranged for you to have Complimentary Standard Shipping with code: 3X46WCQD. Here's a link to your cart: venusetfleur.attn.tv/a9Mf8xnzg2f2 .",
           "message_type": "system",
-          "message_text": "Wooden Ships: Easy to Love, Easy to Wear\n\nCozy, flattering, and effortless-Grab our Valentine\u0027s sweaters before they\u0027re gone!\n\nwoodenships.attn.tv/a2Yu-0QqKW63  stop to stop",
-          "date_time": "2026-01-25 14:00:16.429",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-08 16:15:47.894"
         },
         {
+          "message_media": [],
+          "message_text": "Venus et Fleur: Last chance! Your complimentary shipping offer is expiring soon. Don't miss out on the opportunity to shop our curated collection of eternity florals and home pieces. Visit us now: venusetfleur.attn.tv/apwaUd3ncEPm .",
           "message_type": "system",
-          "message_text": "Wooden Ships: Order by Midnight\n\nTo receive in time for SUPER BOWL, order now! Free Shipping!\n\nwoodenships.attn.tv/afQDtlsgAviE  stop to stop",
-          "date_time": "2026-01-26 14:00:17.701",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-09 12:20:23.477"
         },
         {
+          "message_media": [],
+          "message_text": "Venus et Fleur: 🌹 Guaranteed Get it in time for Valentine's Day Delivery. \nValentine's Day is this Saturday and our Eternity Blooms are going quickly! This year, give the gift that lasts with Real Flowers That Last A Year. \n\nPlace your order today for on-time delivery. ⏰ venusetfleur.attn.tv/a_ikFHxC80As \n ",
           "message_type": "system",
-          "message_text": "Wooden Ships: Last Call for Valentines!\n\nOrder by midnight to ensure your Valentines look arrives right on time\n\nwoodenships.attn.tv/aSRTY_AbUb84  stop to stop",
-          "date_time": "2026-01-30 15:00:12.427",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-09 18:30:15.839"
         },
         {
+          "message_media": [],
+          "message_text": "Venus et Fleur: Cupid is Counting Down! 🏹 THIS SATURDAY is VALENTINE'S DAY and our Eternity® Roses are going fast. Give the gift of Real Flowers That Last A Year.\nvenusetfleur.attn.tv/aV5TvVVMaKyE \n\nBecause Venus is a Love Letter written in florals 🌹\n",
           "message_type": "system",
-          "message_text": "Wooden Ships: New Release!\n\nFresh, new styles for a new season. Light, soft, and easy! Free Shipping\n\nwoodenships.attn.tv/agi7gfW1nYlY  stop to stop",
-          "date_time": "2026-01-31 14:00:32.547",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-09 19:35:19.617"
         },
         {
+          "message_media": [],
+          "message_text": "Venus et Fleur: Hello ! This is Megan from Venus et Fleur. I noticed a selection of our Eternity® Blooms caught your eye, and I would love to assist you. \n\n🌹 It's almost Valentine's Day and our florals are going quickly, so act fast! ⏰ I've arranged for you to have Complimentary Shipping with code: ETERNALBLOOM. Here's a link to your cart: venusetfleur.attn.tv/ave1LmSVo82T .",
           "message_type": "system",
-          "message_text": "Wooden Ships: Hey Deborah, this is Sarah. Thanks for checking us out! woodenships.attn.tv/aUBcH_q-MnoO\n\nWould a $15 off discount code be helpful? Let me know if you have any questions! stop to stop",
-          "date_time": "2026-01-31 17:16:47.301",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-10 12:34:32.207"
         },
         {
-          "message_type": "system",
-          "message_text": "Wooden Ships: Ending soon!\n\nTime is running out for Love! Grab a topseller while you can!\n\nwoodenships.attn.tv/atqTGSSzIx6u  stop to stop",
-          "date_time": "2026-02-01 14:00:14.682",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Wooden Ships: Last Call for Valentines!\n\nOrder by midnight to ensure your Valentines look arrives right on time!\n\nwoodenships.attn.tv/aHbBMQOTYIle  stop to stop",
-          "date_time": "2026-02-02 14:00:21.378",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Wooden Ships: It looks like you forgot EVERYDAY RIBBED V MERCER in your cart...anything I can help with? \n\nComplete your checkout today: woodenships.attn.tv/aku9Bdlmv62m  stop to stop",
-          "date_time": "2026-02-05 17:46:17.040",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Wooden Ships: NEW RELEASE!\n\nEasy, airy, and perfect for the first spring days. Free Shipping!\n\nwoodenships.attn.tv/aSRvXiWE6iow  stop to stop",
-          "date_time": "2026-02-07 14:00:38.479",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Wooden Ships: GAME DAY!\n\nCelebrate with a custom knit! Free Shipping!\n\nwoodenships.attn.tv/aedxfafC_nqJ  stop to stop",
-          "date_time": "2026-02-08 14:00:10.660",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Wooden Ships: Hey Deborah, this is Sarah. Thanks for checking us out! woodenships.attn.tv/aLbRmV8ds4Kb\n\nWould a $10 off discount code be helpful? Let me know if you have any questions! stop to stop",
-          "date_time": "2026-02-08 17:47:21.275",
-          "message_media": [
-            
-          ]
-        },
-        {
+          "message_media": [],
+          "message_text": "Will they get delivered by Saturday morning if I order today",
           "message_type": "customer",
-          "message_text": "Thank you that would be wonderful",
-          "date_time": "2026-02-08 17:48:41.969",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-10 12:40:43.119"
         },
         {
-          "message_id": "019c3f8f-7266-4f9d-f000-000066dc3764",
-          "message_text": "Wooden Ships: Great! Feel free to use the code CART10 at checkout to enjoy $10 off with our full-priced items. You can shop our Top Sellers here: https://woodenships.attn.tv/aH5QpQxKqoSR\n\nWhat kind of clothing, color, and size do you need?",
+          "message_media": [],
+          "message_text": "Venus et Fleur: Thank you for reaching out! Good question! This depends on the selected shipping method. All of our arrangements ship with UPS or FedEx. Certain arrangements are eligible for same day hand delivery if the order is placed before 2 pm and is being delivered to NJ or NY. You are able to choose a delivery date for all of our arrangements at checkout, and we do offer next day delivery as long as the order is placed before 6 pm EST.\n\nHope this helps! If you have any questions, feel free to text me.",
           "message_type": "agent",
-          "agent": "31385",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-08 18:21:31.520"
+          "agent": "87295",
+          "message_id": "019c48a5-f719-4ac5-f000-0000f801fba4",
+          "date_time": "2026-02-10 12:42:42.223"
         },
         {
+          "message_media": [],
+          "message_text": "Ok so if I order Friday before 2pm it will get to me Saturday?",
           "message_type": "customer",
-          "message_text": "Sara can you ask if I buy what\u0027s in my cart is it possible to recieve 50% off the second sweater I know it\u0027s only  seasonal thank you Sara for trying",
-          "date_time": "2026-02-09 11:28:51.987",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-10 12:45:32.887"
         },
         {
-          "message_id": "019c4367-8c88-49ac-f000-000066dc3764",
-          "message_text": "Wooden Ships: I completely understand wanting to maximize your savings. However, our promotions can\u0027t be combined. The CART10 code applies to full-priced items, and it can\u0027t be stacked with another promo.",
+          "message_media": [],
+          "message_text": "I'm in my",
+          "message_type": "customer",
+          "date_time": "2026-02-10 12:45:42.904"
+        },
+        {
+          "message_media": [],
+          "message_text": "*Ny",
+          "message_type": "customer",
+          "date_time": "2026-02-10 12:45:48.669"
+        },
+        {
+          "message_media": [],
+          "message_text": "Venus et Fleur: Good question! Since you are in NY, if the arrangement is eligible for local hand delivery and you place your order before 2 pm, you can select Saturday as your delivery date at checkout.\n\nIf the arrangement ships via UPS or FedEx, please select next day shipping and place the order before 6 pm EST to receive it on Saturday.\n\nThe available delivery dates will show at checkout based on the item and your address.",
           "message_type": "agent",
-          "agent": "109972",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-09 12:16:25.638"
+          "agent": "87295",
+          "message_id": "019c48af-6381-4f9e-f000-0000f801fba4",
+          "date_time": "2026-02-10 12:52:59.805"
         }
-      ]
-    },
-    "17": {
-      "agentName": "Sarah",
-      "id": "019c53a3-632f-4d74-f000-00004d3134de",
-      "rightPanel": {
-        "source": {
-          "label": "Website",
-          "value": "https://niraskin.com",
-          "date": ""
-        }
-      },
-      "companyWebsite": "https://niraskin.com",
-      "companyName": "NIRA",
+      ],
       "notes": {
         "escalate": [
-          "ESC post-purchase inquiries immediately",
-          "ESC shipping delay inquiries",
-          "ESC technical-specific inquiries",
-          "ESC inquiries regarding specific Influencer/Affiliates code",
-          "ESC if cx wants to return their order, don\u0027t send RP template!"
+          "ESC if cx wants their account name to be changed",
+          "ESC if cx complains that their order was canceled",
+          "If cx's ask when their order will arrive/estimated delivery date",
+          "➜  Ask what shipping method they selected at checkout",
+          "➜ If it's standard shipping use STS shortcut",
+          "➜ If they insist to know exactly when ESC",
+          "Cx gets a code for free shipping for the first purchase; you can escalate any issues after troubleshooting"
         ],
         "tone": [
-          "Don\u0027t use slang (ex: gotcha)",
-          "Refer to Bundles as Collections",
-          "Close the convo once the brand\u0027s customer service team takes over"
+          "Don't thank the cx for the purchase, thank them for their continuous support",
+          "Don't ask the customer to contact the courier"
+        ],
+        "drive_to_purchase": [
+          "Don't D2P when the cx already made a purchase"
+        ],
+        "promo_and_promo_exclusions": [
+          "Free shipping code is only valid for standard shipping",
+          "Standard shipping charge is usually ~ $20, if you see a charge higher than that, it means the method selected is NOT standard (create a mock cart to double-check)"
         ]
       },
-      "blocklisted_words": [
-        
-      ],
-      "escalation_preferences": [
-        "Shipping questions",
-        "Discount code errors",
-        "Exchanges and returns",
-        "ESC post purchase questions right away",
-        "technical-specific questions",
-        "NIRA Pro Laser questions",
-        "questions comparing NIRA against other skincare device technologies",
-        "troubleshooting the device questions"
-      ],
-      "messageTone": "Polished",
-      "conversation": [
-        {
-          "message_type": "system",
-          "message_text": "NIRA: Hey Melanie,\n\nDon\u0027t forget to take \"before\" photos of your skin when your NIRA collection arrives! Then, capture a photo update every 30 days to track your progress. \n\nSee B\u0026A photo examples: https://niraskin.attn.tv/aeNqd7ntXVey ",
-          "date_time": "2026-01-20 14:23:52.715",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "NIRA: Hi Melanie, did you know that applying our science-backed topicals after your treatment will maximize your NIRA Laser results!?\n\nSubscribe \u0026 save 50% on our deeply nourishing \u0026 skin-renewing skincare bundle-\u003e\n https://niraskin.attn.tv/aEbY0XNUvY34 ",
-          "date_time": "2026-02-12 14:23:56.216",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "Hin I want to know if I will get confirmation when you receive my nira that I mailed back to you to get the upgrade?",
-          "date_time": "2026-02-12 15:43:15.380",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "template",
-          "message_text": "Template used: \"Order number and email - All brands\"; last updated: 2023-10-10 18:06:34.663",
-          "date_time": "2026-02-12 15:55:42.672",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c53a3-632f-4d74-f000-00004d3134de",
-          "message_text": "NIRA: Thanks for reaching out! Could you please share your email address and confirm the order number? I\u0027ll be happy to look into this with my team!",
-          "message_type": "agent",
-          "agent": "109964",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-12 15:55:42.673"
-        }
-      ]
-    },
-    "18": {
-      "agentName": "Sarah",
-      "id": "019c44db-21ea-4ea4-f000-0000f7d6f81f",
-      "rightPanel": {
-        "browsingHistory": [
-          {
-            "link": "https://cozyearth.com/products/womens-bamboo-stretch-knit-short-sleeve-pajama-set?variant=43627872026804#dialog-cart",
-            "item": "Women\u0027s Bamboo Stretch-Knit Short Sleeve Pajama Set",
-            "timeAgo": "2026-02-04"
-          },
-          {
-            "link": "https://cozyearth.com/products/womens-bamboo-stretch-knit-short-sleeve-pajama-set?variant=43627872026804",
-            "item": "Women\u0027s Bamboo Stretch-Knit Short Sleeve Pajama Set",
-            "timeAgo": "2026-02-04"
-          },
-          {
-            "link": "https://cozyearth.com/products/womens-bamboo-stretch-knit-short-sleeve-pajama-set?variant=43627872026804#dialog-cart",
-            "item": "Women\u0027s Bamboo Stretch-Knit Short Sleeve Pajama Set",
-            "timeAgo": "2026-02-04"
-          },
-          {
-            "link": "https://cozyearth.com/products/womens-bamboo-stretch-knit-short-sleeve-pajama-set?variant=43627872026804#dialog-cart",
-            "item": "Women\u0027s Bamboo Stretch-Knit Short Sleeve Pajama Set",
-            "timeAgo": "2026-02-04"
-          },
-          {
-            "link": "https://cozyearth.com/products/womens-bamboo-stretch-knit-short-sleeve-pajama-set?variant=43627872026804",
-            "item": "Women\u0027s Bamboo Stretch-Knit Short Sleeve Pajama Set",
-            "timeAgo": "2026-02-04"
-          }
-        ],
-        "source": {
-          "label": "Website",
-          "value": "https://cozyearth.com",
-          "date": ""
-        }
-      },
-      "companyWebsite": "https://cozyearth.com",
-      "companyName": "Cozy Earth",
-      "notes": {
-        "escalate": [
-          "ESC all MyFitness pall App inquiries"
-        ],
-        "dos_and_donts": [
-          "Don\u0027t share sale end dates with customers"
-        ]
-      },
-      "blocklisted_words": [
-        
-      ],
-      "escalation_preferences": [
-        
-      ],
-      "messageTone": "Polished",
-      "conversation": [
-        {
-          "message_type": "system",
-          "message_text": "Cozy Earth: Welcome! Msg \u0026 data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel. Privacy: attnl.tv/p/S4E",
-          "date_time": "2026-02-04 11:12:55.759",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Cozy Earth: Congrats on $50 Off! Use code GETCOZY50 at checkout.\n*only on orders over $100.\n\nHurry...offer expires in 48 hours!\ncozyearth.attn.tv/aNtEkVgdQ3GU",
-          "date_time": "2026-02-04 11:13:02.446",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Cozy Earth: Oh, also, a lot of people like getting personal recs from us. Over the next few days we\u0027ll try to help you find something that you will love.\n\nYour ultimate coziness awaits! Luxuriate in our best-sellers: https://cozyearth.attn.tv/ah-otXoRYxW7 .",
-          "date_time": "2026-02-04 11:14:07.338",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Cozy Earth: Thank you for your purchase! Your order number is #3345939. View more information about your order here: cozyearth.attn.tv/akbMJHpaw4rk",
-          "date_time": "2026-02-04 11:20:26.433",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Cozy Earth: Hurry! Last call for on-time Valentine\u0027s gift delivery with ground shipping!\n\nSave Up To 20% Off: cozyearth.attn.tv/aDApJufx-e3D",
-          "date_time": "2026-02-05 18:11:08.250",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Cozy Earth: Hi! We can\u0027t wait for you to try your new Cozy Earth Package Protection - Optional - 14.81!\n\nFind answers to common questions below or respond to this text \u0026 we\u0027ll be here to help right away!\ncozyearth.attn.tv/a_nfmUmGmvOE ",
-          "date_time": "2026-02-07 13:36:42.996",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Cozy Earth: Your order #3345939 is out for delivery! \nTrack your order here: cozyearth.attn.tv/ajwKa_ta2gwA",
-          "date_time": "2026-02-07 13:55:04.041",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Cozy Earth: Your order #3345939 is out for delivery! \nTrack your order here: cozyearth.attn.tv/aoxhLT6zxtbt",
-          "date_time": "2026-02-07 17:39:51.380",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Cozy Earth: Your order #3345939 is out for delivery! \nTrack your order here: cozyearth.attn.tv/aEelUzqRhe-q",
-          "date_time": "2026-02-09 13:47:35.312",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Cozy Earth: Your order #3345939 has been delivered! \nCheck in on your order: cozyearth.attn.tv/aci92ZULTmCf\n",
-          "date_time": "2026-02-09 17:40:15.320",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "What should I do if they are too big",
-          "date_time": "2026-02-09 18:52:26.952",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "template",
-          "message_text": "Template used: \"Return policy\"; last updated: 2022-10-21 22:52:19.174",
-          "date_time": "2026-02-09 19:02:17.733",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "template",
-          "message_text": "Template used: \"Return policy\"; last updated: 2022-10-21 22:52:19.174",
-          "date_time": "2026-02-09 19:02:17.733",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "template",
-          "message_text": "Template used: \"How do I start a return?\"; last updated: 2025-05-14 17:18:15.708",
-          "date_time": "2026-02-09 19:02:17.733",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c44db-21ea-4ea4-f000-0000f7d6f81f",
-          "message_text": "Cozy Earth: Thanks for reaching out, and I\u0027m sorry to hear that! For more information, you can check out our detailed return policy here: https://cozyearth.attn.tv/axrHJMgbnnoR\n\nThen, you can start your return here: https://cozyearth.attn.tv/adQiqRTlCop2\n\nLet me know how that goes.",
-          "message_type": "agent",
-          "agent": "109617",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-09 19:02:17.738"
-        }
-      ]
-    },
-    "19": {
-      "agentName": "Megan",
-      "id": "019c48af-6381-4f9e-f000-0000f801fba4",
       "rightPanel": {
         "source": {
           "label": "Website",
@@ -563,35 +988,6 @@
           "date": ""
         }
       },
-      "companyWebsite": "https://venusetfleur.com",
-      "companyName": "Venus ET Fleur",
-      "notes": {
-        "escalate": [
-          "ESC if cx wants their account name to be changed",
-          "ESC if cx complains that their order was canceled",
-          "If cx\u0027s ask when their order will arrive/estimated delivery date",
-          "➜  Ask what shipping method they selected at checkout",
-          "➜ If it\u0027s standard shipping use STS shortcut",
-          "➜ If they insist to know exactly when ESC",
-          "Cx gets a code for free shipping for the first purchase; you can escalate any issues after troubleshooting"
-        ],
-        "tone": [
-          "Don\u0027t thank the cx for the purchase, thank them for their continuous support",
-          "Don\u0027t ask the customer to contact the courier"
-        ],
-        "drive_to_purchase": [
-          "Don\u0027t D2P when the cx already made a purchase"
-        ],
-        "promo_and_exclusions": [
-          "Free shipping code is only valid for standard shipping",
-          "Standard shipping charge is usually ~ $20, if you see a charge higher than that, it means the method selected is NOT standard (create a mock cart to double-check)"
-        ]
-      },
-      "blocklisted_words": [
-        "preserved",
-        "chemical",
-        "cant"
-      ],
       "escalation_preferences": [
         "Exchanges and returns",
         "arrangement damages",
@@ -599,333 +995,12 @@
         "post-purchase questions",
         "inventory"
       ],
-      "messageTone": "Polished",
-      "conversation": [
-        {
-          "message_type": "system",
-          "message_text": "Venus et Fleur: Welcome! Msg \u0026 data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
-          "date_time": "2026-02-05 11:09:22.256",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Venus et Fleur: Welcome! I\u0027m Katie, your personal concierge. I would love to assist you today. I\u0027ve arranged for Complimentary Standard Shipping on your first order with the code 3X46WCQD. \n\nDiscover our garden of Real Flowers That Last A Year: \nhttps://venusetfleur.attn.tv/at0Z5wOJ5lXb ",
-          "date_time": "2026-02-05 11:09:26.216",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Venus et Fleur: Don\u0027t forget to save our contact information:",
-          "date_time": "2026-02-05 12:20:07.069",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Venus et Fleur: Hello ! This is Megan from Venus et Fleur. I noticed a selection of our Eternity® florals caught your eye, and I would love to assist you. \n\nI\u0027ve arranged for you to have Complimentary Standard Shipping with code: 3X46WCQD. Here\u0027s a link to your cart: venusetfleur.attn.tv/a1dvZkB32PoV .",
-          "date_time": "2026-02-05 12:32:19.494",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Venus et Fleur: Carefully harvested at their peak from our farms in Ecuador and Japan, each floral undergoes a delicate preservation process, maintaining its natural beauty and scent for a year or longer. \n\nPlease feel free to use my exclusive gift to you 3X46WCQD at checkout for Complimentary Shipping on your first order of Eternity® blooms \nhttps://venusetfleur.attn.tv/af7RxQA8pzMC \n\n-Katie",
-          "date_time": "2026-02-06 12:20:14.377",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Venus et Fleur: [Only 2 Units Left!] The all-new Grandiose Le Plein with Eternity® Mixed Florals has arrived for Valentine\u0027s Day, taking over 5 hours to craft. \n\nStanding at an impressive 3 feet tall, this EXTRAORDINARY GIFT is larger-than-life, and a true reflection of the lengths one will go for loved ones. \n\nOrder today: venusetfleur.attn.tv/aUJejDwZAq24 \nHand delivered only in the TriState Area. For delivery exceptions, email concierge@venusetfleur.com. ",
-          "date_time": "2026-02-07 17:30:14.356",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Venus et Fleur: 🌹 Guaranteed Get it in time for Valentine\u0027s Day Delivery. \nBecause there is still time for the big day! Give the gift that lasts with Real Flowers That Last A Year. \n\nPlace your order today for on-time delivery. ⏰ venusetfleur.attn.tv/ab1N32xWcGqd \n ",
-          "date_time": "2026-02-07 17:40:18.233",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Venus et Fleur: The clock is ticking ⏰ Valentine\u0027s Day is just 5 DAYS AWAY. \n\nReal Flowers That Last A Year = a GUARANTEED win. 🌹🏈 Shop now: venusetfleur.attn.tv/ah5Zz1uxY7ac \n\n",
-          "date_time": "2026-02-08 15:01:04.899",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Venus et Fleur: Hello ! This is Megan from Venus et Fleur. I noticed a selection of our Eternity® florals caught your eye, and I would love to assist you. \n\nI\u0027ve arranged for you to have Complimentary Standard Shipping with code: 3X46WCQD. Here\u0027s a link to your cart: venusetfleur.attn.tv/a9Mf8xnzg2f2 .",
-          "date_time": "2026-02-08 16:15:47.894",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Venus et Fleur: Last chance! Your complimentary shipping offer is expiring soon. Don\u0027t miss out on the opportunity to shop our curated collection of eternity florals and home pieces. Visit us now: venusetfleur.attn.tv/apwaUd3ncEPm .",
-          "date_time": "2026-02-09 12:20:23.477",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Venus et Fleur: 🌹 Guaranteed Get it in time for Valentine\u0027s Day Delivery. \nValentine\u0027s Day is this Saturday and our Eternity Blooms are going quickly! This year, give the gift that lasts with Real Flowers That Last A Year. \n\nPlace your order today for on-time delivery. ⏰ venusetfleur.attn.tv/a_ikFHxC80As \n ",
-          "date_time": "2026-02-09 18:30:15.839",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Venus et Fleur: Cupid is Counting Down! 🏹 THIS SATURDAY is VALENTINE\u0027S DAY and our Eternity® Roses are going fast. Give the gift of Real Flowers That Last A Year.\nvenusetfleur.attn.tv/aV5TvVVMaKyE \n\nBecause Venus is a Love Letter written in florals 🌹\n",
-          "date_time": "2026-02-09 19:35:19.617",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Venus et Fleur: Hello ! This is Megan from Venus et Fleur. I noticed a selection of our Eternity® Blooms caught your eye, and I would love to assist you. \n\n🌹 It\u0027s almost Valentine\u0027s Day and our florals are going quickly, so act fast! ⏰ I\u0027ve arranged for you to have Complimentary Shipping with code: ETERNALBLOOM. Here\u0027s a link to your cart: venusetfleur.attn.tv/ave1LmSVo82T .",
-          "date_time": "2026-02-10 12:34:32.207",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "Will they get delivered by Saturday morning if I order today",
-          "date_time": "2026-02-10 12:40:43.119",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c48a5-f719-4ac5-f000-0000f801fba4",
-          "message_text": "Venus et Fleur: Thank you for reaching out! Good question! This depends on the selected shipping method. All of our arrangements ship with UPS or FedEx. Certain arrangements are eligible for same day hand delivery if the order is placed before 2 pm and is being delivered to NJ or NY. You are able to choose a delivery date for all of our arrangements at checkout, and we do offer next day delivery as long as the order is placed before 6 pm EST.\n\nHope this helps! If you have any questions, feel free to text me.",
-          "message_type": "agent",
-          "agent": "87295",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-10 12:42:42.223"
-        },
-        {
-          "message_type": "customer",
-          "message_text": "Ok so if I order Friday before 2pm it will get to me Saturday?",
-          "date_time": "2026-02-10 12:45:32.887",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "I\u0027m in my",
-          "date_time": "2026-02-10 12:45:42.904",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "*Ny",
-          "date_time": "2026-02-10 12:45:48.669",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c48af-6381-4f9e-f000-0000f801fba4",
-          "message_text": "Venus et Fleur: Good question! Since you are in NY, if the arrangement is eligible for local hand delivery and you place your order before 2 pm, you can select Saturday as your delivery date at checkout.\n\nIf the arrangement ships via UPS or FedEx, please select next day shipping and place the order before 6 pm EST to receive it on Saturday.\n\nThe available delivery dates will show at checkout based on the item and your address.",
-          "message_type": "agent",
-          "agent": "87295",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-10 12:52:59.805"
-        }
-      ]
-    },
-    "20": {
-      "agentName": "",
-      "id": "019c6d55-9123-4b9a-f000-0000a16fd718",
-      "rightPanel": {
-        "source": {
-          "label": "Website",
-          "value": "https://lovesac.com",
-          "date": ""
-        }
-      },
-      "companyWebsite": "https://lovesac.com",
-      "companyName": "Lovesac",
-      "notes": {
-        "send_to_cs": [
-          "No ESC for this client, send everything to CS"
-        ],
-        "tone": [
-          "Close the convo once the client takes over!"
-        ]
-      },
       "blocklisted_words": [
-        
+        "preserved",
+        "chemical",
+        "cant"
       ],
-      "escalation_preferences": [
-        
-      ],
-      "messageTone": "Polished",
-      "conversation": [
-        {
-          "message_type": "system",
-          "message_text": "Lovesac: Furniture that lasts, a sale that won\u0027t - This Is That Sale with 40% off everything ends tonight.\n\nShop now: lovesac.attn.tv/aADtXLBVfFZe .",
-          "date_time": "2026-01-19 12:07:47.798",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Lovesac: Hey there! We noticed you eyeing something on our site...come back and save 40%: lovesac.attn.tv/aJrcEiGOcm_O .",
-          "date_time": "2026-01-19 14:44:02.085",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Lovesac: This Is That Sale. 40% Off Ends Tonight! Don\u0027t miss your chance to get what you\u0027ve always wanted.\n\nShop now: lovesac.attn.tv/awd7a2Lg5NKu .",
-          "date_time": "2026-01-25 14:05:20.803",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Lovesac: Sending a little love made for your home - 40% off everything for 4 days during our Friends \u0026 Family Event.\n\nShop now: lovesac.attn.tv/agX9unATnpUz .",
-          "date_time": "2026-01-28 12:05:34.084",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Lovesac: Hey there! We noticed you stopped by. Need some help? Just let us know which products you\u0027re interested in below. \n\nA. Sactionals\nB. Sacs\nC. StealthTech\nD. Snugg\n\nReply back \"A\", \"B\", \"C\", or \"D\"\n\nOr shop them all with 40% off: lovesac.attn.tv/aOji4wyBmdzX .",
-          "date_time": "2026-01-28 14:02:47.675",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Lovesac: Deep discounts on Total Comfort - Shop Clearance for up to 70% off: lovesac.attn.tv/aiJbbdpgFXuG .",
-          "date_time": "2026-01-30 14:03:03.508",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Lovesac: Last chance for a little love and LOTS of comfort. Our Friends \u0026 Family get 40% off for one last day.\n\nDon\u0027t miss it: lovesac.attn.tv/aoEWvZBfwAeI .",
-          "date_time": "2026-01-31 12:05:34.751",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Lovesac: It\u0027s time to end your uncomfortable SIT-uationship - Get 40% off with Presidents\u0027 Day savings.\n\nShop now: lovesac.attn.tv/a8716bPJ2dxX .",
-          "date_time": "2026-02-06 12:06:50.976",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Lovesac: If sitting down feels like settling, choose better comfort with a PillowSac Chair. \n\nBig comfort in two sizes: lovesac.attn.tv/aIGySSCoJiQc .",
-          "date_time": "2026-02-07 14:00:31.963",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Lovesac: 40% off everything continues. Shop our Presidents\u0027 Day Sale for furniture that adapts to you.\n\nShop now: lovesac.attn.tv/apy_d_9Wut-N .",
-          "date_time": "2026-02-11 09:15:15.664",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Lovesac: Just two days left to shop the Presidents\u0027 Day Sale and save 40% on everything.\n\nShop now: lovesac.attn.tv/acc6SDEfWFtk .",
-          "date_time": "2026-02-15 14:06:11.720",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Lovesac: Presidents\u0027 Day Sale ends tonight - take 40% off before it\u0027s gone.\n\nLast call to save on the styles you\u0027ve been eyeing: lovesac.attn.tv/ac9CmPy3ZjEX .",
-          "date_time": "2026-02-16 12:16:28.866",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Lovesac: Hey there! We noticed you stopped by. Need some help? Just let us know which products you\u0027re interested in below. \n\nA. Sactionals\nB. Sacs\nC. StealthTech\nD. Snugg\n\nReply back \"A\", \"B\", \"C\", or \"D\"\n\nOr shop them all at 40% off: lovesac.attn.tv/au_LuXPFw6vG .",
-          "date_time": "2026-02-16 14:04:52.467",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Lovesac: Hey there! We noticed you eyeing something on our site...come back and get 40% off: lovesac.attn.tv/a_-3pmhNRpNi .",
-          "date_time": "2026-02-17 15:22:40.237",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "I was going to purchase , but you guys inflated the price by more than 50 percent",
-          "date_time": "2026-02-17 15:40:07.078",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "template",
-          "message_text": "Template used: \"Screenshot 2 - All brands\"; last updated: 2023-10-10 18:10:03.294",
-          "date_time": "2026-02-17 15:40:50.246",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c6d55-9123-4b9a-f000-0000a16fd718",
-          "message_text": "Lovesac: I\u0027m so sorry to hear that! Can you please send me a screenshot of what you\u0027re seeing on your end? I\u0027ll be more than happy to look into this for you!",
-          "message_type": "agent",
-          "agent": "109964",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-17 15:40:50.248"
-        }
-      ]
+      "has_shopify": true
     }
   }
 }

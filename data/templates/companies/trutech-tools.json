@@ -1,0 +1,270 @@
+{
+  "companyKey": "trutech tools",
+  "templates": [
+    {
+      "name": "Are the Testo 550 digital HVAC gauges also a vacuum manifold?",
+      "content": "The Testo 550 digital HVAC gauges are not a vacuum manifold in the traditional sense, but they can be used for vacuum measurements during system evacuation, which is why there's some confusion. \n\nWhat the Testo 550 does:\nMeasures refrigerant pressures (high and low side)\nCalculates superheat and subcooling\nIncludes temperature sensors (usually clamp probes)\nHas a built-in vacuum sensor, so it can monitor vacuum levels during evacuation (down to about 500 microns\n\nWhat it doesn't do (as a full vacuum manifold):\nIt does not have a wide flow path like a dedicated vacuum manifold or vacuum-rated core removal tools do.\nIt's not ideal for pulling a deep vacuum quickly - it restricts flow compared to using large-diameter vacuum hoses and proper evacuation tools.\nCan measure the vacuum during evacuation\nNot optimized for pulling a vacuum efficiently\n\nRecommendation:\nUse the Testo 550 to monitor the vacuum, but use dedicated vacuum-rated hoses and core removal tools for the actual evacuation process.",
+      "id": "18a66a8a-624a-4231-8193-65dc4d88dc74",
+      "companyName": "TruTech Tools"
+    },
+    {
+      "name": "Do you have yellow jacket hoses?",
+      "content": "We don't carry Yellow Jacket brand hoses. Our recommendation would be the hoses from this category: https://www.trutechtools.com/vacuum-hoses.html",
+      "id": "73e782a1-cfb4-440b-b518-719dfa7a8845",
+      "companyName": "TruTech Tools"
+    },
+    {
+      "name": "Store location / retailer",
+      "content": "We're not a brick and mortar store but we do ship to all 50 U.S states/territories and Canada as well.",
+      "id": "4573125e-1436-4011-9dba-3c6d83c67d73",
+      "shortcut": "sl",
+      "companyName": "TruTech Tools"
+    },
+    {
+      "name": "I received an email from No Fraud?",
+      "content": "Yes, this is from us, we use a fraud service that will vet orders and reach out to customers for further verification.",
+      "id": "92b9e0cf-8e03-44d1-b02d-388e3b7a665f",
+      "companyName": "TruTech Tools"
+    },
+    {
+      "name": "Are your vacuums: VACUUM RATED?",
+      "content": "Yes, all vacuum products from Accutools are vacuum rated.",
+      "id": "682311bd-a06f-450b-a71a-8824b3625f2b",
+      "companyName": "TruTech Tools"
+    },
+    {
+      "name": "Military discount",
+      "content": "Thank you for your service! You can use code \"6VET6\" to get 6% off your order as well as free shipping (excludes A-JACKS, Fluke, Flir and Route protection).",
+      "id": "1403e858-e745-4510-834d-dc1bf672e44c",
+      "shortcut": "ms",
+      "companyName": "TruTech Tools"
+    },
+    {
+      "name": "What is MeasureQuick?",
+      "content": "MeasureQuick is a smartphone app that works with many of our best selling tools. We work very closely with measureQuick and you can refer to measurequick.com if you have general questions about it.",
+      "id": "bdde63b4-95b0-444a-a798-20770bda8516",
+      "companyName": "TruTech Tools"
+    },
+    {
+      "name": "Difference between the BluVac micro and the BluVac Pro Plus",
+      "content": "The BluVac micro does the same basic process the BluVac Pro Plus does, but with much higher accuracy and other features that appeal to different customers. For more detailed info, please refer to the chart in the description of this product: https://www.trutechtools.com/Accutools-BluVac-Plus-Micro-Wireless-Digital-Micron-Gauge",
+      "id": "0ae7e729-7654-4fad-9fcf-105560a4ba9f",
+      "companyName": "TruTech Tools"
+    },
+    {
+      "name": "Where are you located?",
+      "content": "We're located at 3425 Gilchrist Road, Suite B, Mogadore, OH 44260.",
+      "id": "01bf094b-7fab-4b06-80f2-0abd5bf73b78",
+      "shortcut": "loc",
+      "companyName": "TruTech Tools"
+    },
+    {
+      "name": "What are your payment financing methods?",
+      "content": "Affirm is definitely our most preferred Buy Now, Pay Later payment method. We also have PayPal Credit through PayPal and CreditKey for business accounts.",
+      "id": "ab8eef98-5210-4b33-8e2c-20ace433c7ad",
+      "companyName": "TruTech Tools"
+    },
+    {
+      "name": "Does the pipe clamp probe measure pressure?",
+      "content": "The pipe clamp probes don't measure pressure, they measure temperature of the liquid and suction lines of an AC system.",
+      "id": "03f777da-7720-4034-8326-174dff7a8d0a",
+      "companyName": "TruTech Tools"
+    },
+    {
+      "name": "Do you have any discounts / sales / promos?",
+      "content": "I don't have any codes available at the moment, but our deals will always be shared with our SMS subscribers or on our website, so keep an eye out!\n\nIn the meantime, you're welcome to view which promotions we have running over here: https://www.trutechtools.com/promos",
+      "id": "07fe9283-1a1a-4528-9af7-793180609aab",
+      "shortcut": "ncode",
+      "companyName": "TruTech Tools"
+    },
+    {
+      "name": "I'm old school! Do you have a fax number?",
+      "content": "You can send us a fax at 1-866-694-8655.",
+      "id": "59c6afe7-d794-4dca-a93f-6e2cd5e651e0",
+      "companyName": "TruTech Tools"
+    },
+    {
+      "name": "Phone Support",
+      "content": "You can give us a call at 1-888-224-3437 or let me know if I can help via text, it may be faster.",
+      "id": "743e8ace-940a-49af-b9d1-4b7309ce987c",
+      "shortcut": "ps",
+      "companyName": "TruTech Tools"
+    },
+    {
+      "name": "Social Media",
+      "content": "Give us a follow on IG: https://www.instagram.com/trutechtools/ and FB here: https://www.facebook.com/TruTechTools",
+      "id": "96eedb2a-4eac-4c38-b457-ef8e6a9e61de",
+      "shortcut": "smd",
+      "companyName": "TruTech Tools"
+    },
+    {
+      "name": "I need my order by a specific date!!!",
+      "content": "We can't guarantee when an order will arrive. Consider any shipping or transit time offered to you by us or other parties only as an estimate - we encourage you to order in a timely fashion to avoid delays caused by shipping or product availability.",
+      "id": "57436daa-f6d7-49ec-9c3c-a12ec5cba9b1",
+      "companyName": "TruTech Tools"
+    },
+    {
+      "name": "How do I start a return?",
+      "content": "You can learn more about how to start your return here: https://www.trutechtools.com/howtoreturnmerchandise",
+      "id": "f3b7e1ac-c612-4cdc-b78e-797345bf12ad",
+      "companyName": "TruTech Tools"
+    },
+    {
+      "name": "Do you have copper fittings?",
+      "content": "Absolutely! You can check them out here: https://www.trutechtools.com/rapid-locking-system.html",
+      "id": "3889102e-89ff-49b4-a6f4-ceee8d9e837b",
+      "companyName": "TruTech Tools"
+    },
+    {
+      "name": "Return Policy",
+      "content": "If any product doesn't satisfy your needs, or arrived damaged, it may be returned within 30 days of order receipt for a full refund. After the 30 day period, we recommend contacting the manufacturer directly, and we can always assist with that process. You can check out our detailed return policy here: https://www.trutechtools.com/howtoreturnmerchandise",
+      "id": "4540a3f2-7379-45ff-9b69-915b1dc62acf",
+      "shortcut": "rp",
+      "companyName": "TruTech Tools"
+    },
+    {
+      "name": "Restock (enabled for autosend)",
+      "content": "I currently don't have the exact date of a possible restock, but I recommend checking our website frequently, it will have the most recent ETA we have available. Is there anything else you like?",
+      "id": "fe6b244c-c147-4973-a49d-d92793130309",
+      "shortcut": "stok",
+      "companyName": "TruTech Tools"
+    },
+    {
+      "name": "Rewards Program",
+      "content": "You can learn more about our TruReward$ program here: https://www.trutechtools.com/trurewards-shop-earn-redeem.html",
+      "id": "db7f6157-9247-4f4e-aadd-c9045eee0e8c",
+      "shortcut": "rwd",
+      "companyName": "TruTech Tools"
+    },
+    {
+      "name": "Warranty policy",
+      "content": "If a product comes with a manufacturer's warranty you can always see it under the add to cart button on the product page, it will say \"This product comes with a manufacturer warranty.\" Further, for many products you have the option to purchase an extended warranty through Extend at the time of purchase, which you will also see under the add to cart button.",
+      "id": "8333c646-4813-4820-acd0-c56e855edb50",
+      "shortcut": "wp",
+      "companyName": "TruTech Tools"
+    },
+    {
+      "name": "Customer Support",
+      "content": "The best way to handle this is to email us directly at support@trutechtools.com, or give us a call at 1-888-224-3437. Our team is happy to help!",
+      "id": "bf1a37c0-4c87-48ee-8ed2-35821391c1b2",
+      "shortcut": "cs",
+      "companyName": "TruTech Tools"
+    },
+    {
+      "name": "Do you use No Fraud?",
+      "content": "Yes, we do use a service called NoFraud that will reach out to you if there is anything holding up your order from taking place.",
+      "id": "40734e12-518c-44c0-8fbe-22ce5ba75028",
+      "companyName": "TruTech Tools"
+    },
+    {
+      "name": "Payment Processors/What payment methods do you accept?",
+      "content": "We accept all major credit cards, Apple Pay (only on safari on an iOS device), Google Pay, Affirm, PayPal, PayPal Credit, CreditKey (financing for businesses) and emailed purchase orders.",
+      "id": "e30099a0-7ad5-46a8-a0ee-44f271831ae9",
+      "companyName": "TruTech Tools"
+    },
+    {
+      "name": "Can your vacuum pumps be used with freeze drying machines?",
+      "content": "No, they can't be used for freeze drying food because our vacuum pumps aren't intended for use with freeze drying machines.",
+      "id": "591e1794-5dd6-44a2-9bd7-d229953ad9d5",
+      "companyName": "TruTech Tools"
+    },
+    {
+      "name": "How can I add route to my order?",
+      "content": "Route can only be added via the cart page.",
+      "id": "b2424425-0089-40ca-becb-a8de965caccc",
+      "companyName": "TruTech Tools"
+    },
+    {
+      "name": "What does reefer mean?",
+      "content": "Reefer means refrigeration.",
+      "id": "efaa7e7a-44ca-4c0b-8e90-865c4178aeed",
+      "companyName": "TruTech Tools"
+    },
+    {
+      "name": "I can't see my order on my account",
+      "content": "Can I have your full name, email address and order number? We'll try locating your order and then link it to your account.",
+      "id": "9c4c721c-998e-4298-9336-db388783f23f",
+      "companyName": "TruTech Tools"
+    },
+    {
+      "name": "Shipping time",
+      "content": "Orders are processed 7 days a week and most orders received before 3:00 pm EST will ship the same day, provided the product ordered is in stock. After your order is shipped, we will forward the tracking number so you can follow your package which will update with an ETA on delivery. At this time we don't ship internationally.",
+      "id": "439e0feb-a2c8-46cf-8bfa-ecc6fd591078",
+      "shortcut": "shp",
+      "companyName": "TruTech Tools"
+    },
+    {
+      "name": "Do you offer expedited shipping?",
+      "content": "We do offer expedited shipping from Monday - Friday, we exclude the weekends. If you place an order on Friday, next day air will be Monday. You'll see the available options at checkout.",
+      "id": "266482b9-1f9a-44f6-a027-e7864d891eaf",
+      "companyName": "TruTech Tools"
+    },
+    {
+      "name": "Sales Collection",
+      "content": "You can take a look at our sale collection here: https://trutechtools.com/promotional-items-and-categories.html",
+      "id": "35ec8c8b-7187-4b62-95bf-a7c84667c7f8",
+      "shortcut": "spg",
+      "companyName": "TruTech Tools"
+    },
+    {
+      "name": "How long does a typical backorder take?",
+      "content": "Back Orders are usually fullfilled in 1 - 2 weeks after date of purchase or sooner. Keep in mind, manufacturing delays can impact fullfillment rate. If your backordered item(s) has taken longer than 2 weeks to ship, please check the items product page on our website for the latest ETA (Estimate Time of Arrival)",
+      "id": "9794d0f8-9d94-415f-b6bd-9d19adb9b423",
+      "companyName": "TruTech Tools"
+    },
+    {
+      "name": "I'm tax exempt, how do I proceed?",
+      "content": "The best way to handle this is to email us directly at support@trutechtools.com or give us a call at 1-888-224-3437. Our team is happy to help!",
+      "id": "caa026a6-986c-48f8-994d-4552010ab704",
+      "companyName": "TruTech Tools"
+    },
+    {
+      "name": "Post-purchase / order related issues",
+      "content": "The fastest way to get help with your order is to reach out to our team via email at support@trutechtools.com or call them at 1-888-224-3437. Our team will be happy to help!",
+      "id": "c7638dc2-c95a-4dd9-813b-f67c1614b5ab",
+      "shortcut": "ppi",
+      "companyName": "TruTech Tools"
+    },
+    {
+      "name": "Can you apply my discount retroactively?",
+      "content": "The fastest way to get help with your order is to reach out to our team via email at support@trutechtools.com or call them at 1-888-224-3437. Our team will be happy to help!",
+      "id": "50a3057a-bdc4-4843-bea6-0f7a0d9de555",
+      "shortcut": "rdr",
+      "companyName": "TruTech Tools"
+    },
+    {
+      "name": "Wholesale inquiries",
+      "content": "The best way to discuss wholesale is to email us directly at support@trutechtools.com. Our team is happy to chat.",
+      "id": "546fe2c4-c51d-47ce-8e7b-97652b68d16a",
+      "shortcut": "wls",
+      "companyName": "TruTech Tools"
+    },
+    {
+      "name": "Brand ambassador / sponsorship",
+      "content": "The best way to discuss this is to email us directly at support@trutechtools.com. Our team is happy to chat.",
+      "id": "8da3de6c-bf4c-40f6-8a23-e078cd6955b5",
+      "shortcut": "ams",
+      "companyName": "TruTech Tools"
+    },
+    {
+      "name": "Price Matching",
+      "content": "We will attempt to price match a price you may see from a reputable online store. However, TruTech typically does not price match with auction sites or marketplaces like eBay, Amazon, Walmart, etc. Can you please send me a screenshot or the link of the item you want us to price match alongside your phone number? I'll be happy to check on this with my team!",
+      "id": "92e653f6-d870-41b8-b4e3-d61066bc9d4c",
+      "shortcut": "pmc",
+      "companyName": "TruTech Tools"
+    },
+    {
+      "name": "How does the warranty work?",
+      "content": "We cover the warranty for the first 30 days after purchase on most of the products that we sell. Hlimor, Refco, Supco JB, and Navac, we cover the full warranty.\n\nAfter the in-house warranty, we recommend contacting the manufacturer directly if a tool needs servicing.",
+      "id": "5da0741b-c52b-424b-aa6a-13e7d2f317f3",
+      "companyName": "TruTech Tools"
+    },
+    {
+      "name": "Free Shipping",
+      "content": "We offer free shipping on domestic orders over $99. Maybe you can add something else to reach the min?",
+      "id": "f6cf58e0-1270-4ec5-8802-bd9a2424968f",
+      "shortcut": "fs",
+      "companyName": "TruTech Tools"
+    }
+  ]
+}

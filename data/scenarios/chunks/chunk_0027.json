@@ -3,1071 +3,941 @@
   "chunk": "chunk_0027",
   "scenarios": {
     "131": {
-      "agentName": "Nicole",
-      "id": "019c3fab-e0e5-4de4-f000-0000b39bc739",
-      "rightPanel": {
-        "source": {
-          "label": "Website",
-          "value": "https://gld.com",
-          "date": ""
-        }
-      },
-      "companyWebsite": "https://gld.com",
-      "companyName": "The GLD Shop",
-      "notes": {
-        "templates": [
-          "If cx wants to refund their order after 14 days of receiving it, send the \"Return outside of 14 day policy\" temp"
-        ]
-      },
-      "blocklisted_words": [
-        
-      ],
-      "escalation_preferences": [
-        
-      ],
+      "id": "019c495f-008d-4737-f000-0000f5f8798b",
+      "companyName": "Simply Earth",
+      "companyWebsite": "https://simplyearth.com",
+      "agentName": "Sarah",
       "messageTone": "Polished",
       "conversation": [
         {
+          "message_media": [],
+          "message_text": "Simply Earth: Welcome to Simply Earth! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
           "message_type": "system",
-          "message_text": "GLD: TGIFSF (Thank god it\u0027s FREE SH*T FRIDAY 🚨🚨)\n\nCop anything for 50% off, get a free Micro Tennis Chain ($120 value) on the house. \n\nToday only: gld.attn.tv/aoiHNsoeoUnU ",
-          "date_time": "2026-01-09 19:07:35.707",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-10 15:54:57.339"
         },
         {
+          "message_media": [],
+          "message_text": "Simply Earth: Hi Earthie! This is Sarah. Thanks for signing up via text! Use code UNICORN to get a free unicorn diffuser with your 1st Recipe Box! https://simplyearth.attn.tv/aOROvSuIh2uL \n\nHave any questions? Reply here!",
           "message_type": "system",
-          "message_text": "GLD: Chain farming?\n\nBOGO is LIVE. Buy one, get one, build the rotation. \n\ngld.attn.tv/aGJVStJaXoNR ",
-          "date_time": "2026-01-10 12:21:48.354",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-10 15:55:01.327"
         },
         {
+          "message_media": [],
+          "message_text": "Simply Earth: We pride ourselves on our customer service. Save our contact in your phone and text us whenever you have a question about the Recipe Box! ",
           "message_type": "system",
-          "message_text": "GLD: Banger Deal of the Day 🤑\n\nMicro Diamond Prong Cuban Braclet, now only $90 ($180 value!). Today only. \n\nExplore our best deals: gld.attn.tv/aIZboc08e62G ",
-          "date_time": "2026-01-10 19:49:04.435",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-10 15:57:06.540"
         },
         {
-          "message_type": "system",
-          "message_text": "GLD: Still thinking? We added a little extra. 😮‍💨\n\nSame piece. Now 55% off. \n\n5 hrs until it expires: gld.attn.tv/amrtF8uoL4Q7 ",
-          "date_time": "2026-01-11 19:46:20.010",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GLD: Hey maisy, your order #4658954 has been delivered! \n\nNeed to track it? We got you: https://gld.attn.tv/a0H4xo7SP8PM .\n\nReady for round 2? https://gld.attn.tv/a_myPz9zAero .",
-          "date_time": "2026-01-12 12:30:47.025",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GLD: Hey maisy, \nYour order #4658954 is out for delivery. Track your order here: https://gld.attn.tv/a1-_-xJRquYU .",
-          "date_time": "2026-01-12 14:40:00.609",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GLD: Team pendants now 50% off + a free chain for the next 200 orders. \n\nRep your team right: gld.attn.tv/al3eoOMOa4UD \n\n\n\nOfficial partners of NFL, NCAA, MLB, NBA, NHL \u0026 MLS. ",
-          "date_time": "2026-01-12 19:16:20.406",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GLD: Why let your chain show up alone? 🕺\n\nAdd to the party.\nFind it a new friend.\n\nNew drops are waiting....\nUse code BOGO \u0026 your second piece FREE: gld.attn.tv/aPMoG9FcT6y8 ",
-          "date_time": "2026-01-13 16:56:17.120",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GLD: A consistent rotation matters.\n\nDon\u0027t ask Steve Kerr. Just lock yours in.\n\nBundled Sets now up to 65% off ---\u003e gld.attn.tv/aqqGz_WlqXJ_ ",
-          "date_time": "2026-01-14 18:06:17.537",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GLD: big credit is BIG mad 😂💳 one charge, two chains.\n\nBuy one, get one free is LIVE. \n\nGet 2 for the price of 1: gld.attn.tv/a97oVOCljEHn ",
-          "date_time": "2026-01-15 19:57:26.859",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GLD: You get First Take like you Stephen A. 🗣️☕️ \n\nLoud opinions, louder pieces. \n\n50% off chains + team pendants when you hit the link: gld.attn.tv/aheb-Zekftpw ",
-          "date_time": "2026-01-16 20:37:56.228",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GLD: Think inside the box. 🧠📦\n\nOur fav Box chain, now only $54 ($180 value)\n \nPlus, other pieces up to 70% off for subscribers only. \n\nClick for exclusive access ---\u003e gld.attn.tv/aWe3uUpG9ZWo ",
-          "date_time": "2026-01-17 12:47:32.129",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GLD: Tryna link? \n\nCop our classic Cuban link chain, now for only $55 ($160 value) \n\n\nDon\u0027t miss this Long Weekend Banger + other deals up to 70% off: gld.attn.tv/ad6UNTg2-qzB ",
-          "date_time": "2026-01-18 12:47:42.629",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GLD: Weekend long, money longer. \n\nMake a dollar stretch. \n\n50% off your next piece + a free chain ENDS MIDNIGHT: gld.attn.tv/akQFWjfgCgFN ",
-          "date_time": "2026-01-19 14:17:28.809",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GLD: 🚨 4hr left 🚨 \n\nLast chance to get up to 70% off Long Weekend Bangers. \n\nMiami Cuban, only $55 ($160 value!) until the link expires: gld.attn.tv/awQyvAUhXs9q ",
-          "date_time": "2026-01-19 20:35:53.450",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GLD: Shoot your shot 🏹💘\n\nJust make it GLD.\n\nVDAY gifts are live - with extra 10% off just for you. ⛓️❤️\n\nUse code XTRA10VIP:\ngld.attn.tv/a3vSdlQWtOXT ",
-          "date_time": "2026-01-20 19:07:31.861",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GLD: indecisive who? 🤣✋\n\nDon\u0027t overthink it, wear all your chains at once.\n\nMake a 4-piece set for up to 65% off. \n\ngld.attn.tv/akn4Tsck4El- ",
-          "date_time": "2026-01-21 18:56:58.070",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GLD: Get him something he\u0027ll wanna flex all year long this VDay. \n\nPlus use code BOGO \u0026 get 2 gifts for the price of 1.\n\nFrom classic chains to bold watches...you can\u0027t go wrong: gld.attn.tv/a65Qi_-I4xuy ",
-          "date_time": "2026-01-22 17:35:59.988",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GLD: The average person...paying full price. \n\nCouldn\u0027t be you.\n\nBanger deals of the day are LIVE. But just for the weekend. \n\nSelect pieces 50-70% off when you click the link:\ngld.attn.tv/atSqGf8mSEFF ",
-          "date_time": "2026-01-23 12:36:23.706",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GLD: Size matters...\n\n...when it comes to these cuts. \n\nToday\u0027s Deal: Micro Tennis Chain \u0026 Bracelet bundle - now $70 ($195 value), while supplies last.\n\nYou know what to do:\ngld.attn.tv/aBsjIdxAzDnm \n",
-          "date_time": "2026-01-24 12:07:31.791",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GLD: These rocks sturdy, no Brock Purdy. \n\nAll official team pendants - NFL, NBA, NCAA. \n\nNOW Buy 1, and get your chain FREE.\n\nUse code BOGO: gld.attn.tv/a--ePCE3ai1D ",
-          "date_time": "2026-01-25 13:46:26.191",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GLD: Everyone talking digital footprint...\n\nNo one talking physical neck-print. \n\nImpose your will. Stack 4 for one low price. \n\nNow just $129, until midnight: gld.attn.tv/aZIKOrBvZWPA ",
-          "date_time": "2026-01-25 19:35:56.612",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GLD: Pieces that just go 🧩🧩\n\nFull sets, fully coordinated - and now up to 65% off.\n\nShop now. Show out. https://gld.attn.tv/ahoWnQfkythe \n\n",
-          "date_time": "2026-01-26 19:35:57.921",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GLD: girl math.\n\ntwo chains ➡️ one price.\n\nYour next 2 pieces, now only $99.\n\n🧠💅📈 tap in. gld.attn.tv/aUs-nxl9oJ4e \n",
-          "date_time": "2026-01-27 19:05:56.854",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GLD: The real For You page.\n\nEvery other piece is FREE with code BOGO. \n\nJust for you. Your algorithm never lies. gld.attn.tv/aEck8R2DidI9 ",
-          "date_time": "2026-01-28 19:06:28.257",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GLD: Self checkout type shi...\n\nBuy one. Put an extra in the bag for free (!!)\n\nWe\u0027re asking ZERO questions. \nUse code BOGO gld.attn.tv/axUmcdFRF59S ",
-          "date_time": "2026-01-29 18:06:48.942",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GLD: Banger?! I hardly know her. 🫠\n\nBANGER DAILY DEALS ARE BACK. 🚨🚨\n\nMake some good Friday decisions.\n\nNo walk of shame. Only wins. gld.attn.tv/amGQjFq_oYxo ",
-          "date_time": "2026-01-30 18:46:28.818",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GLD: WEEKEND BANGERS 🥊!!️\n\nStraight hitters. \nOur favorite pieces. Our best prices. \n\n50-70% off ends Sunday at midnight. \n\nExclusive subscriber access here: gld.attn.tv/aaM9jTCesyBj ",
-          "date_time": "2026-01-31 19:06:49.050",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GLD: This your Super Bowl. ✨\n\nCop your official NFL team pendants \u0026 rep your squad. \n\nPlus, get a 2nd piece free with code BOGO: gld.attn.tv/a3ULOzi1Ma3A ",
-          "date_time": "2026-02-01 19:46:22.219",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GLD: The price of gold skyrocketing 📈😰\n\nWe holding it down. 🤝\n\nReal gold, under $45 per piece. \n\n4 for $149 is live NOW. gld.attn.tv/ajKxdx5Z3NXx ",
-          "date_time": "2026-02-02 19:31:42.654",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GLD: She be double textin? 🫠\n\nDouble chain up and double dip tf out of there. 💨\n\n40% off is LIVE. For subscribers only: gld.attn.tv/aHCrzkOXKhL2 ",
-          "date_time": "2026-02-03 19:57:13.809",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GLD: Don\u0027t just raw-dog the fit. 🌭🙂‍↔️\n\nPut some sauce on it.\n\nNew Subscriber Exclusive: 40% off + a free chain to complete the look. \n\ngld.attn.tv/a6fx8AHzGPHw ",
-          "date_time": "2026-02-04 14:06:46.026",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GLD: Don\u0027t just cover your a$$...\n\nCover hers, in GLD.\n\nValentine\u0027s Day. Go all in. 🌹🔑\n\nUse code: BOGO for your 2nd piece free. Plus, free gift wrap with this link: gld.attn.tv/aK6uX2ioajGX ",
-          "date_time": "2026-02-05 19:07:42.353",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GLD: No cope, all rope [chain].\n\nOur most worn chain, at a price you can\u0027t ignore.\n\nWas $120 → Now Only $45.\n\nYou know what to do: gld.attn.tv/aQqPeyXUEu_y ",
-          "date_time": "2026-02-07 18:07:04.563",
-          "message_media": [
-            
-          ]
-        },
-        {
+          "message_media": [],
+          "message_text": "Why can't I call customer service?",
           "message_type": "customer",
-          "message_text": "I need some help",
-          "date_time": "2026-02-08 18:17:45.234",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-10 15:58:20.597"
         },
         {
-          "message_id": "019c3f8c-316f-440a-f000-0000b39bc739",
-          "message_text": "GLD: I would be more than happy to help out!",
+          "message_media": [],
+          "message_text": "Simply Earth: You can call us at 866-330-8165, Monday to Friday, 7am-3pm CST. Let me know if I can assist you via text, it may be faster.",
           "message_type": "agent",
           "agent": "62551",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-08 18:17:58.283"
+          "message_id": "019c4959-4f5a-4980-f000-0000f5f8798b",
+          "date_time": "2026-02-10 15:58:35.761"
         },
         {
+          "message_media": [],
+          "message_text": "It's not 3pm cost and they are hanging up on me right now",
           "message_type": "customer",
-          "message_text": "I placed an order a while ago, around Christmas time and it never shipped. Then I called gld and it shipped my pendant, but not the earrings since they were out of stock. I think they are back in stock, but I am supposed to have store credit to use since I never got a refund. How do I use my store credit I have?",
-          "date_time": "2026-02-08 18:20:25.103",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-10 15:59:30.775"
         },
         {
-          "message_id": "019c3fa8-1bdd-48ff-f000-0000b39bc739",
-          "message_text": "GLD: Thanks for explaining the issue. For your store credit, please check your spam and promo folders as well, as our emails sometimes end up there. Let me know if you find it there.",
-          "message_type": "agent",
-          "agent": "31385",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-08 18:48:27.774"
-        },
-        {
+          "message_media": [],
+          "message_text": "Cst",
           "message_type": "customer",
-          "message_text": "It\u0027s not there",
-          "date_time": "2026-02-08 18:49:55.124",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-10 15:59:40.794"
         },
         {
-          "message_id": "019c3fab-e0e5-4de4-f000-0000b39bc739",
-          "message_text": "GLD: Thank you for checking. As my system is limited to general product information, please let me check with my team, and I\u0027ll get back to you as soon as I get an update. To help with this, may I also ask for your order number and email address?",
+          "message_media": [],
+          "message_text": "I'm getting very upset",
+          "message_type": "customer",
+          "date_time": "2026-02-10 16:00:00.846"
+        },
+        {
+          "message_media": [],
+          "message_text": "I'm  trying to sign into my account however I can't because I don't remember my password or never set up a password",
+          "message_type": "customer",
+          "date_time": "2026-02-10 16:00:50.506"
+        },
+        {
+          "message_media": [],
+          "message_text": "Great they hung up on me until they turned on the closed message",
+          "message_type": "customer",
+          "date_time": "2026-02-10 16:01:40.692"
+        },
+        {
+          "message_media": [],
+          "message_text": "This instills great confidence in your company and how you treat your customers",
+          "message_type": "customer",
+          "date_time": "2026-02-10 16:02:20.803"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"Check spam - All brands\"; last updated: 2023-10-10 16:43:53.913",
+          "message_type": "template",
+          "date_time": "2026-02-10 16:04:48.803"
+        },
+        {
+          "message_media": [],
+          "message_text": "Simply Earth: I'm really sorry about this. I'm afraid it's past 3 PM CST now. You may try to contact us again once business hours resume. In the meantime, have you tried clicking the \"Forgot Password\" option on the sign-in page? Please check your spam and promotions folders, as our emails may sometimes land there. Let me know how it goes!",
           "message_type": "agent",
-          "agent": "82260",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-08 18:52:34.818"
+          "agent": "87310",
+          "message_id": "019c495f-008d-4737-f000-0000f5f8798b",
+          "date_time": "2026-02-10 16:04:48.805"
         }
-      ]
+      ],
+      "notes": {
+        "send_to_cs": [
+          "Send to CS for post purchase issues, use PPI shortcut"
+        ],
+        "promo_and_promo_exclusions": [
+          "Cx can use both a gift card and a promo code per order!"
+        ]
+      },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://simplyearth.com",
+          "date": ""
+        },
+        "orders": [
+          {
+            "orderNumber": "",
+            "orderDate": "2026-01-25",
+            "items": [
+              {
+                "name": "Aromatherapy Inhaler",
+                "price": 0.99,
+                "productLink": "https://simplyearth.com/products/inhaler"
+              },
+              {
+                "name": "Round Soap Mold",
+                "price": 1.99,
+                "productLink": "https://simplyearth.com/products/acc-circlesoapmold"
+              },
+              {
+                "name": "Monthly Recipe Box:February 2026",
+                "price": 44.99,
+                "productLink": "https://simplyearth.com/products/monthly-subscription-box-1"
+              },
+              {
+                "name": "Essential Oil Hero Course",
+                "price": 480,
+                "productLink": "https://simplyearth.com/products/essential-oil-hero-course"
+              },
+              {
+                "name": "Unicorn Essential Oil Blend",
+                "price": 13.99,
+                "productLink": "https://simplyearth.com/products/unicorn-essential-oil"
+              },
+              {
+                "name": "Big Bonus Box",
+                "price": 47.84,
+                "productLink": "https://simplyearth.com/products/big-bonus-box"
+              },
+              {
+                "name": "Lip Balm Tubes Set: Set of 50",
+                "price": 22.99,
+                "productLink": "https://simplyearth.com/products/lip-balm-container"
+              }
+            ],
+            "total": 612.79,
+            "date_time": "2026-01-25 21:12:32.000"
+          }
+        ]
+      },
+      "escalation_preferences": [],
+      "blocklisted_words": [],
+      "has_shopify": true
     },
     "132": {
+      "id": "019c596d-0089-4c77-f000-00007ec05f53",
+      "companyName": "Flock",
+      "companyWebsite": "https://flockfoods.com",
+      "agentName": "",
+      "messageTone": "Polished",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "Flock: Hot & Spicy Day is here. Take 10% OFF our boldest flavors: Nashville Hot, Buffalo, and Salsa Picante. \n\nChoose your favorite type of spice, or grab all three!\n\nUse code HOT-10 at checkout: flock.attn.tv/a2iFZAVdYx4j ",
+          "message_type": "system",
+          "date_time": "2026-01-16 16:50:21.798"
+        },
+        {
+          "message_media": [],
+          "message_text": "Flock: Go BIGGER for 2026: get $5 off ALL our XL cases and flavors!!\n\n2.5x the size of our regular bags, and no - you don't have to share with anyone!\n\nCODE: XL-5\n\nflock.attn.tv/aKpDVuNw2qpZ \n",
+          "message_type": "system",
+          "date_time": "2026-01-21 16:05:23.647"
+        },
+        {
+          "message_media": [],
+          "message_text": "Flock: Hey Rachel, it's Zak from Flock👋\n\nIt's been a while since you last ordered, so wanted to personally reach out and offer you 30% off your next order with code \"special022\"! \n\nClaim your discount here: flock.attn.tv/aYAc0M3gYztl ",
+          "message_type": "system",
+          "date_time": "2026-01-23 18:25:33.520"
+        },
+        {
+          "message_media": [],
+          "message_text": "Flock: Hey Rachel! \n\nHave you seen all of our flavors? \n\nStick to the classics with our original chicken skin + salt taste.\n\nOr maybe you're looking for something hot? Try our Tapatio Hot Chicken or our Hattie B's Nashville Hot. Can't decide? Start with a Variety pack and try them all!\n\nYour discount expires at the end of this week, just use code \"special022\" at checkout to redeem!\n\nHere's the link: flock.attn.tv/aapsBZ4I39HQ ",
+          "message_type": "system",
+          "date_time": "2026-01-24 18:25:38.861"
+        },
+        {
+          "message_media": [],
+          "message_text": "Flock: Is lunch not always cutting it? Keep some Flock in your drawer.\n\nThe secret weapon of protein-packed crunch that saves you between meetings.\n\nThis week only, stock up with 30% off - your future self will thank you!  \n\nJust use code \"special022\" at checkout to redeem. Offer expires in 48 hours! \n\nHere's the link: flock.attn.tv/a7IHxJ5wIQR4 \n",
+          "message_type": "system",
+          "date_time": "2026-01-25 18:25:43.947"
+        },
+        {
+          "message_media": [],
+          "message_text": "Flock: Last chance! Your discount expires today - fill your pantry with a fresh order of our chicken crips. \n\nTame your hunger with 13 grams of protein and mouthwatering flavor. \n\nJust use code \"special022\" at checkout to redeem! \n\nHere's your link: flock.attn.tv/apFNbwHU7Du8 ",
+          "message_type": "system",
+          "date_time": "2026-01-27 18:25:51.706"
+        },
+        {
+          "message_media": [],
+          "message_text": "Flock: Hey Rachel, our month-end deal is LIVE!!! Save 20% off on orders $40+ \n\nMix and match any of your favorite flavors, or try a new one!\n\nSHOP 20% OFF: flock.attn.tv/axyYaIVXfOBu ",
+          "message_type": "system",
+          "date_time": "2026-01-28 16:05:21.692"
+        },
+        {
+          "message_media": [],
+          "message_text": "Flock: Hey Rachel, Super Bowl weekend coming up felt like a good excuse for a sale...\n\nGet 10% off all Flock 8-packs with code SB10 \n\nShop the sale + enjoy the game! flock.attn.tv/adEGJYejMS-T ",
+          "message_type": "system",
+          "date_time": "2026-02-04 16:05:30.546"
+        },
+        {
+          "message_media": [],
+          "message_text": "Flock: Hey it's Zak from Flock\n\nYou haven't been back in a while, and our crisps are starting to feel rejected :(\n\nThey're desperate to see you again. So for the next 72 hours, we want to offer you FREE Flock.\n\nWhen you buy 2 cases, you'll get the 3rd for FREE. No strings attached. \n\nUse code \"BUY2GET1\" at checkout to redeem.\n\nLink: flock.attn.tv/aIoXWOiF0bjM \n\n",
+          "message_type": "system",
+          "date_time": "2026-02-10 18:25:56.218"
+        },
+        {
+          "message_media": [],
+          "message_text": "Flock: 13g of protein. Zero carbs. Full crunch.\n\nOnly 48 hours left to claim your exclusive offer - get a FREE case of Flock when you buy any two. Just use code \"BUY2GET1\" at checkout to redeem. \n\nThis isn't a public offer, and won't be back - so don't miss out! \n\nHere's the link: flock.attn.tv/aRWeafAUUN5f ",
+          "message_type": "system",
+          "date_time": "2026-02-11 18:26:06.663"
+        },
+        {
+          "message_media": [],
+          "message_text": "Flock: ICYMI... our FREE SHIPPING flash sale for Valentines is on!!\n\nAdd 2+ cases to your cart and your entire order ships for free. Use code: VDAY-FREE \n\nSHOP: flock.attn.tv/afq4ffOPC-5F \n\nxoxo, \nflock <3",
+          "message_type": "system",
+          "date_time": "2026-02-12 16:35:21.488"
+        },
+        {
+          "message_media": [],
+          "message_text": "Flock: You're running out of time (and crunch).\n\nFree Flock is on the line - but only for a little while longer.\n\nBuy any 2 cases and get the third totally free with code \"BUY2GET1\".\n\nThis deal disappears 24 hours. Don't fumble the crisps. \n\nClaim your discount here: flock.attn.tv/aVwOqQHbgSTO ",
+          "message_type": "system",
+          "date_time": "2026-02-12 18:26:12.203"
+        },
+        {
+          "message_media": [],
+          "message_text": "Flock: This is your final day to snag a FREE case of chicken crisps when you buy two.\n\nZero carbs. Full crunch. Be serious about your snacks - they're serious about you\n\nUse code \"BUY2GET1\" today to redeem: flock.attn.tv/ayV-q3eJCB_c ",
+          "message_type": "system",
+          "date_time": "2026-02-13 18:26:28.309"
+        },
+        {
+          "message_media": [],
+          "message_text": "Flock: Hey Rachel, this is Jordan. I see you left something in your cart. https://flock.attn.tv/amFpOI-pvfcC \n\nWant me to see if I can find you a discount?",
+          "message_type": "system",
+          "date_time": "2026-02-13 18:48:48.146"
+        },
+        {
+          "message_media": [],
+          "message_text": "Would not honor buy 2 get one free",
+          "message_type": "customer",
+          "date_time": "2026-02-13 18:49:22.835"
+        },
+        {
+          "message_media": [],
+          "message_text": "Flock: Hi, thanks for reaching out. Could you let me know what time you were placing an order? If it was around this time, it's possible the Buy 2, Get 1 Free offer had already ended. I suggest you go for the offers as soon as possible while they're still active!",
+          "message_type": "agent",
+          "agent": "109630",
+          "message_id": "019c596d-0089-4c77-f000-00007ec05f53",
+          "date_time": "2026-02-13 18:54:01.770"
+        }
+      ],
+      "notes": {
+        "send_to_cs": [
+          "Send to CS for post purchase issues and account related issues, use PPI shortcut"
+        ],
+        "templates": [
+          "For missing items on orders use MPO shortcut"
+        ]
+      },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://flockfoods.com",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "Teriyaki",
+            "link": "https://flockfoods.com/products/teriyaki?externalId=byp9J",
+            "timeAgo": "2025-11-18"
+          },
+          {
+            "item": "Teriyaki",
+            "link": "https://flockfoods.com/products/teriyaki?utm_campaign=Benihana%20Teriyaki&utm_medium=sms&utm_source=attentive&externalId=byp9J",
+            "timeAgo": "2025-11-18"
+          },
+          {
+            "item": "XXL Original Chicken Skin Crisps (6 OZ Bags)",
+            "link": "https://flockfoods.com/products/original-flock-chicken-skin-crisps-6-oz-bags?externalId=byp9J",
+            "timeAgo": "2025-10-27"
+          },
+          {
+            "item": "Original Flock Chicken Skin Crisps (6 OZ Bags)",
+            "link": "https://flockfoods.com/products/original-flock-chicken-skin-crisps-6-oz-bags?externalId=byp9J",
+            "timeAgo": "2025-09-29"
+          },
+          {
+            "item": "Ranch",
+            "link": "https://flockfoods.com/products/ranch?utm_campaign=Ranch%20Drop&utm_medium=sms&utm_source=attentive&externalId=byp9J",
+            "timeAgo": "2025-05-28"
+          }
+        ]
+      },
+      "escalation_preferences": [
+        "For all questions account related or past order related",
+        "PLEASE have customer email support@flockfoods.com rather than escalate"
+      ],
+      "blocklisted_words": [],
+      "has_shopify": true
+    },
+    "133": {
+      "id": "019c536b-a8dc-4003-f000-0000f9d43df1",
+      "companyName": "FaithGateway",
+      "companyWebsite": "https://faithgateway.com",
       "agentName": "Rebecca",
-      "id": "019c4964-9433-4f7b-f000-0000f7acb347",
+      "messageTone": "Polished",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "FaithGateway: Reply Y to subscribe to recurring automated personalized marketing alerts (e.g. cart reminders) from FaithGateway.",
+          "message_type": "system",
+          "date_time": "2026-02-07 12:59:38.564"
+        },
+        {
+          "message_media": [],
+          "message_text": "FaithGateway: Hooray! Thank you for your purchase. Your order number is 2270993. Review your info here: https://fg.attn.tv/ab_KeV9JvQvl",
+          "message_type": "system",
+          "date_time": "2026-02-07 12:59:45.691"
+        },
+        {
+          "message_media": [],
+          "message_text": "FaithGateway: Reply Y to subscribe to recurring automated personalized marketing alerts (e.g. cart reminders) from FaithGateway.",
+          "message_type": "system",
+          "date_time": "2026-02-07 13:05:01.937"
+        },
+        {
+          "message_media": [],
+          "message_text": "FaithGateway: Reply Y to subscribe to recurring automated personalized marketing alerts (e.g. cart reminders) from FaithGateway.",
+          "message_type": "system",
+          "date_time": "2026-02-07 13:05:04.391"
+        },
+        {
+          "message_media": [],
+          "message_text": "FaithGateway: Welcome to FaithGateway! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
+          "message_type": "system",
+          "date_time": "2026-02-07 13:16:50.450"
+        },
+        {
+          "message_media": [],
+          "message_text": "FaithGateway: Thanks for signing up for our Online Bible Study!",
+          "message_type": "system",
+          "date_time": "2026-02-07 13:16:54.588"
+        },
+        {
+          "message_media": [],
+          "message_text": "FaithGateway: Almost time! Get ready for In the Footsteps of the Savior with these helpful study materials before the Online Bible Study begins. Order today and take $5 off $30+ with code SHELF \nfg.attn.tv/aDGCitddDHe- \n\nQuestions? Text back!",
+          "message_type": "system",
+          "date_time": "2026-02-07 19:00:36.583"
+        },
+        {
+          "message_media": [],
+          "message_text": "FaithGateway: Great news! Your order (2270993) has shipped and will be to you soon. Click here to track your order: https://fg.attn.tv/aWedlh0JS9ae .",
+          "message_type": "system",
+          "date_time": "2026-02-10 19:13:30.019"
+        },
+        {
+          "message_media": [],
+          "message_text": "FaithGateway: Great news! Your order (2270993) has shipped and will be to you soon. Click here to track your order: https://fg.attn.tv/aFMZ9P7L8EI1 .",
+          "message_type": "system",
+          "date_time": "2026-02-11 10:58:10.611"
+        },
+        {
+          "message_media": [],
+          "message_text": "FaithGateway: Debi, we hope you're as excited as we are about your recent purchase of In the Footsteps of the Savior Bible Study Guide plus Streaming Video: Following Jesus Through the Holy Land - Softcover. Looking for more inspiration? \n\nDiscover more books, Bible studies, and devotionals on sale now and save $10 on your next order of $45+ with code 10RETX23 at checkout. \n\nShop now: https://fg.attn.tv/aaJF-OwdX43W ",
+          "message_type": "system",
+          "date_time": "2026-02-11 13:13:40.120"
+        },
+        {
+          "message_media": [],
+          "message_text": "FaithGateway: You are signed up!",
+          "message_type": "system",
+          "date_time": "2026-02-11 14:08:43.182"
+        },
+        {
+          "message_media": [],
+          "message_text": "FaithGateway: Hooray! Thank you for your purchase. Your order number is 2274473. Review your info here: https://fg.attn.tv/aDG4QR7qVlfN",
+          "message_type": "system",
+          "date_time": "2026-02-11 14:08:50.266"
+        },
+        {
+          "message_media": [],
+          "message_text": "FaithGateway: Congrats! You just earned points on your purchase! Create your Rewards account to keep earning and redeem your points. Learn more: https://fg.attn.tv/aO0N5J6QX5RL",
+          "message_type": "system",
+          "date_time": "2026-02-11 14:23:03.578"
+        },
+        {
+          "message_media": [],
+          "message_text": "Thank you!!!",
+          "message_type": "customer",
+          "date_time": "2026-02-11 14:37:16.461"
+        },
+        {
+          "message_media": [],
+          "message_text": "FaithGateway: No problem. Feel free to reach out anytime, I'm always here to help!",
+          "message_type": "agent",
+          "agent": "38773",
+          "message_id": "019c4e35-42fb-4123-f000-0000f9d43df1",
+          "date_time": "2026-02-11 14:37:19.380"
+        },
+        {
+          "message_media": [],
+          "message_text": "FaithGateway: You have a $5 coupon! Shop now and cash in your rewards points at checkout: https://fg.attn.tv/ap8-nu-gQLG7",
+          "message_type": "system",
+          "date_time": "2026-02-11 14:50:05.614"
+        },
+        {
+          "message_media": [],
+          "message_text": "FaithGateway: Welcome to our rewards program. YOU HAVE 97 POINTS! Keep shopping and earning points - every 75 points = $5 off! Learn more here: https://fg.attn.tv/aT-jY6fN7tnV",
+          "message_type": "system",
+          "date_time": "2026-02-11 14:58:02.828"
+        },
+        {
+          "message_media": [],
+          "message_text": "This is great!!",
+          "message_type": "customer",
+          "date_time": "2026-02-11 14:59:09.477"
+        },
+        {
+          "message_media": [],
+          "message_text": "FaithGateway: You are signed up!",
+          "message_type": "system",
+          "date_time": "2026-02-11 21:12:46.008"
+        },
+        {
+          "message_media": [],
+          "message_text": "FaithGateway: You are signed up!",
+          "message_type": "system",
+          "date_time": "2026-02-11 21:12:48.025"
+        },
+        {
+          "message_media": [],
+          "message_text": "I received partial order. I did not receive the study book so I can follow on March 2.",
+          "message_type": "customer",
+          "date_time": "2026-02-12 14:45:43.127"
+        },
+        {
+          "message_media": [],
+          "message_text": "This is what I ordered. Thank you",
+          "message_type": "customer",
+          "date_time": "2026-02-12 14:46:42.775"
+        },
+        {
+          "message_media": [],
+          "message_text": "FaithGateway: Thank you for reaching out, and I am sorry to hear that!\n\nI can see that your order, In the Footsteps of the Savior Bible Study Guide plus Streaming Video: Following Jesus Through the Holy Land, is on its way and is estimated to be delivered today between 4:00 P.M. and 6:00 P.M.\n\nYou can track your package here: https://fg.attn.tv/agRLf60msm-x\n\nHope this helps! If you have any questions, feel free to text me.",
+          "message_type": "agent",
+          "agent": "87295",
+          "message_id": "019c5367-7f43-440d-f000-0000f9d43df1",
+          "date_time": "2026-02-12 14:50:17.699"
+        },
+        {
+          "message_media": [],
+          "message_text": "I just received these 15 min. ago. No study book.",
+          "message_type": "customer",
+          "date_time": "2026-02-12 14:52:22.696"
+        },
+        {
+          "message_media": [],
+          "message_text": "FaithGateway: Thank you for letting me know! As mentioned, it was shipped separately and is expected to arrive today. You can track it using the link I shared earlier.\n\nI hope this clarifies everything! If you have any questions, feel free to text me.",
+          "message_type": "agent",
+          "agent": "87295",
+          "message_id": "019c536b-a8dc-4003-f000-0000f9d43df1",
+          "date_time": "2026-02-12 14:54:50.481"
+        }
+      ],
+      "notes": {
+        "send_to_cs": [
+          "Send to CS for post purchase inquiries, use PPI shortcut",
+          "Send to CS if the customer doesn't receive the free printables with his purchase"
+        ]
+      },
       "rightPanel": {
         "source": {
           "label": "Website",
           "value": "https://faithgateway.com",
           "date": ""
-        }
-      },
-      "companyWebsite": "https://faithgateway.com",
-      "companyName": "FaithGateway",
-      "notes": {
-        "send_to_cs": [
-          "Send to CS for post purchase inquiries, use PPI shortcut",
-          "Send to CS if the customer doesn\u0027t receive the free printables with his purchase"
+        },
+        "browsingHistory": [
+          {
+            "item": "NIV, Spiral-bound Illustrating Bible, Softcover Spiral, Pink: Draw, Write, and Reflect Your Way Through Scripture - Spiral",
+            "link": "https://faithgateway.com/products/illustrating-bible-niv-spiral-bound-bible-journal-pink?variant=44688738353288&_rdiscovery-handle=illustrating-bible-niv-spiral-bound-bible-journal-pink&_rdiscovery-widget=270580",
+            "timeAgo": "2026-02-11"
+          },
+          {
+            "item": "NIV, Spiral-bound Illustrating Bible, Softcover Spiral, Pink: Draw, Write, and Reflect Your Way Through Scripture - Spiral",
+            "link": "https://faithgateway.com/products/illustrating-bible-niv-spiral-bound-bible-journal-pink?variant=44688738353288&_rdiscovery-handle=illustrating-bible-niv-spiral-bound-bible-journal-pink&_rdiscovery-widget=270580",
+            "timeAgo": "2026-02-11"
+          }
+        ],
+        "orders": [
+          {
+            "orderNumber": "2274473",
+            "orderDate": "2026-02-11",
+            "items": [
+              {
+                "name": "NIV, Spiral-bound Illustrating Bible, Softcover Spiral, Pink: Draw, Write, and Reflect Your Way Through Scripture",
+                "price": 48.99,
+                "productLink": "https://faithgatewaystore.myshopify.com/products/illustrating-bible-niv-spiral-bound-bible-journal-pink"
+              }
+            ],
+            "link": "https://faithgateway.com/4413096047/orders/b5e0c3b039f22df5cb8c420b98757ff5/authenticate?key=c184f5ad8a34fdb130edf1a9c9ef07c6",
+            "trackingLink": "https://wwwapps.ups.com/tracking/tracking.cgi?tracknum=1Z4477530325737222",
+            "order_tracking_link": "https://wwwapps.ups.com/tracking/tracking.cgi?tracknum=1Z4477530325737222",
+            "total": 40.64,
+            "coupon": "10RETX23",
+            "date_time": "2026-02-11 19:08:38.761"
+          },
+          {
+            "orderNumber": "2270993",
+            "orderDate": "2026-02-07",
+            "items": [
+              {
+                "name": "In the Footsteps of the Savior Study Guide + Book + Atlas Premium Bundle",
+                "price": 39.99,
+                "productLink": "https://faithgatewaystore.myshopify.com/products/in-the-footsteps-of-the-savior-study-guide-book-atlas-premium-bundle"
+              }
+            ],
+            "link": "https://faithgateway.com/4413096047/orders/713b6dc7e5073f7e5323503abce389f8/authenticate?key=51c36715fb2a70772815be12a6ca0a8a",
+            "trackingLink": "https://wwwapps.ups.com/tracking/tracking.cgi?tracknum=1Z3130270394290325",
+            "order_tracking_link": "https://wwwapps.ups.com/tracking/tracking.cgi?tracknum=1Z3130270394290325",
+            "total": 43.76,
+            "coupon": "SHELF",
+            "date_time": "2026-02-07 17:59:34.708"
+          }
         ]
       },
-      "blocklisted_words": [
-        
-      ],
       "escalation_preferences": [
         "Exchanges and returns",
         "Discount code errors",
         "Shipping questions"
       ],
-      "messageTone": "Polished",
-      "conversation": [
-        {
-          "message_type": "system",
-          "message_text": "FaithGateway: Welcome to FaithGateway! Msg \u0026 data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
-          "date_time": "2026-02-04 07:00:07.266",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "FaithGateway: We\u0027re so glad you\u0027re here to embark on this journey of growing deeper in your faith. Save on your next order with code F-g2KDqj Shop now: fg.attn.tv/aAyacGhn1XTW .\n\nText back with any questions! - Rebecca",
-          "date_time": "2026-02-04 07:00:11.276",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "FaithGateway: You are signed up!",
-          "date_time": "2026-02-04 07:04:15.019",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "FaithGateway: Hooray! Thank you for your purchase. Your order number is 2266474. Review your info here: https://fg.attn.tv/aBbXK2i0w11j",
-          "date_time": "2026-02-04 07:04:20.989",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "FaithGateway: Let\u0027s stay in touch! Save our contact card now so you never miss important updates, deals, and uplifting content.\n\nStart shopping now and don\u0027t forget to use code F-g2KDqj at checkout: fg.attn.tv/a4BJMqjgqjFJ ",
-          "date_time": "2026-02-04 07:05:17.856",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "FaithGateway: Welcome to our rewards program. YOU HAVE 72 POINTS! Keep shopping and earning points - every 75 points = $5 off! Learn more here: https://fg.attn.tv/aHssc_j2yxbz",
-          "date_time": "2026-02-04 07:25:05.092",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "FaithGateway: Great news! Your order (2266474) has shipped and will be to you soon. Click here to track your order: https://fg.attn.tv/aPLgf6qMy3NQ .",
-          "date_time": "2026-02-05 10:55:34.081",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "FaithGateway: Hi Stacey, order #2266474 has been delivered. Hooray! Track your order here: https://fg.attn.tv/aaLfeCbCJzDI",
-          "date_time": "2026-02-05 15:11:07.807",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "FaithGateway: Stacey, we hope you\u0027re as excited as we are about your recent purchase of Jesus in Me Bible Study Guide plus Streaming Video: Experiencing the Holy Spirit as a Constant Companion - Softcover. Looking for more inspiration? \n\nDiscover more books, Bible studies, and devotionals on sale now and save $10 on your next order of $45+ with code 10RETX23 at checkout. \n\nShop now: https://fg.attn.tv/a7nZZBylDqtd ",
-          "date_time": "2026-02-08 10:45:37.604",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "FaithGateway: There\u0027s still time to use your $10 coupon! Use promo code 10RETX23 at checkout and get $10 off your order of $45+ at checkout. \n\nShop Top Deals: https://fg.attn.tv/acdZkDhlBKb6 \n\nShop New \u0026 Popular: https://fg.attn.tv/ay3rER7yWUOE ",
-          "date_time": "2026-02-10 10:59:04.973",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "I havent even gotten my complete order",
-          "date_time": "2026-02-10 16:09:36.010",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "template",
-          "message_text": "Template used: \"Tracking available - All brands\"; last updated: 2023-10-10 16:53:12.249",
-          "date_time": "2026-02-10 16:10:54.284",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c4964-9433-4f7b-f000-0000f7acb347",
-          "message_text": "FaithGateway: I\u0027m sorry to hear that! Are you referring to order #2266474? If so, it appears that the rest of the order is still on its way. You can also track your order here: https://fg.attn.tv/aY0ofAwZKyHD Hope this helps!",
-          "message_type": "agent",
-          "agent": "87310",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-10 16:10:54.286"
-        }
-      ]
-    },
-    "133": {
-      "agentName": "Julie",
-      "id": "019c3dce-c373-4b59-f000-000063895897",
-      "rightPanel": {
-        "orders": [
-          {
-            "orderDate": "2026-02-06",
-            "items": [
-              {
-                "price": [
-                  29
-                ],
-                "productLink": "https://zestt-llc.myshopify.com/products/dreamsoft-travel-scarf-carry-pouch-2-0",
-                "name": "Dreamsoft Travel Scarf Carry Pouch 2.0"
-              },
-              {
-                "price": [
-                  75
-                ],
-                "productLink": "https://zestt-llc.myshopify.com/products/the-dreamsoft-organic-cotton-travel-scarf",
-                "name": "The Dreamsoft Organic Cotton Travel Scarf"
-              },
-              {
-                "price": [
-                  49
-                ],
-                "productLink": "https://zestt-llc.myshopify.com/products/silk-sleep-mask-and-scrunchy-set",
-                "name": "Silk Sleep Mask and Scrunchy Set"
-              }
-            ],
-            "trackingLink": "https://tools.usps.com/go/TrackConfirmAction.action?tRef=fullpage\u0026tLc=1\u0026tLabels=9434650899562124534537",
-            "link": "https://zesttorganics.com/12222870/orders/01ec41872fb27ef5a897964635264637/authenticate?key=e0cd4fc63e28332263689b0e4db8c050",
-            "orderNumber": "192162",
-            "order_tracking_link": "https://tools.usps.com/go/TrackConfirmAction.action?tRef=fullpage\u0026tLc=1\u0026tLabels=9434650899562124534537",
-            "total": 156.06
-          },
-          {
-            "orderDate": "2026-02-03",
-            "items": [
-              {
-                "price": [
-                  29
-                ],
-                "productLink": "https://zestt-llc.myshopify.com/products/dreamsoft-travel-scarf-carry-pouch-2-0",
-                "name": "Dreamsoft Travel Scarf Carry Pouch 2.0"
-              },
-              {
-                "price": [
-                  75
-                ],
-                "productLink": "https://zestt-llc.myshopify.com/products/the-dreamsoft-organic-cotton-travel-scarf",
-                "name": "The Dreamsoft Organic Cotton Travel Scarf"
-              },
-              {
-                "price": [
-                  49
-                ],
-                "productLink": "https://zestt-llc.myshopify.com/products/silk-sleep-mask-and-scrunchy-set",
-                "name": "Silk Sleep Mask and Scrunchy Set"
-              }
-            ],
-            "trackingLink": "https://tools.usps.com/go/TrackConfirmAction.action?tRef=fullpage\u0026tLc=1\u0026tLabels=9434650899563126119883",
-            "link": "https://zesttorganics.com/12222870/orders/b800f4d8ecd008b959126280d34fedbc/authenticate?key=45862629bbb0fe77636a6e430c65918b",
-            "orderNumber": "191738",
-            "order_tracking_link": "https://tools.usps.com/go/TrackConfirmAction.action?tRef=fullpage\u0026tLc=1\u0026tLabels=9434650899563126119883",
-            "total": 162.28
-          },
-          {
-            "orderDate": "2026-01-29",
-            "items": [
-              {
-                "price": [
-                  75
-                ],
-                "productLink": "https://zestt-llc.myshopify.com/products/the-dreamsoft-travel-scarf-february-collection-2026",
-                "name": "The Dreamsoft Travel Scarf February Collection 2026"
-              }
-            ],
-            "trackingLink": "https://tools.usps.com/go/TrackConfirmAction.action?tRef=fullpage\u0026tLc=1\u0026tLabels=9434650899563124206929",
-            "link": "https://zesttorganics.com/12222870/orders/02fe7c96675e8dae515d0517d8f0ef47/authenticate?key=744cb33832f7788909a42b0f02088dcc",
-            "orderNumber": "190836",
-            "order_tracking_link": "https://tools.usps.com/go/TrackConfirmAction.action?tRef=fullpage\u0026tLc=1\u0026tLabels=9434650899563124206929",
-            "total": 100
-          }
-        ],
-        "source": {
-          "label": "Website",
-          "value": "https://zesttorganics.com",
-          "date": ""
-        }
-      },
-      "companyWebsite": "https://zesttorganics.com",
-      "companyName": "zestt",
-      "notes": {
-        
-      },
-      "blocklisted_words": [
-        
-      ],
-      "escalation_preferences": [
-        
-      ],
-      "messageTone": "Polished",
-      "conversation": [
-        {
-          "message_type": "system",
-          "message_text": "zestt: Co-Founders Benita \u0026 Jess here! We\u0027re so excited that you\u0027re back. Want to learn more about your purchase? zestt.attn.tv/aYexqKzkZOlY ",
-          "date_time": "2026-01-10 10:35:11.426",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "zestt: LAST CHANCE! Your $15 gift card is waiting for you. Don\u0027t let it expire in 24 hours! Shop now with code GIFTCARD15 zestt.attn.tv/aafrOQTZEgIA ",
-          "date_time": "2026-01-12 19:15:56.259",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "zestt: BACK IN STOCK! Our fan-favorite color, Latte, has returned! Don\u0027t miss your chance to grab it before it sells out. Shop now! zestt.attn.tv/amJ-l85CsSaY ",
-          "date_time": "2026-01-16 10:05:17.643",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "zestt: THEY\u0027RE BAAACK! The Million Miles Collection is fully restocked - every piece, every size. Shop now! zestt.attn.tv/aTrbyoXO4JtJ ",
-          "date_time": "2026-01-18 10:10:12.765",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "zestt: $50 Dreamsoft Travel Scarves for our Snowed-In Flash Sale! Today only - stay warm \u0026 grab yours before they\u0027re gone. Shop now zestt.attn.tv/a8qswRepPdkm ",
-          "date_time": "2026-01-25 09:15:24.781",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "zestt: Get ready for compliments! You have great taste...this piece always sells out. Come back and shop now before it\u0027s gone zestt.attn.tv/ai6UWbMv68PH",
-          "date_time": "2026-01-25 14:54:09.681",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "zestt: FINAL HOURS! Get $50 Dreamsoft Travel Scarves - our Snowed-In Flash Sale ends at midnight. Don\u0027t miss your chance, shop now! zestt.attn.tv/aX0QlZ_KvIrw ",
-          "date_time": "2026-01-26 13:45:08.896",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "zestt: Get ready for compliments! You have great taste...this piece always sells out. Come back and shop now before it\u0027s gone zestt.attn.tv/ayAzK5Xzfyu4",
-          "date_time": "2026-01-26 17:25:17.310",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "zestt: Want EARLY ACCESS? Our monthly color drop launches Friday, text back NEW to shop early. You won\u0027t want to miss this! zestt.attn.tv/aZaC-s7jBywj ",
-          "date_time": "2026-01-27 09:15:16.604",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "zestt: EARLY ACCESS! Hey Insider, you\u0027ve unlocked our monthly limited-edition color drop. Meet Petal Punch \u0026 Ballet Pink, shop now! zestt.attn.tv/aAkv44DJnd0D ",
-          "date_time": "2026-01-29 09:10:19.483",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "zestt: Thank you for your cozy organic purchase! Your order number is 190836. View more information about your order here: https://zestt.attn.tv/aXPiBZBrZwTe .",
-          "date_time": "2026-01-29 15:12:47.615",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "zestt: Your cart is expiring...Don\u0027t miss out on these cozy favorites - complete your order now zestt.attn.tv/ahMZnUB-s8Pi",
-          "date_time": "2026-02-01 03:30:25.324",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "zestt: Great news! Your order (190836) has shipped and will be to you soon. Click here to track your order: https://zestt.attn.tv/a8EEEGehz1RK .",
-          "date_time": "2026-02-01 03:37:12.935",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "zestt: Get ready for compliments! You have great taste...this piece always sells out. Come back and shop now before it\u0027s gone zestt.attn.tv/aY3oZyfSHSe0",
-          "date_time": "2026-02-02 10:47:57.391",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "zestt: Thank you for your cozy organic purchase! Your order number is 191738. View more information about your order here: https://zestt.attn.tv/aL-1ad77i5O_ .",
-          "date_time": "2026-02-02 22:29:23.550",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "zestt: Our Valentine\u0027s gift to you! Get a FREE Ivory Silk Sleep Mask Set with any $150+ purchase. Give the gift of comfort-shop now! zestt.attn.tv/a3k_HVssBGJj ",
-          "date_time": "2026-02-03 09:15:24.312",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "zestt: Great news! Your order (191738) has shipped and will be to you soon. Click here to track your order: https://zestt.attn.tv/ad8_WtmVfvvh .",
-          "date_time": "2026-02-04 10:10:20.226",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "zestt: Get ready for compliments! You have great taste...this piece always sells out. Come back and shop now before it\u0027s gone zestt.attn.tv/aKA_w7tRvBq-",
-          "date_time": "2026-02-05 12:14:01.430",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "zestt: LAST CHANCE! Get a FREE Ivory Silk Sleep Mask Set with any purchase of $150+. This offer ends tonight, shop now! zestt.attn.tv/aXKmW9F5J24a ",
-          "date_time": "2026-02-06 09:20:13.645",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "zestt: Thank you for your cozy organic purchase! Your order number is 192162. View more information about your order here: https://zestt.attn.tv/aGLCDkhxJwiM .",
-          "date_time": "2026-02-06 09:33:34.646",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "zestt: Great news! Your order (192162) has shipped and will be to you soon. Click here to track your order: https://zestt.attn.tv/aWmdByWx1RRl .",
-          "date_time": "2026-02-07 10:41:36.714",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "zestt: Get ready for compliments! You have great taste...this piece always sells out. Come back and shop now before it\u0027s gone zestt.attn.tv/aMW-rzhdxrff",
-          "date_time": "2026-02-07 15:49:04.834",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "zestt: TOUCHDOWN FLASH SALE! Score $50 Dreamsoft Travel Scarves! Hurry, this offer is only available until midnight. Shop now! zestt.attn.tv/adA_XDaahko6 ",
-          "date_time": "2026-02-08 09:15:15.903",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "zestt: Hi there! If you have a question or concern, please text \"CARE\" or call 866-673-1773 and we will get back to you as soon as we can! ",
-          "date_time": "2026-02-08 09:22:23.080",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "Help please. Just waiting for the red. Any updates?",
-          "date_time": "2026-02-08 09:22:34.308",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "CARE. Morning. Just checking back for the out-if-stock red. Any updates? Will be buying two, one for myself and one for a gift. Thanks!",
-          "date_time": "2026-02-08 09:24:24.029",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c3dce-c373-4b59-f000-000063895897",
-          "message_text": "zestt: Thank you for reaching out. May I know which item you are referring to? I would love to check on this further for you. ",
-          "message_type": "agent",
-          "agent": "82260",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-08 10:11:26.612"
-        }
-      ]
+      "blocklisted_words": [],
+      "has_shopify": true
     },
     "134": {
+      "id": "019c77cf-493f-4e51-f000-0000f6fd9b95",
+      "companyName": "Sam Edelman",
+      "companyWebsite": "https://samedelman.com",
       "agentName": "Jordan",
-      "id": "019c6d18-b0c0-40f8-f000-00003e5ebc5f",
-      "rightPanel": {
-        "source": {
-          "label": "Website",
-          "value": "https://calpaktravel.com",
-          "date": ""
+      "messageTone": "Polished",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "Sam Edelman: Welcome! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
+          "message_type": "system",
+          "date_time": "2026-02-01 23:12:00.577"
+        },
+        {
+          "message_media": [],
+          "message_text": "Sam Edelman: Welcome to the family! Click this link to copy your 10% off coupon code: https://samedelman.attn.tv/aziqDEbLObty \n\nReply if you need help!",
+          "message_type": "system",
+          "date_time": "2026-02-01 23:12:04.713"
+        },
+        {
+          "message_media": [],
+          "message_text": "Sam Edelman: Hey! Let's make it official. Add us to your contacts to avoid missing our texts.",
+          "message_type": "system",
+          "date_time": "2026-02-01 23:12:05.876"
+        },
+        {
+          "message_media": [],
+          "message_text": "Sam Edelman: SAMUSBATRUPCFRUR",
+          "message_type": "system",
+          "date_time": "2026-02-01 23:12:42.250"
+        },
+        {
+          "message_media": [],
+          "message_text": "Sam Edelman: You are already subscribed. Click here to shop now: https://samedelman.attn.tv/cl/2kU.",
+          "message_type": "system",
+          "date_time": "2026-02-01 23:18:38.353"
+        },
+        {
+          "message_media": [],
+          "message_text": "Sam Edelman: In case you missed it, enter SAMUSBATRUPAFEMX at checkout for 10% off your next purchase! https://samedelman.attn.tv/aGjI3xDQiqYX\n\nReply for help!",
+          "message_type": "system",
+          "date_time": "2026-02-03 08:39:21.571"
+        },
+        {
+          "message_media": [],
+          "message_text": "Sam Edelman: The Felicity flat: exceptional comfort, now available in luxe woven leather.\n\nShop now: samedelman.attn.tv/am3gVSUdo3G4 ",
+          "message_type": "system",
+          "date_time": "2026-02-04 16:11:12.606"
+        },
+        {
+          "message_media": [],
+          "message_text": "Sam Edelman: Polish off your Valentine's Day look with heels that double your dose of romance. \n\nShop now: samedelman.attn.tv/aS1JBkNwidZh ",
+          "message_type": "system",
+          "date_time": "2026-02-08 16:01:22.754"
+        },
+        {
+          "message_media": [],
+          "message_text": "Sam Edelman: You are already subscribed. Click here to shop now: https://samedelman.attn.tv/cl/2kU.",
+          "message_type": "system",
+          "date_time": "2026-02-11 12:10:18.760"
+        },
+        {
+          "message_media": [],
+          "message_text": "Sam Edelman: Explore the timeless styles every wardrobe needs and why we call them icons. Shop Edelman Icons: https://samedelman.attn.tv/ad7caw23MOz- .",
+          "message_type": "system",
+          "date_time": "2026-02-11 12:41:18.953"
+        },
+        {
+          "message_media": [],
+          "message_text": "Sam Edelman: This weekend only join loyalty for $30 off $140+ w/ code FEB30, or take $25 off w/ code FEB25\n\nShop now: samedelman.attn.tv/a4i9NhwcQpOz .",
+          "message_type": "system",
+          "date_time": "2026-02-13 18:10:10.754"
+        },
+        {
+          "message_media": [],
+          "message_text": "Sam Edelman: Your Valentine's Day treat! Members save $30 off $140+ with code FEB30. Non-members save $25 off $140+ with code FEB25.\n\nShop now: samedelman.attn.tv/aN8LiO1v3PkX .",
+          "message_type": "system",
+          "date_time": "2026-02-14 14:12:09.316"
+        },
+        {
+          "message_media": [],
+          "message_text": "Sam Edelman: Loyalty has its perks. \n\nTake $30 off $140+ with code FEB30. Non-members save $25 on orders $140+ with code FEB25.\n\nShop now: samedelman.attn.tv/a_PDZb-lr1Ga .",
+          "message_type": "system",
+          "date_time": "2026-02-15 17:05:18.601"
+        },
+        {
+          "message_media": [],
+          "message_text": "Sam Edelman: It's your last day to save: join our loyalty program for $30 off $140+ with code FEB30, or enjoy $25 off $140+ with code FEB25. Ends tonight. \n\nShop now: samedelman.attn.tv/aSw9SraRXs5B .",
+          "message_type": "system",
+          "date_time": "2026-02-16 13:16:47.729"
+        },
+        {
+          "message_media": [],
+          "message_text": "Sam Edelman: Hey this is Jordan . Thanks for checking out our site! 😊 https://samedelman.attn.tv/aML-6DAqgY5i \n\nAre you looking for anything in particular today? ",
+          "message_type": "system",
+          "date_time": "2026-02-18 13:49:00.077"
+        },
+        {
+          "message_media": [],
+          "message_text": "Booties were sold out. Are they coming back?",
+          "message_type": "customer",
+          "date_time": "2026-02-19 11:11:48.937"
+        },
+        {
+          "message_media": [],
+          "message_text": "Sam Edelman: Thank you for reaching out. You can check out our available booties here: https://samedelman.attn.tv/aG0MNN55x6G9\n\nMay I know what color and size you are looking for so I can assist you further",
+          "message_type": "agent",
+          "agent": "48804",
+          "message_id": "019c76b0-8227-48c5-f000-0000f6fd9b95",
+          "date_time": "2026-02-19 11:16:45.130"
+        },
+        {
+          "message_media": [],
+          "message_text": "Grey suede  or black size 10",
+          "message_type": "customer",
+          "date_time": "2026-02-19 16:15:43.799"
+        },
+        {
+          "message_media": [],
+          "message_text": "Sam Edelman: Got it! While we have limited options available based on your preference, you might want to consider the Paige Ankle Boot here - https://samedelman.attn.tv/aFNmt5rzFYRj We currently have it available in black suede and graphite grey suede. ",
+          "message_type": "agent",
+          "agent": "87310",
+          "message_id": "019c77cf-493f-4e51-f000-0000f6fd9b95",
+          "date_time": "2026-02-19 16:29:59.390"
         }
-      },
-      "companyWebsite": "https://calpaktravel.com",
-      "companyName": "CALPAK",
+      ],
       "notes": {
         "send_to_cs": [
-          "Send to CS for post purchase inquiries, use PPI shortcut",
-          "If cx needs help returning/exchanging a gift send to CS",
-          "Send to CS for discount code issues"
+          "If the cx sends us their credit card information (written or screenshot) and it's an issue we can't resolve - send the customer to CS",
+          "➜ Do NOT ESC any conversation that contains this type of information in the thread"
         ],
         "escalate": [
-          "When ESC add email to notes for all escalations"
+          "When you ESC use ESC shortcut fisrt",
+          "ESC if the charge on cx account is pending"
         ]
       },
-      "blocklisted_words": [
-        
-      ],
-      "escalation_preferences": [
-        "change of address"
-      ],
-      "messageTone": "Polished",
-      "conversation": [
-        {
-          "message_type": "system",
-          "message_text": "CALPAK: Welcome! Msg \u0026 data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
-          "date_time": "2026-02-17 13:01:48.690",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "CALPAK: Thanks for traveling with CALPAK. Enjoy 10% off your first order with code AT1NT1V26GcEXlO.\n\nShop best sellers: calpak.attn.tv/aXyN2l1oI98Q \n*Offer expires in 7 days and excludes sale items. ",
-          "date_time": "2026-02-17 13:01:53.837",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "CALPAK: Save our number so you never miss an update!",
-          "date_time": "2026-02-17 13:07:04.656",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "This code did not work",
-          "date_time": "2026-02-17 13:24:49.967",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "CALPAK: Hey Wende, thanks for stopping by\n\nFind your go-to luggage picks: https://calpak.attn.tv/a6e4zC3EBoVl .",
-          "date_time": "2026-02-17 13:40:47.568",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c6cf1-5631-4146-f000-00003e5ebc5f",
-          "message_text": "CALPAK: I\u0027m sorry to hear that your code isn\u0027t working. Do you mind sharing a screenshot of your cart? I\u0027m happy to take a closer look for you. Kindly note that our promo codes are only eligible for full-priced items. They don\u0027t work on already discounted products, including bundled sets. I\u0027m sorry for the inconvenience.",
-          "message_type": "agent",
-          "agent": "109968",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-17 13:51:21.544"
-        },
-        {
-          "message_type": "customer",
-          "message_text": "CALPAK: Thanks for traveling with CALPAK. Enjoy 10% off your first order with code AT1NT1V26GcEXlO.Shop best sellers: calpak.attn.tv/aXyN2l1oI98Q *Offer expires in 7 days and excludes sale items.",
-          "date_time": "2026-02-17 14:17:29.202",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "I was trying to buy the large Luka duffel",
-          "date_time": "2026-02-17 14:17:59.291",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "template",
-          "message_text": "Template used: \"Site won\u0027t work - All brands\"; last updated: 2025-07-16 17:54:02.115",
-          "date_time": "2026-02-17 14:34:20.631",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c6d18-b0c0-40f8-f000-00003e5ebc5f",
-          "message_text": "CALPAK: Thank you so much for that information! I have tried the code: AT1NT1V26GcEXlO on my end, and it worked! You may refer to this screenshot: https://calpak.attn.tv/aXhIWhCAZB8E\nCan you please retry? I would also suggest trying to open the site in an incognito or private window to rule out any browser cache or extension issues. Let me know how that goes.",
-          "message_type": "agent",
-          "agent": "109964",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-17 14:34:20.635"
-        }
-      ]
-    },
-    "135": {
-      "agentName": "Sam",
-      "id": "019c6d0e-85ab-4852-f000-0000fbe174ee",
       "rightPanel": {
-        "browsingHistory": [
-          {
-            "link": "https://www.dreamcloudsleep.com/mattress-bundles/adjustable-frame-bundle",
-            "item": "Premier Adjustable Bed Frame",
-            "timeAgo": "2026-02-17"
-          },
-          {
-            "link": "https://www.dreamcloudsleep.com/mattress-bundles/adjustable-frame-bundle",
-            "item": "Premier Adjustable Bed Frame",
-            "timeAgo": "2026-02-17"
-          },
-          {
-            "link": "https://www.dreamcloudsleep.com/mattress?utm_campaign=B-(D)_TH-(BAU)_T-(flow)_ST-()_N-(welcome)_S-()_CT-(nonpurchasers)_SG-()_Nu-(1)_O-(percentoff)_CR-()_TE-()_V-()_D-(021326)\u0026utm_medium=sms\u0026utm_source=Attentive\u0026externalId=9I686",
-            "item": "DreamCloud Classic Hybrid Mattress",
-            "timeAgo": "2026-02-17"
-          }
-        ],
         "source": {
           "label": "Website",
-          "value": "https://dreamcloudsleep.com",
+          "value": "https://samedelman.com",
           "date": ""
-        }
-      },
-      "companyWebsite": "https://dreamcloudsleep.com",
-      "companyName": "DreamCloud",
-      "notes": {
-        "send_to_cs": [
-          "No ESC for this client, send everything to CS, use ESC shortcut",
-          "Use escalation template if customer mentions any of the following:",
-          "➜ Exchanges or returns",
-          "➜ Premuim In - Home Setup Questions",
-          "➜ Discount code errors",
-          "➜ Recalls",
-          "➜ Better Business Bureau (BBB)",
-          "➜ Fiberglass",
-          "➜ Lawyers/Lawsuits",
-          "➜ Class Action",
-          "➜ Post Purchase Issues"
+        },
+        "browsingHistory": [
+          {
+            "item": "usha ankle bootie",
+            "link": "https://www.samedelman.com/product/womens-usha-ankle-bootie-3029482/black-ec0239055?icid=SamEdelmanRecommendationsPDPOOS_Sam%20Edelman_3029482_99900_EC0239055",
+            "timeAgo": "2026-02-18"
+          },
+          {
+            "item": "paige ankle boot",
+            "link": "https://www.samedelman.com/product/womens-paige-ankle-boot-3030627/black-leather-ec0208000",
+            "timeAgo": "2026-02-18"
+          },
+          {
+            "item": "paige ankle boot",
+            "link": "https://www.samedelman.com/product/womens-paige-ankle-boot-3030627/black-leather-ec0208000",
+            "timeAgo": "2026-02-02"
+          }
         ],
-        "tone": [
-          "Let the customer have the last word"
+        "orders": [
+          {
+            "orderNumber": "005029223358",
+            "orderDate": "2026-02-11",
+            "items": [
+              {
+                "name": "paige ankle boot",
+                "price": 95.99,
+                "productLink": "https://www.samedelman.com/product/womens-paige-ankle-boot-3030627/graphite-grey-suede-ec0208065"
+              }
+            ],
+            "total": 95.99,
+            "date_time": "2026-02-11 17:18:56.947"
+          },
+          {
+            "orderNumber": "005029125547",
+            "orderDate": "2026-02-02",
+            "items": [
+              {
+                "name": "paige ankle boot",
+                "price": 95.99,
+                "productLink": "https://www.samedelman.com/product/womens-paige-ankle-boot-3030627/graphite-grey-suede-ec0208065"
+              }
+            ],
+            "total": 95.99,
+            "date_time": "2026-02-02 04:45:29.265"
+          },
+          {
+            "orderNumber": "005029125402",
+            "orderDate": "2026-02-02",
+            "items": [
+              {
+                "name": "petty ankle bootie",
+                "price": 140,
+                "productLink": "https://www.samedelman.com/product/womens-petty-ankle-bootie-3031977/black-leather-ec0208534"
+              }
+            ],
+            "total": 140,
+            "coupon": "sam attentive bluecore 10 percent off welcome",
+            "date_time": "2026-02-02 04:29:04.085"
+          }
         ]
       },
-      "blocklisted_words": [
-        "organic"
-      ],
-      "escalation_preferences": [
-        "Exchanges and returns",
-        "Discount code errors",
-        "Shipping questions",
-        "Recall",
-        "BBB",
-        "fiberglass",
-        "lawyer",
-        "class action"
-      ],
+      "escalation_preferences": [],
+      "blocklisted_words": [],
+      "has_shopify": false
+    },
+    "135": {
+      "id": "019c5326-d5a7-4260-f000-0000f97694cf",
+      "companyName": "Happiest Baby",
+      "companyWebsite": "https://happiestbaby.com",
+      "agentName": "Mia",
       "messageTone": "Polished",
       "conversation": [
         {
+          "message_media": [],
+          "message_text": "Happiest Baby: Welcome to Happiest Baby! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
           "message_type": "system",
-          "message_text": "DreamCloud: Welcome! Msg \u0026 data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel. Phone support: (833) 237-3269.",
-          "date_time": "2026-02-17 14:09:05.123",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-06 18:07:02.272"
         },
         {
+          "message_media": [],
+          "message_text": "Happiest Baby: Welcome HB fam! Use code SAVE20SMS-1114 for $20 off when you spend $199+. Valid for 48 hours! Shop now: happiestbaby.attn.tv/aGm8pIWtiON6 ",
           "message_type": "system",
-          "message_text": "DreamCloud: You\u0027re in (\u0026 your deal is here)!",
-          "date_time": "2026-02-17 14:09:09.196",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-06 18:07:07.291"
         },
         {
+          "message_media": [],
+          "message_text": "Happiest Baby: Don't forget to save our contact to get exclusive updates!",
           "message_type": "system",
-          "message_text": "DreamCloud: Upgrade your old mattress for less. Save up to 60% + free shipping \u0026 returns.\n\nClaim your savings: dreamcloud.attn.tv/a05H4Cne5HzO .",
-          "date_time": "2026-02-17 14:09:10.200",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-06 18:07:07.717"
         },
         {
+          "message_media": [],
+          "message_text": "Happiest Baby: Hi , Mia here! Thanks for checking SNOO out! 😊 https://happiestbaby.attn.tv/aDtfpY5jV9yN \n\nDo you have questions we can help you with?",
           "message_type": "system",
-          "message_text": "DreamCloud: Hello, this is Sam. Thanks for checking out DreamCloud! Why wait to sleep better? You can save up to 60% on mattresses right now.\ndreamcloud.attn.tv/aWyuct7ANAwn\n\nAny questions I can answer for you?\n.",
-          "date_time": "2026-02-17 14:10:38.301",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-06 18:22:17.513"
         },
         {
+          "message_media": [],
+          "message_text": "Happiest Baby: Welcome to the Happiest Baby family Tre! Thank you for your purchase! Your order number is 1006202. View more information about your order here: https://happiestbaby.attn.tv/aJt1DtztLaMZ",
           "message_type": "system",
-          "message_text": "DreamCloud: Hi, this is Sam. Save up to 66% on our popular adjustable bundle. Just need a mattress? Save up to 60% on our premier hybrid. Transform your sleep for better days! Questions? Text me back!\n\nBundle:\ndreamcloud.attn.tv/aJRaOAH2G12V \n\nMattress:\ndreamcloud.attn.tv/aZSSDqhs9flH ",
-          "date_time": "2026-02-17 14:14:20.762",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-06 18:40:10.338"
         },
         {
+          "message_media": [],
+          "message_text": "Happiest Baby: Hey Tre, Mia here! We noticed you checking us out 🤩 Any questions on our best sellers? https://happiestbaby.attn.tv/a-NLy3UMArfq ",
+          "message_type": "system",
+          "date_time": "2026-02-07 12:24:49.566"
+        },
+        {
+          "message_media": [],
+          "message_text": "Happiest Baby: Hi Tre, it's Mia. I'm a personal concierge here to answer your questions or share recommendations. Is there anything I can help you with today?\n\nhappiestbaby.attn.tv/aAOBxcDX48PH",
+          "message_type": "system",
+          "date_time": "2026-02-08 12:57:28.870"
+        },
+        {
+          "message_media": [],
+          "message_text": "Happiest Baby: Hi Tre, Mia here! We noticed you checking something out...any questions we can help answer? Come back and shop now: happiestbaby.attn.tv/afm2unfHJh0O",
+          "message_type": "system",
+          "date_time": "2026-02-09 15:08:14.910"
+        },
+        {
+          "message_media": [],
+          "message_text": "Happiest Baby: Hi Tre, Mia here! We noticed you checking something out...any questions we can help answer? Come back and shop now: happiestbaby.attn.tv/aEGUm-6TLb-A",
+          "message_type": "system",
+          "date_time": "2026-02-10 19:59:04.447"
+        },
+        {
+          "message_media": [],
+          "message_text": "Happiest Baby: Hey Tre! I'm Mia and I'm here to be a personal shopping assistant for you!\n\nDo you have any questions or need a recommendation? Let me know how I can help. \n\nhappiestbaby.attn.tv/a-G21Y_5jmx5 ",
+          "message_type": "system",
+          "date_time": "2026-02-12 12:22:12.707"
+        },
+        {
+          "message_media": [],
+          "message_text": "Are there deals on/Is there a discount on Snoo rental",
           "message_type": "customer",
-          "message_text": "Yeah I got the same deal without signing up 😡",
-          "date_time": "2026-02-17 14:14:59.473",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-12 12:45:31.453"
         },
         {
-          "message_type": "customer",
-          "message_text": "False advertising",
-          "date_time": "2026-02-17 14:15:08.956",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "template",
-          "message_text": "Template used: \"Too many texts\"; last updated: 2025-12-23 20:03:19.058",
-          "date_time": "2026-02-17 14:23:14.240",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c6d0e-85ab-4852-f000-0000fbe174ee",
-          "message_text": "DreamCloud: I\u0027m so sorry for the frustration! That\u0027s definitely not our intention. Promotions can vary based on timing and eligibility.\nSigning up for SMS alerts ensures you\u0027re the first to know about new promotions, exclusive offers, and limited-time sales.\n\nHowever, if you\u0027d prefer not to receive any more messages from us, just let me know and I\u0027ll be glad to coordinate this for you!",
+          "message_media": [],
+          "message_text": "Happiest Baby: You can use the SAVE20EMAIL-1114 coupon for $20 off orders of $199+ on Basic Rental at happiestbaby.com. Check the website for more deals!",
           "message_type": "agent",
-          "agent": "109964",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-17 14:23:14.241"
+          "agent": "62551",
+          "message_id": "019c52f5-83ce-484c-f000-0000f97694cf",
+          "date_time": "2026-02-12 12:45:47.748"
+        },
+        {
+          "message_media": [],
+          "message_text": "How do I add that to my existing order?\n\nAlso - how don track my order? Meaning where is the Snoo and my other order - and when can I expect them? My baby is coming and I need it asap!",
+          "message_type": "customer",
+          "date_time": "2026-02-12 13:22:52.000"
+        },
+        {
+          "message_media": [],
+          "message_text": "Also - I'm supposed to have free Premium App Subscription. \n\nWhy won't the app let me log in? It's asking for more money",
+          "message_type": "customer",
+          "date_time": "2026-02-12 13:24:51.896"
+        },
+        {
+          "message_media": [],
+          "message_text": "Happiest Baby: Regarding applying the discount code to your current order, the best way for us to support you is to contact us through this link: https://happiestbaby.attn.tv/a867DNFGs_kv. Our team will be happy to assist you!\n\nI can see that your order is on its way. Our orders ship quickly, and you will receive tracking information via email as soon as it ships. Please be sure to check your spam and promotions folders, as our emails sometimes end up there.\n\nPlease note that orders are processed quickly and sent out to families right away. Orders ship within 2 business days of your selected ship date. Purchase orders typically spend up to 5 business days in transit, while rental orders take 3 to 7 business days in transit. Please allow an additional 2 to 3 business days for Alaska and Hawaii. You can also select a ship date up to 4 months in advance.\n\nRegarding the Premium App Subscription, I will check this with my team. May I please have your email address?",
+          "message_type": "agent",
+          "agent": "87295",
+          "message_id": "019c5326-d5a7-4260-f000-0000f97694cf",
+          "date_time": "2026-02-12 13:39:39.971"
         }
-      ]
+      ],
+      "notes": {
+        "important": [
+          "Ask the cx to share their order number and email before providing personal or order-specific information such as:",
+          "➜ Items they ordered",
+          "➜ Any order details",
+          "➜ Order confirmation page links",
+          "➜ Tracking information",
+          "➜ Order number"
+        ],
+        "send_to_cs": [
+          "Send to CS for all shipping issues"
+        ],
+        "escalate": [
+          "If cx's mention pregnancy or infant loss, a grieving mother, or the incident with Brooklyn and Baby Rocky, DO NOT RESPOND. You can ESC these cases when needed without responding to the cx",
+          "Do NOT answer Premium App inquiries, ESC immediately",
+          "ESC rental portal issues",
+          "ESC when cx is looking for a supervisor",
+          "ESC when cx come back after emailing the CS team & haven't received a response",
+          "ESC any questions about the SNOO Sack inner bands (across the belly and the leg flap)",
+          "ESC in case the cx is asking if a product was discontinued"
+        ],
+        "tone": [
+          "Always type SNOO in all caps",
+          "Keep messages concise and not too long",
+          "Don't say the SNOO is an \"Investment\", say \"Premium product\""
+        ],
+        "templates": [
+          "For questions about future promos, sales or deals, use FUS shortcut",
+          "If there is no promo available for accessories use NPA shortcut",
+          "If cx can't connect SNOO to the app use CCA shortcut",
+          "If a product is on sale include that info when you use PTE shortcut",
+          "If cx says they're planning to purchase SNOO, use PGS shortcut",
+          "If cx are asking for items that we don't sell, use IDS shortcut",
+          "If cx are asking about refund for 6 month special, use PRR shortcut",
+          "If cx ask what is our return policy:",
+          "➜ Ask them which item they're referring to first",
+          "➜ Then send the correct information"
+        ],
+        "dos_and_don_ts": [
+          "Never refer them to check the website for more info on promotions or sales",
+          "Always provide the actual date and time the sale ends. If there's none available use the LMO shortcut",
+          "Don't send links for The Lola Crib, it's not available anymore",
+          "Share expedited shipping information where applicable",
+          "We don't have a buyback program available. There is no need to mention the donation email as this program is now closed.",
+          "Tell cx that as a member of the HB text fam community, they will receive alerts about future promotions first"
+        ],
+        "drive_to_purchase": [
+          "Don't recommend SNOO accessories unless SNOO was already purchased.",
+          "Always share the full price and highlight if there is a running promotion. For ex: \"SNOO at full price is $1695 but this weekend we are running a promotion of 20% of SNOO + FREE gifts, which makes SNOO $1356!\""
+        ],
+        "promo_and_promo_exclusions": [
+          "The client does NOT offer special discount codes for foster parents/parents of foster children, share standard discounts with cx who inquire about this if they are eligible",
+          "The military discount CAN NOT be applied to rentals, only to new SNOO purchases",
+          "When sharing codes with cx/troubleshooting errors - explain the promo code terms",
+          "Don't tell customers that the code can't be applied to an item - instead inform them that it CAN only be applied to certain products",
+          "We do not offer a discount specifically for multiple SNOOs"
+        ]
+      },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://happiestbaby.com",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "SNOO Smart Sleeper—Rental - Basic",
+            "link": "https://www.happiestbaby.com/products/snoo-rental",
+            "timeAgo": "2026-02-12"
+          },
+          {
+            "item": "The Big Bundle - One-size / Rose - Galaxy and Planets",
+            "link": "https://www.happiestbaby.com/products/the-big-bundle?utm_campaign=Browse-Abandonment-Text-Message-(Email-SMS-Journey)-concierge&utm_medium=sms&utm_source=attentive&externalId=bIXuf",
+            "timeAgo": "2026-02-11"
+          }
+        ]
+      },
+      "escalation_preferences": [
+        "Order Modification",
+        "Technical Issues with SNOO Functionality",
+        "Sleep/Safety Questions",
+        "TOG Rating",
+        "All medical issues; add KB140922S to ESC notes"
+      ],
+      "blocklisted_words": [],
+      "has_shopify": true
     }
   }
 }

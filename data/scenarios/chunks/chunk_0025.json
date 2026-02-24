@@ -3,898 +3,872 @@
   "chunk": "chunk_0025",
   "scenarios": {
     "121": {
-      "agentName": "Charlotte",
-      "id": "019c4ef4-be93-443e-f000-0000fa8fcf50",
-      "rightPanel": {
-        "source": {
-          "label": "Website",
-          "value": "https://us.elemis.com/",
-          "date": ""
-        }
-      },
-      "companyWebsite": "https://us.elemis.com/",
-      "companyName": "ELEMIS",
-      "notes": {
-        "tone": [
-          "Let the customer have the last word!"
-        ],
-        "dos_and_donts": [
-          "Don\u0027t reply to messages like \"ok\", \"thanks\", etc"
-        ],
-        "promo_and_exclusions": [
-          "Welcome Code:",
-          "➜ Cannot be used for new products!",
-          "➜ Recommend to cx to take advantage of the Gift With Purchase (found on the Offers page) with new products so they can get a deal",
-          "Check their offers page for up-to-date info on codes \u0026 offers",
-          "If cx asks about a code that isn\u0027t on this page, it\u0027s likely expired!",
-          "Offers page: https://us.elemis.com/offers"
-        ]
-      },
-      "blocklisted_words": [
-        
-      ],
-      "escalation_preferences": [
-        
-      ],
-      "messageTone": "Polished",
+      "id": "019c5d4a-98fb-4955-f000-0000f73be1e5",
+      "companyName": "popmarket",
+      "companyWebsite": "https://popmarket.com",
+      "agentName": "Jordan",
+      "messageTone": "Casual",
       "conversation": [
         {
+          "message_media": [],
+          "message_text": "popmarket: Welcome! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
           "message_type": "system",
-          "message_text": "ELEMIS: Welcome! Msg \u0026 data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel. Privacy: attnl.tv/p/A2s",
-          "date_time": "2026-02-11 16:11:44.713",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-02 23:31:37.730"
         },
         {
+          "message_media": [],
+          "message_text": "popmarket: Welcome! Your coupon code is THANKS10. Use it at checkout for 10% off your order! Shop now: https://popmarket.attn.tv/aWFVx5tEFmOp Stop to stop",
           "message_type": "system",
-          "message_text": "ELEMIS: Fancy seeing you here, enjoy 15% off your first purchase! \n\nAnd now that we text, you\u0027ll get exclusive perks, early access to new launches \u0026 more sent straight to your phone.\n\nShop now using code: HELLOPL74BDTXA \u003e\u003e https://elemis.attn.tv/aNDwWquxPFrH .",
-          "date_time": "2026-02-11 16:11:46.607",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-02 23:31:41.723"
         },
         {
+          "message_media": [],
+          "message_text": "popmarket: Hey, this is Jordan Thanks for checking out our site! 😊 https://popmarket.attn.tv/aPCip0bGi8Ys \n\nAre you looking for anything in particular today?  Stop to stop",
           "message_type": "system",
-          "message_text": "ELEMIS: Oh, also, a lot of people like getting personal recs from us. Over the next few days we\u0027ll try to help you find something that you will love.\n\nWe are committed to delivering results that you can see and feel, inside and outside. \n\nShop Now https://elemis.attn.tv/a1lulBAr9NFo .",
-          "date_time": "2026-02-11 16:12:50.220",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-03 12:36:32.920"
         },
         {
+          "message_media": [],
+          "message_text": "popmarket: Don't forget to save our contact to get exclusive updates! Stop to stop",
           "message_type": "system",
-          "message_text": "ELEMIS: You left Instant Refreshing Gel, Pro-Collagen Morning Matrix, and Pro-Collagen Glow Boost Exfoliator in your cart — complete your picks now.\n\nUSE code HELLOPL74BDTXA for 15% off at checkout: https://elemis.attn.tv/atDHXz90rroC .",
-          "date_time": "2026-02-11 16:30:43.545",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-03 12:46:54.954"
         },
         {
+          "message_media": [],
+          "message_text": "popmarket: Still deciding? In case you missed it, enter the code THANKS10 at checkout for 10% off your next purchase! https://popmarket.attn.tv/axuNCM6dXSGU Stop to stop",
+          "message_type": "system",
+          "date_time": "2026-02-04 12:47:24.637"
+        },
+        {
+          "message_media": [],
+          "message_text": "popmarket: Calling all music lovers! Explore our amazing selection of music collectibles. Check it out! popmarket.attn.tv/aj8DVb_bFxn0 \n\nText STOP to opt out. Stop to stop",
+          "message_type": "system",
+          "date_time": "2026-02-05 15:35:24.300"
+        },
+        {
+          "message_media": [],
+          "message_text": "popmarket: Did you see something you like? We noticed you checking out this awesome deal on our site! Order now: popmarket.attn.tv/a-CzNyEBj8hr  Stop to stop",
+          "message_type": "system",
+          "date_time": "2026-02-06 12:04:09.372"
+        },
+        {
+          "message_media": [],
+          "message_text": "popmarket: Thanks for your recent purchase! Check out what's new here: https://popmarket.attn.tv/aks0QCg4iFFM  Stop to stop",
+          "message_type": "system",
+          "date_time": "2026-02-07 12:27:59.297"
+        },
+        {
+          "message_media": [],
+          "message_text": "popmarket: New Week, New Drops! Our latest collectibles have arrived. Upgrade your collection! popmarket.attn.tv/aMR3dFjNF89U \n\nText STOP to opt out. Stop to stop",
+          "message_type": "system",
+          "date_time": "2026-02-09 16:30:19.661"
+        },
+        {
+          "message_media": [],
+          "message_text": "popmarket: Score treasures in our Closeout Chest Sale! Limited quantities at amazing prices. Shop now! popmarket.attn.tv/aMbPipCSyfQ4 \n\nText STOP to opt out. Stop to stop",
+          "message_type": "system",
+          "date_time": "2026-02-11 16:10:13.909"
+        },
+        {
+          "message_media": [],
+          "message_text": "popmarket: Hey, this is Jordan Thanks for checking out our site! 😊 https://popmarket.attn.tv/a035-99F1hsP \n\nAre you looking for anything in particular today?  Stop to stop",
+          "message_type": "system",
+          "date_time": "2026-02-14 12:29:20.631"
+        },
+        {
+          "message_media": [],
+          "message_text": "Any promo codes?",
           "message_type": "customer",
-          "message_text": "The code doesn\u0027t work",
-          "date_time": "2026-02-11 18:04:09.913",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-14 12:30:13.516"
         },
         {
+          "message_media": [],
+          "message_text": "Template used: \"No promotions available - All brands\"; last updated: 2023-10-10 16:37:45.165",
           "message_type": "template",
-          "message_text": "Template used: \"My code isn\u0027t working\"; last updated: 2024-03-01 17:25:18.190",
-          "date_time": "2026-02-11 18:06:28.396",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-14 12:54:55.894"
         },
         {
-          "message_id": "019c4ef4-be93-443e-f000-0000fa8fcf50",
-          "message_text": "ELEMIS: Hi, thanks for reaching out. We are so sorry to hear this, we would recommend checking the terms and conditions for eligibility of the products and ensuring you are only using one code. If this continues to still not apply, please let us know which items you are trying to purchase alongside the code for us to assist further.",
-          "message_type": "agent",
-          "agent": "109630",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-11 18:06:28.398"
-        }
-      ]
-    },
-    "122": {
-      "agentName": "Jordan",
-      "id": "019c5360-2c61-457b-f000-0000f7cfadfe",
-      "rightPanel": {
-        "browsingHistory": [
-          {
-            "link": "https://www.samedelman.com/product/womens-essa-slingback-pump-3031838/brown-multi-plaid-fabric-ec0207885?icid=SamEdelmanRecommendationsPDPOOS_Sam%20Edelman_3031838_99900_EC0207885\u0026utm_campaign=concierge\u0026utm_medium=sms\u0026utm_source=attentive\u0026externalId=MhdGo",
-            "item": "essa slingback pump",
-            "timeAgo": "2026-02-12"
-          },
-          {
-            "link": "https://www.samedelman.com/product/womens-wrenna-ankle-strap-pump-3031847/copper-snake-print-leather-ec0207923",
-            "item": "wrenna ankle strap pump",
-            "timeAgo": "2026-02-12"
-          }
-        ],
-        "source": {
-          "label": "Website",
-          "value": "https://samedelman.com",
-          "date": ""
-        }
-      },
-      "companyWebsite": "https://samedelman.com",
-      "companyName": "Sam Edelman",
-      "notes": {
-        "send_to_cs": [
-          "If the cx sends us their credit card information (written or screenshot) and it\u0027s an issue we can\u0027t resolve - send the customer to CS",
-          "➜ Do NOT ESC any conversation that contains this type of information in the thread"
-        ],
-        "escalate": [
-          "When you ESC use ESC shortcut fisrt",
-          "ESC if the charge on cx account is pending"
-        ]
-      },
-      "blocklisted_words": [
-        
-      ],
-      "escalation_preferences": [
-        
-      ],
-      "messageTone": "Polished",
-      "conversation": [
-        {
-          "message_type": "system",
-          "message_text": "Sam Edelman: Welcome! Msg \u0026 data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
-          "date_time": "2026-02-04 08:25:18.505",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Sam Edelman: Welcome to the family! Click this link to copy your 10% off coupon code: https://samedelman.attn.tv/aGBCe6-reJoz \n\nReply if you need help!",
-          "date_time": "2026-02-04 08:25:23.021",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Sam Edelman: Hey! Let\u0027s make it official. Add us to your contacts to avoid missing our texts.",
-          "date_time": "2026-02-04 08:25:24.280",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Sam Edelman: In case you missed it, enter SAMUSBATRUPKEZET at checkout for 10% off your next purchase! https://samedelman.attn.tv/akALXRlVe1lk\n\nReply for help!",
-          "date_time": "2026-02-05 13:30:16.594",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Sam Edelman: Polish off your Valentine\u0027s Day look with heels that double your dose of romance. \n\nShop now: samedelman.attn.tv/akPU0UlkHsT4 ",
-          "date_time": "2026-02-08 15:01:20.927",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Sam Edelman: A minimal sneaker that\u0027s undeniably chic. Shop now. \n\nShop now: samedelman.attn.tv/aDSyXzcU-rNW ",
-          "date_time": "2026-02-11 16:03:09.126",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Sam Edelman: Hey this is Jordan . Thanks for checking out our site! 😊 https://samedelman.attn.tv/aJpWAn6tyqXm \n\nAre you looking for anything in particular today? ",
-          "date_time": "2026-02-12 13:16:58.532",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "Yes, I was hoping you had an 8.5 in the Wrenna Pumps, antique Cooper, but you are sold out",
-          "date_time": "2026-02-12 13:41:33.662",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c532f-5cf9-457c-f000-0000f7cfadfe",
-          "message_text": "Sam Edelman: I\u0027m really sorry about that. I\u0027m sorry, I currently don\u0027t have the exact date of a possible restock, but I recommend checking our website and social media frequently. In the meantime, what do you think about this instead? https://samedelman.attn.tv/amRrFR0B2A9d",
-          "message_type": "agent",
-          "agent": "39001",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-12 13:48:58.900"
-        },
-        {
-          "message_type": "customer",
-          "message_text": "Cute, but i order the same shoe in Merlot",
-          "date_time": "2026-02-12 14:36:39.597",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c5360-2c61-457b-f000-0000f7cfadfe",
-          "message_text": "Sam Edelman: Thank you for sharing that with me. You can find all the available 8.5 size collection here: https://samedelman.attn.tv/aNEBmVv8BmuA\n\nHope this helps! If you have any questions, feel free to text me.",
-          "message_type": "agent",
-          "agent": "87295",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-12 14:42:17.721"
-        }
-      ]
-    },
-    "123": {
-      "agentName": "Jordan",
-      "id": "019c5cca-f754-4ee5-f000-000072cf9a82",
-      "rightPanel": {
-        "source": {
-          "label": "Website",
-          "value": "https://bullionsharks.com",
-          "date": ""
-        }
-      },
-      "companyWebsite": "https://bullionsharks.com",
-      "companyName": "Bullion Shark",
-      "notes": {
-        "promo_and_exclusions": [
-          "Please check the brand website for the most up to date holiday promotions."
-        ]
-      },
-      "blocklisted_words": [
-        "Investment"
-      ],
-      "escalation_preferences": [
-        "Shipping questions",
-        "Exchanges and returns"
-      ],
-      "messageTone": "Formal",
-      "conversation": [
-        {
-          "message_type": "system",
-          "message_text": "Bullion Shark: Sold Out at the Mint Within Minutes: bullionshark.attn.tv/a8b3Eu_5NyUN ",
-          "date_time": "2026-01-15 12:00:27.910",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Bullion Shark: Almost Sold Out! Limited Label Silver Eagles: bullionshark.attn.tv/aaqZVATKIkn9 ",
-          "date_time": "2026-01-16 12:00:48.780",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Bullion Shark: 21 Exist in MS65, just 25 are Graded Higher. Only 1 in stock: bullionshark.attn.tv/aqdqSOo1AmUH ",
-          "date_time": "2026-01-17 16:50:15.767",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Bullion Shark: Hey there, this is Jordan. Thanks for checking us out!bullionshark.attn.tv/aPMUmShcZ7FR \n\nAny questions I can answer for you?",
-          "date_time": "2026-01-17 17:21:04.720",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Bullion Shark: Surprise your Valentine with true treasure! 100 mg pure gold heart inside - a keepsake they\u0027ll never throw away: bullionshark.attn.tv/aIC5xG3J_TfA ",
-          "date_time": "2026-01-18 12:00:16.497",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Bullion Shark: Only 2,099 exist-perfect grade, top-tier rarity. Only 38 available: bullionshark.attn.tv/az5OAROpXW_3 ",
-          "date_time": "2026-01-19 12:00:16.125",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Bullion Shark: Hurry, 1903-O Morgan Silver Dollar CACG MS65 is almost sold out! Get it before it\u0027s gone bullionshark.attn.tv/a2LIxBJg5Esn .",
-          "date_time": "2026-01-19 12:43:02.994",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Bullion Shark: Below US Mint Cost \u0026 The Lowest Mintage: bullionshark.attn.tv/aZfELmh-NSxX ",
-          "date_time": "2026-01-20 12:00:18.855",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Bullion Shark: Hurry, 1903-O Morgan Silver Dollar CACG MS65 is almost sold out! Get it before it\u0027s gone bullionshark.attn.tv/aNjAsjXaBQDE .",
-          "date_time": "2026-01-20 12:35:07.017",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Bullion Shark: Up to 30% Off OGP Silver Dollars! Limited Stock: bullionshark.attn.tv/a1YrwkaKE_qn ",
-          "date_time": "2026-01-21 12:00:16.226",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Bullion Shark: Limited Restock! Own a NEW Dual-Date Liberty Bell Privy Silver Eagle!\n\nSelling out FAST: bullionshark.attn.tv/ai-ETUA95BoK ",
-          "date_time": "2026-01-21 16:45:13.449",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Bullion Shark: Celebrate 250 years of freedom! Own the 1776-2026 Anniversary $2 Bill with 4-Panel Stamp Strip: bullionshark.attn.tv/agPKHofNy6Xq ",
-          "date_time": "2026-01-22 12:07:15.155",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Bullion Shark: This Coin Is Sure To Stand Out In Your Collection: bullionshark.attn.tv/aSHA3LETy2dT ",
-          "date_time": "2026-01-23 12:00:23.260",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Bullion Shark: Up to 30% Off! \n\nLimited Stock: bullionshark.attn.tv/aZRYQJKzj3i8 ",
-          "date_time": "2026-01-24 12:00:15.761",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Bullion Shark: Collect a Silver Eagle with a new twist! We\u0027re selling under cost for a limited time, shop now: bullionshark.attn.tv/ahGwAyS9Iogk ",
-          "date_time": "2026-01-25 14:00:38.672",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Bullion Shark: Hey there, this is Jordan. Thanks for checking us out!bullionshark.attn.tv/aRFLLxhW7i8b \n\nAny questions I can answer for you?",
-          "date_time": "2026-01-25 14:48:21.774",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Bullion Shark: OWN one of America\u0027s favorite coins. Shop SALE now: bullionshark.attn.tv/akdCfsVMoqgM ",
-          "date_time": "2026-01-26 12:00:52.127",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Bullion Shark: $100 Below US Mint Cost!\n\nOnly 10 available: bullionshark.attn.tv/aqH_hwidbpAS ",
-          "date_time": "2026-01-27 12:00:09.131",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Bullion Shark: \n\nText back if you have any questions!",
-          "date_time": "2026-01-27 12:13:24.518",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Bullion Shark: A true must-own for any serious rare coin collection: bullionshark.attn.tv/a8KeqYLkULdX ",
-          "date_time": "2026-01-28 12:15:07.701",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Bullion Shark: Only 100 Made, 13 Left: 2026 Silver Panda NGC MS70 Black Label w/ box \u0026 COA: bullionshark.attn.tv/aY6TeFJma30c ",
-          "date_time": "2026-01-29 12:00:32.161",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Bullion Shark: Hurry, $2.5 Gold Indian Head PCGS/NGC MS64 (Random Year) is almost sold out! Get it before it\u0027s gone bullionshark.attn.tv/aRSZxEeS64Km .",
-          "date_time": "2026-01-29 12:16:34.339",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Bullion Shark: Patriot alert! \n\nFlags of the World Series \"USA\" Silver Bar. Only 999 minted! First release. Don\u0027t miss out: bullionshark.attn.tv/aky8_v3TIfTr ",
-          "date_time": "2026-01-30 12:00:35.695",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Bullion Shark: Hey there! I\u0027m Jordan, your personal shopping assistant.\n\nI\u0027m here to answer any questions, share recommendations, or assist in any way. What can I help you with today?\n\nhttps://bullionshark.attn.tv/axGq6gE5vRsj .",
-          "date_time": "2026-01-30 12:57:27.454",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Bullion Shark: Silver Pulls Back After Historic Rally. Take Advantage now: bullionshark.attn.tv/aOrFnDHDKt4X ",
-          "date_time": "2026-01-30 15:45:18.517",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Bullion Shark: Searching for That Missing Coin? Find It in the Largest Online Silver Eagle Selection: bullionshark.attn.tv/aNspheGaKWwW ",
-          "date_time": "2026-01-31 12:01:03.683",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Bullion Shark: Top Pop!\n\nAn elite population of only 250 graded PF 69 Ultra Cameo, with no higher grades known! bullionshark.attn.tv/azr-sblEf_rV ",
-          "date_time": "2026-02-01 12:00:29.942",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Bullion Shark: Hurry, 2025 Marine Corps Privy Silver Eagle NGC PF69 UCAM Advance Releases Hand Signed by Rhett Jeppson is almost sold out! Get it before it\u0027s gone bullionshark.attn.tv/aJ9l86QskhKC .",
-          "date_time": "2026-02-02 12:46:27.253",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Bullion Shark: Collect a Silver Eagle with a twist! Only 18 in stock: bullionshark.attn.tv/agRwTbA06d48 ",
-          "date_time": "2026-02-02 18:04:06.681",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Bullion Shark: Take Advantage of a Silver Price Drop: bullionshark.attn.tv/aA2SRQa1DtGO ",
-          "date_time": "2026-02-03 12:00:30.723",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Bullion Shark: These Special Sets Were Minted for 3 Years Only: bullionshark.attn.tv/awVzsdVprMQr ",
-          "date_time": "2026-02-04 12:00:39.604",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Bullion Shark: Secretly Released Silver Eagle! Only 0.5% Received the Highest Grade: bullionshark.attn.tv/axkcDuvd_zWN ",
-          "date_time": "2026-02-05 12:00:17.810",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Bullion Shark: Own a NEW Dual-Date Liberty Bell Privy Silver Eagle!\n\nSelling out FAST: bullionshark.attn.tv/aGQl6D8XbqmJ ",
-          "date_time": "2026-02-06 12:00:09.859",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Bullion Shark: Only 225 Coins Received The Highest Grade: bullionshark.attn.tv/aHUNIJcuVIdE ",
-          "date_time": "2026-02-07 12:00:49.742",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Bullion Shark: Limited restock: Dual-Date Liberty Bell Privy Silver Eagle!\n\nSelling out FAST: bullionshark.attn.tv/aLEInPlZvxeY ",
-          "date_time": "2026-02-08 12:00:17.569",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Bullion Shark: Selling Out Fast!\n\nSecretly Released Silver Eagle, Only 0.5% Received the Highest Grade: bullionshark.attn.tv/asTBMpwCTh6u ",
-          "date_time": "2026-02-09 12:00:21.736",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Bullion Shark: Own One of the Rarest Silver Eagles: bullionshark.attn.tv/a7gh21azTTVL ",
-          "date_time": "2026-02-10 12:00:17.771",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Bullion Shark: Rare find for serious collectors! The First-of-its-Kind, Limited Edition: bullionshark.attn.tv/aHzcJate5Ejj ",
-          "date_time": "2026-02-11 12:00:30.933",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Bullion Shark: 2025 is the FINAL year of the circulating Lincoln penny! Secure an original uncirculated roll before they\u0027re gone: bullionshark.attn.tv/aRyfdv7FmWp7 ",
-          "date_time": "2026-02-11 16:30:25.267",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Bullion Shark: Only 127 coins received the Highest Grade. Only 18 in stock: bullionshark.attn.tv/abyb-p1mNFcv ",
-          "date_time": "2026-02-12 12:01:13.703",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Bullion Shark: Hurry, 2025 $1 Canada 1 oz Proof Silver Peace Dollar NGC PF70 First Releases is almost sold out! Get it before it\u0027s gone bullionshark.attn.tv/aAHf1ejAMkW6 .",
-          "date_time": "2026-02-12 13:00:38.805",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Bullion Shark: Selling out FAST!\n\nGet Your Liberty Bell Privy Silver Eagle While Supplies Last: bullionshark.attn.tv/awQ7UBen8HCF ",
-          "date_time": "2026-02-13 12:00:28.449",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Bullion Shark: Hey there! I\u0027m Jordan, your personal shopping assistant.\n\nI\u0027m here to answer any questions, share recommendations, or assist in any way. What can I help you with today?\n\nhttps://bullionshark.attn.tv/a8cT_CmOJ-LQ .",
-          "date_time": "2026-02-13 13:31:10.295",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "I\u0027m looking for an 1879 Carson City in the GSA black holder. Can you locate that for me?",
-          "date_time": "2026-02-14 09:40:02.393",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c5cca-f754-4ee5-f000-000072cf9a82",
-          "message_text": "Bullion Shark: Thank you for reaching out! I apologize for the delayed response. Indeed, no Carson City coins are more popular than Morgan silver dollars! Please allow me to double-check this with my team to be sure. I will send you a message as soon as I hear back. In the meantime, you can browse some of our selections available here: https://bullionshark.attn.tv/a-8Os9kQSsT3",
-          "message_type": "agent",
-          "agent": "109968",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-14 10:35:31.458"
-        }
-      ]
-    },
-    "124": {
-      "agentName": "Jordan",
-      "id": "019c5995-248d-45ee-f000-0000a76c9f02",
-      "rightPanel": {
-        "browsingHistory": [
-          {
-            "link": "https://www.cardboardcutoutstandees.com/standee-product.html",
-            "item": "Create Your Standee",
-            "timeAgo": "2026-02-14"
-          },
-          {
-            "link": "https://www.cardboardcutoutstandees.com/standee-product.html",
-            "item": "Create Your Standee",
-            "timeAgo": "2026-02-14"
-          },
-          {
-            "link": "https://www.cardboardcutoutstandees.com/standee-product.html",
-            "item": "Create Your Standee",
-            "timeAgo": "2026-02-14"
-          },
-          {
-            "link": "https://www.cardboardcutoutstandees.com/big-head-product.html",
-            "item": "Create your Big Head",
-            "timeAgo": "2026-02-13"
-          },
-          {
-            "link": "https://www.cardboardcutoutstandees.com/big-head-product.html",
-            "item": "Create your Big Head",
-            "timeAgo": "2026-02-13"
-          }
-        ],
-        "source": {
-          "label": "Website",
-          "value": "https://cardboardcutoutstandees.com",
-          "date": ""
-        }
-      },
-      "companyWebsite": "https://cardboardcutoutstandees.com",
-      "companyName": "Cardboard Cut Out Standees",
-      "notes": {
-        "escalate": [
-          "No CS for this client, ESC everything",
-          "When ESC post-purchase issues, only ask for the order number",
-          "If a customer wants to talk to customer service do not send PS, ESC instead",
-          "When ESC on weekends, use WKD shortcut before you ESC",
-          "When ESC on weekDAYS after 4pm EST, use WKE shortcut before you ESC"
-        ],
-        "tone": [
-          "Close the convo once the client takes over",
-          "Close the convo when customers misanswer the Welcome journey q\u0027s"
-        ],
-        "templates": [
-          "If cx are trying to upload a photo on the website and it\u0027s not coming through, use PWU shortcut",
-          "If cx are inquiring about delivery dates, use GRN shortcut",
-          "If cx share image/screenshot that\u0027s not showing don\u0027t ask to send again, use IMG shortcut"
-        ],
-        "dos_and_donts": [
-          "Prices vary, depending on height, not width",
-          "Don\u0027t mention possible shipping delays",
-          "Don\u0027t ask for screenshots",
-          "Wet Paint T shirts Inc is a different company"
-        ],
-        "drive_to_purchase": [
-          "Don\u0027t recommend and share links for add-ons to cx"
-        ],
-        "promo_and_exclusions": [
-          "Contact us for help with fundraisers. Grad yard signs are only sold through fundraisers"
-        ]
-      },
-      "blocklisted_words": [
-        
-      ],
-      "escalation_preferences": [
-        "Exchanges and returns",
-        "Issues with Orders"
-      ],
-      "messageTone": "Polished",
-      "conversation": [
-        {
-          "message_type": "system",
-          "message_text": "Cardboard Cutout Standees: Hi this is Jordan. We noticed you visiting the site. Let me know if I can be of any assistance. cardboard.attn.tv/al212qkzof9O ",
-          "date_time": "2026-02-13 00:44:09.158",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "I want the figures of us not a big head\r\nI couldn\u0027t figure out how to calculate cost",
-          "date_time": "2026-02-13 00:46:49.287",
-          "message_media": [
-            "https://attentive-files.s3.amazonaws.com/receive-event-media/1770961597257_2022185613733773312.jpeg"
-          ]
-        },
-        {
-          "message_id": "019c571d-fdbc-42f1-f000-0000a76c9f02",
-          "message_text": "Cardboard Cutout Standees: I\u0027m sorry for the late reply. You can take a look at our Standee prices here: https://cardboard.attn.tv/a1niNwubjldW \n\nLet me know if you have any further questions, I\u0027ll be more than happy to help! ",
-          "message_type": "agent",
-          "agent": "82427",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-13 08:08:29.283"
-        },
-        {
-          "message_type": "system",
-          "message_text": "Cardboard Cutout Standees: Celebrate birthdays in BIG ways all through 2026! Custom BigHeads and Standees turn any birthday celebration into an unforgettable event. Don\u0027t forget to use code BHM10 to save 10% and we\u0027ll donate 10% to the Page Education Foundation for Black History Month! cardboard.attn.tv/ay7JL8XJa-78 \n\nText back if you have any questions!",
-          "date_time": "2026-02-13 19:07:04.125",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "Too difficult to figure out style and pricing",
-          "date_time": "2026-02-13 19:28:04.748",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c598c-6744-4e19-f000-0000a76c9f02",
-          "message_text": "Cardboard Cutout Standees: You can view our Standee pricing here: https://cardboard.attn.tv/ac25MhdqOcON. Let me know if you need further assistance!",
-          "message_type": "agent",
-          "agent": "62551",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-13 19:28:19.682"
-        },
-        {
-          "message_type": "customer",
-          "message_text": "It says my photo is uploaded but I can\u0027t open and approve it for 5\u0027 6\" cut out",
-          "date_time": "2026-02-13 19:34:44.472",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c5995-248d-45ee-f000-0000a76c9f02",
-          "message_text": "Cardboard Cutout Standees: Thanks for letting me know! If your photo shows as uploaded but you can\u0027t open or approve it for the 5\u00276\" cutout, it may be a browser or file-format issue. I recommend cleariing your browser cache or trying a different device/browser to see if the approval button appears. Let me know how it goes! ",
+          "message_media": [],
+          "message_text": "popmarket: Thanks for reaching out! I'm sorry, I don't have any codes available at the moment, but our deals will always be shared with our SMS subscribers or on our website, so keep an eye out! In the meantime, you can check out our sales collection here: https://popmarket.attn.tv/aYb8uruWmLhG",
           "message_type": "agent",
           "agent": "109972",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-13 19:37:52.432"
+          "message_id": "019c5d4a-98fb-4955-f000-0000f73be1e5",
+          "date_time": "2026-02-14 12:54:55.897"
         }
-      ]
-    },
-    "125": {
-      "agentName": "Taylor",
-      "id": "019c5f0d-4b22-4212-f000-0000fb8b973f",
+      ],
+      "notes": {
+        "send_to_cs": [
+          "Send to CS for post purchase issues, use PPI shortcut"
+        ]
+      },
       "rightPanel": {
         "source": {
           "label": "Website",
-          "value": "https://birkenstock.com",
+          "value": "https://popmarket.com",
           "date": ""
-        }
+        },
+        "browsingHistory": [
+          {
+            "item": "Hasbro Collectibles - X-Men - Marvel Legends - Kitty Pryde & Marvel’s Colossus Action Figure 2-Pack",
+            "link": "https://www.popmarket.com/hasbro-collectibles-x-men-marvel-legends-kitty-pryde-and-marvel-s-colossus-action-figure-2-pack/5010996352538?gad_source=1&gad_campaignid=21298667966&gbraid=0AAAAADHVuq7YV7pmE4u9cV1vJqapZ03AU&gclid=Cj0KCQiA18DMBhDeARIsABtYwT3AJ9ckYWGJnWtPQL848-l7bdvlYLbC_6abocskJpmwhwvgBx_eATUaAm22EALw_wcB",
+            "timeAgo": "2026-02-14"
+          },
+          {
+            "item": "Hasbro Collectibles - X-Men - Marvel Legends - Kitty Pryde & Marvel’s Colossus Action Figure 2-Pack",
+            "link": "https://www.popmarket.com/hasbro-collectibles-x-men-marvel-legends-kitty-pryde-and-marvel-s-colossus-action-figure-2-pack/5010996352538?gad_source=1&gad_campaignid=21298667966&gbraid=0AAAAADHVuq7YV7pmE4u9cV1vJqapZ03AU&gclid=CjwKCAiAtLvMBhB_EiwA1u6_PpXB3JO28ZvIsiZwGFC5m2Gy-a_yp3AnyWkcFDhfnfu2oiFqgG9_ARoC8KIQAvD_BwE",
+            "timeAgo": "2026-02-14"
+          },
+          {
+            "item": "Hasbro Collectibles - Star Wars: The Acolyte - Black Series - The Stranger (Qimir) Action Figure",
+            "link": "https://www.popmarket.com/hasbro-collectibles-star-wars-the-acolyte-black-series-the-stranger-qimir-action-figure/5010996314154",
+            "timeAgo": "2026-02-07"
+          },
+          {
+            "item": "Funko POP! Elements: Fire",
+            "link": "https://www.popmarket.com/funko-pop-elements-fire/889698888523?gad_source=1&gad_campaignid=21298667966&gbraid=0AAAAADHVuq5jCZYgyGvU1YLVjMxHAAKi6&gclid=CjwKCAiAv5bMBhAIEiwAqP9GuMJS1fGVDL4L8RFGyNVgQMUAkKVpqzTL6Y8D8-ccrz30z2FlHLtsJRoCPF0QAvD_BwE&utm_campaign=browse-abandoner-20-minutes&utm_source=attentive&utm_medium=text&externalId=UYJ2S",
+            "timeAgo": "2026-02-06"
+          },
+          {
+            "item": "Hasbro Collectibles - Star Wars: The Acolyte - Black Series - The Stranger (Qimir) Action Figure",
+            "link": "https://www.popmarket.com/hasbro-collectibles-star-wars-the-acolyte-black-series-the-stranger-qimir-action-figure/5010996314154",
+            "timeAgo": "2026-02-06"
+          }
+        ],
+        "orders": [
+          {
+            "orderNumber": "0371-1562-4536SB",
+            "orderDate": "2026-02-06",
+            "items": [
+              {
+                "name": "/Hasbro Collectibles - Star Wars: The Acolyte - Black Series - The Stranger (Qimir) Action Figure",
+                "price": 27.79
+              },
+              {
+                "name": "/Funko POP! Elements: Earth",
+                "price": 9.79
+              },
+              {
+                "name": "/Funko POP! Elements: Lightning",
+                "price": 9.79
+              },
+              {
+                "name": "/Funko POP! Elements: Fire",
+                "price": 9.79
+              },
+              {
+                "name": "/Funko POP! Elements: Power Up",
+                "price": 9.79
+              }
+            ],
+            "total": 63.87,
+            "coupon": "THANKS10",
+            "date_time": "2026-02-06 16:56:28.045"
+          }
+        ]
       },
-      "companyWebsite": "https://birkenstock.com",
+      "escalation_preferences": [],
+      "blocklisted_words": [],
+      "has_shopify": false
+    },
+    "122": {
+      "id": "019c626f-2d54-4e69-f000-0000fb98cfd6",
+      "companyName": "Hunter Bell",
+      "companyWebsite": "https://hunterbellnyc.com",
+      "agentName": "Sarah",
+      "messageTone": "Polished",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "Hunter Bell: Welcome to Hunter Bell! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
+          "message_type": "system",
+          "date_time": "2026-02-15 11:39:07.408"
+        },
+        {
+          "message_media": [],
+          "message_text": "Hunter Bell: Hey, my name is Sarah! I'll text you about new arrivals & special offers as they happen. Enjoy 10% off your first full price purchase with code MOBILE10. Shop now! hunterbell.attn.tv/aXvBtR0-yljb\n\nReply here if you have any questions!",
+          "message_type": "system",
+          "date_time": "2026-02-15 11:39:11.357"
+        },
+        {
+          "message_media": [],
+          "message_text": "Hunter Bell: Don't forget to save our contact! ",
+          "message_type": "system",
+          "date_time": "2026-02-15 12:39:18.342"
+        },
+        {
+          "message_media": [],
+          "message_text": "Hi there, I'm looking for the dates for the next sale, and also I'm trying to get my hands on the black-and-white long sleeve maxi dress. Are there any more available?",
+          "message_type": "customer",
+          "date_time": "2026-02-15 12:40:07.920"
+        },
+        {
+          "message_media": [],
+          "message_text": "Hunter Bell: I'm glad to see your interest in our products! Is this the one you're looking for? - https://hunterbell.attn.tv/aIDBY_3-eKVC\n\nAs for sales, please note that our President's Day Sale: Up to 50% + 20% off with the code EXTRA20 at checkout is currently live and you can check it out here - https://hunterbell.attn.tv/aB-OlIzxGcuO/",
+          "message_type": "agent",
+          "agent": "110072",
+          "message_id": "019c6266-5e73-4bf7-f000-0000fb98cfd6",
+          "date_time": "2026-02-15 12:43:22.002"
+        },
+        {
+          "message_media": [],
+          "message_text": "No, it was a belted dress with an a line",
+          "message_type": "customer",
+          "date_time": "2026-02-15 12:46:28.069"
+        },
+        {
+          "message_media": [],
+          "message_text": "Hunter Bell: I'm so sorry about that! By any chance, are you referring to this one? https://hunterbell.attn.tv/arlppaeq9cIV",
+          "message_type": "agent",
+          "agent": "109964",
+          "message_id": "019c626f-2d54-4e69-f000-0000fb98cfd6",
+          "date_time": "2026-02-15 12:52:59.249"
+        }
+      ],
+      "notes": {
+        "send_to_cs": [
+          "Send to CS for price adjustment/retroactive discount requests",
+          "Send to CS for wrong items received"
+        ]
+      },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://hunterbellnyc.com",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "Randolph Dress - Dark Rose Bird Block / 12",
+            "link": "https://hunterbellnyc.com/products/randolph-dress-dark-rose-bird-block?variant=42541014220863",
+            "timeAgo": "2026-02-15"
+          },
+          {
+            "item": "Randolph Dress - Dark Rose Bird Block / 0",
+            "link": "https://hunterbellnyc.com/products/randolph-dress-dark-rose-bird-block",
+            "timeAgo": "2026-02-15"
+          }
+        ]
+      },
+      "escalation_preferences": [
+        "Discount code errors",
+        "Exchanges and returns"
+      ],
+      "blocklisted_words": [],
+      "has_shopify": true
+    },
+    "123": {
+      "id": "019c67e5-0ed3-41f3-f000-000051957c03",
+      "companyName": "Fazoli's",
+      "companyWebsite": "https://fazolis.com/",
+      "agentName": "Maria",
+      "messageTone": "Casual",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "Fazoli's: Thank you for your purchase! Your order number is 41047111334133770 ",
+          "message_type": "system",
+          "date_time": "2026-01-19 14:40:16.725"
+        },
+        {
+          "message_media": [],
+          "message_text": "Fazoli's: Craving Breadsticks? We got you covered with $5 off $20 when you order now at fazolis.attn.tv/aroFsLNcSC9h Use code QA3455 valid until 1/26.",
+          "message_type": "system",
+          "date_time": "2026-01-21 11:01:54.768"
+        },
+        {
+          "message_media": [],
+          "message_text": "Fazoli's: Kick off February with an Italian feast! Enjoy $3 off $15 when you order online at fazolis.attn.tv/ahvtJXNOV1Y4 and use code: BK4492. Valid until 2/8.",
+          "message_type": "system",
+          "date_time": "2026-02-02 11:02:36.553"
+        },
+        {
+          "message_media": [],
+          "message_text": "Fazoli's: Alfredo Fest is here! Enjoy $8.99 Loaded Fettuccine Alfredo. Order now at fazolis.attn.tv/ao0apX_t9Nb1 use code: FA6798. Valid until 2/22.",
+          "message_type": "system",
+          "date_time": "2026-02-16 11:02:31.942"
+        },
+        {
+          "message_media": [],
+          "message_text": "Fazoli's: Hey, this is Jordan from Fazoli's. Thanks for checking out our online ordering site! https://fazolis.attn.tv/a_rMg7VUjcao \n\nIs there anything I can help you with today?",
+          "message_type": "system",
+          "date_time": "2026-02-16 14:03:52.438"
+        },
+        {
+          "message_media": [],
+          "message_text": "Can't get logged in",
+          "message_type": "customer",
+          "date_time": "2026-02-16 14:04:25.235"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"Check spam - All brands\"; last updated: 2023-10-10 16:43:53.913",
+          "message_type": "template",
+          "date_time": "2026-02-16 14:19:50.763"
+        },
+        {
+          "message_media": [],
+          "message_text": "Fazoli's: I'm sorry to hear that! Are you seeing any error message when you try to log in? If you forgot your password, you can also click \"Forgot Password?\" on the sign-in page - https://fazolis.attn.tv/arRIuR8HDFZ- We'll send you a password reset email. Please check your spam and promo folders as well, as our emails sometimes end up there. ",
+          "message_type": "agent",
+          "agent": "87310",
+          "message_id": "019c67e5-0ed3-41f3-f000-000051957c03",
+          "date_time": "2026-02-16 14:19:50.764"
+        }
+      ],
+      "notes": {
+        "escalate": [
+          "If cx's want to change their order, direct them to contact the location, use CED shortcut"
+        ],
+        "promo_and_promo_exclusions": [
+          "Coupon codes can be used at stores",
+          "If cx's ask for a discount code:",
+          "➜ First send the 'dhd' shortcut",
+          "➜ If cx says they ALREADY HAVE the rewards app, then you can share our Concierge discount"
+        ]
+      },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://fazolis.com/",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "Loaded Chicken Fettuccine Alfredo",
+            "link": "https://order.fazolis.com/menu/two-notch-road-sc/products/101957307?source=local-favorite-product",
+            "timeAgo": "2026-02-16"
+          },
+          {
+            "item": "Super Family Meal with Drink",
+            "link": "https://order.fazolis.com/menu/two-notch-road-sc/products/38638853",
+            "timeAgo": "2024-03-04"
+          },
+          {
+            "item": "Super Family Meal with Drink",
+            "link": "https://order.fazolis.com/menu/two-notch-road-sc/products/38638853",
+            "timeAgo": "2024-03-04"
+          },
+          {
+            "item": "Garlic Shrimp Stuffed Shells",
+            "link": "https://order.fazolis.com/menu/two-notch-road-sc/products/69041390",
+            "timeAgo": "2024-03-04"
+          }
+        ],
+        "orders": [
+          {
+            "orderNumber": "41047111334133770",
+            "orderDate": "2026-01-19",
+            "items": [
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://www.sportsworldchicago.com/arkansas-state-red-wolves-polished-big-tall-rainier-jacket-by-cutter-buck/"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://www.rugs-direct.com/Details/Surya-Genesis-GNS2303/134581"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://www.jbtools.com/arb-mt64-rear-medium-duty-shock-for-toyota-tacoma-right-arbmt64601013r/"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://www.cardkingdom.com/mtg/promotional/untamed-hunger-welcome-2017"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://www.raneystruckparts.com/430-stainless-steel-132-single-axle-fenders/"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://www.evo.com/wetsuit-packages/xcel-54-infiniti-hooded-3mm-split-toe-boots-womens"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://www.everest.com/ocean-breeze-marine-speaker-spacer-f-fusion-sg-f772w-7-7-speakers-75-black.html"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://www.sportsmansguide.com/product/index/12-pk-bohning-signature-nocks?a=890127"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://venue.com/product/sunny-hills-180-gram-vinyl-download-card-lp-vinyl/"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://www.maurices.com/product/m-jeans-by-maurices-trade-high-rise-ripped-button-fly-super-skinny-ankle-jean/216165"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://homedone.co.uk/leather-living-room-set-cream-chesterfield.html"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://mcprod.petflow.com/kinkind-charcoal-deep-clean-natural-patchouli-shampoo-for-dogs/"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://lamsonproducts.com/product/3-5%e2%80%b3-premier-forged-paring-knife-3/"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://www.staples.com/Rectangular-Tubing-End-Cap-Black/product_216165"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://www.vitalitymedical.com/1-ml-dropsafe-syringe-with-safety-needle-25g-1-in-needle.html"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://www.chairish.com/product/id/216165?utm_content=Table+Lamps&utm_medium=text&utm_source=attentive&utm_term=216165"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://checkout.fascinatingdiamonds.com/3-20-carat-princess-diamond-wghba001/"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://secure2stag.wpengine.com/shop/emotional-awareness-specialization/"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://lightingandsupplies.com/rab-lighting-ffled26sfw-pc2-future-flood-26w-7x6-277v-pc2-cool-led-slipfitter-on-white/"
+              }
+            ],
+            "total": 10.55,
+            "date_time": "2026-01-19 19:40:00.000"
+          },
+          {
+            "orderNumber": "15445212785950720",
+            "orderDate": "2023-01-11",
+            "items": [
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://lightingandsupplies.com/oracle-lighting-9910-504-2016-2019-chevrolet-camaro-concept-sidemarker-set-ghosted/"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://jewelryexchange.com/product/501309/"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://www.cardkingdom.com/mtg/modern-horizons-3-variants/pearl-medallion-0347-borderless"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://homedone.co.uk/arched-gabion-baskets-6-pcs-400x30x80-100-cm-galvanised-iron-3146857.html"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://www.homeshoppingmalls.com/beaded-drop-tassel-napkin-ring-set-of-4-saro-lifestyle-nr59-r"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://www.fragrancenet.com/fragrances/enrico-gi/enrico-gi-oud-nobile/eau-de-parfum"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://www.prioritytire.com/en/michelin-pilot-sport-all-season-4-225-40r18-92y-xl-zr-255-40r18-99y-xl-zr"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://checkout.fascinatingdiamonds.com/1-01-carat-princess-diamond-4-547ar/"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://venue.com/product/xc-50-230mm-f-4-5-6-7-ois-ii-optical-telephoto-zoom-lens-for-fujifilm-x-mount-black/"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://collectorsautosupply.com/1955-1957-pontiac-chieftain-pontiac-star-chief-carpet-front-rear-1404-4222897/"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://www.replacements.com/china-edwin-knowles-serenade-bread-butter-plate/p/2961721"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://www.cowpokesonline.com/products/the-b-s-trading-cowhide"
+              }
+            ],
+            "total": 32.99,
+            "date_time": "2023-01-11 22:45:00.000"
+          }
+        ]
+      },
+      "escalation_preferences": [],
+      "blocklisted_words": [],
+      "has_shopify": false
+    },
+    "124": {
+      "id": "019c49e2-4053-4b60-f000-000031e5990b",
+      "companyName": "amika",
+      "companyWebsite": "https://loveamika.com",
+      "agentName": "Rachel",
+      "messageTone": "Polished",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "amika: softer hair in seconds is yours first, VIP! 🧡 shop the NEW soulstruck nourishing dry hair mask, a shortcut to soft, moisturized hair. amika.attn.tv/aHwAKaYgTCdz ",
+          "message_type": "system",
+          "date_time": "2026-01-12 12:10:23.343"
+        },
+        {
+          "message_media": [],
+          "message_text": "amika: just dropped exclusive bundles: save 15% on signature faves + NEW soulstruck dry hair mask. shop now! amika.attn.tv/aCBsVyVsyb62",
+          "message_type": "system",
+          "date_time": "2026-01-22 12:02:23.158"
+        },
+        {
+          "message_media": [],
+          "message_text": "amika: save 30% on signature faves with our exclusive supersized superfruit set! shop now and treat your strands. amika.attn.tv/avuXKHN3lJ2O ",
+          "message_type": "system",
+          "date_time": "2026-01-28 14:17:30.933"
+        },
+        {
+          "message_media": [],
+          "message_text": "amika: winter blues got you down? take a quick vacation with our limited-edition amika x Ellis Brooklyn perk up MIAMI NECTAR! amika.attn.tv/a3tqznF1jz28 ",
+          "message_type": "system",
+          "date_time": "2026-02-04 14:00:59.159"
+        },
+        {
+          "message_media": [],
+          "message_text": "amika: Hey Melissa, this is Rachel. Thanks for checking out our site! amika.attn.tv/ajDQ7qc0ZUs8 .\n\nAny questions I can assist with today?",
+          "message_type": "system",
+          "date_time": "2026-02-10 17:56:13.728"
+        },
+        {
+          "message_media": [],
+          "message_text": "No I accidently clicked on the ad. I am taking a break from Amikafor a bit. Wasn't happy that I did not receive a response to my last email correspondence",
+          "message_type": "customer",
+          "date_time": "2026-02-10 18:23:53.856"
+        },
+        {
+          "message_media": [],
+          "message_text": "amika: Thank you for reaching out. I'm sorry to hear that. We are currently experiencing high email volume, but rest assured, once our team sees your concern, they will assist you immediately. I apologize for the inconvenience.",
+          "message_type": "agent",
+          "agent": "48804",
+          "message_id": "019c49e0-0373-4130-f000-000031e5990b",
+          "date_time": "2026-02-10 18:25:43.700"
+        },
+        {
+          "message_media": [],
+          "message_text": "That was weeks ago. They usually respond within 24-48 hours",
+          "message_type": "customer",
+          "date_time": "2026-02-10 18:26:23.787"
+        },
+        {
+          "message_media": [],
+          "message_text": "amika: Thanks for letting me know, and I'm sorry to hear that. It's not the experience we wanted you to have with us. In any case, could you please let me know more regarding your concern? \n\nI would be happy to assist you further with this. ",
+          "message_type": "agent",
+          "agent": "109617",
+          "message_id": "019c49e2-4053-4b60-f000-000031e5990b",
+          "date_time": "2026-02-10 18:28:10.352"
+        }
+      ],
+      "notes": {
+        "send_to_cs": [
+          "Send to CS for damaged/wrong/missing orders"
+        ],
+        "escalate": [
+          "If a cx order was canceled/marked as fraudulent ask if they entered a PO address:",
+          "➜ If they did use PAC shortcut",
+          "➜ If not ESC"
+        ],
+        "templates": [
+          "Use CED shortcut only during weekdays"
+        ],
+        "dos_and_don_ts": [
+          "Don't share details about upcoming promotions with customers"
+        ],
+        "promo_and_promo_exclusions": [
+          "NEWFRIEND, DESKTOP15, MOBILE15 are 1st-time purchase codes",
+          "Cx can select one free sample at checkout. Orders with more than one sample may be rejected",
+          "➜ Occasionally during high volume sales we may disable the sample selector, and will message on the site that one sample will automatically be included with each order"
+        ]
+      },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://loveamika.com",
+          "date": ""
+        },
+        "orders": [
+          {
+            "orderNumber": "1695123",
+            "orderDate": "2025-07-26",
+            "items": [
+              {
+                "name": "frizz-me-not | hydrating anti-frizz treatment 30ml",
+                "price": 0,
+                "productLink": "https://amika-1.myshopify.com/products/frizz-me-not-hydrating-anti-frizz-treatment-30ml"
+              }
+            ],
+            "link": "https://checkout.loveamika.com/21171151/orders/86bb3b73a56f92e1492da2307d061555/authenticate?key=1d4fccd0b6703ca75ce0823ac4992b3f",
+            "trackingLink": "https://www.fedex.com/fedextrack/?action=track&trackingnumber=391483137916",
+            "order_tracking_link": "https://www.fedex.com/fedextrack/?action=track&trackingnumber=391483137916",
+            "total": 147.9,
+            "coupon": "LL-BDBZKOT9",
+            "date_time": "2025-07-26 13:48:57.338"
+          },
+          {
+            "orderNumber": "1695123",
+            "orderDate": "2025-07-26",
+            "items": [
+              {
+                "name": "supernova | moisture and shine hair cream",
+                "price": 30,
+                "productLink": "https://amika-1.myshopify.com/products/supernova-moisture-and-shine-cream"
+              }
+            ],
+            "link": "https://checkout.loveamika.com/21171151/orders/86bb3b73a56f92e1492da2307d061555/authenticate?key=1d4fccd0b6703ca75ce0823ac4992b3f",
+            "trackingLink": "https://www.fedex.com/fedextrack/?action=track&trackingnumber=391483137916",
+            "order_tracking_link": "https://www.fedex.com/fedextrack/?action=track&trackingnumber=391483137916",
+            "total": 147.9,
+            "coupon": "LL-BDBZKOT9",
+            "date_time": "2025-07-26 13:48:57.332"
+          },
+          {
+            "orderNumber": "1695123",
+            "orderDate": "2025-07-26",
+            "items": [
+              {
+                "name": "the wizard | detangling primer",
+                "price": 59,
+                "productLink": "https://amika-1.myshopify.com/products/the-wizard-detangling-primer"
+              },
+              {
+                "name": "big hit | volumizing shampoo",
+                "price": 77,
+                "productLink": "https://amika-1.myshopify.com/products/big-hit-volumizing-shampoo"
+              }
+            ],
+            "link": "https://checkout.loveamika.com/21171151/orders/86bb3b73a56f92e1492da2307d061555/authenticate?key=1d4fccd0b6703ca75ce0823ac4992b3f",
+            "trackingLink": "https://www.fedex.com/fedextrack/?action=track&trackingnumber=391483137916",
+            "order_tracking_link": "https://www.fedex.com/fedextrack/?action=track&trackingnumber=391483137916",
+            "total": 147.9,
+            "coupon": "LL-BDBZKOT9",
+            "date_time": "2025-07-26 13:48:57.328"
+          },
+          {
+            "orderNumber": "1695123",
+            "orderDate": "2025-07-26",
+            "items": [
+              {
+                "name": "beach-ready bundle ($61 value) | gift",
+                "price": 0,
+                "productLink": "https://amika-1.myshopify.com/products/beach-ready-bundle-61-value-gift"
+              }
+            ],
+            "link": "https://checkout.loveamika.com/21171151/orders/86bb3b73a56f92e1492da2307d061555/authenticate?key=1d4fccd0b6703ca75ce0823ac4992b3f",
+            "trackingLink": "https://www.fedex.com/fedextrack/?action=track&trackingnumber=391483137916",
+            "order_tracking_link": "https://www.fedex.com/fedextrack/?action=track&trackingnumber=391483137916",
+            "total": 147.9,
+            "coupon": "LL-BDBZKOT9",
+            "date_time": "2025-07-26 13:48:57.316"
+          },
+          {
+            "orderNumber": "1695123",
+            "orderDate": "2025-07-26",
+            "items": [
+              {
+                "name": "supernova | moisture and shine hair cream",
+                "price": 30,
+                "productLink": "https://amika-1.myshopify.com/products/supernova-moisture-and-shine-cream"
+              },
+              {
+                "name": "the wizard | detangling primer",
+                "price": 59,
+                "productLink": "https://amika-1.myshopify.com/products/the-wizard-detangling-primer"
+              },
+              {
+                "name": "beach-ready bundle ($61 value) | gift",
+                "price": 0,
+                "productLink": "https://amika-1.myshopify.com/products/beach-ready-bundle-61-value-gift"
+              },
+              {
+                "name": "frizz-me-not | hydrating anti-frizz treatment 30ml",
+                "price": 0,
+                "productLink": "https://amika-1.myshopify.com/products/frizz-me-not-hydrating-anti-frizz-treatment-30ml"
+              },
+              {
+                "name": "big hit | volumizing shampoo",
+                "price": 77,
+                "productLink": "https://amika-1.myshopify.com/products/big-hit-volumizing-shampoo"
+              }
+            ],
+            "link": "https://checkout.loveamika.com/21171151/orders/86bb3b73a56f92e1492da2307d061555/authenticate?key=1d4fccd0b6703ca75ce0823ac4992b3f",
+            "trackingLink": "https://www.fedex.com/fedextrack/?action=track&trackingnumber=391483137916",
+            "order_tracking_link": "https://www.fedex.com/fedextrack/?action=track&trackingnumber=391483137916",
+            "total": 147.9,
+            "date_time": "2025-07-26 13:48:56.556"
+          }
+        ]
+      },
+      "escalation_preferences": [],
+      "blocklisted_words": [],
+      "has_shopify": true
+    },
+    "125": {
+      "id": "019c5f0d-4b22-4212-f000-0000fb8b973f",
       "companyName": "Birkenstock",
+      "companyWebsite": "https://birkenstock.com",
+      "agentName": "Taylor",
+      "messageTone": "Polished",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "Birkenstock: Welcome to Birkenstock! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel. Privacy: attnl.tv/p/8y2",
+          "message_type": "system",
+          "date_time": "2026-02-14 20:18:50.024"
+        },
+        {
+          "message_media": [],
+          "message_text": "Birkenstock: CLICK ON THE LINK to reveal your FREE GROUND SHIPPING CODE, good for your next full price purchase:\n\nhttps://birkenstock.attn.tv/aESmD9wWJxW0\n\nWelcome to the family!",
+          "message_type": "system",
+          "date_time": "2026-02-14 20:18:54.460"
+        },
+        {
+          "message_media": [],
+          "message_text": "Birkenstock: Oh, also, a lot of people like getting personal recs from us. Over the next few days we'll try to help you find something that you will love.\n\nDid you know we have exclusive versions of our top sellers that you can't get in stores? Check them out now: https://birkenstock.attn.tv/al5eWK8x1rEX .",
+          "message_type": "system",
+          "date_time": "2026-02-14 20:19:57.355"
+        },
+        {
+          "message_media": [],
+          "message_text": "20 percent off coupon code please",
+          "message_type": "customer",
+          "date_time": "2026-02-14 20:22:17.787"
+        },
+        {
+          "message_media": [],
+          "message_text": "Birkenstock: We don't have a 20% off coupon, but new members can enjoy 10% off one full-priced order. Sign up at birkenstock.com to receive your unique code.",
+          "message_type": "agent",
+          "agent": "62551",
+          "message_id": "019c5ee4-5ea4-44cb-f000-0000fb8b973f",
+          "date_time": "2026-02-14 20:22:30.709"
+        },
+        {
+          "message_media": [],
+          "message_text": "10 percent off code please",
+          "message_type": "customer",
+          "date_time": "2026-02-14 20:29:07.947"
+        },
+        {
+          "message_media": [],
+          "message_text": "The code given to me did not work",
+          "message_type": "customer",
+          "date_time": "2026-02-14 20:29:17.961"
+        },
+        {
+          "message_media": [],
+          "message_text": "Birkenstock: Please check the company website at birkenstock.com for the most up-to-date promotions and sales. If you're having trouble with a code, please share a screenshot for further assistance.",
+          "message_type": "agent",
+          "agent": "62551",
+          "message_id": "019c5eea-c88e-4fe8-f000-0000fb8b973f",
+          "date_time": "2026-02-14 20:29:31.045"
+        },
+        {
+          "message_media": [
+            "https://d35742m9b1cssv.cloudfront.net/hgp-mms-content/8367D094-AC04-48B6-9A24-4A7CD5D556F5?Expires=1771983068&Signature=SBKJA9NfFY7YLmfJ9w6ywbZAaq1AkqdkP0XPBtwWHkcK3FBH4kNBGBTzcJ3kb2zSTXpIp7AyWMVofsxzMfe8mkxFPRNSyn9M26AQr69sPkHEcZvoKnKsJuueWgDQ7h57vOawpvGkOVo6I4rpRBZn02FJpfuDyIfzUsdCe0nl~o~~K5~DRtijPi~FcXkjtRRBQuTLjj8EekVkispGuuGZZSsMy5zqBE6LBZjhtPYU8fyLfo4X742U-f~Xdkpx4uqn2GQKsQC1YtstspPRvU60w~IGuQ3CC73MNCiX1IeCukVfrUkwW3Kb7YOD4IjHQ4ePflXPmBETPspovWJfV8rUfQ__&Key-Pair-Id=APKAJYKFVWTTAQLYS7LA"
+          ],
+          "message_text": "Every-time I apply the code given to me for signing up, I get this error message on the website.",
+          "message_type": "customer",
+          "date_time": "2026-02-14 20:31:17.813"
+        },
+        {
+          "message_media": [],
+          "message_text": "Birkenstock: I'm sorry to hear that. Could you please send me a screenshot of the items in your cart along with your discount code? I'll be glad to check on this further. ",
+          "message_type": "agent",
+          "agent": "82260",
+          "message_id": "019c5f0d-4b22-4212-f000-0000fb8b973f",
+          "date_time": "2026-02-14 21:07:12.705"
+        }
+      ],
       "notes": {
         "escalate": [
           "For all pre-purchase and post purchase ESC always include the customers full name in the notes",
-          "Don\u0027t ESC if they get an error with the fs code while logged in"
+          "Don't ESC if they get an error with the fs code while logged in"
         ],
         "templates": [
           "For free shipping retroactive code requests, use SRP shortcut",
           "For holiday/extended returns - use the template"
         ],
-        "dos_and_donts": [
+        "dos_and_don_ts": [
           "Close the convo once the client takes over",
           "🤖 If someone sends a product category, link them to the category and ask if they are looking for something specific"
         ]
       },
-      "blocklisted_words": [
-        
-      ],
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://birkenstock.com",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "Buy Boston Soft Footbed Suede Leather for USD 169.95 | Birkenstock US",
+            "link": "https://www.birkenstock.com/us/boston-soft-footbed-suede-leather/boston-suede-suedeleather-softfootbed-eva-u_46.html",
+            "timeAgo": "2026-02-15"
+          }
+        ],
+        "orders": [
+          {
+            "orderNumber": "521323848",
+            "orderDate": "2026-02-15",
+            "items": [
+              {
+                "name": "Boston Soft Footbed Suede Leather Taupe",
+                "price": 152.95,
+                "productLink": "https://www.birkenstock.com/ca/boston-soft-footbed-suede-leather/boston-suede-suedeleather-softfootbed-eva-u_46.html"
+              },
+              {
+                "name": "Boston Soft Footbed Suede Leather Taupe",
+                "price": 152.95,
+                "productLink": "https://www.birkenstock.com/us/boston-soft-footbed-suede-leather/boston-suede-suedeleather-softfootbed-eva-u_46.html"
+              }
+            ],
+            "total": 152.95,
+            "date_time": "2026-02-15 01:37:11.327"
+          }
+        ]
+      },
       "escalation_preferences": [
         "Shipping codes"
       ],
-      "messageTone": "Polished",
-      "conversation": [
-        {
-          "message_type": "system",
-          "message_text": "Birkenstock: Welcome to Birkenstock! Msg \u0026 data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel. Privacy: attnl.tv/p/8y2",
-          "date_time": "2026-02-14 20:18:50.024",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Birkenstock: CLICK ON THE LINK to reveal your FREE GROUND SHIPPING CODE, good for your next full price purchase:\n\nhttps://birkenstock.attn.tv/aESmD9wWJxW0\n\nWelcome to the family!",
-          "date_time": "2026-02-14 20:18:54.460",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Birkenstock: Oh, also, a lot of people like getting personal recs from us. Over the next few days we\u0027ll try to help you find something that you will love.\n\nDid you know we have exclusive versions of our top sellers that you can\u0027t get in stores? Check them out now: https://birkenstock.attn.tv/al5eWK8x1rEX .",
-          "date_time": "2026-02-14 20:19:57.355",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "20 percent off coupon code please",
-          "date_time": "2026-02-14 20:22:17.787",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c5ee4-5ea4-44cb-f000-0000fb8b973f",
-          "message_text": "Birkenstock: We don\u0027t have a 20% off coupon, but new members can enjoy 10% off one full-priced order. Sign up at birkenstock.com to receive your unique code.",
-          "message_type": "agent",
-          "agent": "62551",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-14 20:22:30.709"
-        },
-        {
-          "message_type": "customer",
-          "message_text": "10 percent off code please",
-          "date_time": "2026-02-14 20:29:07.947",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "The code given to me did not work",
-          "date_time": "2026-02-14 20:29:17.961",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c5eea-c88e-4fe8-f000-0000fb8b973f",
-          "message_text": "Birkenstock: Please check the company website at birkenstock.com for the most up-to-date promotions and sales. If you\u0027re having trouble with a code, please share a screenshot for further assistance.",
-          "message_type": "agent",
-          "agent": "62551",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-14 20:29:31.045"
-        },
-        {
-          "message_type": "customer",
-          "message_text": "Every-time I apply the code given to me for signing up, I get this error message on the website.",
-          "date_time": "2026-02-14 20:31:17.813",
-          "message_media": [
-            "https://d35742m9b1cssv.cloudfront.net/hgp-mms-content/8367D094-AC04-48B6-9A24-4A7CD5D556F5?Expires=1771983068\u0026Signature=SBKJA9NfFY7YLmfJ9w6ywbZAaq1AkqdkP0XPBtwWHkcK3FBH4kNBGBTzcJ3kb2zSTXpIp7AyWMVofsxzMfe8mkxFPRNSyn9M26AQr69sPkHEcZvoKnKsJuueWgDQ7h57vOawpvGkOVo6I4rpRBZn02FJpfuDyIfzUsdCe0nl~o~~K5~DRtijPi~FcXkjtRRBQuTLjj8EekVkispGuuGZZSsMy5zqBE6LBZjhtPYU8fyLfo4X742U-f~Xdkpx4uqn2GQKsQC1YtstspPRvU60w~IGuQ3CC73MNCiX1IeCukVfrUkwW3Kb7YOD4IjHQ4ePflXPmBETPspovWJfV8rUfQ__\u0026Key-Pair-Id=APKAJYKFVWTTAQLYS7LA"
-          ]
-        },
-        {
-          "message_id": "019c5f0d-4b22-4212-f000-0000fb8b973f",
-          "message_text": "Birkenstock: I\u0027m sorry to hear that. Could you please send me a screenshot of the items in your cart along with your discount code? I\u0027ll be glad to check on this further. ",
-          "message_type": "agent",
-          "agent": "82260",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-14 21:07:12.705"
-        }
-      ]
+      "blocklisted_words": [],
+      "has_shopify": false
     }
   }
 }

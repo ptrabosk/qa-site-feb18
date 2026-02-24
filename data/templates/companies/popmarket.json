@@ -1,0 +1,115 @@
+{
+  "companyKey": "popmarket",
+  "templates": [
+    {
+      "name": "Free shipping",
+      "content": "Standard shipping is free on all U.S. orders over $50 shipping to the lower 48 states. Maybe you can add something else to reach the minimum?",
+      "id": "33607e71-2bd1-4fa3-a1bb-a76e996a99f6",
+      "shortcut": "fs",
+      "companyName": "popmarket"
+    },
+    {
+      "name": "Sales Collection",
+      "content": "You can take a look at our sale collection here: https://www.popmarket.com/deals",
+      "id": "200fc3b7-5f28-44db-9946-564edf496efb",
+      "shortcut": "spg",
+      "companyName": "popmarket"
+    },
+    {
+      "name": "Post Purchase Inquiries",
+      "content": "We don't handle post-purchase requests via text. Please email your request to customerservice@popmarket.com or feel free to call this number 866-767-1767. Please let me know if you have any questions about our products, I'm more than happy to help you here!",
+      "id": "c3617b4b-eb4b-4ce4-924f-af26fe3ed73f",
+      "shortcut": "ppi",
+      "companyName": "popmarket"
+    },
+    {
+      "name": "Is Popmarket.com, importcds.com and deepdiscount.com owned by the same person or company?",
+      "content": "Yes, we are sister companies.",
+      "id": "d0cf9ea6-0395-403a-a8cc-1116cd5ebc2e",
+      "companyName": "popmarket"
+    },
+    {
+      "name": "Customer support",
+      "content": "The best way to handle this is to email us directly at customerservice@popmarket.com, or give us a call at 866-767-1767. Our team is happy to help!",
+      "id": "cd68881b-15c2-4a1c-87c4-728ce33fb15d",
+      "shortcut": "cs",
+      "companyName": "popmarket"
+    },
+    {
+      "name": "Return policy",
+      "content": "You can check out our detailed return policy here: https://www.popmarket.com/help-res#returns",
+      "id": "f9b294d9-5997-4d78-8d7b-990ee9ddfbaf",
+      "shortcut": "rp",
+      "companyName": "popmarket"
+    },
+    {
+      "name": "Phone support",
+      "content": "You can give us a call at 866-767-1767 or let me know if I can help via text, it may be faster.",
+      "id": "3c0030c3-181e-4f3a-9744-321b29e86160",
+      "shortcut": "ps",
+      "companyName": "popmarket"
+    },
+    {
+      "name": "Military / First responder / Healthcare / Teacher discount",
+      "content": "Thank you for your service! We don't have any specific discounts like that, but if it helps, you can check out the items we have on sale here: https://www.popmarket.com/sale/b235025",
+      "id": "d777ee92-4c20-4b60-bcc2-9a3fbcedba31",
+      "shortcut": "ms",
+      "companyName": "popmarket"
+    },
+    {
+      "name": "Store location / retailer",
+      "content": "We don't currently have a store but definitely keep an eye out.",
+      "id": "9372203c-d571-4465-bf6d-ddf511a9871b",
+      "shortcut": "sl",
+      "companyName": "popmarket"
+    },
+    {
+      "name": "Social media",
+      "content": "Give us a follow on IG: https://www.instagram.com/popmarketmusic/ and FB here: https://www.facebook.com/popmarketMusic/",
+      "id": "27bbccf5-94d7-41e8-9853-84227f7aef7c",
+      "shortcut": "smd",
+      "companyName": "popmarket"
+    },
+    {
+      "name": "What courier / shipping provider are you using?",
+      "content": "It depends on the shipping address and the price of the order.",
+      "id": "7490a2c8-4a43-43a9-b7ee-0c53308d882b",
+      "companyName": "popmarket"
+    },
+    {
+      "name": "Brand ambassador / sponsorship",
+      "content": "Thank you for your interest! The best way to discuss this is to email us directly at customerservice@popmarket.com. Our team is happy to chat.",
+      "id": "4b922c62-d0f3-42c6-a45d-bb53ce474be7",
+      "shortcut": "ams",
+      "companyName": "popmarket"
+    },
+    {
+      "name": "Wholesale inquiries",
+      "content": "Thank you for your interest! The best way to discuss wholesale is to email us directly at customerservice@popmarket.com. Our team is happy to chat.",
+      "id": "d6784461-548f-4aec-8466-f637306a04a9",
+      "shortcut": "wls",
+      "companyName": "popmarket"
+    },
+    {
+      "name": "Cancel / edit order",
+      "content": "We don't handle post-purchase requests via text. Please email your request to customerservice@popmarket.com or feel free to call this number 866-767-1767. Please let me know if you have any questions about our products, I'm more than happy to help you here!",
+      "id": "de33140f-12fe-432e-ba22-1fbf9d1007fc",
+      "shortcut": "ced",
+      "companyName": "popmarket"
+    },
+    {
+      "name": "My discount code won't work.",
+      "content": "Sorry to hear that! Please know that discounts don't apply to games, video games, toys, or consoles. May I know what items you have in your cart?",
+      "id": "ed35be77-42af-4d18-96e7-6ec5f27cada5",
+      "shortcut": "cww",
+      "companyName": "popmarket"
+    },
+    {
+      "name": "Shipping time",
+      "content": "Our sophisticated warehouse utilizes the latest technological innovations to help ensure fast order processing. We usually ship via USPS or UPS and once your order is shipped it will take 3-8 business days for domestic orders.",
+      "id": "18e68d66-d590-432e-9605-44b2126a58e5",
+      "shortcut": "shp",
+      "companyName": "popmarket"
+    }
+  ]
+}

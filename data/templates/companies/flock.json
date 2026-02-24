@@ -3,14 +3,14 @@
   "templates": [
     {
       "name": "Price matching",
-      "content": "Please note that the price listed online doesn\u0027t necessarily have to match the price in stores. Unfortunately, we don\u0027t offer price matches for our online site.",
+      "content": "Please note that the price listed online doesn't necessarily have to match the price in stores. Unfortunately, we don't offer price matches for our online site.",
       "id": "68122ee2-fa7c-4cc1-a165-cc7d7d1a97d8",
       "shortcut": "pmc",
       "companyName": "Flock"
     },
     {
       "name": "Restock? (autosend enabled)",
-      "content": "I currently don\u0027t have the exact date of a possible restock, but I recommend checking our website and social media frequently.",
+      "content": "I currently don't have the exact date of a possible restock, but I recommend checking our website and social media frequently.",
       "id": "83b85c62-3531-11ed-a261-0242ac120002",
       "shortcut": "stok",
       "companyName": "Flock"
@@ -29,19 +29,19 @@
     },
     {
       "name": "Do your tents come with a stove jack?",
-      "content": "Yes, they do. Our stove jacks have been made keeping your safety in mind. The tents come with a heat-resistant, silicone-coated stove jack with 5\" \u0026 6\" pre-cut patterns. We\u0027ve considered all the potential hazards and the stove jack is completely safe to use with a stove.",
+      "content": "Yes, they do. Our stove jacks have been made keeping your safety in mind. The tents come with a heat-resistant, silicone-coated stove jack with 5\" & 6\" pre-cut patterns. We've considered all the potential hazards and the stove jack is completely safe to use with a stove.",
       "id": "5f99efd4-fbb2-4f91-8121-ba2245c99225",
       "companyName": "Flock"
     },
     {
-      "name": "What\u0027s your spiciest flavor?",
+      "name": "What's your spiciest flavor?",
       "content": "Honey Sriracha is our spiciest flavor!",
       "id": "b3f95115-04b4-468e-ae56-276022369b29",
       "companyName": "Flock"
     },
     {
       "name": "Do you offer samples?",
-      "content": "We don\u0027t have samples available, but we do have a refund policy if you\u0027re not satisfied with our products.",
+      "content": "We don't have samples available, but we do have a refund policy if you're not satisfied with our products.",
       "id": "0ed668d6-b69e-49e6-8cba-79df0c34a8b3",
       "companyName": "Flock"
     },
@@ -68,14 +68,14 @@
     },
     {
       "name": "Missing products on the order",
-      "content": "If you\u0027re missing part of your order it likely means the rest is just a day or two behind as each box ships separately. Please email us at support@flockfoods.com if it still hasn\u0027t arrived in the next day or two.",
+      "content": "If you're missing part of your order it likely means the rest is just a day or two behind as each box ships separately. Please email us at support@flockfoods.com if it still hasn't arrived in the next day or two.",
       "id": "028570e8-fc1a-4238-a1aa-0c9e69153228",
       "shortcut": "mpo",
       "companyName": "Flock"
     },
     {
       "name": "Free Shipping",
-      "content": "You can use the code FREESHIP for free shipping on the entire order, but you can\u0027t stack that with other codes.",
+      "content": "You can use the code FREESHIP for free shipping on the entire order, but you can't stack that with other codes.",
       "id": "49bb4ce5-3d25-4355-8805-cbd9b9b9eabc",
       "shortcut": "fs",
       "companyName": "Flock"
@@ -96,7 +96,7 @@
     },
     {
       "name": "Phone support",
-      "content": "We don\u0027t offer phone support right now but I\u0027d be happy to help you over text, let me know what I can do for you?",
+      "content": "We don't offer phone support right now but I'd be happy to help you over text, let me know what I can do for you?",
       "id": "16f8c412-a1ab-4845-9671-d189a36e6211",
       "shortcut": "ps",
       "companyName": "Flock"
@@ -138,7 +138,7 @@
     },
     {
       "name": "Military / First responder / Healthcare / Teacher discount",
-      "content": "Thank you for your service! We don\u0027t have any specific discounts like that, but our deals will always be shared with our SMS subscribers or on our website, so keep an eye out!",
+      "content": "Thank you for your service! We don't have any specific discounts like that, but our deals will always be shared with our SMS subscribers or on our website, so keep an eye out!",
       "id": "c5f791e4-6f0b-45ad-91f9-02e10501656c",
       "companyName": "Flock"
     },
@@ -151,7 +151,7 @@
     },
     {
       "name": "Do you have silica / desiccant packets in your chips?",
-      "content": "Yes, we do have desiccant packets in some of our cases to keep the chips fresh. They\u0027re not meant for consumption and need to be thrown out prior to consumption.",
+      "content": "Yes, we do have desiccant packets in some of our cases to keep the chips fresh. They're not meant for consumption and need to be thrown out prior to consumption.",
       "id": "dfc450c1-18db-468d-815f-1174822edde0",
       "companyName": "Flock"
     }

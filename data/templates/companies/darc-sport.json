@@ -1,0 +1,119 @@
+{
+  "companyKey": "darc sport",
+  "templates": [
+    {
+      "name": "Restock? - Brand specific",
+      "content": "Unfortunately no. We typically do not plan for restocks and will not know if a restock of a specific item will happen. We intentionally manufacture in limited quantities to ensure our customers receive exclusive items that are not for everyone, and just for them. \n\nWe recommend staying connected with us on all of our digital channels. We announce our launches through these, so keep an eye out for our messages and posts to be the first to get a chance at these limited quantity drops.",
+      "id": "a40046df-175b-4594-9d2a-c4e56dcc4bb3",
+      "shortcut": "stok",
+      "companyName": "Darc Sport"
+    },
+    {
+      "name": "What to do if my package/order was lost, stolen or damaged in transit?",
+      "content": "If your package was lost, stolen or damaged in transit, you can file a claim using this form: https://shop.darcsport.com/pages/file-a-claim?srsltid=AfmBOor35eZp5_TL4lKZTaLgDTiOPcsNn04Reyq9yw82zWh-1xqF-5aT",
+      "id": "5fc38fc1-1d2c-465e-8387-4f2767a116ec",
+      "shortcut": "dmi",
+      "companyName": "Darc Sport"
+    },
+    {
+      "name": "Order status/order tracking",
+      "content": "You can use our convenient online tool to see the latest updates on your order: https://shop.darcsport.com/pages/help-center?hcUrl=%2Fen-US%2Fssp%2Flogin",
+      "id": "74fe6d7b-0a6f-4d96-8988-4f8d3446e742",
+      "companyName": "Darc Sport"
+    },
+    {
+      "name": "Shipping time",
+      "content": "Our processing time takes 5 business days. Once shipped it will take 7-10 business days for domestic orders and 10-20 business days for international orders. We also offer expedited shipping option.",
+      "id": "b36aa4ad-95c6-472f-b8b0-52545e5158ba",
+      "shortcut": "shp",
+      "companyName": "Darc Sport"
+    },
+    {
+      "name": "Social media",
+      "content": "Give us a follow on IG: https://www.instagram.com/darcsport/?hl=en and FB here: https://www.facebook.com/CIVILDARCSPORT/",
+      "id": "bcd188db-2d51-4e9c-b990-bb4e615c5ff7",
+      "shortcut": "smd",
+      "companyName": "Darc Sport"
+    },
+    {
+      "name": "Free shipping",
+      "content": "We don't currently offer free shipping, but all promos will always be shared with our SMS subscribers or on our website, so keep an eye out!",
+      "id": "2ed6b42c-b26f-4624-abc4-d298545ef23a",
+      "shortcut": "fs",
+      "companyName": "Darc Sport"
+    },
+    {
+      "name": "Sizing (clothes)",
+      "content": "Please visit the product page of the item you are interested in, and you can locate the size guide within the product description section. Let me know if you're still unsure!",
+      "id": "df1390bb-d1ea-439a-9471-41aabe7a4b62",
+      "shortcut": "sz",
+      "companyName": "Darc Sport"
+    },
+    {
+      "name": "Do you offer payment installments?",
+      "content": "Yes, we do! You can choose to pay in installments through ShopPay powered by Affirm, at checkout.",
+      "id": "5d85f50d-2326-4314-ad0e-552dc187b9b7",
+      "companyName": "Darc Sport"
+    },
+    {
+      "name": "Military / First responder / Healthcare / Teacher discount",
+      "content": "Thank you for your service! We don't have any specific discounts like that, but our deals will always be shared with our SMS subscribers or on our website, so keep an eye out!",
+      "id": "97523250-423b-48df-9f44-95b9c0b33544",
+      "shortcut": "ms",
+      "companyName": "Darc Sport"
+    },
+    {
+      "name": "Cancel / edit order",
+      "content": "Unfortunately, we are unable to make changes to an order once it has been placed. \nThis includes changes to the size color or adding items to an order. \n\nGenerally orders cannot be cancelled once they are placed, however there are a few situations where we may be able to process a cancellation.\n\nIf you would like to confirm whether your order falls within out cancellation window, please send your request to cancel via this link https://shop.darcsport.com/pages/contact  Be sure to send your request as soon as possible. Once an order begins processing no changes or cancellations can be made.",
+      "id": "9521f45c-7013-49dc-ad77-f6b7380caa88",
+      "shortcut": "ced",
+      "companyName": "Darc Sport"
+    },
+    {
+      "name": "Store location / retailer",
+      "content": "We don't currently have a store but definitely keep an eye out!",
+      "id": "0da974cb-c672-44ae-b692-5b42d4717221",
+      "shortcut": "sl",
+      "companyName": "Darc Sport"
+    },
+    {
+      "name": "Phone support",
+      "content": "We don't offer phone support right now but I'd be happy to help you over text, let me know what I can do for you!",
+      "id": "a245a56c-3108-4f7c-b78f-74fb3b5ed1f4",
+      "shortcut": "ps",
+      "companyName": "Darc Sport"
+    },
+    {
+      "name": "What forms of payment do you accept?",
+      "content": "You can purchase on our website using major credit cards (Visa, Mastercard, Amex, Discover, etc), and digital payment methods like PayPal, Google Pay and ShopPay. You can also find all of our available payment options on the checkout page.",
+      "id": "067466d7-305b-4a61-907a-a98251930c33",
+      "companyName": "Darc Sport"
+    },
+    {
+      "name": "Customer support",
+      "content": "The best way to handle this is to contact us directly through this link https://shop.darcsport.com/pages/contact Our team is happy to help!",
+      "id": "1a0cc10f-e75a-4743-984f-19eb81305ad5",
+      "shortcut": "cs",
+      "companyName": "Darc Sport"
+    },
+    {
+      "name": "Sizing (shoes)",
+      "content": "Happy to help you find the right size! Our shoes generally run true to size. Would you mind sharing your usual size?",
+      "id": "4fe889d8-18f4-460d-8a07-0394999a93cf",
+      "companyName": "Darc Sport"
+    },
+    {
+      "name": "Do you offer exchanges?",
+      "content": "We do not offer direct exchanges at this time. If you wish to exchange an item, please follow the return process for store credit and place a new order for the desired item. You can check out our detailed return policy here: https://darcsport.attn.tv/afDcIYpxISJy and you can initiate your return here https://darcsport.attn.tv/aOWdjOF-d5ix",
+      "id": "415b6def-86dd-47f3-bc9a-45e014e91c16",
+      "companyName": "Darc Sport"
+    },
+    {
+      "name": "Return policy",
+      "content": "You can check out our detailed return policy here: https://shop.darcsport.com/pages/help-center?hcUrl=%2Fen-US%2Fdarc-sport-return-policy-1092291 and you can initiate your return here https://shop.darcsport.com/apps/returns",
+      "id": "843ecada-d3cb-4c6c-bdad-c275922a15cf",
+      "shortcut": "rp",
+      "companyName": "Darc Sport"
+    }
+  ]
+}

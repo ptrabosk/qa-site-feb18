@@ -1,0 +1,113 @@
+{
+  "companyKey": "pa general store",
+  "templates": [
+    {
+      "name": "Free shipping",
+      "content": "We don't currently offer free shipping, but all promos will always be shared with our SMS subscribers or on our website, so keep an eye out!",
+      "id": "b83d4280-125d-4acc-93e5-06b43ccbab6e",
+      "shortcut": "fs",
+      "companyName": "PA General Store"
+    },
+    {
+      "name": "Brand ambassador / sponsorship",
+      "content": "Thank you for your interest! The best way to discuss this is to email us directly at customerservice@pageneralstore.com. Our team is happy to chat.",
+      "id": "7a1a278a-4956-49ec-907b-f19df41d9324",
+      "shortcut": "ams",
+      "companyName": "PA General Store"
+    },
+    {
+      "name": "Return policy",
+      "content": "You can check out our detailed return policy here: https://www.pageneralstore.com/return_policy",
+      "id": "0344dbc6-34ea-424c-8088-c18cc34fa6a2",
+      "shortcut": "rp",
+      "companyName": "PA General Store"
+    },
+    {
+      "name": "Social media",
+      "content": "Give us a follow on IG: https://www.instagram.com/pageneralstore/ and FB here: https://www.facebook.com/PAGeneralstore",
+      "id": "2de06631-80f1-47ad-ba4f-ea9b9fa3b613",
+      "shortcut": "smd",
+      "companyName": "PA General Store"
+    },
+    {
+      "name": "Cancel / edit order",
+      "content": "I can check if that's possible. What's the order number, email address and the change you'd like to make?",
+      "id": "7c83ee05-cbe9-41a4-a0c4-c1148d327467",
+      "shortcut": "ced",
+      "companyName": "PA General Store"
+    },
+    {
+      "name": "Store location / retailer",
+      "content": "You can find us near you here: https://www.pageneralstore.com/retail-locations",
+      "id": "1d39ede6-49d0-4ec1-8efd-0e3e9c6c55e8",
+      "shortcut": "sl",
+      "companyName": "PA General Store"
+    },
+    {
+      "name": "Phone support",
+      "content": "You can give us a call at 800-545-4891 or let me know if I can help via text, it may be faster.",
+      "id": "502c1c8f-5527-411f-99d4-2b184cc2dcb1",
+      "shortcut": "ps",
+      "companyName": "PA General Store"
+    },
+    {
+      "name": "Shipping time",
+      "content": "All orders will ship within 1-3 business days unless you schedule a later date. If you need delivery on a specific date, we recommend using 2 Day or UPS Next Day Air Shipping methods.",
+      "id": "9bbf8c9d-5ecf-4a66-9cc4-0d9cbc8a5b01",
+      "shortcut": "shp",
+      "companyName": "PA General Store"
+    },
+    {
+      "name": "Shelf Life of Seltzer’s Lebanon Bologna",
+      "content": "You can store your Seltzer's Lebanon Bologna in the fridge but it must be consumed within 14 days, however, it may last several days past that if stored properly.",
+      "id": "697c6b0f-22c0-4c66-bc76-b6ba4d57be69",
+      "companyName": "PA General Store"
+    },
+    {
+      "name": "Do you have a catalog?",
+      "content": "Yes! You can request one here: https://www.pageneralstore.com/catalog_request You can also download the PDF version of our catalog at the following link: https://www.pageneralstore.com/catalogdownload",
+      "id": "d9af5a5b-7230-4905-823c-3f3b2b355f2c",
+      "companyName": "PA General Store"
+    },
+    {
+      "name": "Can I write a gift message?",
+      "content": "Yes, you'll be able to write the gift message during the checkout process. It's right after you enter the shipping info under \"Other information\".",
+      "id": "55b4890f-ccc9-4490-b8a8-ae6958fefd54",
+      "companyName": "PA General Store"
+    },
+    {
+      "name": "Military / First responder / Healthcare / Teacher discount",
+      "content": "Thank you for your service! We don't have any specific discounts like that, but our deals will always be shared with our SMS subscribers or on our website, so keep an eye out!",
+      "id": "0f0a7131-233c-4436-8463-1284a97b41c0",
+      "shortcut": "ms",
+      "companyName": "PA General Store"
+    },
+    {
+      "name": "Customer support",
+      "content": "The best way to handle this is to email us directly at customerservice@pageneralstore.com, live chat with one of our agents via the website or give us a call at 800-545-4891. Our team is happy to help!",
+      "id": "c60d7333-9979-4bfa-b427-206ac6be3d6d",
+      "shortcut": "cs",
+      "companyName": "PA General Store"
+    },
+    {
+      "name": "Wholesale inquiries",
+      "content": "Thank you for your interest! The best way to discuss this is to email us directly at customerservice@pageneralstore.com. Our team is happy to chat.",
+      "id": "9676ef45-2403-4f6a-b780-23bf66ed797b",
+      "shortcut": "wls",
+      "companyName": "PA General Store"
+    },
+    {
+      "name": "How do you keep the Soft Pretzels fresh?",
+      "content": "Soft Pretzels must be eaten or frozen within 2 days after the package leaves our dock. We always require a 2 Day shipping service, if UPS Ground won't deliver on time, to ensure you get them in time!",
+      "id": "66baed22-1c47-4e2e-85e4-a5edd781ed8d",
+      "companyName": "PA General Store"
+    },
+    {
+      "name": "Sales Collection",
+      "content": "You can take a look at our sale collection here: https://www.pageneralstore.com/category/clearance",
+      "id": "e2e3ffc3-2454-4655-ab9f-080af28c9410",
+      "shortcut": "spg",
+      "companyName": "PA General Store"
+    }
+  ]
+}

@@ -1,0 +1,267 @@
+{
+  "companyKey": "mathis home",
+  "templates": [
+    {
+      "name": "Sales Collection",
+      "content": "You can take a look at our sale collection here: https://www.mathishome.com/mathis-home/deals",
+      "id": "0824b39a-ddc0-482e-bb80-1f8db3bae997",
+      "shortcut": "spg",
+      "companyName": "Mathis Home"
+    },
+    {
+      "name": "I have questions about Mathis Rewards, who can I talk to?",
+      "content": "For any questions regarding Mathis Rewards, talk to your salesperson, call 844-294-3435, or chat with us online.",
+      "id": "b693321a-52e1-43cd-adfe-1a9853ab3e11",
+      "companyName": "Mathis Home"
+    },
+    {
+      "name": "The promotional price isn't reflecting at checkout",
+      "content": "The best way to handle this is to call us at 405-943-3434. Our team is happy to help!",
+      "id": "73160763-3a17-479d-98c7-02b66a6a0099",
+      "companyName": "Mathis Home"
+    },
+    {
+      "name": "Cancel / edit order",
+      "content": "I can check if that's possible. What's the order number, email address and the change you'd like to make?",
+      "id": "e3146c7d-f572-4eab-8568-4aacdf50b74d",
+      "shortcut": "ced",
+      "companyName": "Mathis Home"
+    },
+    {
+      "name": "Free shipping",
+      "content": "We offer free local doorstep delivery. All items will be left in the carton unassembled and a person over 18 must be present to sign for receiving the furniture.",
+      "id": "7d5ffc72-cd2d-47cc-abde-8a96f527780d",
+      "shortcut": "fs",
+      "companyName": "Mathis Home"
+    },
+    {
+      "name": "Social Media",
+      "content": "Give us a follow on IG: https://www.instagram.com/mathishome/ and FB here: https://www.facebook.com/MathisHome",
+      "id": "4773d802-6be3-4b1c-8495-add0068a613e",
+      "shortcut": "smd",
+      "companyName": "Mathis Home"
+    },
+    {
+      "name": "Military / First responder / Healthcare / Teacher discount",
+      "content": "Thank you for your service! We don't have any specific discounts like that but if it helps, you can check out the items we have on sale here: https://www.mathishome.com/mathis-home/deals",
+      "id": "91b1ede6-fa6a-4b3c-a3b5-d93f12b3d870",
+      "shortcut": "ms",
+      "companyName": "Mathis Home"
+    },
+    {
+      "name": "Phone support",
+      "content": "You can give us a call at 1-844-294-3435 or let me know if I can help via text, it may be faster.",
+      "id": "369aa2e5-6771-4848-af92-72b58031fecb",
+      "shortcut": "ps",
+      "companyName": "Mathis Home"
+    },
+    {
+      "name": "Elite Delivery",
+      "content": "If you choose Elite Delivery then the items will be delivered to a cleared room of your choice and they'll be fully assembled and set up. We'll remove and dispose of all packing debris and of existing furniture, like item for like item. Please note that a person over 18 is required to sign for receipt of your furniture.",
+      "id": "bd02bb91-98b8-499f-8925-4c7060f77298",
+      "companyName": "Mathis Home"
+    },
+    {
+      "name": "When will I get my refund?",
+      "content": "Once we have received the item into our warehouse we try to process a refund onto the original payment card within two weeks. If payment was by check, the refund will be sent the same way. Please note that we do not offer cash refunds.",
+      "id": "33dbec57-5129-4a0b-ae02-955fbc80382d",
+      "companyName": "Mathis Home"
+    },
+    {
+      "name": "What do I do if the item breaks down during the warranty period?",
+      "content": "If your item is under warranty, please contact your local Mathis Home Customer Service office via phone at 1-844-294-3435 or utilize our online chat. Please have your order confirmation email and/or customer number ready.",
+      "id": "34589f45-e982-4729-82b2-10a9221bc5aa",
+      "companyName": "Mathis Home"
+    },
+    {
+      "name": "Deluxe delivery",
+      "content": "If you choose Deluxe Delivery then the items will be delivered to a cleared room of your choice and they'll be fully assembled and set up. We'll remove and dispose of all packing debris as well. Please note that a person over 18 is required to sign for receipt of your furniture.",
+      "id": "8fa6f21b-5d6b-452f-b1d8-8b6c48e27fda",
+      "companyName": "Mathis Home"
+    },
+    {
+      "name": "Can I purchase a gift card online?",
+      "content": "I'm afraid not. Mathis Home Gift Cards may be purchased in-store only. You can find a location nearest to you here: https://www.mathishome.com/stores-pages/stores.html",
+      "id": "d76da066-1208-4dea-9d95-a4cc1304d0d2",
+      "companyName": "Mathis Home"
+    },
+    {
+      "name": "Doorstep Dropoff",
+      "content": "The package will be delivered to your doorstep. We can leave it in the garage, in the driveway, or outside the first-floor entry of the home or apartment. Please note that assembly isn't included and a person over 18 is required to sign for receipt of your furniture.",
+      "id": "21a1d0a3-2678-42ad-8813-8601a84ef252",
+      "companyName": "Mathis Home"
+    },
+    {
+      "name": "Wholesale inquiries",
+      "content": "Thank you for your interest! The best way to discuss wholesale is to contact us via this link: https://www.mathishome.com/information/contact-us.html Our team is happy to chat.",
+      "id": "37ccc615-7bde-4d64-8a9f-83a78fb29cf9",
+      "shortcut": "wls",
+      "companyName": "Mathis Home"
+    },
+    {
+      "name": "Brand ambassador / sponsorship / affiliate program",
+      "content": "Thank you for your interest! The best way to discuss this is to contact us via this link: https://www.mathishome.com/information/contact-us.html Our team is happy to chat.",
+      "id": "3879f151-9a61-4c21-959c-b2f4fcc8411e",
+      "shortcut": "ams",
+      "companyName": "Mathis Home"
+    },
+    {
+      "name": "Rewards / referral",
+      "content": "We have a rewards program where you can earn points to redeem on future purchases. To get started, you'll need to register by signing up here: https://www.mathishome.com/rewards-program/MBF-REWARDS.html You can learn more about our program here: https://www.mathishome.com/rewards/mathis-rewards-program.html",
+      "id": "2d0a2a4c-220f-4a67-a706-7d950756b6f9",
+      "shortcut": "rwd",
+      "companyName": "Mathis Home"
+    },
+    {
+      "name": "Store Location",
+      "content": "You can find us near you here: https://www.mathishome.com/stores-pages/stores.html",
+      "id": "f4500c7e-7d8c-478a-b81e-e027c2f7268a",
+      "shortcut": "sl",
+      "companyName": "Mathis Home"
+    },
+    {
+      "name": "Do you set up or assemble the furniture?",
+      "content": "We do offer Elite Delivery where we assemble the furniture into the room of your choice and dispose of all packaging debris and remove and dispose of existing furniture like item for like item. You can check out the details here: https://www.mathishome.com/information/pickup-and-delivery.html",
+      "id": "c5c30f42-be4b-4e12-9135-3eb90c513732",
+      "companyName": "Mathis Home"
+    },
+    {
+      "name": "Drawing of winners for $1000 gift card",
+      "content": "Winners are drawn every 7th day of each month. Good luck!",
+      "id": "f498cfd7-0763-4b91-9892-db89d49ff337",
+      "companyName": "Mathis Home"
+    },
+    {
+      "name": "Do you offer financing?",
+      "content": "You can learn more about the financing options we offer here: https://mathishome.attn.tv/sl/MF_vleHV",
+      "id": "3971781e-457d-4938-b6bd-56a47ff0e1ae",
+      "companyName": "Mathis Home"
+    },
+    {
+      "name": "Price matching/Sales inquiries",
+      "content": "For all sales inquiries, please contact our sales department at 405-943-3434. Our team is happy to help!",
+      "id": "942291bb-5fa3-44ed-8fb5-b5340a9c0587",
+      "shortcut": "pmc",
+      "companyName": "Mathis Home"
+    },
+    {
+      "name": "Order update inquiries",
+      "content": "The best way to handle this is to call us at 405-943-3434 for all order updates or to reach out to your original sales person - you'll be in excellent hands.",
+      "id": "0c9e5a3a-aeaa-4655-af0c-1d1fe9002708",
+      "shortcut": "oui",
+      "companyName": "Mathis Home"
+    },
+    {
+      "name": "Customer support",
+      "content": "The best way to handle this is to contact us via this link: https://www.mathishome.com/information/contact-us.html Our team is happy to help!",
+      "id": "b850ac92-10c6-4a31-ab43-c96e4365ada9",
+      "shortcut": "cs",
+      "companyName": "Mathis Home"
+    },
+    {
+      "name": "Shipping time",
+      "content": "We offer Doorstep Dropoff, Deluxe, and Elite Delivery options. You'll be contacted via text message or email by 4 pm the day prior with a 2-hour delivery window.",
+      "id": "e257c45c-0744-4bd9-952e-0e0151535a64",
+      "shortcut": "shp",
+      "companyName": "Mathis Home"
+    },
+    {
+      "name": "Return policy",
+      "content": "You can check out our detailed return policy here: https://www.mathishome.com/information/terms-of-use.html#siteexchange",
+      "id": "daa7201e-e3e8-4df4-962f-6ca0201ea468",
+      "shortcut": "rp",
+      "companyName": "Mathis Home"
+    },
+    {
+      "name": "How do I earn points?",
+      "content": "Members start earning points as soon as they join! After earning those initial points, there are numerous ways to earn Mathis Rewards points. For every dollar you spend on merchandise, you'll receive 2 Mathis Rewards points. Members can also earn points on Social Media, writing reviews, meeting with Mathis Designers, and more! \n \nCheckout out our More Ways to Earn section here for more details: https://www.mathishome.com/rewards/mathis-rewards-program.html",
+      "id": "9af66419-39ca-43d3-a09f-d49e698111a9",
+      "companyName": "Mathis Home"
+    },
+    {
+      "name": "Can I redeem points online?",
+      "content": "Yes! Members will be able to redeem their points online very soon. In the meantime, you can chat with one of our online specialists via our website or call us at 844-294-3435 and we can help apply points to your order.",
+      "id": "6f490602-8d2a-43dc-8e12-69b9f64a4d09",
+      "companyName": "Mathis Home"
+    },
+    {
+      "name": "How do I get my points and how soon can I use them?",
+      "content": "Points earned on merchandise purchases are awarded and available to use 30 days after your items are delivered or picked up. Points earned from non-merchandise purchases are awarded within 5 business days (unless otherwise noted) and are available to use immediately. \n \nPlease see our Terms and Conditions for more details on points: https://www.mathishome.com/s/mathisbrothers/rewards/mathis-rewards-terms.html#earningpoints",
+      "id": "bbc14632-70a3-44f5-8b97-15145b4a9692",
+      "companyName": "Mathis Home"
+    },
+    {
+      "name": "Can a Mathis Rewards membership be canceled and refunded?",
+      "content": "Memberships can be canceled at any time by contacting our customer service department, by using the following: (i) toll free number: (844) 294-3435, (ii) e-mail address: MathisRewards@MathisHome.com, or (iii) mailing address: 3434 West Reno, Oklahoma City, OK 73107, Attn: Mathis Rewards Membership. Membership fees are non-refundable. When a Membership is canceled, all Membership benefits will end, including but not limited to, eligibility to earn and redeem Points. \n\nMathis Rewards members may opt out of auto-renewal by managing their account at www.MathisHome.com/login.  Members can also contact us by calling 844-294-3435 or by emailing MathisRewards@MathisHome.com. If a Member cancels automatic renewal, the current Membership remains active until the end of the annual membership period. If a membership is not scheduled to auto-renew, a Member can renew by paying in a Mathis store or calling (844) 294-3435 before the end of the annual membership period. \n \nFor any additional information, please check out our website at https://www.mathishome.com/mathis-home or give us a call at 844-294-3435.",
+      "id": "f32fa57a-98e4-4049-9418-9023fc520a69",
+      "companyName": "Mathis Home"
+    },
+    {
+      "name": "How do I become a Mathis Rewards member?",
+      "content": "You can sign up for a Mathis Rewards membership online here: https://www.mathishome.com/rewards/mathis-rewards-program.html You can also reach out to your salesperson or call us at 844-294-3435 and let the representative know you'd like to become a Mathis Rewards member.",
+      "id": "cf5a00a0-ca66-44ec-a790-e68f21dd3f70",
+      "companyName": "Mathis Home"
+    },
+    {
+      "name": "Do I earn points on online purchases?",
+      "content": "Yes! Just log into your member account using your member email address and all points will be automatically tied to your account.",
+      "id": "79bc25f9-97b2-4806-b37b-fbcad30c55a5",
+      "companyName": "Mathis Home"
+    },
+    {
+      "name": "How many points do I need to earn before I make a purchase?",
+      "content": "There is not a minimum point value to get a discount. You can use points as they become available or collect points over time for an even bigger discount!",
+      "id": "1b8c4376-03ff-4163-be79-03f7d2647f5e",
+      "companyName": "Mathis Home"
+    },
+    {
+      "name": "What is the value of each point and how do I redeem my points?",
+      "content": "Members earn 2 points per dollar spent on eligible merchandise. Points earned may be used as a form of payment for future eligible purchases. 100 points = $1 discount. For example, spend $1000 on merchandise, earn 2000 points, and receive a $20 discount upon redemption. \n \nMembers earn Points based on every whole dollar spent on an eligible purchase (excluding tax, shipping charges and fees) 30 days after the item(s) have been purchased and shipped. Points earned may be used as a discount against the amount owed for future eligible purchases. Points are not transferable and may not be sold, resold, exchanged or bartered. Points have no cash value and cannot be exchanged for cash. Points cannot be used to purchase gift cards or third-party services. Additional exclusions may apply. Please see our Terms & Conditions for more details: https://www.mathishome.com/rewards/mathis-rewards-terms.html#earningpoints",
+      "id": "15066e51-5da3-4c63-91db-3eed020ba5da",
+      "companyName": "Mathis Home"
+    },
+    {
+      "name": "Do my points expire?",
+      "content": "As long as you're an active member, points are good for 3 years from the time they are earned. For more details on points, please check out our Terms and Conditions: https://www.mathishome.com/s/mathisbrothers/rewards/mathis-rewards-terms.html#earningpoints",
+      "id": "ec4df342-2984-424d-97e3-57d2923995d0",
+      "companyName": "Mathis Home"
+    },
+    {
+      "name": "What are the benefits of being a Mathis Rewards member?",
+      "content": "There are members only discounts on furniture, bedding and delivery, early access to sales, seasonal offers for members only, and extra points earning days. Members also have multiple ways to earn points which lead to more Member discounts! As a member's level of Membership increases, so do the benefits!",
+      "id": "c5a32f2e-13e1-4391-9201-3e47551fa836",
+      "companyName": "Mathis Home"
+    },
+    {
+      "name": "How does the point system work?",
+      "content": "Members earn 2 points per dollar spent on eligible merchandise. Points earned may be used as a form of payment for future eligible purchases. 100 points = $1 discount. For example, spend $1000 on merchandise, earn 2000 points, and receive a $20 discount upon redemption. \n \nPoints have no cash value and cannot be exchanged for cash. Points cannot be used to purchase gift cards or third-party services. Additional exclusions may apply. Please see our Terms & Conditions for more details: https://www.mathishome.com/rewards/mathis-rewards-terms.html#earningpoints",
+      "id": "d4271811-6e84-45ab-aa97-263bd12744a0",
+      "companyName": "Mathis Home"
+    },
+    {
+      "name": "What can I purchase with my points?",
+      "content": "Points can be used towards merchandise purchases. Some exclusions apply - Please see our Terms & Conditions for more details: https://www.mathishome.com/s/mathisbrothers/rewards/mathis-rewards-terms.html#earningpoints",
+      "id": "2c7521d2-5511-47e7-80d7-c3894da39e6d",
+      "companyName": "Mathis Home"
+    },
+    {
+      "name": "What kind of discounts do I get as a Mathis Rewards member?",
+      "content": "Our member discounts are always evolving. Check out our list of benefits section online here: https://www.mathishome.com/rewards/mathis-rewards-program.html",
+      "id": "d15488eb-40b7-4bc8-9947-ee2a00fd11ea",
+      "companyName": "Mathis Home"
+    },
+    {
+      "name": "How many points do I have?",
+      "content": "To check your available point balance, simply login to your membership account here: https://www.mathishome.com/login or contact us at 844-294-3435.",
+      "id": "8a0b3615-914a-4bd3-9e56-6eb38e3056f6",
+      "companyName": "Mathis Home"
+    },
+    {
+      "name": "Rewards issues/questions",
+      "content": "The best way to handle this is to contact us at bhoss@mathishome.com. Our team is happy to help!",
+      "id": "4cc81165-1198-4e64-92be-992d1ffb8405",
+      "shortcut": "riq",
+      "companyName": "Mathis Home"
+    }
+  ]
+}

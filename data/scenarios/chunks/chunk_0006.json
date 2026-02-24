@@ -3,901 +3,1078 @@
   "chunk": "chunk_0006",
   "scenarios": {
     "26": {
+      "id": "019c68f3-54b2-4c11-f000-000094de2732",
+      "companyName": "Cozy Earth",
+      "companyWebsite": "https://cozyearth.com",
       "agentName": "Sarah",
-      "id": "019c4ddd-3a89-4aa0-f000-0000595a7157",
-      "rightPanel": {
-        "browsingHistory": [
-          {
-            "link": "https://www.statelinetack.com/products/oeq-compression-sock",
-            "item": "OEQ Compression Sock - Black/Royal / M (7 - 10)",
-            "timeAgo": "2026-02-11"
-          },
-          {
-            "link": "https://www.statelinetack.com/products/oeq-compression-sock",
-            "item": "OEQ Compression Sock - Black/Royal / M (7 - 10)",
-            "timeAgo": "2026-02-11"
-          },
-          {
-            "link": "https://www.statelinetack.com/products/romfh_ladies_classic_barn_vest_clr0112",
-            "item": "Romfh Ladies Classic Barn Vest - Black / 2X-Large",
-            "timeAgo": "2026-02-11"
-          },
-          {
-            "link": "https://www.statelinetack.com/products/oeq-compression-sock?pr_prod_strat=e5_desc\u0026pr_rec_id=4f2815290\u0026pr_rec_pid=8048254681225\u0026pr_ref_pid=8419501801609\u0026pr_seq=uniform",
-            "item": "OEQ Compression Sock - Grey/Teal / M (7 - 10)",
-            "timeAgo": "2026-01-23"
-          },
-          {
-            "link": "https://www.statelinetack.com/products/oeq_compression_sock_clr0112?_pos=3\u0026_fid=a6cc4c17a\u0026_ss=c\u0026utm_campaign=b-abdn-2\u0026utm_medium=email\u0026utm_source=attentive\u0026externalId=i3fOh\u0026attn_macro=dHJpZ2dlckV2ZW50LnByb2R1Y3QubGluaw%3D%3D\u0026attn_pos=2",
-            "item": "OEQ Compression Sock - Grey/Teal / M (7 - 10)",
-            "timeAgo": "2026-01-23"
-          }
-        ],
-        "source": {
-          "label": "Website",
-          "value": "https://statelinetack.com",
-          "date": ""
-        }
-      },
-      "companyWebsite": "https://statelinetack.com",
-      "companyName": "State Line Tack",
-      "notes": {
-        "send_to_cs": [
-          "Send to CS for post purchase issues, use PPI shortcut"
-        ],
-        "promo_and_exclusions": [
-          "Some items aren’t eligible for discounts due to manufacturers’ policy, add to cart to double-check!"
-        ]
-      },
-      "blocklisted_words": [
-        
-      ],
-      "escalation_preferences": [
-        "Exchanges and returns"
-      ],
-      "messageTone": "Casual",
-      "conversation": [
-        {
-          "message_type": "system",
-          "message_text": "State Line Tack: Attention VIPS! Get early access to our Winter CLEARANCE Sale with up to 85% OFF! slt.attn.tv/aDg2RcewXJ2R Act fast supplies are limited!",
-          "date_time": "2026-01-13 13:16:02.709",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "State Line Tack: Hey, this is Sarah. Thanks for checking out our site! https://slt.attn.tv/aafZwAaCNBvh\n\nAre you looking for anything in particular today?",
-          "date_time": "2026-01-15 12:39:17.474",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "State Line Tack: Hey, Sarah here! See something you liked? Reply back with any questions! slt.attn.tv/apviRwWJLiwR ",
-          "date_time": "2026-01-15 13:13:56.992",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "State Line Tack: Stay warm with these hot deals! Shop our current promotions with up to 60% OFF top brands \u0026 best sellers! slt.attn.tv/asIa1FlGUQ2W ",
-          "date_time": "2026-01-19 13:45:31.756",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "State Line Tack: HISTORIC Winter Storm is coming! Get ready with our top winter gear up to 65% OFF today!slt.attn.tv/aHloEGh11DxO Text Stop to Stop",
-          "date_time": "2026-01-22 13:25:37.879",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "State Line Tack: Hey, this is Sarah. Thanks for checking out our site! https://slt.attn.tv/a5Wq6tJIWEQ1\n\nAre you looking for anything in particular today?",
-          "date_time": "2026-01-23 16:53:22.201",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "State Line Tack: Winter Storm Flash SALE! Get up to 70% OFF top brands! slt.attn.tv/aEcVoeM0bNU3 Supplies are limited act fast!",
-          "date_time": "2026-01-27 13:25:37.171",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "State Line Tack: Kick the week off with savings! Get up to 30% OFF over $49 on select items today only! slt.attn.tv/auDLINV_yJuu ",
-          "date_time": "2026-02-02 13:25:32.687",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "State Line Tack: Hey there, we noticed you checking us out have you seen our most recent promotions?https://slt.attn.tv/a4LlTPmtp916 Let us know what you think!",
-          "date_time": "2026-02-02 19:23:32.018",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "State Line Tack: Hi Veronica, it\u0027s Sarah. I\u0027m a personal concierge here to answer questions or share give recommendations. Is there anything I can help you with today?\n\nhttps://slt.attn.tv/aQi5WGHbqqEy .",
-          "date_time": "2026-02-03 19:08:23.004",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "State Line Tack: Love is in the air! Who wouldn\u0027t love 30% OFF on orders over $49 today? Act fast! slt.attn.tv/aTGGFq6P_hE5 ",
-          "date_time": "2026-02-09 13:25:27.606",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "State Line Tack: Hey, this is Sarah. Thanks for checking out our site! https://slt.attn.tv/aw3-RW-wfVhz\n\nAre you looking for anything in particular today?",
-          "date_time": "2026-02-11 12:35:59.913",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "State Line Tack: Hey, Sarah here! Looks like you left something behind, anything I can help with?: slt.attn.tv/awYQsuTYJzsv .",
-          "date_time": "2026-02-11 12:56:13.485",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "I got confirmation on order   Doesn\u0027t look like I received $10 e-card credit.",
-          "date_time": "2026-02-11 12:58:07.907",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "template",
-          "message_text": "Template used: \"Already have discount but not working - All brands\"; last updated: 2023-10-13 21:49:08.054",
-          "date_time": "2026-02-11 13:01:10.059",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c4ddd-3a89-4aa0-f000-0000595a7157",
-          "message_text": "State Line Tack: Thank you for the purchase. I\u0027m afraid I\u0027m not familiar with that offer, but it might have some specific requirements. Could you let me know where you got it and, if possible, share a screenshot? I\u0027ll do my best to help from there.",
-          "message_type": "agent",
-          "agent": "109968",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-11 13:01:10.062"
-        }
-      ]
-    },
-    "27": {
-      "agentName": "Samantha",
-      "id": "019c544d-8c1c-4d51-f000-0000dba6335a",
-      "rightPanel": {
-        "browsingHistory": [
-          {
-            "link": "https://comfrt.com/products/ember-heated-blanket?variant=45246089003052\u0026utm_campaign=SMS_Heated_Ember_Blanket_2.11.26_Wednesday_\u0026utm_medium=sms\u0026utm_source=attentive\u0026externalId=5IhGV",
-            "item": "Ember Heated Blanket",
-            "timeAgo": "2026-02-12"
-          },
-          {
-            "link": "https://comfrt.com/products/minimalist-hoodie?cjdata=MXxOfDB8WXww\u0026variant=44020461338668\u0026cjevent=eb736e61086b11f180e000410a82b832\u0026utm_source=CJ\u0026utm_medium=100149615\u0026utm_campaign=5447901\u0026utm_term=17183544",
-            "item": "Minimalist Hoodie",
-            "timeAgo": "2026-02-12"
-          },
-          {
-            "link": "https://comfrt.com/products/minimalist-hoodie?cjdata=MXxOfDB8WXww\u0026variant=44545946091564\u0026cjevent=eb736e61086b11f180e000410a82b832\u0026utm_source=CJ\u0026utm_medium=100149615\u0026utm_campaign=5447901\u0026utm_term=17183544",
-            "item": "Minimalist Hoodie",
-            "timeAgo": "2026-02-12"
-          },
-          {
-            "link": "https://comfrt.com/products/minimalist-hoodie?cjdata=MXxOfDB8WXww\u0026variant=44545946091564\u0026cjevent=cd9e3ab1086b11f181f6003f0a82b836\u0026utm_source=CJ\u0026utm_medium=100149615\u0026utm_campaign=5447901\u0026utm_term=17183544",
-            "item": "Minimalist Hoodie",
-            "timeAgo": "2026-02-12"
-          },
-          {
-            "link": "https://comfrt.com/products/minimalist-hoodie?variant=44020461338668",
-            "item": "Minimalist Hoodie",
-            "timeAgo": "2026-02-12"
-          }
-        ],
-        "source": {
-          "label": "Website",
-          "value": "https://comfrt.com",
-          "date": ""
-        },
-        "orders": [
-          {
-            "orderDate": "2026-02-02",
-            "items": [
-              {
-                "price": [
-                  39
-                ],
-                "productLink": "https://comfrtclothing.myshopify.com/products/the-camo-sweats",
-                "name": "Camo Sweatpants"
-              },
-              {
-                "price": [
-                  55
-                ],
-                "productLink": "https://comfrtclothing.myshopify.com/products/the-camo-hoodie",
-                "name": "Camo Hoodie"
-              }
-            ],
-            "trackingLink": "https://track.flexport.com/6d0f041d90515126e",
-            "link": "https://comfrt.com/56940298284/orders/52dbbf8403a5f2a107add829b9e0b918/authenticate?key=e0377222d376d141ff637b0e40e6770a",
-            "orderNumber": "9721479",
-            "order_tracking_link": "https://track.flexport.com/6d0f041d90515126e",
-            "total": 94
-          },
-          {
-            "orderDate": "2026-02-02",
-            "items": [
-              {
-                "price": [
-                  94
-                ],
-                "productLink": "https://comfrtclothing.myshopify.com/products/pack-parent",
-                "name": "The Camo Hoodie Bundle"
-              }
-            ],
-            "trackingLink": "https://track.flexport.com/6d0f041d90515126e",
-            "link": "https://comfrt.com/56940298284/orders/52dbbf8403a5f2a107add829b9e0b918/authenticate?key=e0377222d376d141ff637b0e40e6770a",
-            "orderNumber": "9721479",
-            "order_tracking_link": "https://track.flexport.com/6d0f041d90515126e",
-            "total": 92.65
-          }
-        ]
-      },
-      "companyWebsite": "https://comfrt.com",
-      "companyName": "Comfrt",
-      "notes": {
-        "send_to_cs": [
-          "Send to CS for post-purchase issues"
-        ],
-        "escalate": [
-          "ESC if the discount % is not the same as indicated in the automated message"
-        ],
-        "templates": [
-          "If cx asks if Comfrt was formerly another brand, use CFB shortcut"
-        ]
-      },
-      "blocklisted_words": [
-        
-      ],
-      "escalation_preferences": [
-        "Exchanges and returns",
-        "Sizing questions",
-        "Discount code errors"
-      ],
       "messageTone": "Polished",
       "conversation": [
         {
+          "message_media": [],
+          "message_text": "Cozy Earth: For the little moments at home: 20% off with code \"RESET\"\n\nShop Subscriber-Only Event: cozyearth.attn.tv/aORCFd-CbMQF\n\n+ free PJs with $299+ orders!",
           "message_type": "system",
-          "message_text": "Comfrt: Reply Y to subscribe to recurring automated personalized marketing alerts (e.g. cart reminders) from Comfrt.",
-          "date_time": "2026-02-01 22:31:25.760",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-01-17 19:15:18.852"
         },
         {
+          "message_media": [],
+          "message_text": "Cozy Earth: Shopping Valentine's?\n\nUse code \"RESET\" for 20% OFF pajamas they'll actually wear & home pieces they'll actually use: cozyearth.attn.tv/aHMYB6EkS3Ac",
           "message_type": "system",
-          "message_text": "Comfrt: Welcome to Comfrt! Msg \u0026 data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
-          "date_time": "2026-02-01 22:31:42.815",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-01-18 17:05:02.197"
         },
         {
+          "message_media": [],
+          "message_text": "Cozy Earth: Hi! We can't wait for you to try your new Women's Essential No-Show Sock - Black / M: US 9-11!\n\nFind answers to common questions below or respond to this text & we'll be here to help right away!\ncozyearth.attn.tv/aQWCQPVmbB-M ",
           "message_type": "system",
-          "message_text": "Comfrt: Welcome to Comfrt! We\u0027re so excited to have you. Here\u0027s your exclusive 15% off code: W15RpXzed\n\nClick here to auto-apply your discount and shop our viral best-sellers: comfrt.attn.tv/a-1wjd3KMJvf",
-          "date_time": "2026-02-01 22:31:46.882",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-01-19 18:55:41.949"
         },
         {
+          "message_media": [],
+          "message_text": "Cozy Earth: Valentine's is soon! These PJs make it easy...and they'll actually get used.\n\nShop Gifts: cozyearth.attn.tv/aiosyiJ9VXvW\n\n+ free PJs on $299+ orders",
           "message_type": "system",
-          "message_text": "Comfrt: Thanks for choosing Comfrt! We\u0027re prepping your order, which means your new cozy go-to is almost en route.\u2028\nTrack it here: comfrt.attn.tv/a9gLYt5OQssZ \n",
-          "date_time": "2026-02-02 12:21:00.650",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-01-21 07:05:10.588"
         },
         {
+          "message_media": [],
+          "message_text": "Cozy Earth: Your order EXC-#3179326 has been delivered! \nCheck in on your order: cozyearth.attn.tv/apCf83VIwaj1\n",
           "message_type": "system",
-          "message_text": "Comfrt: Let\u0027s be friends!\n\nSave our contact to make sure we land directly in your messages.",
-          "date_time": "2026-02-02 12:49:25.315",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-01-23 12:26:48.092"
         },
         {
+          "message_media": [],
+          "message_text": "Cozy Earth: This felt worth sharing with you:\n\nTake 30% off your next Cozy Earth order with code: \"LETSGOHOME\"\n\nPerfect for Valentine's gifting or a well-deserved upgrade: cozyearth.attn.tv/aNTNAFs9XXWy",
           "message_type": "system",
-          "message_text": "Comfrt: Your winter remedy is here.\n\nMeet the Ember Heated Blanket. Perfectly warm, irresistibly soft, and made to feel like a dream you never want to wake up from.\n\nGet cozy: comfrt.attn.tv/aCWsOoUcFRPD",
-          "date_time": "2026-02-11 19:16:24.564",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-01-23 17:00:45.873"
         },
         {
+          "message_media": [],
+          "message_text": "Cozy Earth: Cozy PJs > Flowers\n\n+ FREE gift on orders over $299...\n\nExplore The Valentine's Shop: cozyearth.attn.tv/aTahdbb2YweP",
           "message_type": "system",
-          "message_text": "Comfrt: You are already subscribed. Click here to shop now: comfrt.com.",
-          "date_time": "2026-02-12 18:01:15.040",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-01-24 08:08:05.986"
         },
         {
+          "message_media": [],
+          "message_text": "Cozy Earth: Valentine's PJs are selling quick...\n\nFREE GIFT on $299+ orders!\n\nHurry, ground shipping deadline for gifts is Feb 6: cozyearth.attn.tv/aTumev6zq6Nz",
+          "message_type": "system",
+          "date_time": "2026-01-26 16:06:14.447"
+        },
+        {
+          "message_media": [],
+          "message_text": "Cozy Earth: You have great taste! Seriously. And your loyalty is unmatched. View how many credits you have here:\n\ncozyearth.attn.tv/aOwvElsSME4U \n",
+          "message_type": "system",
+          "date_time": "2026-01-27 08:37:46.325"
+        },
+        {
+          "message_media": [],
+          "message_text": "Cozy Earth: Don't forget:\n\n30% off your next order w/ code: \"LETSGOHOME\"\n\nShop Valentine's gifts or a well-deserved home upgrade: cozyearth.attn.tv/aoBTBOc8kjOr",
+          "message_type": "system",
+          "date_time": "2026-01-28 18:01:07.815"
+        },
+        {
+          "message_media": [],
+          "message_text": "Cozy Earth: By February 6, use free ground shipping on Valentine's shopping!\n\nCozy gifts, right on time: cozyearth.attn.tv/avobt5dSLR0Y\n\nP.S. Free gift at $299+",
+          "message_type": "system",
+          "date_time": "2026-01-29 14:15:17.469"
+        },
+        {
+          "message_media": [],
+          "message_text": "Cozy Earth: THIS WEEKEND ONLY: \n\nSpend $299+, get a $100 credit to expand your cozy collection.\n\nUpgrade Your Comfort: cozyearth.attn.tv/aBeGVkR7lZhm",
+          "message_type": "system",
+          "date_time": "2026-01-30 20:49:56.601"
+        },
+        {
+          "message_media": [],
+          "message_text": "Cozy Earth: STILL ON: Spend $299+, get $100 credit!\n\nEnds Monday. Credit arrives Tuesday.\n\nGet The Perfect V-Day Gift: cozyearth.attn.tv/aXT6POsd9M5B",
+          "message_type": "system",
+          "date_time": "2026-01-31 17:03:21.096"
+        },
+        {
+          "message_media": [],
+          "message_text": "Cozy Earth: We miss you! Treat yourself to $50 off our luxurious bedding, loungewear, and bath items. Use code: 5X8DN4 today and indulge in premium comfort! This code is only applicable on orders over $100. \n\ncozyearth.attn.tv/aXSmGyJn9pNn ",
+          "message_type": "system",
+          "date_time": "2026-02-01 08:13:08.127"
+        },
+        {
+          "message_media": [],
+          "message_text": "Cozy Earth: EARLY ACCESS FOR YOU:\n\n20% off before the Valentine's Day Sale even begins...\n\nUse code \"ATHOME\" before midnight: cozyearth.attn.tv/a2SzTPJ0n_nV",
+          "message_type": "system",
+          "date_time": "2026-02-01 17:02:27.783"
+        },
+        {
+          "message_media": [],
+          "message_text": "Cozy Earth: The Valentine's Sale is HERE!\n\nUp to 20% OFF, now live: cozyearth.attn.tv/ajQRxZounO1w\n\nShop Gifts: cozyearth.attn.tv/al6xrUj1MCbE",
+          "message_type": "system",
+          "date_time": "2026-02-02 19:03:10.728"
+        },
+        {
+          "message_media": [],
+          "message_text": "Cozy Earth: UP TO 20% OFF. VALENTINE'S SALE.\n\nPerfect time to try Cozy Earth: cozyearth.attn.tv/aWW-760Lpu00",
+          "message_type": "system",
+          "date_time": "2026-02-03 19:07:29.750"
+        },
+        {
+          "message_media": [],
+          "message_text": "Cozy Earth: Hurry! Last call for on-time Valentine's gift delivery with ground shipping!\n\nSave Up To 20% Off: cozyearth.attn.tv/a9yrRTOjT3RN",
+          "message_type": "system",
+          "date_time": "2026-02-05 12:11:09.015"
+        },
+        {
+          "message_media": [],
+          "message_text": "Cozy Earth: Valentine's is soon, and up to 20% off continues...\n\nDon't Miss It: cozyearth.attn.tv/aTKs8xTZxIFw",
+          "message_type": "system",
+          "date_time": "2026-02-07 17:00:43.705"
+        },
+        {
+          "message_media": [],
+          "message_text": "Cozy Earth: Hey Donna! As a special subscriber perk, guess the winner of tonight's big game correctly & receive an EXCLUSIVE offer!\n\nReply \"A\" or \"B\"\n\nA. Seattle Seahawks\nB. New England Patriots\n\nStart looking for what you want: cozyearth.attn.tv/au6lMHy67ntg",
+          "message_type": "system",
+          "date_time": "2026-02-08 14:35:52.707"
+        },
+        {
+          "message_media": [],
+          "message_text": "Cozy Earth: You're all in on the Seahawks! Will they bring home their 2nd ring? We'll see soon and good luck!\n\ncozyearth.attn.tv/aIH5IUUID-9_",
+          "message_type": "system",
+          "date_time": "2026-02-08 20:59:05.988"
+        },
+        {
+          "message_media": [],
+          "message_text": "Cozy Earth: TOUCHDOWN! Congratulations on picking the Seahawks!\n\nAs promised, here's your exclusive discount. Use code: \"SUPERBOWL2026\" for 30% off for the next 72 hours!\n\nShop Now: cozyearth.attn.tv/ayk6XYHGf_05",
+          "message_type": "system",
+          "date_time": "2026-02-08 22:30:14.151"
+        },
+        {
+          "message_media": [],
+          "message_text": "Cozy Earth: Your next favorite is here. See the latest Cozy Earth arrivals designed with you in mind: cozyearth.attn.tv/afYNAdhohITx",
+          "message_type": "system",
+          "date_time": "2026-02-09 12:55:18.116"
+        },
+        {
+          "message_media": [],
+          "message_text": "Cozy Earth: NEW: Meet CityScape. Our best-selling sweat set collection, now with three new colors.\n\nTry Cityscape 2.0: cozyearth.attn.tv/aP1xt0Lid-nl\n\n\"This set is everything I wanted in loungewear\" - Shannon A.",
+          "message_type": "system",
+          "date_time": "2026-02-10 14:01:09.379"
+        },
+        {
+          "message_media": [],
+          "message_text": "Cozy Earth: Hey Donna, this is Sarah from the Cozy Earth Care Team. Thanks for checking out our site! cozyearth.attn.tv/aekKbSX6fkN2 \n\nAre you looking for anything in particular today?",
+          "message_type": "system",
+          "date_time": "2026-02-11 13:47:33.038"
+        },
+        {
+          "message_media": [],
+          "message_text": "Cozy Earth: Bamboo Jersey Quilt is a fan favorite! Let's make it yours!\n\nSee what's trending: cozyearth.attn.tv/a6ZUValt-v6M",
+          "message_type": "system",
+          "date_time": "2026-02-11 14:27:42.837"
+        },
+        {
+          "message_media": [],
+          "message_text": "Cozy Earth: EARLY ACCESS: 25% off just for you before the Presidents' Day Sale even begins!\n\nCode: \"LITTLEMOMENTS\"\n\nShop 25% Off: cozyearth.attn.tv/afwJuot49vLR",
+          "message_type": "system",
+          "date_time": "2026-02-13 17:05:21.939"
+        },
+        {
+          "message_media": [],
+          "message_text": "Cozy Earth: Presidents' Day Sale is live! Up to 25% OFF all weekend long...\n\nShop Now: cozyearth.attn.tv/aMu0d_AW_xEk",
+          "message_type": "system",
+          "date_time": "2026-02-14 17:13:12.398"
+        },
+        {
+          "message_media": [],
+          "message_text": "Cozy Earth: NEW shade called Tide, same Bubble Cuddle Blanket everyone is loving!\n\nShop the new color here: cozyearth.attn.tv/airCFBRBhkUw",
+          "message_type": "system",
+          "date_time": "2026-02-15 17:02:57.928"
+        },
+        {
+          "message_media": [],
+          "message_text": "Cozy Earth: 35% OFF: Exclusive Presidents' Day offer...\n\nCelebrate with code: \"BETTERNIGHTS\"\n\nHurry, deal ENDS TONIGHT! Shop Now: cozyearth.attn.tv/a4kHREgk7PzZ",
+          "message_type": "system",
+          "date_time": "2026-02-16 12:11:49.401"
+        },
+        {
+          "message_media": [],
+          "message_text": "Cozy Earth: Hey Donna, your cozy picks are still in checkout-whenever you're ready to wrap things up!\ncozyearth.attn.tv/ac6Lc2fF-QKZ",
+          "message_type": "system",
+          "date_time": "2026-02-16 19:01:16.604"
+        },
+        {
+          "message_media": [],
+          "message_text": "Cozy Earth: 35% OFF expires tonight!\n\nUse code: \"BETTERNIGHTS\"\n\nShop this subscriber exclusive deal before it's too late! cozyearth.attn.tv/aq3vFStvZFYj",
+          "message_type": "system",
+          "date_time": "2026-02-16 19:02:15.534"
+        },
+        {
+          "message_media": [],
+          "message_text": "It's like many of your other codes if you don't have things in stock, it doesn't work happy?????",
           "message_type": "customer",
-          "message_text": "Can I get a discount code? The one I received last time resulted in a return.",
-          "date_time": "2026-02-12 18:43:43.678",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-16 19:03:38.445"
         },
         {
-          "message_type": "template",
-          "message_text": "Template used: \"No promotions available - All brands\"; last updated: 2023-10-10 16:37:45.165",
-          "date_time": "2026-02-12 19:01:34.263",
-          "message_media": [
-            
-          ]
+          "message_media": [],
+          "message_text": "Cozy Earth: I'm sorry for any inconvenience. If you're having issues with a code, please provide a screenshot, and I'll assist you further.",
+          "message_type": "agent",
+          "agent": "62551",
+          "message_id": "019c68e9-18b2-4898-f000-000094de2732",
+          "date_time": "2026-02-16 19:03:52.649"
         },
         {
-          "message_id": "019c544d-8c1c-4d51-f000-0000dba6335a",
-          "message_text": "Comfrt: Hi, thanks for reaching out. I\u0027m so sorry to hear that the last code didn\u0027t work out and caused a return. I completely understand how frustrating that must be. However, I don\u0027t have any codes available at the moment, but our deals will always be shared with our SMS subscribers or on our website, so keep an eye out! In the meantime, you can check out our on-sale items here: https://comfrt.attn.tv/aIjzY_gF0Hl2",
+          "message_media": [],
+          "message_text": "On the phone, it says the White is in stock on my computer desk. It says not.",
+          "message_type": "customer",
+          "date_time": "2026-02-16 19:05:29.801"
+        },
+        {
+          "message_media": [],
+          "message_text": "Your IT people need to be re-educated or fired",
+          "message_type": "customer",
+          "date_time": "2026-02-16 19:05:49.864"
+        },
+        {
+          "message_media": [],
+          "message_text": "Cozy Earth: Thank you for bringing this to our attention, and I sincerely apologize for the confusion. I completely understand how frustrating this must be. Just to make sure I address your concern correctly, is the issue related to the discount code not working, or the stock availability showing incorrectly? Once I know, I can help get this sorted out for you.",
           "message_type": "agent",
           "agent": "109630",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-12 19:01:34.265"
+          "message_id": "019c68f3-54b2-4c11-f000-000094de2732",
+          "date_time": "2026-02-16 19:15:03.375"
         }
-      ]
-    },
-    "28": {
-      "agentName": "",
-      "id": "019c7883-c202-4c2a-f000-0000be1fa438",
-      "rightPanel": {
-        "browsingHistory": [
-          {
-            "link": "https://www.bulbhead.com/products/horsepower-ez-clean-brush",
-            "item": "Horsepower EZ Clean Brush",
-            "timeAgo": "2026-02-17"
-          },
-          {
-            "link": "https://www.bulbhead.com/products/bull-shot-oven?externalId=g0NVG",
-            "item": "Bull Shot Oven",
-            "timeAgo": "2026-02-07"
-          },
-          {
-            "link": "https://www.bulbhead.com/products/bull-shot-oven?utm_content=Bull-Shot-Oven-Cleaner-02082026\u0026utm_campaign=2%2F7%20New%20Product:%20Bull%20Shot%20Oven%20Cleaner\u0026utm_medium=sms\u0026utm_source=attentive\u0026externalId=g0NVG",
-            "item": "Bull Shot Oven",
-            "timeAgo": "2026-02-07"
-          },
-          {
-            "link": "https://www.bulbhead.com/products/strong-suction-cup-hooks?utm_content=Strong-Suction-Cup-Hooks-02052026-EC\u0026utm_source=Klaviyo\u0026utm_medium=blaster\u0026utm_campaign=emBLST_StrongSuctionHooks-EC\u0026utm_klaviyo_id=01JRTHXC6VRZV31BXQVC4X2BAR\u0026_kx=d-QKEVMwd0EN3RCU2S5LWQvLcqP0aKZn3vGqLhWEWOVfOlzvHXT227lYXevny_rZ.NMDWnr",
-            "item": "Strong Suction Cup Hooks (Pack of 4)",
-            "timeAgo": "2026-02-06"
-          },
-          {
-            "link": "https://www.bulbhead.com/products/strong-suction-cup-hooks?utm_content=Strong-Suction-Cup-Hooks-02052026-EC\u0026utm_source=Klaviyo\u0026utm_medium=blaster\u0026utm_campaign=emBLST_StrongSuctionHooks-EC\u0026utm_klaviyo_id=01JRTHXC6VRZV31BXQVC4X2BAR\u0026_kx=d-QKEVMwd0EN3RCU2S5LWQvLcqP0aKZn3vGqLhWEWOVfOlzvHXT227lYXevny_rZ.NMDWnr",
-            "item": "Strong Suction Cup Hooks (Pack of 4)",
-            "timeAgo": "2026-02-05"
-          }
+      ],
+      "notes": {
+        "escalate": [
+          "ESC all MyFitness pall App inquiries"
         ],
+        "dos_and_don_ts": [
+          "Don't share sale end dates with customers"
+        ]
+      },
+      "rightPanel": {
         "source": {
           "label": "Website",
-          "value": "https://bulbhead.com",
+          "value": "https://cozyearth.com",
           "date": ""
-        }
+        },
+        "browsingHistory": [
+          {
+            "item": "Bamboo Jersey Quilt",
+            "link": "https://cozyearth.com/products/bamboo-jersey-quilt?_pos=35&_sid=b69e3c5a7&_ss=r&variant=44063627477172&utm_campaign=Main-ViewAProd-BrowseAbandon-Multichannel-Purchaser-Email4&utm_source=attentive&utm_medium=email&externalId=fgHvu&attn_macro=dHJpZ2dlckV2ZW50LnByb2R1Y3QubGluaw%3D%3D&attn_pos=2&attn_lid=m12",
+            "timeAgo": "2026-02-15"
+          },
+          {
+            "item": "Bamboo Jersey Quilt",
+            "link": "https://cozyearth.com/products/bamboo-jersey-quilt?_pos=35&_sid=b69e3c5a7&_ss=r&variant=44063627477172&utm_campaign=Main-ViewAProd-BrowseAbandon-Multichannel-Purchaser-Email4&utm_source=attentive&utm_medium=email&externalId=fgHvu&attn_macro=dHJpZ2dlckV2ZW50LnByb2R1Y3QubGluaw%3D%3D&attn_pos=2&attn_lid=m12",
+            "timeAgo": "2026-02-14"
+          },
+          {
+            "item": "Bamboo Jersey Quilt",
+            "link": "https://cozyearth.com/products/bamboo-jersey-quilt?_pos=35&_sid=b69e3c5a7&_ss=r&variant=44058555613364&utm_campaign=Main-ViewAProd-BrowseAbandon-Multichannel-Purchaser-Email4&utm_source=attentive&utm_medium=email&externalId=fgHvu&attn_macro=dHJpZ2dlckV2ZW50LnByb2R1Y3QubGluaw%3D%3D&attn_pos=2&attn_lid=m12",
+            "timeAgo": "2026-02-14"
+          },
+          {
+            "item": "Bamboo Jersey Quilt",
+            "link": "https://cozyearth.com/products/bamboo-jersey-quilt?_pos=35&_sid=b69e3c5a7&_ss=r&variant=44063627608244&utm_campaign=Main-ViewAProd-BrowseAbandon-Multichannel-Purchaser-Email4&utm_source=attentive&utm_medium=email&externalId=fgHvu&attn_macro=dHJpZ2dlckV2ZW50LnByb2R1Y3QubGluaw%3D%3D&attn_pos=2&attn_lid=m12",
+            "timeAgo": "2026-02-14"
+          },
+          {
+            "item": "Bamboo Jersey Quilt",
+            "link": "https://cozyearth.com/products/bamboo-jersey-quilt?_pos=35&_sid=b69e3c5a7&_ss=r&variant=44063627509940&utm_campaign=Main-ViewAProd-BrowseAbandon-Multichannel-Purchaser-Email4&utm_source=attentive&utm_medium=email&externalId=fgHvu&attn_macro=dHJpZ2dlckV2ZW50LnByb2R1Y3QubGluaw%3D%3D&attn_pos=2&attn_lid=m12",
+            "timeAgo": "2026-02-14"
+          }
+        ],
+        "orders": [
+          {
+            "orderNumber": "1906741",
+            "orderDate": "2024-08-20",
+            "items": [
+              {
+                "name": "Bamboo Sheet Set",
+                "price": 399,
+                "productLink": "https://cozyearth2.myshopify.com/products/bamboo-sheet-set"
+              }
+            ],
+            "link": "https://cozyearth.com/21143697/orders/1ae14a2dcb66ce1ce071542408423e7f/authenticate?key=3fa19c75da2bd870db1dc1f7816400b1&none=Vw1SBVBBVw",
+            "trackingLink": "https://www.ups.com/WebTracking?loc=en_US&requester=ST&trackNums=1Z4X45760328839613",
+            "order_tracking_link": "https://www.ups.com/WebTracking?loc=en_US&requester=ST&trackNums=1Z4X45760328839613",
+            "total": 549.82,
+            "coupon": "cozyemployee",
+            "date_time": "2024-08-20 21:06:58.263"
+          }
+        ]
       },
-      "companyWebsite": "https://bulbhead.com",
-      "companyName": "BulbHead",
+      "escalation_preferences": [],
+      "blocklisted_words": [],
+      "has_shopify": true
+    },
+    "27": {
+      "id": "019c7858-1a1f-45ae-f000-0000fc8592cd",
+      "companyName": "Steve Madden",
+      "companyWebsite": "https://stevemadden.com",
+      "agentName": "Allie",
+      "messageTone": "Polished",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "Steve Madden: Welcome! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel. Privacy: attnl.tv/p/EyJ",
+          "message_type": "system",
+          "date_time": "2026-02-19 18:46:35.422"
+        },
+        {
+          "message_media": [],
+          "message_text": "Steve Madden: Welcome to Steve Madden! The holiday season is here, and it's not too late to get ready.\n\nEnjoy an exclusive 20% off ANY style, no exclusions, when you click here: http://stevemadden.io/aed0x9rTzfY5 \n\nWe love a justified purchase.",
+          "message_type": "system",
+          "date_time": "2026-02-19 18:46:39.759"
+        },
+        {
+          "message_media": [],
+          "message_text": "Steve Madden: Oh, also, a lot of people like getting personal recs from us. Over the next few days we'll try to help you find something that you will love.\n\nNeed help finding your sole-mate? Check out what's new this month to find the perfect style for this season > http://stevemadden.io/aS3UdiLgUs2y .",
+          "message_type": "system",
+          "date_time": "2026-02-19 18:47:48.570"
+        },
+        {
+          "message_media": [],
+          "message_text": "Code?",
+          "message_type": "customer",
+          "date_time": "2026-02-19 18:50:48.669"
+        },
+        {
+          "message_media": [],
+          "message_text": "Steve Madden: To subscribe to personalized marketing alerts, visit stevemadden.com and sign up for an SM Pass account. You'll receive updates on the latest promotions and offers directly to your inbox!",
+          "message_type": "agent",
+          "agent": "62551",
+          "message_id": "019c7850-706c-4c28-f000-0000fc8592cd",
+          "date_time": "2026-02-19 18:51:03.551"
+        },
+        {
+          "message_media": [],
+          "message_text": "Steve Madden: You are already subscribed. Click here to shop now: stevemadden.com.",
+          "message_type": "system",
+          "date_time": "2026-02-19 18:51:55.512"
+        },
+        {
+          "message_media": [],
+          "message_text": "Code email",
+          "message_type": "customer",
+          "date_time": "2026-02-19 18:52:28.408"
+        },
+        {
+          "message_media": [],
+          "message_text": "Steve Madden: You are already subscribed. Click here to shop now: stevemadden.com.",
+          "message_type": "system",
+          "date_time": "2026-02-19 18:53:46.387"
+        },
+        {
+          "message_media": [],
+          "message_text": "?",
+          "message_type": "customer",
+          "date_time": "2026-02-19 18:57:28.803"
+        },
+        {
+          "message_media": [],
+          "message_text": "Code",
+          "message_type": "customer",
+          "date_time": "2026-02-19 18:57:38.318"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"Pre-purchase escalations - All brands\"; last updated: 2023-10-10 17:48:28.037",
+          "message_type": "template",
+          "date_time": "2026-02-19 18:59:25.759"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"Slow reply - All brands\"; last updated: 2023-10-10 17:50:31.806",
+          "message_type": "template",
+          "date_time": "2026-02-19 18:59:25.759"
+        },
+        {
+          "message_media": [],
+          "message_text": "Steve Madden: Hi, sorry for the slow reply! I will have to double-check that with my team to be sure. As soon as I hear back, I will send you a message right away! ",
+          "message_type": "agent",
+          "agent": "109630",
+          "message_id": "019c7858-1a1f-45ae-f000-0000fc8592cd",
+          "date_time": "2026-02-19 18:59:25.763"
+        }
+      ],
       "notes": {
         "send_to_cs": [
           "No ESC for this client, send everything to CS"
         ],
         "tone": [
-          "Close the convo once the client takes over"
+          "Close the convo once the client takes over!"
         ]
       },
-      "blocklisted_words": [
-        
-      ],
-      "escalation_preferences": [
-        
-      ],
-      "messageTone": "Polished",
-      "conversation": [
-        {
-          "message_type": "system",
-          "message_text": "BulbHead: Feel better at home with our Therapeutic Heat Wraps for lower back pain that give up to 16 hours of soothing, air-activated heat to ease your lower back and hips.\n\nTime to relax: https://bulbhead.attn.tv/aHOQrDfHVjSY .",
-          "date_time": "2026-01-22 11:47:37.291",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "BulbHead: Shop Horsepower Giddy Up + blast through buildup all year long. Tap here to shop now \u003e\u003e bulbhead.attn.tv/at4KiT2Y3QXY ",
-          "date_time": "2026-01-25 12:00:41.414",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "BulbHead: Jumpstart your garden with Pocket Hose Copper Head: the #1 expanding hose in the world! Tap the link to shop now \u003e\u003e bulbhead.attn.tv/a8XsqLHbU5lf ",
-          "date_time": "2026-01-28 15:01:10.372",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "BulbHead: Our #1 best seller so far this year - for a reason. Make Horsepower Duck Vacuum your next BulbHead purchase today \u003e bulbhead.attn.tv/aqsKua6N4Njs ",
-          "date_time": "2026-02-04 12:00:27.556",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "BulbHead: Hey there, don\u0027t forget your cart! You picked out some great items, and we\u0027re sure you\u0027ll enjoy using them to make everyday tasks easier.\nReturn to cart: https://bulbhead.attn.tv/aEqtQM8gtFum\n\nNeed help? Let us know by replying with SHIPPING, GUARANTEE, RETURNS, or ASSISTANCE.",
-          "date_time": "2026-02-05 12:25:44.552",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "BulbHead: New at BulbHead: Meet Bull Shot Oven, the high performance foaming oven cleaner. Tap here to try it now \u003e\u003e bulbhead.attn.tv/anRuB5CljJNT ",
-          "date_time": "2026-02-07 12:00:41.960",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "BulbHead: Grab your Bull Shot Oven—easy, clever kitchen help waiting in your cart.\n\nBuy here: https://bulbhead.attn.tv/acAgAALV6uJf .",
-          "date_time": "2026-02-07 12:31:58.157",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "BulbHead: Hi there, check out clever cleaning tools like the Horsepower Duck Vacuum that make chores quicker.\n\nPlus free shipping on orders $49+.\n\nBuy here: https://bulbhead.attn.tv/aLwV__41FtrX .",
-          "date_time": "2026-02-07 13:32:06.505",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "BulbHead: Get up to 3x MORE closet space with Ruby Space Triangles! Our customers love it, tap here to see why \u003e\u003e bulbhead.attn.tv/akFrCeiRd1U_ ",
-          "date_time": "2026-02-11 15:00:55.788",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "BulbHead: Presidents\u0027 Day Sale starts NOW! Take 15% off sitewide this weekend only with code PRESIDENT15. Tap to shop now \u003e bulbhead.attn.tv/a4phGbBSd4Am",
-          "date_time": "2026-02-14 15:03:34.616",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "BulbHead: Grab the Lizard Flare Light—12 bright LEDs, magnet mount, 360° visibility, and 8 safety light modes to boost your gear.\n\nShop now: https://bulbhead.attn.tv/aItGPYSb2Dpv .",
-          "date_time": "2026-02-15 04:25:40.389",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "BulbHead: Hi — spotted you checking out outdoor gadgets that make yard tasks simpler and more fun.\n\nFree shipping on orders $49+.\n\nGrab it here: https://bulbhead.attn.tv/aIOF40SAk_vO .",
-          "date_time": "2026-02-15 05:25:52.037",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "BulbHead: Hi — thanks for visiting BulbHead!\n\nFind clever kitchen/bathroom gear for easier days: https://bulbhead.attn.tv/ak-DHu5daZDg .",
-          "date_time": "2026-02-15 13:42:20.290",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "BulbHead: Grab your BattleVision Polarized Anti-Glare Glasses—polarized lenses cut glare, boost color, and flex tough for all-day comfort.\n\nShop now: https://bulbhead.attn.tv/a8pkj0t412H6 .",
-          "date_time": "2026-02-16 09:25:22.024",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "BulbHead: Hi — check out those clever hands-free kitchen/bathroom gadgets with easy setup and bright trickery.\n\nGet free shipping on orders $49+.\n\nTake a look: https://bulbhead.attn.tv/aq1mPwDkOcvO .",
-          "date_time": "2026-02-16 10:25:34.958",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "BulbHead: Extended 1 Day ONLY: Shop our Presidents\u0027 Day sale and save 15% SITEWIDE! Use code PRESIDENT15 until midnight tonight \u003e\u003e bulbhead.attn.tv/a6xSb-96PvxG",
-          "date_time": "2026-02-17 15:01:13.737",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "BulbHead: Thank you for your repeat purchase! We\u0027re committed to bringing you even more smart solutions in the future!",
-          "date_time": "2026-02-18 12:07:37.122",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "Well thx but I\u0027m a little upset bc AI Al or whoever told me he cdnt give me the 15% president15 discount the same day I ordered. I want to talk to a human who has understanding, common sense and empathy and mostly customer relations and retention. Otherwise I will return my order and order from a competitor. I\u0027d be sorry to have to do that bc I be liked your company since I first knew abt you, but you need to meet me somewhere. Thank you!",
-          "date_time": "2026-02-19 19:42:46.616",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c7883-c202-4c2a-f000-0000be1fa438",
-          "message_text": "BulbHead: Thanks for reaching out, and I\u0027m sorry for the inconvenience this had caused! Surely, it\u0027s not the experience we wanted you to have. Rest assured, I am a real person on the other end of the line. I completely understand how that situation could be confusing, and I truly appreciate your patience. I checked your order carefully, and it looks like the PRESIDENT15 discount was successfully applied at checkout.\n\nPlease let me know how I can assist you further today, I\u0027m just a text away!",
-          "message_type": "agent",
-          "agent": "109617",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-19 19:47:06.784"
-        }
-      ]
-    },
-    "29": {
-      "agentName": "Sarah",
-      "id": "019c53b1-252a-4a2f-f000-00002de7efa4",
       "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://stevemadden.com",
+          "date": ""
+        },
         "browsingHistory": [
           {
-            "link": "https://www.igloocoolers.com/products/snoopy-house-lunch-pail?utm_term=10047485\u0026utm_campaign=SMS_back_in_stock_1\u0026utm_medium=sms\u0026utm_content=MARKETING\u0026utm_source=attentive\u0026externalId=A7WaK",
-            "item": "Snoopy’s House 16-Can Lunch Pail",
-            "timeAgo": "2026-02-12"
-          },
-          {
-            "link": "https://www.igloocoolers.com/products/snoopy-house-lunch-pail",
-            "item": "Snoopy’s House 16-Can Lunch Pail",
-            "timeAgo": "2026-01-28"
-          },
-          {
-            "link": "https://www.igloocoolers.com/products/snoopy-disco-party-dual-compartment-tote-cooler-bag",
-            "item": "Snoopy Disco Party Dual Compartment Tote Cooler Bag",
-            "timeAgo": "2026-01-22"
-          },
-          {
-            "link": "https://www.igloocoolers.com/products/snoopy-disco-party-square-lunch-cooler-bag",
-            "item": "Snoopy Disco Party Square Lunch Cooler Bag",
-            "timeAgo": "2026-01-22"
-          },
-          {
-            "link": "https://www.igloocoolers.com/products/snoopy-house-lunch-pail",
-            "item": "Snoopy’s House 16-Can Lunch Pail",
-            "timeAgo": "2026-01-22"
+            "item": "POSSESSION PIERCING WHITE - WHITE / 6.5 / 002",
+            "link": "https://www.stevemadden.com/products/possession-p-white?variant=41200386605189",
+            "timeAgo": "2026-02-19"
           }
-        ],
-        "source": {
-          "label": "Website",
-          "value": "https://igloocoolers.com",
-          "date": ""
-        }
-      },
-      "companyWebsite": "https://igloocoolers.com",
-      "companyName": "Igloo",
-      "notes": {
-        "send_to_cs": [
-          "Send to CS for legal and fraud related inquires",
-          "Send to CS for product safety inquires and threats",
-          "Send to CS for website technical issues"
-        ],
-        "escalate": [
-          "ESC if cx claims bodily injury as result of a product",
-          "ESC if cx highlights dangers to health/safety as a result of product"
-        ],
-        "templates": [
-          "For all post-purchase \u0026 warranty inquiries use \"SUPPORT\" temp (SPT)",
-          "For discount code issues use \"SUPPORT\" temp (SPT)",
-          "For product info that you can\u0027t find on the site use \"SUPPORT\" temp (SPT)",
-          "If cx reach out about 90 qt cooler recall, use shortcut RCC",
-          "For custom order cancellation and edit requests, don\u0027t use CED, use the designated templates instead"
         ]
       },
-      "blocklisted_words": [
-        
-      ],
       "escalation_preferences": [
+        "Discount code errors",
         "Exchanges and returns",
-        "warranty",
-        "broken product claims",
-        "parts",
-        "missing shipment",
-        "leaks"
+        "Shipping questions"
       ],
+      "blocklisted_words": [
+        "ma'am",
+        "maam",
+        "knock-off",
+        "Gucci",
+        "Prada",
+        "Bottega",
+        "Versace",
+        "dupe"
+      ],
+      "has_shopify": true
+    },
+    "28": {
+      "id": "019c6e2c-daee-4641-f000-00006c44afad",
+      "companyName": "Kathy Kuo Home",
+      "companyWebsite": "https://kathykuohome.com",
+      "agentName": "Sarah",
       "messageTone": "Polished",
       "conversation": [
         {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Our Winter Sale is officially here! 20% Off + Free Shipping on timeless pieces to refresh for the year ahead: kathykuohome.attn.tv/a_pFU6Zp9VKB . ",
           "message_type": "system",
-          "message_text": "Igloo: Welcome to Igloo! Msg \u0026 data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
-          "date_time": "2026-01-21 20:48:18.624",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-01-19 12:06:06.447"
         },
         {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Last day to shop the Winter Sale! Thoughtfully designed pieces, 20% Off, a beautiful way to refresh your home: kathykuohome.attn.tv/arREnIIlKxz7 . ",
           "message_type": "system",
-          "message_text": "Igloo: WE\u0027RE SO HAPPY YOU\u0027RE ALONG FOR THE RIDE! You will be the first to get access to new drops, sales and all the coolest stuff! \n\nBrowse our site: igloo.attn.tv/aXJRkUYYESKN\n\nHave a question? Text back anytime to reach our live concierge team.",
-          "date_time": "2026-01-21 20:48:22.079",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-01-21 12:05:33.778"
         },
         {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Shopping our Winter Sale? Final hours end tonight! Don't miss special savings on timeless furniture and decor: kathykuohome.attn.tv/atVjWIftVnm6 ",
           "message_type": "system",
-          "message_text": "Igloo: It\u0027s not every day that you find the perfect cooler. Make the Snoopy Disco Party Square Lunch Cooler Bag all\nyours before it\u0027s too late. igloo.attn.tv/aRx9hFWEpFuT\n",
-          "date_time": "2026-01-22 15:32:53.233",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-01-21 19:00:50.448"
         },
         {
+          "message_media": [],
+          "message_text": "Kathy Kuo: A room starts with walls. Our all-new wallpaper collection brings depth, history, and intention to every space: kathykuohome.attn.tv/aQ7rj3VXdupP . ",
           "message_type": "system",
-          "message_text": "Igloo: You know what\u0027s cool? Everything on our site! You know what\u0027s not so cool? Letting your 10% off expire! igloo.attn.tv/aN2kSQeCB3cF\n",
-          "date_time": "2026-01-22 20:48:31.940",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-01-23 15:35:37.300"
         },
         {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Insiders only! Enjoy 20% Off + Free Standard Shipping on styles you love with code JAN26: kathykuohome.attn.tv/a1FNgwfncFB- \n\nExclusions apply. ",
           "message_type": "system",
-          "message_text": "Igloo: Cooler conversation hearts for Valentine\u0027s Day. This is the perfect Sweethearts® Candies collab 4U + UR BFF.\n\nShop Now: igloo.attn.tv/aBQGaUg2xocF ",
-          "date_time": "2026-01-27 14:44:18.340",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-01-26 12:30:32.279"
         },
         {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Just for you! Enjoy 20% Off + Free Shipping on ready-to-ship looks for your next home refresh. Use code JAN26: kathykuohome.attn.tv/aJ_64vQzmPTO . ",
           "message_type": "system",
-          "message_text": "Igloo: Bulbasaur, Charmander, Squirtle, Pikachu \u0026 the Poké Ball......Click through for cooler Pokémon adventures.\n\nShop Now: igloo.attn.tv/ankqLwCfwpPN ",
-          "date_time": "2026-01-29 12:35:06.902",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-01-27 13:01:20.582"
         },
         {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Reminder that today's the last day to take 20% off + enjoy FREE shipping with code JAN26. Shop the sale: kathykuohome.attn.tv/aysr9TM1wCpP . ",
           "message_type": "system",
-          "message_text": "Igloo: Get 20% off 3+ select items for a cooler, sweeter Valentine\u0027s Day! Eligible products only. \n\nShop Now: igloo.attn.tv/avEP9QDI8Dy6 ",
-          "date_time": "2026-02-02 21:35:08.109",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-01-28 12:30:26.808"
         },
         {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Limited time drop! Rare one-of-a-kind antiques add history to the home. Shop now before they're gone: kathykuohome.attn.tv/ajxZ5C_zyCEm . ",
           "message_type": "system",
-          "message_text": "Igloo: Black \u0026 purple with a hint of magic \u0026 a glimpse of Baku, this Kuromi Collection is as unique as she is.\n\nShop Now: igloo.attn.tv/a1QEX9A_al9E ",
-          "date_time": "2026-02-04 11:55:07.341",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-05 15:15:31.855"
         },
         {
+          "message_media": [],
+          "message_text": "Kathy Kuo: President's Day deals are here early! Up to 25% Off + Free Shipping on statement styles for a spring refresh: kathykuohome.attn.tv/aQQS_wmzV0Nf . ",
           "message_type": "system",
-          "message_text": "Igloo: The coolest Sunday is here \u0026 we have the NFL Lineup for the coolest fans. Snatch these NFL coolers!\n\nShop Now: igloo.attn.tv/a2qhoxRG8i7n ",
-          "date_time": "2026-02-08 12:45:10.285",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-09 12:15:33.875"
         },
         {
+          "message_media": [],
+          "message_text": "Kathy Kuo: You are already subscribed. Click here to shop now: https://kathykuohome.attn.tv/cl/fXp .",
           "message_type": "system",
-          "message_text": "Igloo: A utile Batman cooler \u0026 drinkware collection honoring the fearless, justice-seeking DC Super Hero.\n\nShop Now: igloo.attn.tv/a7rtRnviT92q ",
-          "date_time": "2026-02-12 12:15:15.667",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-10 12:31:47.351"
         },
         {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Great news! We dropped the price on our Indigo Rustic Lodge Natural Brown Pine Wood 3 Drawer Dresser! Get the look you love before it goes: kathykuohome.attn.tv/ax-vuQgc1JEu .",
           "message_type": "system",
-          "message_text": "Igloo: Amazing news! Snoopy’s House 16-Can Lunch Pail you were looking at is now back in stock! Click here before it\u0027s too late! igloo.attn.tv/aHF6KFlgRZEn .\n\nDo you have any questions? Let us know! ",
-          "date_time": "2026-02-12 15:36:00.252",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-10 13:28:36.693"
         },
         {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Hey there, this is Sarah. Thanks for checking out our site! https://kathykuohome.attn.tv/a138Y4uzPx5g . Are you working on a home design project we can help you with?",
           "message_type": "system",
-          "message_text": "Igloo: Very cool: Snoopy’s House 16-Can Lunch Pail! \nNot cool: Missing out on your perfect cooler. So, complete your purchase here: igloo.attn.tv/aQDSCjX2Y9mB\n\nText back if you have any questions!",
-          "date_time": "2026-02-12 15:59:06.564",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-10 13:37:37.859"
         },
         {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Got your eye on this? We love it too! Shop the perfect piece for your home: kathykuohome.attn.tv/afPG1D7eNXGj .",
+          "message_type": "system",
+          "date_time": "2026-02-10 15:36:12.539"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: New President's Day deals just dropped! Don't miss our deepest savings of the season on furniture, decor & more: kathykuohome.attn.tv/ao7AYuYl3-SD . ",
+          "message_type": "system",
+          "date_time": "2026-02-12 15:15:50.198"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: You can save up to 25% Off on in-stock furniture styles, custom pieces and more this President's Day weekend: kathykuohome.attn.tv/avSZqSMyb-gX . ",
+          "message_type": "system",
+          "date_time": "2026-02-13 13:01:30.732"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Got your eye on this? We love it too! Shop the perfect piece for your home: kathykuohome.attn.tv/aul2h4cMXT6L .",
+          "message_type": "system",
+          "date_time": "2026-02-13 15:09:34.149"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Damask in red. Velvet in blue. Beautiful rooms start with pieces chosen by you.\n\nUp to 25% Off this weekend: kathykuohome.attn.tv/aB45J3V9QoUo . ",
+          "message_type": "system",
+          "date_time": "2026-02-14 12:01:16.831"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Dreaming of warmer weather? February is the month to order outdoor furniture in time for spring and Memorial Day celebrations. Shop up to 25% Off: kathykuohome.attn.tv/aXue81NBKx6V . ",
+          "message_type": "system",
+          "date_time": "2026-02-15 15:00:53.567"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: President's Day Sale ends soon! Save on your next home refresh with up to 25% Off furniture, decor & more: kathykuohome.attn.tv/a7RLh4QoAarp . ",
+          "message_type": "system",
+          "date_time": "2026-02-16 12:02:16.838"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Thanks for stopping by! We hope you got the chance to check out our bestsellers, designed to elevate your home with everyday comfort and soulful style. \n\nShop Bestsellers: https://kathykuohome.attn.tv/a_Nr5J-YqaOJ . ",
+          "message_type": "system",
+          "date_time": "2026-02-16 14:01:22.804"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Still thinking about it? President's Day deals end soon! Don't forget to use code PREZPERK for free standard shipping on orders over $1,500. Finish your purchase: kathykuohome.attn.tv/akMxcxgXqJQz . ",
+          "message_type": "system",
+          "date_time": "2026-02-16 19:35:15.867"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Last day to save! Up to 25% Off President's Day savings on furniture styles you love. Shop before it ends: kathykuohome.attn.tv/apgPfB1wfy5_ . ",
+          "message_type": "system",
+          "date_time": "2026-02-17 12:01:31.876"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Hey there, this is Sarah. Thanks for checking out our site! https://kathykuohome.attn.tv/ahQeHviroS_T . Are you working on a home design project we can help you with?",
+          "message_type": "system",
+          "date_time": "2026-02-17 14:26:08.609"
+        },
+        {
+          "message_media": [],
+          "message_text": "I requested two samples and only received one.",
           "message_type": "customer",
-          "message_text": "Thank you but I actually bought thru Amazon.",
-          "date_time": "2026-02-12 16:01:45.504",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-17 14:57:34.043"
         },
         {
-          "message_id": "019c53ac-3eda-4ab8-f000-00002de7efa4",
-          "message_text": "Igloo: No worries at all, and I completely understand. If anything else comes up or if there\u0027s ever anything you need, I\u0027m always here and happy to help.",
+          "message_media": [],
+          "message_text": "Kathy Kuo: Thank you for reaching out. I'm sorry about that. I will check this out with our team and see what happened. Can I please have your email address? ",
           "message_type": "agent",
-          "agent": "87589",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-12 16:05:23.199"
+          "agent": "48804",
+          "message_id": "019c6d2f-80d9-444e-f000-00006c44afad",
+          "date_time": "2026-02-17 14:59:15.704"
         },
         {
+          "message_media": [],
+          "message_text": "twoualstew@aol.com",
           "message_type": "customer",
-          "message_text": "Thank you! 😁",
-          "date_time": "2026-02-12 16:06:24.247",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-17 14:59:53.934"
         },
         {
-          "message_id": "019c53b1-252a-4a2f-f000-00002de7efa4",
-          "message_text": "Igloo: My pleasure! Have a good day!",
+          "message_media": [],
+          "message_text": "Sample received. Did not receive the \"natural\" one.",
+          "message_type": "customer",
+          "date_time": "2026-02-17 15:00:43.637"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Thank you for sending me your photo. Thank you for the information. I have already sent your concern to our team. Make sure to check your SMS for updates. I'll be in touch!",
           "message_type": "agent",
-          "agent": "87295",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-12 16:10:44.296"
+          "agent": "48804",
+          "message_id": "019c6d32-3f8f-413f-f000-00006c44afad",
+          "date_time": "2026-02-17 15:02:15.590"
+        },
+        {
+          "message_media": [],
+          "message_text": "Thank you!",
+          "message_type": "customer",
+          "date_time": "2026-02-17 15:35:09.690"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: No worries. Once I hear a word from our team, I will let you know. Please hang tight!",
+          "message_type": "agent",
+          "agent": "48804",
+          "message_id": "019c6d51-3717-49bd-f000-00006c44afad",
+          "date_time": "2026-02-17 15:36:05.061"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: The pieces you've been eyeing are still on sale, but not for long! Up to 25% off + free shipping ends at midnight: kathykuohome.attn.tv/ao1UjGUJedjM ",
+          "message_type": "system",
+          "date_time": "2026-02-17 19:00:37.683"
+        },
+        {
+          "message_media": [],
+          "message_text": "Is the free shipping off furniture items such as the dressers and sideboard I'm interested in?",
+          "message_type": "customer",
+          "date_time": "2026-02-17 19:25:08.171"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: The free shipping applies to orders $1500 and above. Just use the code PREZPERK. Let me know if you're having issues applying the code. ",
+          "message_type": "agent",
+          "agent": "31385",
+          "message_id": "019c6e27-4e6b-4d27-f000-00006c44afad",
+          "date_time": "2026-02-17 19:29:55.723"
+        },
+        {
+          "message_media": [],
+          "message_text": "For all furniture though?",
+          "message_type": "customer",
+          "date_time": "2026-02-17 19:34:28.320"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Yes, as long as your order meets the required minimum purchase of $1500. ",
+          "message_type": "agent",
+          "agent": "87310",
+          "message_id": "019c6e2c-daee-4641-f000-00006c44afad",
+          "date_time": "2026-02-17 19:35:59.369"
         }
-      ]
-    },
-    "30": {
-      "agentName": "Fin",
-      "id": "019c6906-94cb-453b-f000-0000f0ebaf72",
+      ],
+      "notes": {
+        "escalate": [
+          "Esc inquiries about items not on the site",
+          "ESC if the cx missed a sale & wants to take advantage of it",
+          "ESC if the customer is asking for a discount and we don't have one",
+          "If cx is looking for general recommendations use LFR shortcut and ESC"
+        ],
+        "templates": [
+          "If cx is building a new home, interested in refurnishing their entire home or rooms in their home, use the IDS shortcut",
+          "If cx is shopping for a client use SFC shortcut",
+          "Any convo without a positive outcome (out of stock, not on sale, not shipping in time), use DSS shortcut"
+        ],
+        "dos_and_don_ts": [
+          "For product-specific delivery time-frame inquiries always check the product page for delivery info and share that with the cx"
+        ]
+      },
       "rightPanel": {
         "source": {
           "label": "Website",
-          "value": "https://hopwtr.com",
+          "value": "https://kathykuohome.com",
           "date": ""
-        }
+        },
+        "browsingHistory": [
+          {
+            "item": "Calypso Updated Traditional Whitewash Oak Bobbin Dresser",
+            "link": "https://www.kathykuohome.com/Product/Detail/146954-Calypso-Updated-Traditional-Whitewash-Oak-Bobbin-Dresser",
+            "timeAgo": "2026-02-17"
+          },
+          {
+            "item": "Calypso Updated Traditional Whitewash Oak Bobbin Sideboard",
+            "link": "https://www.kathykuohome.com/Product/Detail/168072-Calypso-Updated-Traditional-Whitewash-Oak-Bobbin-Sideboard",
+            "timeAgo": "2026-02-17"
+          },
+          {
+            "item": "Calypso Updated Traditional Whitewash Oak Bobbin Dresser",
+            "link": "https://www.kathykuohome.com/Product/Detail/146954-Calypso-Updated-Traditional-Whitewash-Oak-Bobbin-Dresser",
+            "timeAgo": "2026-02-17"
+          }
+        ]
       },
-      "companyWebsite": "https://hopwtr.com",
-      "companyName": "HOP WTR",
-      "notes": {
-        
-      },
-      "blocklisted_words": [
-        
-      ],
       "escalation_preferences": [
+        "Shipping questions",
         "Discount code errors",
-        "Exchanges and returns"
+        "Exchanges and returns",
+        "Lead time questions",
+        "Stock questions",
+        "Price matching",
+        "Angry or dissatisfied customer"
       ],
+      "blocklisted_words": [],
+      "has_shopify": false
+    },
+    "29": {
+      "id": "019c634d-4da1-4d08-f000-00002c8a3a1a",
+      "companyName": "LANEIGE",
+      "companyWebsite": "https://us.laneige.com",
+      "agentName": "Taylor",
       "messageTone": "Casual",
       "conversation": [
         {
+          "message_media": [],
+          "message_text": "LANEIGE: Hey Lisa, this is Taylor. Thanks for checking out our site! https://laneige.attn.tv/acsiXtnceweQ .\n\nDid you have questions about this fan fave product? Let me know and I can help answer.",
           "message_type": "system",
-          "message_text": "HOPWTR: Finish Dry January with a bang! \n\nUse code LOCKEDIN40 for 40% off, but hurry, this deal won\u0027t last.\n\nhopwtr.attn.tv/aPdtgMg1KgZf",
-          "date_time": "2026-01-28 17:50:14.385",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-08 19:55:44.287"
         },
         {
+          "message_media": [],
+          "message_text": "LANEIGE: FREE Lunar New Year gift! Choose your serum with orders $100+. \nSHOP NOW: laneige.attn.tv/aEcLz2g1LM1o .",
           "message_type": "system",
-          "message_text": "HOPWTR: Last chance: 40% off ends tonight\n\nUse code LOCKEDIN40 and finish Dry January strong!\n\nhopwtr.attn.tv/apV4QjHHkIem ",
-          "date_time": "2026-01-30 19:15:09.664",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-10 13:01:20.176"
         },
         {
+          "message_media": [],
+          "message_text": "LANEIGE: Score an exclusive mirror keychain gift with purchase of any 2 JuicePop Box Lip Tints!\nSHOP NOW: laneige.attn.tv/a_IZCwn0asZE .",
           "message_type": "system",
-          "message_text": "HOPWTR: Just for today only! Don\u0027t let this deal slip away.\n\nUse checkout code VIP30 to grab this mega deal.\n\nhttps://hopwtr.attn.tv/aV_AN1evGVOi \n\nCheers 🍻",
-          "date_time": "2026-01-31 15:53:49.707",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-12 11:00:52.937"
         },
         {
+          "message_media": [],
+          "message_text": "LANEIGE: This Valentine's Day, treat yourself to bonus skincare with orders $60+ and $85+! \nSHOP NOW: laneige.attn.tv/awhknoEyrFI0 .",
           "message_type": "system",
-          "message_text": "HOPWTR: Your Super Bowl weekend deal is here! Score 30% off before kickoff!\n\nhopwtr.attn.tv/aFO9Fk0AdVsz \n\nBe the MVP!\n\n \n\n",
-          "date_time": "2026-02-06 18:10:12.832",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-14 12:01:12.226"
         },
         {
-          "message_type": "system",
-          "message_text": "HOPWTR: Hi, thanks for visiting us!\n\nTry a hoppy, alcohol-free sip: https://hopwtr.attn.tv/ahT1D75TtBqQ .",
-          "date_time": "2026-02-07 13:18:57.217",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "HOPWTR: Last chance for 40% off both one-time and first subscription orders!\n\nhopwtr.attn.tv/aIxQTh-KH0Ak \n\n*Discount auto-applied at checkout*",
-          "date_time": "2026-02-16 13:20:32.917",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "HOPWTR: Hey — thanks for stopping by!\n\nSip something hoppy: https://hopwtr.attn.tv/auOkaCFKwg8X .",
-          "date_time": "2026-02-16 19:03:30.725",
-          "message_media": [
-            
-          ]
-        },
-        {
+          "message_media": [],
+          "message_text": "(attn) Hey, I need help with something: finding the whole line on perfect renew, you only carry 3 items. I need the others",
           "message_type": "customer",
-          "message_text": "I have tried several times to navigate your links with zero success. I wrote you with complaints about this and heard nothing back. Love yr product. But your customer service and site design need help.",
-          "date_time": "2026-02-16 19:20:50.273",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-15 16:48:10.979"
         },
         {
-          "message_type": "template",
-          "message_text": "Template used: \"Feedback 2 - All brands\"; last updated: 2023-10-10 18:04:00.299",
-          "date_time": "2026-02-16 19:36:04.968",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c6906-94cb-453b-f000-0000f0ebaf72",
-          "message_text": "HOPWTR: Thanks for reaching out, and I\u0027m really sorry to hear that, it\u0027s not the experience we wanted you to have with us. Could you please let me know more regarding your concern? In any case, I appreciate you taking the time to give us feedback. We want to make sure we keep our loyal customers happy with our products, and I will definitely pass this on to my team to consider in the future. \n\nPlease let me know how I can assist you further today, I\u0027m just a text away!",
+          "message_media": [],
+          "message_text": "LANEIGE: Yes, I'm afraid those are the only products in the collection at the moment: https://laneige.attn.tv/aKdpiM8hCSwM Let me know if you decide to go for them! I'm here if there's anything else that I can help with. ",
           "message_type": "agent",
-          "agent": "109617",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-16 19:36:04.970"
+          "agent": "50271",
+          "message_id": "019c6349-5359-42de-f000-00002c8a3a1a",
+          "date_time": "2026-02-15 16:51:15.828"
+        },
+        {
+          "message_media": [],
+          "message_text": "Where can I buy them? I have the three and love them. But honestly, am I getting the same benefits as others that have the other products to use. These items aren't cheap so why would I keep purchasing something? I can't have the full skin care line in.",
+          "message_type": "customer",
+          "date_time": "2026-02-15 16:52:50.758"
+        },
+        {
+          "message_media": [],
+          "message_text": "LANEIGE: I completely understand your concern. At the moment, we only carry three items from the Perfect Renew collection. Even with just these three, you're still getting the core benefits of the Perfect Renew range - advanced anti-aging care, hydration, and skin vitality. Many customers choose to build their routine around these essentials and see great results.",
+          "message_type": "agent",
+          "agent": "109972",
+          "message_id": "019c634d-4da1-4d08-f000-00002c8a3a1a",
+          "date_time": "2026-02-15 16:55:36.504"
         }
-      ]
+      ],
+      "notes": {
+        "send_to_cs": [
+          "Send to CS for any order related inquiries"
+        ],
+        "promo_and_promo_exclusions": [
+          "Free gift with purchase codes are entered in the cart and discount codes at checkout"
+        ]
+      },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://us.laneige.com",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "Perfect Renew 3X Signature Serum - 40mL",
+            "link": "https://us.laneige.com/products/perfect-renew-3x-signature-serum?externalId=VuWf1",
+            "timeAgo": "2025-10-28"
+          },
+          {
+            "item": "Plump & Hydrate Trio",
+            "link": "https://us.laneige.com/products/plump-hydrate-trio",
+            "timeAgo": "2025-06-09"
+          },
+          {
+            "item": "Plump & Hydrate Trio",
+            "link": "https://us.laneige.com/products/plump-hydrate-trio",
+            "timeAgo": "2025-06-09"
+          },
+          {
+            "item": "Perfect Renew 3x Cream Advanced",
+            "link": "https://us.laneige.com/products/perfect-renew-3x-cream-advanced",
+            "timeAgo": "2025-06-09"
+          },
+          {
+            "item": "Perfect Renew Nourishing Oil-to-Foam Cleanser",
+            "link": "https://us.laneige.com/products/perfect-renew-nourishing-oil-to-foam-cleanser",
+            "timeAgo": "2025-06-09"
+          }
+        ]
+      },
+      "escalation_preferences": [],
+      "blocklisted_words": [],
+      "has_shopify": true
+    },
+    "30": {
+      "id": "019c599d-9d83-4190-f000-00004895e33d",
+      "companyName": "LANEIGE",
+      "companyWebsite": "https://us.laneige.com",
+      "agentName": "Taylor",
+      "messageTone": "Casual",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "LANEIGE: It looks like you forgot some goodies in your cart...complete your checkout today: laneige.attn.tv/a5Qu-7Lw5JqA\n\nText back if you have any questions!",
+          "message_type": "system",
+          "date_time": "2026-01-15 11:54:26.500"
+        },
+        {
+          "message_media": [],
+          "message_text": "LANEIGE: Soothing, nourishing skincare essentials, FREE on orders $60+ and $90+.\nSHOP NOW: laneige.attn.tv/a9mDmB4pHRH7 .",
+          "message_type": "system",
+          "date_time": "2026-01-18 18:00:23.780"
+        },
+        {
+          "message_media": [],
+          "message_text": "LANEIGE: It looks like you forgot some goodies in your cart...complete your checkout today: laneige.attn.tv/aUbQPmV6_Qd-\n\nText back if you have any questions!",
+          "message_type": "system",
+          "date_time": "2026-01-22 11:24:50.751"
+        },
+        {
+          "message_media": [],
+          "message_text": "LANEIGE: Almost gone! FREE Laneige headband with orders $55+ with code DEWY.\nSIGN IN TO REDEEM: laneige.attn.tv/aCb9V_FoDuc5 .",
+          "message_type": "system",
+          "date_time": "2026-01-23 12:30:52.717"
+        },
+        {
+          "message_media": [],
+          "message_text": "LANEIGE: Lasting color. Moisture on repeat. 8 buildable, music-inspired shades. \nSHOP NOW: laneige.attn.tv/aNYovNWuPEoW .\n",
+          "message_type": "system",
+          "date_time": "2026-01-27 11:06:05.590"
+        },
+        {
+          "message_media": [],
+          "message_text": "LANEIGE: Turn up the tint with Katseye! JuicePop Box Lip Tint x Katseye - our most eyekonic collab yet.\nSHOP NOW: laneige.attn.tv/aqHzC1HOqqsW .",
+          "message_type": "system",
+          "date_time": "2026-01-30 12:12:14.936"
+        },
+        {
+          "message_media": [],
+          "message_text": "LANEIGE: It looks like you forgot some goodies in your cart...complete your checkout today: laneige.attn.tv/auFQn_14uBP5\n\nText back if you have any questions!",
+          "message_type": "system",
+          "date_time": "2026-02-01 12:41:49.155"
+        },
+        {
+          "message_media": [],
+          "message_text": "LANEIGE: Get our K-beauty duo for blurred skin & glassy lips, perfect for touch-ups wherever you go! \nSHOP NOW: laneige.attn.tv/azo-AtgevOGa .",
+          "message_type": "system",
+          "date_time": "2026-02-03 13:07:07.192"
+        },
+        {
+          "message_media": [],
+          "message_text": "LANEIGE: Your perfect 2-step routine for hydrated glass skin!\nSHOP NOW: laneige.attn.tv/aG74Wb4OJ1Oc .",
+          "message_type": "system",
+          "date_time": "2026-02-05 12:02:01.617"
+        },
+        {
+          "message_media": [],
+          "message_text": "LANEIGE: Build your custom lip duo! Pick 2 products, save 20% and score a bonus pink pouch.\nSHOP NOW: laneige.attn.tv/a8aNAsr-CfwF ",
+          "message_type": "system",
+          "date_time": "2026-02-07 14:02:07.207"
+        },
+        {
+          "message_media": [],
+          "message_text": "LANEIGE: FREE Lunar New Year gift! Choose your serum with orders $100+. \nSHOP NOW: laneige.attn.tv/aDSNPPTKIsms .",
+          "message_type": "system",
+          "date_time": "2026-02-10 13:03:34.076"
+        },
+        {
+          "message_media": [],
+          "message_text": "LANEIGE: Score an exclusive mirror keychain gift with purchase of any 2 JuicePop Box Lip Tints!\nSHOP NOW: laneige.attn.tv/a7ygp6SxoOAt .",
+          "message_type": "system",
+          "date_time": "2026-02-12 11:02:16.627"
+        },
+        {
+          "message_media": [],
+          "message_text": "What is the v fee lunar gift serum sizes",
+          "message_type": "customer",
+          "date_time": "2026-02-13 12:34:06.313"
+        },
+        {
+          "message_media": [],
+          "message_text": "LANEIGE: The Lunar New Year promotion offers a choice of a full-size serum with orders $100+: B&F Serum, Perfect Renew Serum 20ml, or Water Bank Serum. Visit us.laneige.com to take advantage of this offer!",
+          "message_type": "agent",
+          "agent": "62551",
+          "message_id": "019c5811-7ec3-457e-f000-00004895e33d",
+          "date_time": "2026-02-13 12:34:27.546"
+        },
+        {
+          "message_media": [],
+          "message_text": "Bouncy and firm and water bank serum are full sizes",
+          "message_type": "customer",
+          "date_time": "2026-02-13 12:39:41.848"
+        },
+        {
+          "message_media": [],
+          "message_text": "LANEIGE: Yes, the Bouncy & Firm Serum and Water Bank Serum are available in full sizes. Check them out here: \nBouncy & Firm Serum: https://laneige.attn.tv/aHMX2PIzmEyF\nWater Bank Serum: https://laneige.attn.tv/aQVL8W-pTajW",
+          "message_type": "agent",
+          "agent": "62551",
+          "message_id": "019c5816-a0eb-4b09-f000-00004895e33d",
+          "date_time": "2026-02-13 12:40:03.969"
+        },
+        {
+          "message_media": [],
+          "message_text": "Which is better water aqua facial or the exfoliating toner",
+          "message_type": "customer",
+          "date_time": "2026-02-13 12:40:11.939"
+        },
+        {
+          "message_media": [],
+          "message_text": "LANEIGE: Both products are great! The Water Bank Aqua Facial provides deep hydration, while the Exfoliating Toner gently removes dead skin cells. Choose based on your skin's needs.",
+          "message_type": "agent",
+          "agent": "62551",
+          "message_id": "019c5817-1951-4cf6-f000-00004895e33d",
+          "date_time": "2026-02-13 12:40:34.786"
+        },
+        {
+          "message_media": [],
+          "message_text": "I thought the water bank aqua also exfoliate though",
+          "message_type": "customer",
+          "date_time": "2026-02-13 12:41:22.167"
+        },
+        {
+          "message_media": [],
+          "message_text": "LANEIGE: The Water Bank Aqua Facial hydrates and revitalizes the skin, while the Exfoliating Toner focuses on removing dead skin cells. Both offer unique benefits for your skincare routine.",
+          "message_type": "agent",
+          "agent": "62551",
+          "message_id": "019c5818-13ad-4f7f-f000-00004895e33d",
+          "date_time": "2026-02-13 12:41:38.889"
+        },
+        {
+          "message_media": [],
+          "message_text": "Which is great for dry skin",
+          "message_type": "customer",
+          "date_time": "2026-02-13 12:42:21.863"
+        },
+        {
+          "message_media": [],
+          "message_text": "And oily",
+          "message_type": "customer",
+          "date_time": "2026-02-13 12:42:29.834"
+        },
+        {
+          "message_media": [],
+          "message_text": "LANEIGE: For dry skin, the Water Bank Aqua Facial is ideal for hydration. For oily skin, the Exfoliating Toner helps control excess oil and remove dead skin cells.",
+          "message_type": "agent",
+          "agent": "62551",
+          "message_id": "019c5819-2ee8-434b-f000-00004895e33d",
+          "date_time": "2026-02-13 12:42:51.384"
+        },
+        {
+          "message_media": [],
+          "message_text": "I wanted to cancel the order since I placed it yesterday.  I also had trouble  messaging you guys about my email I received about expiring points",
+          "message_type": "customer",
+          "date_time": "2026-02-13 17:06:24.707"
+        },
+        {
+          "message_media": [],
+          "message_text": "LANEIGE: My sincere apologies for the inconvenience! I'm afraid I don't see any recent purchases you made on my system. Could you please check if you received a confirmation email or if there's a charge on your account? Sometimes the email might arrive in your spam or promo folder, so be sure to take a look there too! ",
+          "message_type": "agent",
+          "agent": "82427",
+          "message_id": "019c590e-5eb8-448d-f000-00004895e33d",
+          "date_time": "2026-02-13 17:10:39.956"
+        },
+        {
+          "message_media": [],
+          "message_text": "Order 301161882A",
+          "message_type": "customer",
+          "date_time": "2026-02-13 17:11:24.617"
+        },
+        {
+          "message_media": [],
+          "message_text": "LANEIGE: Thank you for letting me know. For any questions/requests about your order, please contact our customer service team at laneige@apus.amorepacific.com. Due to a high volume of inquiries, our team will get back to you within 72 hours. \n\nRegarding the email about the your expiring points, can you please share a screenshot of it so I can check? ",
+          "message_type": "agent",
+          "agent": "109955",
+          "message_id": "019c5911-684e-4a14-f000-00004895e33d",
+          "date_time": "2026-02-13 17:13:59.025"
+        },
+        {
+          "message_media": [],
+          "message_text": "It was sent way after and I would had used my points on the order.",
+          "message_type": "customer",
+          "date_time": "2026-02-13 17:22:14.599"
+        },
+        {
+          "message_media": [],
+          "message_text": "LANEIGE: I'm sorry for how frustrating this may be, but my system is limited for certain types of requests. The best way to resolve this issue is to contact customer support through the email I shared earlier. They are better equipped to assist you and will take good care of you.\n",
+          "message_type": "agent",
+          "agent": "39001",
+          "message_id": "019c593e-9d2a-40c5-f000-00004895e33d",
+          "date_time": "2026-02-13 18:03:21.667"
+        },
+        {
+          "message_media": [],
+          "message_text": "I have sent multiple emails to that email address and no response.",
+          "message_type": "customer",
+          "date_time": "2026-02-13 19:36:42.716"
+        },
+        {
+          "message_media": [],
+          "message_text": "I even messaged on social media.",
+          "message_type": "customer",
+          "date_time": "2026-02-13 19:38:22.499"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"No response from customer support 2\"; last updated: 2023-10-16 22:00:00.972",
+          "message_type": "template",
+          "date_time": "2026-02-13 19:47:07.687"
+        },
+        {
+          "message_media": [],
+          "message_text": "LANEIGE: So sorry for the delay! We are dealing with an influx of support messages, but this does not make your concern any less important. The team is working as hard as possible to address each issue promptly and as soon as I hear back I will message you immediately. I know my apologies won't help in this situation but rest assured, I understand how frustrating this can be and I'm very sorry I can't provide you with an immediate solution. I'm thankful for your patience and understanding and as soon as I get word about this, I will contact you!",
+          "message_type": "agent",
+          "agent": "109972",
+          "message_id": "019c599d-9d83-4190-f000-00004895e33d",
+          "date_time": "2026-02-13 19:47:07.689"
+        }
+      ],
+      "notes": {
+        "send_to_cs": [
+          "Send to CS for any order related inquiries"
+        ],
+        "promo_and_promo_exclusions": [
+          "Free gift with purchase codes are entered in the cart and discount codes at checkout"
+        ]
+      },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://us.laneige.com",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "Dreamy Lip Kit",
+            "link": "https://us.laneige.com/products/dreamy-lip-kit?utm_medium=sms&utm_source=attentive&utm_campaign=6%2F17%2F25%20Dreamy%20Lip%20Kit%20SMS&externalId=WJPOr",
+            "timeAgo": "2025-06-17"
+          },
+          {
+            "item": "Dreamy Lip Kit",
+            "link": "https://us.laneige.com/products/dreamy-lip-kit?utm_medium=sms&utm_source=attentive&utm_campaign=6%2F17%2F25%20Dreamy%20Lip%20Kit%20SMS&externalId=WJPOr",
+            "timeAgo": "2025-06-17"
+          },
+          {
+            "item": "Glaze Craze Tinted Lip Serum - STRAWBERRY SPRINKLES (COOL PINK)",
+            "link": "https://us.laneige.com/products/glaze-craze-tinted-lip-serum?tw_source=google&tw_adid=743022722877&tw_campaign=22397755335&tw_kwdid=kwd-434681251&gad_source=1&gbraid=0AAAAADge0LXvxkw1fHBgJ8VCQUb6Wy5Z1&gclid=Cj0KCQjw_JzABhC2ARIsAPe3ynr93J-P1kOdjyqJTf4fGp2M4bRqQHLGEOXmt8HOJAFf9ObQwKuhz5IaAntMEALw_wcB",
+            "timeAgo": "2025-04-23"
+          }
+        ]
+      },
+      "escalation_preferences": [],
+      "blocklisted_words": [],
+      "has_shopify": true
     }
   }
 }

@@ -3,861 +3,663 @@
   "chunk": "chunk_0008",
   "scenarios": {
     "36": {
-      "agentName": "Matthew",
-      "id": "019c77b5-8a8e-46f0-f000-0000fc6deb9f",
-      "rightPanel": {
-        "browsingHistory": [
-          {
-            "link": "https://www.firsttactical.com/products/womens-lightweight-patrol-glove?_pos=1\u0026_sid=c9dc435e0\u0026_ss=r\u0026utm_campaign=Browse%20Abandon%20-%20Concierge%20(1min)\u0026utm_medium=sms\u0026utm_source=attentive\u0026externalId=wNWHJ",
-            "item": "Women’s Lightweight Patrol Glove - Black / XL",
-            "timeAgo": "2026-02-19"
-          },
-          {
-            "link": "https://www.firsttactical.com/products/womens-lightweight-patrol-glove?_pos=1\u0026_sid=c9dc435e0\u0026_ss=r\u0026variant=15090299270",
-            "item": "Women’s Lightweight Patrol Glove - Black / M",
-            "timeAgo": "2026-02-19"
-          },
-          {
-            "link": "https://www.firsttactical.com/products/womens-lightweight-patrol-glove?_pos=1\u0026_sid=c9dc435e0\u0026_ss=r",
-            "item": "Women’s Lightweight Patrol Glove - Black / XL",
-            "timeAgo": "2026-02-19"
-          }
-        ],
-        "source": {
-          "label": "Website",
-          "value": "https://firsttactical.com/",
-          "date": ""
-        }
-      },
-      "companyWebsite": "https://firsttactical.com/",
-      "companyName": "First Tactical",
-      "notes": {
-        "escalate": [
-          "For restock inquiries, use STOK shortcut and ESC",
-          "ESC inquiries about direct to agency sales"
-        ],
-        "templates": [
-          "If someone from a sales group/organisation wants to learn more use \"Sales group\" temp"
-        ]
-      },
-      "blocklisted_words": [
-        
-      ],
-      "escalation_preferences": [
-        "Shipping questions",
-        "Exchanges and returns"
-      ],
+      "id": "019c7c2b-8771-424e-f000-0000fc63e4cb",
+      "companyName": "LG",
+      "companyWebsite": "https://lg.com/us",
+      "agentName": "Jordan",
       "messageTone": "Polished",
       "conversation": [
         {
+          "message_media": [],
+          "message_text": "LG Electronics USA: Welcome to LG Electronics USA! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
           "message_type": "system",
-          "message_text": "First Tactical: Welcome to First Tactical! Msg \u0026 data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
-          "date_time": "2026-02-19 12:12:53.614",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-19 09:25:34.755"
         },
         {
+          "message_media": [],
+          "message_text": "LG Electronics USA: Welcome! We'll text you about qualifying new arrivals & special offers as they happen. For now, claim your code for 5% off: lg.attn.tv/a6WAX8Ko8ewd\n\nText back with any questions!",
           "message_type": "system",
-          "message_text": "First Tactical: Welcome! Your coupon code is 1STAC. Click here to automatically apply it and shop now: firsttactical.attn.tv/a9ojjfDgS_5u .\nReply back anytime with questions to reach our text-exclusive concierge, Matthew! Text Stop to stop",
-          "date_time": "2026-02-19 12:12:57.548",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-19 09:25:39.770"
         },
         {
+          "message_media": [],
+          "message_text": "LG Electronics USA: Texts may be retained for customer support & other purposes. For more info, see Terms (lg.com/us/legal) and Privacy (lg.com/us/privacy)",
           "message_type": "system",
-          "message_text": "First Tactical: Hey there, this is Matthew. Thanks for checking out Women’s Lightweight Patrol Glove - Black / XL: firsttactical.attn.tv/aCBoQVTBWa2f \n\nAny questions I can answer for you today? Text Stop to stop",
-          "date_time": "2026-02-19 15:30:37.482",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-19 09:25:40.773"
         },
         {
+          "message_media": [],
+          "message_text": "LG Electronics USA: Hi, I'm Jordan - your go-to LG specialist. Feel free to text me any time, and save our contact so you don't miss any updates!",
+          "message_type": "system",
+          "date_time": "2026-02-20 12:42:13.180"
+        },
+        {
+          "message_media": [],
+          "message_text": "I need your help",
           "message_type": "customer",
-          "message_text": "No I just need a medium and you are sold out",
-          "date_time": "2026-02-19 15:59:59.377",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-20 12:45:25.635"
         },
         {
-          "message_type": "escalation",
-          "message_text": "No I just need a medium and you are sold out - Women’s Lightweight Patrol Glove \n",
-          "date_time": "2026-02-19 16:01:30.667",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "template",
-          "message_text": "Template used: \"Restock [autosend enabled]\"; last updated: 2022-08-16 17:26:43.540",
-          "date_time": "2026-02-19 16:01:52.167",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c77b5-8a8e-46f0-f000-0000fc6deb9f",
-          "message_text": "First Tactical: We\u0027re sorry the size you wanted is sold out! I\u0027ll check with my team to see if I can find a date when this may be in stock. I\u0027ll keep you posted. ",
+          "message_media": [],
+          "message_text": "LG Electronics USA: I would be more than happy to help out!",
           "message_type": "agent",
-          "agent": "87310",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-19 16:01:52.168"
+          "agent": "62551",
+          "message_id": "019c7c28-365d-4e4d-f000-0000fc63e4cb",
+          "date_time": "2026-02-20 12:45:36.113"
+        },
+        {
+          "message_media": [],
+          "message_text": "The remote that came with my TV wasn't the remote for the TV so I tried to order the magic remote for the TV but I think I ordered the wrong one. It keeps saying that it's not supported by my TV. What do I do?",
+          "message_type": "customer",
+          "date_time": "2026-02-20 12:46:55.323"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"Escalation template (esc temp)\"; last updated: 2025-04-01 19:42:53.703",
+          "message_type": "template",
+          "date_time": "2026-02-20 12:49:13.477"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"Customer support\"; last updated: 2023-02-17 21:53:04.869",
+          "message_type": "template",
+          "date_time": "2026-02-20 12:49:13.477"
+        },
+        {
+          "message_media": [],
+          "message_text": "LG Electronics USA: I'm sorry to hear that! The best way to handle this is to email us directly at orders@lgsupport.com. Our team is happy to help!",
+          "message_type": "agent",
+          "agent": "87295",
+          "message_id": "019c7c2b-8771-424e-f000-0000fc63e4cb",
+          "date_time": "2026-02-20 12:49:13.480"
         }
-      ]
-    },
-    "37": {
-      "agentName": "Taylor",
-      "id": "019c7341-b759-4a53-f000-0000b246fc43",
-      "rightPanel": {
-        "browsingHistory": [
-          {
-            "link": "https://us.laneige.com/collections/all-products/products/juicepop-box-lip-tint",
-            "item": "JuicePop Box Lip Tint - Disco Coral",
-            "timeAgo": "2026-02-19"
-          },
-          {
-            "link": "https://us.laneige.com/collections/all-products/products/juicepop-box-lip-tint",
-            "item": "JuicePop Box Lip Tint - Electro Berry",
-            "timeAgo": "2026-02-19"
-          },
-          {
-            "link": "https://us.laneige.com/collections/all-products/products/juicepop-box-lip-tint",
-            "item": "JuicePop Box Lip Tint - K-Pop Pink",
-            "timeAgo": "2026-02-19"
-          },
-          {
-            "link": "https://us.laneige.com/products/juicepop-box-lip-tint",
-            "item": "JuicePop Box Lip Tint - Disco Coral",
-            "timeAgo": "2026-02-19"
-          },
-          {
-            "link": "https://us.laneige.com/products/juicepop-box-lip-tint",
-            "item": "JuicePop Box Lip Tint - K-Pop Pink",
-            "timeAgo": "2026-02-19"
-          }
-        ],
-        "source": {
-          "label": "Website",
-          "value": "https://us.laneige.com",
-          "date": ""
-        }
-      },
-      "companyWebsite": "https://us.laneige.com",
-      "companyName": "LANEIGE",
+      ],
       "notes": {
         "send_to_cs": [
-          "Send to CS for any order related inquiries"
+          "No ESC for this client, send everything to CS using the \"Escalation template\""
         ],
-        "promo_and_exclusions": [
-          "Free gift with purchase codes are entered in the cart and discount codes at checkout"
+        "templates": [
+          "For 10% off welcome code issues use temp 'Follow up 1', then 'Follow up 2' after confirming the item is excluded from promos",
+          "For fridge recommendations use FRR shortcut",
+          "For service-related issues/scheduled repair service appointments use SRI shortcut",
+          "For cxs looking for replacement parts/accessories from an affiliate Parts Distributor use RPA shortcut",
+          "If a cx has an inquiry for finding the serial number/model number of an item:",
+          "➜ If it's a TV, use mnt shortcut",
+          "➜ If it's another product, use mna shortcut"
+        ],
+        "dos_and_don_ts": [
+          "If it's a new conversation and we didn't introduce ourselves in the automated message, start your message with: \"This is Jordan at LG.\""
         ]
       },
-      "blocklisted_words": [
-        
-      ],
-      "escalation_preferences": [
-        
-      ],
-      "messageTone": "Casual",
-      "conversation": [
-        {
-          "message_type": "system",
-          "message_text": "LANEIGE: Almost gone! FREE Laneige headband with orders $55+ with code DEWY.\nSIGN IN TO REDEEM: laneige.attn.tv/aAHS2sAgvGqq .",
-          "date_time": "2026-01-23 12:30:40.544",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "LANEIGE: Lasting color. Moisture on repeat. 8 buildable, music-inspired shades. \nSHOP NOW: laneige.attn.tv/awlEfUlTGTdf .\n",
-          "date_time": "2026-01-27 11:05:35.555",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "LANEIGE: Turn up the tint with Katseye! JuicePop Box Lip Tint x Katseye - our most eyekonic collab yet.\nSHOP NOW: laneige.attn.tv/aySSv8_FS-DL .",
-          "date_time": "2026-01-30 12:10:41.885",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "LANEIGE: Looks like you\u0027re already subscribed! Need a refresher on our current deals \u0026 offers? Discover them here: https://laneige.attn.tv/l/xOz/AAAAA .",
-          "date_time": "2026-02-01 10:08:11.163",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "LANEIGE: It looks like you forgot JuicePop Box Lip Tint in your cart...complete your checkout today: laneige.attn.tv/aKNOsxwIwF0L",
-          "date_time": "2026-02-01 14:11:24.988",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "LANEIGE: Get our K-beauty duo for blurred skin \u0026 glassy lips, perfect for touch-ups wherever you go! \nSHOP NOW: laneige.attn.tv/aS1d8yziW-MY .",
-          "date_time": "2026-02-03 13:06:13.283",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "LANEIGE: Your perfect 2-step routine for hydrated glass skin!\nSHOP NOW: laneige.attn.tv/a31mpwdYyaDv .",
-          "date_time": "2026-02-05 12:01:25.995",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "LANEIGE: Build your custom lip duo! Pick 2 products, save 20% and score a bonus pink pouch.\nSHOP NOW: laneige.attn.tv/aa-Fzm3zKz9X ",
-          "date_time": "2026-02-07 14:01:12.916",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "LANEIGE: Hey Kacie, this is Taylor. Thanks for checking out our site! https://laneige.attn.tv/awl8PdUOKb6X .\n\nDid you have questions about this fan fave product? Let me know and I can help answer.",
-          "date_time": "2026-02-08 15:56:12.516",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "LANEIGE: FREE Lunar New Year gift! Choose your serum with orders $100+. \nSHOP NOW: laneige.attn.tv/aeJWK9CgHqvf .",
-          "date_time": "2026-02-10 13:02:16.054",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "LANEIGE: Score an exclusive mirror keychain gift with purchase of any 2 JuicePop Box Lip Tints!\nSHOP NOW: laneige.attn.tv/aFfq5KeudnDP .",
-          "date_time": "2026-02-12 11:01:03.652",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "LANEIGE: Hi Kacie, your LANEIGE fam misses you! Enjoy 15% off glow-boosting skincare with code MISSYOU15 at checkout. Shop now \u0026 save https://laneige.attn.tv/aru1RKSDsrt- ",
-          "date_time": "2026-02-13 13:03:53.823",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "LANEIGE: This Valentine\u0027s Day, treat yourself to bonus skincare with orders $60+ and $85+! \nSHOP NOW: laneige.attn.tv/aLtrv777H_2A .",
-          "date_time": "2026-02-14 12:01:46.062",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "LANEIGE: LAST CHANCE! Choose a free serum with orders $100+. \nSHOP NOW: laneige.attn.tv/azna-JTP0YPG .",
-          "date_time": "2026-02-16 13:01:51.592",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "LANEIGE: NEW! K-POP PINK. JuicePop Box Lip Tint\u0027s newest punchy pink shade, dripping with K-Pop energy.\nSHOP NOW: laneige.attn.tv/a_D_O362C1_0 .",
-          "date_time": "2026-02-17 10:35:36.188",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "LANEIGE: Hey Kacie, this is Taylor. Thanks for checking out our site! https://laneige.attn.tv/acC0F5qiZx-G .\n\nDid you have questions about this fan fave product? Let me know and I can help answer.",
-          "date_time": "2026-02-18 16:02:16.367",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "LANEIGE: It looks like you forgot JuicePop Box Lip Tint in your cart...complete your checkout today: laneige.attn.tv/a81hwrNVSfmB",
-          "date_time": "2026-02-18 16:27:52.358",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "(attn) Hey, I need help with something: I add items to my cart and they just dissappear",
-          "date_time": "2026-02-18 18:45:08.772",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c7331-62bf-4510-f000-0000b246fc43",
-          "message_text": "LANEIGE: I\u0027m very sorry this is happening. Could you please send me a screenshot of the items you are trying to purchase? I would be happy to help you resolve this as soon as possible.\n",
-          "message_type": "agent",
-          "agent": "39001",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-18 18:59:02.358"
-        },
-        {
-          "message_id": "019c7336-8427-45a3-f000-0000b246fc43",
-          "message_text": "LANEIGE: Thank you! I\u0027ve created a cart with this item for your convenience. Feel free to checkout here: https://laneige.attn.tv/azcaKTl0XGTB",
-          "message_type": "agent",
-          "agent": "42041",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-18 19:04:38.588"
-        },
-        {
-          "message_type": "customer",
-          "message_text": "As soon as I sign in to use my points it removes the itwm from my cart",
-          "date_time": "2026-02-18 19:07:19.901",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "And I cant add any items back in",
-          "date_time": "2026-02-18 19:07:39.959",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "template",
-          "message_text": "Template used: \"Customer support\"; last updated: 2023-12-04 22:29:44.433",
-          "date_time": "2026-02-18 19:16:52.592",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c7341-b759-4a53-f000-0000b246fc43",
-          "message_text": "LANEIGE: I\u0027m so sorry to hear that. I completely understand how frustrating this is, and we\u0027re happy to help answer any questions about our products! For any questions about your order, please contact our customer service team at: laneige@apus.amorepacific.com. Due to a high volume of inquiries, our team will get back to you within 72 hours. ",
-          "message_type": "agent",
-          "agent": "109630",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-18 19:16:52.595"
-        }
-      ]
-    },
-    "38": {
-      "agentName": "",
-      "id": "019c4ef6-c4e5-4d77-f000-0000a045b43b",
       "rightPanel": {
         "source": {
           "label": "Website",
-          "value": "https://barbellapparel.com",
+          "value": "https://lg.com/us",
           "date": ""
         }
       },
-      "companyWebsite": "https://barbellapparel.com",
-      "companyName": "Barbell Apparel",
+      "escalation_preferences": [],
+      "blocklisted_words": [],
+      "has_shopify": false
+    },
+    "37": {
+      "id": "019c6dd7-fd12-47d8-f000-0000fba822ce",
+      "companyName": "Dorado Fashion",
+      "companyWebsite": "https://dorado.com",
+      "agentName": "Kiara",
+      "messageTone": "Casual",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "DORADO: Welcome! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
+          "message_type": "system",
+          "date_time": "2026-02-15 20:57:57.325"
+        },
+        {
+          "message_media": [],
+          "message_text": "DORADO: Hey it's Kiara, welcome to the VIP List! \n\nYou just unlocked an Extra 20% OFF your order with code: HER\n\nValentine's is about you too.\n\nContinue shopping: \ndorado.attn.tv/a10op0KRbExj \n\nValid this week only.",
+          "message_type": "system",
+          "date_time": "2026-02-15 20:58:01.684"
+        },
+        {
+          "message_media": [],
+          "message_text": "DORADO: Hi Dayani I personally want to thank you for shopping with us!\n\nTo show my appreciation, I'm giving you $25 OFF your next order of Custom Jewelry!\n\nJust use code: GIVE25 at checkout or click the link below! https://dorado.attn.tv/aqAFQ9excOZ6 \n\nThis is simply my way of saying THANK YOU for becoming a part of the Dorado Family.",
+          "message_type": "system",
+          "date_time": "2026-02-15 21:08:35.942"
+        },
+        {
+          "message_media": [],
+          "message_text": "DORADO: Be sure to save our number and contact card so you're always first to know about the latest drops & deals ✨",
+          "message_type": "system",
+          "date_time": "2026-02-16 12:14:02.746"
+        },
+        {
+          "message_media": [],
+          "message_text": "DORADO: Jewelry that feels intentional > random gifts.\n\nYour code: \"HER\" still works for 20% off. \n\nPSA: Valentine's doesn't have to be about anyone else. \n\nShop for you or for the girls who always show up: dorado.attn.tv/acXnM1nwLqfh .",
+          "message_type": "system",
+          "date_time": "2026-02-17 12:14:03.625"
+        },
+        {
+          "message_media": [],
+          "message_text": "What is my tracking number",
+          "message_type": "customer",
+          "date_time": "2026-02-17 17:59:06.795"
+        },
+        {
+          "message_media": [],
+          "message_text": "DORADO: Hi, thanks for reaching out. Are you referring to Order #844253? If so, your tracking number will be sent to your email once the order has shipped. At the moment, it's confirmed and currently awaiting fulfillment.\nPlease also note that personalized orders require 2-3 weeks for production. We'll be sending updates via email every step of the way.",
+          "message_type": "agent",
+          "agent": "109630",
+          "message_id": "019c6dd7-fd12-47d8-f000-0000fba822ce",
+          "date_time": "2026-02-17 18:03:17.562"
+        }
+      ],
       "notes": {
-        
+        "send_to_cs": [
+          "Send to CS for post purchase issues"
+        ]
       },
-      "blocklisted_words": [
-        
-      ],
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://dorado.com",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "Iced Heart Name Necklace",
+            "link": "https://dorado.com/collections/bestsellers/products/iced-heart-name-necklace",
+            "timeAgo": "2026-02-17"
+          },
+          {
+            "item": "Iced Heart Name Necklace - 18K Gold Plated / Standard - 18” (45cm)",
+            "link": "https://dorado.com/collections/bestsellers/products/iced-heart-name-necklace",
+            "timeAgo": "2026-02-17"
+          },
+          {
+            "item": "Iced Heart Name Necklace",
+            "link": "https://dorado.com/collections/bestsellers/products/iced-heart-name-necklace",
+            "timeAgo": "2026-02-16"
+          },
+          {
+            "item": "Iced Heart Name Necklace - 18K Gold Plated / Standard - 18” (45cm)",
+            "link": "https://dorado.com/collections/bestsellers/products/iced-heart-name-necklace",
+            "timeAgo": "2026-02-16"
+          },
+          {
+            "item": "Iced Heart Name Necklace",
+            "link": "https://dorado.com/collections/bestsellers/products/iced-heart-name-necklace",
+            "timeAgo": "2026-02-16"
+          }
+        ],
+        "orders": [
+          {
+            "orderNumber": "6520301944903",
+            "orderDate": "2026-02-16",
+            "items": [
+              {
+                "name": "Iced Heart Name Necklace",
+                "price": 69,
+                "productLink": "https://sk-custom-concepts.myshopify.com/products/iced-heart-name-necklace"
+              }
+            ],
+            "total": 69,
+            "date_time": "2026-02-16 02:12:19.526"
+          },
+          {
+            "orderNumber": "6520301944903",
+            "orderDate": "2026-02-16",
+            "items": [
+              {
+                "name": "Iced Heart Name Necklace",
+                "price": 69,
+                "productLink": "https://sk-custom-concepts.myshopify.com/products/iced-heart-name-necklace"
+              }
+            ],
+            "total": 74.52,
+            "date_time": "2026-02-16 02:08:18.441"
+          }
+        ]
+      },
       "escalation_preferences": [
-        
+        "Shipping Issues: Where's my order? Any order issues, direct to customer service"
       ],
+      "blocklisted_words": [],
+      "has_shopify": true
+    },
+    "38": {
+      "id": "019c7354-1a55-4438-f000-0000fc586c09",
+      "companyName": "Backcountry",
+      "companyWebsite": "https://backcountry.com",
+      "agentName": "Sarah",
       "messageTone": "Polished",
       "conversation": [
         {
+          "message_media": [],
+          "message_text": "Backcountry: Welcome to Backcountry! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel. Privacy: attnl.tv/p/iVG",
           "message_type": "system",
-          "message_text": "Barbell Apparel: Still looking to upgrade for the new year? For a limited time, get any shorts free with orders of $149+ or any joggers free with orders of $199+.\n\nShop Now: barbell.attn.tv/afDCDTTKYmWf \n\nWhile supplies last.",
-          "date_time": "2026-01-13 15:30:34.850",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-18 19:31:18.386"
         },
         {
+          "message_media": [],
+          "message_text": "Backcountry: Welcome to the Herd! Get up to 60% off the latest apparel & gear from our best brands. Shop Semi- Annual Sale:http://bctxt.co/aDrmAObsJSop ",
           "message_type": "system",
-          "message_text": "Barbell Apparel: The Rapid Short is back.\n\nWhen performance doesn\u0027t slow down, your gear shouldn\u0027t either. Lightweight and built for unrestricted movement at full intensity.\n\nFor a limited time, get your pair FREE with any $149+ order.\n\nShop Now: barbell.attn.tv/a5B2dAqdhGUE ",
-          "date_time": "2026-01-20 13:00:57.684",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-18 19:31:20.727"
         },
         {
+          "message_media": [],
+          "message_text": "Backcountry: Oh, also, a lot of people like getting personal recs from us. Over the next few days we'll try to help you find something that you will love.\n\nSome of our favorite gear just went on sale! Get the best deals on our top brands before they're gone: http://bctxt.co/aRH2NlXE0404 .",
           "message_type": "system",
-          "message_text": "Barbell Apparel: Hey Logan, this is Sarah. Thanks for checking us out! https://barbell.attn.tv/aC8rK7Pdnjg2 \n\nAny questions I can answer for you?",
-          "date_time": "2026-01-20 17:59:11.954",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-18 19:32:22.763"
         },
         {
-          "message_type": "system",
-          "message_text": "Barbell Apparel: Our Free Gear Sale is winding down!\n\nDon\u0027t miss your chance to get any pair of shorts for free with any order of $149+ or any pair of joggers for free with all orders of $199+.\n\nGet yours before it\u0027s too late!\n\nShop Now: barbell.attn.tv/awe6m-6Lslrr ",
-          "date_time": "2026-01-25 14:30:20.719",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Barbell Apparel: This is your last chance, our Free Gear Sale ends TOMORROW!\n\nGet any pair of shorts for free with any order of $149+ or any pair of joggers for free with all orders of $199+.\n\nShop Now: barbell.attn.tv/a1aYC3P5poAi ",
-          "date_time": "2026-01-28 17:30:18.271",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Barbell Apparel: FINAL CALL: Our Free Gear Sale ends TONIGHT!\n\nDon\u0027t miss out on this chance to grab any pair of shorts with orders of $149+ or any pair of joggers with orders of $199+. Stock up on your favorites before the sale is over!\n\nShop Now: barbell.attn.tv/aP-adq7SwWht ",
-          "date_time": "2026-01-29 13:01:03.711",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Barbell Apparel: Our Annual Swolemate Sale is here! \n\nFor a limited time, grab any pair of jeans, chinos, adapt pants, or joggers for just $99.\n\nInventory is limited and popular styles will sell out fast! Get your favorites before they\u0027re gone.\n\nShop The Sale: barbell.attn.tv/aK-xgLVwXL83 ",
-          "date_time": "2026-02-02 15:40:08.872",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Barbell Apparel: New seasonal colors just landed. The Havok Polo is now available in kiln and forest. Same flextek performance, same athletic fit that everyone loves.\n\nGrab yours before they\u0027re gone.\n\nShop now: barbell.attn.tv/apWLld_zoqAw ",
-          "date_time": "2026-02-11 18:00:38.113",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Barbell Apparel: Hey Logan, this is Sarah. Thanks for checking us out! https://barbell.attn.tv/aizuPcwGPlPX \n\nAny questions I can answer for you?",
-          "date_time": "2026-02-11 18:02:46.595",
-          "message_media": [
-            
-          ]
-        },
-        {
+          "message_media": [],
+          "message_text": "where is my 15% off?",
           "message_type": "customer",
-          "message_text": "Still just waiting for the short sleeve button down shirt to come back in XL. It\u0027s been 6 months.",
-          "date_time": "2026-02-11 18:03:36.775",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-18 19:34:49.403"
         },
         {
-          "message_type": "template",
-          "message_text": "Template used: \"Restock (website \u0026 social)\"; last updated: 2025-10-09 21:41:33.472",
-          "date_time": "2026-02-11 18:08:41.093",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "template",
-          "message_text": "Template used: \"Restock (notifications)\"; last updated: 2025-10-09 21:41:40.249",
-          "date_time": "2026-02-11 18:08:41.093",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c4ef6-c4e5-4d77-f000-0000a045b43b",
-          "message_text": "Barbell Apparel: Thanks for getting back to me! I\u0027m really sorry for the inconvenience. Apologies, I don\u0027t have a confirmed restock date at the moment. If you haven\u0027t yet, I recommend signing up for notifications on the product page so you\u0027ll be alerted as soon as it\u0027s available again. In the meantime, would you consider this as an alternative? https://barbell.attn.tv/amdmGdyXPr6a",
+          "message_media": [],
+          "message_text": "Backcountry: Thanks for reaching out, and I'm sorry for any inconvenience. Let me check on this with my team, and I'll get back to you once I receive an update. Hang tight! ",
           "message_type": "agent",
-          "agent": "109840",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-11 18:08:41.097"
+          "agent": "87310",
+          "message_id": "019c7354-1a55-4438-f000-0000fc586c09",
+          "date_time": "2026-02-18 19:36:57.583"
         }
-      ]
-    },
-    "39": {
-      "agentName": "Sarah",
-      "id": "019c7181-ff32-4db8-f000-0000500ce02b",
-      "rightPanel": {
-        "browsingHistory": [
-          {
-            "link": "https://www.whiteandwarren.com/products/cashmere-mesh-cardigan-soft-white?variant=43898641842269\u0026_pos=1\u0026_psq=Cashmere+mesh+car\u0026_ss=e\u0026_v=1.0",
-            "item": "Cashmere Mesh Cardigan | Soft White - Soft White / S",
-            "timeAgo": "2026-02-17"
-          },
-          {
-            "link": "https://www.whiteandwarren.com/products/cashmere-mesh-cardigan-soft-white?variant=43898641809501\u0026_pos=1\u0026_psq=Cashmere+mesh+car\u0026_ss=e\u0026_v=1.0",
-            "item": "Cashmere Mesh Cardigan | Pink Buds - Pink Buds / XS",
-            "timeAgo": "2026-02-17"
-          },
-          {
-            "link": "https://www.whiteandwarren.com/products/cashmere-mesh-cardigan-pink-buds-dayglow?variant=43898641678429\u0026_pos=1\u0026_psq=Cashmere+mesh+car\u0026_ss=e\u0026_v=1.0",
-            "item": "Cashmere Mesh Cardigan | Pink Buds - Pink Buds / XS",
-            "timeAgo": "2026-02-17"
-          },
-          {
-            "link": "https://www.whiteandwarren.com/products/brushed-cashmere-tee-ivory-1?variant=43749764497501",
-            "item": "Brushed Cashmere Tee | Powdered Rose - Powdered Rose / XS",
-            "timeAgo": "2026-02-17"
-          },
-          {
-            "link": "https://www.whiteandwarren.com/products/brushed-cashmere-tee-powdered-rose?variant=43775068012637",
-            "item": "Brushed Cashmere Tee | Powdered Rose - Powdered Rose / XS",
-            "timeAgo": "2026-02-17"
-          }
-        ],
-        "source": {
-          "label": "Website",
-          "value": "https://whiteandwarren.com/",
-          "date": ""
-        }
-      },
-      "companyWebsite": "https://whiteandwarren.com/",
-      "companyName": "WHITE \u0026 WARREN",
+      ],
       "notes": {
         "escalate": [
-          "Before you ESC use ESC shortcut"
+          "No escalations for this client, send everything to CS"
         ],
-        "promo_and_exclusions": [
-          "Promotion codes cannot be combined with other codes or discounts",
-          "Gift Cards cannot be purchased using a promotion code"
+        "tone": [
+          "Close the convo once the client takes over"
+        ],
+        "promo_and_promo_exclusions": [
+          "Welcome offer page:   https://www.backcountry.com/sc/new-customer-coupon-rules"
         ]
       },
-      "blocklisted_words": [
-        
-      ],
-      "escalation_preferences": [
-        "Shipping questions",
-        "Exchanges and returns"
-      ],
-      "messageTone": "Formal",
-      "conversation": [
-        {
-          "message_type": "system",
-          "message_text": "White \u0026 Warren: Welcome to White \u0026 Warren! Msg \u0026 data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
-          "date_time": "2026-02-16 22:44:39.596",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "White \u0026 Warren: You are now signed up for texts! Your 15% discount code is WELCOMEA3926H4. Click here to auto-apply it when you shop: whiteandwarren.attn.tv/ajzv0T2ci3oa . Valid on full price merchandise only. Ready, Set, Shop! 🛍️ Reply stop to stop",
-          "date_time": "2026-02-16 22:44:44.554",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "White \u0026 Warren: Don\u0027t forget to save our contact to get exclusive updates! Reply stop to stop",
-          "date_time": "2026-02-16 22:44:45.641",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "White \u0026 Warren: Hello! Your cart is about to expire and so is your chance to refresh your wardrobe with these best-selling styles. Don\u0027t miss out: whiteandwarren.attn.tv/aidaWcAl24Bx Reply stop to stop",
-          "date_time": "2026-02-17 08:15:09.978",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "White \u0026 Warren: Ends Tonight: Extra 20% off sale, including new markdowns. Shop to save while you can: whiteandwarren.attn.tv/aqWnsxq74CJs \n\n\n Reply stop to stop",
-          "date_time": "2026-02-17 11:11:04.023",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "White \u0026 Warren: Thank you for your order! Your order number is 257717. View more information about your order here: https://whiteandwarren.attn.tv/a4_mfWFveg9H .\n\nQuestions? Reply to this text. \n \n\n Reply stop to stop",
-          "date_time": "2026-02-17 13:04:09.819",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "White \u0026 Warren: Thank you for your order! Your order number is 257719. View more information about your order here: https://whiteandwarren.attn.tv/aemkm6mXutpg .\n\nQuestions? Reply to this text. \n \n\n Reply stop to stop",
-          "date_time": "2026-02-17 13:13:27.905",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "Can I add an item to this order that I placed today with the 15% welcome discount?",
-          "date_time": "2026-02-17 18:59:46.631",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c6e0c-921e-4375-f000-0000500ce02b",
-          "message_text": "White \u0026 Warren: Good question. I can check if that\u0027s possible. What\u0027s the email address and the item you\u0027d like to add? Also, please keep in mind that our business hours are M 10am-6pm, Tue-Thu 9am-6pm, F 9am-1pm EST .",
-          "message_type": "agent",
-          "agent": "31385",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-17 19:00:43.585"
-        },
-        {
-          "message_type": "customer",
-          "message_text": "rmburghen@gmail.com",
-          "date_time": "2026-02-17 19:17:24.845",
-          "message_media": [
-            "https://attentive-files.s3.amazonaws.com/receive-event-media/1771373833626_1771373832247l3kbbcciq75zbu7h.jpeg;Name=IMG_8980.jpg"
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "Thank you!",
-          "date_time": "2026-02-17 19:17:30.074",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "Ok please let me know if you receive the information I sent thank you.",
-          "date_time": "2026-02-18 10:45:02.615",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c717e-b11e-47e5-f000-0000500ce02b",
-          "message_text": "White \u0026 Warren: Thanks for sharing this info. Let me pass this on to my team. I\u0027ll be in touch as soon as I get an update!",
-          "message_type": "agent",
-          "agent": "82427",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-18 11:04:14.272"
-        },
-        {
-          "message_type": "customer",
-          "message_text": "I will send again \nrmburghen@gmail.com",
-          "date_time": "2026-02-18 11:05:10.151",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c7181-ff32-4db8-f000-0000500ce02b",
-          "message_text": "White \u0026 Warren: Thank you for the screenshot! I am currently coordinating this with my team. I\u0027ll update you as soon as I hear back!",
-          "message_type": "agent",
-          "agent": "109964",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-18 11:07:50.868"
-        }
-      ]
-    },
-    "40": {
-      "agentName": "Sarah",
-      "id": "019c449e-fb85-4f71-f000-0000fa4e2a2a",
       "rightPanel": {
-        "browsingHistory": [
-          {
-            "link": "https://surebonder.com/products/dt-2010-full-size-10-clear-hot-glue-stick-dual-temperature-20-pack?_pos=3\u0026_sid=9e1105c1b\u0026_ss=r",
-            "item": "Clear Stik 10\" Full Size All Purpose Hot Glue Sticks - 20 Pack",
-            "timeAgo": "2026-02-09"
-          },
-          {
-            "link": "https://surebonder.com/products/dt-50-full-size-4-clear-hot-glue-stick-dual-temperature-50-pack?utm_campaign=\u0026utm_medium=sms\u0026utm_source=attentive\u0026externalId=Nru2n",
-            "item": "Clear Stik 4\" Full Size All Purpose Hot Glue Sticks - 50 Pack",
-            "timeAgo": "2026-02-09"
-          },
-          {
-            "link": "https://surebonder.com/products/dt-50-full-size-4-clear-hot-glue-stick-dual-temperature-50-pack?utm_campaign=\u0026utm_medium=sms\u0026utm_source=attentive\u0026externalId=Nru2n",
-            "item": "Clear Stik 4\" Full Size All Purpose Hot Glue Sticks - 50 Pack",
-            "timeAgo": "2026-02-09"
-          }
-        ],
         "source": {
           "label": "Website",
-          "value": "https://surebonder.com",
+          "value": "https://backcountry.com",
           "date": ""
         }
       },
-      "companyWebsite": "https://surebonder.com",
-      "companyName": "Surebonder",
-      "notes": {
-        
-      },
-      "blocklisted_words": [
-        
-      ],
-      "escalation_preferences": [
-        "Shipping questions",
-        "Exchanges and returns"
-      ],
-      "messageTone": "Casual",
+      "escalation_preferences": [],
+      "blocklisted_words": [],
+      "has_shopify": false
+    },
+    "39": {
+      "id": "019c714a-5ec7-40b1-f000-0000f93a1934",
+      "companyName": "Epic Sports",
+      "companyWebsite": "https://m.epicsports.com",
+      "agentName": "Jordan",
+      "messageTone": "Polished",
       "conversation": [
         {
+          "message_media": [],
+          "message_text": "Epic Sports: Welcome! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel. Privacy: attnl.tv/p/Rmn",
           "message_type": "system",
-          "message_text": "Surebonder: Reply Y to subscribe to recurring automated personalized marketing alerts (e.g. cart reminders) from Surebonder.",
-          "date_time": "2026-02-09 17:20:34.322",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-06 08:50:57.434"
         },
         {
+          "message_media": [],
+          "message_text": "Epic Sports: Welcome! You’re in the loop for Close-Out Deals! Click here to shop now: https://epicsports.attn.tv/a1sfmu_JwxgY .",
           "message_type": "system",
-          "message_text": "Surebonder: Welcome to Surebonder! Msg \u0026 data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
-          "date_time": "2026-02-09 17:20:53.100",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-06 08:51:03.134"
         },
         {
+          "message_media": [],
+          "message_text": "Epic Sports: Oh, also, a lot of people like getting personal recs from us. Over the next few days we'll try to help you find something that you will love.\n\nWhatever your sport, we got you covered. Save on our fan favorites today: https://epicsports.attn.tv/ahBg46979Uag .",
           "message_type": "system",
-          "message_text": "Surebonder: Welcome! Your offer is WELCOME10, enter at checkout for 10% off your order.",
-          "date_time": "2026-02-09 17:20:57.096",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-06 08:52:08.158"
         },
         {
+          "message_media": [],
+          "message_text": "Epic Sports: Complete your Augusta Attain Wicking V-Neck Tee purchase — breathable, durable, 100% polyester wicking fabric for comfort and long wear: https://epicsports.attn.tv/akDSxewomRrq .",
           "message_type": "system",
-          "message_text": "Surebonder: Don\u0027t forget to save our contact to get exclusive updates!",
-          "date_time": "2026-02-09 17:20:58.081",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-06 09:04:25.289"
         },
         {
+          "message_media": [],
+          "message_text": "Epic Sports: Not sure where to begin?\n\nStart with our top-rated favorites: https://epicsports.attn.tv/aPS3olw9KTvO",
           "message_type": "system",
-          "message_text": "Surebonder: Hey, this is Sarah. Thanks for checking out Surebonder! https://surebonder.attn.tv/aqaRjPuMc5e6 \n\nAre there any questions I can answer for you?",
-          "date_time": "2026-02-09 17:39:12.840",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-07 09:04:34.039"
         },
         {
+          "message_media": [],
+          "message_text": "Epic Sports: Check out our football gear built for practice and pickup games.\n\nKick off your next find: https://epicsports.attn.tv/af-WGBWhHKIW .",
+          "message_type": "system",
+          "date_time": "2026-02-07 15:43:31.624"
+        },
+        {
+          "message_media": [],
+          "message_text": "Epic Sports: Just for you! Use promotion code SAVE10 for $10 off your purchase of $100+. Click here to shop now: https://epicsports.attn.tv/aTUjxN62RtJh ",
+          "message_type": "system",
+          "date_time": "2026-02-11 10:16:16.273"
+        },
+        {
+          "message_media": [],
+          "message_text": "Epic Sports: Try the PowerNet 6 Seater Soccer Bench for comfortable team seating and easy transport with its backpack carry bag.\n\nYour next game gear is here: https://epicsports.attn.tv/aEcgRmCxTGFs .",
+          "message_type": "system",
+          "date_time": "2026-02-11 16:47:05.636"
+        },
+        {
+          "message_media": [],
+          "message_text": "Epic Sports: Our EPIC youth football helmet meets NOCSAE standards & includes a faceguard + chinstrap. $119.99+FREE SHIPPING epicsports.attn.tv/aadA0IaTwz1p",
+          "message_type": "system",
+          "date_time": "2026-02-13 18:14:28.138"
+        },
+        {
+          "message_media": [],
+          "message_text": "Epic Sports: Grab the A4 Strike Baseball Jersey Tee—comfortable 2-color raglan with ultra-tight knit for crisp prints, perfect for your team or events.\n\nCheck it out here: https://epicsports.attn.tv/a-ihK1u95aLZ .",
+          "message_type": "system",
+          "date_time": "2026-02-16 12:42:17.876"
+        },
+        {
+          "message_media": [],
+          "message_text": "Epic Sports: Own the field with bold, CUSTOM SUBLIMATED uniforms made your way. Design yours today: epicsports.attn.tv/aFN0O_MqmQ7q",
+          "message_type": "system",
+          "date_time": "2026-02-18 09:42:33.859"
+        },
+        {
+          "message_media": [],
+          "message_text": "Epic Sports: Hi, if you need additional help please reach us at customerservice@epicsports.com or call us at 1-888-269-2440. Text STOP to opt out.",
+          "message_type": "system",
+          "date_time": "2026-02-18 10:04:36.821"
+        },
+        {
+          "message_media": [],
+          "message_text": "I need t-shirts v-neck women's large.",
           "message_type": "customer",
-          "message_text": "Hi I need to know which glue to use for shells I want to glue around a fireplace surround. I want to make sure the heat from fireplace doesn\u0027t melt the glue and the shells drop off which glue should I use?",
-          "date_time": "2026-02-09 17:40:59.861",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-18 10:04:46.470"
         },
         {
-          "message_id": "019c4491-4d6f-4670-f000-0000fa4e2a2a",
-          "message_text": "Surebonder: For a heat-resistant option, consider using our 4588R510 Full Size 10\" Polyamide High Strength Amber Glue Sticks. Check it out here: https://surebonder.attn.tv/aAn2lypoSVfN",
+          "message_media": [],
+          "message_text": "Template used: \"Color and size - All brands\"; last updated: 2023-10-10 18:15:26.639",
+          "message_type": "template",
+          "date_time": "2026-02-18 10:07:05.312"
+        },
+        {
+          "message_media": [],
+          "message_text": "Epic Sports: Sure! Could you please let me know which color or style you're interested in?\nYou may view our available V-Neck Shirts for women in size large here: https://epicsports.attn.tv/a5apahEnYjVf",
           "message_type": "agent",
-          "agent": "62551",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-09 17:41:39.206"
+          "agent": "109964",
+          "message_id": "019c714a-5ec7-40b1-f000-0000f93a1934",
+          "date_time": "2026-02-18 10:07:05.316"
+        }
+      ],
+      "notes": {
+        "send_to_cs": [
+          "No ESC for this client, send everything to CS using PPI shortcut"
+        ],
+        "tone": [
+          "Close the convo once the client takes over"
+        ],
+        "dos_and_don_ts": [
+          "They have a separate domain for desktop vs. mobile",
+          "➜ Desktop - www.epicsports.com",
+          "➜ Mobile - m.epicsports.com"
+        ]
+      },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://m.epicsports.com",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "Badger Pro Heather Ladies' V-Neck Tee Shirt",
+            "link": "https://m.epicsports.com/Cheer/p/103068/index.html",
+            "timeAgo": "2026-02-18"
+          },
+          {
+            "item": "A4 Adult Youth Strike Baseball Jersey Tee",
+            "link": "https://m.epicsports.com/Baseball/p/121270/index.html",
+            "timeAgo": "2026-02-16"
+          },
+          {
+            "item": "Epic Cool Performance Camo Sleeve Tee Shirt",
+            "link": "https://m.epicsports.com/Baseball/p/169040/index.html",
+            "timeAgo": "2026-02-16"
+          },
+          {
+            "item": "PowerNet 6 Seater Soccer Bench Black Color with Back Pack Carry Bag",
+            "link": "https://m.epicsports.com/Soccer/p/232922/index.html?trk=5123&utm_campaign=browse_abandonment-ai&utm_medium=sms&utm_source=attentive&externalId=9QBNY",
+            "timeAgo": "2026-02-16"
+          }
+        ]
+      },
+      "escalation_preferences": [],
+      "blocklisted_words": [],
+      "has_shopify": false
+    },
+    "40": {
+      "id": "019c7dab-2acf-41a9-f000-0000f02f8708",
+      "companyName": "Boston Scally",
+      "companyWebsite": "https://bostonscally.com/",
+      "agentName": "Jordan",
+      "messageTone": "Polished",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "Boston Scally: The 'Scot' is HERE! 10% OFF with code: SCOT. Grab yours quick before it's gone!\n\nSHOP NOW: bostonscally.attn.tv/aZNXxnc6mpge ",
+          "message_type": "system",
+          "date_time": "2026-01-23 14:12:49.060"
         },
         {
+          "message_media": [],
+          "message_text": "Boston Scally: NEW! In case you missed it, the 'Scot' has arrived! \n\nGrab yours today and get 10% OFF with code SCOT: bostonscally.attn.tv/ameQnj0nh69S ",
+          "message_type": "system",
+          "date_time": "2026-01-26 12:04:55.518"
+        },
+        {
+          "message_media": [],
+          "message_text": "Boston Scally: NEW: The 'Cloverland' is here! Plus, The 'Bareknuckle Irish Edition' is back in stock! Don't miss this!\n\nSHOP NOW: bostonscally.attn.tv/aD_7WHB4dyn9 ",
+          "message_type": "system",
+          "date_time": "2026-01-30 14:07:13.311"
+        },
+        {
+          "message_media": [],
+          "message_text": "Boston Scally: Take 10% off the NEW 'Cloverland' and this season's best selling scally caps with code: CLOVERLAND\n\nSHOP NOW: bostonscally.attn.tv/afGq2rwEsW0_ ",
+          "message_type": "system",
+          "date_time": "2026-02-02 18:06:26.803"
+        },
+        {
+          "message_media": [],
+          "message_text": "Boston Scally: The 'Kilkenny' is HERE! Plus, our favorite 'Irish Baker Boy' is back! Limited quantities available, don't let these get away! \n\nSHOP NOW: bostonscally.attn.tv/aVr9t58iIxTO ",
+          "message_type": "system",
+          "date_time": "2026-02-06 14:07:34.072"
+        },
+        {
+          "message_media": [],
+          "message_text": "Boston Scally: Did you see? The 'Kilkenny' and 'Irish Baker Boy' dropped and they're going FAST! Grab these St. Pat's favorites before they're gone!\n\nSHOP NOW: bostonscally.attn.tv/ai6W1WyEWWbt ",
+          "message_type": "system",
+          "date_time": "2026-02-07 15:01:32.982"
+        },
+        {
+          "message_media": [],
+          "message_text": "Boston Scally: Hey Jonathan! Your cart was left behind! Our caps sell out quick, so don't wait too long to complete your order: bostonscally.attn.tv/ar1t0l2GJH8r",
+          "message_type": "system",
+          "date_time": "2026-02-08 11:13:01.552"
+        },
+        {
+          "message_media": [],
+          "message_text": "Boston Scally: The highly anticipated St. Patrick's Day Collection is BACK! Here's your chance to grab the season's best sellers before they sell out again! \n\nSHOP NOW: bostonscally.attn.tv/a00ObcOPWC2j ",
+          "message_type": "system",
+          "date_time": "2026-02-09 12:02:57.897"
+        },
+        {
+          "message_media": [],
+          "message_text": "Boston Scally: Lovely day for a Guinness! NEW: The 'Guinness Gilroy' Patchwork cap is NOW AVAILABLE! \n\nSHOP NOW: bostonscally.attn.tv/a_BRGAsfw8Xk ",
+          "message_type": "system",
+          "date_time": "2026-02-13 14:04:23.793"
+        },
+        {
+          "message_media": [],
+          "message_text": "Boston Scally: That cap you liked is a great choice! Don't wait too long - our caps are available in limited quantities only.\n\nSHOP NOW: bostonscally.attn.tv/aXcHGVwD9Ygh\n\nAny questions? Send us a message here. ",
+          "message_type": "system",
+          "date_time": "2026-02-15 11:52:51.663"
+        },
+        {
+          "message_media": [],
+          "message_text": "Boston Scally: There's nothing like a Guinness! The 'Guinness Gilroy' Patchwork cap is HERE! \n\nSHOP NOW: bostonscally.attn.tv/aoEUI2TO44Gg ",
+          "message_type": "system",
+          "date_time": "2026-02-16 12:10:19.529"
+        },
+        {
+          "message_media": [],
+          "message_text": "Boston Scally: Hey Jonathan, our best-selling St. Patrick's Day styles are fully stocked for the season! These customer favorites are flying off the shelves, so don't wait to grab yours.\n\nSHOP NOW: bostonscally.attn.tv/aZSC5oAL_ikt ",
+          "message_type": "system",
+          "date_time": "2026-02-18 14:02:26.473"
+        },
+        {
+          "message_media": [],
+          "message_text": "Boston Scally: Hi! If you need additional help please reach us at info@bostonscally.com. Text STOP to opt out.",
+          "message_type": "system",
+          "date_time": "2026-02-18 14:03:24.054"
+        },
+        {
+          "message_media": [],
+          "message_text": "Boston Scally: NEW ARRIVALS! The 'Workshop: St. Patrick's Edition' is HERE! Add a touch of Irish luck to your scally cap collection today with the 'Workshop' and our best-selling 'Blarney Rose'!\n\nSHOP NOW: bostonscally.attn.tv/acITZiR8pCdA ",
+          "message_type": "system",
+          "date_time": "2026-02-20 15:04:08.318"
+        },
+        {
+          "message_media": [],
+          "message_text": "Boston Scally: Hi! If you need additional help please reach us at info@bostonscally.com. Text STOP to opt out.",
+          "message_type": "system",
+          "date_time": "2026-02-20 19:43:15.519"
+        },
+        {
+          "message_media": [],
+          "message_text": "I have 3 caps in my cart, approval from PayPal, and I can't check out.",
           "message_type": "customer",
-          "message_text": "are you AI or a real sales person?",
-          "date_time": "2026-02-09 17:43:59.858",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-20 19:43:20.050"
         },
         {
-          "message_type": "customer",
-          "message_text": "does this come in clear color?",
-          "date_time": "2026-02-09 17:44:09.881",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c4494-20b9-443b-f000-0000fa4e2a2a",
-          "message_text": "Surebonder: The 4588R510 glue sticks are amber. For clear options, consider our Clear Stik glue sticks: https://surebonder.attn.tv/aFxc46eSpA8U",
+          "message_media": [],
+          "message_text": "Boston Scally: I'm sorry about that! Are you getting any error messages, do you mind sending a screenshot?",
           "message_type": "agent",
-          "agent": "62551",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-09 17:44:44.368"
+          "agent": "33953",
+          "message_id": "019c7da7-8a66-4258-f000-0000f02f8708",
+          "date_time": "2026-02-20 19:44:17.925"
         },
         {
-          "message_type": "customer",
-          "message_text": "what is the temperature it can with hold without melting off?",
-          "date_time": "2026-02-09 17:45:59.721",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c4495-d37c-4d43-f000-0000fa4e2a2a",
-          "message_text": "Surebonder: The 4588R510 Polyamide Glue Sticks can withstand temperatures up to 300°F, making them suitable for high-temperature applications.",
+          "message_media": [],
+          "message_text": "Boston Scally: Thanks for the screenshot! I apologize for the frustration this has caused. To troubleshoot, you might try opening the site in an incognito or private window to rule out any browser cache or extension issues.\n\nYou could also try accessing the site on a PC or with a different browser-Google Chrome usually works seamlessly. Sometimes certain browsers can have small hiccups with ecommerce sites. Please let me know how it goes! ",
           "message_type": "agent",
-          "agent": "62551",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-09 17:46:35.666"
+          "agent": "87595",
+          "message_id": "019c7da8-f9f3-4844-f000-0000f02f8708",
+          "date_time": "2026-02-20 19:45:52.020"
         },
         {
+          "message_media": [],
+          "message_text": "I'm using Google chrome on my phone. This is my second order using PayPal pay layer, my last one went perfect.",
           "message_type": "customer",
-          "message_text": "okay perfect ty",
-          "date_time": "2026-02-09 17:47:09.920",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-20 19:47:09.649"
         },
         {
+          "message_media": [],
+          "message_text": "I'll try another browser",
           "message_type": "customer",
-          "message_text": "just to be clear this is the glue that can with stand the temperature up to 300 degrees of heat?",
-          "date_time": "2026-02-09 17:49:49.911",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-20 19:47:29.703"
         },
         {
-          "message_type": "customer",
-          "message_text": "hello",
-          "date_time": "2026-02-09 17:50:50.080",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c449e-fb85-4f71-f000-0000fa4e2a2a",
-          "message_text": "Surebonder: Thanks for asking! Upon checking, I can confirm that the Clear Stik 4\" Full Size All Purpose Hot Glue Sticks can withstand temperatures up to 380°F. \n\nI hope this helps. Please let me know how I can assist you further today, I\u0027m just a text away!",
+          "message_media": [],
+          "message_text": "Boston Scally: Alright, please do! Let me know if it works this time around. I'm just here if you need further assistance. ",
           "message_type": "agent",
           "agent": "109617",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-09 17:56:35.745"
+          "message_id": "019c7dab-2acf-41a9-f000-0000f02f8708",
+          "date_time": "2026-02-20 19:48:15.591"
         }
-      ]
+      ],
+      "notes": {
+        "send_to_cs": [
+          "Send to CS for post purchase issues, use PPI shortcut"
+        ]
+      },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://bostonscally.com/",
+          "date": ""
+        },
+        "orders": [
+          {
+            "orderNumber": "7740997369943",
+            "orderDate": "2026-02-09",
+            "items": [
+              {
+                "name": "The Punk Boston Scally Cap - Black",
+                "price": 52,
+                "productLink": "https://boston-scally-co.myshopify.com/products/the-punk-boston-scally-cap-black"
+              },
+              {
+                "name": "The Popeye® Boston Scally Cap - Patchwork",
+                "price": 52,
+                "productLink": "https://boston-scally-co.myshopify.com/products/the-popeye-boston-scally-cap"
+              },
+              {
+                "name": "The Bundy Boston Scally Cap - Patchwork",
+                "price": 52,
+                "productLink": "https://boston-scally-co.myshopify.com/products/the-bundy-boston-scally-cap"
+              }
+            ],
+            "total": 153.27,
+            "date_time": "2026-02-09 18:30:47.066"
+          },
+          {
+            "orderNumber": "7663662170199",
+            "orderDate": "2026-01-12",
+            "items": [
+              {
+                "name": "The Grateful Dead Dancing Bears Boston Scally Cap - Truckin' Patchwork",
+                "price": 55,
+                "productLink": "https://boston-scally-co.myshopify.com/products/the-grateful-dead-2-boston-scally-cap"
+              }
+            ],
+            "total": 69.6,
+            "date_time": "2026-01-12 18:37:18.605"
+          },
+          {
+            "orderNumber": "7644238938199",
+            "orderDate": "2026-01-03",
+            "items": [
+              {
+                "name": "The Baker Boy Boston Scally Cap - Apple Pie",
+                "price": 52,
+                "productLink": "https://boston-scally-co.myshopify.com/products/the-baker-boy-boston-scally-cap-apple-pie"
+              },
+              {
+                "name": "The Winter Rose Boston Scally Cap - Frozen Plaid",
+                "price": 52,
+                "productLink": "https://boston-scally-co.myshopify.com/products/the-winter-rose-boston-scally-cap"
+              }
+            ],
+            "total": 123.77,
+            "date_time": "2026-01-03 21:11:28.676"
+          },
+          {
+            "orderNumber": "7602595037271",
+            "orderDate": "2025-12-25",
+            "items": [
+              {
+                "name": "The Brawn Boston Scally Cap - Grey Plaid",
+                "price": 52,
+                "productLink": "https://boston-scally-co.myshopify.com/products/the-brawn-grey-blue-and-green-boston-scally-cap"
+              }
+            ],
+            "total": 58.43,
+            "coupon": "HOLIDAY15",
+            "date_time": "2025-12-25 05:33:56.120"
+          }
+        ]
+      },
+      "escalation_preferences": [],
+      "blocklisted_words": [],
+      "has_shopify": true
     }
   }
 }

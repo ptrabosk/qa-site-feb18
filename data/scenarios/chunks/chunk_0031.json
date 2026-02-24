@@ -3,698 +3,781 @@
   "chunk": "chunk_0031",
   "scenarios": {
     "151": {
-      "agentName": "",
-      "id": "019c5f14-e4f9-4633-f000-0000fa6f75d6",
-      "rightPanel": {
-        "browsingHistory": [
-          {
-            "link": "https://www.allposters.com/-sp/Dance-Study-II-Posters_i16301098_.htm?UPI=Q1IJ33L0",
-            "item": "Dance Study II",
-            "timeAgo": "2026-02-11"
-          },
-          {
-            "link": "https://www.allposters.com/-sp/Dance-Study-II-Posters_i16301098_.htm?UPI=Q1IJ33P0\u0026PODConfigID=9201947",
-            "item": "Dance Study II",
-            "timeAgo": "2026-02-11"
-          },
-          {
-            "link": "https://www.allposters.com/-sp/Backstage-Nerves-Posters_i16246648_.htm?UPI=Q1I0STT0\u0026PODConfigID=9201947",
-            "item": "Backstage Nerves",
-            "timeAgo": "2026-02-10"
-          },
-          {
-            "link": "https://www.allposters.com/-sp/Backstage-Nerves-Posters_i16246648_.htm?UPI=Q1I0SU427QW7R",
-            "item": "Backstage Nerves",
-            "timeAgo": "2026-02-10"
-          },
-          {
-            "link": "https://www.allposters.com/-sp/Backstage-Nerves-Posters_i16246648_.htm?UPI=Q1I0SU40",
-            "item": "Backstage Nerves",
-            "timeAgo": "2026-02-10"
-          }
-        ],
-        "source": {
-          "label": "Website",
-          "value": "https://allposters.com/",
-          "date": ""
-        }
-      },
-      "companyWebsite": "https://allposters.com/",
-      "companyName": "AllPosters",
-      "notes": {
-        "send_to_cs": [
-          "No ESC for this client, send everything to CS"
-        ],
-        "tone": [
-          "Close the convo once the client takes over"
-        ]
-      },
-      "blocklisted_words": [
-        
-      ],
-      "escalation_preferences": [
-        
-      ],
-      "messageTone": "Polished",
+      "id": "019c5363-df27-4c7d-f000-0000fad8915b",
+      "companyName": "CLEARSTEM",
+      "companyWebsite": "https://clearstem.com",
+      "agentName": "Amy",
+      "messageTone": "Casual",
       "conversation": [
         {
+          "message_media": [],
+          "message_text": "CLEARSTEM: Reply Y to subscribe to recurring automated personalized marketing alerts (e.g. cart reminders) from CLEARSTEM.",
           "message_type": "system",
-          "message_text": "AllPosters: Welcome to AllPosters! Msg \u0026 data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel. Privacy: attnl.tv/p/yKp",
-          "date_time": "2026-02-10 17:02:33.654",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-12 10:17:49.400"
         },
         {
+          "message_media": [],
+          "message_text": "CLEARSTEM: Welcome to CLEARSTEM! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel. Privacy: attnl.tv/p/T4W",
           "message_type": "system",
-          "message_text": "AllPosters: Welcome! Use code WELCOME25 for 25% off your order\nallposters.attn.tv/aDHwpQ8luE8j .\n\nSee site for details, cannot be combined with sitewide promos.",
-          "date_time": "2026-02-10 17:02:38.838",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-12 10:18:34.173"
         },
         {
+          "message_media": [],
+          "message_text": "CLEARSTEM: Welcome! Click here for your offer: clearstem.attn.tv/aIBgxxMmcdPk .",
           "message_type": "system",
-          "message_text": "AllPosters: You want to stay up on all the trends which is why you should check out this collection of what\u0027s new in posters and wall art prints!\n\nWe update the what\u0027s new gallery frequently, take a look now: https://allposters.attn.tv/aLs6gP_mUxNF .",
-          "date_time": "2026-02-10 17:03:42.707",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-12 10:18:38.885"
         },
         {
+          "message_media": [],
+          "message_text": "CLEARSTEM: Oh, also, a lot of people like getting personal recs from us. Over the next few days we'll try to help you find something that you will love.\n\nTo start, take our 60-second quiz to help us create the perfect skincare routine for you > https://clearstem.attn.tv/a_KrbMYS9PUz .",
           "message_type": "system",
-          "message_text": "AllPosters: Grab Backstage Nerves — bold wall art that brings energy and personality to your space. ACT FAST\n\nUse code WELCOME25 for 25% off eligible items: https://allposters.attn.tv/atLTrzEm1l1s .",
-          "date_time": "2026-02-10 17:13:51.663",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-12 10:19:51.213"
         },
         {
-          "message_type": "system",
-          "message_text": "AllPosters: Use code WELCOME25 for 25% off your order—redeem now while the offer lasts.\n\nShop now: https://allposters.attn.tv/ahHu0VacpFyF . LIMITED TIME",
-          "date_time": "2026-02-11 17:14:05.679",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "AllPosters: Grab Dance Study II—beautiful print, great focal piece for your room.\n\nUse code WELCOME25 for 25% off at checkout.\n\nShop now: https://allposters.attn.tv/aU_6C1ChEGee .",
-          "date_time": "2026-02-11 20:57:58.229",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "AllPosters: Bright pick for your walls — fine art posters bring classic scenes and bold color to any room, ready to transform your space.\n\nSee the pieces: https://allposters.attn.tv/aGFWitRqYGJl .",
-          "date_time": "2026-02-12 11:11:13.116",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "AllPosters: 25% Off something for every wall! Shop your favorites and enjoy 25% off Orders $35+ allposters.attn.tv/aN7mIqZC0v60 \n\nSTOP to opt-out",
-          "date_time": "2026-02-13 15:10:07.300",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "AllPosters: Check out our Fan Guide for the coolest pop culture picks! Discover the latest trends and best sellers now! allposters.attn.tv/aUU9QDj6LVRU",
-          "date_time": "2026-02-14 19:10:01.244",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "AllPosters: Nice to see you — thanks for stopping by!\n\nUse code WELCOME25 to get 25% off your order.\n\nShop now: https://allposters.attn.tv/aeRHvfrk7hc4 .",
-          "date_time": "2026-02-14 20:37:18.667",
-          "message_media": [
-            
-          ]
-        },
-        {
+          "message_media": [],
+          "message_text": "Is this good for clear mature skin?",
           "message_type": "customer",
-          "message_text": "Can I get free shipping?",
-          "date_time": "2026-02-14 20:37:53.074",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-12 10:21:27.519"
         },
         {
-          "message_type": "template",
-          "message_text": "Template used: \"Free shipping\"; last updated: 2025-02-26 15:50:27.232",
-          "date_time": "2026-02-14 21:15:30.842",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c5f14-e4f9-4633-f000-0000fa6f75d6",
-          "message_text": "AllPosters: Thank you for reaching out. We don\u0027t currently offer free shipping, but all promos will always be shared with our SMS subscribers or on our website, so keep an eye out! You may also want to check our sale collection to get ideas for your next purchase here: https://allposters.attn.tv/az4h62AQzCsJ\n\nIf you have any other questions in the future, don\u0027t hesitate to reach out. ",
+          "message_media": [],
+          "message_text": "CLEARSTEM: For mature skin, BOUNCEBACK is ideal. It's an anti-aging powerhouse that targets wrinkles and scar damage. More info: https://clearstem.attn.tv/aPC_DmGOivIu",
           "message_type": "agent",
-          "agent": "82260",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-14 21:15:30.846"
+          "agent": "62551",
+          "message_id": "019c5271-bc0c-45e2-f000-0000fad8915b",
+          "date_time": "2026-02-12 10:21:51.394"
+        },
+        {
+          "message_media": [],
+          "message_text": "Thank you!",
+          "message_type": "customer",
+          "date_time": "2026-02-12 10:22:27.648"
+        },
+        {
+          "message_media": [],
+          "message_text": "CLEARSTEM: Roses are red, violets are blue, we're giving away a free Mini HYDRAGLOW just for YOU. \n\nTo claim your Galentine's gift, spend $75, add your mini to cart, and use code LOVE: clearstem.attn.tv/aKQOiA0Z3f8k .",
+          "message_type": "system",
+          "date_time": "2026-02-12 12:02:43.668"
+        },
+        {
+          "message_media": [],
+          "message_text": "I just plac3d an order today.  Can you please add it with code LOVE?  Order #CS1199152",
+          "message_type": "customer",
+          "date_time": "2026-02-12 14:23:46.090"
+        },
+        {
+          "message_media": [],
+          "message_text": "CLEARSTEM: Thanks for your order! I can check with my team to see if we can apply the code to your order. Could you please also confirm the email address it's under so we can proceed? ",
+          "message_type": "agent",
+          "agent": "87595",
+          "message_id": "019c5353-7606-49f4-f000-0000fad8915b",
+          "date_time": "2026-02-12 14:28:24.613"
+        },
+        {
+          "message_media": [],
+          "message_text": "Asklein52@gmail.com",
+          "message_type": "customer",
+          "date_time": "2026-02-12 14:29:06.636"
+        },
+        {
+          "message_media": [],
+          "message_text": "This was my first order",
+          "message_type": "customer",
+          "date_time": "2026-02-12 14:29:19.678"
+        },
+        {
+          "message_media": [],
+          "message_text": "CLEARSTEM: Thank you for the details! I can see that the discount code BECLEAR15 for $15 is already applied to your order, and we are unable to apply two codes to the same order.\n\nCould you please let me know if you would like to keep the BECLEAR15 code, or remove it and apply the code LOVE to receive a free Mini HYDRAGLOW instead?",
+          "message_type": "agent",
+          "agent": "87295",
+          "message_id": "019c535b-4259-4ab8-f000-0000fad8915b",
+          "date_time": "2026-02-12 14:36:55.668"
+        },
+        {
+          "message_media": [],
+          "message_text": "Keep the first one.  Thx",
+          "message_type": "customer",
+          "date_time": "2026-02-12 14:38:06.353"
+        },
+        {
+          "message_media": [],
+          "message_text": "Hey. Better yet.  Please cancel that order?  I ll just reorder again.   Thx",
+          "message_type": "customer",
+          "date_time": "2026-02-12 14:43:36.375"
+        },
+        {
+          "message_media": [],
+          "message_text": "CLEARSTEM: I understand. Let me check on this with my team, and I'll get back to you as soon as I have more information. I'll keep you updated!",
+          "message_type": "agent",
+          "agent": "46059",
+          "message_id": "019c5362-4256-42f0-f000-0000fad8915b",
+          "date_time": "2026-02-12 14:44:34.415"
+        },
+        {
+          "message_media": [],
+          "message_text": "It hasn't been shipped yet, so shouldn't t be a problem.",
+          "message_type": "customer",
+          "date_time": "2026-02-12 14:45:46.313"
+        },
+        {
+          "message_media": [],
+          "message_text": "CLEARSTEM: Thank you for letting me know! I have passed this on to my team and I will get back as soon as I hear from them! Hang tight!",
+          "message_type": "agent",
+          "agent": "87295",
+          "message_id": "019c5363-df27-4c7d-f000-0000fad8915b",
+          "date_time": "2026-02-12 14:46:20.094"
         }
-      ]
-    },
-    "152": {
-      "agentName": "Jordan",
-      "id": "019c5455-b964-4d59-f000-0000b6baea95",
+      ],
+      "notes": {
+        "dos_and_don_ts": [
+          "CS FAQ 2023: https://docs.google.com/document/d/14trCw9iSUHRl_4Yq40Wz5dg3mZzm_-c0PNFbzdePMj0/edit?usp=sharing"
+        ],
+        "promo_and_promo_exclusions": [
+          "MINDBODYSKIN is not eligible for any discount codes!",
+          "Codes only apply to products found here: https://clearstem.com/collections/all-items-codes-allowed?srsltid=AfmBOor8cOzvFvRGC60_ZKpExyRCdNOowQ8eGgZyJyAn341uscwJDfsZ"
+        ]
+      },
       "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://clearstem.com",
+          "date": ""
+        },
         "browsingHistory": [
           {
-            "link": "https://www.samedelman.com/product/womens-bay-slide-sandal-3017574/saddle-leather-ec0229829",
-            "item": "bay slide sandal",
+            "item": "BOUNCEBACK Peptide Powerhouse Serum",
+            "link": "https://clearstem.com/products/bounceback-repair-serum",
             "timeAgo": "2026-02-12"
           },
           {
-            "link": "https://www.samedelman.com/product/womens-hazel-riviera-pointed-toe-pump-3032269/ecru-multi-mesh-fabric-ec0209219",
-            "item": "hazel riviera pointed toe pump",
-            "timeAgo": "2026-01-25"
+            "item": "Balm + Barrier Set",
+            "link": "https://clearstem.com/products/balm-barrier-set",
+            "timeAgo": "2026-02-12"
           },
           {
-            "link": "https://www.samedelman.com/product/womens-bianka-slingback-pump-3028153/french-sand-leather-ec0205691",
-            "item": "bianka slingback pump",
-            "timeAgo": "2026-01-15"
+            "item": "VITAMINSCRUB® - Antioxidant-Infused Scrub Cleanser",
+            "link": "https://clearstem.com/products/vitaminscrub",
+            "timeAgo": "2026-02-12"
+          },
+          {
+            "item": "BOUNCEBACK Peptide Powerhouse Serum",
+            "link": "https://clearstem.com/products/bounceback-repair-serum",
+            "timeAgo": "2026-02-12"
+          },
+          {
+            "item": "GOLDENHOUR Watermelon Barrier Oil",
+            "link": "https://clearstem.com/products/goldenhour",
+            "timeAgo": "2026-02-12"
           }
         ],
-        "source": {
-          "label": "Website",
-          "value": "https://samedelman.com",
-          "date": ""
-        }
-      },
-      "companyWebsite": "https://samedelman.com",
-      "companyName": "Sam Edelman",
-      "notes": {
-        "send_to_cs": [
-          "If the cx sends us their credit card information (written or screenshot) and it\u0027s an issue we can\u0027t resolve - send the customer to CS",
-          "➜ Do NOT ESC any conversation that contains this type of information in the thread"
-        ],
-        "escalate": [
-          "When you ESC use ESC shortcut fisrt",
-          "ESC if the charge on cx account is pending"
+        "orders": [
+          {
+            "orderNumber": "1199152",
+            "orderDate": "2026-02-12",
+            "items": [
+              {
+                "name": "BOUNCEBACK Peptide Powerhouse Serum",
+                "price": 98,
+                "productLink": "https://clearstem-skincare.myshopify.com/products/bounceback-repair-serum"
+              }
+            ],
+            "link": "https://clearstem.com/56349720736/orders/c9e62be471605d4e6639588cf18043e8/authenticate?key=50d1f203f29e508d63e876677ab8b43c",
+            "trackingLink": "https://www.cirrotrack.com/parcelTracking?id=CR000440501165",
+            "order_tracking_link": "https://www.cirrotrack.com/parcelTracking?id=CR000440501165",
+            "total": 90.37,
+            "coupon": "BECLEAR15",
+            "date_time": "2026-02-12 15:35:28.471"
+          }
         ]
       },
-      "blocklisted_words": [
-        
-      ],
       "escalation_preferences": [
-        
+        "nutrition",
+        "diet",
+        "unhappy with product",
+        "personalized questions"
       ],
+      "blocklisted_words": [],
+      "has_shopify": true
+    },
+    "152": {
+      "id": "019c7d5e-8182-47f1-f000-0000faa147fe",
+      "companyName": "Bear Mattress",
+      "companyWebsite": "https://bearmattress.com/",
+      "agentName": "Kelly",
       "messageTone": "Polished",
       "conversation": [
         {
+          "message_media": [],
+          "message_text": "Bear Mattress: Welcome to Bear Mattress! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
           "message_type": "system",
-          "message_text": "Sam Edelman: Keep your New Year style momentum going with our latest arrivals.\n\nShop now: samedelman.attn.tv/aDLnwIbW8K9e ",
-          "date_time": "2026-01-14 19:10:06.754",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-11 23:42:59.332"
         },
         {
+          "message_media": [],
+          "message_text": "Bear Mattress: You've unlocked our Presidents Day Sale! \n\nSave 40% on your entire order AND receive FREE $275 Sleep Accessories on us! (Two Pillows + Mattress Protector)\n\nUse Code: \"SLEEP4TY\" at checkout!\n\nHave any questions? Send us a text back!\n\nbearmattress.attn.tv/aMgsRmMbnPTA Text STOP to unsubscribe",
           "message_type": "system",
-          "message_text": "Sam Edelman: Hey this is Jordan . Thanks for checking out our site! 😊 https://samedelman.attn.tv/a4D6WuksLsqM \n\nAre you looking for anything in particular today? ",
-          "date_time": "2026-01-15 10:37:07.022",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-11 23:43:03.283"
         },
         {
+          "message_media": [],
+          "message_text": "Bear Mattress: Limited-Time Subscriber Exclusive: \n\nCheck out now with offer code \"SLEEP4TY\" for 40% off sitewide savings! \n\nbearmattress.attn.tv/aicU6ZNInfJK  Text STOP to unsubscribe",
           "message_type": "system",
-          "message_text": "Sam Edelman: Members get more! Take an extra 25% off sale styles with WINTER25. Not a member yet? Enjoy an extra 20% off with WINTER20.\n\nLog in or sign up to access: samedelman.attn.tv/aFcRwBRSD_Ty ",
-          "date_time": "2026-01-16 14:16:11.701",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-12 12:02:01.446"
         },
         {
+          "message_media": [],
+          "message_text": "Bear Mattress: Hi — thanks for stopping by!\n\nReady to upgrade your sleep? Buy here: https://bearmattress.attn.tv/af-CVBY91OQX . Stop to stop",
           "message_type": "system",
-          "message_text": "Sam Edelman: New year, new secondhand styles! Shop sold out favs, rare colors and limited-edition pairs on Relove for less. \n\nShop now: samedelman.attn.tv/a4i6HPn4CWxF ",
-          "date_time": "2026-01-17 20:06:13.779",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-12 13:41:26.112"
         },
         {
+          "message_media": [],
+          "message_text": "Bear Mattress: Thank you for your purchase! Your order number is 265741. View more information about your order here: https://bearmattress.attn.tv/a1CA1dkiVSD3 . Text STOP to unsubscribe",
           "message_type": "system",
-          "message_text": "Sam Edelman: Sale just got better! Members save an extra 25% with WINTER25 or take 20% off with WINTER20. \n\nShop now: samedelman.attn.tv/a5cJ0ws1nkdV ",
-          "date_time": "2026-01-19 13:16:13.467",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-12 14:26:28.708"
         },
         {
+          "message_media": [],
+          "message_text": "Bear Mattress: Get the Bear Foundation for solid mattress support and easy assembly, Donnay!\n\nSave 40% + a free bundle with two pillows and a mattress protector through Monday, 02/16 (bundle not offered with Bear Trek, Bear Cub, or Bear Trundle).\n\nCheck it out: https://bearmattress.attn.tv/ao210_1kWev2 . Stop to stop",
           "message_type": "system",
-          "message_text": "Sam Edelman: Last call for extra savings: 25% off sale styles for loyalty members, 20% off sale styles for non-members. \n\nShop now: samedelman.attn.tv/a0E24WAm6SNX ",
-          "date_time": "2026-01-19 18:31:00.359",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-12 16:20:52.680"
         },
         {
+          "message_media": [],
+          "message_text": "Bear Mattress: Hi, Donnay, congrats on your new mattress from Bear!\n\nDid you know your bed base is key to the longevity of your mattress? Without the proper support, your mattress could be damaged.\n \nLearn more about what bed base is best for your mattress: https://bearmattress.attn.tv/aWNhcevzqYlf Text STOP to unsubscribe",
           "message_type": "system",
-          "message_text": "Sam Edelman: Turn your closet into 120% brand credit when you sell on ReLove. Now-Feb 15 only. \n\nList an item: samedelman.attn.tv/azsr9Eq-hOu9 ",
-          "date_time": "2026-01-21 14:46:03.323",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-13 15:12:15.332"
         },
         {
+          "message_media": [],
+          "message_text": "Bear Mattress: Hi, Donnay, it's Bear again! \n\nWe wanted to send over a discount code just for you to use toward any of Bear's bed bases. \n\nUse Code: \"BB40\" at checkout for 40% off your bed base!\n\nhttps://bearmattress.attn.tv/a_9igFSmDsxn  Text STOP to unsubscribe",
           "message_type": "system",
-          "message_text": "Sam Edelman: Snow is coming! Our coziest boots are waiting. Get yours on sale today.\n\nShop now: samedelman.attn.tv/am937SH2HI3G ",
-          "date_time": "2026-01-23 15:30:54.339",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-13 16:12:20.172"
         },
         {
+          "message_media": [],
+          "message_text": "Bear Mattress: Complete checkout for your Bear Original Mattress — premium memory foam with balanced support and cooling comfort, Donnay!\n\nSave 40% + a free bundle with two pillows and a mattress protector through Monday, 02/16; excludes bundle with Bear Trek, Bear Cub, or Bear Trundle.\n\nShop now: https://bearmattress.attn.tv/aPcEbG5TNfca . Stop to stop",
           "message_type": "system",
-          "message_text": "Sam Edelman: Hey this is Jordan . Thanks for checking out our site! 😊 https://samedelman.attn.tv/aHVPhBNbU8lf \n\nAre you looking for anything in particular today? ",
-          "date_time": "2026-01-25 12:05:37.114",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-14 10:38:52.610"
         },
         {
+          "message_media": [],
+          "message_text": "Bear Mattress: Donnay — check the mattresses with cooling tops and recovery foam designed for active sleepers!\n\nSave 40% + a free bundle of two pillows and a mattress protector, ends Monday 02/16; excludes bundle with Bear Trek, Bear Cub, or Bear Trundle.\n\nCatch better rest here: https://bearmattress.attn.tv/aFcfHmZ3btel . Stop to stop",
           "message_type": "system",
-          "message_text": "Sam Edelman: The spring must-have: our bestselling woven flat. Back in stock for the new season. \n\nShop now: samedelman.attn.tv/aG9WINuj4aow ",
-          "date_time": "2026-02-01 16:08:12.049",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-14 11:39:00.188"
         },
         {
+          "message_media": [],
+          "message_text": "Bear Mattress: Try the Elite Hybrid Mattress for better cooling and targeted five-zone support, Donnay!\n\nSave 40% plus a free bundle with two pillows and a mattress protector through Monday, 02/16 — excludes bundle with Bear Trek, Bear Cub, or Bear Trundle.\n\nReady for better rest: https://bearmattress.attn.tv/aHTLCAsWp4Gs . Stop to stop",
           "message_type": "system",
-          "message_text": "Sam Edelman: The Felicity flat: exceptional comfort, now available in luxe woven leather.\n\nShop now: samedelman.attn.tv/aacabfrzqMt3 ",
-          "date_time": "2026-02-04 19:11:10.254",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-14 13:50:12.158"
         },
         {
+          "message_media": [],
+          "message_text": "Bear Mattress: Great news! Your order (265741) has shipped. Click here to track your order: https://bearmattress.attn.tv/aKgAKtl2PpfR . Text STOP to unsubscribe",
           "message_type": "system",
-          "message_text": "Sam Edelman: Explore the timeless styles every wardrobe needs and why we call them icons. Shop Edelman Icons: https://samedelman.attn.tv/aKvov2WIvZLc .",
-          "date_time": "2026-02-06 15:39:54.426",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-17 16:00:04.719"
         },
         {
+          "message_media": [],
+          "message_text": "Bear Mattress: Hi, Donnay, it's Bear!\n\nSpills, stains, and everything in between; keep your mattress safe with a mattress protector! Here's 40% off on us!\n\n+ Why not treat yourself to a new pillow!\n\nUse Code: \"ACC40\" at checkout and save!\n\nhttps://bearmattress.attn.tv/a14iZX4SWQ4W Text STOP to unsubscribe",
           "message_type": "system",
-          "message_text": "Sam Edelman: Polish off your Valentine\u0027s Day look with heels that double your dose of romance. \n\nShop now: samedelman.attn.tv/aza3rKRmDqXE ",
-          "date_time": "2026-02-08 18:01:12.721",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-20 16:12:26.939"
         },
         {
+          "message_media": [],
+          "message_text": "Bear Mattress: Great news! Your order (265741) has shipped. Click here to track your order: https://bearmattress.attn.tv/aEN_WY7Tiz8t . Text STOP to unsubscribe",
           "message_type": "system",
-          "message_text": "Sam Edelman: A minimal sneaker that\u0027s undeniably chic. Shop now. \n\nShop now: samedelman.attn.tv/agPUxANcGLaF ",
-          "date_time": "2026-02-11 19:03:09.527",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-20 18:18:37.019"
         },
         {
-          "message_type": "system",
-          "message_text": "Sam Edelman: Hey this is Jordan . Thanks for checking out our site! 😊 https://samedelman.attn.tv/a-TdiURSRTpj \n\nAre you looking for anything in particular today? ",
-          "date_time": "2026-02-12 18:45:49.343",
-          "message_media": [
-            
-          ]
-        },
-        {
+          "message_media": [],
+          "message_text": "order issue",
           "message_type": "customer",
-          "message_text": "Hey yes its my birthday im looking for my present i would like a sandals in size 13 color black or nude",
-          "date_time": "2026-02-12 18:54:23.739",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-20 18:21:45.616"
         },
         {
-          "message_type": "template",
-          "message_text": "Template used: \"Happy Birthday - All brands\"; last updated: 2023-10-10 18:17:51.301",
-          "date_time": "2026-02-12 19:10:30.145",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c5455-b964-4d59-f000-0000b6baea95",
-          "message_text": "Sam Edelman: Happy birthday! I hope this is the beginning of your greatest, most wonderful year ever! We do carry sandals in size 13, though availability can vary by style and color. Black and nude are classic options, and I\u0027d recommend checking our current selection https://samedelman.attn.tv/aJ27YNn7ndi7 Let me know if there\u0027s anything else I can help you with.",
-          "message_type": "agent",
-          "agent": "109972",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-12 19:10:30.146"
-        }
-      ]
-    },
-    "153": {
-      "agentName": "Sarah",
-      "id": "019c3fa1-9c9d-427a-f000-0000f7317986",
-      "rightPanel": {
-        "source": {
-          "label": "Website",
-          "value": "https://halloweencostumes.com",
-          "date": ""
-        }
-      },
-      "companyWebsite": "https://halloweencostumes.com",
-      "companyName": "HalloweenCostumes.com",
-      "notes": {
-        "escalate": [
-          "ESC expired codes/discount code issues, ask for cart ID and add it in esc notes",
-          "Don\u0027t send to CS for this client, ESC if needed",
-          "For retroactive discount requests add discount % in ESC note",
-          "ESC if a customer requests a different resolution, after their escalation was resolved"
-        ],
-        "dos_and_donts": [
-          "Fun Bucks AREN\u0027T rewards points, those are given during exchanges"
-        ],
-        "promo_and_exclusions": [
-          "This brand does not use coupon codes or promotions. All of their discounts are exclusively link-based and are applied automatically to the shopping cart upon checkout when the appropriate conditions are met",
-          "Please do not advise customers to use promotional codes, do not provide them with any codes, and do not direct them to look on the website for additional codes",
-          "They do not have any promotional code text fields on site to facilitate use"
-        ]
-      },
-      "blocklisted_words": [
-        
-      ],
-      "escalation_preferences": [
-        
-      ],
-      "messageTone": "Casual",
-      "conversation": [
-        {
-          "message_type": "system",
-          "message_text": "Halloween Costumes: Welcome to Halloween Costumes! Msg \u0026 data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
-          "date_time": "2026-02-02 21:40:28.943",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Halloween Costumes: \nThanks for subscribing! Shop this link to claim your 15% off. halloweencostumes.attn.tv/a_rGPPzZsAtJ",
-          "date_time": "2026-02-02 21:40:32.899",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Halloween Costumes: Don\u0027t forget to save our contact to get exclusive updates!",
-          "date_time": "2026-02-02 22:40:37.575",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Halloween Costumes: \nStill thinking it over? We saw you checking things out! Come back \u0026 find your perfect pick now! \nhalloweencostumes.attn.tv/aTPYSPWDiz3p",
-          "date_time": "2026-02-03 13:17:44.340",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Halloween Costumes: \nLooking for what\u0027s trending? Our best sellers are packed with top costumes, decor, and fun finds.\nhalloweencostumes.attn.tv/aKxKIS9ZszbQ",
-          "date_time": "2026-02-05 13:24:49.158",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Halloween Costumes: \nHey there! We noticed you checking us out. Get into character today with our wide selection! \nhalloweencostumes.attn.tv/axBR_lKdvz0s",
-          "date_time": "2026-02-08 18:20:41.492",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "Where\u0027s my order? I paid for 3 day delivery and we\u0027re past that",
-          "date_time": "2026-02-08 18:21:45.350",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c3fa1-9c9d-427a-f000-0000f7317986",
-          "message_text": "Halloween Costumes: I\u0027m sorry to hear that you have not received your order yet. Let me go ahead and check with my team and I\u0027ll get back to you as soon as I receive an update. To help with this, may I also ask for your order number and email address? ",
+          "message_media": [],
+          "message_text": "Bear Mattress: I'm sorry to hear that. Would it be possible to ask for further details regarding your concern? I would be glad to check on this further. ",
           "message_type": "agent",
           "agent": "82260",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-08 18:41:21.974"
+          "message_id": "019c7d5e-8182-47f1-f000-0000faa147fe",
+          "date_time": "2026-02-20 18:24:31.527"
         }
-      ]
-    },
-    "154": {
-      "agentName": "",
-      "id": "019c5874-1969-4f62-f000-0000fa5ff931",
-      "rightPanel": {
-        "browsingHistory": [
-          {
-            "link": "https://www.swiglife.com/products/sweethearts-travel-mug-22oz?utm_source=Klaviyo\u0026utm_medium=flow\u0026utm_campaign=Abandoned%20Cart%2C%20Email%20%231%2C%20Reviews\u0026utm_klaviyo_id=01KH3VJMF9HJVAFE5D7T3QJFRD\u0026_kx=C3tHJ5hxPReb7TrxFYN4hgbKdt1gYlN8lU2c5GEkGeqNAi6dWsjIMlDdUlGof0Jx.NRyW85",
-            "item": "Sweethearts Travel Mug 22oz",
-            "timeAgo": "2026-02-13"
-          },
-          {
-            "link": "https://www.swiglife.com/products/sweethearts-travel-mug-22oz?utm_source=Klaviyo\u0026utm_medium=flow\u0026utm_campaign=Abandoned%20Cart%2C%20Email%20%231%2C%20Reviews\u0026utm_klaviyo_id=01KH3VJMF9HJVAFE5D7T3QJFRD\u0026_kx=C3tHJ5hxPReb7TrxFYN4hgbKdt1gYlN8lU2c5GEkGeqNAi6dWsjIMlDdUlGof0Jx.NRyW85",
-            "item": "Sweethearts Travel Mug 22oz",
-            "timeAgo": "2026-02-13"
-          }
-        ],
-        "source": {
-          "label": "Website",
-          "value": "https://swiglife.com",
-          "date": ""
-        }
-      },
-      "companyWebsite": "https://swiglife.com",
-      "companyName": "Swig Life",
+      ],
       "notes": {
         "send_to_cs": [
           "No ESC for this client, send everything to CS"
         ],
-        "tone": [
-          "Close the convo once the client takes over"
+        "dos_and_don_ts": [
+          "The cub and trundle mattresses do not include any of the free promotional products (no pillows, protector, sheets)",
+          "All mattresses ship seperately, inform the cx if they inquire about different shipping times"
+        ],
+        "drive_to_purchase": [
+          "When recommending bestsellers via the NCODE temp suggest Bear Original, Star Hybrid, Bear Pillow, & GlacioTex Mattress Protector"
+        ],
+        "promo_and_promo_exclusions": [
+          "We no longer offer free pillows with a mattress purchase"
         ]
       },
-      "blocklisted_words": [
-        
-      ],
-      "escalation_preferences": [
-        
-      ],
-      "messageTone": "Polished",
-      "conversation": [
-        {
-          "message_type": "system",
-          "message_text": "Swig Life: Welcome! Msg \u0026 data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel. Privacy: attnl.tv/p/tjt",
-          "date_time": "2026-02-10 08:24:36.082",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Swig Life: Love is in the air! Your 20% OFF coupon code is ready. Use code SMS20pA36Un on your next full-price purchase. Shop New Arrivals that\u0027ll have you falling in love: swiglife.attn.tv/aZ_5i8FRnkVB . ",
-          "date_time": "2026-02-10 08:24:40.505",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Swig Life: Oh, also, a lot of people like getting personal recs from us. Over the next few days we\u0027ll try to help you find something that you will love.\n\nIn the meantime, check out what\u0027s new: https://swiglife.attn.tv/aU0qH14IWP-I .",
-          "date_time": "2026-02-10 08:25:42.092",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Swig Life: Bride To Be tumblers bring fun patterns and insulated performance for long bachelorette days.\n\nUse code SMS20pA36Un for 20% off full-priced items: https://swiglife.attn.tv/aIPjYykmhSq7 .",
-          "date_time": "2026-02-10 08:35:57.008",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Swig Life: Still thinking it over Jackie? You left some great stuff behind. Click to complete your order now - our popular styles go fast: swiglife.attn.tv/aActVBMtaqIt . ",
-          "date_time": "2026-02-10 15:17:25.708",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Swig Life: Use code SMS20pA36Un for 20% off full-priced items and free shipping on orders $75 or more.\n\nShop now: https://swiglife.attn.tv/acwtDkzCahoX .",
-          "date_time": "2026-02-11 12:35:58.643",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Swig Life: Grab your Bride To Be Straw Topper Set, Jackie — playful silicone toppers keep sips safe and stylish.\n\nRight now, buy one, get one 50% off Valentine Swigs sale is live.\n\nShop now: https://swiglife.attn.tv/a9ODQ9WiYBVf .",
-          "date_time": "2026-02-13 14:03:04.122",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "I try to check out and my items are not discounted 50% off",
-          "date_time": "2026-02-13 14:10:35.765",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c586f-2b6f-49e8-f000-0000fa5ff931",
-          "message_text": "Swig Life: I\u0027m sorry to hear that! Could you kindly share a screenshot of the items in your cart? I\u0027ll be happy to look into the issue. In the meantime, the 50% off Valentine\u0027s offer applies to eligible items here: https://swiglife.attn.tv/aT2Uo0wEheiW",
-          "message_type": "agent",
-          "agent": "87310",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-13 14:16:46.600"
-        },
-        {
-          "message_id": "019c5874-1969-4f62-f000-0000fa5ff931",
-          "message_text": "Swig Life: Thank you for sharing that. Upon checking, it appears some of the items you\u0027re trying to buy aren\u0027t eligible for the discount. I\u0027m truly sorry for the inconvenience. Kindly refer to the link above for all the eligible items.",
-          "message_type": "agent",
-          "agent": "109968",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-13 14:22:09.672"
-        }
-      ]
-    },
-    "155": {
-      "agentName": "Sarah",
-      "id": "019c4f2f-a300-4087-f000-0000fa939ea9",
       "rightPanel": {
         "source": {
           "label": "Website",
-          "value": "https://covercraft.com",
+          "value": "https://bearmattress.com/",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "Elite Hybrid - Queen / Medium / Yes",
+            "link": "https://www.bearmattress.com/products/elite-hybrid-mattress?irclickid=19NUD70qGxyZUTExoYXJI0q8UkuxDEzfvQHlw00&utm_source=Impact&utm_content=1034607&utm_medium=Consumer%20Rating&ir_partnerid=3469009&ir_adid=1034607&ir_campaignid=13476&irgwc=1&afsrc=1",
+            "timeAgo": "2026-02-14"
+          },
+          {
+            "item": "Elite Hybrid",
+            "link": "https://www.bearmattress.com/products/elite-hybrid-mattress?irclickid=19NUD70qGxyZUTExoYXJI0q8UkuxDEzfvQHlw00&utm_source=Impact&utm_content=1034607&utm_medium=Consumer%20Rating&ir_partnerid=3469009&ir_adid=1034607&ir_campaignid=13476&irgwc=1&afsrc=1",
+            "timeAgo": "2026-02-14"
+          },
+          {
+            "item": "Elite Hybrid - Twin / Soft / No",
+            "link": "https://www.bearmattress.com/products/elite-hybrid-mattress?irclickid=19NUD70qGxyZUTExoYXJI0q8UkuxDEzfvQHlw00&utm_source=Impact&utm_content=1034607&utm_medium=Consumer%20Rating&ir_partnerid=3469009&ir_adid=1034607&ir_campaignid=13476&irgwc=1&afsrc=1",
+            "timeAgo": "2026-02-14"
+          },
+          {
+            "item": "Elite Hybrid",
+            "link": "https://www.bearmattress.com/products/elite-hybrid-mattress?variant=41483293032553&g_acctid=969-255-3408&g_adgroupid=178117854432&g_adid=744018433635&g_adtype=pla&g_campaign=US%7CBear%7CG%7CS%7CS%7CMattress&g_campaignid=22334220646&g_ifcreative=&g_ifproduct=product&g_keyword=&g_keywordid=pla-2414467647737&g_merchantid=105660932&g_network=g&g_partition=2414467647737&g_productchannel=online&g_productid=shopify_US_6790983286889_41483293032553&gad_source=1&gad_campaignid=22334220646&gbraid=0AAAAABRxbhg2lEUtj3Z4KQROwc63vWa8B&gclid=Cj0KCQiA18DMBhDeARIsABtYwT0FMTktwGUZJzd0UIf4uJx1lVdPhN4Dj1dxELkC9a3U1ODEHy67S4caAj5NEALw_wcB",
+            "timeAgo": "2026-02-14"
+          },
+          {
+            "item": "Elite Hybrid - Full / Firm / No",
+            "link": "https://www.bearmattress.com/products/elite-hybrid-mattress?variant=41483293032553&g_acctid=969-255-3408&g_adgroupid=178117854432&g_adid=744018433635&g_adtype=pla&g_campaign=US%7CBear%7CG%7CS%7CS%7CMattress&g_campaignid=22334220646&g_ifcreative=&g_ifproduct=product&g_keyword=&g_keywordid=pla-2414467647737&g_merchantid=105660932&g_network=g&g_partition=2414467647737&g_productchannel=online&g_productid=shopify_US_6790983286889_41483293032553&gad_source=1&gad_campaignid=22334220646&gbraid=0AAAAABRxbhg2lEUtj3Z4KQROwc63vWa8B&gclid=Cj0KCQiA18DMBhDeARIsABtYwT0FMTktwGUZJzd0UIf4uJx1lVdPhN4Dj1dxELkC9a3U1ODEHy67S4caAj5NEALw_wcB",
+            "timeAgo": "2026-02-14"
+          }
+        ],
+        "orders": [
+          {
+            "orderNumber": "265741",
+            "orderDate": "2026-02-12",
+            "items": [
+              {
+                "name": "Bear Original",
+                "price": 998,
+                "productLink": "https://bear-mattress.myshopify.com/products/bear-original-mattress"
+              },
+              {
+                "name": "Bear Sleep Bundle",
+                "price": 0,
+                "productLink": "https://bear-mattress.myshopify.com/products/bear-sleep-bundle-copy"
+              }
+            ],
+            "link": "https://www.bearmattress.com/6615815/orders/6b1641c8bc76dc115c13513939cb683c/authenticate?key=410d6f1debdc38ea28615af1fbdd8260",
+            "trackingLink": "https://www.fedex.com/fedextrack/?trknbr=398818799820",
+            "order_tracking_link": "https://www.fedex.com/fedextrack/?trknbr=398818799820",
+            "total": 643.7,
+            "coupon": "SLEEP4TY",
+            "date_time": "2026-02-12 19:26:17.945"
+          }
+        ]
+      },
+      "escalation_preferences": [
+        "Exchanges and returns",
+        "Shipping questions"
+      ],
+      "blocklisted_words": [
+        "organic",
+        "all-natural"
+      ],
+      "has_shopify": true
+    },
+    "153": {
+      "id": "019c7806-e49e-4604-f000-0000f5262844",
+      "companyName": "Sebastian Cruz Couture",
+      "companyWebsite": "https://sebastiancruzcouture.com",
+      "agentName": "Jordan",
+      "messageTone": "Polished",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "Sebastian Cruz Couture: Welcome to Sebastian Cruz Couture! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
+          "message_type": "system",
+          "date_time": "2026-02-19 16:37:13.136"
+        },
+        {
+          "message_media": [],
+          "message_text": "Sebastian Cruz Couture: Don't forget to save our contact to get exclusive updates! Reply STOP to stop",
+          "message_type": "system",
+          "date_time": "2026-02-19 16:37:18.205"
+        },
+        {
+          "message_media": [],
+          "message_text": "Sebastian Cruz Couture: Welcome to our bold family! Enjoy exclusive savings with code bold30 at checkout. Happy shopping! Reply STOP to stop",
+          "message_type": "system",
+          "date_time": "2026-02-19 16:37:18.341"
+        },
+        {
+          "message_media": [],
+          "message_text": "Sebastian Cruz Couture: Hey Alkendric, this is Jordan . I noticed you were interested in something https://sebastiancruzcouture.attn.tv/aRhxfGool_QV .\n\nAnything I can help you with? Text me anytime Reply STOP to stop",
+          "message_type": "system",
+          "date_time": "2026-02-19 16:49:42.146"
+        },
+        {
+          "message_media": [],
+          "message_text": "Yes I love this suit but it's a little out of my budget",
+          "message_type": "customer",
+          "date_time": "2026-02-19 16:50:28.758"
+        },
+        {
+          "message_media": [],
+          "message_text": "Sebastian Cruz Couture: Thank you for your feedback. Check out The Vault collection for affordable options: https://sebastiancruzcouture.attn.tv/aDerwzKpKzdr. If you have questions, feel free to reach out!",
+          "message_type": "agent",
+          "agent": "62551",
+          "message_id": "019c77e2-7bff-43de-f000-0000f5262844",
+          "date_time": "2026-02-19 16:50:57.561"
+        },
+        {
+          "message_media": [],
+          "message_text": "Ok well help me out me a cream tuxedo together I'm getting married June 13 2026",
+          "message_type": "customer",
+          "date_time": "2026-02-19 16:53:16.924"
+        },
+        {
+          "message_media": [],
+          "message_text": "Sebastian Cruz Couture: Congratulations on your upcoming wedding! For a cream tuxedo, consider the Cream Maglia Silk Luxury Necktie: https://sebastiancruzcouture.attn.tv/ahNUdpjXpMl_. Let me know if you need more options!",
+          "message_type": "agent",
+          "agent": "62551",
+          "message_id": "019c77e4-eb66-4a7a-f000-0000f5262844",
+          "date_time": "2026-02-19 16:53:37.147"
+        },
+        {
+          "message_media": [
+            "https://attentive-files.s3.amazonaws.com/receive-event-media/1771539179115_17715391773527f57outxymcws7qs.png;Name=IMG_1549.png",
+            "https://attentive-files.s3.amazonaws.com/receive-event-media/1771539178734_17715391773527f57outxymcws7qs.application/smil"
+          ],
+          "message_text": "This jacket but the size I need is probably a 34r",
+          "message_type": "customer",
+          "date_time": "2026-02-19 17:13:07.354"
+        },
+        {
+          "message_media": [],
+          "message_text": "Sebastian Cruz Couture: Thanks for sending that screenshot over! it appears that specific jacket is not available in 34R. What do you think about these instead?\n\nhttps://sebastiancruzcouture.attn.tv/amzIgJBLkSJg\nhttps://sebastiancruzcouture.attn.tv/aIzH_GJ0BJY8\n\nLet me know how that goes.",
+          "message_type": "agent",
+          "agent": "109617",
+          "message_id": "019c7806-e49e-4604-f000-0000f5262844",
+          "date_time": "2026-02-19 17:30:43.642"
+        }
+      ],
+      "notes": {
+        "send_to_cs": [
+          "Send to CS for order status updates",
+          "Send to CS if there's a pending ESC and cx ask for an update (even if it's been less than 2 business days)"
+        ],
+        "escalate": [
+          "ESC immediately if the customer wants an order to arrive at a specific time, or before our standard shipping time",
+          "ESC for product info that you can't find on the site"
+        ],
+        "tone": [
+          "Close the convo once the client takes over"
+        ],
+        "templates": [
+          "If cx sends us their measurements or asks about making a custom sizing order use the CUS template.",
+          "If cx mentions that they're going to lose weight, use 'Lose weight' template."
+        ],
+        "dos_and_don_ts": [
+          "Do not recommend the customer go to a place to get measured",
+          "\"@ The Vault\" items are designated for returns/exchanges, but may also be available in other sizes on The Vault website. Always check there first",
+          "When the color is closer to white and not cream we say off white",
+          "You should never direct the customer to the sizing chart when they mention custom sizing or they send their measurements",
+          "Don't tell the customer to hold off on purchase if they are going to lose weight."
+        ],
+        "drive_to_purchase": [
+          "When recommending products, make sure they're aligned with the colors, style the cx is looking for"
+        ],
+        "promo_and_promo_exclusions": [
+          "If cx ask about pricing, tell them to add items to their cart and the best discount will apply automatically",
+          "The 40% discount applies automatically when cx add five or more items to their cart",
+          "If cx going to purchase a lot of products in one purchase, share with them what you can find on current offer page along with the link: https://www.sebastiancruzcouture.com/pages/current-offers"
+        ]
+      },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://sebastiancruzcouture.com",
           "date": ""
         }
       },
-      "companyWebsite": "https://covercraft.com",
-      "companyName": "Covercraft",
-      "notes": {
-        "templates": [
-          "For custom full vehicle covers use FVC shortcut",
-          "For cx that can\u0027t see the cover pattern/images of their vehicle use CPI shortcut",
-          "If we don\u0027t have a pattern/color the cx is looking for use PRR shortcut"
-        ],
-        "dos_and_donts": [
-          "Do not tell customers that the base price is the final price! The cost changes by the fitment and depends on the vehicle",
-          "Rebates are discounts for this brand!",
-          "Custom dim pattern sheets are only available for Vehicle Covers (Car, Truck, Van,RV)",
-          "➜https://www.covercraft.com/us/en/covercrafter"
-        ],
-        "drive_to_purchase": [
-          "Before sharing any product links, confirm the vehicle’s Year, Make, and Model"
-        ]
-      },
+      "escalation_preferences": [],
       "blocklisted_words": [
-        
+        "slow"
       ],
-      "escalation_preferences": [
-        "Discount code errors"
-      ],
-      "messageTone": "Casual",
+      "has_shopify": true
+    },
+    "154": {
+      "id": "019c5da8-c23f-483a-f000-00003688e7b8",
+      "companyName": "Tail Activewear",
+      "companyWebsite": "https://tailactivewear.com",
+      "agentName": "Sarah",
+      "messageTone": "Polished",
       "conversation": [
         {
+          "message_media": [],
+          "message_text": "Tail Activewear: Enjoy an EXTRA 40% off when you buy 2+ sale styles. Elevated quality, exceptional value. No code needed. tailactivewear.attn.tv/aYoiNFduTuAi ",
           "message_type": "system",
-          "message_text": "Covercraft: Reply Y to subscribe to recurring automated personalized marketing alerts (e.g. cart reminders) from Covercraft.",
-          "date_time": "2026-02-11 18:31:34.532",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-01-16 15:00:44.808"
         },
         {
+          "message_media": [],
+          "message_text": "Tail Activewear: More to love, more to save! Enjoy an EXTRA 40% off when you buy 2+ sale styles. No coded needed. tailactivewear.attn.tv/arWZz3D3_fwY ",
           "message_type": "system",
-          "message_text": "Covercraft: Welcome to Covercraft! Msg \u0026 data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
-          "date_time": "2026-02-11 18:32:01.183",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-01-19 15:01:06.461"
         },
         {
+          "message_media": [],
+          "message_text": "Tail Activewear: Stack your savings! Save an EXTRA 40% when you buy 2 or more sale styles. No code needed, shop now! tailactivewear.attn.tv/aQJh_Zf7XDDx ",
           "message_type": "system",
-          "message_text": "Covercraft: Enjoy $10 Off with code SAVE10. Find Your Custom Cover Today!\n\nView Active Deals: https://covercraft.attn.tv/a5yrVMc1ipq5 ",
-          "date_time": "2026-02-11 18:32:05.200",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-01-23 15:01:00.566"
         },
         {
+          "message_media": [],
+          "message_text": "Tail Activewear: Don't miss out! The style you were looking at is almost gone. Grab it before it's too late! https://tailactivewear.attn.tv/a8kV-YWEdDk8",
           "message_type": "system",
-          "message_text": "Covercraft: Hey there, this is Sarah. Thanks for checking us out! 😊 https://covercraft.attn.tv/aeV5EAiZm9m6\n\nAny questions I can answer for you?",
-          "date_time": "2026-02-11 18:34:18.759",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-01-24 12:20:58.938"
         },
         {
+          "message_media": [],
+          "message_text": "Tail Activewear: There are only a few of our Eleanor Noir Black Jogger - S left! Click here to shop before it's gone! https://tailactivewear.attn.tv/auFvJlmrjJzv .",
+          "message_type": "system",
+          "date_time": "2026-01-25 12:51:01.120"
+        },
+        {
+          "message_media": [],
+          "message_text": "Tail Activewear: Last day to stack your savings! Enjoy an EXTRA 40% off when you buy 2 or more sale styles, no code needed.\ntailactivewear.attn.tv/aSmrnf9Pgf7- ",
+          "message_type": "system",
+          "date_time": "2026-01-31 15:01:09.929"
+        },
+        {
+          "message_media": [],
+          "message_text": "Tail Activewear: 20% off full price styles for American Heart Month. Style you'll love, made to last. No code needed. tailactivewear.attn.tv/ao5lMAwbM9DI ",
+          "message_type": "system",
+          "date_time": "2026-02-03 15:00:38.342"
+        },
+        {
+          "message_media": [],
+          "message_text": "Tail Activewear: Fall in love with your wardrobe! 20% off full-price styles for American Heart Month. No code needed. tailactivewear.attn.tv/a6JUeb0jwVM_ ",
+          "message_type": "system",
+          "date_time": "2026-02-06 15:00:50.738"
+        },
+        {
+          "message_media": [],
+          "message_text": "Tail Activewear: Last chance: 20% off full-price styles you'll love for years. No code needed, shop now! tailactivewear.attn.tv/a8IigoJtIER- \n ",
+          "message_type": "system",
+          "date_time": "2026-02-08 15:01:06.974"
+        },
+        {
+          "message_media": [],
+          "message_text": "Tail Activewear: We miss you! Have you seen our new arrivals? Shop today and save 20% off with code HELLO20. Shop now: https://tailactivewear.attn.tv/amGX87OEltS_",
+          "message_type": "system",
+          "date_time": "2026-02-14 12:38:53.577"
+        },
+        {
+          "message_media": [],
+          "message_text": "I'm trying to make a purchase and my cart initially shows the discount but when I go to check out it takes the discount away. Can you please help?",
           "message_type": "customer",
-          "message_text": "I have a 2008 mustang gtcs convertible.  Which lebra will fit my car?",
-          "date_time": "2026-02-11 18:40:59.736",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-14 13:15:07.247"
         },
         {
-          "message_id": "019c4f1e-d686-4de2-f000-0000fa939ea9",
-          "message_text": "Covercraft: Thank you for reaching out. Sure, let me help you! How about this as my recommendation? - https://covercraft.attn.tv/a4PnnazDhPXt",
+          "message_media": [],
+          "message_text": "Tail Activewear: Thank you for reaching out. I'm sorry to hear that your code is not working. Can you please send me a screenshot of the items in your cart? This will help me troubleshoot the possible problem of why the code didn't work.\n\nAlso, please note that discount codes do not work on items that are on sale. I hope this helps.",
           "message_type": "agent",
           "agent": "48804",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-11 18:52:27.041"
+          "message_id": "019c5d5f-d15e-409c-f000-00003688e7b8",
+          "date_time": "2026-02-14 13:18:06.587"
         },
         {
-          "message_type": "customer",
-          "message_text": "That is a Dodge Challenger!",
-          "date_time": "2026-02-11 18:53:49.739",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c4f2f-a300-4087-f000-0000fa939ea9",
-          "message_text": "Covercraft: Thanks for getting back to me! I\u0027m really sorry for the inconvenience. Can you try checking this link instead? https://covercraft.attn.tv/a4I_RggFnm9d ",
+          "message_media": [],
+          "message_text": "Tail Activewear: Thank you so much for the screenshot and I'm so sorry for the delay in responding back.\nI have tried on my end, and it worked! Can you please try accessing it through this checkout link - https://tailactivewear.attn.tv/ap3rHuiPSwvY\nLet me know how it goes!",
           "message_type": "agent",
-          "agent": "109840",
+          "agent": "109964",
+          "message_id": "019c5d77-dfff-44c9-f000-00003688e7b8",
+          "date_time": "2026-02-14 13:44:23.193"
+        },
+        {
           "message_media": [
-            
+            "https://attentive-files.s3.amazonaws.com/receive-event-media/1771094932002_25ed20f0-a1d0-4381-a618-5fe230bef6ac-1.png",
+            "https://attentive-files.s3.amazonaws.com/receive-event-media/1771094932002_25ed20f0-a1d0-4381-a618-5fe230bef6ac-1.png"
           ],
-          "date_time": "2026-02-11 19:10:47.970"
+          "message_text": "I just did and the same thing happened. Shows discount and when I go to checkout it's back to regular price",
+          "message_type": "customer",
+          "date_time": "2026-02-14 13:48:59.867"
+        },
+        {
+          "message_media": [],
+          "message_text": "Tail Activewear: I completely understand and I apologize for the inconvenience. Based on this last screenshot, the code was successfully applied. Did you already enter your shipping information? ",
+          "message_type": "agent",
+          "agent": "35256",
+          "message_id": "019c5d98-f4f2-4898-f000-00003688e7b8",
+          "date_time": "2026-02-14 14:20:31.274"
+        },
+        {
+          "message_media": [],
+          "message_text": "Yes my shipping info is in and all I need is to put in payment info but it's charging me full price",
+          "message_type": "customer",
+          "date_time": "2026-02-14 14:34:43.161"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"Screenshot 2 - All brands\"; last updated: 2023-10-10 18:10:03.294",
+          "message_type": "template",
+          "date_time": "2026-02-14 14:37:46.848"
+        },
+        {
+          "message_media": [],
+          "message_text": "Tail Activewear: I'm really sorry for the inconvenience! Can you please send me a screenshot of what you're seeing on your end? I'll be more than happy to look into this for you!",
+          "message_type": "agent",
+          "agent": "109964",
+          "message_id": "019c5da8-c23f-483a-f000-00003688e7b8",
+          "date_time": "2026-02-14 14:37:46.850"
         }
-      ]
+      ],
+      "notes": {
+        "send_to_cs": [
+          "Send to CS for shipping inquiries/orders delevered but not received"
+        ],
+        "dos_and_don_ts": [
+          "Gift cards count as a payment method and will not drop an order total below the shipping threshold!"
+        ],
+        "promo_and_promo_exclusions": [
+          "🅿 Check the brand website for the most up to date holiday promotions"
+        ]
+      },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://tailactivewear.com",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "Eleanor Noir Black Jogger - S",
+            "link": "https://www.tailactivewear.com/products/eleanor-noir-black-jogger?variant=40177989976111",
+            "timeAgo": "2026-02-14"
+          },
+          {
+            "item": "Eleanor Noir Black Jogger - XS",
+            "link": "https://www.tailactivewear.com/products/eleanor-noir-black-jogger",
+            "timeAgo": "2026-02-14"
+          },
+          {
+            "item": "Eleanor Chalk White Jogger - S",
+            "link": "https://www.tailactivewear.com/products/eleanor-jogger-chalk-white?variant=40177605705775",
+            "timeAgo": "2026-02-14"
+          },
+          {
+            "item": "Eleanor Chalk White Jogger - XS",
+            "link": "https://www.tailactivewear.com/products/eleanor-jogger-chalk-white",
+            "timeAgo": "2026-02-14"
+          },
+          {
+            "item": "Eleanor Cherry Rose Jogger - XS",
+            "link": "https://www.tailactivewear.com/products/eleanor-cherry-rose-jogger",
+            "timeAgo": "2026-02-14"
+          }
+        ]
+      },
+      "escalation_preferences": [],
+      "blocklisted_words": [],
+      "has_shopify": true
+    },
+    "155": {
+      "id": "019c433f-2f62-4042-f000-0000e58569a3",
+      "companyName": "Comfrt",
+      "companyWebsite": "https://comfrt.com",
+      "agentName": "Samantha",
+      "messageTone": "Polished",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "Comfrt: Welcome to Comfrt! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
+          "message_type": "system",
+          "date_time": "2026-02-09 09:55:37.999"
+        },
+        {
+          "message_media": [],
+          "message_text": "Comfrt: Welcome to Comfrt! We're so excited to have you. Here's your exclusive 15% off code: W154Y6xLZ\n\nClick here to auto-apply your discount and shop our viral best-sellers: comfrt.attn.tv/a73RiKV-bgmg",
+          "message_type": "system",
+          "date_time": "2026-02-09 09:55:41.954"
+        },
+        {
+          "message_media": [],
+          "message_text": "Discount link does not work",
+          "message_type": "customer",
+          "date_time": "2026-02-09 09:56:32.785"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"Code won't work - All brands\"; last updated: 2023-10-10 16:36:42.859",
+          "message_type": "template",
+          "date_time": "2026-02-09 11:32:20.356"
+        },
+        {
+          "message_media": [],
+          "message_text": "Comfrt: Thank you for reaching out! I apologize for the delay and the inconvenience. Had you encountered any error messages? The code seems to work just fine on my end.",
+          "message_type": "agent",
+          "agent": "109968",
+          "message_id": "019c433f-2f62-4042-f000-0000e58569a3",
+          "date_time": "2026-02-09 11:32:20.357"
+        }
+      ],
+      "notes": {
+        "send_to_cs": [
+          "Send to CS for post-purchase issues"
+        ],
+        "escalate": [
+          "ESC if the discount % is not the same as indicated in the automated message"
+        ],
+        "templates": [
+          "If cx asks if Comfrt was formerly another brand, use CFB shortcut"
+        ]
+      },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://comfrt.com",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "Airplane Mode Travel Sweatpants",
+            "link": "https://comfrt.com/products/travel-sweatpants?variant=44347186544684",
+            "timeAgo": "2026-02-08"
+          },
+          {
+            "item": "Minimalist Hoodie",
+            "link": "https://comfrt.com/products/minimalist-hoodie?utm_source=paid&utm_medium=facebook&nbt=nb%3Afb%3Afb%3A120236701385880191%3A120239973208700191%3A120239973208710191&nb_placement=Facebook_Mobile_Feed&tw_source=facebook&tw_adid=120239973208710191&fbclid=IwZXh0bgNhZW0BMABhZGlkAastnpBImw9zcnRjBmFwcF9pZAo2NjI4NTY4Mzc5AAEe2xkstKwbjPv_JpXazIMghdFSVA56E_01XGAa1KQNo81OfWo05Gm6qC8kDsA_aem_h87y3CUOQurcdK4vBJ7ilg&campaign_id=120236701385880191&ad_id=120239973208710191&wm_source=facebook&utm_id=120236701385880191_v2_s02&utm_content=120239973208710191&utm_term=120239973208700191&utm_campaign=120236701385880191&nb_expid_meta=2",
+            "timeAgo": "2025-11-22"
+          },
+          {
+            "item": "Minimalist Hoodie",
+            "link": "https://comfrt.com/products/minimalist-hoodie?utm_source=paid&utm_medium=facebook&nbt=nb%3Afb%3Afb%3A120236701385880191%3A120239973208700191%3A120239973208710191&nb_placement=Facebook_Mobile_Feed&tw_source=facebook&tw_adid=120239973208710191&fbclid=IwZXh0bgNhZW0BMABhZGlkAastnpBImw9zcnRjBmFwcF9pZAo2NjI4NTY4Mzc5AAEe2xkstKwbjPv_JpXazIMghdFSVA56E_01XGAa1KQNo81OfWo05Gm6qC8kDsA_aem_h87y3CUOQurcdK4vBJ7ilg&campaign_id=120236701385880191&ad_id=120239973208710191&wm_source=facebook&utm_id=120236701385880191_v2_s02&utm_content=120239973208710191&utm_term=120239973208700191&utm_campaign=120236701385880191&nb_expid_meta=2",
+            "timeAgo": "2025-11-22"
+          },
+          {
+            "item": "Weekender Bag",
+            "link": "https://comfrt.com/products/weekender-bag?utm_source=paid&utm_medium=facebook&nbt=nb%3Afb%3Afb%3A120227450422930601%3A120233447799220601%3A120233450423400601&nb_placement=Facebook_Mobile_Reels&tw_source=facebook&tw_adid=120233450423400601&fbclid=IwZXh0bgNhZW0BMABhZGlkAasnsDAE1VkBHjeYHFCHjGnRBrWx22db5-d0Y4szDIfO1yWfKCMNb0HgqN-NR1lPGps7EPlI_aem_XV5cbyx_JI_EVt8IFUHsng&campaign_id=120227450422930601&ad_id=120233450423400601&utm_id=120227450422930601_v2_s01_e321&utm_content=120233450423400601&utm_term=120233447799220601&utm_campaign=120227450422930601&nb_expid_meta=161&variant=44616931770412",
+            "timeAgo": "2025-11-03"
+          },
+          {
+            "item": "Weekender Bag",
+            "link": "https://comfrt.com/products/weekender-bag?utm_source=paid&utm_medium=facebook&nbt=nb%3Afb%3Afb%3A120227450422930601%3A120233447799220601%3A120233450423400601&nb_placement=Facebook_Mobile_Reels&tw_source=facebook&tw_adid=120233450423400601&fbclid=IwZXh0bgNhZW0BMABhZGlkAasnsDAE1VkBHjeYHFCHjGnRBrWx22db5-d0Y4szDIfO1yWfKCMNb0HgqN-NR1lPGps7EPlI_aem_XV5cbyx_JI_EVt8IFUHsng&campaign_id=120227450422930601&ad_id=120233450423400601&utm_id=120227450422930601_v2_s01_e321&utm_content=120233450423400601&utm_term=120233447799220601&utm_campaign=120227450422930601&nb_expid_meta=161&variant=44616931770412",
+            "timeAgo": "2025-11-03"
+          }
+        ]
+      },
+      "escalation_preferences": [
+        "Exchanges and returns",
+        "Sizing questions",
+        "Discount code errors"
+      ],
+      "blocklisted_words": [],
+      "has_shopify": true
     }
   }
 }

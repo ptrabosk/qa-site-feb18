@@ -1,0 +1,309 @@
+{
+  "companyKey": "bartesian",
+  "templates": [
+    {
+      "name": "How do I skip my subscription?",
+      "content": "You can learn more on how to skip your subscription here: https://bartesian.attn.tv/ay0pC2Zxelvn Let me know if you have any questions, I'd be glad to help!",
+      "id": "039cea0e-1fec-40f8-b3e1-5611a44cabaa",
+      "companyName": "Bartesian"
+    },
+    {
+      "name": "How long do I remain at a particular tier/status?",
+      "content": "You stay at your current level for one year. To keep at your tier after one year, you would need to have met the requirements again through the next rolling year.",
+      "id": "65a698fd-fc84-4ebe-a2d4-2b02ef670be1",
+      "companyName": "Bartesian"
+    },
+    {
+      "name": "Ho do I redeem points?",
+      "content": "You would need to redeem the code directly via the Bartesian Rewards page. We have reward vouchers you can use on regular orders or subscription orders.",
+      "id": "611c5271-9809-484b-9d54-e13743b8341c",
+      "companyName": "Bartesian"
+    },
+    {
+      "name": "Nutritional facts",
+      "content": "You can check out our FAQ page with all the nutritional details for each cocktail on our website here: https://bartesian.gorgias.help/en-US/articles/nutritional-information-8410",
+      "id": "b8f9f0e8-1ebe-445a-9a49-c3ffed795786",
+      "companyName": "Bartesian"
+    },
+    {
+      "name": "Do you sell replacement Glass Spirit Bottles and Lids?",
+      "content": "You can purchase the Replacement Glass Spirit Bottle and Lid directly from our website. Here is the link: https://bartesian.attn.tv/sl/O8Kja95q. You'll need to select the model and type of lid you're interested in.",
+      "id": "8a18e5d0-c054-486b-97da-e86322f6727e",
+      "companyName": "Bartesian"
+    },
+    {
+      "name": "Can I use the Duet to make Long Island Iced Tea?/ Why can't I use it?",
+      "content": "Please note that the Duet is the only machine that can't make the Long Island Iced Tea since it only has two bottles and you need 3 spirits.",
+      "id": "ec55dd00-c2b5-4603-9909-6f25f171f7df",
+      "companyName": "Bartesian"
+    },
+    {
+      "name": "Customer answers whiskey",
+      "content": "Check out our whiskey cocktails! https://bartesian.attn.tv/l/gw3",
+      "id": "0b75216d-7b53-4a38-9ef0-98aafde76009",
+      "companyName": "Bartesian"
+    },
+    {
+      "name": "Customer answers tequila",
+      "content": "Check out our tequila-based cocktails!\nhttps://bartesian.attn.tv/l/5zf",
+      "id": "0e8cd080-2fa5-4a7e-a0cf-2f09a6c81de3",
+      "companyName": "Bartesian"
+    },
+    {
+      "name": "Customer answers gin",
+      "content": "Check out our gin-based cocktails! https://bartesian.attn.tv/l/Mwy",
+      "id": "4006fa1e-7208-43d7-866f-e42ccc3ebda0",
+      "companyName": "Bartesian"
+    },
+    {
+      "name": "Customer answers vodka",
+      "content": "Check out our vodka cocktails! https://bartesian.com/collections/vodka-cocktails",
+      "id": "063a861c-0a22-4576-abbe-8d941bf422ea",
+      "companyName": "Bartesian"
+    },
+    {
+      "name": "Customer answers rum",
+      "content": "Check out our rum-based cocktails! https://bartesian.attn.tv/l/cWV",
+      "id": "9772dbf4-0238-4623-a47e-7c95ae9e339c",
+      "companyName": "Bartesian"
+    },
+    {
+      "name": "Customer answers other/variety pack",
+      "content": "Love multiple spirits? Try our variety packs! https://bartesian.attn.tv/l/Qpr",
+      "id": "005d236b-2a7e-44bf-b042-673e61d86624",
+      "companyName": "Bartesian"
+    },
+    {
+      "name": "Customer answers that they ARE satisfied with the product (journey 2)",
+      "content": "Happy to hear that! I'd recommend checking out our Bartesian cocktail subscription to save up to 20% on cocktails with full flexibility and plenty of other perks too: https://bartesian.com/pages/bartesian-monthly-subscription",
+      "id": "ab54b463-bab2-476f-b9a3-c355c18843de",
+      "companyName": "Bartesian"
+    },
+    {
+      "name": "Damaged/missing orders",
+      "content": "Thank you for your message. Please reach out via the following link so we may assist you with this inquiry: https://bartesian.com/pages/contact. Thank you for your patience!",
+      "id": "88c7d65a-fe5c-49c8-a9e3-4a15327b5039",
+      "shortcut": "dmi",
+      "companyName": "Bartesian"
+    },
+    {
+      "name": "How do I clean the capsule holder/capsule seal?",
+      "content": "I'd recommend following the instructions on this link: https://bartesian.gorgias.help/en-US/how-to-clean-capsule-holdercapsule-seal-33605 Let me know if any questions come up!",
+      "id": "38da1e81-6aa0-4d1f-80da-b8a6b4a8d62a",
+      "companyName": "Bartesian"
+    },
+    {
+      "name": "Do you ship internationally?",
+      "content": "Currently, orders placed on Bartesian.com are shipped to the United States, Canada, and the United Kingdom.",
+      "id": "5e140d89-dbb8-48c7-8989-e6db0fc93bfc",
+      "companyName": "Bartesian"
+    },
+    {
+      "name": "How do I skip/unskip an order?",
+      "content": "In order to skip/unskip an order please follow the steps outlined on this link: https://bartesian.gorgias.help/en-US/how-to-skipunskip-an-order-46876",
+      "id": "f139e448-86d8-49d5-aedd-b19ef20e58b4",
+      "companyName": "Bartesian"
+    },
+    {
+      "name": "Bartesian does not properly identify when capsule is inserted",
+      "content": "Sorry to hear that! I'd recommend following the steps on this link: https://bartesian.gorgias.help/en-US/bartesian-does-not-properly-identify-when-capsule-is-inserted-42976 Let me know how that goes!",
+      "id": "f8630599-e2fd-4ca4-b067-94ca36066290",
+      "companyName": "Bartesian"
+    },
+    {
+      "name": "Wholesale inquiries",
+      "content": "Thank you for your interest! The best way to discuss wholesale is to contact us via this link: https://bartesian.com/pages/contact Our team is happy to chat.",
+      "id": "b8aa2e50-f05c-4d12-b1dd-ffef2e1a084a",
+      "shortcut": "wls",
+      "companyName": "Bartesian"
+    },
+    {
+      "name": "What size cocktail does Bartesian make?",
+      "content": "Our cocktails are crafted to replicate the cocktail lounge experience. Each cocktail's yield is designed to meet the standards of authentic recipes that make use of genuine ingredients. The amount of spirit(s) drawn can be adjusted for each cocktail selecting from mocktail, light, regular or strong which will increase or lessen the overall yield accordingly. \n\nYou can find the nutritional information and alcohol yields of each cocktail here: https://bartesian.gorgias.help/en-US/articles/nutritional-information-8410",
+      "id": "b59a05d2-6109-43f5-98c3-ead6298161cd",
+      "companyName": "Bartesian"
+    },
+    {
+      "name": "Is there alcohol in the capsules?",
+      "content": "Our capsules do not contain alcohol. This gives you the freedom not only to use the spirits of your own choosing but also allows you to customize your cocktail from mocktail to strong.  \n\nOur cocktail capsules contain everything needed beyond the alcohol to make your favorite cocktails - including real bitters, extracts, and juices. This saves you from individually sourcing, purchasing, and storing extra ingredients that often lead to waste.",
+      "id": "48e220c8-bd17-46da-af7f-66abf4e2021c",
+      "companyName": "Bartesian"
+    },
+    {
+      "name": "How do I cancel my subscription?",
+      "content": "To cancel your subscription please follow the steps outlined on this link: https://bartesian.gorgias.help/en-US/how-to-cancel-a-subscription-46883 Please note that ordering a subscription does not automatically create an account. If you do not have an account, please create one using the email address associated with your subscription.",
+      "id": "4b8882c7-0bc4-4642-b2c1-ee440ef2e3d2",
+      "companyName": "Bartesian"
+    },
+    {
+      "name": "What comes in the box?",
+      "content": "The box includes the following:\n\n- 1x Bartesian cocktail maker\n- 5 x 26oz capacity glass spirit bottles with labeled lids (Vodka, Whiskey, Rum, Gin, Tequila)\n(Duet machines will come with 2 x 26 oz capacity glass spirit bottles with labeling bands)\n- 1x Removable power cord\n- 1x Removable Bartesian bar mat\n- Cocktail capsules are sold separately",
+      "id": "b0aa4c94-c003-49b1-9e98-3194e8433b24",
+      "companyName": "Bartesian"
+    },
+    {
+      "name": "How do I change the capsule selections on my subscription?",
+      "content": "In order to customize your selections please follow the steps outlined on this link: https://bartesian.gorgias.help/en-US/how-to-change-capsule-selections-64380 Let me know how that goes!",
+      "id": "f9045fb8-d976-4938-a961-dead5be970e8",
+      "companyName": "Bartesian"
+    },
+    {
+      "name": "Rewards / referral",
+      "content": "We have a rewards program where you can earn points to redeem on future purchases. Check it out here - https://bartesian.com/pages/bartesian-mixologist-rewards",
+      "id": "c711441b-10b6-4cd7-ab08-815ee7f6c2b1",
+      "shortcut": "rwd",
+      "companyName": "Bartesian"
+    },
+    {
+      "name": "What are the dimensions of the Bartesian cocktail maker?",
+      "content": "At just 12.5 inches high, the Bartesian Premium is a perfect fit for your kitchen or bar countertop (12.5\"h  x 12.75\"d x 13.25\"w). The Bartesian Duet has a slimmer profile, measuring 12.5\"x12.75\"x9.5\". \n\nThe Bartesian Professional matches the dimensions of the Bartesian Premium: 12.5\"x12.75\"x13.25\".",
+      "id": "22d4f631-86dc-4a9d-9bb0-07378ce70e62",
+      "companyName": "Bartesian"
+    },
+    {
+      "name": "Customer answers they weren't satisfied with the product (journey 1)",
+      "content": "Thank you for the feedback, we appreciate it and will forward it to our team.",
+      "id": "f44e64bf-687f-406b-89bd-3ea642985a67",
+      "companyName": "Bartesian"
+    },
+    {
+      "name": "Warranty policy",
+      "content": "You can take a look at our full warranty policy here: https://bartesian.gorgias.help/en-US/what-is-the-warranty-for-the-bartesian-332054",
+      "id": "fb84fa10-2e15-469d-9d95-eaae1c6521a9",
+      "shortcut": "wp",
+      "companyName": "Bartesian"
+    },
+    {
+      "name": "Where do I register my product?",
+      "content": "You can register your product at the following link: https://bartesian.com/pages/bartesian-cocktail-maker-warranty",
+      "id": "d1f0f3f1-234f-444a-a9b6-2aa86424e6e8",
+      "companyName": "Bartesian"
+    },
+    {
+      "name": "Does Bartesian chill cocktails?",
+      "content": "Bartesian is all about an authentic cocktail lounge experience where cocktails are either served on ice, or shaken/strained over ice. We account for the dilution introduced by using ice in the development of our cocktails. Not using ice will likely result in flavors that are bolder than intended.",
+      "id": "fb41a0f5-eea0-402e-b1e3-3d317b4dfbe1",
+      "companyName": "Bartesian"
+    },
+    {
+      "name": "Brand ambassador / sponsorship / affiliate program",
+      "content": "Thank you for your interest! The best way to discuss this is to contact us via this link: https://bartesian.com/pages/contact Our team is happy to chat.",
+      "id": "b02fcabf-594b-4ce9-b0ad-01d5954c68cb",
+      "shortcut": "ams",
+      "companyName": "Bartesian"
+    },
+    {
+      "name": "Phone support",
+      "content": "You can give us a call at 1-888-545-8820 or let me know if I can help via text, it may be faster.",
+      "id": "8e6d1ce0-bf5d-4136-b685-0e9367275533",
+      "shortcut": "ps",
+      "companyName": "Bartesian"
+    },
+    {
+      "name": "Free shipping",
+      "content": "We offer free shipping on domestic orders over $50. Maybe you can add something else to reach the minimum?",
+      "id": "e8624204-110a-4ab3-b767-547f01087031",
+      "shortcut": "fs",
+      "companyName": "Bartesian"
+    },
+    {
+      "name": "Do the capsules expire?",
+      "content": "We proudly use genuine juices, bitters, and extract concentrates and avoid the use of artificial colors, fructose, and corn syrups that would negatively impact the quality of our cocktails.\nSince the genuine ingredients vary by cocktail the dates vary with each selection and can be between 2-8 months from the date of receipt.",
+      "id": "d7e5e678-eb10-436e-a012-ee039b2fde8a",
+      "companyName": "Bartesian"
+    },
+    {
+      "name": "Shipping time",
+      "content": "Your order will ship to arrive within 5-7 business days. You will receive an email with tracking information prior to shipping.",
+      "id": "16d80d95-e6d2-4c51-80be-c577bbc4f93f",
+      "shortcut": "shp",
+      "companyName": "Bartesian"
+    },
+    {
+      "name": "Cancel / edit order",
+      "content": "I can check if that's possible. What's the order number, email address and the change you'd like to make?",
+      "id": "d36b03c4-12dd-4a7e-a03b-f86e2dd4a6a3",
+      "shortcut": "ced",
+      "companyName": "Bartesian"
+    },
+    {
+      "name": "Military / First responder / Healthcare / Teacher discount",
+      "content": "Thank you for your service! We don't have any specific discounts like that, but our deals will always be shared with our SMS subscribers or on our website, so keep an eye out!",
+      "id": "27ddd88b-98f3-42cf-8cef-d4f7b6d976f8",
+      "shortcut": "ms",
+      "companyName": "Bartesian"
+    },
+    {
+      "name": "Social media",
+      "content": "Give us a follow on IG: https://www.instagram.com/bartesian/ and FB here: https://www.facebook.com/bartesian/",
+      "id": "619d240f-698e-4814-b2d5-7312552a0f1f",
+      "shortcut": "smd",
+      "companyName": "Bartesian"
+    },
+    {
+      "name": "Return policy",
+      "content": "You can check out our detailed return policy here: https://bartesian.gorgias.help/en-US/articles/shippingreturns-8413",
+      "id": "765d475e-1f89-4e14-98ae-7952ddfe046b",
+      "shortcut": "rp",
+      "companyName": "Bartesian"
+    },
+    {
+      "name": "Store location / retailer",
+      "content": "Our products can be found in a growing list of retailers like Walmart, Costco, and Sam's Club. You can use their respective websites for availability. \n\nOur website bartesian.com continues to be the exclusive source for our entire library of cocktails.",
+      "id": "99896d80-592d-4775-be47-b81148f3c738",
+      "shortcut": "sl",
+      "companyName": "Bartesian"
+    },
+    {
+      "name": "Customer support",
+      "content": "The best way to handle this is to email us directly at  hello@bartesian.com or contact us via this link: https://bartesian.com/pages/contact Our team is happy to help!",
+      "id": "62582c9c-07ac-4ed2-a27d-0555cf105af1",
+      "shortcut": "cs",
+      "companyName": "Bartesian"
+    },
+    {
+      "name": "No promotion available",
+      "content": "I'm sorry, I don't have any codes available at the moment, but our deals will always be shared with our SMS subscribers or on our website, so keep an eye out! I'd also recommend checking out our Bartesian cocktail subscription to save up to 20% on cocktails with full flexibility and plenty of other perks too: https://bartesian.com/pages/bartesian-monthly-subscription",
+      "id": "e2f563d9-b381-4f31-b7d2-c5395ee01492",
+      "shortcut": "ncode",
+      "companyName": "Bartesian"
+    },
+    {
+      "name": "Hardware Damage/Troubleshooting",
+      "content": "I'd recommend taking a look at our Hardware FAQ here: https://bartesian.gorgias.help/en-US/articles/hardware-8411 Let me know how that goes!",
+      "id": "e647905c-030c-47b7-a419-de2a6646b704",
+      "shortcut": "hdt",
+      "companyName": "Bartesian"
+    },
+    {
+      "name": "Is there an option to make a one time purchase for Spicy Margarita?",
+      "content": "At the moment, Spicy Margarita is only available if you have a current cocktail subscription. I'm afraid it is not available for one-time purchases right now.",
+      "id": "abdad507-9777-448f-9b60-9a67f5ec4a5c",
+      "companyName": "Bartesian"
+    },
+    {
+      "name": "How do I get a gift with my Bartesian Cocktail Maker purchase?",
+      "content": "For a limited-timeonly, you can select the Classic Collection Favorites Variety Pack in the drop-down menu to receive your complimentary cocktail pack, a $14.99 value, at no additional charge.\n\nYou can check our Bartesian Cocktail Maker on this link: https://bartesian.com/products/cocktail-maker",
+      "id": "afb612f5-271a-4719-b4a3-ae0fba0f2928",
+      "companyName": "Bartesian"
+    },
+    {
+      "name": "What is the Summer Gift Guide?",
+      "content": "I'm so glad that you're interested in our Summer Gift Giode! Please check it on this link https://bartesian.com/pages/summer-gift-guide",
+      "id": "c8b2767f-0b9d-4739-bb96-f920b6802e29",
+      "companyName": "Bartesian"
+    },
+    {
+      "name": "Can I sell your machines and get credit for the sales?",
+      "content": "Please contact the store manager and the contact person you have with us at Bartesian. Anything regarding selling the machines or the demos at Total Wines should be handled through the contact you have. Hope this helps!",
+      "id": "28bc781c-1712-409b-bec5-43bbc650fd74",
+      "companyName": "Bartesian"
+    },
+    {
+      "name": "How do I initiate a return?",
+      "content": "You can start your return here: https://bartesian.com/pages/returns",
+      "id": "5fd7119b-177b-4f36-8431-aacd36466bbe",
+      "companyName": "Bartesian"
+    }
+  ]
+}

@@ -2,8 +2,8 @@
   "companyKey": "wooden ships",
   "templates": [
     {
-      "name": "Do you have an update? (after we\u0027ve escalated)",
-      "content": "Thank you for reaching out! I\u0027m still reviewing this, and I\u0027ll get back to you as soon as possible.",
+      "name": "Do you have an update? (after we've escalated)",
+      "content": "Thank you for reaching out! I'm still reviewing this, and I'll get back to you as soon as possible.",
       "id": "9db985ef-400f-4ef0-859c-7bf369bcbb0e",
       "shortcut": "dup",
       "companyName": "Wooden Ships"
@@ -16,7 +16,7 @@
       "companyName": "Wooden Ships"
     },
     {
-      "name": "Code Won\u0027t Work",
+      "name": "Code Won't Work",
       "content": "Please note that discount codes can only be applied to full-priced items. They cannot be applied to items already on sale.",
       "id": "de16ab49-ea7e-452e-9bfc-fe17ded597f0",
       "shortcut": "cww",
@@ -48,7 +48,7 @@
     },
     {
       "name": "What does it mean when you say \"pieces are knit just for me\"?",
-      "content": "We don\u0027t make any inventory. We \"make-to-order\", producing each piece only as we get an order for it. This does not mean pieces are \"custom-made\" (we don\u0027t customize fit), but it does mean that we greatly reduce the waste that most fashion manufacturers create when they produce mass quantities that later need to be liquidated.",
+      "content": "We don't make any inventory. We \"make-to-order\", producing each piece only as we get an order for it. This does not mean pieces are \"custom-made\" (we don't customize fit), but it does mean that we greatly reduce the waste that most fashion manufacturers create when they produce mass quantities that later need to be liquidated.",
       "id": "06540d85-ddea-4a44-a04d-1fc3c5c46683",
       "companyName": "Wooden Ships"
     },
@@ -71,8 +71,8 @@
       "companyName": "Wooden Ships"
     },
     {
-      "name": "Why can\u0027t I find a style online?",
-      "content": "Don\u0027t worry! It is probably going to be released soon. Feel free to email hello@wooden-ships.com for the planned release date! We will also send you a reminder for when this style goes live.\n\nAnother reason may be that the style is from a past season. If that is the case, we will try to find you a similar style to order instead.",
+      "name": "Why can't I find a style online?",
+      "content": "Don't worry! It is probably going to be released soon. Feel free to email hello@wooden-ships.com for the planned release date! We will also send you a reminder for when this style goes live.\n\nAnother reason may be that the style is from a past season. If that is the case, we will try to find you a similar style to order instead.",
       "id": "8a2190c8-3b17-46e7-983a-f5a102a7f1a5",
       "companyName": "Wooden Ships"
     },
@@ -84,7 +84,7 @@
     },
     {
       "name": "Can I combine my Rewards points with another discount code?",
-      "content": "I\u0027m afraid discount codes and rewards cannot be combined in a single order. You can select the discount that gives you the most savings based on what you are planning to purchase.",
+      "content": "I'm afraid discount codes and rewards cannot be combined in a single order. You can select the discount that gives you the most savings based on what you are planning to purchase.",
       "id": "d53fc499-c793-4ca6-b6f7-ef2f8a797d65",
       "companyName": "Wooden Ships"
     },
@@ -103,13 +103,13 @@
     },
     {
       "name": "Do you ship to Canada?",
-      "content": "I\u0027m afraid we are currently unable to ship to Canada.",
+      "content": "I'm afraid we are currently unable to ship to Canada.",
       "id": "6150ec78-e829-484f-b8f7-caeaa80a556c",
       "companyName": "Wooden Ships"
     },
     {
       "name": "Can I return final sale/customized items?",
-      "content": "All sale and customized items are final sale. I\u0027m afraid we don\u0027t accept returns or exchanges for these items.",
+      "content": "All sale and customized items are final sale. I'm afraid we don't accept returns or exchanges for these items.",
       "id": "63aa1faf-faad-420b-a5d5-09dd2e0b1a8e",
       "companyName": "Wooden Ships"
     },
@@ -127,7 +127,7 @@
     },
     {
       "name": "How do I use my points?",
-      "content": "When you have accrued 200 points, you will see a $10 Reward available to you at Checkout. If you have accrued 400 points, you will see $20. The increments are 200 points ($10). You simply click to apply that discount to your order. It\u0027s instantaneous!",
+      "content": "When you have accrued 200 points, you will see a $10 Reward available to you at Checkout. If you have accrued 400 points, you will see $20. The increments are 200 points ($10). You simply click to apply that discount to your order. It's instantaneous!",
       "id": "30b22a66-5b4a-48d4-bc15-6ddf9eff2024",
       "companyName": "Wooden Ships"
     },
@@ -146,7 +146,7 @@
     },
     {
       "name": "Cancel / edit order",
-      "content": "I can check if that\u0027s possible. What\u0027s the order number, email address and the change you\u0027d like to make?",
+      "content": "I can check if that's possible. What's the order number, email address and the change you'd like to make?",
       "id": "2f4a309e-7244-4c6f-9f8d-0c8c5665bcd8",
       "shortcut": "ced",
       "companyName": "Wooden Ships"
@@ -187,7 +187,7 @@
     },
     {
       "name": "Do you ship to PO or APO/FPO Boxes?",
-      "content": "I\u0027m afraid DHL does not ship to PO or APO/FPO Boxes.",
+      "content": "I'm afraid DHL does not ship to PO or APO/FPO Boxes.",
       "id": "7b17eea9-3541-4ad9-af6d-5023b5c4091e",
       "companyName": "Wooden Ships"
     },
@@ -207,7 +207,7 @@
     },
     {
       "name": "Military / First responder / Healthcare / Teacher discount",
-      "content": "Thank you for your service! We don\u0027t have any specific discounts like that but if it helps, you can check out the items we have on sale here: https://www.wooden-ships.com/collections/s-a-l-e",
+      "content": "Thank you for your service! We don't have any specific discounts like that but if it helps, you can check out the items we have on sale here: https://www.wooden-ships.com/collections/s-a-l-e",
       "id": "15ea5b63-e69f-47d1-b229-1ad3871ae334",
       "shortcut": "ms",
       "companyName": "Wooden Ships"
@@ -221,7 +221,7 @@
     },
     {
       "name": "Phone support",
-      "content": "I\u0027d be happy to help you over text, let me know what I can do for you! To reach us by phone, dial (212) 221-3660. We are available M-F 10am-5pm EDT.",
+      "content": "I'd be happy to help you over text, let me know what I can do for you! To reach us by phone, dial (212) 221-3660. We are available M-F 10am-5pm EDT.",
       "id": "c8e7c56d-df00-4eb0-ab42-7a82c45a438e",
       "shortcut": "ps",
       "companyName": "Wooden Ships"
@@ -234,7 +234,7 @@
     },
     {
       "name": "Can I cancel a return once I have initiated it?",
-      "content": "Thank you for reaching out. I\u0027m afraid you will not be able to cancel a return once you have submitted a request. I\u0027m sorry for the inconvenience.",
+      "content": "Thank you for reaching out. I'm afraid you will not be able to cancel a return once you have submitted a request. I'm sorry for the inconvenience.",
       "id": "4ded5cc1-888b-416a-89d1-ed51a7629fc3",
       "companyName": "Wooden Ships"
     },
@@ -247,7 +247,7 @@
     },
     {
       "name": "Escalation on the weekends",
-      "content": "I will look into this for you. Since it is the weekend, I might not get back to you until Monday, but I\u0027ll be in touch as soon as I get an update.",
+      "content": "I will look into this for you. Since it is the weekend, I might not get back to you until Monday, but I'll be in touch as soon as I get an update.",
       "id": "77353e33-5eef-4de9-a8b0-fd8e9305e592",
       "shortcut": "wkd",
       "companyName": "Wooden Ships"

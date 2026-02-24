@@ -15,7 +15,7 @@
     },
     {
       "name": "Are sale prices the same online and in-store?",
-      "content": "I\u0027m afraid the stores have different sale items than the website, but for the most part, it should be the same.",
+      "content": "I'm afraid the stores have different sale items than the website, but for the most part, it should be the same.",
       "id": "cc8c621a-44d0-45b7-88ca-663eced4cfa1",
       "companyName": "Snipes"
     },
@@ -51,8 +51,8 @@
       "companyName": "Snipes"
     },
     {
-      "name": "Are your shoes authentic/real? How come they\u0027re cheap?",
-      "content": "Our shoes are 100% new and authentic, there are many different reasons why they might be on sale including special promotions, they are a previous season\u0027s style, or they have limited size runs.",
+      "name": "Are your shoes authentic/real? How come they're cheap?",
+      "content": "Our shoes are 100% new and authentic, there are many different reasons why they might be on sale including special promotions, they are a previous season's style, or they have limited size runs.",
       "id": "be76d794-5912-4cac-9f10-559fcf8b0ba9",
       "companyName": "Snipes"
     },
@@ -69,7 +69,7 @@
       "companyName": "Snipes"
     },
     {
-      "name": "I\u0027m looking for items on sale/Waiting for items to go on sale",
+      "name": "I'm looking for items on sale/Waiting for items to go on sale",
       "content": "We update our sale selection at the beginning of every month. You can check it out here: https://www.snipesusa.com/sale/",
       "id": "3919e077-884c-49be-9837-5274e40769ab",
       "companyName": "Snipes"
@@ -88,34 +88,34 @@
       "companyName": "Snipes"
     },
     {
-      "name": "I\u0027m looking for an outfit to match my XX",
-      "content": "Awesome! I\u0027d recommend checking out the \"shop the look\" section on the bottom of this page here:",
+      "name": "I'm looking for an outfit to match my XX",
+      "content": "Awesome! I'd recommend checking out the \"shop the look\" section on the bottom of this page here:",
       "id": "e53718c9-499e-4d80-9fad-be97cbd96bf4",
       "shortcut": "lk",
       "companyName": "Snipes"
     },
     {
       "name": "Do you offer expedited shipping?",
-      "content": "I\u0027m afraid we don\u0027t offer expedited shipping at this time.",
+      "content": "I'm afraid we don't offer expedited shipping at this time.",
       "id": "30462427-a8b9-4dda-8578-b2436c397ac2",
       "companyName": "Snipes"
     },
     {
       "name": "Can I get a return label?",
-      "content": "I\u0027m afraid we don\u0027t offer prepaid return labels for our returns at this time.",
+      "content": "I'm afraid we don't offer prepaid return labels for our returns at this time.",
       "id": "bdc7baec-d0ef-4acf-8c5e-06848dfd79b8",
       "companyName": "Snipes"
     },
     {
       "name": "Restock - brand specific",
-      "content": "I\u0027m afraid we currently don\u0027t have that product in stock. I recommend subscribing to emails and staying up to date on sms for any updates available. I\u0027d be more than happy to offer some recommendations. Are you looking for the same color or same silhouette?",
+      "content": "I'm afraid we currently don't have that product in stock. I recommend subscribing to emails and staying up to date on sms for any updates available. I'd be more than happy to offer some recommendations. Are you looking for the same color or same silhouette?",
       "id": "809ab230-a60f-464e-9512-726a9ec201cc",
       "shortcut": "stok",
       "companyName": "Snipes"
     },
     {
       "name": "Military / First responder / Healthcare / Teacher discount",
-      "content": "Thank you for your service! We don\u0027t have any specific discounts like that but if it helps, you can check out the items we have on sale here: https://www.snipesusa.com/sale/",
+      "content": "Thank you for your service! We don't have any specific discounts like that but if it helps, you can check out the items we have on sale here: https://www.snipesusa.com/sale/",
       "id": "c6fec2f3-53ce-4c19-8031-2dd934a4bcc8",
       "shortcut": "ms",
       "companyName": "Snipes"
@@ -146,7 +146,7 @@
     },
     {
       "name": "Where do I put the coupon/discount code?",
-      "content": "You\u0027ll need to go to the cart section at the top right corner of our website, then click on \"view my bag\". This will take you to where you can apply your discount and proceed to checkout.",
+      "content": "You'll need to go to the cart section at the top right corner of our website, then click on \"view my bag\". This will take you to where you can apply your discount and proceed to checkout.",
       "id": "21fdf5dd-05ee-4f4b-9984-47da367f5a76",
       "companyName": "Snipes"
     },
@@ -158,13 +158,13 @@
     },
     {
       "name": "Can I get multiple sizes for new releases? / Or is it one per customer?",
-      "content": "It\u0027s limited to one purchase per size run. So you can buy one men\u0027s, one grade-school and one toddler. Here\u0027s our release policy for better insight - https://snipes-usa.force.com/helpcenter/s/article/What-is-SNIPES-online-release-policy",
+      "content": "It's limited to one purchase per size run. So you can buy one men's, one grade-school and one toddler. Here's our release policy for better insight - https://snipes-usa.force.com/helpcenter/s/article/What-is-SNIPES-online-release-policy",
       "id": "5db262b8-2a10-44f2-8fe0-23c3f6a61599",
       "companyName": "Snipes"
     },
     {
       "name": "Checkout issues - ESC after gathering all info",
-      "content": "We are sorry that you\u0027re having an issue ordering with us. To help us troubleshoot your issue, could you please answer the following questions? \n\n-Are you on your phone?\n-If yes, are you on our app or our website? Are you an Apple or Android user?\n-If you are seeing an error message, what does it say?\n-Are you logged in or checking out as a guest? \n-What product(s) are you trying to purchase?\n-What payment type are you trying to use? \n\nYour answers will help us pinpoint what the issue might be.",
+      "content": "We are sorry that you're having an issue ordering with us. To help us troubleshoot your issue, could you please answer the following questions? \n\n-Are you on your phone?\n-If yes, are you on our app or our website? Are you an Apple or Android user?\n-If you are seeing an error message, what does it say?\n-Are you logged in or checking out as a guest? \n-What product(s) are you trying to purchase?\n-What payment type are you trying to use? \n\nYour answers will help us pinpoint what the issue might be.",
       "id": "989f0e66-3e2e-44b1-8269-7356b5d177e2",
       "companyName": "Snipes"
     },
@@ -184,13 +184,13 @@
     },
     {
       "name": "Can my winnings be shipped to me?",
-      "content": "No unfortunately! Raffle winners must pick up their winnings in the store. If you\u0027re unable to pick up the shoes yourself, you must reach out to the store to see if they\u0027re willing to work with you.",
+      "content": "No unfortunately! Raffle winners must pick up their winnings in the store. If you're unable to pick up the shoes yourself, you must reach out to the store to see if they're willing to work with you.",
       "id": "b000c415-9ecc-41c5-8e33-e0f1acb04690",
       "companyName": "Snipes"
     },
     {
       "name": "Do you have dunks?",
-      "content": "Dunks are only ever release shoes and almost always sell out as soon as they\u0027re dropped. I recommend checking our website and social media frequently, as well as keeping an eye on our release page.",
+      "content": "Dunks are only ever release shoes and almost always sell out as soon as they're dropped. I recommend checking our website and social media frequently, as well as keeping an eye on our release page.",
       "id": "d79c9145-3b91-416a-84ab-4e19bb675f42",
       "companyName": "Snipes"
     },
@@ -202,14 +202,14 @@
       "companyName": "Snipes"
     },
     {
-      "name": "A new shoe just dropped but I don\u0027t see it on the site anymore",
-      "content": "Those are release shoes, and release shoes almost always sell out as soon as they\u0027re dropped. Once we\u0027re out of stock, the shoe is removed from the site. I apologize for the inconvenience, and let me know if there\u0027s anything else you\u0027re interested in, I\u0027ll be happy to offer recommendations.",
+      "name": "A new shoe just dropped but I don't see it on the site anymore",
+      "content": "Those are release shoes, and release shoes almost always sell out as soon as they're dropped. Once we're out of stock, the shoe is removed from the site. I apologize for the inconvenience, and let me know if there's anything else you're interested in, I'll be happy to offer recommendations.",
       "id": "ed11887a-be21-417f-831c-80d826b0a71e",
       "companyName": "Snipes"
     },
     {
       "name": "Can I call and place an order over the phone?",
-      "content": "We\u0027re unable to take overs over the phone, though rest assured you can complete your purchase online via our website or the app! If you need any assistance doing this, please let me know and I\u0027ll be glad to assist.",
+      "content": "We're unable to take overs over the phone, though rest assured you can complete your purchase online via our website or the app! If you need any assistance doing this, please let me know and I'll be glad to assist.",
       "id": "f38e4e68-0874-4797-b826-7f2bdf918157",
       "companyName": "Snipes"
     },
@@ -229,19 +229,19 @@
     },
     {
       "name": "Can I return/exchange an online purchase in one of your stores?",
-      "content": "Yes! You may return or exchange your online purchase to any of our SNIPES locations. We can not accept returns of online orders at our Jimmy Jazz or Expressions locations at this time. \n\nYou must present a receipt and a valid form of I.D for all returns and exchanges. Refunds will be issued on the original form of payment. Do note that if PayPal was used as payment for an online purchase you\u0027re returning in store, you\u0027ll receive store credit as our stores can not issue refunds via PayPal. Also, shipping costs will not be refunded when online purchases are returned in store. :)",
+      "content": "Yes! You may return or exchange your online purchase to any of our SNIPES locations. We can not accept returns of online orders at our Jimmy Jazz or Expressions locations at this time. \n\nYou must present a receipt and a valid form of I.D for all returns and exchanges. Refunds will be issued on the original form of payment. Do note that if PayPal was used as payment for an online purchase you're returning in store, you'll receive store credit as our stores can not issue refunds via PayPal. Also, shipping costs will not be refunded when online purchases are returned in store. :)",
       "id": "d6614dec-4284-4a9a-bfc6-2ca9941f67da",
       "companyName": "Snipes"
     },
     {
       "name": "Is it too late to enter a raffle / How can I join the queue to purchase the shoes?",
-      "content": "Our raffles for release products open about four or five days before the shoe releases. We then alert winners 2 days before the release so they know to go pick up the shoes from a location near them. \n\nWhen we release the item online and maybe in select stores the following day - it\u0027ll be first come first serve!\n\nCheck our social media channels to stay up to date on which select stores will carry release products.",
+      "content": "Our raffles for release products open about four or five days before the shoe releases. We then alert winners 2 days before the release so they know to go pick up the shoes from a location near them. \n\nWhen we release the item online and maybe in select stores the following day - it'll be first come first serve!\n\nCheck our social media channels to stay up to date on which select stores will carry release products.",
       "id": "fb470c1c-f30b-415c-bb87-3f2fcc7e9e1f",
       "companyName": "Snipes"
     },
     {
       "name": "Cancel / edit order",
-      "content": "As a product specialist, I\u0027m here to assist you with any product and style related questions. The best way to handle this is to contact our customer support team via this link www.snipesusa.com/contactus They\u0027ll be more than happy to help!",
+      "content": "As a product specialist, I'm here to assist you with any product and style related questions. The best way to handle this is to contact our customer support team via this link www.snipesusa.com/contactus They'll be more than happy to help!",
       "id": "b161c55b-0c9a-4456-b661-098445e3ca9d",
       "shortcut": "ced",
       "companyName": "Snipes"
@@ -255,13 +255,13 @@
     },
     {
       "name": "Can I order online and pick up at the store?",
-      "content": "Yes, you can choose the \"Buy online pickup in-store\" or \"Buy online ship to store\" (Standard shipping time) options at checkout if you\u0027re near a store.",
+      "content": "Yes, you can choose the \"Buy online pickup in-store\" or \"Buy online ship to store\" (Standard shipping time) options at checkout if you're near a store.",
       "id": "5af43d68-f505-487a-943d-47d73f5ccf33",
       "companyName": "Snipes"
     },
     {
       "name": "Phone support",
-      "content": "We don\u0027t offer phone support right now but I\u0027d be happy to help you over text. Alternatively, you can contact us through this link www.snipesusa.com/contactus Our team is happy to help!",
+      "content": "We don't offer phone support right now but I'd be happy to help you over text. Alternatively, you can contact us through this link www.snipesusa.com/contactus Our team is happy to help!",
       "id": "5f5778fa-0c0f-41bc-8d8a-50672d2899b6",
       "shortcut": "ps",
       "companyName": "Snipes"
@@ -281,7 +281,7 @@
     },
     {
       "name": "Customer support",
-      "content": "As a product specialist, I\u0027m here to assist you with any product and style related questions. The best way to handle this is to contact our customer support team via this link www.snipesusa.com/contactus They\u0027ll be more than happy to help!",
+      "content": "As a product specialist, I'm here to assist you with any product and style related questions. The best way to handle this is to contact our customer support team via this link www.snipesusa.com/contactus They'll be more than happy to help!",
       "id": "279be0a3-cc65-47d9-94b7-f1641b7fc63e",
       "shortcut": "cs",
       "companyName": "Snipes"
@@ -349,7 +349,7 @@
     },
     {
       "name": "Do you offer Klarna as a payment method?",
-      "content": "I\u0027m afraid we do not accept Klarna at this time. We accept AMEX, Visa, Mastercard, Discover, PayPal, PayPal Pay in 4, Apple Pay, and Google Pay.",
+      "content": "I'm afraid we do not accept Klarna at this time. We accept AMEX, Visa, Mastercard, Discover, PayPal, PayPal Pay in 4, Apple Pay, and Google Pay.",
       "id": "7a95074b-aaa3-4ca2-8d07-a76091f95929",
       "companyName": "Snipes"
     },
@@ -360,20 +360,20 @@
       "companyName": "Snipes"
     },
     {
-      "name": "How can I work for SNIPES?/I\u0027m looking for a job",
-      "content": "To learn more about working for SNIPES, please check out our Careers page here: https://snp98.rec.pro.ukg.net/JAK1500JAKO/JobBoard/74f2e917-c09c-454b-b413-e11f7a62bf4b/?q=\u0026o=postedDateDesc\u0026w=\u0026wc=\u0026we=\u0026wpst\n\nYou can view and apply for our current open positions. You can also apply at any store to be a store associate. If you have any questions or concerns regarding our job opportunities, please contact our HR Team at hr@snipesusa.com.",
+      "name": "How can I work for SNIPES?/I'm looking for a job",
+      "content": "To learn more about working for SNIPES, please check out our Careers page here: https://snp98.rec.pro.ukg.net/JAK1500JAKO/JobBoard/74f2e917-c09c-454b-b413-e11f7a62bf4b/?q=&o=postedDateDesc&w=&wc=&we=&wpst\n\nYou can view and apply for our current open positions. You can also apply at any store to be a store associate. If you have any questions or concerns regarding our job opportunities, please contact our HR Team at hr@snipesusa.com.",
       "id": "24eb0f6a-3f7a-49a9-b022-6db52481fe1b",
       "companyName": "Snipes"
     },
     {
       "name": "Do you offer financing?",
-      "content": "At the moment we don\u0027t offer financing. You can take a look at the payment methods we accept here: https://snipesusa.my.site.com/helpcenter/s/article/What-payment-methods-do-you-accept",
+      "content": "At the moment we don't offer financing. You can take a look at the payment methods we accept here: https://snipesusa.my.site.com/helpcenter/s/article/What-payment-methods-do-you-accept",
       "id": "f0556eab-fb11-4ce8-ac94-1bbdc4d6a433",
       "companyName": "Snipes"
     },
     {
       "name": "Code error \"save some gear for the rest of us\"",
-      "content": "When you receive this error it means you have too many items in your cart. Here\u0027s our release policy for better insight - https://snipes.attn.tv/sl/1bJHp8gb I hope this helps!",
+      "content": "When you receive this error it means you have too many items in your cart. Here's our release policy for better insight - https://snipes.attn.tv/sl/1bJHp8gb I hope this helps!",
       "id": "d38f4ae3-6163-4c5d-8114-b65760ae15b5",
       "companyName": "Snipes"
     },
@@ -385,7 +385,7 @@
     },
     {
       "name": "How long will my order be held at the store?",
-      "content": "The store will hold your order for 7 days. If you need more time, or the pickup date doesn\u0027t work for you, please call the store and let them know.",
+      "content": "The store will hold your order for 7 days. If you need more time, or the pickup date doesn't work for you, please call the store and let them know.",
       "id": "4d8be066-564e-4794-9765-03e760f6f3cd",
       "companyName": "Snipes"
     },
@@ -396,7 +396,7 @@
       "companyName": "Snipes"
     },
     {
-      "name": "Is unisex sizing based on men\u0027s or women\u0027s sizes?",
+      "name": "Is unisex sizing based on men's or women's sizes?",
       "content": "Great question! When you see the sizes listed as unisex, they are male sizes.",
       "id": "930295cf-e969-4157-a14a-3990480cac4b",
       "companyName": "Snipes"
@@ -414,22 +414,22 @@
       "companyName": "Snipes"
     },
     {
-      "name": "Code won\u0027t work/10% off code not working",
-      "content": "Please make sure you\u0027re logged into your account to use the code. Note that products on clearance/sale, recently released, and products marked as Final Sale are not eligible. Some brands are also excluded. Here\u0027s more info on promo exclusions: https://snipesusa.my.site.com/helpcenter/s/article/Promotion-Exclusions",
+      "name": "Code won't work/10% off code not working",
+      "content": "Please make sure you're logged into your account to use the code. Note that products on clearance/sale, recently released, and products marked as Final Sale are not eligible. Some brands are also excluded. Here's more info on promo exclusions: https://snipesusa.my.site.com/helpcenter/s/article/Promotion-Exclusions",
       "id": "bd59cb26-a2ba-4213-bde1-302a6b2c0e4d",
       "shortcut": "cww",
       "companyName": "Snipes"
     },
     {
       "name": "Are online products available in stores?/Store products availability/inventory",
-      "content": "You can use the \"Shop My Store\" feature on the product landing page, where you can set a store location for which you would like to shop online, and you\u0027ll see the availability of the products in the stores!",
+      "content": "You can use the \"Shop My Store\" feature on the product landing page, where you can set a store location for which you would like to shop online, and you'll see the availability of the products in the stores!",
       "id": "0e347071-b3fe-4c3f-8394-ee9f8a3cbc40",
       "shortcut": "spa",
       "companyName": "Snipes"
     },
     {
       "name": "Early Access Email",
-      "content": "I\u0027m sorry for the inconvenience. If this email address is not working for the VIP queue and you were selected as a winner, please try the email address associated with your SNIPES Reserve wallet. Let me know how that goes!",
+      "content": "I'm sorry for the inconvenience. If this email address is not working for the VIP queue and you were selected as a winner, please try the email address associated with your SNIPES Reserve wallet. Let me know how that goes!",
       "id": "e6fc74a5-1a66-4e7b-90cd-99ae751816a5",
       "shortcut": "eea",
       "companyName": "Snipes"

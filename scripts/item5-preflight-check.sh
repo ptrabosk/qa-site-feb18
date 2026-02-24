@@ -24,7 +24,7 @@ check_grep() {
     fi
 }
 
-check_file_exists "pool-upload.gs" "Merged backend file exists"
+check_file_exists "tools/uploader/pool-upload.gs" "Merged backend file exists"
 
 if [[ -f "google-assignment-session-backend.gs" ]]; then
     fail "Legacy duplicate backend file still present (remove google-assignment-session-backend.gs)"
@@ -32,10 +32,10 @@ else
     pass "No duplicate backend file in repo"
 fi
 
-DOGET_COUNT="$(rg -n "^function doGet\\(e\\)" pool-upload.gs | wc -l | tr -d ' ')"
-DOPST_COUNT="$(rg -n "^function doPost\\(e\\)" pool-upload.gs | wc -l | tr -d ' ')"
-[[ "$DOGET_COUNT" == "1" ]] && pass "Single doGet in pool-upload.gs" || fail "Unexpected doGet count: $DOGET_COUNT"
-[[ "$DOPST_COUNT" == "1" ]] && pass "Single doPost in pool-upload.gs" || fail "Unexpected doPost count: $DOPST_COUNT"
+DOGET_COUNT="$(rg -n "^function doGet\\(e\\)" tools/uploader/pool-upload.gs | wc -l | tr -d ' ')"
+DOPST_COUNT="$(rg -n "^function doPost\\(e\\)" tools/uploader/pool-upload.gs | wc -l | tr -d ' ')"
+[[ "$DOGET_COUNT" == "1" ]] && pass "Single doGet in tools/uploader/pool-upload.gs" || fail "Unexpected doGet count: $DOGET_COUNT"
+[[ "$DOPST_COUNT" == "1" ]] && pass "Single doPost in tools/uploader/pool-upload.gs" || fail "Unexpected doPost count: $DOPST_COUNT"
 
 check_file_exists "qa-config.js" "Shared frontend config exists"
 check_grep "window\\.QA_CONFIG" "qa-config.js" "qa-config.js exports window.QA_CONFIG"

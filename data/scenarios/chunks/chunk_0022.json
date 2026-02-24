@@ -3,1066 +3,677 @@
   "chunk": "chunk_0022",
   "scenarios": {
     "106": {
-      "agentName": "Sarah",
-      "id": "019c582f-8f73-4764-f000-0000d2789be0",
+      "id": "019c7d5a-4e1b-48fb-f000-000025956cac",
+      "companyName": "Custom Gold Grillz",
+      "companyWebsite": "https://customgoldgrillz.com",
+      "agentName": "Jordan",
+      "messageTone": "Formal",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "Custom Gold Grillz: You are already subscribed. Click here to shop now: customgoldgrillz.com.",
+          "message_type": "system",
+          "date_time": "2026-02-11 23:49:11.200"
+        },
+        {
+          "message_media": [],
+          "message_text": "Custom Gold Grillz: Need pointing in the right direction?\nDon't forget to use CGGrMYRWH for 10% off.\nHere's what's trending this month: https://customgoldgrillz.attn.tv/aGc6SueKhlME ",
+          "message_type": "system",
+          "date_time": "2026-02-12 10:26:28.978"
+        },
+        {
+          "message_media": [],
+          "message_text": "Custom Gold Grillz: Don't forget to complete your checkout of Solid .925 Sterling Silver Deep Cut Grillztoday before it's gone! https://customgoldgrillz.attn.tv/a9HHeRZsC3E0 .\n\nAny last-minute questions?\n-Jordan ",
+          "message_type": "system",
+          "date_time": "2026-02-12 10:39:46.710"
+        },
+        {
+          "message_media": [],
+          "message_text": "Custom Gold Grillz: Hey , this is Jordan. Appreciate you stopping by! customgoldgrillz.attn.tv/a_Jj9cwqwzOJ \n\nAnything you got your eye on? ",
+          "message_type": "system",
+          "date_time": "2026-02-20 17:26:24.730"
+        },
+        {
+          "message_media": [],
+          "message_text": "Custom Gold Grillz: Hey YOUNG, this is Jordan . I noticed you were interested in something customgoldgrillz.attn.tv/a-M597xrZChT .\n\nAnything I can help you with? Text me anytime",
+          "message_type": "system",
+          "date_time": "2026-02-20 18:11:36.047"
+        },
+        {
+          "message_media": [],
+          "message_text": "Why does it keep saying it cant be shipped to my adress. Ive put in 3 completely different adresses and it still says it cant be shipped to the adress.",
+          "message_type": "customer",
+          "date_time": "2026-02-20 18:17:38.360"
+        },
+        {
+          "message_media": [],
+          "message_text": "Gettin really annoying ive bought from you guys before with zero issues. And now its not letting me buy anything due to the adress thing...",
+          "message_type": "customer",
+          "date_time": "2026-02-20 18:19:26.680"
+        },
+        {
+          "message_media": [],
+          "message_text": "Custom Gold Grillz: I'm sorry to hear that. Would it be possible to ask for a screenshot of the error? May I also ask for your complete address? I would be glad to check on this further for you. ",
+          "message_type": "agent",
+          "agent": "82260",
+          "message_id": "019c7d5a-4e1b-48fb-f000-000025956cac",
+          "date_time": "2026-02-20 18:19:56.216"
+        }
+      ],
+      "notes": {
+        "send_to_cs": [
+          "Send to CS immediately if cx did not receive their order",
+          "Send to CS immediately for post purchase inquiries about the status of the mold, or issues with the molds",
+          "Send to CS for pricing inquiries",
+          "Send to CS if cx is looking for a more specific piece not available on the website",
+          "Send to CS if cx is asking for a code and we don't have one"
+        ],
+        "escalate": [
+          "No escalations for this client, send everything to CS"
+        ],
+        "tone": [
+          "Use Teeth instead of Pieces (e.g 8 teeth at the top)"
+        ],
+        "templates": [
+          "If the image is not coming through a second time, send Broken Image temp",
+          "For CUSTOM GRILLZ & ACCESSORIES INQUIRIES for models not available on the website use PS shortcut",
+          "For urgent concerns/delayed escalation response use PS shortcut",
+          "For delayed orders and the customer is frustrated use PS shortcut",
+          "For customer service use shortcut CS which has both the direct email/number"
+        ],
+        "dos_and_don_ts": [
+          "Do not use the order history as a reference to order status",
+          "If customers want to cancel their order always ask for the reason for cancellation"
+        ],
+        "drive_to_purchase": [
+          "Don't recommend pre-made grillz! Upsell to fitted and custom grillz",
+          "When recommending an item, let the cx know they can customize their order on the product page",
+          "When recommending an item, ask the cx if they are working with a budget",
+          "Use LFG shortcut to gather information and provide recommendations when cx ask about:",
+          "➜ Grillz/Chain recommendation",
+          "➜ Grillz/Chain in general",
+          "➜ Grillz/Chains pricing"
+        ]
+      },
       "rightPanel": {
         "source": {
           "label": "Website",
-          "value": "https://lacoste.com",
+          "value": "https://customgoldgrillz.com",
           "date": ""
         }
       },
-      "companyWebsite": "https://lacoste.com",
-      "companyName": "Lacoste",
-      "notes": {
-        "send_to_cs": [
-          "No ESC for this client, send everything to CS"
-        ],
-        "dos_and_donts": [
-          "Close the convo once the client takes over",
-          "Do use the Holiday Discounts template if you are unsure of the promotion"
-        ]
-      },
-      "blocklisted_words": [
-        
-      ],
-      "escalation_preferences": [
-        
-      ],
+      "escalation_preferences": [],
+      "blocklisted_words": [],
+      "has_shopify": true
+    },
+    "107": {
+      "id": "019c7ce1-ed8b-4e2f-f000-000033128aa5",
+      "companyName": "First Tactical",
+      "companyWebsite": "https://firsttactical.com/",
+      "agentName": "Matthew",
       "messageTone": "Polished",
       "conversation": [
         {
+          "message_media": [],
+          "message_text": "First Tactical: Your Presidents Day head start begins now.\n\nVIPs like you get 20% off sitewide before anyone else. Use code: PRES26VIP\n\nUnlock early access >> firsttactical.attn.tv/a4dABbthCUuv ",
           "message_type": "system",
-          "message_text": "Lacoste: The Long Weekend Sale is waiting..\nUp to 50% off + extra 20% off select styles. \n\nShop Now: lacoste.attn.tv/a0TxYT5mnW00 .\n\n*discount in cart, online only",
-          "date_time": "2026-01-16 10:01:41.817",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-12 15:05:51.757"
         },
         {
+          "message_media": [],
+          "message_text": "First Tactical: Presidents Day sale is live!\n\n20% off + FREE BPTR T-Shirt (orders $175+, must add to cart).\n\nShop now >> firsttactical.attn.tv/azjHPpYi_LWz ",
           "message_type": "system",
-          "message_text": "Lacoste: Up to 50% off + extra 20% off select styles ends SOON!\n\nAct Fast: lacoste.attn.tv/alkrXtR93fSI .\n\n*discount in cart, online only",
-          "date_time": "2026-01-19 10:00:48.374",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-13 15:05:36.028"
         },
         {
+          "message_media": [],
+          "message_text": "First Tactical: Halfway there-still time to save, but don't drag your feet.\n\nSave 20% off our best-sellers. Plus, free BPTR T-Shirt with orders $175+.\n\nGear up >> firsttactical.attn.tv/aBTwwjCPL2tz ",
           "message_type": "system",
-          "message_text": "Lacoste: EXTENDED. Up to 50% off + extra 20% off select styles.\n\nLast Chance: lacoste.attn.tv/adksNK_lOLWJ \n\n*discount in cart, online only",
-          "date_time": "2026-01-20 10:00:45.347",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-14 08:03:09.516"
         },
         {
+          "message_media": [],
+          "message_text": "First Tactical: Clock's ticking on 20% OFF.\n\nPresidents Day Sale wraps tomorrow-gear up while you still can.\n\nShop now >> firsttactical.attn.tv/asbztuwNiTX4 ",
           "message_type": "system",
-          "message_text": "Lacoste: Secure your Valentine\u0027s Day gifts now! Shop our stylish sweaters that they\u0027ll surely adore.\n\nExplore: lacoste.attn.tv/aQ3Ef_Lz0PMK .",
-          "date_time": "2026-01-29 11:01:00.913",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-15 15:05:44.501"
         },
         {
+          "message_media": [],
+          "message_text": "First Tactical: ⏳ Last call for Presidents Day savings.\n\n20% off ends tonight.\n\nMake it count >> firsttactical.attn.tv/a4S4aWfO2VYk ",
           "message_type": "system",
-          "message_text": "Lacoste: Your latest must-haves just arrived. \n\nShop the new season collection here: lacoste.attn.tv/aempBRH19Dl- .",
-          "date_time": "2026-01-31 16:14:04.786",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-16 15:05:46.608"
         },
         {
+          "message_media": [],
+          "message_text": "First Tactical: 🔥 Only hours left.\n\nPresidents Day Sale ends at midnight-gear up with 20% off now.\n\nDon't miss out >> firsttactical.attn.tv/akwX1FM7RE_f ",
           "message_type": "system",
-          "message_text": "Lacoste: The Big \u0026 Tall shop is now open! Shop our classics that are essential for your wardrobe.\n\nShop the edit: lacoste.attn.tv/a5oaZ8I0GbEM .",
-          "date_time": "2026-02-06 11:00:49.923",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-16 19:05:34.895"
         },
         {
+          "message_media": [],
+          "message_text": "First Tactical: Hey Nickolas, this is Matthew. Thanks for checking out Men’s Medium Duty Padded Glove - Black / S: firsttactical.attn.tv/a8yaeMTWEhd9 \n\nAny questions I can answer for you today?",
           "message_type": "system",
-          "message_text": "Lacoste: Be the first to know! Shop up to 50% off + extra 20% off select styles.\n\nShop the Sale: lacoste.attn.tv/aAH6fMGxQJWv .\n\n*exclusions apply",
-          "date_time": "2026-02-12 10:01:09.633",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-20 13:25:44.182"
         },
         {
-          "message_type": "system",
-          "message_text": "Lacoste: We saw you looking.. have you had a chance to check out our best sellers on sale? \n\nShop it here: lacoste.attn.tv/a8yg-eAJJpl9 .",
-          "date_time": "2026-02-12 19:27:51.926",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Lacoste: You are already subscribed. Click here to shop now: lacoste.com.",
-          "date_time": "2026-02-13 11:57:27.909",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Lacoste: You are already subscribed. Click here to shop now: lacoste.com.",
-          "date_time": "2026-02-13 12:27:25.199",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Lacoste: We know you\u0027re going to love this. \n\nShop now: lacoste.attn.tv/aVnCoiAPYOrY .",
-          "date_time": "2026-02-13 13:04:53.140",
-          "message_media": [
-            
-          ]
-        },
-        {
+          "message_media": [],
+          "message_text": "Yes I was about to place another order but I don't see a way to change my name. I legally changed my name a few years ago and don't see a way to update it.",
           "message_type": "customer",
-          "message_text": "Estoy haciendo una compra y no me lo permiten🥹🥹",
-          "date_time": "2026-02-13 13:05:51.047",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-20 16:02:24.527"
         },
         {
-          "message_type": "customer",
-          "message_text": "Ayúdenme por favor",
-          "date_time": "2026-02-13 13:06:00.511",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c582f-8f73-4764-f000-0000d2789be0",
-          "message_text": "Lacoste: Gracias por contactarnos, ¡y lamento oír eso! ¿Te encuentras con algún mensaje de error? Mientras tanto, te sugiero que intentes abrir el sitio en modo incógnito o privado para descartar problemas con la caché del navegador o las extensiones. Avísame cómo te va.",
+          "message_media": [],
+          "message_text": "First Tactical: Thank you for reaching out, we appreciate you letting us know about your legal name change! Just to be sure, have you already checked it in the settings when visiting our site?\n\nLet me know how that goes. ",
           "message_type": "agent",
-          "agent": "87310",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-13 13:07:17.906"
+          "agent": "109617",
+          "message_id": "019c7cdf-1933-42ed-f000-000033128aa5",
+          "date_time": "2026-02-20 16:05:21.738"
+        },
+        {
+          "message_media": [],
+          "message_text": "Yes the only thing I can change is my address it looks like. I can check again on the desktop version of the website.",
+          "message_type": "customer",
+          "date_time": "2026-02-20 16:06:54.289"
+        },
+        {
+          "message_media": [],
+          "message_text": "First Tactical: Alright, please do! I'm just here if you need further assistance with this. ",
+          "message_type": "agent",
+          "agent": "109617",
+          "message_id": "019c7ce1-ed8b-4e2f-f000-000033128aa5",
+          "date_time": "2026-02-20 16:08:27.172"
         }
-      ]
-    },
-    "107": {
-      "agentName": "Annie",
-      "id": "019c772a-0f90-4d24-f000-0000a5e1e951",
-      "rightPanel": {
-        "browsingHistory": [
-          {
-            "link": "https://beistravel.com/products/the-large-cosmetic-pouch-in-black?_pos=8\u0026_sid=af0132514\u0026_ss=r",
-            "item": "The Large Cosmetic Pouch in Black",
-            "timeAgo": "2026-02-19"
-          },
-          {
-            "link": "https://beistravel.com/products/the-dopp-kit-in-olive?_pos=5\u0026_sid=af0132514\u0026_ss=r",
-            "item": "The Dopp Kit in Olive",
-            "timeAgo": "2026-02-19"
-          },
-          {
-            "link": "https://beistravel.com/products/the-toiletry-bag-in-black?_pos=1\u0026_sid=af0132514\u0026_ss=r",
-            "item": "The Toiletry Bag in Black",
-            "timeAgo": "2026-02-19"
-          },
-          {
-            "link": "https://beistravel.com/products/the-cosmetic-case-in-black?_pos=3\u0026_psq=cosmetic+case\u0026_ss=e\u0026_v=1.0",
-            "item": "The Cosmetic Case in Black",
-            "timeAgo": "2026-02-19"
-          },
-          {
-            "link": "https://beistravel.com/products/the-overpacker-starter-set-in-maple?_pos=64\u0026_sid=26093ae45\u0026_ss=r",
-            "item": "The Overpacker Starter Set",
-            "timeAgo": "2026-02-19"
-          }
-        ],
-        "source": {
-          "label": "Website",
-          "value": "https://beistravel.com",
-          "date": ""
-        }
-      },
-      "companyWebsite": "https://beistravel.com",
-      "companyName": "Beis Travel",
+      ],
       "notes": {
         "escalate": [
-          "We don\u0027t ESC for this client, use ESC shortcut",
-          "If cx ask how to get/redeem the discount for downloading the app use ESC shortcut"
+          "For restock inquiries, use STOK shortcut and ESC",
+          "ESC inquiries about direct to agency sales"
         ],
         "templates": [
-          "For Limited edition items don\u0027t use restock temps, they will not be restocked"
-        ],
-        "dos_and_donts": [
-          "Don\u0027t share the duration of the sale/sale dates with customers!"
+          "If someone from a sales group/organisation wants to learn more use \"Sales group\" temp"
         ]
       },
-      "blocklisted_words": [
-        
-      ],
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://firsttactical.com/",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "Men's Slash Patrol Glove - Black / M",
+            "link": "https://www.firsttactical.com/products/slash-patrol-glove?_pos=3&_psq=gloves&_ss=e&_v=1.0&variant=42731872972",
+            "timeAgo": "2026-02-20"
+          },
+          {
+            "item": "Men's Slash Patrol Glove - Black / M",
+            "link": "https://www.firsttactical.com/products/slash-patrol-glove?_pos=3&_psq=gloves&_ss=e&_v=1.0&variant=42731872972",
+            "timeAgo": "2026-02-20"
+          },
+          {
+            "item": "Men's Slash Patrol Glove - Black / M",
+            "link": "https://www.firsttactical.com/products/slash-patrol-glove?_pos=3&_psq=gloves&_ss=e&_v=1.0&variant=42731872972",
+            "timeAgo": "2026-02-20"
+          },
+          {
+            "item": "Men's Slash Patrol Glove - Black / S",
+            "link": "https://www.firsttactical.com/products/slash-patrol-glove?_pos=3&_psq=gloves&_ss=e&_v=1.0",
+            "timeAgo": "2026-02-20"
+          },
+          {
+            "item": "Men’s Medium Duty Padded Glove - Black / S",
+            "link": "https://www.firsttactical.com/products/mens-medium-duty-padded-glove?_pos=6&_psq=gloves&_ss=e&_v=1.0",
+            "timeAgo": "2026-02-20"
+          }
+        ]
+      },
       "escalation_preferences": [
-        
+        "Shipping questions",
+        "Exchanges and returns"
       ],
+      "blocklisted_words": [],
+      "has_shopify": true
+    },
+    "108": {
+      "id": "019c7802-3afc-4228-f000-00000bc5c4f4",
+      "companyName": "State Line Tack",
+      "companyWebsite": "https://statelinetack.com",
+      "agentName": "Sarah",
       "messageTone": "Casual",
       "conversation": [
         {
+          "message_media": [],
+          "message_text": "State Line Tack: Welcome! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
           "message_type": "system",
-          "message_text": "BÉIS Travel: Reply Y to subscribe to recurring automated personalized marketing alerts (e.g. cart reminders) from BÉIS Travel.",
-          "date_time": "2026-02-19 12:38:44.538",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-19 16:10:49.017"
         },
         {
+          "message_media": [],
+          "message_text": "State Line Tack: Hey, this is Sarah! Thanks for signing up! Click here to activate your offer: slt.attn.tv/aHtJ9wDlMrhI",
           "message_type": "system",
-          "message_text": "BÉIS Travel: Welcome to BÉIS Travel! Msg \u0026 data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
-          "date_time": "2026-02-19 12:39:08.123",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-19 16:10:52.954"
         },
         {
+          "message_media": [],
+          "message_text": "State Line Tack: You have been entered to win thousands in prizes each month! Click here for official Terms & Conditions. https://slt.attn.tv/ajQckutN0qoR .",
           "message_type": "system",
-          "message_text": "BÉIS Travel: Hey there, newbie! First time shopping with us? We\u0027ve handpicked some essentials to get you started: https://beistravel.attn.tv/aoAKWI8Ea2xb . \n\nEnjoy 20% OFF with code WELCOMEn9oxt6 \nbeistravel.attn.tv/acNfNwALaBm4 .",
-          "date_time": "2026-02-19 12:39:13.139",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-19 16:10:56.923"
         },
         {
+          "message_media": [],
+          "message_text": "State Line Tack: Don't forget to save our contact to get exclusive updates!",
           "message_type": "system",
-          "message_text": "BÉIS Travel: Bags designed to make your every day easier. Save our contact to make getting all of our latest updates easy.",
-          "date_time": "2026-02-19 12:39:14.348",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-19 16:10:57.423"
         },
         {
+          "message_media": [],
+          "message_text": "State Line Tack: Hey, this is Sarah. Thanks for checking out our site! https://slt.attn.tv/aJUzNwx3SYT0\n\nAre you looking for anything in particular today?",
           "message_type": "system",
-          "message_text": "BÉIS Travel: Psst! Your items are in someone else\u0027s cart. Don\u0027t worry we saved them for you, check out now before they\u0027re gone. beistravel.attn.tv/adaHkcJw1ZmC .",
-          "date_time": "2026-02-19 13:12:52.694",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-19 16:14:49.292"
         },
         {
-          "message_type": "system",
-          "message_text": "BÉIS Travel: Hi there. If you need additional help please reach us at hello@beistravel.com. Text STOP to opt out.",
-          "date_time": "2026-02-19 13:26:17.472",
-          "message_media": [
-            
-          ]
-        },
-        {
+          "message_media": [],
+          "message_text": "https://www.statelinetack.com/products/rambo-flybuster-vamoose-no-fly-zone?variant=43800937005193 yes I was looking at this and trying to find a better discount code",
           "message_type": "customer",
-          "message_text": "Discount code isn\u0027t working ",
-          "date_time": "2026-02-19 13:26:28.364",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-19 17:10:22.550"
         },
         {
-          "message_type": "template",
-          "message_text": "Template used: \"Code won\u0027t work - All brands\"; last updated: 2023-10-10 16:36:42.859",
-          "date_time": "2026-02-19 13:29:31.172",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c772a-0f90-4d24-f000-0000a5e1e951",
-          "message_text": "BÉIS Travel: I\u0027m sorry to hear that. Upon checking, it appears you\u0027ve placed an order with us before. Please note that the code WELCOMEn9oxt6 is valid only for first-time purchases, which is likely why it isn\u0027t working. I apologize for the inconvenience.\n\nWe do have an ongoing sale for up to 20% off! Take a look here: https://beistravel.attn.tv/aZ-x2JMS9l26",
+          "message_media": [],
+          "message_text": "State Line Tack: I recommend using the coupon code TXTSLT25 for a discount on your purchase at statelinetack.com. Check the website for more promotions and sales!",
           "message_type": "agent",
-          "agent": "109968",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-19 13:29:31.173"
+          "agent": "62551",
+          "message_id": "019c77f4-86c8-4fb7-f000-00000bc5c4f4",
+          "date_time": "2026-02-19 17:10:39.974"
+        },
+        {
+          "message_media": [],
+          "message_text": "That csme back invaild",
+          "message_type": "customer",
+          "date_time": "2026-02-19 17:13:32.096"
+        },
+        {
+          "message_media": [],
+          "message_text": "State Line Tack: I recommend using the code TXTSLT25 for a discount on your purchase at statelinetack.com. Check the website for more promotions and sales.",
+          "message_type": "agent",
+          "agent": "62551",
+          "message_id": "019c77f7-6416-45b6-f000-00000bc5c4f4",
+          "date_time": "2026-02-19 17:13:47.691"
+        },
+        {
+          "message_media": [],
+          "message_text": "Code did not work",
+          "message_type": "customer",
+          "date_time": "2026-02-19 17:14:22.246"
+        },
+        {
+          "message_media": [],
+          "message_text": "State Line Tack: Please try using the code TXTSLT25 again at statelinetack.com. If it still doesn't work, please share a screenshot of the issue.",
+          "message_type": "agent",
+          "agent": "62551",
+          "message_id": "019c77f8-2bbc-4443-f000-00000bc5c4f4",
+          "date_time": "2026-02-19 17:14:38.808"
+        },
+        {
+          "message_media": [],
+          "message_text": "Invalid",
+          "message_type": "customer",
+          "date_time": "2026-02-19 17:15:12.399"
+        },
+        {
+          "message_media": [],
+          "message_text": "State Line Tack: You can use the code TXTSLT25 for a discount on your purchase at statelinetack.com.",
+          "message_type": "agent",
+          "agent": "62551",
+          "message_id": "019c77f8-dd1f-4f37-f000-00000bc5c4f4",
+          "date_time": "2026-02-19 17:15:24.209"
+        },
+        {
+          "message_media": [],
+          "message_text": "State Line Tack: Hey, Sarah here! Looks like you left something behind, anything I can help with?: slt.attn.tv/anNgId82CjCZ .",
+          "message_type": "system",
+          "date_time": "2026-02-19 17:15:37.957"
+        },
+        {
+          "message_media": [],
+          "message_text": "TXTSLT25",
+          "message_type": "customer",
+          "date_time": "2026-02-19 17:15:42.491"
+        },
+        {
+          "message_media": [],
+          "message_text": "State Line Tack: I'm sorry to hear that. Could you kindly share a screenshot of the items in your cart? I'll be happy to look into the issue!",
+          "message_type": "agent",
+          "agent": "62551",
+          "message_id": "019c77f9-4877-480d-f000-00000bc5c4f4",
+          "date_time": "2026-02-19 17:15:51.690"
+        },
+        {
+          "message_media": [],
+          "message_text": "Code TXTSLT25 doesn't work",
+          "message_type": "customer",
+          "date_time": "2026-02-19 17:21:02.473"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"Automatic discount - All brands\"; last updated: 2023-10-10 16:40:19.306",
+          "message_type": "template",
+          "date_time": "2026-02-19 17:25:38.067"
+        },
+        {
+          "message_media": [],
+          "message_text": "State Line Tack: I'm sorry for any inconvenience. I just checked, and it looks like the item you're trying to buy is already on sale. That's likely why the code isn't working, as our system can't stack multiple promos at checkout.",
+          "message_type": "agent",
+          "agent": "109964",
+          "message_id": "019c7802-3afc-4228-f000-00000bc5c4f4",
+          "date_time": "2026-02-19 17:25:38.068"
         }
-      ]
-    },
-    "108": {
-      "agentName": "Jordan",
-      "id": "019c727a-5bbe-41af-f000-00000e864995",
+      ],
+      "notes": {
+        "send_to_cs": [
+          "Send to CS for post purchase issues, use PPI shortcut"
+        ],
+        "promo_and_promo_exclusions": [
+          "Some items aren’t eligible for discounts due to manufacturers’ policy, add to cart to double-check!"
+        ]
+      },
       "rightPanel": {
         "source": {
           "label": "Website",
-          "value": "https://ccvideo.com",
+          "value": "https://statelinetack.com",
           "date": ""
-        }
-      },
-      "companyWebsite": "https://ccvideo.com",
-      "companyName": "Critic\u0027s Choice Video",
-      "notes": {
-        "promo_and_exclusions": [
-          "🅿 Refer to brand\u0027s site for the most up to date promotional information where applicable."
+        },
+        "browsingHistory": [
+          {
+            "item": "WeatherBeeta ComFiTec Essential Combo Heavy 66 Nav - StateLineTack.com",
+            "link": "https://www.statelinetack.com/item/weatherbeeta-comfitec-essential-combo-heavy/E016760/",
+            "timeAgo": "2025-07-10"
+          },
+          {
+            "item": "WeatherBeeta ComFiTec Essential Combo Heavy 66 Nav - StateLineTack.com",
+            "link": "https://www.statelinetack.com/item/weatherbeeta-comfitec-essential-combo-heavy/E016760/",
+            "timeAgo": "2025-07-10"
+          }
         ]
       },
-      "blocklisted_words": [
-        
-      ],
       "escalation_preferences": [
         "Exchanges and returns"
       ],
-      "messageTone": "Polished",
-      "conversation": [
-        {
-          "message_type": "system",
-          "message_text": "Critics\u0027 Choice Video: Cozy up this winter! Discover binge-worthy TV shows, now on SALE. Grab yours! criticschoice.attn.tv/aNAwj2NFYwG2 \n\nText STOP to opt out.",
-          "date_time": "2026-01-20 15:10:14.758",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Critics\u0027 Choice Video: Our Fan Favorites collection is here! Check out these beloved titles: criticschoice.attn.tv/auML8KyuiYxW \n\nText STOP to opt out.",
-          "date_time": "2026-01-21 15:25:14.391",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Critics\u0027 Choice Video: Enhance your collection with our stunning 4K films! Check out the sale: criticschoice.attn.tv/ayh6BFLWe7-d \n\nText STOP to opt out.",
-          "date_time": "2026-01-23 15:30:20.130",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Critics\u0027 Choice Video: Upgrade your catalog with New \u0026 Recent releases! Plus, enjoy FREE Shipping on $25+ with WINTER. See what\u0027s new! criticschoice.attn.tv/ae4ZP-MTcV09 \n\nText STOP to opt out.",
-          "date_time": "2026-01-25 15:35:10.038",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Critics\u0027 Choice Video: Don\u0027t miss out! 80\u0027s Film \u0026 TV are 30% OFF + FREE Shipping with TOTALLY. Shop now, sale ends soon! criticschoice.attn.tv/a36eax5nncSv \n\nText STOP to opt out.",
-          "date_time": "2026-01-27 15:35:09.036",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Critics\u0027 Choice Video: Expand your collection! Grab collectibles, games, books, \u0026 more from your favorite titles. Take a look! criticschoice.attn.tv/a0e1ml72GNxJ \n\nText STOP to opt out.",
-          "date_time": "2026-01-29 15:40:06.402",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Critics\u0027 Choice Video: Steelbooks are here! Plus, last day for FREE Shipping on $25+ with WINTER. Explore! criticschoice.attn.tv/aj6vMCD6vQcm \n\nText STOP to opt out.",
-          "date_time": "2026-01-31 15:15:12.328",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Critics\u0027 Choice Video: Double the fun with 30% OFF Remakes \u0026 Sequels! Perfect for your next movie marathon. Treat Yourself! criticschoice.attn.tv/apu4AOpmQiVn \n\nText STOP to opt out.",
-          "date_time": "2026-02-03 15:40:07.013",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Critics\u0027 Choice Video: Experience the heartwarming journey of \"When Calls the Heart\" for 30% OFF! Own the series:\ncriticschoice.attn.tv/aWu7Sqsp-RMm \n\nText STOP to opt out.",
-          "date_time": "2026-02-05 15:45:12.815",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Critics\u0027 Choice Video: Save 30% on Awards Winning Films! Explore! criticschoice.attn.tv/a-Qwuf0i5umR \n\nText STOP to opt out.",
-          "date_time": "2026-02-07 15:35:08.309",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Critics\u0027 Choice Video: Get 30% OFF on Mystery, Suspense \u0026 Film Noir titles. Check it out! criticschoice.attn.tv/aMeu1tLM2owG \n\nText STOP to opt out.",
-          "date_time": "2026-02-09 15:15:11.501",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Critics\u0027 Choice Video: You are already subscribed. Click here to shop now: ccvideo.com.",
-          "date_time": "2026-02-09 18:19:57.524",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Critics\u0027 Choice Video: You are already subscribed. Click here to shop now: ccvideo.com.",
-          "date_time": "2026-02-09 18:20:49.665",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Critics\u0027 Choice Video: Save 30% on binge-worthy TV comedies! Plus, FREE Shipping on $25+ with code HEART. Explore! criticschoice.attn.tv/aRWhBgTUYCE- \n\nText STOP to opt out.",
-          "date_time": "2026-02-11 15:20:09.004",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Critics\u0027 Choice Video: Thanks for your recent purchase! Check out new releases here: https://criticschoice.attn.tv/a5AfntVgvGz7 ",
-          "date_time": "2026-02-12 16:48:15.957",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Critics\u0027 Choice Video: You are already subscribed. Click here to shop now: ccvideo.com.",
-          "date_time": "2026-02-12 17:00:29.371",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Critics\u0027 Choice Video: Take your collection to the next level! Dive into our exciting Action \u0026 Adventure titles on SALE now! Explore: criticschoice.attn.tv/aPh7sBVtsTlu \n\nText STOP to opt out.",
-          "date_time": "2026-02-13 15:25:09.413",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Critics\u0027 Choice Video: Hey, we noticed you checking us out. Have you seen our best sellers yet? https://criticschoice.attn.tv/aPalbM2fs1GC . ",
-          "date_time": "2026-02-15 13:16:10.808",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Critics\u0027 Choice Video: Celebrate Presidents\u0027 Day with us! Stunning 4K titles on SALE now. Don\u0027t miss out! criticschoice.attn.tv/aNV5AupHi59- \n\nText STOP to opt out.",
-          "date_time": "2026-02-16 15:15:13.465",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Critics\u0027 Choice Video: Discover high quality films on 4K \u0026 Blu-ray for 30% OFF! Explore! criticschoice.attn.tv/aIpfxJFSraRD \n\nText STOP to opt out.",
-          "date_time": "2026-02-18 15:20:14.268",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Critics\u0027 Choice Video: Hey, this is Jordan. Thanks for checking us out! https://criticschoice.attn.tv/aIsJgEQJCxYB \n\nAny questions I can answer for you? ",
-          "date_time": "2026-02-18 15:34:09.618",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "Does Critics Choice have a customer service phone number?",
-          "date_time": "2026-02-18 15:35:25.864",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c7277-d93d-410f-f000-00000e864995",
-          "message_text": "Critics\u0027 Choice Video: Yes! You can give us a call at 630-919-2246 Monday - Friday, 8am - 7pm \u0026 Saturday 9am - 5pm CT, or let me know if I can help via text, it may be faster. ",
-          "message_type": "agent",
-          "agent": "50269",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-18 15:36:23.016"
-        },
-        {
-          "message_type": "customer",
-          "message_text": "Thanks Jordan, no questions at this time. Appreciate your support",
-          "date_time": "2026-02-18 15:37:46.242",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c727a-5bbe-41af-f000-00000e864995",
-          "message_text": "Critics\u0027 Choice Video: Likewise. Please don\u0027t hesitate to reach out if you ever have any questions. I\u0027m happy to help.",
-          "message_type": "agent",
-          "agent": "109968",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-18 15:39:07.488"
-        }
-      ]
+      "blocklisted_words": [],
+      "has_shopify": true
     },
     "109": {
-      "agentName": "Nicole",
-      "id": "019c7362-885f-48ec-f000-000099b1a589",
-      "rightPanel": {
-        "source": {
-          "label": "Website",
-          "value": "https://gld.com",
-          "date": ""
-        }
-      },
-      "companyWebsite": "https://gld.com",
-      "companyName": "The GLD Shop",
-      "notes": {
-        "templates": [
-          "If cx wants to refund their order after 14 days of receiving it, send the \"Return outside of 14 day policy\" temp"
-        ]
-      },
-      "blocklisted_words": [
-        
-      ],
-      "escalation_preferences": [
-        
-      ],
-      "messageTone": "Polished",
+      "id": "019c4f1a-5b33-40ea-f000-000035aebd1a",
+      "companyName": "Best Bully Sticks",
+      "companyWebsite": "https://bestbullysticks.com",
+      "agentName": "Morgan",
+      "messageTone": "Super Casual",
       "conversation": [
         {
+          "message_media": [],
+          "message_text": "Best Bully Sticks: Can't decide what your pup needs? Try our Buzzfeed-style \"Plan Your Ideal Day\" quiz to help you find the perfect chew. bestbullysticks.attn.tv/agLWIEBofLQY ",
           "message_type": "system",
-          "message_text": "GLD: Shoot your shot 🏹💘\n\nJust make it GLD.\n\nVDAY gifts are live - with extra 10% off just for you. ⛓️❤️\n\nUse code XTRA10VIP:\ngld.attn.tv/aJcc_oE_S0Ex ",
-          "date_time": "2026-01-20 19:07:15.075",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-01-18 11:45:25.890"
         },
         {
+          "message_media": [],
+          "message_text": "Best Bully Sticks: Thank you for your purchase! Your order number is 1573150. View more information about your order here: bestbullysticks.attn.tv/a0XoAktwfpuh .",
           "message_type": "system",
-          "message_text": "GLD: indecisive who? 🤣✋\n\nDon\u0027t overthink it, wear all your chains at once.\n\nMake a 4-piece set for up to 65% off. \n\ngld.attn.tv/a6Ne_BPALCQY ",
-          "date_time": "2026-01-21 18:56:44.128",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-01-29 10:44:21.529"
         },
         {
+          "message_media": [],
+          "message_text": "Best Bully Sticks: Great news! Your order (1573150) has shipped and will be to you soon. Click here to view your order details: https://bestbullysticks.attn.tv/aSuLArHvF71z",
           "message_type": "system",
-          "message_text": "GLD: Gifts under $100 but over their expectations. 🪜☁️\n\nValentine\u0027s wins, curated for you. \n\nTap in. Use code VIP40 gld.attn.tv/a9u2gG9ekG-O ",
-          "date_time": "2026-01-22 19:36:22.476",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-07 14:31:50.913"
         },
         {
+          "message_media": [],
+          "message_text": "Best Bully Sticks: Want to win $20 off your next order? Add a dog to our subscriber-only photo contest! You can win more than once, 3 winners selected monthly. bestbullysticks.attn.tv/amNjeIfgOg5u ",
           "message_type": "system",
-          "message_text": "GLD: Size matters...\n\n...when it comes to these cuts. \n\nToday\u0027s Deal: Micro Tennis Chain \u0026 Bracelet bundle - now $70 ($195 value), while supplies last.\n\nYou know what to do:\ngld.attn.tv/aav4TNU8f9sB \n",
-          "date_time": "2026-01-24 12:07:09.089",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-10 10:23:00.039"
         },
         {
+          "message_media": [],
+          "message_text": "Best Bully Sticks: Looking for a chew deal? Shop chews & treats on sale! Just reply to this message and we'll assist you!\n\nhttps://bestbullysticks.attn.tv/ati92C23TCa3",
           "message_type": "system",
-          "message_text": "GLD: These rocks sturdy, no Brock Purdy. \n\nAll official team pendants - NFL, NBA, NCAA. \n\nNOW Buy 1, and get your chain FREE.\n\nUse code BOGO: gld.attn.tv/apsF0TLa6wIz ",
-          "date_time": "2026-01-25 13:46:13.032",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-11 16:14:58.593"
         },
         {
-          "message_type": "system",
-          "message_text": "GLD: she got a fatty?\n\ndouble take. ⛓️👀\n\nBOGO is LIVE. Buy one, get one free starts NOW.\n\ngld.attn.tv/arNWxLT4qqaV ",
-          "date_time": "2026-01-27 19:36:50.567",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GLD: The real For You page.\n\nEvery other piece is FREE with code BOGO. \n\nJust for you. Your algorithm never lies. gld.attn.tv/aHajb2CJW-bG ",
-          "date_time": "2026-01-28 19:06:09.096",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GLD: Self checkout type shi...\n\nBuy one. Put an extra in the bag for free (!!)\n\nWe\u0027re asking ZERO questions. \nUse code BOGO gld.attn.tv/akjqlmzmr1L- ",
-          "date_time": "2026-01-29 18:06:30.373",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GLD: Banger?! I hardly know her. 🫠\n\nBANGER DAILY DEALS ARE BACK. 🚨🚨\n\nMake some good Friday decisions.\n\nNo walk of shame. Only wins. gld.attn.tv/avchH117tcWa ",
-          "date_time": "2026-01-30 18:46:11.705",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GLD: WEEKEND BANGERS 🥊!!️\n\nStraight hitters. \nOur favorite pieces. Our best prices. \n\n50-70% off ends Sunday at midnight. \n\nExclusive subscriber access here: gld.attn.tv/aY7RGdvbsm6K ",
-          "date_time": "2026-01-31 19:06:29.436",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GLD: This your Super Bowl. ✨\n\nCop your official NFL team pendants \u0026 rep your squad. \n\nPlus, get a 2nd piece free with code BOGO: gld.attn.tv/ai_GcrNt927e ",
-          "date_time": "2026-02-01 19:46:00.441",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GLD: The price of gold skyrocketing 📈😰\n\nWe holding it down. 🤝\n\nReal gold, under $45 per piece. \n\n4 for $149 is live NOW. gld.attn.tv/ay-QFlJIr8bB ",
-          "date_time": "2026-02-02 19:31:31.272",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GLD: Heart Collection has range. ❤️☄️\n\nGet yourself something for every day of the week. \n\nBuy 1, get 1 free with code BOGO: gld.attn.tv/a4tUuvRTpmu6 ",
-          "date_time": "2026-02-03 19:01:16.579",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GLD: Don\u0027t just raw-dog the fit. 🌭🙂‍↔️\n\nPut some sauce on it.\n\nNew Subscriber Exclusive: 40% off + a free chain to complete the look. \n\ngld.attn.tv/asTHDghlcEjq ",
-          "date_time": "2026-02-04 14:06:27.455",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GLD: Don\u0027t just cover your a$$...\n\nCover hers, in GLD.\n\nValentine\u0027s Day. Go all in. 🌹🔑\n\nUse code: BOGO for your 2nd piece free. Plus, free gift wrap with this link: gld.attn.tv/aaOb7uFVXljX ",
-          "date_time": "2026-02-05 19:07:21.134",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GLD: Rotational depth...\n\nlike you trading Giannis.\n\nRe-up your roster on our best pieces. BOGO is LIVE. gld.attn.tv/a7gDwq7X2Sr8 ",
-          "date_time": "2026-02-06 19:08:01.039",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GLD: We caught that double-take! 👀 \n\nWas it the drip or the deal? \n\nEither way, don\u0027t trip - snag yours for up to 50% OFF (TODAY ONLY) with code VIP50\n\ngld.attn.tv/aBgpWMZm4NpY ",
-          "date_time": "2026-02-08 16:38:56.755",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GLD: Still time. Still romantic. 🌹➡️\n\n40% off VDAY gifts for her + a free gift bag. We got you.\n\nDelivers in time when you order today: gld.attn.tv/aFL4vNVv-vny ",
-          "date_time": "2026-02-09 19:21:38.790",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GLD: Flowers die. Chains are forever. 🥀⛓️\n\nLast minute VDAY gifts that arrive in time.\n\nPlus, get 2 for the price of 1 with code BOGO: gld.attn.tv/aHbnfKfNgMMl ",
-          "date_time": "2026-02-10 19:45:23.579",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GLD: It\u0027s 2x the love this VDAY 💘\n\nOne for you, one for free! Another one for you, another one for FREEEEEEEE.\n\nUse code BOGO: gld.attn.tv/aftyZkcldGew .",
-          "date_time": "2026-02-12 16:36:05.531",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GLD: We won\u0027t make you wait...\n\nfor this weight. ⛓️😤\n\nHeavy ass mfn chains for this weekend\u0027s Banger Deals. \n\nUp to 50% off behind this link --\u003e gld.attn.tv/a76mqrR1957u ",
-          "date_time": "2026-02-13 14:47:17.292",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GLD: Single this VDAY? We got you, boo. \n\nBuy yourself something nice, get your 2nd piece FREEEEEEE. \n\nGo on girl, you deserve it 🌹\ngld.attn.tv/akPC3ksYx3w2 ",
-          "date_time": "2026-02-14 19:45:56.852",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GLD: Last call on weekend bangers 🚨!!️\n\nTop Picks.\nDeepest discount of the week.\nEnds at midnight.\n\nGet after it and get 50+% off: gld.attn.tv/aCyJB0M1PrsV ",
-          "date_time": "2026-02-15 12:36:21.924",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GLD: Gaslight the homies. 😈⛽️\n\n100% of the chain, for only 60% of the price.\n\n40% off is live...exclusive offer, just for you: gld.attn.tv/a5A_NmkQT5Pv ",
-          "date_time": "2026-02-16 14:36:22.236",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GLD: Monday got you seeing double? Us too. \n\nBuy 1, get your 2nd piece freeeeeeeeeee. \n\nYou look like you could use a W. Use code BOGO:\n gld.attn.tv/aHpKI32JOMNv ",
-          "date_time": "2026-02-16 19:46:17.093",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GLD: Stack the f*ck up. 🫵☝️\n\nYou just got two for the price of one. \nOr four for the price of two. \n\nBOGO is live + your stack is waiting. gld.attn.tv/au901uUc4vaB ",
-          "date_time": "2026-02-18 13:06:06.848",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GLD: Get your chain a chain. ⛓️🤝⛓️ Buddy gets lonely up there. 🥺\n\nPick 2 pieces for just $99. \n\nExclusive access with this link -\u003e gld.attn.tv/a1C3WeplQ20X ",
-          "date_time": "2026-02-18 19:46:51.755",
-          "message_media": [
-            
-          ]
-        },
-        {
+          "message_media": [],
+          "message_text": "Not sure how to sign up for the contest but here is my pic the link didn't have anything to add pics",
           "message_type": "customer",
-          "message_text": "still waiting on my chain to get back to me. this process a little too long i feel naked",
-          "date_time": "2026-02-18 19:47:57.283",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-11 18:38:12.288"
         },
         {
-          "message_id": "019c7360-63a9-469b-f000-000099b1a589",
-          "message_text": "GLD: Sorry for the inconvenience. Let me check this with my team again and I\u0027ll reach out the moment I hear back from them.",
+          "message_media": [],
+          "message_text": "Best Bully Sticks: Please check our website, bestbullysticks.com, for the most up-to-date promotions and contests. You'll be the first to hear about new opportunities and how to participate.",
           "message_type": "agent",
-          "agent": "82454",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-18 19:50:22.787"
+          "agent": "62551",
+          "message_id": "019c4f12-0058-4a4a-f000-000035aebd1a",
+          "date_time": "2026-02-11 18:38:25.771"
         },
         {
-          "message_type": "customer",
-          "message_text": "i appreciate that",
-          "date_time": "2026-02-18 19:51:07.298",
-          "message_media": [
-            
-          ]
+          "message_media": [],
+          "message_text": "Template used: \"Site won't work - All brands\"; last updated: 2025-07-16 17:54:02.115",
+          "message_type": "template",
+          "date_time": "2026-02-11 18:47:33.322"
         },
         {
-          "message_id": "019c7362-885f-48ec-f000-000099b1a589",
-          "message_text": "GLD: You\u0027re most welcome! Feel free to let me know if there\u0027s anything else I can help you with in the meantime!",
+          "message_media": [],
+          "message_text": "Best Bully Sticks: In the meantime, I might suggest trying to open the link in an incognito or private window to rule out any browser cache or extension issues. Let me know how that goes.",
           "message_type": "agent",
-          "agent": "109840",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-18 19:52:43.258"
+          "agent": "109630",
+          "message_id": "019c4f1a-5b33-40ea-f000-000035aebd1a",
+          "date_time": "2026-02-11 18:47:33.324"
         }
-      ]
-    },
-    "110": {
-      "agentName": "Sarah",
-      "id": "019c3dd0-9583-4172-f000-0000c55b4022",
-      "rightPanel": {
-        "source": {
-          "label": "Website",
-          "value": "https://modgents.com",
-          "date": ""
-        }
-      },
-      "companyWebsite": "https://modgents.com",
-      "companyName": "Modern Gents Trading Co",
+      ],
       "notes": {
         "send_to_cs": [
-          "No ESC for this client, send everything to CS"
-        ],
-        "tone": [
-          "Close the convo once the client takes over!"
+          "For side effects/dogs being sick from the Bully Sticks, use SDS shortcut"
         ]
       },
-      "blocklisted_words": [
-        
-      ],
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://bestbullysticks.com",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "12-Inch Jumbo Bully Stick - 3 Pack",
+            "link": "https://www.bestbullysticks.com/products/12-inch-jumbo-bully-stick",
+            "timeAgo": "2025-11-30"
+          },
+          {
+            "item": "12-Inch Jumbo Odor-Free Bully Stick - 3 Pack",
+            "link": "https://www.bestbullysticks.com/products/12-inch-jumbo-odor-free-bully-stick",
+            "timeAgo": "2025-04-21"
+          },
+          {
+            "item": "XL Himalayan Golden Yak Cheese Odor-Free (3 Pack)",
+            "link": "https://www.bestbullysticks.com/products/himalayan-golden-yak-cheese-odor-free-3-pack?externalId=N1lKK&utm_campaign=browse-abandonment-4hours&utm_source=attentive&utm_medium=text",
+            "timeAgo": "2023-11-29"
+          },
+          {
+            "item": "Peanut Butter Beef Cheek - Large - 2 Pack",
+            "link": "https://www.bestbullysticks.com/products/large-peanut-butter-beef-cheek?externalId=N1lKK&utm_campaign=browse-abandonment-4hours&utm_medium=text&utm_source=attentive&variant=39537998233737",
+            "timeAgo": "2023-11-08"
+          },
+          {
+            "item": "Peanut Butter Beef Cheek - Large - 6 Pack",
+            "link": "https://www.bestbullysticks.com/products/large-peanut-butter-beef-cheek?externalId=N1lKK&utm_campaign=browse-abandonment-4hours&utm_medium=text&utm_source=attentive&variant=39275848695945",
+            "timeAgo": "2023-11-08"
+          }
+        ]
+      },
       "escalation_preferences": [
-        
+        "Shipping questions",
+        "Discount code errors",
+        "Exchanges and returns",
+        "Medical questions",
+        "mis-shipped items",
+        "incorrect items received",
+        "saying a dog died"
       ],
-      "messageTone": "Polished",
+      "blocklisted_words": [],
+      "has_shopify": true
+    },
+    "110": {
+      "id": "019c538b-864c-4165-f000-0000a463a11c",
+      "companyName": "Dorado Fashion",
+      "companyWebsite": "https://dorado.com",
+      "agentName": "Kiara",
+      "messageTone": "Casual",
       "conversation": [
         {
+          "message_media": [],
+          "message_text": "DORADO: Roses are red.\nJewelry is better.\n\nGet up to 75% OFF with code: LOVELY\n\nGifts for her, the girls, \nor yourself (obviously).\n \nShop Now: \nhttps://dorado.attn.tv/a53trWdnYfI7 . \n\nValentine's Delivery Cutoff:\nOrder by 01/30 @ 11:59 PM EST",
           "message_type": "system",
-          "message_text": "Modern Gents: Mary, you will love these bridal earrings—each pair brings effortless sparkle to any look.\n\nEnjoy free standard shipping on your order.\n\nSee your new favorites here: https://modgents.attn.tv/ay0-XOKoDQdy .",
-          "date_time": "2026-01-09 11:03:21.270",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-01-23 13:31:22.630"
         },
         {
+          "message_media": [],
+          "message_text": "DORADO: last chance\n\npersonalized Valentine's gifts\n\nget up to 75% off with code: LOVELY \n \nonly 12 hours left: \nhttps://dorado.attn.tv/aONpefN8V5AJ .",
           "message_type": "system",
-          "message_text": "Modern Gents: Hey Mary, don\u0027t forget to complete your purchase of The Evelyn before it\u0027s gone! \n\nDon\u0027t miss our Biggest Sale of The Year! Get 35% off, Use Code: AB35FCs \n\nmodgents.attn.tv/aw5pYDnlww7Y",
-          "date_time": "2026-01-10 12:10:39.759",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-01-30 12:03:28.888"
         },
         {
+          "message_media": [],
+          "message_text": "DORADO: Hey, this is Kiara. Thanks for checking out our custom jewelry! https://dorado.attn.tv/aa_oSrMPqwmV \n\nDo you have any questions or need any help?",
           "message_type": "system",
-          "message_text": "Modern Gents: Something exciting is here — the Evelyn Ring brings a 3.5 carat radiant stone and halo to your hand for romantic wear.\n\nUse code AB35FCs to get 35% off; free standard shipping applies.\n\nSee it on you: https://modgents.attn.tv/aCG2QdO2S5cz .",
-          "date_time": "2026-01-10 12:34:20.804",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-01-30 21:02:54.652"
         },
         {
+          "message_media": [],
+          "message_text": "DORADO: Hey, this is Kiara. Thanks for checking out our site! https://dorado.attn.tv/aB5s-HzeVo3H \n\nLet me know if you have any questions or if you want me to get you a discount :)",
           "message_type": "system",
-          "message_text": "Modern Gents: Something exciting is HERE, Mary! Thanks for visiting.\n\nUse code BA30zS to get 30% off your order.\n\nShop now: https://modgents.attn.tv/aTqupr_cQKsG .",
-          "date_time": "2026-01-13 10:03:02.973",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-12 15:21:11.715"
         },
         {
-          "message_type": "system",
-          "message_text": "Modern Gents: We dropped store credit in your acct!\n\nUse code: STBN8W @checkout (exp soon) modgents.attn.tv/a75CPwvMhSLu\n\nPay later w/Shop, Klarna or Sezzle",
-          "date_time": "2026-01-13 17:36:32.163",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Modern Gents: Your Store Credit expires soon :(\n\nRedeem it at checkout with code: STBN8W\n\nmodgents.attn.tv/aa-hqfElMUtX\n\nPS: It\u0027s use it or lose it!",
-          "date_time": "2026-01-15 17:35:47.708",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Modern Gents: Something fresh: our The Lovely Silver Ring shines like a 3ct simulated diamond on a durable 925 sterling silver band plated in rhodium, perfect for everyday wear. ✨\n\nUse code AB35FCs for 35% off - Our Biggest Sale Of The Year!\n\nSHOP NOW: https://modgents.attn.tv/alPELRUP4nEL .",
-          "date_time": "2026-01-15 18:19:05.447",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Modern Gents: OMG. WE JUST DROPPED A NEW RING!\n\nmodgents.attn.tv/ajYejUW9jD4O\n\nPS: Your Store Credit Expires this weekend!\n\nUse Your VIP Code: STBN8W @checkout",
-          "date_time": "2026-01-16 17:31:35.969",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Modern Gents: LAST CHANCE\nYour store credit expires tomorrow\n\nUse code: STBN8W @checkout b4 it\u0027s gone!\nmodgents.attn.tv/a6NAz9e0Fe80\n\nPay Later w/Shop or Klarna",
-          "date_time": "2026-01-18 19:05:31.729",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Modern Gents: Big news — the Lovely Morganite Ring gives you a 3 ct simulated morganite with rose-gold plating on durable sterling silver for everyday wear and special moments.\n\nUse code BA2A5s for 25% off at checkout, valid on full-priced items only.\n\nSee it now: https://modgents.attn.tv/arRJAfxeH_kC . BUY TODAY",
-          "date_time": "2026-01-20 10:03:17.432",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Modern Gents: Want a FREE RING!?\n\nBuy 2 pieces of jewelry, Get 1 FREE!\nUse code: B2G1F\n\nmodgents.attn.tv/a9DQnD-8Khpm \n\nLimited VIP Offer. Hurry b4 it expires!",
-          "date_time": "2026-01-20 17:41:03.710",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Modern Gents: Something exciting is here! Our The Evermore Ring Set gives you a 1.5 carat simulated diamond center and half-eternity band for everyday wear you\u0027ll love.\n\nUSE code BA2A5s for 25% off at checkout to claim it: https://modgents.attn.tv/aSbQRioP6tZQ . Get it while available 🔥",
-          "date_time": "2026-01-22 10:02:02.932",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Modern Gents: 2 CODES. BIGGER SAVINGS.\n\nSTACK two codes @checkout to SAVE MORE!\n\nUse Codes:\nLOVE\nYOU\n\nmodgents.attn.tv/a5G4xEPSFZ2J \n\nHURRY! ENDS SOON!",
-          "date_time": "2026-01-23 17:45:56.376",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Modern Gents: Something exciting is here, Mary — thanks for visiting!\n\nUse code BA30zS for 30% off eligible items.\n\nFind your next ring: https://modgents.attn.tv/aKoJ0oAj67Gn .",
-          "date_time": "2026-01-23 18:54:57.974",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Modern Gents: THIS ENDS TOMORROW\n\nStack two codes @checkout for BIG savings!\n\nUse Codes:\nLOVE\nYOU\n\nmodgents.attn.tv/a9NIJo9HsOCQ\n\nHURRY! Don\u0027t miss out :(",
-          "date_time": "2026-01-25 19:15:18.909",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Modern Gents: Something exciting is here! The Cora Sterling Silver Hoops will add a soft, modern sparkle to your look and make you feel confident and polished.\n\nUse code BA2A5s to get 25% off; free standard shipping applies.\n\nSee them on you: https://modgents.attn.tv/a5UXibHcXSAg . BUY NOW",
-          "date_time": "2026-01-26 10:02:17.522",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Modern Gents: FINAL HOURS!\n\nStack two codes @checkout for the BEST SAVINGS!\n\nUse Codes:\nLOVE\nYOU\n\nmodgents.attn.tv/aXnxL0vIlAug \n\nOFFER ENDS TONIGHT!",
-          "date_time": "2026-01-26 18:04:06.288",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Modern Gents: TIME IS RUNNING OUT!\n\nYOUR EXCLUSIVE 70% OFF A SINGLE ITEM ENDS SOON!\n\nmodgents.attn.tv/a8aXVRM3bCRo\n\nFYI: This Sale is ONLY for VIP subscribers!",
-          "date_time": "2026-01-27 16:47:03.649",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Modern Gents: Don\u0027t forget! YOU UNLOCKED 70% OFF a single item!\n\nmodgents.attn.tv/ac7_zqg3hHQN\n\nPS: Offer ends soon! \n\nPay later w/Klarna, Sezzle or Shop Pay",
-          "date_time": "2026-01-29 14:01:37.048",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Modern Gents: Your VIP offer ENDS TOMORROW :(\n\nLast Chance to get 70% off a single item!\n\nmodgents.attn.tv/atY7e4QlL7p4 \n\nOrder \u0026 get it before Valentine\u0027s Day!",
-          "date_time": "2026-01-31 12:03:19.621",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Modern Gents: Something exciting is here, Mary! Thanks for visiting.\n\nUse code BA30zS for 30% off your pick; code BA30zS applies at checkout.\n\nTry Modern Gents Jewelry: https://modgents.attn.tv/a3iDvni4xb2f . LIMITED TIME",
-          "date_time": "2026-01-31 15:23:43.382",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Modern Gents: Something exciting is HERE! The Juliet Necklace makes your everyday look feel polished and effortless when you wear it.\n\nUse code BA2A5s for 25% off, free standard shipping.\n\nSee it on you: https://modgents.attn.tv/aMVmFpjC0jvE . BUY NOW",
-          "date_time": "2026-01-31 17:49:48.202",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Modern Gents: Something exciting is here! The Charlotte Oval Cut Ring blends a 1.5 carat oval and twisted pavé band for everyday shine you\u0027ll love. 😊\n\nUse code BA2A5s to take 25% off, free standard shipping included.\n\nSee it on you: https://modgents.attn.tv/aIF2jGWiwTRr .",
-          "date_time": "2026-02-03 10:03:10.167",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Modern Gents: CUPID SENT YOU A VIP CODE \u003c3\n\nUse code: VVIP897 @checkout to SAVE MORE!\n\nmodgents.attn.tv/a271wFz3WNst\n\nOrder today \u0026 get it b4 Valentine\u0027s Day!",
-          "date_time": "2026-02-04 17:36:34.324",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Modern Gents: Something exciting is here — the Reef Tungsten Ring blends koa wood and opal inlay with a gunmetal finish for a comfy, polished look you\u0027ll wear daily.\n\nUse code BA2A5s for 25% off; free standard shipping applies.\n\nSee it now: https://modgents.attn.tv/aKPrmqQyahYX .",
-          "date_time": "2026-02-06 10:02:09.222",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Modern Gents: ORDER TODAY w/Rush Shipping \u0026 GET IT B4 VALENTINE\u0027S DAY\n\nmodgents.attn.tv/aGjNBVod10qL\n\nUse code: VVIP897 @checkout to SAVE BIG - Expires Soon!",
-          "date_time": "2026-02-06 17:26:37.338",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Modern Gents: Claim the Monroe Silver Marquise Ring in your cart, Mary — it sparkles with a polished 925 silver split shank and feels modern.\n\nUse code AC2A5s for 25% off.\n\nShop now: https://modgents.attn.tv/a47OyJnG_30E .",
-          "date_time": "2026-02-07 17:01:57.019",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Modern Gents: Something exciting is here, Mary — our affordable wedding ring sets feature matched metals and modern bands you can wear every day.\n\nFree standard shipping.\n\nSee the pairs waiting for you: https://modgents.attn.tv/aDmRGhlir_md .",
-          "date_time": "2026-02-07 18:02:06.970",
-          "message_media": [
-            
-          ]
-        },
-        {
+          "message_media": [],
+          "message_text": "I ordered a chain it's too small",
           "message_type": "customer",
-          "message_text": "I want to see what the bands in my cart look like with the ring in my cart",
-          "date_time": "2026-02-08 09:23:52.706",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-12 15:25:16.578"
         },
         {
-          "message_id": "019c3dd0-9583-4172-f000-0000c55b4022",
-          "message_text": "Modern Gents: Thank you for reaching out. I do apologize as I don\u0027t have access to check on your cart. Would it be possible to ask which items you are referring to? I would love to check this further for you. ",
+          "message_media": [],
+          "message_text": "Template used: \"Return policy\"; last updated: 2025-12-17 17:16:39.629",
+          "message_type": "template",
+          "date_time": "2026-02-12 15:29:38.788"
+        },
+        {
+          "message_media": [],
+          "message_text": "DORADO: I'm really sorry to hear that! Due to the custom nature of personalized items, we cannot offer returns or exchanges for personalized items. Your personalized jewelry is designed just for you! However, if there is an issue or defect with your order, we will replace it at no additional cost. \n\nIn the case of non-personalized items, if you're not satisfied, you can exchange or return within 30 days of your purchase. Unfortunately, we can't offer you a return or exchange if 30 days have passed.\n\n You can check out our return policy in detail here: https://dorado.attn.tv/a3wcgVZ1Z4Tn",
           "message_type": "agent",
-          "agent": "82260",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-08 10:13:25.918"
+          "agent": "109964",
+          "message_id": "019c538b-864c-4165-f000-0000a463a11c",
+          "date_time": "2026-02-12 15:29:38.792"
         }
-      ]
+      ],
+      "notes": {
+        "send_to_cs": [
+          "Send to CS for post purchase issues"
+        ]
+      },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://dorado.com",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "Miami Cuban Link Chain - 5mm",
+            "link": "https://dorado.com/collections/essential-jewelry/products/miami-cuban-link-chain-5mm?variant=40630767910983",
+            "timeAgo": "2026-02-12"
+          }
+        ],
+        "orders": [
+          {
+            "orderNumber": "830799",
+            "orderDate": "2026-02-01",
+            "items": [
+              {
+                "name": "Miami Cuban Link Chain - 8mm",
+                "price": 69,
+                "productLink": "https://sk-custom-concepts.myshopify.com/products/miami-cuban-link-chain-7mm"
+              }
+            ],
+            "link": "https://dorado.com/23078837/orders/9f86ea7b83c362032b33dcca2b473792/authenticate?key=0952422e5f7dd81378405ecc3edf51f6",
+            "trackingLink": "https://track.flexport.com/UUS6216610995154674",
+            "order_tracking_link": "https://track.flexport.com/UUS6216610995154674",
+            "total": 69,
+            "date_time": "2026-02-01 20:35:00.716"
+          },
+          {
+            "orderNumber": "830799",
+            "orderDate": "2026-02-01",
+            "items": [
+              {
+                "name": "Miami Cuban Link Chain - 8mm",
+                "price": 69,
+                "productLink": "https://sk-custom-concepts.myshopify.com/products/miami-cuban-link-chain-7mm"
+              }
+            ],
+            "link": "https://dorado.com/23078837/orders/9f86ea7b83c362032b33dcca2b473792/authenticate?key=0952422e5f7dd81378405ecc3edf51f6",
+            "trackingLink": "https://track.flexport.com/UUS6216610995154674",
+            "order_tracking_link": "https://track.flexport.com/UUS6216610995154674",
+            "total": 51.8,
+            "coupon": "LOVELY",
+            "date_time": "2026-02-01 20:30:58.964"
+          },
+          {
+            "orderNumber": "840478",
+            "orderDate": "2025-06-21",
+            "items": [
+              {
+                "name": "Custom Name Necklace w/ Cuban Chain",
+                "price": 59,
+                "productLink": "https://sk-custom-concepts.myshopify.com/products/custom-name-necklace-w-cuban-chain"
+              }
+            ],
+            "link": "https://dorado.com/23078837/orders/08ea525cc8d898a5ffcf5ea496f794d3/authenticate?key=9b1401351cf5b0f9a86f538fc505d299",
+            "total": 59,
+            "date_time": "2025-06-21 14:27:14.249"
+          },
+          {
+            "orderNumber": "840478",
+            "orderDate": "2025-03-07",
+            "items": [
+              {
+                "name": "Custom Name Necklace w/ Cuban Chain",
+                "price": 59,
+                "productLink": "https://sk-custom-concepts.myshopify.com/products/custom-name-necklace-w-cuban-chain"
+              }
+            ],
+            "link": "https://dorado.com/23078837/orders/08ea525cc8d898a5ffcf5ea496f794d3/authenticate?key=9b1401351cf5b0f9a86f538fc505d299",
+            "total": 59,
+            "date_time": "2025-03-07 12:04:28.846"
+          },
+          {
+            "orderNumber": "528778",
+            "orderDate": "2025-03-07",
+            "items": [
+              {
+                "name": "Custom Name Necklace w/ Cuban Chain",
+                "price": 59,
+                "productLink": "https://sk-custom-concepts.myshopify.com/products/custom-name-necklace-w-cuban-chain"
+              }
+            ],
+            "link": "https://dorado.com/23078837/orders/f79c4ff1d71f1eb203be5ba313404dd2/authenticate?key=122fd54d9a05f9f6d2e1f96937e70b35",
+            "trackingLink": "https://t.17track.net/#nums=9200190374179022640752",
+            "order_tracking_link": "https://t.17track.net/#nums=9200190374179022640752",
+            "total": 39.95,
+            "coupon": "60FLASH",
+            "date_time": "2025-03-07 11:59:11.406"
+          }
+        ]
+      },
+      "escalation_preferences": [
+        "Shipping Issues: Where's my order? Any order issues, direct to customer service"
+      ],
+      "blocklisted_words": [],
+      "has_shopify": true
     }
   }
 }

@@ -3,7 +3,7 @@
   "templates": [
     {
       "name": "Cancel / edit order",
-      "content": "Sorry for the inconvenience! Once an order has been placed, we\u0027re unable to cancel or modify it.\n\nRegarding shipping address updates, we can\u0027t guarantee changes after an order has been processed. However, you\u0027re welcome to contact our team through the following link, and they\u0027ll be happy to look into this for you: https://www.fashionnova.com/pages/contact-us",
+      "content": "Sorry for the inconvenience! Once an order has been placed, we're unable to cancel or modify it.\n\nRegarding shipping address updates, we can't guarantee changes after an order has been processed. However, you're welcome to contact our team through the following link, and they'll be happy to look into this for you: https://www.fashionnova.com/pages/contact-us",
       "id": "0a5d9237-248b-4316-8566-27abe9b051d4",
       "shortcut": "ced",
       "companyName": "Fashion Nova"
@@ -16,7 +16,7 @@
     },
     {
       "name": "Damaged/broken item",
-      "content": "I\u0027m really sorry for the inconvenience. Please do not send the damaged items through the return portal. Instead, contact Customer Care through our Fashion Nova Help Center: https://www.fashionnova.com/pages/help-center We will verify the issue, send a complimentary label if needed, and refund the item to your original payment method. Please note that \nif your order was delivered over 14 days ago, regrettably, we cannot help you with damage reported outside this time frame.",
+      "content": "I'm really sorry for the inconvenience. Please do not send the damaged items through the return portal. Instead, contact Customer Care through our Fashion Nova Help Center: https://www.fashionnova.com/pages/help-center We will verify the issue, send a complimentary label if needed, and refund the item to your original payment method. Please note that \nif your order was delivered over 14 days ago, regrettably, we cannot help you with damage reported outside this time frame.",
       "id": "7ea4e018-50ec-47b1-ab80-a9c6d3f84d0a",
       "shortcut": "dmi",
       "companyName": "Fashion Nova"
@@ -79,7 +79,7 @@
     },
     {
       "name": "Do you have printed catalogs?",
-      "content": "We\u0027re eco-friendly! For the latest FN buzz, follow us on social media and subscribe to our emails.",
+      "content": "We're eco-friendly! For the latest FN buzz, follow us on social media and subscribe to our emails.",
       "id": "6bba5144-8598-4512-932b-9440a3c5c4d9",
       "companyName": "Fashion Nova"
     },
@@ -99,13 +99,13 @@
     },
     {
       "name": "Do you have a store on Amazon?",
-      "content": "We\u0027re not on Amazon, but we accept Amazon Pay! Shop directly on our site for the ultimate FN experience.",
+      "content": "We're not on Amazon, but we accept Amazon Pay! Shop directly on our site for the ultimate FN experience.",
       "id": "877131e1-9761-46b0-86c0-3bbc71f933ea",
       "companyName": "Fashion Nova"
     },
     {
       "name": "Do you have petite sizes?",
-      "content": "Petite Nova Stars, we\u0027ve got you! The inseam measurement in our product descriptions will help you find your perfect fit.",
+      "content": "Petite Nova Stars, we've got you! The inseam measurement in our product descriptions will help you find your perfect fit.",
       "id": "802f9660-82ec-43e1-968b-b1ecec6e7cfc",
       "companyName": "Fashion Nova"
     },
@@ -123,7 +123,7 @@
     },
     {
       "name": "Basic Support",
-      "content": "I can answer some basic questions over text, if I can\u0027t help you out I would be more than happy to redirect you to our advance team at Customer Care.",
+      "content": "I can answer some basic questions over text, if I can't help you out I would be more than happy to redirect you to our advance team at Customer Care.",
       "id": "1282799a-de4f-4e6c-b72e-856079e53a6a",
       "companyName": "Fashion Nova"
     },
@@ -135,7 +135,7 @@
     },
     {
       "name": "What sizes do you carry?",
-      "content": "FN\u0027s speciality is in our variety, with clothing size ranging from XS to 3X.",
+      "content": "FN's speciality is in our variety, with clothing size ranging from XS to 3X.",
       "id": "90118bba-2393-4582-b5f5-b822cd5be0d7",
       "companyName": "Fashion Nova"
     },
@@ -160,19 +160,19 @@
     },
     {
       "name": "Where are you located?",
-      "content": "We\u0027re sprinkled all over SoCal with our trendy stores and offices.",
+      "content": "We're sprinkled all over SoCal with our trendy stores and offices.",
       "id": "cfb08d7b-4b8c-46a8-9ba5-ae467e38589d",
       "companyName": "Fashion Nova"
     },
     {
-      "name": "Unavailable Territories, are there areas we don\u0027t deliver to",
-      "content": "We ship worldwide! If we can\u0027t deliver to your location at checkout, check back later-things can change due to global events.",
+      "name": "Unavailable Territories, are there areas we don't deliver to",
+      "content": "We ship worldwide! If we can't deliver to your location at checkout, check back later-things can change due to global events.",
       "id": "a6b0faf5-fde1-4a70-9158-174a532330fd",
       "companyName": "Fashion Nova"
     },
     {
       "name": "Do you ship to APO/FPO, or PO Boxes?",
-      "content": "We\u0027ve got you covered! We ship to PO Boxes and APO addresses. Please note that shipping times may vary based on location and carrier. See more about our shipping policies here: https://www.fashionnova.com/pages/shipping-policy",
+      "content": "We've got you covered! We ship to PO Boxes and APO addresses. Please note that shipping times may vary based on location and carrier. See more about our shipping policies here: https://www.fashionnova.com/pages/shipping-policy",
       "id": "75cc24d3-7673-431e-bd91-dc02428163a6",
       "companyName": "Fashion Nova"
     },
@@ -198,7 +198,7 @@
     },
     {
       "name": "Can I get a refund or exchange for my gift card?",
-      "content": "I\u0027m afraid gift cards are final sale items, therefore, they can\u0027t be returned for a refund or exchanged unless required by law. I really appreciate your patience and understanding on this!",
+      "content": "I'm afraid gift cards are final sale items, therefore, they can't be returned for a refund or exchanged unless required by law. I really appreciate your patience and understanding on this!",
       "id": "d22a082d-68ce-4928-9f4c-e3d3053fa4e8",
       "companyName": "Fashion Nova"
     },
@@ -223,7 +223,7 @@
     },
     {
       "name": "Return policy / Warranty Policy",
-      "content": "Visit https://www.fashionnova.com/pages/help-center?hcUrl=%2Fen-US%2Four-return-policy-and-process-637538 for the latest info. If you\u0027re not feeling your item(s), you have 30 days from delivery to return.",
+      "content": "Visit https://www.fashionnova.com/pages/help-center?hcUrl=%2Fen-US%2Four-return-policy-and-process-637538 for the latest info. If you're not feeling your item(s), you have 30 days from delivery to return.",
       "id": "1b2f098a-b9e1-41b6-ab19-e77f43ef211b",
       "shortcut": "rp",
       "companyName": "Fashion Nova"
@@ -249,12 +249,12 @@
     },
     {
       "name": "Do yo have jobs available?",
-      "content": "We\u0027d love for you to join our FN family! Visit https://www.fashionnova.com/pages/careers#jobs to see our open positions.",
+      "content": "We'd love for you to join our FN family! Visit https://www.fashionnova.com/pages/careers#jobs to see our open positions.",
       "id": "9aa00535-660a-4579-921c-cf679427f9cc",
       "companyName": "Fashion Nova"
     },
     {
-      "name": "Where\u0027s my gift card?",
+      "name": "Where's my gift card?",
       "content": "Gift cards are delivered by email along with the instructions on how to redeem them. Have you checked your spam and promo folders as sometimes our emails end up there?",
       "id": "1e576442-14da-4f42-bd16-8e0d5244a03f",
       "companyName": "Fashion Nova"
@@ -304,7 +304,7 @@
     },
     {
       "name": "When will you restock?",
-      "content": "I\u0027m sorry, I currently don\u0027t have the exact date of a possible restock. If you want a restock alert, click the out-of-stock item size to be pinged when it\u0027s back in stock!",
+      "content": "I'm sorry, I currently don't have the exact date of a possible restock. If you want a restock alert, click the out-of-stock item size to be pinged when it's back in stock!",
       "id": "772fc394-3468-4927-9dc3-d9f8d989427e",
       "shortcut": "stof",
       "companyName": "Fashion Nova"
@@ -318,27 +318,27 @@
     },
     {
       "name": "Where are your clothes manufactured?",
-      "content": "Global fashion? We\u0027ve got it! We source from vendors worldwide to keep you in vogue.",
+      "content": "Global fashion? We've got it! We source from vendors worldwide to keep you in vogue.",
       "id": "bcbccd68-57e7-4e05-91a9-4e6ac08e78fd",
       "shortcut": "mfc",
       "companyName": "Fashion Nova"
     },
     {
       "name": "Do you offer gift wrapping or gift messages?",
-      "content": "Gift cards are your best bet for presents-we don\u0027t offer gift wrap or messages, and orders include an invoice.",
+      "content": "Gift cards are your best bet for presents-we don't offer gift wrap or messages, and orders include an invoice.",
       "id": "d7a853d2-7ba2-4ea3-90ae-a04171f7dfc1",
       "companyName": "Fashion Nova"
     },
     {
       "name": "Wholesale inquiries",
-      "content": "We don\u0027t offer wholesale discounts, but our FN site is actively updated with promotions and deals.",
+      "content": "We don't offer wholesale discounts, but our FN site is actively updated with promotions and deals.",
       "id": "ea87e7a5-db91-4c85-b10b-6187f8a82610",
       "shortcut": "wls",
       "companyName": "Fashion Nova"
     },
     {
       "name": "Discount/Promo (Expired)",
-      "content": "Oh no! Sorry you couldn\u0027t use the discount code. Unfortunately, that specific code is expired, subscribe to our email or text promotions to be updated right away.",
+      "content": "Oh no! Sorry you couldn't use the discount code. Unfortunately, that specific code is expired, subscribe to our email or text promotions to be updated right away.",
       "id": "b169017f-2312-4ad2-92e4-284bbf4cd453",
       "shortcut": "exp",
       "companyName": "Fashion Nova"
@@ -363,7 +363,7 @@
       "companyName": "Fashion Nova"
     },
     {
-      "name": "What\u0027s the difference in shipping between UPS Saturday and 2 Business Days?",
+      "name": "What's the difference in shipping between UPS Saturday and 2 Business Days?",
       "content": "2 Business Days shipping means your order should be delivered within 2 business days once shipped but excludes weekends. UPS Saturday allows customers to receive packages on Saturdays.",
       "id": "f33942b3-d117-429a-b221-04cedb20fce7",
       "companyName": "Fashion Nova"
@@ -382,7 +382,7 @@
     },
     {
       "name": "Can I get a free gift card for my birthday?",
-      "content": "Happy birthday! I\u0027m afraid we don\u0027t have a specific offer like that but our deals will always be shared with our SMS subscribers or on our website, so keep an eye out! In the meantime, you can check out our sales collection here: https://www.fashionnova.com/collections/sale",
+      "content": "Happy birthday! I'm afraid we don't have a specific offer like that but our deals will always be shared with our SMS subscribers or on our website, so keep an eye out! In the meantime, you can check out our sales collection here: https://www.fashionnova.com/collections/sale",
       "id": "644d8122-7883-49b2-bc15-70bd5fd4beda",
       "companyName": "Fashion Nova"
     },
@@ -394,7 +394,7 @@
     },
     {
       "name": "Why was my order canceled?",
-      "content": "Sorry about that! It\u0027s possible that your item sold out after the order was processed.",
+      "content": "Sorry about that! It's possible that your item sold out after the order was processed.",
       "id": "acf303b4-48ff-4962-878f-0313beed0b52",
       "companyName": "Fashion Nova"
     },
@@ -412,7 +412,7 @@
     },
     {
       "name": "Can I apply a discount code/promo to purchase a gift card?",
-      "content": "I\u0027m afraid promotional discounts, coupons, or offers can\u0027t be applied to the purchase of a gift card.",
+      "content": "I'm afraid promotional discounts, coupons, or offers can't be applied to the purchase of a gift card.",
       "id": "2a6a5a34-980e-469f-bc98-f40fdb565aa3",
       "companyName": "Fashion Nova"
     },
@@ -436,13 +436,13 @@
     },
     {
       "name": "Can I return an item if the tag came off?",
-      "content": "Please note that all returned items must meet all of the following requirements:\n\n• They are unworn.\n• They are unwashed.\n• They have all original tags attached.\n\nLet me know if you have any more questions or need help with anything else; I\u0027m here!",
+      "content": "Please note that all returned items must meet all of the following requirements:\n\n• They are unworn.\n• They are unwashed.\n• They have all original tags attached.\n\nLet me know if you have any more questions or need help with anything else; I'm here!",
       "id": "6adf749d-5ffd-4d9d-9412-bf96b10f50ce",
       "companyName": "Fashion Nova"
     },
     {
       "name": "Can I return items from multiple orders in the same package?",
-      "content": "Yes! If you\u0027re in the United States, you can return items from multiple orders in a single package, if you follow the correct steps in the return portal. Make sure you have the order numbers for all items you want to return handy. Navigate to the returns portal and enter one of the order numbers with your email. On the next screen, click \"Check eligibility\" at the bottom of the screen and enter an additional order number. Repeat this process for each order with an item you\u0027d like to return with the same label. Once you\u0027ve entered all the order numbers, select all the items you want to return and click \"Next.\".",
+      "content": "Yes! If you're in the United States, you can return items from multiple orders in a single package, if you follow the correct steps in the return portal. Make sure you have the order numbers for all items you want to return handy. Navigate to the returns portal and enter one of the order numbers with your email. On the next screen, click \"Check eligibility\" at the bottom of the screen and enter an additional order number. Repeat this process for each order with an item you'd like to return with the same label. Once you've entered all the order numbers, select all the items you want to return and click \"Next.\".",
       "id": "efc4ac87-179d-4ea2-b6c6-172524d8f6cc",
       "companyName": "Fashion Nova"
     },
@@ -454,7 +454,7 @@
     },
     {
       "name": "Can discount codes be added retroactively?",
-      "content": "Unfortunately, codes can\u0027t be retroactively applied once an order is placed. Sorry for the inconvenience!",
+      "content": "Unfortunately, codes can't be retroactively applied once an order is placed. Sorry for the inconvenience!",
       "id": "a770cada-1a09-4c8e-8f48-f36a6c8c58a8",
       "shortcut": "rdr",
       "companyName": "Fashion Nova"
@@ -474,14 +474,14 @@
     },
     {
       "name": "Support 2",
-      "content": "I\u0027m sorry for the inconvenience! Please submit your inquiry via this link instead: https://www.fashionnova.com/pages/help-center?hcUrl=%2Fen-US%2Fflows%2F01J6WCRVQ0NTMTCP19DN3GJ28C On the first page, select \"Something Else\", then select \"Something Else\" again.\n\nOn the page that asks, \"Do you have access to the email or phone number associated with your account?\", select \"No.\" On the following page, select \"Something Else\" even if another option seems to match your issue.\n\nOn the following page, even if your issue appears in the list, you need to select \"No.\" This will bring you to the section where you can type your inquiry and provide all necessary details to help resolve the issue.",
+      "content": "I'm sorry for the inconvenience! Please submit your inquiry via this link instead: https://www.fashionnova.com/pages/help-center?hcUrl=%2Fen-US%2Fflows%2F01J6WCRVQ0NTMTCP19DN3GJ28C On the first page, select \"Something Else\", then select \"Something Else\" again.\n\nOn the page that asks, \"Do you have access to the email or phone number associated with your account?\", select \"No.\" On the following page, select \"Something Else\" even if another option seems to match your issue.\n\nOn the following page, even if your issue appears in the list, you need to select \"No.\" This will bring you to the section where you can type your inquiry and provide all necessary details to help resolve the issue.",
       "id": "873e4632-d31f-44bc-80d2-c1d06da3aef3",
       "shortcut": "tesc",
       "companyName": "Fashion Nova"
     },
     {
       "name": "Will I be notified when my return is received or processed?",
-      "content": "We don\u0027t send notifications when your return is received or processed. For U.S. returns using our prepaid label or QR code, you can track your return status through the Returns Portal here: https://returns.fashionnova.com/fashionnova/returns. You\u0027ll receive an email once your gift card credit has been issued for the return.",
+      "content": "We don't send notifications when your return is received or processed. For U.S. returns using our prepaid label or QR code, you can track your return status through the Returns Portal here: https://returns.fashionnova.com/fashionnova/returns. You'll receive an email once your gift card credit has been issued for the return.",
       "id": "a4d027ac-11ca-48df-9215-638216fee565",
       "companyName": "Fashion Nova"
     },
@@ -523,7 +523,7 @@
     },
     {
       "name": "Store credit amount for returning BOGO item",
-      "content": "When you return items purchased through a Buy One, Get One Free or Buy One, Get One X% Off promotion, your store credit will be adjusted based on the promotional pricing:\n\n• If you\u0027re returning both items, you\u0027ll receive store credit for the full amount you paid.\n• If you\u0027re returning only one item, your credit will be adjusted based on the value of the free item.",
+      "content": "When you return items purchased through a Buy One, Get One Free or Buy One, Get One X% Off promotion, your store credit will be adjusted based on the promotional pricing:\n\n• If you're returning both items, you'll receive store credit for the full amount you paid.\n• If you're returning only one item, your credit will be adjusted based on the value of the free item.",
       "id": "a6eacea0-e876-4331-b963-cddacc3b8df0",
       "companyName": "Fashion Nova"
     }

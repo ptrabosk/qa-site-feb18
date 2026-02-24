@@ -3,906 +3,940 @@
   "chunk": "chunk_0023",
   "scenarios": {
     "111": {
-      "agentName": "Sarah",
-      "id": "019c44d3-a344-495a-f000-0000d5e3a4b9",
-      "rightPanel": {
-        "browsingHistory": [
-          {
-            "link": "https://www.greenpan.us/products/greenlife-ceramic-nonstick-muffin-pan-navy-1",
-            "item": "GreenLife Ceramic Nonstick Muffin Pan | Blue Haze - Blue Haze",
-            "timeAgo": "2026-02-09"
-          },
-          {
-            "link": "https://www.greenpan.us/products/greenlife-ceramic-nonstick-muffin-pan-black",
-            "item": "GreenLife Ceramic Nonstick Muffin Pan | Blue Haze - Blue Haze",
-            "timeAgo": "2026-02-09"
-          },
-          {
-            "link": "https://www.greenpan.us/products/greenlife-ceramic-nonstick-muffin-pan-pink",
-            "item": "GreenLife Ceramic Nonstick Muffin Pan | Blue Haze - Blue Haze",
-            "timeAgo": "2026-02-09"
-          },
-          {
-            "link": "https://www.greenpan.us/products/greenlife-ceramic-nonstick-muffin-pan-blue-haze",
-            "item": "GreenLife Ceramic Nonstick Muffin Pan | Blue Haze - Blue Haze",
-            "timeAgo": "2026-02-09"
-          },
-          {
-            "link": "https://www.greenpan.us/products/greenlife-ceramic-nonstick-muffin-pan-navy-1",
-            "item": "GreenLife Ceramic Nonstick Muffin Pan | Blue Haze - Blue Haze",
-            "timeAgo": "2026-02-09"
-          }
-        ],
-        "source": {
-          "label": "Website",
-          "value": "https://greenpan.us",
-          "date": ""
-        },
-        "orders": [
-          {
-            "link": "https://www.greenpan.us/53112176808/orders/417f2a9010b8799febc4186c089acceb/authenticate?key=bd6fea1a946c850a021dbaa1c1195a92",
-            "orderDate": "2026-02-02",
-            "total": 99.91,
-            "orderNumber": "723063",
-            "items": [
-              {
-                "price": [
-                  29.99
-                ],
-                "productLink": "https://greenpan-us.myshopify.com/products/greenlife-ceramic-nonstick-muffin-pan-blue-haze",
-                "name": "GreenLife Ceramic Nonstick Muffin Pan | Blue Haze"
-              },
-              {
-                "price": [
-                  19.99
-                ],
-                "productLink": "https://greenpan-us.myshopify.com/products/premiere-silicone-flat-whisk-oxford-blue",
-                "name": "Premiere Silicone Flat Whisk | Oxford Blue"
-              },
-              {
-                "price": [
-                  29.99
-                ],
-                "productLink": "https://greenpan-us.myshopify.com/products/greenlife-ceramic-nonstick-muffin-pan-navy-1",
-                "name": "GreenLife Ceramic Nonstick Muffin Pan | Navy"
-              },
-              {
-                "price": [
-                  4.95
-                ],
-                "productLink": "https://greenpan-us.myshopify.com/products/routeins",
-                "name": "GreenPan\u0027s Shipping Protection"
-              },
-              {
-                "price": [
-                  14.99
-                ],
-                "productLink": "https://greenpan-us.myshopify.com/products/greenlife-easy-reach-silicone-spatula-2-piece-set-turquoise",
-                "name": "GreenLife Easy Reach Silicone Spatula, 2-Piece Set | Turquoise"
-              }
-            ]
-          },
-          {
-            "link": "https://www.greenpan.us/53112176808/orders/417f2a9010b8799febc4186c089acceb/authenticate?key=bd6fea1a946c850a021dbaa1c1195a92",
-            "orderDate": "2026-02-02",
-            "total": 105.9,
-            "orderNumber": "723063",
-            "items": [
-              {
-                "price": [
-                  14.99
-                ],
-                "productLink": "https://greenpan-us.myshopify.com/products/greenlife-easy-reach-silicone-spatula-2-piece-set-turquoise",
-                "name": "GreenLife Easy Reach Silicone Spatula, 2-Piece Set | Turquoise"
-              },
-              {
-                "price": [
-                  29.99
-                ],
-                "productLink": "https://greenpan-us.myshopify.com/products/greenlife-ceramic-nonstick-muffin-pan-navy-1",
-                "name": "GreenLife Ceramic Nonstick Muffin Pan | Navy"
-              },
-              {
-                "price": [
-                  19.99
-                ],
-                "productLink": "https://greenpan-us.myshopify.com/products/premiere-silicone-flat-whisk-oxford-blue",
-                "name": "Premiere Silicone Flat Whisk | Oxford Blue"
-              },
-              {
-                "price": [
-                  29.99
-                ],
-                "productLink": "https://greenpan-us.myshopify.com/products/greenlife-ceramic-nonstick-muffin-pan-blue-haze",
-                "name": "GreenLife Ceramic Nonstick Muffin Pan | Blue Haze"
-              },
-              {
-                "price": [
-                  4.95
-                ],
-                "productLink": "https://greenpan-us.myshopify.com/products/routeins",
-                "name": "GreenPan\u0027s Shipping Protection"
-              }
-            ]
-          }
-        ]
-      },
-      "companyWebsite": "https://greenpan.us",
-      "companyName": "Greenpan",
-      "notes": {
-        "send_to_cs": [
-          "For the following inbound message types use PPI shortcut:",
-          "➜ Post-purchase issues",
-          "➜ Product-specific questions \u0026 any q\u0027s about materials/heating/temperature-based q\u0027s etc.",
-          "➜ Damaged orders",
-          "➜ Any q\u0027s regarding aluminum or aluminium issues",
-          "➜ Voltage / Wattage inquiries",
-          "➜ Complaints about the quality of the products",
-          "➜ Q\u0027s about product differences/comparison",
-          "➜ Warranty issues",
-          "➜ Any q\u0027s or comments about the lawsuit"
-        ],
-        "tone": [
-          "Close the convo once the client takes over",
-          "Don\u0027t say words like \"I\u0027m not sure, or certain\"",
-          "Add \"Happy cooking!\" when closing a convo!",
-          "Let the cx have the last word"
-        ],
-        "templates": [
-          "For product recommendations, use DHR shortcut"
-        ],
-        "drive_to_purchase": [
-          "Send links to collections if customers aren\u0027t looking for a specific product!"
-        ]
-      },
-      "blocklisted_words": [
-        
-      ],
-      "escalation_preferences": [
-        
-      ],
-      "messageTone": "Polished",
-      "conversation": [
-        {
-          "message_type": "system",
-          "message_text": "GreenPan: FINAL WEEKEND TO SAVE!\n\nUp to 60% Off Sitewide + FREE Cookbook. New year glow-up starts in the kitchen. \n\nShop Now: greenpan.attn.tv/axSi4jxUulbL ",
-          "date_time": "2026-01-18 17:40:12.491",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GreenPan: This is it! FINAL HOURS!\n\nNew Year New You Sale: Up to 60% Off Sitewide + FREE Gift.\n \nDon\u0027t miss your chance to reset: greenpan.attn.tv/aJ1voGico42y ",
-          "date_time": "2026-01-22 18:20:05.703",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GreenPan: Lowest Prices of the Season Start... NOW!\n \nOur Premiere Air Fryer Oven is just $319.99 (reg $399.99) + Free Shipping + Free Cookbook.\n \nAir fry wings, toast sliders, bake dips and so much more - perfect for game day and every gathering. \n \nShop Now: greenpan.attn.tv/a9mFcHYUd7RS ",
-          "date_time": "2026-01-24 13:30:11.867",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GreenPan: Game Day Made Easy! \n \nOur large capacity Locking Lid Slow Cooker ensures your favorite chilis, pulled pork, queso \u0026 more can go from kitchen to party without spills. Set it, forget it, and keep everything warm through every quarter. (Plus, clean-up is a breeze with our PFAS-free nonstick!)\n \nOrder TODAY to get your slow cooker for Game Day + FREE Shipping: greenpan.attn.tv/aVF9snImuEgZ ",
-          "date_time": "2026-01-26 17:20:05.961",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GreenPan: Hi Jenna, this is Sarah from GreenPan. Thanks for checking out our site! 😊 greenpan.attn.tv/ae0fAaUfNO6d Is there a product we can help you find?",
-          "date_time": "2026-01-26 18:39:21.741",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GreenPan: Hey Jenna! Holding off on that new recipe because of missing essentials? \n\nLet\u0027s change that, what product can I make a recommendation for today?\n\ngreenpan.attn.tv/aIuiWb8JdRYU .",
-          "date_time": "2026-01-27 18:39:36.777",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GreenPan: LOWEST Price of the Season!\n \nOur 5-Star Rated Spectra Hybrid 10-Piece Set is $120 OFF + Free Shipping + Free Utensil Set.\n \nPowered by our advanced Thermobond technology this is the world\u0027s best hybrid cookware.\n \nChoose from stainless or gold handles: greenpan.attn.tv/am5g15lGDinf ",
-          "date_time": "2026-01-28 15:25:05.782",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GreenPan: Love is in the Oven: 48 HOURS ONLY Valentine\u0027s Day Sweetheart Deal\n \n$50 OFF our top-rated Reserve 7-Piece Bakeware Set + FREE Baking Cookbook. \n \nShop bakeware you\u0027ll use long after the chocolate\u0027s gone: greenpan.attn.tv/ain3AckapH9V ",
-          "date_time": "2026-01-31 15:30:10.271",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GreenPan: Thank you for your purchase! Your order number is 723063. View more information about your order here: https://greenpan.attn.tv/anCv6M5sIxrj .",
-          "date_time": "2026-02-02 12:43:48.071",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GreenPan: Hey Jenna, I\u0027m Sarah from GreenPan. Welcome to our exclusive VIP list!\n\nIs there a product we can help you find?\n\nhttps://greenpan.attn.tv/aJKKhfCR5FZw .",
-          "date_time": "2026-02-03 16:50:35.059",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GreenPan: Green by design, our cookware is forever free of forever chemicals. Have you seen our best sellers yet? Shop now: https://greenpan.attn.tv/ak5Q0COCVlRM ",
-          "date_time": "2026-02-04 16:40:34.603",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GreenPan: Hey, it\u0027s Sarah again. I have a quick tip! Make sure to save our contact card, so that you never miss an exclusive VIP offer. \n\nIs there anything else I can help you with?\n\nhttps://greenpan.attn.tv/aDFuOH1GzYYR .",
-          "date_time": "2026-02-05 16:50:40.153",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GreenPan: Hear ye, hear ye: Presidents\u0027 Day Sale Early Access is LIVE!\n \nUp to 50% OFF deals + FREE Cookbook.\n \nShop first: greenpan.attn.tv/al-EInKTY5iX ",
-          "date_time": "2026-02-05 18:35:06.232",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GreenPan: $100 OFF = Love at First Blend 💘\n\nOur 15-in-1 Frost Ice Cream \u0026 Frozen Drink Maker in Cotton Candy Pink is the sweetest Valentine\u0027s deal... but only for a limited time! \n \nFree Frozen Treat Recipe Book + Free Shipping: greenpan.attn.tv/atMYtQeQistM ",
-          "date_time": "2026-02-06 16:10:07.647",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GreenPan: Great news! Your order (723063) has shipped and will be to you soon. Click here to track your order: https://greenpan.attn.tv/asDLv7WIRhaX .",
-          "date_time": "2026-02-06 16:13:02.226",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GreenPan: Hey Jenna! Holding off on that new recipe because of missing essentials? \n\nLet\u0027s change that, what product can I make a recommendation for today?\n\ngreenpan.attn.tv/aj8HgSr5GKgP .",
-          "date_time": "2026-02-07 17:24:00.760",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GreenPan: Hey Jenna, order #723063 is out for delivery. Track your order here: https://greenpan.attn.tv/a_C2yeRWbOR8 .",
-          "date_time": "2026-02-08 16:12:56.779",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GreenPan: Hey Jenna, order #723063 has been delivered! Track your order here: https://greenpan.attn.tv/aYj45J5Vwc3V .",
-          "date_time": "2026-02-08 16:19:09.014",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "GreenPan: Hi Jenna, this is Sarah from GreenPan. Thanks for checking out our site! 😊 greenpan.attn.tv/aL0xCuu9kIu0 Is there a product we can help you find?",
-          "date_time": "2026-02-09 18:46:46.085",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "Hi Sarah I was wondering what the difference was between the blue haze and the navy muffin pan was?",
-          "date_time": "2026-02-09 18:47:50.011",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c44d3-a344-495a-f000-0000d5e3a4b9",
-          "message_text": "GreenPan: Thank you for reaching out! Just to be sure, are you referring to GreenLife Ceramic Nonstick Muffin Pan? If so, the Blue Haze and Navy muffin pans share the same features, including a heavy-duty steel construction for quick and even heating, and a healthy ceramic nonstick coating for effortless release. Let me know if you need more help!",
-          "message_type": "agent",
-          "agent": "109964",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-09 18:54:06.566"
-        }
-      ]
-    },
-    "112": {
-      "agentName": "Ava",
-      "id": "019c7c2a-4737-4ffb-f000-0000fc4f9a65",
-      "rightPanel": {
-        "browsingHistory": [
-          {
-            "link": "https://www.brilliantearth.com/rings/cyorings/purchase_review/?sid=49219836\u0026did=63573304",
-            "item": "3.02 Carat Radiant Lab Diamond",
-            "timeAgo": "2026-02-20"
-          },
-          {
-            "link": "https://www.brilliantearth.com/rings/cyorings/purchase_review/?sid=49219836\u0026did=63573304",
-            "item": "18K Yellow Gold Secret Halo 2mm Diamond Ring",
-            "timeAgo": "2026-02-20"
-          },
-          {
-            "link": "https://www.brilliantearth.com/rings/cyorings/purchase_review/?sid=49219836\u0026did=63573304",
-            "item": "18K Yellow Gold Secret Halo 2mm Lab Diamond Ring",
-            "timeAgo": "2026-02-20"
-          },
-          {
-            "link": "https://www.brilliantearth.com/rings/cyorings/purchase_review/?sid=49219836\u0026did=63573304",
-            "item": "18K Yellow Gold Secret Halo 2mm Lab Diamond Ring",
-            "timeAgo": "2026-02-18"
-          },
-          {
-            "link": "https://www.brilliantearth.com/rings/cyorings/purchase_review/?sid=49219836\u0026did=63573304",
-            "item": "18K Yellow Gold Secret Halo 2mm Diamond Ring",
-            "timeAgo": "2026-02-18"
-          }
-        ],
-        "source": {
-          "label": "Website",
-          "value": "https://brilliantearth.com",
-          "date": ""
-        }
-      },
-      "companyWebsite": "https://brilliantearth.com",
-      "companyName": "Brilliant Earth",
-      "notes": {
-        "send_to_cs": [
-          "Inquiries regarding orders",
-          "Shipping inquiries on a current order",
-          "Post-purchase issues",
-          "For product or general inquiries you can\u0027t find the answer to, use PGI shortcut"
-        ],
-        "escalate": [
-          "No escalations for this client, send everything to CS"
-        ],
-        "tone": [
-          "Don\u0027t use the word \"unfortunately\" to discuss our appointment structure",
-          "Don\u0027t use the word \"best\" to reference a product (e.g., best ring, etc.)"
-        ],
-        "templates": [
-          "If cx are looking for an engagement ring and don\u0027t provide specifics, use LER shortcut"
-        ],
-        "dos_and_donts": [
-          "If the customer responds incorrectly to the journey, don\u0027t send jny temp, recommend items based on their selection instead",
-          "Cx can create their own engagement ring on the webiste by choosing a setting, stone and size",
-          "Cx can customize rings by working with designers who will use their ideas, drawings, images to create the ring they want",
-          "Don\u0027t disclose the locations of their labs/production facilities"
-        ],
-        "drive_to_purchase": [
-          "Be MORE SALESY, if the customer is showing intent to purchase then:",
-          "➜ Ask open-ended general questions such as style \u0026 material",
-          "➜ After asking open-ended questions, transition to specific questions such as center stone, etc.",
-          "➜ If the customer liked our recommendation, push for the sale by asking about payment options or when they hope to have the item"
-        ],
-        "promo_and_exclusions": [
-          "Please see here for current offer details: https://www.brilliantearth.com/promo-codes-and-offers/",
-          "Codes can be used in-store"
-        ]
-      },
-      "blocklisted_words": [
-        "bestsellers",
-        "sale",
-        "sales",
-        "budget"
-      ],
-      "escalation_preferences": [
-        "Shipping questions",
-        "Exchanges and returns",
-        "For questions regarding order, service, shipping questions on a current order, post-purchase will go to cssupport@brilliantearth.com",
-        "For product or general inquiry questions, please contact info@brilliantearth.com"
-      ],
+      "id": "019c68bb-a137-4da2-f000-0000d4452e62",
+      "companyName": "Made In Cookware",
+      "companyWebsite": "https://madeincookware.com/",
+      "agentName": "Dakota",
       "messageTone": "Casual",
       "conversation": [
         {
+          "message_media": [],
+          "message_text": "Made In: Today only, get $20 OFF our best-selling 4-pack of Entrée Bowls.\n\nUse code: ENTREE20\n\nShop Now:\nmadein.attn.tv/aTR5GLH0Z2EO \n\n*limit one per customer.",
           "message_type": "system",
-          "message_text": "Brilliant Earth: Welcome to Brilliant Earth! Msg \u0026 data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
-          "date_time": "2026-02-18 15:47:37.597",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-01-19 12:46:14.255"
         },
         {
+          "message_media": [],
+          "message_text": "Made In: Hey Thomas, thanks for visiting.\n\nExplore rugged, limited-edition kitchen gear: https://madein.attn.tv/a-UlV2sqTA5b .",
           "message_type": "system",
-          "message_text": "Brilliant Earth: Hi! I\u0027m Ava, your personal jewelry concierge. Do you have any questions I can help answer? brilliantearth.attn.tv/aKP0HT5Q_x2B .",
-          "date_time": "2026-02-18 15:47:41.645",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-01-20 15:55:01.181"
         },
         {
+          "message_media": [],
+          "message_text": "Made In: The Limited Edition Birds Beak Paring Knife is selling fast, less than 950 remain. Crafted for precision, performance, & maximum control.\n\nWatch behind the design:\nmadein.attn.tv/aiLQkWl8ioKu\n\nShop before they're gone:\nmadein.attn.tv/ak8RGkF7PJtQ",
+          "message_type": "system",
+          "date_time": "2026-01-24 13:21:27.819"
+        },
+        {
+          "message_media": [],
+          "message_text": "Made In: Check out the Stainless Steel Gratin Dishes in your cart, Thomas — built to last and perfect for hearty baking.\n\nShop now: https://madein.attn.tv/aGhat3lFiGzf .",
+          "message_type": "system",
+          "date_time": "2026-01-25 10:59:17.869"
+        },
+        {
+          "message_media": [],
+          "message_text": "Made In: Thomas: cookware built for lasting performance and clean, even heating—check the stainless-clad pieces designed for everyday cooking.\n\nBuy here: https://madein.attn.tv/aaBftrS8tTRz .",
+          "message_type": "system",
+          "date_time": "2026-01-25 11:59:28.386"
+        },
+        {
+          "message_media": [],
+          "message_text": "Made In: Limited-edition Carbon Fiber Chef Knife arrives tomorrow 1/27. \n\nLightweight. \nRazor sharp. \n\nSign up for first access:\nmadein.attn.tv/a6indZdWuA57 \n",
+          "message_type": "system",
+          "date_time": "2026-01-26 14:56:43.194"
+        },
+        {
+          "message_media": [],
+          "message_text": "Made In: Shop early access now! Our limited-edition Carbon Fiber Handle Chef Knife is here.\n\nOnly 2,000 available, don't miss it:\nmadein.attn.tv/aZ_Knn6SV8_v \n",
+          "message_type": "system",
+          "date_time": "2026-01-27 11:46:20.032"
+        },
+        {
+          "message_media": [],
+          "message_text": "Made In: Lighter in hand. Sharper on the board. Meet our most advanced Chef Knife yet, with a carbon fiber handle + ABT edge:\n\nmadein.attn.tv/afoGBnKTvu1q \n",
+          "message_type": "system",
+          "date_time": "2026-01-29 19:01:11.742"
+        },
+        {
+          "message_media": [],
+          "message_text": "Made In: Feel the confidence of effortless slicing with the 8 Inch Chef Knife—you'll cook smoother, faster, and enjoy every meal-prep moment.\n\n792 people recently added it to their cart.\n\nTake it home: https://madein.attn.tv/agZd0zVr9J5J .",
+          "message_type": "system",
+          "date_time": "2026-01-30 09:30:20.069"
+        },
+        {
+          "message_media": [],
+          "message_text": "Made In: New hues. Crafted in France. Ruby Red & Marigold add warmth & character to our heirloom-worthy Enameled Cast Iron:\nmadein.attn.tv/aqLQy0DVXYFD ",
+          "message_type": "system",
+          "date_time": "2026-01-31 12:47:20.634"
+        },
+        {
+          "message_media": [],
+          "message_text": "Made In: Classic enameled cast iron built for lasting performance and timeless style—durable, colorful pieces that move from stove to table.\n\nExplore the collection: https://madein.attn.tv/akskYpP9ACkp .",
+          "message_type": "system",
+          "date_time": "2026-02-01 09:29:23.699"
+        },
+        {
+          "message_media": [],
+          "message_text": "Made In: Save up to 25% on chef-curated Enameled Cast Iron Sets. French-crafted, heirloom-worthy, and now in 2 new hues.\n\nShop now:\nmadein.attn.tv/a-cXBZGn2YPf ",
+          "message_type": "system",
+          "date_time": "2026-02-03 19:21:02.835"
+        },
+        {
+          "message_media": [],
+          "message_text": "Made In: Up to 30% OFF Winter Savings Event starts now.\n\nShop our best deals of the season:\nmadein.attn.tv/aZpE3DUgZLVy ",
+          "message_type": "system",
+          "date_time": "2026-02-06 15:37:03.871"
+        },
+        {
+          "message_media": [],
+          "message_text": "Made In: Save up to 30% on chef-curated cookware sets, built for versatility, & daily use.\n\nShop the best deals of the Winter Sale: \nmadein.attn.tv/ai1fetmUvimd",
+          "message_type": "system",
+          "date_time": "2026-02-07 16:13:13.609"
+        },
+        {
+          "message_media": [],
+          "message_text": "Made In: Up to 30% OFF the best collection of clean cookware, free from harmful chemicals. \n\nShop the Winter Savings Event now:\nmadein.attn.tv/aHQmCpFG2fcW \n",
+          "message_type": "system",
+          "date_time": "2026-02-08 17:14:13.537"
+        },
+        {
+          "message_media": [],
+          "message_text": "Made In: Check out this collection of clean cooking essentials for simple, safe prep.\n\nOur Winter Savings Event sale has up to 30% off across select cookware.\n\nCook with confidence: https://madein.attn.tv/axK2B6x_Rz9h .",
+          "message_type": "system",
+          "date_time": "2026-02-08 17:35:27.139"
+        },
+        {
+          "message_media": [],
+          "message_text": "Made In: Today Only: Get an extra $20 OFF a tabletop purchase, plus up to 30% off sitewide.\n\nUse Code: TABLE20\n\nShop now:\nmadein.attn.tv/aSGt2KuR-MK1 \n",
+          "message_type": "system",
+          "date_time": "2026-02-10 15:46:07.218"
+        },
+        {
+          "message_media": [],
+          "message_text": "Made In: The best Winter Savings Event deal: Get $1,060 off a complete kitchen upgrade.\n\nShop now:\nmadein.attn.tv/agSy-Pd4zf8y ",
+          "message_type": "system",
+          "date_time": "2026-02-11 15:15:13.239"
+        },
+        {
+          "message_media": [],
+          "message_text": "Made In: Select pieces are marked down even further, shop up to 50% off within the Winter Savings Event\n\nmadein.attn.tv/a66DV-XqmBZX ",
+          "message_type": "system",
+          "date_time": "2026-02-12 18:07:16.143"
+        },
+        {
+          "message_media": [],
+          "message_text": "Made In: Today Only: Get an extra $25 OFF a French Knife purchase. \n\nUse code: 25KNIFE\n\nShop now:\nmadein.attn.tv/aHgUJootKjYP \n\n*limit one per customer",
+          "message_type": "system",
+          "date_time": "2026-02-13 18:00:41.063"
+        },
+        {
+          "message_media": [],
+          "message_text": "Made In: The cookware chefs rely on is 30% off right now. Our best savings of the season. \n\nThese deals are worth your attention:\nmadein.attn.tv/aKHfGSDbuJME ",
+          "message_type": "system",
+          "date_time": "2026-02-14 14:07:08.754"
+        },
+        {
+          "message_media": [],
+          "message_text": "Made In: What's been missing from your kitchen? The pan that nails your sear? The knife that makes prep effortless? \n\nUp to 30% off ends tomorrow:\nmadein.attn.tv/ammIQpu2ZB3w ",
+          "message_type": "system",
+          "date_time": "2026-02-15 19:12:11.000"
+        },
+        {
+          "message_media": [],
+          "message_text": "Made In: Final hours. Up to 30% off cookware built to last decades. The Winter Savings Event ends tonight.\n\nShop now:\nmadein.attn.tv/azgVGS67psQN ",
+          "message_type": "system",
+          "date_time": "2026-02-16 15:05:12.501"
+        },
+        {
+          "message_media": [],
+          "message_text": "Made In: Hey Thomas, thanks for visiting.\n\nOur Winter Savings Event sale is live with up to 30% off.\n\nCook with confidence: https://madein.attn.tv/akZVulAT3yTp .",
+          "message_type": "system",
+          "date_time": "2026-02-16 17:54:45.853"
+        },
+        {
+          "message_media": [],
+          "message_text": "Thank you! I'm so happy for my Star Ruby ring! Absolutely stunning!!!",
           "message_type": "customer",
-          "message_text": "I want to be entered into $1000 gift card engagement ring",
-          "date_time": "2026-02-18 15:48:06.112",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-16 18:06:53.448"
         },
         {
-          "message_id": "019c7284-f875-41f5-f000-0000fc4f9a65",
-          "message_text": "Brilliant Earth: Thanks for your interest! You will receive one (1) entry for subscribing to email marketing messages and one (1) entry for subscribing to SMS marketing messages. You can read more details here: https://brilliantearth.attn.tv/aAOZMT1Va-Ro/ \n\nIn the meantime, are you looking for anything in particular? Do you have any specific style, or material in mind? I\u0027d recommend checking out this page to select your ideal engagement ring setting and pair it with a Beyond Conflict Free Diamond: https://brilliantearth.attn.tv/akXUZM2-aaUV\n",
+          "message_media": [],
+          "message_text": "Made In: No problem. Feel free to reach out anytime, I'm always here to help!",
           "message_type": "agent",
-          "agent": "46498",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-18 15:50:42.961"
+          "agent": "38773",
+          "message_id": "019c68b4-f52e-455d-f000-0000d4452e62",
+          "date_time": "2026-02-16 18:06:55.696"
         },
         {
+          "message_media": [],
+          "message_text": "Do you make a blue Star Sapphire? I'm VERY interested!!",
           "message_type": "customer",
-          "message_text": "https://share.google/SX5UVwV4pBpq9Jks6",
-          "date_time": "2026-02-20 12:42:08.781",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-16 18:08:43.229"
         },
         {
-          "message_type": "customer",
-          "message_text": "Thai would be my dream ring, trying to figure out how to bring the price down",
-          "date_time": "2026-02-20 12:42:18.813",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "template",
-          "message_text": "Template used: \"No promotions available\"; last updated: 2025-07-21 16:54:43.544",
-          "date_time": "2026-02-20 12:47:51.505",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "template",
-          "message_text": "Template used: \"Do you offer financing or layaway?\"; last updated: 2025-07-21 16:52:58.141",
-          "date_time": "2026-02-20 12:47:51.505",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c7c2a-4737-4ffb-f000-0000fc4f9a65",
-          "message_text": "Brilliant Earth: Great choice! We price fairly from the start rather than marking up our items to mark them down. We opt to run promotions that feature diamond earrings or other fine jewelry that act as sparkling additions to the lifelong, heirloom-in-the-making investment in a Brilliant Earth design. Our current promo can always be found on our website: https://brilliantearth.attn.tv/agTzIBvWws1-\n\nFor our US customers, we offer Affirm financing with interest rates from as low as 0% APR with approved credit, as well as Wells Fargo special 12-month financing with approved credit. We also offer a layaway option that allows customers to pay for their purchase with 20% down and monthly installments. You can learn more about our flexible payment options here: https://brilliantearth.attn.tv/aiaTYJkWKhnE",
+          "message_media": [],
+          "message_text": "Made In: Thanks for getting back to me! Dakota here from Made In Cookware. Upon checking, I can see that your most recent purchase from us is Order #2087859, which is a Baking Slab: https://madein.attn.tv/aUJbSC0ChKb_ Could you tell me what Star Ruby ring you are referring to? I'd be happy to look into it for you!\n\nWhile I have you here, feel free to browse our ongoing sale: https://madein.attn.tv/aT8pKcG82YCN",
           "message_type": "agent",
-          "agent": "87295",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-20 12:47:51.508"
+          "agent": "109840",
+          "message_id": "019c68bb-a137-4da2-f000-0000d4452e62",
+          "date_time": "2026-02-16 18:14:12.946"
         }
-      ]
-    },
-    "113": {
-      "agentName": "Morgan",
-      "id": "019c4f1a-5b33-40ea-f000-000035aebd1a",
-      "rightPanel": {
-        "source": {
-          "label": "Website",
-          "value": "https://bestbullysticks.com",
-          "date": ""
-        }
-      },
-      "companyWebsite": "https://bestbullysticks.com",
-      "companyName": "Best Bully Sticks",
+      ],
       "notes": {
         "send_to_cs": [
-          "For side effects/dogs being sick from the Bully Sticks, use SDS shortcut"
-        ]
-      },
-      "blocklisted_words": [
-        
-      ],
-      "escalation_preferences": [
-        "Shipping questions",
-        "Discount code errors",
-        "Exchanges and returns",
-        "Medical questions",
-        "mis-shipped items, incorrect items received",
-        "saying a dog died"
-      ],
-      "messageTone": "Super Casual",
-      "conversation": [
-        {
-          "message_type": "system",
-          "message_text": "Best Bully Sticks: Can\u0027t decide what your pup needs? Try our Buzzfeed-style \"Plan Your Ideal Day\" quiz to help you find the perfect chew. bestbullysticks.attn.tv/agLWIEBofLQY ",
-          "date_time": "2026-01-18 11:45:25.890",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Best Bully Sticks: Thank you for your purchase! Your order number is 1573150. View more information about your order here: bestbullysticks.attn.tv/a0XoAktwfpuh .",
-          "date_time": "2026-01-29 10:44:21.529",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Best Bully Sticks: Great news! Your order (1573150) has shipped and will be to you soon. Click here to view your order details: https://bestbullysticks.attn.tv/aSuLArHvF71z",
-          "date_time": "2026-02-07 14:31:50.913",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Best Bully Sticks: Want to win $20 off your next order? Add a dog to our subscriber-only photo contest! You can win more than once, 3 winners selected monthly. bestbullysticks.attn.tv/amNjeIfgOg5u ",
-          "date_time": "2026-02-10 10:23:00.039",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Best Bully Sticks: Looking for a chew deal? Shop chews \u0026 treats on sale! Just reply to this message and we\u0027ll assist you!\n\nhttps://bestbullysticks.attn.tv/ati92C23TCa3",
-          "date_time": "2026-02-11 16:14:58.593",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "Not sure how to sign up for the contest but here is my pic the link didn\u0027t have anything to add pics",
-          "date_time": "2026-02-11 18:38:12.288",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c4f12-0058-4a4a-f000-000035aebd1a",
-          "message_text": "Best Bully Sticks: Please check our website, bestbullysticks.com, for the most up-to-date promotions and contests. You\u0027ll be the first to hear about new opportunities and how to participate.",
-          "message_type": "agent",
-          "agent": "62551",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-11 18:38:25.771"
-        },
-        {
-          "message_type": "template",
-          "message_text": "Template used: \"Site won\u0027t work - All brands\"; last updated: 2025-07-16 17:54:02.115",
-          "date_time": "2026-02-11 18:47:33.322",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c4f1a-5b33-40ea-f000-000035aebd1a",
-          "message_text": "Best Bully Sticks: In the meantime, I might suggest trying to open the link in an incognito or private window to rule out any browser cache or extension issues. Let me know how that goes.",
-          "message_type": "agent",
-          "agent": "109630",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-11 18:47:33.324"
-        }
-      ]
-    },
-    "114": {
-      "agentName": "Rachel",
-      "id": "019c5812-9792-4fb0-f000-00008877f3f2",
-      "rightPanel": {
-        "source": {
-          "label": "Website",
-          "value": "https://loveamika.com",
-          "date": ""
-        }
-      },
-      "companyWebsite": "https://loveamika.com",
-      "companyName": "amika",
-      "notes": {
-        "send_to_cs": [
-          "Send to CS for damaged/wrong/missing orders"
-        ],
-        "escalate": [
-          "If a cx order was canceled/marked as fraudulent ask if they entered a PO address:",
-          "➜ If they did use PAC shortcut",
-          "➜ If not ESC"
-        ],
-        "templates": [
-          "Use CED shortcut only during weekdays"
-        ],
-        "dos_and_donts": [
-          "Don\u0027t share details about upcoming promotions with customers"
-        ],
-        "promo_and_exclusions": [
-          "NEWFRIEND, DESKTOP15, MOBILE15 are 1st-time purchase codes",
-          "Cx can select one free sample at checkout. Orders with more than one sample may be rejected",
-          "➜ Occasionally during high volume sales we may disable the sample selector, and will message on the site that one sample will automatically be included with each order"
-        ]
-      },
-      "blocklisted_words": [
-        
-      ],
-      "escalation_preferences": [
-        
-      ],
-      "messageTone": "Polished",
-      "conversation": [
-        {
-          "message_type": "system",
-          "message_text": "amika: just dropped exclusive bundles: save 15% on signature faves + NEW soulstruck dry hair mask. shop now! amika.attn.tv/aa6_vV6un1ko",
-          "date_time": "2026-01-22 12:03:24.908",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "amika: save 30% on signature faves with our exclusive supersized superfruit set! shop now and treat your strands. amika.attn.tv/abSTaz1ha1C0 ",
-          "date_time": "2026-01-28 14:17:38.393",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "amika: keep cold temp dryness at bay with NEW soulstruck dry hair mask-the perfect no-wash solution for all winter hair woes. amika.attn.tv/aH3Pe6QZWyMg ",
-          "date_time": "2026-02-06 12:01:43.785",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "amika: 30% off ALL shampoos + conditioners (yes, even liters!) starts now. use code: WASH30 amika.attn.tv/aNxDJZtZlAg7 ",
-          "date_time": "2026-02-13 12:05:46.940",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "Any discounts for the hair mask?",
-          "date_time": "2026-02-13 12:16:45.394",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c5801-aeeb-4bc2-f000-00008877f3f2",
-          "message_text": "amika: You can use the code HAIR30 for 30% off sitewide at loveamika.com. Enjoy shopping!",
-          "message_type": "agent",
-          "agent": "62551",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-13 12:17:11.297"
-        },
-        {
-          "message_type": "customer",
-          "message_text": "Thank you",
-          "date_time": "2026-02-13 12:18:14.631",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "HAIR30 Its not working?",
-          "date_time": "2026-02-13 12:20:53.150",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c5805-8f4d-4442-f000-00008877f3f2",
-          "message_text": "amika: The HAIR30 code should work for a 30% sitewide discount. Please try again on loveamika.com. If it still doesn\u0027t work, share a screenshot of the issue.",
-          "message_type": "agent",
-          "agent": "62551",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-13 12:21:25.390"
-        },
-        {
-          "message_id": "019c580a-f444-44c9-f000-00008877f3f2",
-          "message_text": "amika: Thanks for the screenshot! Could you also share a screenshot of the items in your cart? I\u0027ll be happy to look into the issue! ",
-          "message_type": "agent",
-          "agent": "46498",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-13 12:27:18.897"
-        },
-        {
-          "message_type": "template",
-          "message_text": "Template used: \"Screenshot - All brands\"; last updated: 2023-10-10 18:09:41.020",
-          "date_time": "2026-02-13 12:35:39.435",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "template",
-          "message_text": "Template used: \"Provide a discount (Concierge Offer)\"; last updated: 2025-12-19 19:14:56.656",
-          "date_time": "2026-02-13 12:35:39.435",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c5812-9792-4fb0-f000-00008877f3f2",
-          "message_text": "amika: Thanks for the screenshot! I\u0027m afraid that the code HAIR30 is no longer valid. Apologies for the oversight. For reference, our current offer is 30% off on shampoos + conditioners if you apply the code WASH30. \n\nIn the meantime, here\u0027s a 15% code for you to use: RACHEL15 - Please keep in mind that it can\u0027t be combined with other codes. Be sure to also check out our best sellers here: https://amika.attn.tv/a3s7NCCrltQE Hope this helps!",
-          "message_type": "agent",
-          "agent": "87310",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-13 12:35:39.438"
-        }
-      ]
-    },
-    "115": {
-      "agentName": "Sarah",
-      "id": "019c681d-d2f5-4f7e-f000-00006673545a",
-      "rightPanel": {
-        "source": {
-          "label": "Website",
-          "value": "https://niraskin.com",
-          "date": ""
-        }
-      },
-      "companyWebsite": "https://niraskin.com",
-      "companyName": "NIRA",
-      "notes": {
-        "escalate": [
-          "ESC post-purchase inquiries immediately",
-          "ESC shipping delay inquiries",
-          "ESC technical-specific inquiries",
-          "ESC inquiries regarding specific Influencer/Affiliates code",
-          "ESC if cx wants to return their order, don\u0027t send RP template!"
+          "No ESC for this client, send everything to CS"
         ],
         "tone": [
-          "Don\u0027t use slang (ex: gotcha)",
-          "Refer to Bundles as Collections",
-          "Close the convo once the brand\u0027s customer service team takes over"
+          "Close the convo once the client takes over"
+        ],
+        "templates": [
+          "When cx has an inquiry about an out-of-stock item, use the OSI template"
         ]
       },
-      "blocklisted_words": [
-        
-      ],
-      "escalation_preferences": [
-        "Shipping questions",
-        "Discount code errors",
-        "Exchanges and returns",
-        "ESC post purchase questions right away",
-        "technical-specific questions",
-        "NIRA Pro Laser questions",
-        "questions comparing NIRA against other skincare device technologies",
-        "troubleshooting the device questions"
-      ],
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://madeincookware.com/",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "Stainless Steel Gratin Dishes",
+            "link": "https://madeincookware.com/products/stainless-steel-gratins/2-pack?hide_cart=1",
+            "timeAgo": "2026-01-31"
+          },
+          {
+            "item": "Stainless Steel Gratin Dishes",
+            "link": "https://madeincookware.com/products/stainless-steel-gratins/2-pack?hide_cart=1",
+            "timeAgo": "2026-01-31"
+          },
+          {
+            "item": "Limited Edition Carbon Fiber Handle Chef Knife",
+            "link": "https://madeincookware.com/products/8-inch-chef-knife/carbon-fiber?type=Campaign&utm_campaign=%5BSMS%5D%20%5B01%2F29%2F26%5D%20Carbon%20Fiber%20Knife%20Launch%20Reminder%20%7C%20NPD%20%7C%20Engaged_base&utm_id=10074734&utm_medium=sms&utm_source=attentive&externalId=L4mZ9",
+            "timeAgo": "2026-01-30"
+          },
+          {
+            "item": "Limited Edition Carbon Fiber Handle Chef Knife",
+            "link": "https://madeincookware.com/products/8-inch-chef-knife/carbon-fiber?type=Campaign&utm_campaign=%5BSMS%5D%20%5B01%2F29%2F26%5D%20Carbon%20Fiber%20Knife%20Launch%20Reminder%20%7C%20NPD%20%7C%20Engaged_base&utm_id=10074734&utm_medium=sms&utm_source=attentive&externalId=L4mZ9",
+            "timeAgo": "2026-01-30"
+          },
+          {
+            "item": "Stainless Steel Gratin Dishes",
+            "link": "https://madeincookware.com/products/stainless-steel-gratins/2-pack?hide_cart=1",
+            "timeAgo": "2026-01-25"
+          }
+        ],
+        "orders": [
+          {
+            "orderNumber": "2087859",
+            "orderDate": "2026-01-11",
+            "items": [
+              {
+                "name": "Baking Slab",
+                "price": 119,
+                "productLink": "https://madeincookware.myshopify.com/products/porcelain-baking-slab"
+              }
+            ],
+            "link": "https://checkout.madeincookware.com/21315111/orders/7667bfaafaed9e21800f035f17c1270d/authenticate?key=2df8261032d3a5d571f9bfe997513ce5",
+            "trackingLink": "https://track.amazon.com/tracking/TBA327805448279",
+            "order_tracking_link": "https://track.amazon.com/tracking/TBA327805448279",
+            "total": 128.28,
+            "date_time": "2026-01-11 23:10:10.906"
+          }
+        ]
+      },
+      "escalation_preferences": [],
+      "blocklisted_words": [],
+      "has_shopify": true
+    },
+    "112": {
+      "id": "019c627c-e701-493f-f000-0000f151b3d2",
+      "companyName": "Steinhafels",
+      "companyWebsite": "https://steinhafels.com",
+      "agentName": "Quinn",
       "messageTone": "Polished",
       "conversation": [
         {
+          "message_media": [],
+          "message_text": "Steinhafels: It's the FINAL days of our Buy More, Save More Sale 🎉\n\n⭐ $100 OFF $999\n⭐ $200 OFF $1999\n⭐ $300 OFF $2999\n\nPLUS get a $200 Mastercard when you finance $1999+.\n\nShop now! steinhafels.attn.tv/aDan9lFE3UWm ",
           "message_type": "system",
-          "message_text": "NIRA: And the winner is... Pro Laser, taking home multiple 2025 beauty awards. 🏆 See why Who What Wear crowned it \"Best At-Home Laser.\"\n\nCheck out all awards: niraskin.attn.tv/ajvMbpmKclWO ",
-          "date_time": "2026-02-03 16:00:57.770",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-01-23 09:14:15.791"
         },
         {
+          "message_media": [],
+          "message_text": "Steinhafels: Upgrade your sleep with Beautyrest Black. Save big and enter to win 7-nights in Hawaii! Shop the line now: steinhafels.attn.tv/ayZDFNnq7rcN ",
           "message_type": "system",
-          "message_text": "NIRA: Valentine\u0027s Day Sale is live! ❤️ Save $150 on the NIRA Pro Laser now. Show your skin some love with a clinically proven, pro-grade tool.\n\nShop \u0026 save: niraskin.attn.tv/amYEBvAJ1127 ",
-          "date_time": "2026-02-05 13:30:37.288",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-01-25 13:10:22.097"
         },
         {
+          "message_media": [],
+          "message_text": "Steinhafels: It's a great day to get cozy by the fireplace! 🔥 with over 25 styles to choose from we have the perfect one for you! Shop now: steinhafels.attn.tv/aB7R_uNPtHwA ",
           "message_type": "system",
-          "message_text": "NIRA: Hi Virginia, this is Sarah. Discover radiance with your top pick niraskin.attn.tv/aqg7OaMFmNGz \n\nDo you have any questions that I can answer?",
-          "date_time": "2026-02-05 13:50:25.475",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-01-26 16:10:28.091"
         },
         {
+          "message_media": [],
+          "message_text": "Steinhafels: Our Presidents Day Super Sale starts NOW. Storewide savings of 10% or more + 0% interest for 18 months. FREE 65\" Smart TV with qualifying purchase. Shop the sale now! steinhafels.attn.tv/anLC7VFDBWcI ",
           "message_type": "system",
-          "message_text": "NIRA: This Valentine\u0027s Day, gift yourself a self-care treat. 🫶 Save $150 on the Pro Laser \u0026 start seeing smoother-looking skin within 90 days.\n\nShop \u0026 save: niraskin.attn.tv/a0SB3ugzp-Wy ",
-          "date_time": "2026-02-06 14:25:22.625",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-01-30 09:10:10.875"
         },
         {
+          "message_media": [],
+          "message_text": "Steinhafels: Hey there, this is Quinn. Thanks for stopping by! \n\nAny questions I can answer for you today while this is still available? https://steinhafels.attn.tv/aqbgdry4krDN .",
           "message_type": "system",
-          "message_text": "NIRA: Your V-Day treat is waiting! 💘 Only a few days left to save $150 on the Pro Laser, an award-winning tool for visibly smoother skin.\n\nDon\u0027t miss it: niraskin.attn.tv/a9a_D0T2LtVo ",
-          "date_time": "2026-02-09 13:31:11.418",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-01-30 20:02:01.940"
         },
         {
+          "message_media": [],
+          "message_text": "Steinhafels: Better sleep starts now! Save up to $300 on Tempurpedic PLUS up to $200 off adjustable bases AND get $300 Steinhafels Cash. Shop now: steinhafels.attn.tv/aDiVzxz6FmPz ",
           "message_type": "system",
-          "message_text": "NIRA: Hey Virginia, we\u0027re giving you 10% OFF the NIRA Pro Laser (2nd Gen) in your cart. Claim your exclusive savings now: niraskin.attn.tv/aLoF1PaDWd3S\n\nText back if you have any questions!",
-          "date_time": "2026-02-09 14:27:15.750",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-04 09:04:13.921"
         },
         {
+          "message_media": [],
+          "message_text": "Steinhafels: Our Presidents Day Sale is going on NOW. Save big with storewide savings, 18-month 0% interest and get a FREE 65\" Smart TV (min purchase). Shop now! steinhafels.attn.tv/aXv2hPtUdQqh ",
           "message_type": "system",
-          "message_text": "NIRA: Dealing with crow\u0027s feet? Smile lines? Under-eye wrinkles? NIRA Precision targets and smooths delicate spots easily.\n\nShop now: niraskin.attn.tv/af4hHtIGmZAF ",
-          "date_time": "2026-02-16 14:00:54.739",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-06 12:05:35.849"
         },
         {
+          "message_media": [],
+          "message_text": "Steinhafels: Presidents Day 5-Day Sale starts NOW! Take $50 off EVERY $499 and get a $200 Mastercard on purchases of $1,999+. Don't wait - shop now! steinhafels.attn.tv/aVp5NN0nyGBK ",
           "message_type": "system",
-          "message_text": "NIRA: Hi Virginia, this is Sarah. Discover radiance with your top pick niraskin.attn.tv/aiS_WYy4equl \n\nDo you have any questions that I can answer?",
-          "date_time": "2026-02-16 14:03:17.245",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-12 19:08:12.325"
         },
         {
+          "message_media": [],
+          "message_text": "Steinhafels: Hey, this is Quinn. I noticed you forgot something in your cart. You have great taste! \n\nFinish your checkout here: https://steinhafels.attn.tv/aMTf3mvsPkMF .\n\nAny questions I can assist with while this is still available?",
+          "message_type": "system",
+          "date_time": "2026-02-12 19:13:02.131"
+        },
+        {
+          "message_media": [],
+          "message_text": "Steinhafels: Don't miss out on our Presidents Day 5-Day Sale 🇺🇸 \n\nTake $50 off EVERY $499 and get a $200 Mastercard on purchases of $1,999+. \n\nHurry - sale ends Monday! steinhafels.attn.tv/aOfOr8h0nl2t \n\nReply STOP to end msgs",
+          "message_type": "system",
+          "date_time": "2026-02-14 11:40:18.394"
+        },
+        {
+          "message_media": [],
+          "message_text": "Can you let me know if the item in the cart I have is the left or right facing option? It doesn't say on the website and I don't want to take it out of the cart if it will mess up the promo setup.",
           "message_type": "customer",
-          "message_text": "Dislike my smile lines but even the precision laser does not seem to help. Any other suggestions?",
-          "date_time": "2026-02-16 15:01:57.175",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-15 11:47:00.850"
         },
         {
+          "message_media": [],
+          "message_text": "Steinhafels: Thanks for reaching out! Are you referring to the Elsa 5-Pc. Chaise Modular? If so, there's an option to select the orientation (right-facing or left-facing) on the product page. Could you please send me a screenshot of your cart?",
+          "message_type": "agent",
+          "agent": "82447",
+          "message_id": "019c6236-8f92-4919-f000-0000f151b3d2",
+          "date_time": "2026-02-15 11:51:08.848"
+        },
+        {
+          "message_media": [
+            "https://attentive-files.s3.amazonaws.com/receive-event-media/1771174349682_27281e63-3b6a-465c-9724-f262b6d70595-1.png"
+          ],
+          "message_text": "Yep, the product page is fine, the cart doesn't say which is in the cart, nor let you change.",
+          "message_type": "customer",
+          "date_time": "2026-02-15 11:52:40.744"
+        },
+        {
+          "message_media": [],
+          "message_text": "Steinhafels: I understand. From the image of the item in your cart, you have the right-facing orientation. Let me know if there's anything else I can assist you with today, happy to help! ",
+          "message_type": "agent",
+          "agent": "50271",
+          "message_id": "019c623e-715e-4ff9-f000-0000f151b3d2",
+          "date_time": "2026-02-15 11:59:45.405"
+        },
+        {
+          "message_media": [],
+          "message_text": "Was not sure if the image is representative, thank you, I will swap if I need to",
+          "message_type": "customer",
+          "date_time": "2026-02-15 12:20:44.188"
+        },
+        {
+          "message_media": [],
+          "message_text": "Steinhafels: If it's helpful to confirm your purchase, you may remove the current item from your cart, return to the product page, scroll down a bit, and reselect your preferred orientation. Please refer to this screenshot - https://steinhafels.attn.tv/aAd-RbFRxWak",
+          "message_type": "agent",
+          "agent": "109964",
+          "message_id": "019c6257-19f3-4d2d-f000-0000f151b3d2",
+          "date_time": "2026-02-15 12:26:41.436"
+        },
+        {
+          "message_media": [],
+          "message_text": "Yes, I need to switch the orientation to left. As I thought it might, the $50 off every $499 promo is not applied anymore.",
+          "message_type": "customer",
+          "date_time": "2026-02-15 13:02:14.372"
+        },
+        {
+          "message_media": [],
+          "message_text": "Steinhafels: ⏰ It's the final 2 days to save BIG during our Presidents Day 5-Day Sale! 🇺🇸\n\nTake $50 off EVERY $499 and get a $200 Mastercard on purchases of $1,999+.\n\nShop now and save! steinhafels.attn.tv/aW_Uh-vVLDQy ",
+          "message_type": "system",
+          "date_time": "2026-02-15 13:05:23.795"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"Screenshot 2 - All brands\"; last updated: 2023-10-10 18:10:03.294",
           "message_type": "template",
-          "message_text": "Template used: \"Guarantee delivery dates - All brands\"; last updated: 2024-11-07 14:26:32.728",
-          "date_time": "2026-02-16 15:21:50.997",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-15 13:07:58.747"
         },
         {
+          "message_media": [],
+          "message_text": "Steinhafels: I'm so sorry to hear that! Can you please send me a screenshot of what you're seeing on your end? I have tried adding the left-facing option from my end, and the discount will still prompt at the cart page. Please do not forget to click apply on this section: https://steinhafels.attn.tv/aUXDXv9UuaFj",
+          "message_type": "agent",
+          "agent": "109964",
+          "message_id": "019c627c-e701-493f-f000-0000f151b3d2",
+          "date_time": "2026-02-15 13:07:58.749"
+        }
+      ],
+      "notes": {
+        "send_to_cs": [
+          "Send to CS for delivery related inquiries"
+        ],
+        "tone": [
+          "Don't say branches, say store locations instead"
+        ],
+        "templates": [
+          "For issues regarding tracking, use EOI shortcut",
+          "For service inquiries, use SIQ shortcut"
+        ]
+      },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://steinhafels.com",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "Elsa 5-Pc. Chaise Modular",
+            "link": "https://www.steinhafels.com/product/group/living-room/sofas-sectionals/sectionals/elsa-5-pc-chaise-modular-in-steel/3006772/2993121",
+            "timeAgo": "2026-02-15"
+          },
+          {
+            "item": "Elsa 5-Pc. Chaise Modular",
+            "link": "https://www.steinhafels.com/product/group/living-room/sofas-sectionals/sectionals/elsa-5-pc-chaise-modular-in-steel/3006772/2993147",
+            "timeAgo": "2026-02-15"
+          },
+          {
+            "item": "Elsa 5-Pc. Chaise Modular",
+            "link": "https://www.steinhafels.com/product/group/living-room/sofas-sectionals/sectionals/elsa-5-pc-chaise-modular-in-steel/3006772/2993121",
+            "timeAgo": "2026-02-15"
+          },
+          {
+            "item": "Elsa 5-Pc. Chaise Modular",
+            "link": "https://www.steinhafels.com/product/group/living-room/sofas-sectionals/sectionals/elsa-5-pc-chaise-modular-in-steel/3006772/2993121",
+            "timeAgo": "2026-02-15"
+          },
+          {
+            "item": "Elsa 5-Pc. Chaise Modular",
+            "link": "https://www.steinhafels.com/product/group/living-room/sofas-sectionals/sectionals/elsa-5-pc-chaise-modular-in-steel/3006772/2993121",
+            "timeAgo": "2026-02-14"
+          }
+        ]
+      },
+      "escalation_preferences": [],
+      "blocklisted_words": [],
+      "has_shopify": false
+    },
+    "113": {
+      "id": "019c581e-da12-4752-f000-0000f233c104",
+      "companyName": "Plank Mattress",
+      "companyWebsite": "https://plankmattress.com",
+      "agentName": "",
+      "messageTone": "Polished",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "Plank Mattress: It's time to save! Get 30% off Plank mattresses, pillows and more. \nShop now! plankmattress.attn.tv/a31pIC9uV94U ",
+          "message_type": "system",
+          "date_time": "2026-01-14 12:55:11.918"
+        },
+        {
+          "message_media": [],
+          "message_text": "Plank Mattress: Act fast! Take 30% OFF sitewide while supplies last. This sleep deal won't wait. Shop now before it's gone! plankmattress.attn.tv/a4RxpoKqagiU ",
+          "message_type": "system",
+          "date_time": "2026-01-17 11:55:13.649"
+        },
+        {
+          "message_media": [],
+          "message_text": "Plank Mattress: 30% off is almost over... Upgrade to ultra-firm support with Plank. Your back will thank you! 🛏 plankmattress.attn.tv/aZCR-5OzP9FF ",
+          "message_type": "system",
+          "date_time": "2026-01-19 13:35:13.261"
+        },
+        {
+          "message_media": [],
+          "message_text": "Plank Mattress: Looking for winter coziness? Get 25% OFF Plank: where firm comfort meets winter savings! Save now: plankmattress.attn.tv/amjRGdEC0NIb ",
+          "message_type": "system",
+          "date_time": "2026-01-23 13:30:16.411"
+        },
+        {
+          "message_media": [],
+          "message_text": "Plank Mattress: Sleep firmer, dream bigger! 💤 Enjoy 25% OFF sitewide during our Presidents Day Sale! Shop now: plankmattress.attn.tv/a541tBqH9BIN ",
+          "message_type": "system",
+          "date_time": "2026-01-29 13:05:09.751"
+        },
+        {
+          "message_media": [],
+          "message_text": "Plank Mattress: Here's to firmer, better sleep! Take 25% OFF Plank and feel the difference every morning when you shop now: plankmattress.attn.tv/az_k4gM60ErW ",
+          "message_type": "system",
+          "date_time": "2026-02-01 12:10:05.480"
+        },
+        {
+          "message_media": [],
+          "message_text": "Plank Mattress: Sale INCREASE 💥 Our Presidents Day sale is now 30% OFF sitewide! Ready to save? plankmattress.attn.tv/aM962FcqtuXg ",
+          "message_type": "system",
+          "date_time": "2026-02-04 12:45:16.444"
+        },
+        {
+          "message_media": [],
+          "message_text": "Plank Mattress: Tick tock! ⏰ 30% OFF won't last long. Get firm comfort and save today: plankmattress.attn.tv/alZIgi7WFsHD ",
+          "message_type": "system",
+          "date_time": "2026-02-08 13:30:13.250"
+        },
+        {
+          "message_media": [],
+          "message_text": "Plank Mattress: Hi there! I'm Sarah with Plank. I noticed you had one of our best sellers in your cart. Is there something holding you back that I can help with?\n\nplankmattress.attn.tv/argbYizzG5Ny ",
+          "message_type": "system",
+          "date_time": "2026-02-08 13:52:03.945"
+        },
+        {
+          "message_media": [],
+          "message_text": "Plank Mattress: Your best sleep deal yet! Get 30% OFF mattresses, pillows, and more for a limited time. Save before it's too late → plankmattress.attn.tv/aGGyzsOFCVvk ",
+          "message_type": "system",
+          "date_time": "2026-02-11 14:05:14.700"
+        },
+        {
+          "message_media": [],
+          "message_text": "Plank Mattress: Hey there! Your Plank Firm is waiting patiently to give you your best night's sleep.\n\nDid you have any questions I could help with?\n-Sarah\n https://plankmattress.attn.tv/afvcipCOGYQh \n",
+          "message_type": "system",
+          "date_time": "2026-02-13 12:35:34.688"
+        },
+        {
+          "message_media": [],
+          "message_text": "Hi, I wanted to ask if my husband doesnt like the mattress, we can return it?",
+          "message_type": "customer",
+          "date_time": "2026-02-13 12:45:42.473"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"How does the 120-night trial period work?\"; last updated: 2023-01-24 22:38:02.684",
           "message_type": "template",
-          "message_text": "Template used: \"Weekend Escalations - All brands\"; last updated: 2024-02-12 17:46:12.047",
-          "date_time": "2026-02-16 15:21:50.997",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-13 12:49:02.908"
         },
         {
-          "message_id": "019c681d-d2f5-4f7e-f000-00006673545a",
-          "message_text": "NIRA: Thanks for reaching out, and sorry to hear that! I want to make sure I give you the most accurate information, so I\u0027ll check in with my team. I\u0027ll be sure to follow up with you as soon as I have an update. ",
+          "message_media": [],
+          "message_text": "Template used: \"Return policy\"; last updated: 2023-01-24 22:40:46.090",
+          "message_type": "template",
+          "date_time": "2026-02-13 12:49:02.908"
+        },
+        {
+          "message_media": [],
+          "message_text": "Plank Mattress: Good question! If during your 120-night sleep trial (which begins once your mattress has been delivered), you decide that you are not completely happy with your mattress, we will help assist you with the return process. Please also note that we do require that you try your new mattress for at least 30 days from the date of delivery. This gives you ample time to properly adjust to the new materials. You can also check out our detailed return policy here: https://plankmattress.attn.tv/aYId7ypRSO1q Hope this helps!",
           "message_type": "agent",
           "agent": "87310",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-16 15:21:50.999"
+          "message_id": "019c581e-da12-4752-f000-0000f233c104",
+          "date_time": "2026-02-13 12:49:02.912"
         }
-      ]
+      ],
+      "notes": {},
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://plankmattress.com",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "Plank Firm",
+            "link": "https://plankmattress.com/products/plank",
+            "timeAgo": "2026-02-13"
+          },
+          {
+            "item": "Plank Firm",
+            "link": "https://plankmattress.com/products/plank/king-no",
+            "timeAgo": "2026-02-08"
+          },
+          {
+            "item": "Plank Firm",
+            "link": "https://plankmattress.com/products/plank",
+            "timeAgo": "2026-02-08"
+          }
+        ]
+      },
+      "escalation_preferences": [],
+      "blocklisted_words": [
+        "AI"
+      ],
+      "has_shopify": true
+    },
+    "114": {
+      "id": "019c545c-277c-49ef-f000-0000fa8b5a7a",
+      "companyName": "Braun",
+      "companyWebsite": "https://braun.com",
+      "agentName": "Jordan",
+      "messageTone": "Polished",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "Braun: Reply Y to subscribe to recurring automated personalized marketing alerts (e.g. cart reminders) from Braun.",
+          "message_type": "system",
+          "date_time": "2026-02-11 13:48:29.487"
+        },
+        {
+          "message_media": [],
+          "message_text": "Braun: Welcome to Braun! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
+          "message_type": "system",
+          "date_time": "2026-02-11 13:49:04.619"
+        },
+        {
+          "message_media": [],
+          "message_text": "Braun: Welcome to the family! Use code BRA947U23D and get up to $125 off your first purchase. Not combinable with other offers. Shop now: braun.attn.tv/ab56E5U9h-I8 .\n",
+          "message_type": "system",
+          "date_time": "2026-02-11 13:49:08.634"
+        },
+        {
+          "message_media": [],
+          "message_text": "Braun: Don't forget to save our contact for exclusive deals and updates!",
+          "message_type": "system",
+          "date_time": "2026-02-11 13:49:09.853"
+        },
+        {
+          "message_media": [],
+          "message_text": "Braun: Hey there! I'm Jordan, your personal grooming expert.\n\nDo you have any questions or need a recommendation? Let me know how I can help!\n\nhttps://braun.attn.tv/aOYcx5l8ebiV .",
+          "message_type": "system",
+          "date_time": "2026-02-12 17:30:05.603"
+        },
+        {
+          "message_media": [],
+          "message_text": "How do I order a new razor head?",
+          "message_type": "customer",
+          "date_time": "2026-02-12 17:31:23.641"
+        },
+        {
+          "message_media": [],
+          "message_text": "Braun: Hello! I appreciate your interest. You can order Razor Heads here - https://braun.attn.tv/acm6pWSDlTop. To be sure, what Braun series is your current Razor? ",
+          "message_type": "agent",
+          "agent": "43099",
+          "message_id": "019c5405-f1ca-48b0-f000-0000fa8b5a7a",
+          "date_time": "2026-02-12 17:43:21.700"
+        },
+        {
+          "message_media": [],
+          "message_text": "Series 9",
+          "message_type": "customer",
+          "date_time": "2026-02-12 17:46:13.556"
+        },
+        {
+          "message_media": [],
+          "message_text": "So is this the one?",
+          "message_type": "customer",
+          "date_time": "2026-02-12 17:47:13.186"
+        },
+        {
+          "message_media": [],
+          "message_text": "Series 9 Electric Shaver Replacement HeadCompatible with all Braun Series 9 Electric Shavers Price $79.99$79.99",
+          "message_type": "customer",
+          "date_time": "2026-02-12 17:47:19.147"
+        },
+        {
+          "message_media": [],
+          "message_text": "Braun: Yes, that's correct. You can find it here: https://braun.attn.tv/azdpB3YkRMNR\n\nHope this helps! If you have any questions, feel free to text me.",
+          "message_type": "agent",
+          "agent": "87295",
+          "message_id": "019c540d-d082-47df-f000-0000fa8b5a7a",
+          "date_time": "2026-02-12 17:51:57.460"
+        },
+        {
+          "message_media": [],
+          "message_text": "I have a discount code I don't see any place to enter it",
+          "message_type": "customer",
+          "date_time": "2026-02-12 17:56:33.183"
+        },
+        {
+          "message_media": [],
+          "message_text": "Braun: Got it. You can enter the code once you head on to checkout. On the order summary, click on the 'coupon/gift certificate', then enter the code. You can check this screenshot for reference: https://braun.attn.tv/aWjTDl2DHonJ - Hope this helps.",
+          "message_type": "agent",
+          "agent": "109630",
+          "message_id": "019c5429-9693-4e7f-f000-0000fa8b5a7a",
+          "date_time": "2026-02-12 18:22:17.671"
+        },
+        {
+          "message_media": [],
+          "message_text": "Can you cancel my order if that does not happen",
+          "message_type": "customer",
+          "date_time": "2026-02-12 18:26:13.132"
+        },
+        {
+          "message_media": [],
+          "message_text": "Hello, are you checking on this?",
+          "message_type": "customer",
+          "date_time": "2026-02-12 18:32:42.806"
+        },
+        {
+          "message_media": [],
+          "message_text": "Braun: Yes, I'm here! Just to confirm, are you seeing the spot at checkout labeled \"coupon/gift certificate\" where you can enter your code? If not, please let me know. Once an order is placed, we are unable to cancel it from our end. ",
+          "message_type": "agent",
+          "agent": "42041",
+          "message_id": "019c543a-c22c-41f4-f000-0000fa8b5a7a",
+          "date_time": "2026-02-12 18:41:02.953"
+        },
+        {
+          "message_media": [],
+          "message_text": "No do not see that",
+          "message_type": "customer",
+          "date_time": "2026-02-12 18:41:53.281"
+        },
+        {
+          "message_media": [],
+          "message_text": "Would it make any difference if a deadness on a computer versus my iPhone",
+          "message_type": "customer",
+          "date_time": "2026-02-12 18:51:28.456"
+        },
+        {
+          "message_media": [],
+          "message_text": "https://braun.attn.tv/azdpB3YkRMNR",
+          "message_type": "customer",
+          "date_time": "2026-02-12 18:51:34.891"
+        },
+        {
+          "message_media": [],
+          "message_text": "Braun: Yes, I am trying on my computer and it worked on my end. Let me know how it goes on yours.\n",
+          "message_type": "agent",
+          "agent": "31385",
+          "message_id": "019c544b-97e7-417d-f000-0000fa8b5a7a",
+          "date_time": "2026-02-12 18:59:26.209"
+        },
+        {
+          "message_media": [],
+          "message_text": "Ok give me a moment, please",
+          "message_type": "customer",
+          "date_time": "2026-02-12 19:03:30.432"
+        },
+        {
+          "message_media": [],
+          "message_text": "It takes me to razors, not razor heads",
+          "message_type": "customer",
+          "date_time": "2026-02-12 19:03:50.400"
+        },
+        {
+          "message_media": [],
+          "message_text": "I may have found it hang on",
+          "message_type": "customer",
+          "date_time": "2026-02-12 19:04:20.491"
+        },
+        {
+          "message_media": [],
+          "message_text": "Braun: Alright! If you need further assistance, I'm just here. ",
+          "message_type": "agent",
+          "agent": "109617",
+          "message_id": "019c545c-277c-49ef-f000-0000fa8b5a7a",
+          "date_time": "2026-02-12 19:17:31.549"
+        }
+      ],
+      "notes": {
+        "dos_and_don_ts": [
+          "Don't send any registration links"
+        ],
+        "templates": [
+          "For adverse events or product quality complaints use APQ shortcut"
+        ],
+        "promo_and_promo_exclusions": [
+          "Discount codes don't stack with sale items"
+        ]
+      },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://braun.com",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "Braun Series 9 Shaver Replacement Head, Compatible with All Series 9 Electric Shavers",
+            "link": "https://us.braun.com/en-us/male-grooming/replacement-parts-and-accessories/series-9-electric-shaver-replacements?utm_campaign=attentive-concierge-reply&utm_medium=sms&utm_source=attentive&externalId=atMwu",
+            "timeAgo": "2026-02-12"
+          },
+          {
+            "item": "Braun Series 9 Shaver Replacement Head, Compatible with All Series 9 Electric Shavers",
+            "link": "https://us.braun.com/en-us/male-grooming/replacement-parts-and-accessories/series-9-electric-shaver-replacements?utm_campaign=attentive-concierge-reply&utm_medium=sms&utm_source=attentive&externalId=atMwu",
+            "timeAgo": "2026-02-12"
+          },
+          {
+            "item": "Braun Series 9 Shaver Replacement Head, Compatible with All Series 9 Electric Shavers",
+            "link": "https://us.braun.com/en-us/male-grooming/replacement-parts-and-accessories/series-9-electric-shaver-replacements?utm_campaign=attentive-concierge-reply&utm_medium=sms&utm_source=attentive&externalId=atMwu",
+            "timeAgo": "2026-02-12"
+          },
+          {
+            "item": "Braun Series 9 Shaver Replacement Head, Compatible with All Series 9 Electric Shavers",
+            "link": "https://us.braun.com/en-us/male-grooming/replacement-parts-and-accessories/series-9-electric-shaver-replacements?utm_campaign=attentive-concierge-reply&utm_medium=sms&utm_source=attentive&externalId=atMwu",
+            "timeAgo": "2026-02-12"
+          }
+        ]
+      },
+      "escalation_preferences": [
+        "Adverse Events",
+        "Product Quality Complaints"
+      ],
+      "blocklisted_words": [
+        "staging"
+      ],
+      "has_shopify": false
+    },
+    "115": {
+      "id": "019c53d7-a0e7-4f17-f000-00008c03393f",
+      "companyName": "Grande Cosmetics",
+      "companyWebsite": "https://grandecosmetics.com",
+      "agentName": "Sarah",
+      "messageTone": "Polished",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "GRANDE: New Year New Brows! 40% Off our Brow Serum Collection. \nShop Now!\ngrandecosmetics.attn.tv/a60KTWC_RX1u \n\n",
+          "message_type": "system",
+          "date_time": "2026-01-19 20:01:12.192"
+        },
+        {
+          "message_media": [],
+          "message_text": "GRANDE: 40% OFF our Brow Collection.\nShop Now!\ngrandecosmetics.attn.tv/arG9zPFekixY \n",
+          "message_type": "system",
+          "date_time": "2026-01-22 20:10:07.436"
+        },
+        {
+          "message_media": [],
+          "message_text": "GRANDE: Final Hours to shop our 40% OFF Brow promotion. \nShop Now!\ngrandecosmetics.attn.tv/azXWAMy8VdvU ",
+          "message_type": "system",
+          "date_time": "2026-01-25 15:11:07.590"
+        },
+        {
+          "message_media": [],
+          "message_text": "GRANDE: Today's Happy Hour: Additional $10 off Sets!\ngrandecosmetics.attn.tv/aShmohIB9SKW \n",
+          "message_type": "system",
+          "date_time": "2026-01-30 19:11:05.150"
+        },
+        {
+          "message_media": [],
+          "message_text": "GRANDE: Shop now and choose from 3 free gifts with your purchase of $65 or more. Don't miss out! \nShop Now!\ngrandecosmetics.attn.tv/ahJrYG7PZhP3 ",
+          "message_type": "system",
+          "date_time": "2026-02-02 15:02:07.327"
+        },
+        {
+          "message_media": [],
+          "message_text": "GRANDE: Celebrate Valentine's Day with our special collection! Shop now at grandecosmetics.attn.tv/atdI8J3V-_10. ",
+          "message_type": "system",
+          "date_time": "2026-02-05 22:03:06.080"
+        },
+        {
+          "message_media": [],
+          "message_text": "GRANDE: Hey KATHERINE, Sarah here! Don't forget to complete your purchase of GrandeMASCARA before it's gone!💖 https://grandecosmetics.attn.tv/aAkCZWbPtU18 .\n\nTxt me with any questions!",
+          "message_type": "system",
+          "date_time": "2026-02-06 17:36:47.424"
+        },
+        {
+          "message_media": [],
+          "message_text": "GRANDE: Feel CONFIDENT at your CORE! You deserve to look amazing. Shop now and elevate your beauty routine! grandecosmetics.attn.tv/aWjTfzyFhxPr",
+          "message_type": "system",
+          "date_time": "2026-02-07 18:13:08.386"
+        },
+        {
+          "message_media": [],
+          "message_text": "GRANDE: Choose your FREE GIFT on orders over $65! Don't miss out—SHOP NOW! grandecosmetics.attn.tv/ansuXlzEKvtN ",
+          "message_type": "system",
+          "date_time": "2026-02-10 22:04:10.239"
+        },
+        {
+          "message_media": [],
+          "message_text": "GRANDE: Thank you for your purchase! Your order number is 865864. View more information about your order here: https://grandecosmetics.attn.tv/a-II4tA_Mmu_ .",
+          "message_type": "system",
+          "date_time": "2026-02-12 15:44:06.932"
+        },
+        {
+          "message_media": [],
+          "message_text": "Placed an order today. Great product. No free gift. Difficult using website.  Shortened list of what I was going to purchase.  Can't be the only one to complain about how the website does or doesn't operate.",
+          "message_type": "customer",
+          "date_time": "2026-02-12 16:27:24.264"
+        },
+        {
+          "message_media": [],
+          "message_text": "GRANDE: Thank you so much for taking the time to give us feedback. We want to make sure we keep our loyal customers happy with our products, and I will definitely pass this on to my team to consider in the future. Thank you again, and please let me know if there is anything else I can assist you with today.",
+          "message_type": "agent",
+          "agent": "87295",
+          "message_id": "019c53ca-d2f3-4fdb-f000-00008c03393f",
+          "date_time": "2026-02-12 16:38:47.193"
+        },
+        {
+          "message_media": [],
+          "message_text": "Thanks for responding.I don't use a phone and am very comfortable with cuter biz. Use FireFox and Word 11. Sight is weird - clumsy and just doesn't operate well. And no free gift? Plus one of the 6 month subscription was going to start on the 4th month. Real headache and gave in to what I needed now.Thanks again.",
+          "message_type": "customer",
+          "date_time": "2026-02-12 16:47:13.942"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"Post Purchase Inquiries \"; last updated: 2024-02-12 23:17:52.363",
+          "message_type": "template",
+          "date_time": "2026-02-12 16:52:46.343"
+        },
+        {
+          "message_media": [],
+          "message_text": "GRANDE: Thank you for the details, and I'm sorry to hear that! We don't handle post-purchase requests via text. Please email your request to customerservice@grandecosmetics.com or feel free to call this number 877-835-3010. Please let me know if you have any questions about our products, I'm more than happy to help you here!",
+          "message_type": "agent",
+          "agent": "87295",
+          "message_id": "019c53d7-a0e7-4f17-f000-00008c03393f",
+          "date_time": "2026-02-12 16:52:46.345"
+        }
+      ],
+      "notes": {
+        "send_to_cs": [
+          "Send to CS for post purchase issues, use PPI shortcut",
+          "Send to CS for Trail Offer issues"
+        ],
+        "dos_and_don_ts": [
+          "For information on products consult this sheet: https://drive.google.com/drive/folders/1cvGL6XUHWFFel8YExN4qpriO2Tt7whOB"
+        ],
+        "promo_and_promo_exclusions": [
+          "Trial Offer",
+          "➜ Link: https://grandecosmetics.com/pages/grandelash-md-intro-offer",
+          "➜ This is a trial offer we offer to certain customers. They get a free mini grandelash-md, just have to pay shipping",
+          "➜This offer sometimes doesn't work when there's an automatic coupon running",
+          "This code has expired, do not share it:",
+          "➜ 15offbc23"
+        ]
+      },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://grandecosmetics.com",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "GrandeMASCARA",
+            "link": "https://grandecosmetics.com/products/grandemascara-conditioning-peptide-mascara-brown-1?_pos=11&_sid=9fe13780a&_ss=r",
+            "timeAgo": "2024-09-03"
+          },
+          {
+            "item": "GrandeLIPSTICK",
+            "link": "https://grandecosmetics.com/products/copy-of-grandelipstick-plumping-lipstick?variant=39620315775113",
+            "timeAgo": "2024-09-03"
+          },
+          {
+            "item": "GrandeLIPSTICK",
+            "link": "https://grandecosmetics.com/products/copy-of-grandelipstick-plumping-lipstick?variant=39620315775113",
+            "timeAgo": "2024-09-03"
+          },
+          {
+            "item": "GrandeLIPSTICK",
+            "link": "https://grandecosmetics.com/products/copy-of-grandelipstick-plumping-lipstick?variant=41409735852169",
+            "timeAgo": "2024-09-03"
+          },
+          {
+            "item": "GrandeLIPSTICK",
+            "link": "https://grandecosmetics.com/products/copy-of-grandelipstick-plumping-lipstick?_pos=1&_sid=673f1acd3&_ss=r",
+            "timeAgo": "2024-09-03"
+          }
+        ]
+      },
+      "escalation_preferences": [],
+      "blocklisted_words": [],
+      "has_shopify": true
     }
   }
 }

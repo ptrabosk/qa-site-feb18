@@ -3,1254 +3,834 @@
   "chunk": "chunk_0009",
   "scenarios": {
     "41": {
-      "agentName": "Taylor",
-      "id": "019c495e-62b1-4a30-f000-0000eef8ab51",
-      "rightPanel": {
-        "orders": [
-          {
-            "total": 96.41,
-            "orderDate": "2026-02-04",
-            "orderNumber": "5972680998964",
-            "items": [
-              {
-                "price": [
-                  0
-                ],
-                "productLink": "https://apus-laneige.myshopify.com/products/bouncy-firm-sleeping-mask-2ml-copy",
-                "name": "Water Bank Gentle Gel Cleanser (2mL)"
-              },
-              {
-                "price": [
-                  0
-                ],
-                "productLink": "https://apus-laneige.myshopify.com/products/juice-pop-box-tint-mirror-keychain",
-                "name": "JuicePop Box Tint Mirror Keychain"
-              },
-              {
-                "price": [
-                  0
-                ],
-                "productLink": "https://apus-laneige.myshopify.com/products/build-your-lip-set",
-                "name": "Build Your Lip Duo"
-              },
-              {
-                "price": [
-                  19
-                ],
-                "productLink": "https://apus-laneige.myshopify.com/products/lip-glowy-balm",
-                "name": "Lip Glowy Balm"
-              },
-              {
-                "price": [
-                  0
-                ],
-                "productLink": "https://apus-laneige.myshopify.com/products/laneige-carryall-bag",
-                "name": "Laneige Carryall Bag"
-              },
-              {
-                "price": [
-                  23
-                ],
-                "productLink": "https://apus-laneige.myshopify.com/products/juicepop-box-lip-tint",
-                "name": "JuicePop Box Lip Tint"
-              },
-              {
-                "price": [
-                  0
-                ],
-                "productLink": "https://apus-laneige.myshopify.com/products/laneige-teddy-bag",
-                "name": "Laneige Teddy Bag"
-              },
-              {
-                "price": [
-                  0
-                ],
-                "productLink": "https://apus-laneige.myshopify.com/products/bouncy-firm-eye-sleeping-mask-3ml",
-                "name": "Bouncy \u0026 Firm Eye Sleeping Mask (3mL)"
-              },
-              {
-                "price": [
-                  0
-                ],
-                "productLink": "https://apus-laneige.myshopify.com/products/bouncy-firm-sleeping-mask-10ml",
-                "name": "Bouncy \u0026 Firm Sleeping Mask (10mL)"
-              },
-              {
-                "price": [
-                  0
-                ],
-                "productLink": "https://apus-laneige.myshopify.com/products/bouncy-firm-serum-5ml",
-                "name": "Bouncy \u0026 Firm Serum (5mL)"
-              },
-              {
-                "price": [
-                  19
-                ],
-                "productLink": "https://apus-laneige.myshopify.com/products/lip-glowy-balm-stardust",
-                "name": "Lip Glowy Balm Stardust"
-              },
-              {
-                "price": [
-                  0
-                ],
-                "productLink": "https://apus-laneige.myshopify.com/products/cream-skin-toner-moisturizer-15ml-270288889",
-                "name": "Cream Skin Toner \u0026 Moisturizer AD (15mL)"
-              },
-              {
-                "price": [
-                  0
-                ],
-                "productLink": "https://apus-laneige.myshopify.com/products/cream-skin-toner-moisturizer-cerapeptide-2m",
-                "name": "Cream Skin Toner \u0026 Moisturizer Cerapeptide (2mL)"
-              },
-              {
-                "price": [
-                  0
-                ],
-                "productLink": "https://apus-laneige.myshopify.com/products/water-bank-blue-ha-moisturizer-cream-24ad-2ml",
-                "name": "Water Bank Blue HA Moisturizer Cream (2mL)"
-              },
-              {
-                "price": [
-                  0
-                ],
-                "productLink": "https://apus-laneige.myshopify.com/products/lip-sleeping-mask-3g",
-                "name": "Lip Sleeping Mask (3g)"
-              },
-              {
-                "price": [
-                  0
-                ],
-                "productLink": "https://apus-laneige.myshopify.com/products/water-sleeping-mask-4ml-1",
-                "name": "Water Sleeping Mask (2mL)"
-              },
-              {
-                "price": [
-                  22
-                ],
-                "productLink": "https://apus-laneige.myshopify.com/products/glaze-craze-tinted-lip-serum",
-                "name": "Glaze Craze Tinted Lip Serum"
-              }
-            ]
-          },
-          {
-            "total": 99.3,
-            "orderDate": "2026-01-21",
-            "orderNumber": "5946515357748",
-            "items": [
-              {
-                "price": [
-                  0
-                ],
-                "productLink": "https://apus-laneige.myshopify.com/products/glaze-craze-tinted-lip-serum-blister",
-                "name": "Glaze Craze Tinted Lip Serum Blister"
-              },
-              {
-                "price": [
-                  0
-                ],
-                "productLink": "https://apus-laneige.myshopify.com/products/water-bank-ha-intensive-moisturizer-ad-10ml",
-                "name": "Water Bank HA Intensive Moisturizer (10mL)"
-              },
-              {
-                "price": [
-                  0
-                ],
-                "productLink": "https://apus-laneige.myshopify.com/products/water-bank-aqua-facial-5ml",
-                "name": "Water Bank Aqua Facial (5mL)"
-              },
-              {
-                "price": [
-                  0
-                ],
-                "productLink": "https://apus-laneige.myshopify.com/products/water-bank-blue-hyaluronic-cream-refill-duo",
-                "name": "Water Bank Blue Hyaluronic Cream + Refill Duo"
-              },
-              {
-                "price": [
-                  0
-                ],
-                "productLink": "https://apus-laneige.myshopify.com/products/perfect-renew-3x-signature-serum-advanced-1-5ml",
-                "name": "Perfect Renew 3x Signature Serum Advanced (1.5mL)"
-              },
-              {
-                "price": [
-                  38
-                ],
-                "productLink": "https://apus-laneige.myshopify.com/products/water-bank-blue-hyaluronic-cream-moisturizer",
-                "name": "Water Bank Blue Hyaluronic Cream Moisturizer"
-              },
-              {
-                "price": [
-                  0
-                ],
-                "productLink": "https://apus-laneige.myshopify.com/products/water-bank-aqua-facial-2ml",
-                "name": "Water Bank Aqua Facial (2mL)"
-              },
-              {
-                "price": [
-                  32
-                ],
-                "productLink": "https://apus-laneige.myshopify.com/products/water-bank-blue-hyaluronic-cream-moisturizer",
-                "name": "Water Bank Blue Hyaluronic Cream Moisturizer"
-              },
-              {
-                "price": [
-                  0
-                ],
-                "productLink": "https://apus-laneige.myshopify.com/products/bouncy-firm-sleeping-mask-2ml",
-                "name": "Bouncy \u0026 Firm Sleeping Mask (2mL)"
-              },
-              {
-                "price": [
-                  0
-                ],
-                "productLink": "https://apus-laneige.myshopify.com/products/laneige-blue-headband",
-                "name": "Laneige Blue Headband"
-              },
-              {
-                "price": [
-                  0
-                ],
-                "productLink": "https://apus-laneige.myshopify.com/products/lip-sleeping-mask-3g",
-                "name": "Lip Sleeping Mask (3g)"
-              },
-              {
-                "price": [
-                  28
-                ],
-                "productLink": "https://apus-laneige.myshopify.com/products/bouncy-firm-mini-skin-treats",
-                "name": "Bouncy \u0026 Firm Mini Skin Treats"
-              },
-              {
-                "price": [
-                  0
-                ],
-                "productLink": "https://apus-laneige.myshopify.com/products/cica-sleeping-mask-10ml-22ad",
-                "name": "Cica Sleeping Mask (8mL)"
-              },
-              {
-                "price": [
-                  0
-                ],
-                "productLink": "https://apus-laneige.myshopify.com/products/cream-skin-ad-15ml",
-                "name": "Cream Skin Toner \u0026 Moisturizer (15mL)"
-              }
-            ]
-          }
+      "id": "019c6d26-40e5-4bcb-f000-0000cc78dcbb",
+      "companyName": "Brilliant Earth",
+      "companyWebsite": "https://brilliantearth.com",
+      "agentName": "Ava",
+      "messageTone": "Casual",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "Brilliant Earth: You are already subscribed. Click here to shop now: brilliantearth.com.",
+          "message_type": "system",
+          "date_time": "2026-01-30 02:48:33.638"
+        },
+        {
+          "message_media": [],
+          "message_text": "Brilliant Earth: It's Ava, your jewelry expert! Still thinking about that piece? Continue where you left off: brilliantearth.attn.tv/a2dGgFIXl-VX .\n\nText me back with any questions! \n",
+          "message_type": "system",
+          "date_time": "2026-01-30 13:25:32.842"
+        },
+        {
+          "message_media": [],
+          "message_text": "Brilliant Earth: Your cart is calling! Complete your order with code GIVEAWAY for free lab diamond jewelry. brilliantearth.attn.tv/aBfSAp-uhT8r . Terms apply.",
+          "message_type": "system",
+          "date_time": "2026-01-30 18:08:05.886"
+        },
+        {
+          "message_media": [],
+          "message_text": "Brilliant Earth: Your cart is calling! Complete your order with code GIVEAWAY for free lab diamond jewelry. brilliantearth.attn.tv/a4XnA0HnW24j . Terms apply.",
+          "message_type": "system",
+          "date_time": "2026-01-31 23:29:37.376"
+        },
+        {
+          "message_media": [],
+          "message_text": "Brilliant Earth: Use code GIVEAWAY to unlock your Valentine's surprise. See what it is: brilliantearth.attn.tv/ahdt4cL44Lg3 .",
+          "message_type": "system",
+          "date_time": "2026-02-01 15:01:04.949"
+        },
+        {
+          "message_media": [],
+          "message_text": "Brilliant Earth: You are already subscribed. Click here to shop now: brilliantearth.com.",
+          "message_type": "system",
+          "date_time": "2026-02-01 17:50:54.507"
+        },
+        {
+          "message_media": [],
+          "message_text": "Brilliant Earth: Thank you for your recent purchase! See how your purchase is making a lasting difference here: brilliantearth.attn.tv/a6xOrBAWAMh4 .",
+          "message_type": "system",
+          "date_time": "2026-02-01 19:44:26.370"
+        },
+        {
+          "message_media": [],
+          "message_text": "Brilliant Earth: Your cart is calling! Complete your order with code GIVEAWAY for free lab diamond jewelry. brilliantearth.attn.tv/aB06T5NB43Ea . Terms apply.",
+          "message_type": "system",
+          "date_time": "2026-02-03 13:51:19.236"
+        },
+        {
+          "message_media": [],
+          "message_text": "Brilliant Earth: Protect your jewelry for years to come with our easy-to-follow jewelry care tips. brilliantearth.attn.tv/auPeaD30qQOq .",
+          "message_type": "system",
+          "date_time": "2026-02-04 19:44:33.479"
+        },
+        {
+          "message_media": [],
+          "message_text": "Brilliant Earth: You'll never believe these Valentine's Day gifts are under $250... brilliantearth.attn.tv/aq5Gfoqfr2ZG .",
+          "message_type": "system",
+          "date_time": "2026-02-09 16:07:06.417"
+        },
+        {
+          "message_media": [],
+          "message_text": "Brilliant Earth: You're invited to our referral program! Treat your friend to $100 off and receive $100 after their first purchase of $1,000+. brilliantearth.attn.tv/ajnXzxmCRbs7 .",
+          "message_type": "system",
+          "date_time": "2026-02-11 19:44:34.184"
+        },
+        {
+          "message_media": [],
+          "message_text": "Brilliant Earth: FINAL CALL for Valentine's gifts! Order by 9AM PT tomorrow, free overnight shipping included: brilliantearth.attn.tv/aRZWGZZHdBfB .",
+          "message_type": "system",
+          "date_time": "2026-02-12 18:15:19.810"
+        },
+        {
+          "message_media": [],
+          "message_text": "Brilliant Earth: It's Ava, your jewelry expert! Still thinking about that piece? Continue where you left off: brilliantearth.attn.tv/amuh_9jhIseo .\n\nText me back with any questions! \n",
+          "message_type": "system",
+          "date_time": "2026-02-12 21:03:37.465"
+        },
+        {
+          "message_media": [],
+          "message_text": "Brilliant Earth: It's Ava, your jewelry expert! Still thinking about that piece? Continue where you left off: brilliantearth.attn.tv/aLGsYiu6_fxU .\n\nText me back with any questions! \n",
+          "message_type": "system",
+          "date_time": "2026-02-16 16:16:57.211"
+        },
+        {
+          "message_media": [],
+          "message_text": "Brilliant Earth: Love your purchase? Share a picture on Instagram using @brilliantearth for the chance to be featured! brilliantearth.attn.tv/ai-m9LecBFWB .",
+          "message_type": "system",
+          "date_time": "2026-02-16 19:44:42.791"
+        },
+        {
+          "message_media": [],
+          "message_text": "Brilliant Earth: Ava here, your jewelry specialist. The 18K Yellow Gold Aimee Open Double Band Solitaire Ring is waiting in your cart. Complete your purchase now: brilliantearth.attn.tv/aF5rYFPvTCIT .\n\nHave any questions?",
+          "message_type": "system",
+          "date_time": "2026-02-17 13:34:18.568"
+        },
+        {
+          "message_media": [],
+          "message_text": "Yes is the double ring a considered a low profile ring?",
+          "message_type": "customer",
+          "date_time": "2026-02-17 14:46:19.024"
+        },
+        {
+          "message_media": [],
+          "message_text": "Brilliant Earth: Thank you for reaching out! In a low setting places the diamond is placed closer to the finger, creating a more subtle and secure profile. This style is often favored by those with active lifestyles or professions that require frequent use of their hands, since the diamond is less exposed to accidental knocks. Low settings are also practical for stacking with straight wedding bands, as the lower profile allows the two rings to sit neatly together. While the sparkle may appear less intense compared to higher settings, low settings provide excellent durability and everyday comfort. ",
+          "message_type": "agent",
+          "agent": "109964",
+          "message_id": "019c6d26-40e5-4bcb-f000-0000cc78dcbb",
+          "date_time": "2026-02-17 14:49:09.509"
+        }
+      ],
+      "notes": {
+        "send_to_cs": [
+          "Inquiries regarding orders",
+          "Shipping inquiries on a current order",
+          "Post-purchase issues",
+          "For product or general inquiries you can't find the answer to, use PGI shortcut"
         ],
+        "escalate": [
+          "No escalations for this client, send everything to CS"
+        ],
+        "tone": [
+          "Don't use the word \"unfortunately\" to discuss our appointment structure",
+          "Don't use the word \"best\" to reference a product (e.g., best ring, etc.)"
+        ],
+        "templates": [
+          "If cx are looking for an engagement ring and don't provide specifics, use LER shortcut"
+        ],
+        "dos_and_don_ts": [
+          "If the customer responds incorrectly to the journey, don't send jny temp, recommend items based on their selection instead",
+          "Cx can create their own engagement ring on the webiste by choosing a setting, stone and size",
+          "Cx can customize rings by working with designers who will use their ideas, drawings, images to create the ring they want",
+          "Don't disclose the locations of their labs/production facilities"
+        ],
+        "drive_to_purchase": [
+          "Be MORE SALESY, if the customer is showing intent to purchase then:",
+          "➜ Ask open-ended general questions such as style & material",
+          "➜ After asking open-ended questions, transition to specific questions such as center stone, etc.",
+          "➜ If the customer liked our recommendation, push for the sale by asking about payment options or when they hope to have the item"
+        ],
+        "promo_and_promo_exclusions": [
+          "Please see here for current offer details: https://www.brilliantearth.com/promo-codes-and-offers/",
+          "Codes can be used in-store"
+        ]
+      },
+      "rightPanel": {
         "source": {
           "label": "Website",
-          "value": "https://us.laneige.com",
+          "value": "https://brilliantearth.com",
+          "date": ""
+        },
+        "orders": [
+          {
+            "orderNumber": "20261607818",
+            "orderDate": "2026-02-01",
+            "items": [
+              {
+                "name": "0.80 Carat Pear Diamond",
+                "price": 2100
+              },
+              {
+                "name": "18K Yellow Gold 1.5mm Petite Elodie Perfect Fit Solitaire Ring",
+                "price": 990
+              }
+            ],
+            "total": 3090,
+            "date_time": "2026-02-01 23:44:15.594"
+          }
+        ]
+      },
+      "escalation_preferences": [
+        "Shipping questions",
+        "Exchanges and returns",
+        "For questions regarding order",
+        "service",
+        "shipping questions on a current order",
+        "post-purchase will go to cssupport@brilliantearth.com",
+        "For product or general inquiry questions",
+        "please contact info@brilliantearth.com"
+      ],
+      "blocklisted_words": [
+        "bestsellers",
+        "sale",
+        "sales",
+        "budget"
+      ],
+      "has_shopify": true
+    },
+    "42": {
+      "id": "019c449e-fb85-4f71-f000-0000fa4e2a2a",
+      "companyName": "Surebonder",
+      "companyWebsite": "https://surebonder.com",
+      "agentName": "Sarah",
+      "messageTone": "Casual",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "Surebonder: Reply Y to subscribe to recurring automated personalized marketing alerts (e.g. cart reminders) from Surebonder.",
+          "message_type": "system",
+          "date_time": "2026-02-09 17:20:34.322"
+        },
+        {
+          "message_media": [],
+          "message_text": "Surebonder: Welcome to Surebonder! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
+          "message_type": "system",
+          "date_time": "2026-02-09 17:20:53.100"
+        },
+        {
+          "message_media": [],
+          "message_text": "Surebonder: Welcome! Your offer is WELCOME10, enter at checkout for 10% off your order.",
+          "message_type": "system",
+          "date_time": "2026-02-09 17:20:57.096"
+        },
+        {
+          "message_media": [],
+          "message_text": "Surebonder: Don't forget to save our contact to get exclusive updates!",
+          "message_type": "system",
+          "date_time": "2026-02-09 17:20:58.081"
+        },
+        {
+          "message_media": [],
+          "message_text": "Surebonder: Hey, this is Sarah. Thanks for checking out Surebonder! https://surebonder.attn.tv/aqaRjPuMc5e6 \n\nAre there any questions I can answer for you?",
+          "message_type": "system",
+          "date_time": "2026-02-09 17:39:12.840"
+        },
+        {
+          "message_media": [],
+          "message_text": "Hi I need to know which glue to use for shells I want to glue around a fireplace surround. I want to make sure the heat from fireplace doesn't melt the glue and the shells drop off which glue should I use?",
+          "message_type": "customer",
+          "date_time": "2026-02-09 17:40:59.861"
+        },
+        {
+          "message_media": [],
+          "message_text": "Surebonder: For a heat-resistant option, consider using our 4588R510 Full Size 10\" Polyamide High Strength Amber Glue Sticks. Check it out here: https://surebonder.attn.tv/aAn2lypoSVfN",
+          "message_type": "agent",
+          "agent": "62551",
+          "message_id": "019c4491-4d6f-4670-f000-0000fa4e2a2a",
+          "date_time": "2026-02-09 17:41:39.206"
+        },
+        {
+          "message_media": [],
+          "message_text": "are you AI or a real sales person?",
+          "message_type": "customer",
+          "date_time": "2026-02-09 17:43:59.858"
+        },
+        {
+          "message_media": [],
+          "message_text": "does this come in clear color?",
+          "message_type": "customer",
+          "date_time": "2026-02-09 17:44:09.881"
+        },
+        {
+          "message_media": [],
+          "message_text": "Surebonder: The 4588R510 glue sticks are amber. For clear options, consider our Clear Stik glue sticks: https://surebonder.attn.tv/aFxc46eSpA8U",
+          "message_type": "agent",
+          "agent": "62551",
+          "message_id": "019c4494-20b9-443b-f000-0000fa4e2a2a",
+          "date_time": "2026-02-09 17:44:44.368"
+        },
+        {
+          "message_media": [],
+          "message_text": "what is the temperature it can with hold without melting off?",
+          "message_type": "customer",
+          "date_time": "2026-02-09 17:45:59.721"
+        },
+        {
+          "message_media": [],
+          "message_text": "Surebonder: The 4588R510 Polyamide Glue Sticks can withstand temperatures up to 300°F, making them suitable for high-temperature applications.",
+          "message_type": "agent",
+          "agent": "62551",
+          "message_id": "019c4495-d37c-4d43-f000-0000fa4e2a2a",
+          "date_time": "2026-02-09 17:46:35.666"
+        },
+        {
+          "message_media": [],
+          "message_text": "okay perfect ty",
+          "message_type": "customer",
+          "date_time": "2026-02-09 17:47:09.920"
+        },
+        {
+          "message_media": [],
+          "message_text": "just to be clear this is the glue that can with stand the temperature up to 300 degrees of heat?",
+          "message_type": "customer",
+          "date_time": "2026-02-09 17:49:49.911"
+        },
+        {
+          "message_media": [],
+          "message_text": "hello",
+          "message_type": "customer",
+          "date_time": "2026-02-09 17:50:50.080"
+        },
+        {
+          "message_media": [],
+          "message_text": "Surebonder: Thanks for asking! Upon checking, I can confirm that the Clear Stik 4\" Full Size All Purpose Hot Glue Sticks can withstand temperatures up to 380°F. \n\nI hope this helps. Please let me know how I can assist you further today, I'm just a text away!",
+          "message_type": "agent",
+          "agent": "109617",
+          "message_id": "019c449e-fb85-4f71-f000-0000fa4e2a2a",
+          "date_time": "2026-02-09 17:56:35.745"
+        }
+      ],
+      "notes": {},
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://surebonder.com",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "Clear Stik 10\" Full Size All Purpose Hot Glue Sticks - 20 Pack",
+            "link": "https://surebonder.com/products/dt-2010-full-size-10-clear-hot-glue-stick-dual-temperature-20-pack?_pos=3&_sid=9e1105c1b&_ss=r",
+            "timeAgo": "2026-02-09"
+          },
+          {
+            "item": "Clear Stik 4\" Full Size All Purpose Hot Glue Sticks - 50 Pack",
+            "link": "https://surebonder.com/products/dt-50-full-size-4-clear-hot-glue-stick-dual-temperature-50-pack?utm_campaign=&utm_medium=sms&utm_source=attentive&externalId=Nru2n",
+            "timeAgo": "2026-02-09"
+          },
+          {
+            "item": "Clear Stik 4\" Full Size All Purpose Hot Glue Sticks - 50 Pack",
+            "link": "https://surebonder.com/products/dt-50-full-size-4-clear-hot-glue-stick-dual-temperature-50-pack?utm_campaign=&utm_medium=sms&utm_source=attentive&externalId=Nru2n",
+            "timeAgo": "2026-02-09"
+          }
+        ]
+      },
+      "escalation_preferences": [
+        "Shipping questions",
+        "Exchanges and returns"
+      ],
+      "blocklisted_words": [],
+      "has_shopify": true
+    },
+    "43": {
+      "id": "019c76ed-8103-4239-f000-0000fb7abc81",
+      "companyName": "PA General Store",
+      "companyWebsite": "https://pageneralstore.com",
+      "agentName": "Sarah",
+      "messageTone": "Polished",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "PA General Store: Welcome to PA General Store! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
+          "message_type": "system",
+          "date_time": "2026-02-14 10:54:16.710"
+        },
+        {
+          "message_media": [],
+          "message_text": "PA General Store: Welcome! Click here to receive your 10% off with coupon code WLCM10, and shop now! \n\nhttps://pgs.attn.tv/aO-pFyG3XLOw",
+          "message_type": "system",
+          "date_time": "2026-02-14 10:54:20.733"
+        },
+        {
+          "message_media": [],
+          "message_text": "PA General Store: Don't miss out: Add us as a contact to your phone to access exclusive content first!",
+          "message_type": "system",
+          "date_time": "2026-02-14 10:54:21.747"
+        },
+        {
+          "message_media": [],
+          "message_text": "PA General Store: Get ready to shamrock and roll! Your fave Irish Potatoes are back! Grab yours before they vanish like a pot of gold! pgs.attn.tv/aQAHg-L7FLjb ",
+          "message_type": "system",
+          "date_time": "2026-02-18 11:10:26.383"
+        },
+        {
+          "message_media": [],
+          "message_text": "PA General Store: Act fast! Your 10% off offer code, WLCM10, is waiting to be used on your next purchase. Don't miss out!\n\nhttps://pgs.attn.tv/a4L8MwmpcOnx",
+          "message_type": "system",
+          "date_time": "2026-02-19 10:54:30.906"
+        },
+        {
+          "message_media": [],
+          "message_text": "PA General Store: Thanks for texting us! If you have additional questions please reach us at customerservice@pageneralstore.com or you can call us at 800-545-4891.",
+          "message_type": "system",
+          "date_time": "2026-02-19 10:55:12.378"
+        },
+        {
+          "message_media": [],
+          "message_text": "Where is my order ",
+          "message_type": "customer",
+          "date_time": "2026-02-19 10:55:17.377"
+        },
+        {
+          "message_media": [],
+          "message_text": "PA General Store: Thank you for your purchase! Could you let me know when you placed your order and if you received any tracking info? Sometimes our emails can end up in your spam or promo folder, so please check there as well! ",
+          "message_type": "agent",
+          "agent": "50271",
+          "message_id": "019c769d-fe6e-4f27-f000-0000fb7abc81",
+          "date_time": "2026-02-19 10:56:31.758"
+        },
+        {
+          "message_media": [],
+          "message_text": "Thank you. The order was placed on 2/14/2026. Never received a tracking number, I checked my credit card and it was charged. The email it was placed under was leo.p.foley@gsk.com.",
+          "message_type": "customer",
+          "date_time": "2026-02-19 11:55:08.614"
+        },
+        {
+          "message_media": [],
+          "message_text": "PA General Store: I appreciate the details! I'm really sorry for the concern this has caused, especially seeing the charge on your card. Did you happen to receive a confirmation email after placing the order on 2/14/2026? Sometimes it can land in your spam or promotions folder, so it's definitely worth a quick check there as well. If you did receive it, could you please share the order number with me? Also, can you let me know if the charge on your card is still pending or if it has fully posted?",
+          "message_type": "agent",
+          "agent": "82221",
+          "message_id": "019c76d5-7ffd-4309-f000-0000fb7abc81",
+          "date_time": "2026-02-19 11:57:09.399"
+        },
+        {
+          "message_media": [],
+          "message_text": "Charge is not pending and I will check with spam. Did you see any order under Leo Foley?",
+          "message_type": "customer",
+          "date_time": "2026-02-19 12:00:48.613"
+        },
+        {
+          "message_media": [],
+          "message_text": "PA General Store: I'm afraid I don't see an order on my end. All orders will ship within 1-3 business days unless you schedule a later date. If you need delivery on a specific date, we recommend using 2 Day or UPS Next Day Air Shipping methods.\n",
+          "message_type": "agent",
+          "agent": "27727",
+          "message_id": "019c76d9-d053-4f7d-f000-0000fb7abc81",
+          "date_time": "2026-02-19 12:01:52.120"
+        },
+        {
+          "message_media": [],
+          "message_text": "Well how do I get a credit on my credit card, if you don't see an order.  I find it odd regardless of how it got shipped an order should at least be seen. I can call with a credit card reference number if you need it.",
+          "message_type": "customer",
+          "date_time": "2026-02-19 12:05:48.173"
+        },
+        {
+          "message_media": [],
+          "message_text": "PA General Store: My sincere apologies for the inconvenience! I'll be more than happy to check this with my team for you. Can I also have your shipping address, please?",
+          "message_type": "agent",
+          "agent": "82427",
+          "message_id": "019c76df-45f9-4c8e-f000-0000fb7abc81",
+          "date_time": "2026-02-19 12:07:49.919"
+        },
+        {
+          "message_media": [],
+          "message_text": "No email was sent any where.",
+          "message_type": "customer",
+          "date_time": "2026-02-19 12:07:52.595"
+        },
+        {
+          "message_media": [],
+          "message_text": "603 west burr oak drive \nArlington Heights , Illinois  60004\nThis is the address and it was sent to Michael McGuigan",
+          "message_type": "customer",
+          "date_time": "2026-02-19 12:18:00.547"
+        },
+        {
+          "message_media": [],
+          "message_text": "Thank you",
+          "message_type": "customer",
+          "date_time": "2026-02-19 12:18:20.639"
+        },
+        {
+          "message_media": [],
+          "message_text": "PA General Store: Thanks for sending that over, and you're welcome! Let me check on this with the team and let you know as soon as I hear back. ",
+          "message_type": "agent",
+          "agent": "50269",
+          "message_id": "019c76ea-0952-4215-f000-0000fb7abc81",
+          "date_time": "2026-02-19 12:19:35.277"
+        },
+        {
+          "message_media": [],
+          "message_text": "Should I call anyone or call my credit card company?",
+          "message_type": "customer",
+          "date_time": "2026-02-19 12:20:50.569"
+        },
+        {
+          "message_media": [],
+          "message_text": "PA General Store: I completely understand your concern. At this point, we're already reviewing this with our team and will update you as soon as we have more information. It's entirely your choice if you'd like to reach out to your credit card company in the meantime, but we'll let you know right away if any action is needed on your end. ",
+          "message_type": "agent",
+          "agent": "109972",
+          "message_id": "019c76ed-8103-4239-f000-0000fb7abc81",
+          "date_time": "2026-02-19 12:23:22.532"
+        }
+      ],
+      "notes": {},
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://pageneralstore.com",
           "date": ""
         }
       },
-      "companyWebsite": "https://us.laneige.com",
+      "escalation_preferences": [
+        "Exchanges and returns",
+        "Shipping questions"
+      ],
+      "blocklisted_words": [],
+      "has_shopify": true
+    },
+    "44": {
+      "id": "019c6908-ed6c-4497-f000-0000fbbb80d3",
+      "companyName": "Newton Baby",
+      "companyWebsite": "https://newtonbaby.com",
+      "agentName": "Sarah",
+      "messageTone": "Polished",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "Newton: Reply Y to subscribe to recurring automated personalized marketing alerts (e.g. cart reminders) from Newton Baby",
+          "message_type": "system",
+          "date_time": "2026-02-16 18:43:01.170"
+        },
+        {
+          "message_media": [],
+          "message_text": "Newton: Welcome! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel. Privacy: https://newton.attn.tv/cl/h2A",
+          "message_type": "system",
+          "date_time": "2026-02-16 18:43:19.591"
+        },
+        {
+          "message_media": [],
+          "message_text": "Newton: Welcome! Take 20% OFF during our New Baby Event! Tap to automatically apply your discount: newton.attn.tv/aKcECsmgK0PV\n\n*Exclusions Apply. Ends 2/17.",
+          "message_type": "system",
+          "date_time": "2026-02-16 18:43:24.148"
+        },
+        {
+          "message_media": [],
+          "message_text": "Newton: 🛒 Don't snooze on this! Your cart is waiting. Get 20% OFF with code BABY20* before it's gone.\n\n👉 Checkout now: newton.attn.tv/aZo_owkXTdH- \n\n*Exclusions Apply. Ends 2/17.",
+          "message_type": "system",
+          "date_time": "2026-02-16 19:17:00.102"
+        },
+        {
+          "message_media": [],
+          "message_text": "I need it delivered by 02-19",
+          "message_type": "customer",
+          "date_time": "2026-02-16 19:17:51.647"
+        },
+        {
+          "message_media": [],
+          "message_text": "Newton: Thanks for reaching out! Unfortunately, I don't see any active orders on my end. Could you please check if you received a confirmation email or if there's a charge on your account? Sometimes the email might arrive in your spam or promo folder, so be sure to take a look there too! \n\nAlso, please note that all Newton products have a processing time of 1-3 business days. Our partner products like cribs, dressers, and Figgy products can take up to 5 days before shipping out.\n\nPlease let me know how I can assist you further today, I'm just a text away!",
+          "message_type": "agent",
+          "agent": "109617",
+          "message_id": "019c68f7-6da9-40b4-f000-0000fbbb80d3",
+          "date_time": "2026-02-16 19:19:31.917"
+        },
+        {
+          "message_media": [],
+          "message_text": "I need one of your mattresses by Thursday.",
+          "message_type": "customer",
+          "date_time": "2026-02-16 19:34:48.182"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"Shipping time\"; last updated: 2023-10-02 22:08:04.754",
+          "message_type": "template",
+          "date_time": "2026-02-16 19:38:38.722"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"Can I order now and have you hold the items for a future delivery date?\"; last updated: 2023-10-02 21:55:47.180",
+          "message_type": "template",
+          "date_time": "2026-02-16 19:38:38.722"
+        },
+        {
+          "message_media": [],
+          "message_text": "Newton: Got it. However, all Newton products have a processing time of 1-3 business days. Our partner products like cribs, dressers, and Figgy products can take up to 5 days before shipping out. Once the order is placed, we will ship the items in approximately 1-2 business days, after its available ship date. Orders will arrive in 4-12 business days once they are shipped. Hope this helps.\n",
+          "message_type": "agent",
+          "agent": "109630",
+          "message_id": "019c6908-ed6c-4497-f000-0000fbbb80d3",
+          "date_time": "2026-02-16 19:38:38.725"
+        }
+      ],
+      "notes": {
+        "send_to_cs": [
+          "Send to CS for post purchase issues, use PPI shortcut"
+        ],
+        "promo_and_promo_exclusions": [
+          "Only one code can be used per order. Multiple orders will need to be placed to optimize multiple offers",
+          "Do NOT offer codes during sales and promotions!",
+          "When sending a discount code to the customer - always add \"the code is valid on orders over XX. Exclusions may apply\""
+        ]
+      },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://newtonbaby.com",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "Crib Mattress - Standard / White",
+            "link": "https://www.newtonbaby.com/products/newton-crib-mattress",
+            "timeAgo": "2026-02-16"
+          },
+          {
+            "item": "Crib Mattress - Standard / White",
+            "link": "https://www.newtonbaby.com/products/newton-crib-mattress?blpromo=Sleeping25",
+            "timeAgo": "2026-02-16"
+          },
+          {
+            "item": "Crib Mattress - Standard / White",
+            "link": "https://www.newtonbaby.com/products/newton-crib-mattress?blpromo=Sleeping25",
+            "timeAgo": "2026-02-16"
+          },
+          {
+            "item": "Waterproof Crib Mattress - Standard / White",
+            "link": "https://www.newtonbaby.com/products/newton-crib-mattress",
+            "timeAgo": "2026-02-16"
+          },
+          {
+            "item": "Waterproof Crib Mattress - Standard / White",
+            "link": "https://www.newtonbaby.com/products/newton-crib-mattress",
+            "timeAgo": "2026-02-16"
+          }
+        ]
+      },
+      "escalation_preferences": [
+        "Discount code errors",
+        "Discount adjustments to orders",
+        "please see template provided"
+      ],
+      "blocklisted_words": [],
+      "has_shopify": true
+    },
+    "45": {
+      "id": "019c48d4-aa5b-40f0-f000-0000a1c7c72f",
       "companyName": "LANEIGE",
+      "companyWebsite": "https://us.laneige.com",
+      "agentName": "Taylor",
+      "messageTone": "Casual",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "LANEIGE: Get a cute blue Laneige tumbler FREE when you buy Water Bank Aqua Facial. Ends 1/21. SHOP NOW: laneige.attn.tv/aKOC19DVzJAR .",
+          "message_type": "system",
+          "date_time": "2026-01-12 12:31:21.159"
+        },
+        {
+          "message_media": [],
+          "message_text": "LANEIGE: Strawberry Shortcake lip mask & classic mini lip balms! Get the best of both worlds for AM to PM lip care.\nSHOP NOW: laneige.attn.tv/aivuVEoUYygM .",
+          "message_type": "system",
+          "date_time": "2026-01-13 13:06:37.870"
+        },
+        {
+          "message_media": [],
+          "message_text": "LANEIGE: Hey Tonia, this is Taylor. Thanks for checking out our site! https://laneige.attn.tv/aQKglcJF7pwZ .\n\nDid you have questions about this fan fave product? Let me know and I can help answer.",
+          "message_type": "system",
+          "date_time": "2026-01-13 14:07:08.758"
+        },
+        {
+          "message_media": [],
+          "message_text": "LANEIGE: Our Tropical Lip Glowy Balm Vault is here! Get 30% OFF all your fave fruity scents in one set.\nSHOP NOW: laneige.attn.tv/a935Do8ZagIx. ",
+          "message_type": "system",
+          "date_time": "2026-01-15 15:10:45.954"
+        },
+        {
+          "message_media": [],
+          "message_text": "LANEIGE: Soothing, nourishing skincare essentials, FREE on orders $60+ and $90+.\nSHOP NOW: laneige.attn.tv/a7-nxzmTNdAV .",
+          "message_type": "system",
+          "date_time": "2026-01-17 23:00:30.161"
+        },
+        {
+          "message_media": [],
+          "message_text": "LANEIGE: Almost gone! FREE Laneige headband with orders $55+ with code DEWY.\nSIGN IN TO REDEEM: laneige.attn.tv/avfCTp7Va41N .",
+          "message_type": "system",
+          "date_time": "2026-01-23 12:30:50.875"
+        },
+        {
+          "message_media": [],
+          "message_text": "LANEIGE: Lasting color. Moisture on repeat. 8 buildable, music-inspired shades. \nSHOP NOW: laneige.attn.tv/a9yfxn2azs5N .\n",
+          "message_type": "system",
+          "date_time": "2026-01-27 11:05:59.879"
+        },
+        {
+          "message_media": [],
+          "message_text": "LANEIGE: Turn up the tint with Katseye! JuicePop Box Lip Tint x Katseye - our most eyekonic collab yet.\nSHOP NOW: laneige.attn.tv/ax8QeuGiFxQL .",
+          "message_type": "system",
+          "date_time": "2026-01-30 12:11:54.673"
+        },
+        {
+          "message_media": [],
+          "message_text": "LANEIGE: Hey Tonia, this is Taylor. Thanks for checking out our site! https://laneige.attn.tv/a6t2Ohf4LDyI .\n\nDid you have questions about this fan fave product? Let me know and I can help answer.",
+          "message_type": "system",
+          "date_time": "2026-01-31 08:19:59.988"
+        },
+        {
+          "message_media": [],
+          "message_text": "LANEIGE: Get our K-beauty duo for blurred skin & glassy lips, perfect for touch-ups wherever you go! \nSHOP NOW: laneige.attn.tv/avxSINbp5Tox .",
+          "message_type": "system",
+          "date_time": "2026-02-03 13:06:30.995"
+        },
+        {
+          "message_media": [],
+          "message_text": "LANEIGE: Your perfect 2-step routine for hydrated glass skin!\nSHOP NOW: laneige.attn.tv/aZZAwlHb16NY .",
+          "message_type": "system",
+          "date_time": "2026-02-05 12:01:36.618"
+        },
+        {
+          "message_media": [],
+          "message_text": "LANEIGE: Build your custom lip duo! Pick 2 products, save 20% and score a bonus pink pouch.\nSHOP NOW: laneige.attn.tv/aA-Mk0sUXoqA ",
+          "message_type": "system",
+          "date_time": "2026-02-07 14:01:56.864"
+        },
+        {
+          "message_media": [],
+          "message_text": "LANEIGE: FREE Lunar New Year gift! Choose your serum with orders $100+. \nSHOP NOW: laneige.attn.tv/av8AG58mYVLM .",
+          "message_type": "system",
+          "date_time": "2026-02-10 13:02:44.728"
+        },
+        {
+          "message_media": [],
+          "message_text": "LANEIGE: Hey Tonia, this is Taylor. Thanks for checking out our site! https://laneige.attn.tv/aXrUo7MZQoJR .\n\nDid you have questions about this fan fave product? Let me know and I can help answer.",
+          "message_type": "system",
+          "date_time": "2026-02-10 13:11:18.695"
+        },
+        {
+          "message_media": [],
+          "message_text": "When trying to select the free lunar new year serum, my total goes from $117 to $156. If the item is free, where is the additional charge coming from?",
+          "message_type": "customer",
+          "date_time": "2026-02-10 13:28:07.364"
+        },
+        {
+          "message_media": [],
+          "message_text": "For the perfect renew 3x signature serum",
+          "message_type": "customer",
+          "date_time": "2026-02-10 13:29:47.126"
+        },
+        {
+          "message_media": [],
+          "message_text": "LANEIGE: Thank you for reaching out, and I'm sorry to hear that! Can you please send me a screenshot of the other item(s) in your cart? I'll be happy to look into this for you!",
+          "message_type": "agent",
+          "agent": "87295",
+          "message_id": "019c48d4-aa5b-40f0-f000-0000a1c7c72f",
+          "date_time": "2026-02-10 13:33:42.768"
+        }
+      ],
       "notes": {
         "send_to_cs": [
           "Send to CS for any order related inquiries"
         ],
-        "promo_and_exclusions": [
+        "promo_and_promo_exclusions": [
           "Free gift with purchase codes are entered in the cart and discount codes at checkout"
         ]
       },
-      "blocklisted_words": [
-        
-      ],
-      "escalation_preferences": [
-        
-      ],
-      "messageTone": "Casual",
-      "conversation": [
-        {
-          "message_type": "system",
-          "message_text": "LANEIGE: Get a cute blue Laneige tumbler FREE when you buy Water Bank Aqua Facial. Ends 1/21. SHOP NOW: laneige.attn.tv/aL1dzBtlG1k2 .",
-          "date_time": "2026-01-12 12:31:10.292",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "LANEIGE: See something you like? Get your Water Bank Aqua Facialbefore you forget!\n laneige.attn.tv/aVZt27vI9yu9 .",
-          "date_time": "2026-01-13 12:42:22.909",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "LANEIGE: It looks like you forgot Water Bank Blue Hyaluronic Cream Moisturizer in your cart...complete your checkout today: laneige.attn.tv/aC1xj9nF8JRZ",
-          "date_time": "2026-01-15 12:30:36.716",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "LANEIGE: Amazing news! That Retinol Firming Cream Treatment you were looking at is now back in stock! Click here before it\u0027s too late! laneige.attn.tv/aS6qVFtKmqtg .",
-          "date_time": "2026-01-16 12:32:40.471",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "LANEIGE: Reminder! Get that Retinol Firming Cream Treatment while supplies last! Click here to checkout: laneige.attn.tv/abGBSKcFLxeK .",
-          "date_time": "2026-01-17 12:32:56.452",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "LANEIGE: Hey Ashley, this is Taylor. Thanks for checking out our site! https://laneige.attn.tv/ad9OaJmYPxgA .\n\nDid you have questions about this fan fave product? Let me know and I can help answer.",
-          "date_time": "2026-01-17 18:43:31.627",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "LANEIGE: Soothing, nourishing skincare essentials, FREE on orders $60+ and $90+.\nSHOP NOW: laneige.attn.tv/a-0ENPV8-8-I .",
-          "date_time": "2026-01-18 15:00:25.104",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "LANEIGE: It looks like you forgot some goodies in your cart...complete your checkout today: laneige.attn.tv/a8pUmndm7YzX\n\nText back if you have any questions!",
-          "date_time": "2026-01-20 17:38:00.129",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "LANEIGE: Almost gone! FREE Laneige headband with orders $55+ with code DEWY.\nSIGN IN TO REDEEM: laneige.attn.tv/aTAWJfyndE22 .",
-          "date_time": "2026-01-23 12:30:40.787",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "LANEIGE: Hey Ashley, this is Taylor. Thanks for checking out our site! https://laneige.attn.tv/as7trFcytYWw .\n\nDid you have questions about this fan fave product? Let me know and I can help answer.",
-          "date_time": "2026-01-25 12:31:50.066",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "LANEIGE: Lasting color. Moisture on repeat. 8 buildable, music-inspired shades. \nSHOP NOW: laneige.attn.tv/aU5UhYaDYUTK .\n",
-          "date_time": "2026-01-27 11:05:34.704",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "LANEIGE: It looks like you forgot some goodies in your cart...complete your checkout today: laneige.attn.tv/a2vQRlLWajv3\n\nText back if you have any questions!",
-          "date_time": "2026-01-28 12:30:42.186",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "LANEIGE: Turn up the tint with Katseye! JuicePop Box Lip Tint x Katseye - our most eyekonic collab yet.\nSHOP NOW: laneige.attn.tv/aA7LWgy-Czvr .",
-          "date_time": "2026-01-30 12:10:42.654",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "LANEIGE: It looks like you forgot JuicePop Box Lip Tint in your cart...complete your checkout today: laneige.attn.tv/aUU-3RJRfe_I",
-          "date_time": "2026-02-03 12:37:13.795",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "LANEIGE: Hey Ashley, your cart\u0027s waiting! Last chance to complete your purchase. Shop now: laneige.attn.tv/aQK2_-RVvDrd . Text back with any questions!",
-          "date_time": "2026-02-04 13:45:18.589",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "LANEIGE: Your perfect 2-step routine for hydrated glass skin!\nSHOP NOW: laneige.attn.tv/auOwN1pNEErL .",
-          "date_time": "2026-02-05 12:01:41.508",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "LANEIGE: Build your custom lip duo! Pick 2 products, save 20% and score a bonus pink pouch.\nSHOP NOW: laneige.attn.tv/asMmyWHyowZD ",
-          "date_time": "2026-02-07 14:01:10.983",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "LANEIGE: It looks like you forgot Cream Skin Toner \u0026 Moisturizer in your cart...complete your checkout today: laneige.attn.tv/afARfovL_rZG",
-          "date_time": "2026-02-09 12:05:29.285",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "LANEIGE: Hey Ashley, this is Taylor. Thanks for checking out our site! https://laneige.attn.tv/asSeBgBkJ9Yc .\n\nDid you have questions about this fan fave product? Let me know and I can help answer.",
-          "date_time": "2026-02-10 12:36:16.409",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "(attn) Hey, I need help with something: I noticed on my recent order that there is the the berry lip mask but it offer said it would be the bouncy and firm lip mask.",
-          "date_time": "2026-02-10 15:59:53.940",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "Order 301147821A",
-          "date_time": "2026-02-10 16:00:44.026",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "template",
-          "message_text": "Template used: \"Customer support\"; last updated: 2023-12-04 22:29:44.433",
-          "date_time": "2026-02-10 16:04:08.402",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c495e-62b1-4a30-f000-0000eef8ab51",
-          "message_text": "LANEIGE: Thanks for getting in touch! I\u0027m really sorry for the inconvenience. We\u0027re happy to help answer any questions about our products! For any questions about your order, please contact our customer service team at: laneige@apus.amorepacific.com. Due to a high volume of inquiries, our team will get back to you within 72 hours. ",
-          "message_type": "agent",
-          "agent": "109840",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-10 16:04:08.404"
-        }
-      ]
-    },
-    "42": {
-      "agentName": "Sam",
-      "id": "019c77af-dcb8-4dc4-f000-0000f12ff0eb",
       "rightPanel": {
         "source": {
           "label": "Website",
-          "value": "https://oralb.com",
+          "value": "https://us.laneige.com",
           "date": ""
-        }
-      },
-      "companyWebsite": "https://oralb.com",
-      "companyName": "Oral-B and Crest",
-      "notes": {
-        "important": [
-          "When sending a link, if you see a \"/\" at the end of the URL, remove it"
-        ],
-        "send_to_cs": [
-          "Send to CS for damaged items that aren\u0027t available on the website"
-        ],
-        "escalate": [
-          "ESC immediately if the order is delivered, but cx did not receive it",
-          "ESC if cx wants to use an expired code",
-          "ESC sales end date questions",
-          "ESC invalid codes / expired code issues",
-          "Before ESC for retroactive discount requests, check if the item is on sale or if they met the minimum",
-          "Don\u0027t make suggestions of replacements - if unsure, ESC",
-          "ESC false advertising complaints",
-          "ESC if cx state they regret placing the order after the CANCEL/ORDER temp has been sent",
-          "Before ESC products not functioning properly",
-          "→ Inquire what exact brush/product they have",
-          "→ Provide any user guides available",
-          "Don\u0027t ask for the cx\u0027s shipping address as secondary info, include their phone number instead"
-        ],
-        "tone": [
-          "Keep messages shorter and more direct",
-          "Don\u0027t use the term \"cart tracking\", or let cxs know we can see what they have in their cart"
-        ],
-        "templates": [
-          "If the cx asks where there order is, and it\u0027s a confirmed order within the standard processing and shipping time, only share the \"Order status/order tracking\" temp",
-          "If the cx reaches out saying they\u0027re having issue with their code, first use CWW temp",
-          "If cx needs assistance with brush function/operations use FOQ shortcut",
-          "For product complaints/bad experiences use PBE shortcut",
-          "If cx says they\u0027re dentists/hygienists \u0026 want to shop use RDH shortcut",
-          "If cx is a short amount away from reaching the $100 threshold for the welcome discount to apply use SRT shortcut",
-          "If cx ask why their order was canceled, use MOC shortcut",
-          "If cx purchased from their dentist and looking for rebate ($30, $20, $10 back) use RBT shortcut",
-          "For post-purchase issues with Amazon orders, use PS shortcut",
-          "For post-purchase issues where cxs are dental professionals, dentists, hygienists, use DPS shortcut"
-        ],
-        "dos_and_donts": [
-          "If customers are looking for brush heads always confirm what type of brush they have, iO or non iO",
-          "If you can\u0027t find the products on the website, refer to this one https://crest.com/en-us",
-          "Hold to policy and do not offer to check if deviation from policy is acceptable",
-          "If customers ask about the warranty registration code OR say it\u0027s not accepting theirs (they might refer to it as a promo code for registration)- send them this one OB59185 (it\u0027s always the same)"
-        ],
-        "drive_to_purchase": [
-          "For general recommendations use CFR shortcut",
-          "Always refer cxs to iO series products, when possible"
-        ],
-        "promo_and_exclusions": [
-          "The $85 welcome promo code isn\u0027t for % off, once applied a free item is added to the cart",
-          "Please check the last letters of a code to determine when they were sent",
-          "→ I.e. WCOBDC means it is a December code (DC) and will likely expire in Jan",
-          "Discount codes do not work on Amazon",
-          "If cx is looking for a discount on replacement brush heads, encourage to subscribe for savings on the product page"
-        ]
-      },
-      "blocklisted_words": [
-        "seems",
-        "shoot",
-        "worries"
-      ],
-      "escalation_preferences": [
-        "All product complaints or bad experiences with a product"
-      ],
-      "messageTone": "Polished",
-      "conversation": [
-        {
-          "message_type": "system",
-          "message_text": "Oral-B: Resolution Check-In! Keep up with your smile goals with a partner and save $50 on the Genius X Twin Pack! oral-b.attn.tv/aNyA19knGGut ",
-          "date_time": "2026-01-24 17:04:10.167",
-          "message_media": [
-            
-          ]
         },
-        {
-          "message_type": "system",
-          "message_text": "Oral-B: Valentine\u0027s Day is Closer Than You Think - You Ready? Make the first move with $50 Off the Oral-B + Crest iO Whitening Bundle: oral-b.attn.tv/aKt063bWu6qe ",
-          "date_time": "2026-01-26 17:09:09.350",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Oral-B: Save on 2X the Clean and Share! Get the Smart Clean 360 Twin Pack for $20 off while supplies last: oral-b.attn.tv/aF79LX6ZLjy2 ",
-          "date_time": "2026-01-28 18:04:07.072",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Oral-B: Brighten Up No Matter When Spring Starts! Get the Oral-B + Crest iO Whitening Bundle for $50 off now: oral-b.attn.tv/a7gzyI1-CzFZ ",
-          "date_time": "2026-02-02 16:07:04.281",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Oral-B: Save $10 on the Oral-B Family Pack during Kids Dental Health Month. Get your iO2 and kids electric toothbrush bundle today! oral-b.attn.tv/aZenjLkwe8Wy",
-          "date_time": "2026-02-05 15:11:07.168",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Oral-B: 🏈 Become an Oral-B Champion with the iO4 Gum Care Bundle \u0026 Score $25 Savings: oral-b.attn.tv/aRvYaZGVoptB ",
-          "date_time": "2026-02-08 15:30:58.673",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Oral-B: Show \u0027em How It\u0027s Done! The NEW Family Pack has everything you need to keep a healthy smile on you and your little one: oral-b.attn.tv/aqJO3f5kXrlY ",
-          "date_time": "2026-02-12 16:02:11.428",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Oral-B: Valentine\u0027s Day Sale: Love your gums with the iO4 Gum Care Bundle - Now $25 off: oral-b.attn.tv/aDKU2zL731fz ",
-          "date_time": "2026-02-14 20:15:06.109",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Oral-B: A White House Worthy Upgrade to Your Routine! Save $15 on the iO Series 2 and Get a Free Gift! oral-b.attn.tv/aYU68JTsDD8s ",
-          "date_time": "2026-02-16 14:04:06.947",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Oral-B: A Brushing Favorite - On Sale Now: Save $30 on the Genius 7500 while supplies last. oral-b.attn.tv/aRuVIRxTjaR9 ",
-          "date_time": "2026-02-19 15:20:27.095",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "Ok",
-          "date_time": "2026-02-19 15:42:59.341",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c77af-dcb8-4dc4-f000-0000f12ff0eb",
-          "message_text": "Oral-B: Great! Please don\u0027t hesitate to reach out if you have any questions. I\u0027m happy to help.",
-          "message_type": "agent",
-          "agent": "109968",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-19 15:55:39.988"
-        }
-      ]
-    },
-    "43": {
-      "agentName": "Sarah",
-      "id": "019c4fca-c498-4137-f000-0000fa95e86c",
-      "rightPanel": {
-        "source": {
-          "label": "Website",
-          "value": "https://covercraft.com",
-          "date": ""
-        }
-      },
-      "companyWebsite": "https://covercraft.com",
-      "companyName": "Covercraft",
-      "notes": {
-        "templates": [
-          "For custom full vehicle covers use FVC shortcut",
-          "For cx that can\u0027t see the cover pattern/images of their vehicle use CPI shortcut",
-          "If we don\u0027t have a pattern/color the cx is looking for use PRR shortcut"
-        ],
-        "dos_and_donts": [
-          "Do not tell customers that the base price is the final price! The cost changes by the fitment and depends on the vehicle",
-          "Rebates are discounts for this brand!",
-          "Custom dim pattern sheets are only available for Vehicle Covers (Car, Truck, Van,RV)",
-          "➜https://www.covercraft.com/us/en/covercrafter"
-        ],
-        "drive_to_purchase": [
-          "Before sharing any product links, confirm the vehicle’s Year, Make, and Model"
-        ]
-      },
-      "blocklisted_words": [
-        
-      ],
-      "escalation_preferences": [
-        "Discount code errors"
-      ],
-      "messageTone": "Casual",
-      "conversation": [
-        {
-          "message_type": "system",
-          "message_text": "Covercraft: Welcome to Covercraft! Msg \u0026 data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
-          "date_time": "2026-02-11 20:09:00.381",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Covercraft: Enjoy $10 Off with code SAVE10. Find Your Custom Cover Today!\n\nView Active Deals: https://covercraft.attn.tv/ait7aeIg7ttI ",
-          "date_time": "2026-02-11 20:09:03.411",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Covercraft: Hi there! Need any help? Send us a text, or give us a call at 1-800-274-7006\nMon - Fri 9AM - 9PM EST. https://covercraft.attn.tv/a3B_ygNJU1Cy - Sarah ",
-          "date_time": "2026-02-11 21:09:10.620",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "I need a bra for a 2016 gmc acadia slt",
-          "date_time": "2026-02-11 21:10:35.097",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c4fca-c498-4137-f000-0000fa95e86c",
-          "message_text": "Covercraft: Hi, thanks for reaching out. Are you referring to front-end covers? If so, you can browse options for your vehicle here: https://covercraft.attn.tv/a140F4CfTkTs",
-          "message_type": "agent",
-          "agent": "109630",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-11 22:00:14.650"
-        }
-      ]
-    },
-    "44": {
-      "agentName": "Jordan",
-      "id": "019c7361-1642-45b0-f000-0000dd517e2a",
-      "rightPanel": {
-        "browsingHistory": [
+        "orders": [
           {
-            "link": "https://www.cardboardcutoutstandees.com/big-head-product.html?utm_campaign=browse-abandoner-email3\u0026utm_medium=email\u0026utm_source=attentive\u0026externalId=KYxNZ\u0026attn_macro=dHJpZ2dlckV2ZW50LnByb2R1Y3QubGluaw%3D%3D\u0026attn_pos=1",
-            "item": "Create your Big Head",
-            "timeAgo": "2026-02-19"
+            "orderNumber": "771672",
+            "orderDate": "2025-02-26",
+            "items": [
+              {
+                "name": "Bouncy & Firm Sleeping Mask",
+                "price": 36,
+                "productLink": "https://apus-laneige.myshopify.com/products/bouncy-firm-sleeping-mask"
+              },
+              {
+                "name": "Water Bank Blue HA Serum (10mL)",
+                "price": 0,
+                "productLink": "https://apus-laneige.myshopify.com/products/water-bank-blue-ha-serum-10ml"
+              }
+            ],
+            "link": "https://us.laneige.com/25501892660/orders/8a56b528760ed1741e14f8b922708aaa/authenticate?key=9eca6c2e52d68c690457f98994890164",
+            "trackingLink": "https://www.ups.com/WebTracking?loc=en_US&requester=ST&trackNums=1Z5570R50341601206",
+            "order_tracking_link": "https://www.ups.com/WebTracking?loc=en_US&requester=ST&trackNums=1Z5570R50341601206",
+            "total": 57.67,
+            "date_time": "2025-02-26 03:32:45.463"
           },
           {
-            "link": "https://www.cardboardcutoutstandees.com/big-head-product.html",
-            "item": "Create your Big Head",
-            "timeAgo": "2026-02-19"
+            "orderNumber": "771672",
+            "orderDate": "2025-02-26",
+            "items": [
+              {
+                "name": "Bouncy & Firm Lip Treatment (2g)",
+                "price": 0,
+                "productLink": "https://apus-laneige.myshopify.com/products/bouncy-firm-lip-treatment-2g"
+              }
+            ],
+            "link": "https://us.laneige.com/25501892660/orders/8a56b528760ed1741e14f8b922708aaa/authenticate?key=9eca6c2e52d68c690457f98994890164",
+            "trackingLink": "https://www.ups.com/WebTracking?loc=en_US&requester=ST&trackNums=1Z5570R50341601206",
+            "order_tracking_link": "https://www.ups.com/WebTracking?loc=en_US&requester=ST&trackNums=1Z5570R50341601206",
+            "total": 57.67,
+            "date_time": "2025-02-26 03:32:45.462"
           },
           {
-            "link": "https://www.cardboardcutoutstandees.com/big-head-product.html",
-            "item": "Create your Big Head",
-            "timeAgo": "2026-02-19"
+            "orderNumber": "771672",
+            "orderDate": "2025-02-26",
+            "items": [
+              {
+                "name": "Bouncy & Firm Eye Sleeping Mask (2mL)",
+                "price": 0,
+                "productLink": "https://apus-laneige.myshopify.com/products/bouncy-firm-eye-sleeping-mask-2ml"
+              },
+              {
+                "name": "Bouncy & Firm Eye Sleeping Mask",
+                "price": 32,
+                "productLink": "https://apus-laneige.myshopify.com/products/bouncy-firm-eye-sleeping-mask"
+              }
+            ],
+            "link": "https://us.laneige.com/25501892660/orders/8a56b528760ed1741e14f8b922708aaa/authenticate?key=9eca6c2e52d68c690457f98994890164",
+            "trackingLink": "https://www.ups.com/WebTracking?loc=en_US&requester=ST&trackNums=1Z5570R50341601206",
+            "order_tracking_link": "https://www.ups.com/WebTracking?loc=en_US&requester=ST&trackNums=1Z5570R50341601206",
+            "total": 57.67,
+            "date_time": "2025-02-26 03:32:45.461"
           },
           {
-            "link": "https://www.cardboardcutoutstandees.com/create-your-big-head-multi-.html",
-            "item": "Create your Team\u0026#039;s Big Heads",
-            "timeAgo": "2026-02-15"
-          },
-          {
-            "link": "https://www.cardboardcutoutstandees.com/big-head-product.html",
-            "item": "Create your Big Head",
-            "timeAgo": "2026-02-15"
+            "orderNumber": "771672",
+            "orderDate": "2025-02-26",
+            "items": [
+              {
+                "name": "Water Bank HA Cream Moisturizer (10mL)",
+                "price": 0,
+                "productLink": "https://apus-laneige.myshopify.com/products/water-bank-ha-cream-moisturizer-ad-10ml"
+              },
+              {
+                "name": "Bouncy & Firm Sleeping Mask (2mL)",
+                "price": 0,
+                "productLink": "https://apus-laneige.myshopify.com/products/bouncy-firm-sleeping-mask-2ml"
+              }
+            ],
+            "link": "https://us.laneige.com/25501892660/orders/8a56b528760ed1741e14f8b922708aaa/authenticate?key=9eca6c2e52d68c690457f98994890164",
+            "trackingLink": "https://www.ups.com/WebTracking?loc=en_US&requester=ST&trackNums=1Z5570R50341601206",
+            "order_tracking_link": "https://www.ups.com/WebTracking?loc=en_US&requester=ST&trackNums=1Z5570R50341601206",
+            "total": 57.67,
+            "date_time": "2025-02-26 03:32:45.458"
           }
-        ],
-        "source": {
-          "label": "Website",
-          "value": "https://cardboardcutoutstandees.com",
-          "date": ""
-        }
-      },
-      "companyWebsite": "https://cardboardcutoutstandees.com",
-      "companyName": "Cardboard Cut Out Standees",
-      "notes": {
-        "escalate": [
-          "No CS for this client, ESC everything",
-          "When ESC post-purchase issues, only ask for the order number",
-          "If a customer wants to talk to customer service do not send PS, ESC instead",
-          "When ESC on weekends, use WKD shortcut before you ESC",
-          "When ESC on weekDAYS after 4pm EST, use WKE shortcut before you ESC"
-        ],
-        "tone": [
-          "Close the convo once the client takes over",
-          "Close the convo when customers misanswer the Welcome journey q\u0027s"
-        ],
-        "templates": [
-          "If cx are trying to upload a photo on the website and it\u0027s not coming through, use PWU shortcut",
-          "If cx are inquiring about delivery dates, use GRN shortcut",
-          "If cx share image/screenshot that\u0027s not showing don\u0027t ask to send again, use IMG shortcut"
-        ],
-        "dos_and_donts": [
-          "Prices vary, depending on height, not width",
-          "Don\u0027t mention possible shipping delays",
-          "Don\u0027t ask for screenshots",
-          "Wet Paint T shirts Inc is a different company"
-        ],
-        "drive_to_purchase": [
-          "Don\u0027t recommend and share links for add-ons to cx"
-        ],
-        "promo_and_exclusions": [
-          "Contact us for help with fundraisers. Grad yard signs are only sold through fundraisers"
         ]
       },
-      "blocklisted_words": [
-        
-      ],
-      "escalation_preferences": [
-        "Exchanges and returns",
-        "Issues with Orders"
-      ],
-      "messageTone": "Polished",
-      "conversation": [
-        {
-          "message_type": "system",
-          "message_text": "Cardboard Cutout Standees: Hi this is Jordan. I noticed your checking out the site. Use the code STAN15-XR4 to take 15% off your order. cardboard.attn.tv/azLtlEVQU9vB \n\nLet me know if you need any assistance. I am here to help!",
-          "date_time": "2026-02-09 14:37:04.699",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Cardboard Cutout Standees: Celebrate birthdays in BIG ways all through 2026! Custom BigHeads and Standees turn any birthday celebration into an unforgettable event. Don\u0027t forget to use code BHM10 to save 10% and we\u0027ll donate 10% to the Page Education Foundation for Black History Month! cardboard.attn.tv/a1xw6D0CybrN \n\nText back if you have any questions!",
-          "date_time": "2026-02-13 12:07:09.111",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Cardboard Cutout Standees: Hi this is Jordan. I am happy to see you coming back to the site! Let me know if there is anything I can assist with. cardboard.attn.tv/a_pdLi_Licby \n\nI am always here to help! Just shoot me a text.",
-          "date_time": "2026-02-18 19:46:25.898",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "Is there any chance if I place an order right now for 2 heads on a stick I would be able to get them tomorrow?",
-          "date_time": "2026-02-18 19:48:59.973",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "I thought I added them to the order I placed but I must not have",
-          "date_time": "2026-02-18 19:49:59.588",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "template",
-          "message_text": "Template used: \"Shipping time\"; last updated: 2026-02-19 14:52:44.514",
-          "date_time": "2026-02-18 19:51:08.508",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c7361-1642-45b0-f000-0000dd517e2a",
-          "message_text": "Cardboard Cutout Standees: Thank you for getting back to me and providing that information! We usually ship via UPS and orders placed by 10am on a business day will leave our facility the following business day. We have multiple shipping options available at checkout that can deliver orders in as quickly as 1 business day, check them out here: https://cardboard.attn.tv/aByRlGc5fNN2",
-          "message_type": "agent",
-          "agent": "109840",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-18 19:51:08.511"
-        }
-      ]
-    },
-    "45": {
-      "agentName": "Annie",
-      "id": "019c496d-f8f1-4f9b-f000-0000f5237a71",
-      "rightPanel": {
-        "browsingHistory": [
-          {
-            "link": "https://www.wolford.com/en-us/tulle-control-panty-high-waist-69955.7005.html",
-            "item": "Tulle Control Panty High Waist",
-            "timeAgo": "2026-02-10"
-          },
-          {
-            "link": "https://www.wolford.com/en-us/3w-control-panty-high-waist-69832.4752.38.html",
-            "item": "3W Control Panty High Waist",
-            "timeAgo": "2026-02-10"
-          },
-          {
-            "link": "https://www.wolford.com/en-us/mosaic-net-tights-19460.1300.M.html",
-            "item": "Mosaic Net Tights",
-            "timeAgo": "2026-02-08"
-          },
-          {
-            "link": "https://www.wolford.com/en-us/merino-blend-tights-11335.7005.M.html",
-            "item": "Merino Blend Tights",
-            "timeAgo": "2026-02-08"
-          },
-          {
-            "link": "https://www.wolford.com/en-us/snake-net-tights-19456.4850.M.html",
-            "item": "Snake Net Tights",
-            "timeAgo": "2026-02-08"
-          }
-        ],
-        "source": {
-          "label": "Website",
-          "value": "https://wolford.com/",
-          "date": ""
-        }
-      },
-      "companyWebsite": "https://wolford.com/",
-      "companyName": "Wolford",
-      "notes": {
-        "tone": [
-          "Avoid slang"
-        ],
-        "drive_to_purchase": [
-          "When suggesting something, add the name of the product next to the link"
-        ],
-        "promo_and_exclusions": [
-          "Don\u0027t share the code SMS20"
-        ]
-      },
-      "blocklisted_words": [
-        
-      ],
-      "escalation_preferences": [
-        
-      ],
-      "messageTone": "Polished",
-      "conversation": [
-        {
-          "message_type": "system",
-          "message_text": "Wolford: Reply Y to subscribe to recurring automated personalized marketing alerts (e.g. cart reminders) from Wolford.",
-          "date_time": "2026-01-20 17:26:14.165",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Wolford: Reply Y to subscribe to recurring automated personalized marketing alerts (e.g. cart reminders) from Wolford.",
-          "date_time": "2026-01-27 17:49:18.124",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Wolford: Welcome to Wolford! Msg \u0026 data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
-          "date_time": "2026-01-27 17:49:32.688",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Wolford: Welcome! Use the code WOLFORD10 at checkout to save 10% on your next purchase. https://wolford.attn.tv/aI22sHvkWwFQ .",
-          "date_time": "2026-01-27 17:49:36.711",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Wolford: Don\u0027t forget to save our contact to get exclusive updates!",
-          "date_time": "2026-01-27 17:49:37.714",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Wolford: Hey, this is Annie. Thanks for checking out our site! \nhttps://wolford.attn.tv/aT-GPY-aIk98 \n\nAre you looking for anything in particular today? ",
-          "date_time": "2026-01-27 17:52:58.743",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Wolford: You\u0027re still thinking about it, aren\u0027t you? Complete your order now \u0026 enjoy this exclusive offer of 10% off your order with code CART10 at checkout. https://wolford.attn.tv/a3WmUmLYl83k \n\nWas there anything else we can help with before you place your order?",
-          "date_time": "2026-01-29 18:14:02.926",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Wolford: Slip into confidence this Valentine\u0027s Day with our timelessly crafted lingerie styles that celebrate passion. wolford.attn.tv/a3gU7y1wqPs6 ",
-          "date_time": "2026-01-30 18:30:23.356",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Wolford: For 48 hours only enjoy 4 for 3 promo in our Outlet: get the lowest-priced item for free and free standard shipping wolford.attn.tv/alQE0I2YqTLB",
-          "date_time": "2026-01-31 11:30:28.348",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Wolford: Celebrate the Lunar New Year in style with our luxurious tights, designed to make your legs the star of every celebration. wolford.attn.tv/avJzdifBbGVL",
-          "date_time": "2026-02-02 18:30:22.653",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Wolford: Explore our latest eye-catching tights, where bold and intricate patterns redefine your look and enhance any outfit: wolford.attn.tv/aXSGn0Fw6jhB",
-          "date_time": "2026-02-03 12:30:25.453",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Wolford: Meet our best-selling Winter Icons: breathable base layers \u0026 luxurious merino wool sweaters to keep you irresistibly warm. wolford.attn.tv/aEbjQ4x9cY4e",
-          "date_time": "2026-02-06 11:30:23.616",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Wolford: Romance is in the air this Valentine\u0027s Day: from Feb 7 to 14 receive a complimentary Wolford foulard on orders above $400. wolford.attn.tv/aIJCncmeaafA",
-          "date_time": "2026-02-07 11:30:18.865",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Wolford: Hey, this is Annie. Thanks for checking out our site! \nhttps://wolford.attn.tv/aHOdkjHe7y4z \n\nAre you looking for anything in particular today? ",
-          "date_time": "2026-02-08 15:02:57.407",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "What if an item doesn\u0027t fit",
-          "date_time": "2026-02-08 15:23:39.771",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "Tights in particular?",
-          "date_time": "2026-02-08 15:23:49.720",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c3f01-f616-4144-f000-0000f5237a71",
-          "message_text": "Wolford: I appreciate your inquiry! You may return undamaged/unworn items purchased online. Such items must be in salable condition, in the original packaging. No items may be returned if they are missing original tags, labels or hygiene stickers. No returned merchandise will be accepted without the original sales receipt. You can check out our detailed return policy here: https://wolford.attn.tv/aUMw9KwkQQU2 ",
-          "message_type": "agent",
-          "agent": "31385",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-08 15:46:59.122"
-        },
-        {
-          "message_type": "customer",
-          "message_text": "I wanted to enter my welcome code for my first order but was not given the chance . How can I get that 10 percent code applied? There was no prompt. I find your site super hard to navigate and finicky",
-          "date_time": "2026-02-08 16:39:28.373",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "It\u0027s really a pain",
-          "date_time": "2026-02-08 16:39:38.365",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c3f56-a1b5-4ad8-f000-0000f5237a71",
-          "message_text": "Wolford: Sorry for the long wait and for any inconvenience! Please apply the code to a full-priced item in your cart. The code is entered in the \"Redeem a voucher\" box. Here\u0027s a screenshot for reference- https://wolford.attn.tv/aNyJDxWtmApn_\n",
-          "message_type": "agent",
-          "agent": "87474",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-08 17:19:28.087"
-        },
-        {
-          "message_type": "customer",
-          "message_text": "It\u0027s too late. I just want customer service to apply it. And refund the cash. Last time I waited if was a disaster. Your guys site is really unstable",
-          "date_time": "2026-02-08 18:18:44.852",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c3f9f-dd2d-4f9d-f000-0000f5237a71",
-          "message_text": "Wolford: I understand, and sorry for the inconvenience. Have you already placed your order? If so, I can check with my team to see if we can apply the code to your order. Could you please send me your order number, email address, and the code you wish to apply?",
-          "message_type": "agent",
-          "agent": "30890",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-08 18:39:27.430"
-        },
-        {
-          "message_type": "system",
-          "message_text": "Wolford: Step into Lunar New Year with our stunning tights featuring gold threads and crystal details for your statement look: wolford.attn.tv/aa4Lmq3Pw_PM",
-          "date_time": "2026-02-09 18:30:20.603",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "Yes! I have placed the order and would love the discount code to apply",
-          "date_time": "2026-02-09 19:04:56.880",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "My email is kittygreenwald@gmail.com",
-          "date_time": "2026-02-09 19:05:06.902",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c44df-7cac-49a0-f000-0000f5237a71",
-          "message_text": "Wolford: Thank you for the support, and I understand. Can I have your order number as well?",
-          "message_type": "agent",
-          "agent": "46059",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-09 19:07:03.116"
-        },
-        {
-          "message_type": "customer",
-          "message_text": "Sure",
-          "date_time": "2026-02-09 19:07:36.811",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "Let me check",
-          "date_time": "2026-02-09 19:07:42.798",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "One sec",
-          "date_time": "2026-02-09 19:07:49.730",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c44e0-d081-4f1a-f000-0000f5237a71",
-          "message_text": "Wolford: Take your time! I\u0027ll wait for your update. 😊",
-          "message_type": "agent",
-          "agent": "87595",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-09 19:08:30.101"
-        },
-        {
-          "message_type": "customer",
-          "message_text": "Order number US0001106358",
-          "date_time": "2026-02-09 19:25:46.709",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c44f3-fd4e-4e3b-f000-0000f5237a71",
-          "message_text": "Wolford: Thank you for the information. I have already sent your concern to our team. Make sure to check your SMS for updates. I\u0027ll be in touch!",
-          "message_type": "agent",
-          "agent": "48804",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-09 19:29:26.774"
-        },
-        {
-          "message_type": "customer",
-          "message_text": "Thank you. I appreciate it",
-          "date_time": "2026-02-09 19:30:07.249",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c4857-6dce-4b2d-f000-0000f5237a71",
-          "message_text": "Wolford: Thanks for your patience! I just heard from the team, and one of my colleagues will reach out to you and will be assisting you directly from here on out. Make sure to check your spam and promo folders, as sometimes our emails end up there. Rest assured, you\u0027re in excellent hands. ",
-          "message_type": "agent",
-          "agent": "32937",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-10 11:16:55.284"
-        },
-        {
-          "message_type": "system",
-          "message_text": "Wolford: It\u0027s time for tights! Experience the unmatched craftsmanship of our legwear, designed to elevate your winter wardrobe wolford.attn.tv/aIWvF6-Wm7W9 ",
-          "date_time": "2026-02-10 11:30:22.516",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "No one has reached out to me",
-          "date_time": "2026-02-10 16:15:10.752",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "And it\u0027s absurd",
-          "date_time": "2026-02-10 16:15:20.756",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c496a-c824-4b2e-f000-0000f5237a71",
-          "message_text": "Wolford: I\u0027m so sorry about that. Just to be sure, have you checked your spam and promo folders? If so, please know our team will follow up with you in no time. We appreciate your patience.",
-          "message_type": "agent",
-          "agent": "87592",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-10 16:17:40.797"
-        },
-        {
-          "message_type": "customer",
-          "message_text": "All I\u0027ve gotten are promotional emails",
-          "date_time": "2026-02-10 16:18:40.852",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "template",
-          "message_text": "Template used: \"How soon will I get a response from customer support - All brands\"; last updated: 2023-10-10 17:43:03.641",
-          "date_time": "2026-02-10 16:21:09.891",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c496d-f8f1-4f9b-f000-0000f5237a71",
-          "message_text": "Wolford: Thank you for getting back to me and providing that information! I\u0027m really sorry for the inconvenience. Our team is doing everything to respond to each inquiry in a timely manner. They should follow up with you as soon as they have an update!",
-          "message_type": "agent",
-          "agent": "109840",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-10 16:21:09.892"
-        }
-      ]
+      "escalation_preferences": [],
+      "blocklisted_words": [],
+      "has_shopify": true
     }
   }
 }

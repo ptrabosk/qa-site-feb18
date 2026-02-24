@@ -1,0 +1,540 @@
+{
+  "companyKey": "lg",
+  "templates": [
+    {
+      "name": "Cancel / edit order",
+      "content": "Orders are usually eligible for cancellations for a short period after they're placed (often as little as 20 minutes). You can do this via our portal by signing in here: https://sso.us.lg.com/oauth/page/login?authorizeKey=7d58bfcb-e434-4cfe-a7b1-6d4a8398aa26\n\nOnce your order enters processing, the online cancellation link won't be available. If that's the case, please call 1-800-243-0000 asap to see if your request to cancel or edit your order can still be accommodated.",
+      "id": "ff2a5d02-1559-402b-b77a-1fbcca458896",
+      "shortcut": "ced",
+      "companyName": "LG"
+    },
+    {
+      "name": "How do I track my order? / Order status",
+      "content": "You can simply log into your My LG account portal at https://sso.us.lg.com/oauth/page/login?authorizeKey=7d58bfcb-e434-4cfe-a7b1-6d4a8398aa26 to view all orders placed under the same email address you used for the order. You may also check order status using your order number on https://www.lg.com/us/guest/track-order/form",
+      "id": "02988b9c-d2ce-420e-a392-cd41d9f8e96b",
+      "companyName": "LG"
+    },
+    {
+      "name": "Escalation template (esc temp)",
+      "content": "For the best answer, you'll want to reach out to our Support team directly via email here: https://www.lg.com/us/support/contact/email-appointment or phone at 800-243-0000 where they are available 7 days/week from 8am-9pm EST. You can also chat with the team here: https://lg-chatbot.com/web/us?locale=en_US",
+      "id": "edebadde-9059-4fd8-94de-a087da2d1ce0",
+      "shortcut": "esc",
+      "companyName": "LG"
+    },
+    {
+      "name": "Is LG going to release new phones?",
+      "content": "Good question! LG announced back on April 05, 2021 that it was closing its mobile business unit and the decision was approved by its Board of Directors. The wind-down of the mobile business was completed by July 21, 2021 and inventory of our phones and tablets that were on the market at that time would no longer be sold after the inventories available at the time were depleted. LG will not be introducing new models into the market in the future.",
+      "id": "df8c4ad8-b080-4117-91e3-683f361b0463",
+      "companyName": "LG"
+    },
+    {
+      "name": "Pre Order: Is Preorder available on Partner Store and Employee Store?",
+      "content": "The pre-order is available on the Partner Store, but I'm afraid it's not available on the Employee Store.",
+      "id": "ca60e434-3880-4d5c-bd92-cfad844cb3dd",
+      "companyName": "LG"
+    },
+    {
+      "name": "Credit card errors",
+      "content": "Please email us directly at onlinebrandshop@lgcns.com and one of my colleagues will be more than happy to help out!",
+      "id": "40701e5d-4e18-4903-b68d-3905a0d727bf",
+      "companyName": "LG"
+    },
+    {
+      "name": "Where do I add the discount? - brand specific",
+      "content": "You'll find the discount box at checkout. If you're on a desktop you'll see it at the right side of your screen when you enter your shipping details. If you're using a phone when you go to your cart, just before checkout, expand the Order Summary at the bottom of your screen and you'll see the Apply Promo Code box. Just click on it, and apply the code. Let me know if you can't find it.",
+      "id": "d66a8819-ebed-474f-8262-adfd89ba3406",
+      "shortcut": "db",
+      "companyName": "LG"
+    },
+    {
+      "name": "Do Stackables need to be Stacked?",
+      "content": "Only our Front Load Washers and their matching Dryers are stackable. Stacking them is an option and you can place them side-by-side if that is your preference.",
+      "id": "85790f1a-2a38-482d-ba7d-2c727ac645fb",
+      "companyName": "LG"
+    },
+    {
+      "name": "What is a counter-depth fridge?",
+      "content": "Great question! The term \"counter-depth\" describes how far back your backsplash or back wall extends from the front of your kitchen worktops. These refrigerators are often shallower than other refrigerators, measuring 24 to 30 inches deep, so that they may align with the end of your cabinets and blend in seamlessly with the majority of contemporary kitchen designs.",
+      "id": "54c61066-cfce-4b3d-ab04-0cc29ab1ff37",
+      "companyName": "LG"
+    },
+    {
+      "name": "Where are your TV's made / manufactured?",
+      "content": "Our TV's are made in South Korea, China, USA, and the United Kingdom.",
+      "id": "50c98281-74d5-4896-b290-062805b4e89e",
+      "companyName": "LG"
+    },
+    {
+      "name": "Warranty policy",
+      "content": "You can take a look at our full warranty policy here: https://www.lg.com/us/support/warranty-information",
+      "id": "ede18e93-701a-405c-a367-ea834714441c",
+      "shortcut": "wp",
+      "companyName": "LG"
+    },
+    {
+      "name": "TurboWash vs TurboWash 360",
+      "content": "TurboWash makes use of a jet spray to significantly reduce washing times, create energy savings and deliver cleaner clothes. Spraying water directly onto fabrics, it enhances the exceptional washing and rinsing performance of 6 Motion Direct Drive technology. With TurboWashTM360 ̊ it's more time saving and your laundry can be thoroughly done in just 39 minutes with more fabric protection. It also has 4 directions of 3D multi nozzles which reaches every inch of your laundry.",
+      "id": "5a310428-7eeb-4e25-8f35-1ab8c6e1d8dd",
+      "companyName": "LG"
+    },
+    {
+      "name": "Shipping time",
+      "content": "Our processing time takes 2 business days and once shipped, it will take 7-10 business days for domestic orders.",
+      "id": "3ea50e63-6ad6-4d60-bd21-5a50eb14f90a",
+      "shortcut": "shp",
+      "companyName": "LG"
+    },
+    {
+      "name": "Phone support",
+      "content": "You can give us a call at 800-793-8896 (Mon-Sun 8am - 9pm EST) or let me know if I can help via text, it may be faster.",
+      "id": "c1c664fc-6737-4aba-bc6f-da33c04b8dc5",
+      "shortcut": "ps",
+      "companyName": "LG"
+    },
+    {
+      "name": "Social media",
+      "content": "Give us a follow on IG: https://www.instagram.com/lgusa/ and FB here: https://www.facebook.com/LGUSSupport/",
+      "id": "2ebcc4c7-7eb0-4c7b-8583-63134ef76a65",
+      "shortcut": "smd",
+      "companyName": "LG"
+    },
+    {
+      "name": "Free shipping",
+      "content": "Many of our products come with free delivery and that option will be shown at checkout if your order is eligible.",
+      "id": "c1bc9b67-ba21-4327-b974-d5851e468812",
+      "shortcut": "fs",
+      "companyName": "LG"
+    },
+    {
+      "name": "Return policy",
+      "content": "We accept returns within 30 days of order receipt. You can check out the rest of our detailed return policy here: https://www.lg.com/us/shop-lg/shop-faq",
+      "id": "7f28362a-34ab-4c54-af74-9dae831f2904",
+      "shortcut": "rp",
+      "companyName": "LG"
+    },
+    {
+      "name": "Store Locator",
+      "content": "On each of the product pages, there is a \"Find a Retailer\" option on the right next to Add to Cart. You can see the available store locations where the units you're interested in are available and whether they're in stock or not. There's even a map at the bottom to narrow your search to the closest location to you.",
+      "id": "0e0db084-5a16-42e9-8cc2-c085b0d40d61",
+      "shortcut": "sl",
+      "companyName": "LG"
+    },
+    {
+      "name": "Missing Accessories",
+      "content": "Rest assured you can call our Customer Service Center at (800) 243-0000 to report that a part is missing and my team will send you the missing accessory. Please note that you may also be asked to send proof of purchase or a bill of sale for the item.",
+      "id": "3a0b8c6d-9058-470e-9eb3-146a9aafa9df",
+      "companyName": "LG"
+    },
+    {
+      "name": "I get an error while trying to reset my password",
+      "content": "Apologies for the inconvenience. Please try using a different browser to reset your password again via the top right corner on our homepage (https://www.lg.com/us). Click \"Sign in/Sign up > Forgot password, then follow the instructions. It's also entirely possible you haven't yet created an account with us even if you receive marketing emails. You can create one via the link above, and if the sign in issue still persists, give us a call at 844-810-0070 for further assistance.",
+      "id": "567f91ba-0b68-4927-bd3a-9bcb327731c4",
+      "companyName": "LG"
+    },
+    {
+      "name": "Retroactive discount",
+      "content": "I'm afraid we can't apply codes retroactively. They have to be entered at checkout, apologies for the inconvenience!",
+      "id": "3c285ebe-f996-47f9-97bf-f630879588b9",
+      "shortcut": "rdr",
+      "companyName": "LG"
+    },
+    {
+      "name": "Customer support",
+      "content": "The best way to handle this is to email us directly at orders@lgsupport.com. Our team is happy to help!",
+      "id": "053c0095-aa87-4ef3-a225-6e9bb000edfa",
+      "shortcut": "cs",
+      "companyName": "LG"
+    },
+    {
+      "name": "Brand ambassador / sponsorship",
+      "content": "The best way to discuss this is to email us directly at orders@lgsupport.com. Our team is happy to chat.",
+      "id": "b965e41c-5cdc-4e40-9b7e-b4ef899c81cd",
+      "shortcut": "ams",
+      "companyName": "LG"
+    },
+    {
+      "name": "Wholesale inquiries",
+      "content": "The best way to discuss wholesale is to email us directly at orders@lgsupport.com. Our team is happy to chat.",
+      "id": "bf1f2d21-6ce8-4b5f-95e3-6af25bcffba9",
+      "shortcut": "wls",
+      "companyName": "LG"
+    },
+    {
+      "name": "What is the difference between OLED and LED tv?",
+      "content": "LED or LCD screens use a backlight whereas OLED's pixels produce their own light using an organic substance as the semiconductor material in light-emitting diodes (LEDs). In short, OLED handles darkness and lighting precision much better than LED or LCD. You can check out our OLEDs here: https://www.lg.com/us/oled-tvs",
+      "id": "9e53e643-eb41-46c6-976f-472d4ea8f9d1",
+      "companyName": "LG"
+    },
+    {
+      "name": "Rewards / referral",
+      "content": "We have a rebate program where you can take advantage of the latest rebates on LG home appliances. Check it out here: https://www.lg.com/us/promotions/home-appliance-rebates",
+      "id": "386f7fe5-91f8-4f18-ac00-87c26dbb757d",
+      "shortcut": "rwd",
+      "companyName": "LG"
+    },
+    {
+      "name": "White Glove Delivery / Shipping (Major Appliances) (NOT FOR TVS)",
+      "content": "All of our major appliances come with free Room of Choice Delivery. The carrier will arrive at a scheduled time of your choosing and place the item in the preferred room of your home or office. You may be able to upgrade your delivery to White Glove Installation, which includes product installation, parts and removal service for your old appliance. Please note that it doesn't include hardwire installation, side venting, water line extension or propane conversion.",
+      "id": "0ed937cb-e90b-4b8e-a1a4-a1a7e68ca4c3",
+      "companyName": "LG"
+    },
+    {
+      "name": "Military / First responder / Healthcare / Teacher discount (first responders, medical providers, nurses, hospital employees, military/veterans, teachers, students and government employees)",
+      "content": "Thank you for your service! You can learn more and apply for your discount here: https://www.lg.com/us/appreciation-program",
+      "id": "fa14a340-3f5e-4421-8ce6-980b4ead870f",
+      "shortcut": "ms",
+      "companyName": "LG"
+    },
+    {
+      "name": "Do you have a trade-in program?",
+      "content": "We do have a trade-in program! Trading in your old appliance is a great way to maximize its value. Simply select the model, get instant credit, and we'll handle the pickup. Please check the terms and conditions that apply to our trade-in program here: https://www.lg.com/us/trade-in-program-terms-conditions",
+      "id": "7fea9374-031e-4730-a6ae-7a87a2b38346",
+      "companyName": "LG"
+    },
+    {
+      "name": "My TV has no audio. What should I do?",
+      "content": "The absence of audio coming from your TV can be frustrating, but the steps at the following link will help to find and resolve the issue: https://www.lg.com/us/support/help-library/tv-has-no-audio-tv-CT10000020-1434730408184",
+      "id": "ed9b00b8-2910-4fa8-90ca-d21b0a88275d",
+      "companyName": "LG"
+    },
+    {
+      "name": "What does sound sync do? How do I set it up?",
+      "content": "Sound sync makes connecting your Home Theater, Soundbar, and Sound Plate to your LG TV easy and wire-free. With Sound Sync, your LG-compatible devices can connect with each other using bluetooth technology, reducing cable clutter, while also synchronizing the audio between devices. You can take a look at the following link for more info on how to set up Sound Sync: https://www.lg.com/us/support/help-library/lg-sound-sync-tv-and-sound-bar-CT41000327-20150637961106",
+      "id": "78b02197-f4bb-4617-8c25-c5bd64a5b46d",
+      "companyName": "LG"
+    },
+    {
+      "name": "Air conditioner powers on but won't run",
+      "content": "If your air conditioner powers on but will not run, this is usually the result of an inadequate power supply for the unit. Turn the circuit breaker to the unit off and back on again. If the breaker is tripping and causing the loss of power, turn off all other electrical devices in the room besides the air conditioner. If the air conditioner runs fine with the other devices turned off, then likely the unit isn't on a dedicated circuit breaker. If your air conditioner isn't on a dedicated circuit breaker, the unit may power on but not run. The reason for this is the unit doesn't require as much power to display the settings, or even run the fan, as it does to turn on and run the compressor. The air conditioner must be on a dedicated circuit breaker not shared with other outlets. Please check the specifications sheet for your particular unit to determine the power requirements.",
+      "id": "5fe06d8c-240d-42d4-a6f0-61a4777014ce",
+      "companyName": "LG"
+    },
+    {
+      "name": "Why is my LG vacuum not working or losing suction?",
+      "content": "If your LG vacuum cleaner stopped working or is having problems with power, charging, or losing suction it may be due to debris or dust clogging a nozzle or filter. These and other common vacuum problems are easy to fix. To get started, select your vacuum cleaner type at the following link to receive troubleshooting instructions and maintenance tips: https://www.lg.com/us/support/help-library/why-is-my-lg-vacuum-not-working-or-losing-suction-CT10000013-20152545901773",
+      "id": "d068c91e-f711-451e-9e04-6a3206abd841",
+      "companyName": "LG"
+    },
+    {
+      "name": "How to winterize a washing machine",
+      "content": "If you're storing your washing machine and dryer in an unheated location like a basement or garage or you're relocating from your summer home for the winter season, you want to protect your appliances to ensure they aren't exposed to below freezing temperatures. Washing machines have residual water in the pump and hoses that may freeze and damage your pipes in cold weather. As water freezes it expands, damaging the pipes in your home and unit. Keep in mind your warranty is invalidated if your washer is exposed to below freezing temperatures without protecting your unit.\n\nTaking some precautions to winterize your washing machine will prevent damage and optimize performance. You can check out the instructions at the following link: https://www.lg.com/us/support/help-library/lg-washers-how-to-winterize-a-washing-machine-CT10000010-20151371417222",
+      "id": "7e878473-e5ab-41e7-9586-9fb872b945d3",
+      "companyName": "LG"
+    },
+    {
+      "name": "Water left in dispenser - front load washer",
+      "content": "It's normal for some residual water to remain in your dispenser tray after each wash. However, this tray shouldn't be filled completely with water. Detergent can gradually build up in the detergent tray and its attachments over time. If these aren't cleaned regularly, the water and additives will not dispense fully and water will remain in the compartments. Please check out this link for instructions on how to clean the detergent tray: https://www.lg.com/us/support/help-library/water-left-in-dispenser-front-load-washer-CT00000305-1337625067361",
+      "id": "572b9207-be3e-44fc-a8c1-1b80ae9faecd",
+      "companyName": "LG"
+    },
+    {
+      "name": "Slow Water Dispensing - Refrigerator",
+      "content": "Slow water dispensing is usually the result of low water pressure from the main water supply or a disruption of the water supply flow.",
+      "id": "73077ee4-7c3b-487b-a48c-6d74d04a4a9e",
+      "companyName": "LG"
+    },
+    {
+      "name": "Inlet hose installation - washing machine",
+      "content": "Always use new hoses when installing your washer and don't reuse old ones. You can use our inlet hoses or aftermarket hoses available through most appliance retailers. You can check out this link for the installation instructions: https://www.lg.com/us/support/help-library/inlet-hose-installation-washing-machine-CT10000012-1337721797456",
+      "id": "770aca4d-3af6-4f85-9e8b-2b3852c33c3d",
+      "companyName": "LG"
+    },
+    {
+      "name": "IE Error Code - Front Load Washer",
+      "content": "An IE error code indicates that the washer was unable to fill with water. During cold and freezing weather conditions, an IE error code could mean the water in the water supply lines is frozen. Once the temperature increases above freezing, the water supply will resume. You can take a look at the following link for other causes of an IE error code: https://www.lg.com/us/support/help-library/ie-error-code-lg-front-load-washer-CT10000012-1400510401752",
+      "id": "69adae70-8eb5-4e27-8efa-ce7c65e734b5",
+      "companyName": "LG"
+    },
+    {
+      "name": "How to setup Universal Control on your Magic Remote",
+      "content": "You can use your magic remote to control other compatible devices in your home. You don't need to keep multiple remote controls for your setup box, home theater, or soundbar. You can use any of the options at the following link to program your magic remote as a universal remote control: https://www.lg.com/us/support/help-library/how-to-setup-universal-control-on-your-magic-remote-CT10000020-20150539692863 Please note that universal control only works on magic remotes and it's not applicable to standard remotes.",
+      "id": "d1b9aa1c-e24e-49dc-92d9-36f9349f6a43",
+      "companyName": "LG"
+    },
+    {
+      "name": "How to dry only - washer / dryer combo unit",
+      "content": "Your LG Washer/Dryer Combo Unit has a slight difference in how it's designed to dry compared to a standard dryer. Most Combo Units will automatically run a spin cycle before the dry cycle begins. This is important because the washer will attempt to extract as much water as possible from the clothing before it begins to dry. This process may add an additional 14 minutes to the cycle any time the dry setting is chosen. To perform a dry only cycle press the power button to turn on the washer, then press the dry button until the desired dry level or time is selected, and finally press the start/pause button to begin the cycle.",
+      "id": "2fbc4439-b896-447b-8267-9bbf3d26047d",
+      "companyName": "LG"
+    },
+    {
+      "name": "Why is my LG Refrigerator Door Hard to Open?",
+      "content": "After a time of inactivity, you may notice that it's harder to open the doors to your refrigerator. This is because when the doors are opened, warm air enters the refrigerator. As the warm air cools, it can create a vacuum. If the door is hard to open, wait a few minutes to allow the air pressure to equalize, and then try opening the doors again to see if it opens easier. Inspect the seals (gaskets) around the doors to be certain that they are clean and free of debris. If the seals are dirty or sticky, this will make the doors hard to open. If necessary, clean the seals with warm water and a mild detergent. Be certain to rinse the seals well. Please don't use harsh or abrasive cleaners.\n\nCheck the arrangement of food and other items in your refrigerator so that nothing is interfering with the functionality of the doors. Check the shelves and bins for any items that may stick out too far and rearrange them if necessary.\n\nIt's also normal for the doors to be somewhat difficult to open if your unit is new. It's also important to be sure that the unit is leveled and that the doors are aligned. Kindly refer to your owner's manual for information regarding the leveling of the doors.",
+      "id": "4dd60bf4-6875-4b19-8cb1-aac6fa06cf24",
+      "companyName": "LG"
+    },
+    {
+      "name": "What is LG TV plus?",
+      "content": "The LG TV Plus is a mobile app that you can use to control your smart television without the remote control. With the LG TV Plus app, you can launch applications, play videos and use the control pointer just like the magic remote. For more information, please check out this link: https://www.lg.com/us/support/help-library/tv-lg-tv-plus-remote-app-is-now-thinq-CT10000018-1421266950271",
+      "id": "3864af8d-35c1-46cd-b519-14dbd3fa8a2b",
+      "companyName": "LG"
+    },
+    {
+      "name": "Dryer cycles and options",
+      "content": "With your dryer comes a whole new world of laundry possibilities! You'll find everything you need to know about specialty cycles, which elevate your laundry care and preservice your clothes here: https://www.lg.com/us/support/help-library/lg-dryer-cycles-and-options-CT10000011-20152068325571",
+      "id": "b04a7cec-9cad-44ca-9b56-47227cb823c8",
+      "companyName": "LG"
+    },
+    {
+      "name": "Restock - brand specific",
+      "content": "I'm sorry, I currently don't have the exact date of a possible restock, but I recommend checking our website and social media frequently. Also, on each of the product pages, there is a \"Find a Retailer\" option on the right next to Add to Cart. You can see the available store locations where the units you're interested in are available and whether they're in stock or not. There's even a map at the bottom to narrow your search to  the closest location to you. In the meantime, what do you think about this instead? -",
+      "id": "241dccf5-91af-4e53-9fa0-c4bc4a349e1d",
+      "shortcut": "stok",
+      "companyName": "LG"
+    },
+    {
+      "name": "Pre Order: How many units are available?",
+      "content": "There's no limit! Let me know if you have any other questions.",
+      "id": "125683bd-0f0e-4eb5-849d-0bd48931b464",
+      "companyName": "LG"
+    },
+    {
+      "name": "Pre Order: When will I be charged for my Preorder?",
+      "content": "The same payment terms apply as regular orders. We will take a temporary pre-authorization and then charge when the order ships. Hope this helps!",
+      "id": "66815457-cc8c-4a89-901d-56fba69b0a99",
+      "companyName": "LG"
+    },
+    {
+      "name": "Pre Order: Will the free Gaming Pad arrive before the monitor?",
+      "content": "No, the gaming pad will ship together with the monitor once it arrives.",
+      "id": "5dbca9c0-d8dc-48b3-b1f4-538d82d8b3aa",
+      "companyName": "LG"
+    },
+    {
+      "name": "Pre Order: Is there a special offer included?",
+      "content": "Yes! You'll receive a free UltraGear Gaming Pad ($199.99 value) when you preorder the LG UltraGear OLED Gaming Monitor. Please note that this offer is only valid for orders placed on LG.com.",
+      "id": "9553aa48-b653-43ec-8444-235d47f9657d",
+      "companyName": "LG"
+    },
+    {
+      "name": "Pre Order: What are the dates?/When is the last day?",
+      "content": "Our pre-order promotion starts on March 20th and ends on April 2nd! Hope you'll decide to go for it!",
+      "id": "ace42e3f-2854-4d0a-a783-eaaf4165e1e5",
+      "companyName": "LG"
+    },
+    {
+      "name": "Pre Order: How can I pay?",
+      "content": "All standard LG.com payment methods are available - credit card, Paypal, Klarna, Apple Pay, and Google Pay.",
+      "id": "dd662b2c-661d-4182-b544-30814061ddb3",
+      "companyName": "LG"
+    },
+    {
+      "name": "Pre Order: What model is available?",
+      "content": "Our new LG UltraGear OLED gaming monitor 49GR85DC-B is available for preorder and you can check it out here: https://www.lg.com/us/monitors/lg-49gr85dc-b With each purchase you'll also get a free UltraGear Gaming Pad!",
+      "id": "50273b93-534e-4713-9e4e-d45200df5524",
+      "companyName": "LG"
+    },
+    {
+      "name": "Pre Order: When will I receive my preorder?",
+      "content": "Orders are expected to start shipping the week of April 3rd and they will be fulfilled in the order they were received.",
+      "id": "bd200bb8-832d-41aa-8759-c9bd78458df9",
+      "companyName": "LG"
+    },
+    {
+      "name": "You mentioned I've been entered to win, do I need to buy anything?",
+      "content": "Apologies for the late reply here - I just got confirmation that all you need to do is share your email address and mobile number to be entered to win the LG 65-inch OLED C2 TV (no purchase necessary), and as long as you've already done that, you're all set!",
+      "id": "efaec4b6-04dc-4609-8d30-bdbbc7511ea6",
+      "companyName": "LG"
+    },
+    {
+      "name": "Can you hold/delay my order?",
+      "content": "Our online delivery calendar only allows for scheduling 30 days out. However, once scheduled, you will have the option to reschedule your order one time. This can be done directly through your My LG account online. \n\nPlease be advised that once the order ships from our warehouse, the carriers are not able to hold freight indefinitely. They will only hold for a maximum of 30 days before it is returned back to our warehouse at which time the customer would be charged an 8% restocking fee. Some carriers will only hold for 14 days, it would just depend on the space availability at their facility.",
+      "id": "8c313984-5139-4b82-9163-debb3742b0d2",
+      "companyName": "LG"
+    },
+    {
+      "name": "Price match?",
+      "content": "We're currently not offering price matching for products available for purchase on LG.com.",
+      "id": "e9b0b7f4-154d-417b-8d2b-b21b85afa3f5",
+      "companyName": "LG"
+    },
+    {
+      "name": "My code is not working! (follow up 1)",
+      "content": "I'm sorry the code isn't working. What item are you trying to purchase? Can I have the model number please?",
+      "id": "f8344e3e-3209-4012-8361-3a90c5fa98c9",
+      "companyName": "LG"
+    },
+    {
+      "name": "My code is not working! (follow up 2)",
+      "content": "I'm sorry but the 10% offer is limited to select Vacuums, Air Purifiers, Headphones, LG Stylers, and Wireless Speakers. You can see the offer terms here: http://attn.tv/lg/offerdetails.html If it helps, you can also check out our promo page here: https://www.lg.com/us/promotions",
+      "id": "49f3cbaf-2a4a-4cb5-a3e4-1ce090fda3c8",
+      "companyName": "LG"
+    },
+    {
+      "name": "Can the LG UltraGearTM Gaming Speaker be paired via bluetooth?",
+      "content": "It can be paired via bluetooth with a bluetooth-enabled PC/Laptop or a bluetooth-enabled smartphone, or it can be connected via its USB Type-C port to a PC/Laptop. It won't work with other brands of TV.",
+      "id": "3b7d4584-249f-4b96-bfc5-56b6b20b8685",
+      "companyName": "LG"
+    },
+    {
+      "name": "Shipping/ Delivery for Small TVs (less than 55”), Monitors & Electronics",
+      "content": "All come with free standard delivery (6-8 business days). You can also upgrade to Expedited Delivery (2-4 business days) for a small fee.",
+      "id": "aebe448f-5892-494b-8be1-7d3577cbd4fe",
+      "companyName": "LG"
+    },
+    {
+      "name": "Delivery / Shipping (For Larger TVs over 55”)",
+      "content": "You can select Room of Choice Delivery. The carrier will arrive at a scheduled time of your choosing and place the item in the preferred room of your home or office. You can also upgrade your delivery to White Glove Installation, which includes product installation, parts and removal service for your old appliance. Please note that White Glove does not include hardwire installation.",
+      "id": "5a1ffbe6-ec65-4adc-92ea-d2c8f3707df4",
+      "companyName": "LG"
+    },
+    {
+      "name": "Does LG ship to APO, FPO or PO Box addresses?",
+      "content": "We're unable to deliver to P.O. Boxes, addresses outside the contiguous 48 states, international addresses, Army Post Office (APO), Diplomatic Post Office (DPO) and Fleet Post Office (FPO).",
+      "id": "aff98fc2-d08a-4890-b940-2e4caefdf478",
+      "companyName": "LG"
+    },
+    {
+      "name": "Shipping/ Delivery for  Parts & Accessories",
+      "content": "All can be shipped via standard delivery (6-8 business days) or upgraded to expedited delivery (2-4 business days).",
+      "id": "e4eca8bc-4947-43b5-9215-64351a7b1e2c",
+      "companyName": "LG"
+    },
+    {
+      "name": "My item is broken or needs to be repaired",
+      "content": "I'm sorry about that, but no worries, you can request a repair service here: https://www.lg.com/us/support/repair-service/schedule-repair",
+      "id": "34d4524c-1f87-41b2-bcb1-50ca79eb741a",
+      "companyName": "LG"
+    },
+    {
+      "name": "I need refrigerator recommendations",
+      "content": "I'd be glad to help with that. Can you tell me what type of refrigerator you're interested in (i.e. French Door, Bottom Mount Freezer, Top Mount Freezer, Side-by-Side Model, etc)? In addition, what capacity would you like and what's your budget?",
+      "id": "be9ef01e-73e2-4690-9b4c-d4021f9650eb",
+      "shortcut": "frr",
+      "companyName": "LG"
+    },
+    {
+      "name": "Can I request a later date for shipping?",
+      "content": "You should be able to select your preferred delivery date at checkout.",
+      "id": "053fb9c4-234d-42b2-a263-5c1b9cb2eae2",
+      "companyName": "LG"
+    },
+    {
+      "name": "How do I register my product?",
+      "content": "You can register it here: https://lg.attn.tv/sl/3GgJ2544",
+      "id": "bf73d033-b2aa-4fb3-b51e-c4d7ffa263a1",
+      "companyName": "LG"
+    },
+    {
+      "name": "Do you offer financing?",
+      "content": "We offer financing through Klarna. You can choose from 4 interest-free installments or 12-36 month financing with up to 0% APR. Check it out here: https://lg.attn.tv/sl/zXTz6iMj",
+      "id": "8bda5cc5-f777-4121-b00e-a73b7835578b",
+      "companyName": "LG"
+    },
+    {
+      "name": "What is Room to Room Share?",
+      "content": "Viewers can mirror content from one TV to another in the home using Room To Room Share, which enables the viewing of cable or satellite content on another TV via Wi-Fi without an additional set-top-box.",
+      "id": "b2828224-82cb-447c-aa1d-15c7f72b7f06",
+      "companyName": "LG"
+    },
+    {
+      "name": "Questions about the No-Cooling Event Lawsuit (2014-2017)",
+      "content": "The No-Cooling Event you are referring to only affected specific serial numbers for LG Refrigerators that were manufactured between Jan. 1, 2014, and Dec. 31, 2017. The appeal to the LG Refrigerator settlement was also dismissed on Jan. 6, 2021. Refrigerator models manufactured after Dec 31, 2017 were unaffected.",
+      "id": "02c44d3c-263c-4930-af13-d759fbee3fe8",
+      "companyName": "LG"
+    },
+    {
+      "name": "Customer asking for case/claims update",
+      "content": "Regrettably, we don't have access to case numbers, apologies for the inconvenience! Our Customer Service Center at (800) 243-0000 is the only department that gives case numbers and has access to the case numbers so you will need to contact them with your case number to get an update on the case.",
+      "id": "90c1934d-87d8-48fa-b100-96c4edc334c0",
+      "companyName": "LG"
+    },
+    {
+      "name": "Where are your washers and dryer's manufactured?",
+      "content": "We maintain manufacturing facilities all over the world, including our mega-facility in Clarksville, Tennessee that produces front- and top-loading washing machines and dryers. The only way to determine which country the washers and dryers are manufactured from is to look at the cartons that they are shipped in which will identify the Country of Manufacture/Country of Assembly or to look at the nameplate that is attached on them that identifies \"Date of Manufacture\", serial number, model number, electrical data and Country of Manufacture/Country of Assembly.",
+      "id": "8352e185-125e-48f8-a641-536266b6d428",
+      "companyName": "LG"
+    },
+    {
+      "name": "Payment Methods",
+      "content": "We only accept credit cards or PayPal for payment. You may link your bank account to PayPal and be able to pay without using a credit card, however, we don't accept cash or check payments.",
+      "id": "85f8d530-c3fb-439d-8949-63d149e71134",
+      "companyName": "LG"
+    },
+    {
+      "name": "How to find Model Number/Serial Number (TV only)",
+      "content": "You can use this link to help find the model number and serial number of your TV: https://www.lg.com/ca_en/support/product-help/CT20098005-20150585049620#:~:text=LOCATING%20MODEL%20%2F%20SERIAL%20NUMBERS%20ON,the%20on%2Dscreen%20menu%20system",
+      "id": "f9f43707-f653-483c-859d-21d053881ff2",
+      "shortcut": "mnt",
+      "companyName": "LG"
+    },
+    {
+      "name": "Service related issues",
+      "content": "The best way to handle this is to contact our Customer Support Center directly via phone at (800) 243-0000. One of my colleagues will be more than happy to help out!",
+      "id": "4d7e72b4-6af3-411b-bb87-142a8a81c11b",
+      "shortcut": "sri",
+      "companyName": "LG"
+    },
+    {
+      "name": "No promotions available",
+      "content": "I don't have any codes available at the moment, but our deals will always be shared with our SMS subscribers or on our website, so keep an eye out! In the meantime, you can check out our promo page here: https://www.lg.com/us/promotions",
+      "id": "f60ff692-e9c0-423e-b103-149ec43e5e46",
+      "shortcut": "ncode",
+      "companyName": "LG"
+    },
+    {
+      "name": "What's the difference between Speed Wash and TurboWash?",
+      "content": "Speed Wash is intended for lightly soiled clothes and small loads, while the TurboWash uses the power motion wash action system along with increased water temperatures to enhance and speed up the wash cycle.",
+      "id": "d8f1e73a-6030-48c3-a441-d554e9ca27e9",
+      "companyName": "LG"
+    },
+    {
+      "name": "How can I connect my smartphone/ tablet/ PC/ camera/ USB device to my LG TV?",
+      "content": "There are multiple ways to connect and they all depend on your network connectivity and the type of device you wish to share. LG Smart Share is the tool that lets you connect your compatible smartphone, tablet, PC, camera, or USB device to your TV and showcases all of the device's audio, video, and photo content in simple menus on your screen. You can start by checking out this link: https://lg.attn.tv/sl/ZzM_u9Pe - Let me know how it goes!",
+      "id": "24cab06e-100c-4239-8427-cca517be08b3",
+      "companyName": "LG"
+    },
+    {
+      "name": "Replacement parts & accessories from an affiliate Parts Distributor",
+      "content": "You can get your replacement part from our LG Authorized Parts Distributor affiliate, Encompass Parts Distribution https://encompass.com You can also reach out to them directly at 866-779-7906.",
+      "id": "2fe62530-7341-4e42-86c6-63f31ed82ad0",
+      "shortcut": "rpa",
+      "companyName": "LG"
+    },
+    {
+      "name": "\"This item is temporarily out of stock for your ZIP Code\" error message",
+      "content": "This means that the item is out of stock from the warehouse that services your region of the U.S. Regrettably, you can't order it from us because it can only be delivered to you from the warehouse that services your region and will have to wait until it is back in stock again in that warehouse.\n\nShipping dates are subject to change without prior notice so we do not have a specific date for when it will be back in stock again. You can click on the 'Find a Retailer' link on its product detail page that uses your IP address to find local retailers in or around your area that sell it to see if they have it in stock if you need it sooner.",
+      "id": "b10e63d0-c38b-41c7-9b17-2cc3caffb17a",
+      "companyName": "LG"
+    },
+    {
+      "name": "Employee partnership pricing",
+      "content": "We do not have access to employee partnership pricing for products. You would have to access the employee partnership site for pricing: https://sso.us.lg.com/oauth/page/login?authorizeKey=889fe9d9-ec97-4e38-b5b3-3b5be55e7d50&store=eos",
+      "id": "446900ef-847b-47b6-83f5-e232937fdcbb",
+      "companyName": "LG"
+    },
+    {
+      "name": "Restock - brand specific",
+      "content": "I'm sorry, I currently don't have the exact date of a possible restock, but I recommend signing up on the product page so you're notified the second it comes back in! \n\nAlso, on each of the product pages, there is a \"Find a Retailer\" option on the right next to Add to Cart. You can see the available store locations where the units you're interested in are available and whether they're in stock or not. There's even a map at the bottom to narrow your search to  the closest location to you. In the meantime, what do you think about this instead? -",
+      "id": "da7b9238-ea28-45b8-a6e5-07cdeadfeb10",
+      "shortcut": "stof",
+      "companyName": "LG"
+    },
+    {
+      "name": "Sales Collection",
+      "content": "You can take a look at our sale collection here: https://www.lg.com/us/promotions",
+      "id": "b3771025-d100-4c5f-8ff8-2163d57bb9da",
+      "shortcut": "spg",
+      "companyName": "LG"
+    },
+    {
+      "name": "How to find Model Number/Serial Number  ( any appliances)",
+      "content": "You can use this link to help find the model number and serial number of your appliance by clicking the \"Find my model#?\" link: https://www.lg.com/us/support/help-library#modal_find_my_model",
+      "id": "66664fc1-f93a-4ead-893d-633cbe8cf51f",
+      "shortcut": "mna",
+      "companyName": "LG"
+    },
+    {
+      "name": "Water & Air Filter Finder",
+      "content": "You can check our Water & Air Filter Finder here: https://www.lg.com/us/support/parts-locator just enter your Refrigerator Model at the search bar.",
+      "id": "47d6eb0c-c435-4756-b6b9-ef66349486a6",
+      "companyName": "LG"
+    },
+    {
+      "name": "Difference between products/Comparison Tool",
+      "content": "As all of our products have unique features, the best way to know the exact differences is to use our comparison tool. On each main category page (i.e. refrigerators), there is a \"Compare\" toggle shown for all products next to the \"Add to cart\" one. You can toggle it on, and add the models you want to compare.",
+      "id": "1dedebe9-2851-4366-9b40-28dba9c3d2cd",
+      "companyName": "LG"
+    }
+  ]
+}

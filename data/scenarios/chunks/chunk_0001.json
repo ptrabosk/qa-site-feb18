@@ -3,1347 +3,906 @@
   "chunk": "chunk_0001",
   "scenarios": {
     "1": {
+      "id": "019c7c6b-a0b1-4e3d-f000-0000f12bc851",
+      "companyName": "D.S. & Durga",
+      "companyWebsite": "https://dsanddurga.com",
       "agentName": "Sarah",
-      "id": "019c6e1f-4f22-4780-f000-0000ee0e7616",
+      "messageTone": "Casual",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "D.S. & DURGA: Come sniff us again. Take 10% off your next order with code DYFAU1YR 💫 https://dsanddurga.attn.tv/aCUf4n8Q8vYN . ",
+          "message_type": "system",
+          "date_time": "2026-02-16 13:24:52.955"
+        },
+        {
+          "message_media": [],
+          "message_text": "D.S. & DURGA: Hey there! We noticed you sniffing around. Anything you liked? Shop now: dsanddurga.attn.tv/aFuQXfogKioB \n\n\nAre there any questions I can answer for you?",
+          "message_type": "system",
+          "date_time": "2026-02-17 13:34:41.222"
+        },
+        {
+          "message_media": [],
+          "message_text": "I never received a order",
+          "message_type": "customer",
+          "date_time": "2026-02-17 13:35:59.816"
+        },
+        {
+          "message_media": [],
+          "message_text": "D.S. & DURGA: I'm so sorry to hear that! Could you let me know when you placed your order and if you received any tracking info? Sometimes our emails can end up in your spam or promo folder, so please check there as well! ",
+          "message_type": "agent",
+          "agent": "82427",
+          "message_id": "019c6ce5-328d-4584-f000-0000f12bc851",
+          "date_time": "2026-02-17 13:38:05.997"
+        },
+        {
+          "message_media": [],
+          "message_text": "Yes, I have tracking",
+          "message_type": "customer",
+          "date_time": "2026-02-17 13:38:39.797"
+        },
+        {
+          "message_media": [],
+          "message_text": "Yes, but it's been a long time so I just let it go, but I won't you know what can I do? I don't think that's the way I wanna go.",
+          "message_type": "customer",
+          "date_time": "2026-02-17 13:38:49.802"
+        },
+        {
+          "message_media": [],
+          "message_text": "No, it was a I have already ordered for you guys on a different my other phone. I have gotten a new phone in the promo. I have isn't the big deal. What was the big deal as I paid for a order and it never got here all it was\nIt was a candle",
+          "message_type": "customer",
+          "date_time": "2026-02-17 13:39:49.976"
+        },
+        {
+          "message_media": [],
+          "message_text": "I've ordered it before I threw you guys and I love the sun",
+          "message_type": "customer",
+          "date_time": "2026-02-17 13:40:20.068"
+        },
+        {
+          "message_media": [],
+          "message_text": "Lychees or something",
+          "message_type": "customer",
+          "date_time": "2026-02-17 13:40:30.097"
+        },
+        {
+          "message_media": [],
+          "message_text": "Scent \nAnd I gave you a good review",
+          "message_type": "customer",
+          "date_time": "2026-02-17 13:40:39.624"
+        },
+        {
+          "message_media": [],
+          "message_text": "But I am I moved so I have a new address so I had to make it to my new address which is you know just my sister's house and it shows I don't know what happens if it was stolen. I really don't know what happened. I just never was there to me.",
+          "message_type": "customer",
+          "date_time": "2026-02-17 13:41:09.746"
+        },
+        {
+          "message_media": [],
+          "message_text": "I had just left my husband from Louisiana and moved to Illinois and to reach out and take care of a candle, not coming at that time was just more than I could do",
+          "message_type": "customer",
+          "date_time": "2026-02-17 13:41:29.772"
+        },
+        {
+          "message_media": [],
+          "message_text": "But at the same time I paid $75 +2 there was no promo on this\n\nI just outright paid for it because I missed that sense and I was going to my new place and I wanted to have it smell nice",
+          "message_type": "customer",
+          "date_time": "2026-02-17 13:42:02.945"
+        },
+        {
+          "message_media": [],
+          "message_text": "The good part of all this is now I know I can't trust to have anything sent here",
+          "message_type": "customer",
+          "date_time": "2026-02-17 13:42:19.946"
+        },
+        {
+          "message_media": [],
+          "message_text": "Thank you for reaching out",
+          "message_type": "customer",
+          "date_time": "2026-02-17 13:42:39.989"
+        },
+        {
+          "message_media": [],
+          "message_text": "D.S. & DURGA: I am so sorry to hear that you never received your order. It is completely understandable to be frustrated, especially when you were looking forward to a scent you love to make your new place feel like home.\n\nThank you for explaining what happened. To help me look into this for you, could you please provide the order number and email address you used for that order? I will do my best to see what options we have to make this right.",
+          "message_type": "agent",
+          "agent": "87578",
+          "message_id": "019c6cee-e0ac-48ea-f000-0000f12bc851",
+          "date_time": "2026-02-17 13:48:40.396"
+        },
+        {
+          "message_media": [],
+          "message_text": "Give me some time if you if you wanna do that I am willing to let it go at the same time because I'm just not thank you for understanding. Thank you for being patient. It's been a tough transition and I little things like the candle. I looked forward to you, and I have had it before. I'm sorry I can't remember the first name of it. It's just I know it's lychee cause yeah I used to live in South Africa and we ate those...smell so nice",
+          "message_type": "customer",
+          "date_time": "2026-02-17 13:50:19.879"
+        },
+        {
+          "message_media": [],
+          "message_text": "It has to be my email \nrain.dance32@gmail.com",
+          "message_type": "customer",
+          "date_time": "2026-02-17 13:51:20.061"
+        },
+        {
+          "message_media": [],
+          "message_text": "Do you want the tracking number?",
+          "message_type": "customer",
+          "date_time": "2026-02-17 13:52:49.835"
+        },
+        {
+          "message_media": [],
+          "message_text": "https://ctrk.klclick.com/l/01KFEVG1NPAFW9RF5PF3Z4HGPC_2",
+          "message_type": "customer",
+          "date_time": "2026-02-17 13:52:57.541"
+        },
+        {
+          "message_media": [],
+          "message_text": "Hang on",
+          "message_type": "customer",
+          "date_time": "2026-02-17 13:53:00.271"
+        },
+        {
+          "message_media": [],
+          "message_text": "I never found it",
+          "message_type": "customer",
+          "date_time": "2026-02-17 13:54:00.052"
+        },
+        {
+          "message_media": [],
+          "message_text": "And then we found out neighbors were having problems too, so it just becomes frustrating",
+          "message_type": "customer",
+          "date_time": "2026-02-17 13:54:10.080"
+        },
+        {
+          "message_media": [],
+          "message_text": "But in the end, I'm really not sure",
+          "message_type": "customer",
+          "date_time": "2026-02-17 13:54:49.711"
+        },
+        {
+          "message_media": [],
+          "message_text": "D.S. & DURGA: Thanks for the info! I understand how frustrating this must be, and please know this is not the experience we strive to provide for our customers. To confirm, have you already checked around your home and with nearby houses in case it was misdelivered. It can also help to ask anyone you live with, such as family, roommates, or a landlord, since they may have accepted it. Some packages are held by property managers, an apartment office, or even your local post office, so it may be worth checking with them as well. \n\nIf you're still unable to locate it, just let me know and I'll help you with the next steps. ",
+          "message_type": "agent",
+          "agent": "87595",
+          "message_id": "019c6d02-e0bc-42d1-f000-0000f12bc851",
+          "date_time": "2026-02-17 14:10:31.229"
+        },
+        {
+          "message_media": [],
+          "message_text": "Liked “Thanks for the info! I understand how frustrating this must be, and please know this is not the experience we strive to provide for our customers. To confirm, have you already checked around your home and with nearby houses in case it was misdelivered. It can also help to ask anyone you live with, such as family, roommates, or a landlord, since they may have accepted it. Some packages are held by property managers, an apartment office, or even your local post office, so it may be worth checking with them as well. \r\n\r\nIf you're still unable to locate it, just let me know and I'll help you with the next steps.”",
+          "message_type": "customer",
+          "date_time": "2026-02-17 14:11:29.282"
+        },
+        {
+          "message_media": [],
+          "message_text": "Oh I have",
+          "message_type": "customer",
+          "date_time": "2026-02-17 14:11:38.813"
+        },
+        {
+          "message_media": [],
+          "message_text": "That was my thought too, but there's not just putting in any place with the house. My neighbors hadn't seen anything, but they had had some problems with their boxes disappearing and so I have to be careful now.",
+          "message_type": "customer",
+          "date_time": "2026-02-17 14:11:59.375"
+        },
+        {
+          "message_media": [],
+          "message_text": "Actually, they never said boxes. I can't remember, but I don't think it was that.",
+          "message_type": "customer",
+          "date_time": "2026-02-17 14:12:09.416"
+        },
+        {
+          "message_media": [],
+          "message_text": "D.S. & DURGA: Thanks for your efforts in locating the package and I apologize for the inconvenience. Since the package was tagged as delivered by the carrier, it's best to reach out to them. Have you tried giving them a call? They should have the most up-to-date information. ",
+          "message_type": "agent",
+          "agent": "35256",
+          "message_id": "019c6d05-8869-470c-f000-0000f12bc851",
+          "date_time": "2026-02-17 14:13:25.120"
+        },
+        {
+          "message_media": [],
+          "message_text": "Oh I did",
+          "message_type": "customer",
+          "date_time": "2026-02-17 14:17:09.331"
+        },
+        {
+          "message_media": [],
+          "message_text": "I can only do so much",
+          "message_type": "customer",
+          "date_time": "2026-02-17 14:17:29.388"
+        },
+        {
+          "message_media": [],
+          "message_text": "Should not be this hard that's why I gave up",
+          "message_type": "customer",
+          "date_time": "2026-02-17 14:17:35.014"
+        },
+        {
+          "message_media": [],
+          "message_text": "They neglected to take a picture or if one was taken I didn't see it",
+          "message_type": "customer",
+          "date_time": "2026-02-17 14:18:09.007"
+        },
+        {
+          "message_media": [],
+          "message_text": "It's ok",
+          "message_type": "customer",
+          "date_time": "2026-02-17 14:18:15.121"
+        },
+        {
+          "message_media": [],
+          "message_text": "D.S. & DURGA: Thanks for letting us know, and I sincerely apologize for the inconvenience caused! Surely, this isn't the experience I want you to have! I can't guarantee anything, but let me check with my team to see what we might be able to do. Can you please confirm the order number? \n\nYou can find your order details in your order confirmation email. Be sure to check your spam and promo folders. Sometimes the emails can end up there. ",
+          "message_type": "agent",
+          "agent": "46498",
+          "message_id": "019c6d0f-b420-4fdd-f000-0000f12bc851",
+          "date_time": "2026-02-17 14:24:31.671"
+        },
+        {
+          "message_media": [],
+          "message_text": "Hey things happen",
+          "message_type": "customer",
+          "date_time": "2026-02-17 18:35:18.715"
+        },
+        {
+          "message_media": [],
+          "message_text": "But I still never got it",
+          "message_type": "customer",
+          "date_time": "2026-02-17 18:37:38.611"
+        },
+        {
+          "message_media": [],
+          "message_text": "I was changing addresses. I wonder if there was a mess up",
+          "message_type": "customer",
+          "date_time": "2026-02-17 18:37:58.681"
+        },
+        {
+          "message_media": [],
+          "message_text": "D.S. & DURGA: Thanks for getting back to me with that screenshot! I'm really sorry for the inconvenience. Could you please share your email address and confirm the order number from that same email? I'll be happy to look into this with my team!",
+          "message_type": "agent",
+          "agent": "109840",
+          "message_id": "019c6df9-5997-438d-f000-0000f12bc851",
+          "date_time": "2026-02-17 18:39:43.941"
+        },
+        {
+          "message_media": [],
+          "message_text": "D.S. & DURGA: The enhancer of all enhancers. Wear it alone or over anything. \n\nhttps://dsanddurga.attn.tv/aErVxPeJNt1M \n\nText back if you have any questions!",
+          "message_type": "system",
+          "date_time": "2026-02-19 14:01:38.610"
+        },
+        {
+          "message_media": [],
+          "message_text": "Since I did not receive my previous order, although I've always loved your candles and your perfumes, but I did not receive it. I spoke to the customer service and I just personally just kept saying sorry sorry sorry you know so I'm kind of put off by it.",
+          "message_type": "customer",
+          "date_time": "2026-02-19 15:05:11.986"
+        },
+        {
+          "message_media": [],
+          "message_text": "D.S. & DURGA: Hello, Gayne. We apologize once again! I was going to check on this with the team, but I'm afraid I didn't get a response for the order number confirmation. It's from Order #353020, is that right? Also, your email address is rain.dance32@gmail.com?",
+          "message_type": "agent",
+          "agent": "33482",
+          "message_id": "019c7791-64db-4b20-f000-0000f12bc851",
+          "date_time": "2026-02-19 15:22:23.233"
+        },
+        {
+          "message_media": [
+            "https://attentive-files.s3.amazonaws.com/receive-event-media/1771532602231_2024580581425180672.jpeg",
+            "https://attentive-files.s3.amazonaws.com/receive-event-media/1771532602186_2024580581425180672.application/smil"
+          ],
+          "message_text": "Yes",
+          "message_type": "customer",
+          "date_time": "2026-02-19 15:23:29.274"
+        },
+        {
+          "message_media": [],
+          "message_text": "Do about it is changing so I don't know what to do. I know I really didn't think much about it until someone reached out about how I was doing and talking about it. I've realized I'm really angry, but I didn't think that was. It's just so much I had hoped for that candl.\nI tend to put too much emotions into an inanimate object and I know isn't that terrible so I'm OK but I'm sad",
+          "message_type": "customer",
+          "date_time": "2026-02-19 15:24:49.503"
+        },
+        {
+          "message_media": [],
+          "message_text": "D.S. & DURGA: Thanks for sending that in and I'm truly sorry for the frustration. I completely understand how upsetting it can be when something you care about brings up unexpected emotions. Your feelings are valid, and it's okay to feel sad and frustrated.\n\nI'll check on this with the team right now and get back to you as soon as I have a response. Please hang tight!\n",
+          "message_type": "agent",
+          "agent": "37648",
+          "message_id": "019c7794-c870-429b-f000-0000f12bc851",
+          "date_time": "2026-02-19 15:26:05.321"
+        },
+        {
+          "message_media": [],
+          "message_text": "No, just absolutely no I'm tired of the continuation of. I'm sorry I'm sorry just drop it will drop it. Let's go on with our lives. Thank you very much. I do appreciate your patience. You've had a very you've been very patient with me and I appreciate your your attempts to help me, but I am tired of this. I have never experience this with any order from any company where you have to. The thing is I've already been to this before so when I didn't get it I just dropped the whole issue..",
+          "message_type": "customer",
+          "date_time": "2026-02-19 15:56:09.171"
+        },
+        {
+          "message_media": [],
+          "message_text": "I find almost traumatizing to have to fight or argue with with a customer care. I just don't do that. I won't do that so I stay away from return as usually and this isn't even a return. This is where you didn't see where you sent it yes so it's not your fault in the and the post office will not take any responsibility so I don't know how this is handled. The only other time this was handled they gave it to me again.",
+          "message_type": "customer",
+          "date_time": "2026-02-19 15:57:29.414"
+        },
+        {
+          "message_media": [],
+          "message_text": "D.S. & DURGA: I sincerely apologize for the inconvenience. I'm truly sorry this has been your experience, as that's never what we want for you. I genuinely wish I could resolve this for you right away, but my system isn't equipped to handle this type of issue directly.\n\nI'm still waiting for an update from the team, and I completely understand how frustrating the wait can be. Please know I'm keeping an eye on this, and I'll reach out to you as soon as I have any news.",
+          "message_type": "agent",
+          "agent": "82427",
+          "message_id": "019c77be-c4d0-4274-f000-0000f12bc851",
+          "date_time": "2026-02-19 16:11:56.907"
+        },
+        {
+          "message_media": [],
+          "message_text": "It's ok",
+          "message_type": "customer",
+          "date_time": "2026-02-19 17:37:28.677"
+        },
+        {
+          "message_media": [],
+          "message_text": "D.S. & DURGA: Thanks for your patience! I just heard from the team, and we understand how important this is. We're sorry to hear that you did not receive your order, but we do advise customers to inform us within a week if the order was not received. Unfortunately, you've passed that window.\n\nIf you have any further questions or need assistance, please don't hesitate to contact me. We're here to help!",
+          "message_type": "agent",
+          "agent": "32937",
+          "message_id": "019c7c60-ae2d-4654-f000-0000f12bc851",
+          "date_time": "2026-02-20 13:47:16.810"
+        },
+        {
+          "message_media": [],
+          "message_text": "I did",
+          "message_type": "customer",
+          "date_time": "2026-02-20 13:50:07.016"
+        },
+        {
+          "message_media": [],
+          "message_text": "I already told you guys I've gone through all of this before with you already about the same candle. I've already said all that.",
+          "message_type": "customer",
+          "date_time": "2026-02-20 13:50:17.024"
+        },
+        {
+          "message_media": [],
+          "message_text": "I've never seen a company so reluctant just to help a customer, but you will see it in my new review",
+          "message_type": "customer",
+          "date_time": "2026-02-20 13:50:30.106"
+        },
+        {
+          "message_media": [],
+          "message_text": "Why do you think one of my very Comments was that it's OK never mind because I've already tried this and I already talked to you guys and I already went through the process and I didn't get anywhere",
+          "message_type": "customer",
+          "date_time": "2026-02-20 13:51:06.677"
+        },
+        {
+          "message_media": [],
+          "message_text": "Reviews matter😘",
+          "message_type": "customer",
+          "date_time": "2026-02-20 13:51:36.760"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"Feedback 1 - All brands\"; last updated: 2023-10-10 18:03:27.339",
+          "message_type": "template",
+          "date_time": "2026-02-20 13:59:14.253"
+        },
+        {
+          "message_media": [],
+          "message_text": "D.S. & DURGA: I understand how frustrating this must be, and I'm truly sorry for the inconvenience. Customer feedback means a lot to us and helps us keep improving. I truly appreciate you sharing this, and I'll be sure to pass it along to our team for future consideration.",
+          "message_type": "agent",
+          "agent": "109968",
+          "message_id": "019c7c6b-a0b1-4e3d-f000-0000f12bc851",
+          "date_time": "2026-02-20 13:59:14.256"
+        }
+      ],
+      "notes": {},
       "rightPanel": {
         "source": {
           "label": "Website",
-          "value": "https://backcountry.com",
+          "value": "https://dsanddurga.com",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "Italian Citrus Eau de Parfum 50 mL",
+            "link": "https://www.dsanddurga.com/products/italian-citrus?product=6752170704969&variant=39924032667721",
+            "timeAgo": "2026-02-17"
+          },
+          {
+            "item": "Radio Bombay Pocket Perfume",
+            "link": "https://www.dsanddurga.com/products/radio-bombay?product=8256521011491&variant=44778490134819",
+            "timeAgo": "2026-01-04"
+          },
+          {
+            "item": "Radio Bombay Pocket Perfume",
+            "link": "https://www.dsanddurga.com/products/radio-bombay-pocket-perfume?product=8256521011491&variant=44778490134819",
+            "timeAgo": "2026-01-04"
+          }
+        ],
+        "orders": [
+          {
+            "orderNumber": "353020",
+            "orderDate": "2026-01-02",
+            "items": [
+              {
+                "name": "Dream Lychee",
+                "price": 70,
+                "productLink": "https://dsanddurga.myshopify.com/products/dream-lychee"
+              }
+            ],
+            "link": "https://store.dsanddurga.com/3797669/orders/9d59c6fe071cea252ae8535c70639665/authenticate?key=84ff05b98ca912bc13796fb1de2a34ba",
+            "trackingLink": "https://tools.usps.com/go/TrackConfirmAction?qtc_tLabels1=9481750105798000101637",
+            "order_tracking_link": "https://tools.usps.com/go/TrackConfirmAction?qtc_tLabels1=9481750105798000101637",
+            "total": 70,
+            "date_time": "2026-01-02 18:37:42.439"
+          }
+        ]
+      },
+      "escalation_preferences": [
+        "Exchanges and returns",
+        "Discount code errors"
+      ],
+      "blocklisted_words": [],
+      "has_shopify": true
+    },
+    "2": {
+      "id": "019c6ced-c790-44e4-f000-0000fbdd1035",
+      "companyName": "Covercraft",
+      "companyWebsite": "https://covercraft.com",
+      "agentName": "Sarah",
+      "messageTone": "Casual",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "Covercraft: Welcome to Covercraft! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
+          "message_type": "system",
+          "date_time": "2026-02-17 11:42:31.767"
+        },
+        {
+          "message_media": [],
+          "message_text": "Covercraft: Enjoy $10 Off with code SAVE10. Find Your Custom Cover Today!\n\nView Active Deals: https://covercraft.attn.tv/aJqNu5dbh9oR ",
+          "message_type": "system",
+          "date_time": "2026-02-17 11:42:35.795"
+        },
+        {
+          "message_media": [],
+          "message_text": "Covercraft: Hey there, this is Sarah. Thanks for checking out our site! 😊 https://covercraft.attn.tv/aa7J36khrk0T \n\nAre you looking for anything in particular today? ",
+          "message_type": "system",
+          "date_time": "2026-02-17 12:20:58.968"
+        },
+        {
+          "message_media": [],
+          "message_text": "Tire covers for our newly purchased 2026 Allegro Bay 38AB",
+          "message_type": "customer",
+          "date_time": "2026-02-17 13:18:00.989"
+        },
+        {
+          "message_media": [],
+          "message_text": "Covercraft: Thanks for reaching out! Can you check the tire size? This is usually printed on the sidewall, e.g., 275/80R22.5. You may also check this link for our tire covers: https://covercraft.attn.tv/a0IIpbN3qwNk",
+          "message_type": "agent",
+          "agent": "109972",
+          "message_id": "019c6ced-c790-44e4-f000-0000fbdd1035",
+          "date_time": "2026-02-17 13:47:28.427"
+        }
+      ],
+      "notes": {
+        "templates": [
+          "For custom full vehicle covers use FVC shortcut",
+          "For cx that can't see the cover pattern/images of their vehicle use CPI shortcut",
+          "If we don't have a pattern/color the cx is looking for use PRR shortcut"
+        ],
+        "dos_and_don_ts": [
+          "Do not tell customers that the base price is the final price! The cost changes by the fitment and depends on the vehicle",
+          "Rebates are discounts for this brand!",
+          "Custom dim pattern sheets are only available for Vehicle Covers (Car, Truck, Van,RV)",
+          "➜https://www.covercraft.com/us/en/covercrafter"
+        ],
+        "drive_to_purchase": [
+          "Before sharing any product links, confirm the vehicle’s Year, Make, and Model"
+        ]
+      },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://covercraft.com",
           "date": ""
         }
       },
-      "companyWebsite": "https://backcountry.com",
-      "companyName": "Backcountry",
+      "escalation_preferences": [
+        "Discount code errors"
+      ],
+      "blocklisted_words": [],
+      "has_shopify": false
+    },
+    "3": {
+      "id": "019c687b-8309-4bc7-f000-0000fbc07c05",
+      "companyName": "BulbHead",
+      "companyWebsite": "https://bulbhead.com",
+      "agentName": "",
+      "messageTone": "Polished",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "BulbHead: Welcome! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel. Privacy: attnl.tv/p/mTF Stop to stop",
+          "message_type": "system",
+          "date_time": "2026-02-16 16:57:51.958"
+        },
+        {
+          "message_media": [],
+          "message_text": "BulbHead: Welcome! Enjoy 12% OFF your first order with code TEXT12. Tap here to unlock now >> https://bulbhead.attn.tv/auytAjlrp2Mw  Stop to stop",
+          "message_type": "system",
+          "date_time": "2026-02-16 16:57:55.955"
+        },
+        {
+          "message_media": [],
+          "message_text": "BulbHead: Oh, also, a lot of people like getting personal recs from us. Over the next few days we'll try to help you find something that you will love.\n\nReady to upgrade your space? See what's trending and pick your favorites here: https://bulbhead.attn.tv/a5GYQVmwOJOQ . Stop to stop",
+          "message_type": "system",
+          "date_time": "2026-02-16 16:59:03.665"
+        },
+        {
+          "message_media": [],
+          "message_text": "I bought a wallet from this company about five years ago, so I was wondering if you still had them",
+          "message_type": "customer",
+          "date_time": "2026-02-16 16:59:47.365"
+        },
+        {
+          "message_media": [],
+          "message_text": "BulbHead: Thank you for reaching out! I'd be happy to look into this for you. Do you still recall the specific name of the wallet? Currently, we only have the Slim Mint Wallet available here: https://bulbhead.attn.tv/atM8LZCcbpsc",
+          "message_type": "agent",
+          "agent": "87310",
+          "message_id": "019c687b-8309-4bc7-f000-0000fbc07c05",
+          "date_time": "2026-02-16 17:04:10.921"
+        }
+      ],
       "notes": {
-        "escalate": [
-          "No escalations for this client, send everything to CS"
+        "send_to_cs": [
+          "No ESC for this client, send everything to CS"
         ],
         "tone": [
           "Close the convo once the client takes over"
-        ],
-        "promo_and_exclusions": [
-          "Welcome offer page:   https://www.backcountry.com/sc/new-customer-coupon-rules"
         ]
       },
-      "blocklisted_words": [
-        
-      ],
-      "escalation_preferences": [
-        
-      ],
-      "messageTone": "Polished",
-      "conversation": [
-        {
-          "message_type": "system",
-          "message_text": "Backcountry: FINAL HOURS. Up to 70% off Flash Sale wraps tonight! Last chance to grab adventure-changing gear for less: http://bctxt.co/aTGbYhWhdX1c ",
-          "date_time": "2026-01-19 20:00:33.323",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Backcountry: Check out the Nano Puff Insulated Jacket—lightweight warmth with PrimaLoft Gold insulation and durable ripstop fabric.\n\n1K people recently added it to their cart.\n\nThis one\u0027s for you: http://bctxt.co/a9jfByzZ7_Fd .",
-          "date_time": "2026-01-21 13:43:20.457",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Backcountry: 20% off full-price goggles \u0026 sunnies from top brands ends tomorrow. Lock in clearer views: http://bctxt.co/aesbBxNkvLZv \n\nDiscount applies in cart.",
-          "date_time": "2026-01-21 21:04:20.462",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Backcountry: Grab the McMurdo Down Parka in your cart; it keeps you warm and dry.\n\nJust 5 left!\n\nShop now: http://bctxt.co/asLtfr4qqB44 .",
-          "date_time": "2026-01-22 13:43:20.126",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Backcountry: Hey—seeing jackets built for cold and wet days: lightweight warmth with insulated panels and packed convenience.\n\nThis pick looks right for you: http://bctxt.co/a3-Owsbq6At0 .",
-          "date_time": "2026-01-22 14:43:30.879",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Backcountry: Check the Apex Bionic 3 Jacket—wind-blocking, stretchy softshell that moves with you.\n\n52 people recently added this to their cart.\n\nTry it here: http://bctxt.co/a8eepXAmXGnm .",
-          "date_time": "2026-01-22 22:12:46.508",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Backcountry: 20% off full-price items just landed! Now thru 1/26. Save on all those warm weather must haves now: http://bctxt.co/a4prkBBDMGLx ",
-          "date_time": "2026-01-23 21:11:12.902",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Backcountry: Gear up with Nuuk Lite Parka — synthetic insulation, waterproof protection, and secure pockets keep you warm and dry.\n\n33 people added this to their cart.\n\nCheck it out here: http://bctxt.co/anePWUYzDnli .",
-          "date_time": "2026-01-24 12:21:24.944",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Backcountry: Grab the Junction Insulated Jacket — lightweight warmth, Heatseeker insulation, fleece-lined collar, made from 70% recycled materials.\n\n90 people recently added it to their cart.\n\nSee it here: http://bctxt.co/aEobMp81EfNM .",
-          "date_time": "2026-01-25 13:49:38.576",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Backcountry: Grab the Lodge Jacket in your cart — lightweight, packable warmth with a cozy collar.\n\n7 people recently purchased Lodge Jacket; complete your order before it disappears!\n\nShop now: http://bctxt.co/aBY1w2-58R2l .",
-          "date_time": "2026-01-26 17:16:53.397",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Backcountry: Nice pick — those insulated jackets are made for cold days and easy layering.\n\nBuy here: http://bctxt.co/aWhNmWctNw3q .",
-          "date_time": "2026-01-26 18:16:57.720",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Backcountry: Imagine cozy days outside with the Antora Triclimate Jacket keeping you warm and flexible for whatever you do.\n\nYour next layer is here: http://bctxt.co/a25VIPqMU87u .",
-          "date_time": "2026-01-27 13:43:24.020",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Backcountry: Grab the Infinity Windstopper Hoodie in your cart — warm, helmet-ready comfort you\u0027ll want now.\n\n13 people recently purchased Infinity Windstopper Hoodie; complete your order before it disappears!\n\nShop now: http://bctxt.co/aDqss6CuFC9Z .",
-          "date_time": "2026-01-29 13:43:26.503",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Backcountry: Ready to warm up your cold days? Check out the men\u0027s insulated jackets built for lightweight warmth and weather protection.\n\nThis pick\u0027s waiting: http://bctxt.co/aMJfr2UbQdIS .",
-          "date_time": "2026-01-29 14:43:37.614",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Backcountry: 48 hrs only! Take 20% off full-price picks from The North Face, Osprey \u0026 more top brands. Sign in to gear up: http://bctxt.co/aGOwuVoreF-w ",
-          "date_time": "2026-01-30 15:04:31.749",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Backcountry: Extra 20% off clearance just dropped! Stack deeper deals on already-marked-down gear for a limited time only: http://bctxt.co/at8PPFdIJj2L ",
-          "date_time": "2026-01-31 13:04:20.699",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Backcountry: Wrap yourself in the Skogso Padded Jacket and feel cozy confidence on every winter outing, keeping you warm and ready for adventure.\n\nThis look is for you: http://bctxt.co/aFzws3h0OmHA .",
-          "date_time": "2026-01-31 13:42:25.454",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Backcountry: Final hours! Last chance to score 20% off full-price favorites for all your upcoming adventures: http://bctxt.co/aN-mrmCJJgsz ",
-          "date_time": "2026-01-31 17:32:36.333",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Backcountry: Extra 20% off clearance ends tonight! Who doesn\u0027t love savings on top of savings? Get it while you can:http://bctxt.co/aRzv3lJmRWsG ",
-          "date_time": "2026-02-02 16:02:19.144",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Backcountry: Imagine crisp alpine mornings with the Xenair Alpine Light Jacket keeping you comfortably warm on every trail.\n\nOur Winter Semi-Annual Sale has up to 50% off through Sunday.\n\nGear up here: http://bctxt.co/aYz2TSPP1DMv .",
-          "date_time": "2026-02-04 13:39:10.630",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Backcountry: Our Semi-Annual Sale is heating up! Snag new to sale styles up to 50% off, while supplies last: http://bctxt.co/abT1BAJ0WRIn ",
-          "date_time": "2026-02-05 17:32:20.165",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Backcountry: Feel ready for crisp winter mornings in the Skogso Padded Jacket, keeping your adventures cozy and confident.\n\nOur Winter Semi-Annual Sale is offering up to 50% off through the season.\n\nGet yours here: http://bctxt.co/a8UVfMBVo-4z .",
-          "date_time": "2026-02-06 13:43:21.662",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Backcountry: VIP early access is here! Take an extra 20% off clearance now. 24 hours only to shop early: http://bctxt.co/aQjd2Mw79vjL ",
-          "date_time": "2026-02-06 16:30:55.097",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Backcountry: Feel the warmth and breathability the R2 TechFace Fleece Jacket brings to your active, cold days, keeping you comfortable on trails.\n\nWinter Semi-Annual Sale is offering up to 50% off through Sunday.\n\nCozy up in this fleece: http://bctxt.co/adEeNDZyEs5p .",
-          "date_time": "2026-02-07 18:42:11.876",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Backcountry: Hey, that was some great gear you were checking out! Go on, have another look: http://bctxt.co/acTakrbaE50- ",
-          "date_time": "2026-02-09 15:24:58.609",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Backcountry: Feel the freedom our Houdini Full-Zip Jacket brings to your outdoor days, light enough for easy adventures you\u0027ll love.\n\nWinter Semi-Annual Sale is on, with up to 50% off through Sunday.\n\nExplore it here: http://bctxt.co/adH57ols5gQu .",
-          "date_time": "2026-02-10 13:43:26.945",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Backcountry: Grab the Xenair Alpine Light Jacket — lightweight PrimaLoft Gold insulation and Pertex Quantum Air for alpine warmth.\n\nOur Winter Semi-Annual Sale is offering up to 50% off on select gear.\n\nBuy here: http://bctxt.co/a7fNop4y6CoI .",
-          "date_time": "2026-02-11 14:11:18.659",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Backcountry: Looking for the latest price drops? Score new savings from The North Face, Mammut \u0026 more! Shop Semi-Annual Sale: http://bctxt.co/a09Enhqh8sjI ",
-          "date_time": "2026-02-12 15:52:18.310",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Backcountry: Gear up with the R2 TechFace Fleece Jacket—weather-resistant, with a high-loft grid interior for breathable warmth.\n\nThe Winter Semi-Annual Sale is now up to 60% off.\n\nBuy here: http://bctxt.co/a0pnb25HYY6- .",
-          "date_time": "2026-02-13 13:43:21.439",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Backcountry: Hey, thanks again for shopping Backcountry. Here\u0027s a little boost for your next day outside. Use your exclusive code BCPPXSSMS26DHN0DJF for 20% off full-price items: http://bctxt.co/a1bD-27b_znl \n\n*Exclusions apply. One-time use only.",
-          "date_time": "2026-02-13 15:23:23.064",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Backcountry: The price of Lightweight Stormshadow Jacket - Men\u0027s has dropped! Don\u0027t miss this chance to grab it at a great price:http://bctxt.co/aHGiP2N3qNdk .",
-          "date_time": "2026-02-14 15:14:41.745",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Backcountry: Check out the Glidewheel GORE-TEX Jacket, a lightweight, waterproof shell with a high collar and dropped tail built for wet rides.\n\nOur Winter Semi-Annual Sale is now up to 60% off.\n\nTry it on for your next wet day: http://bctxt.co/as_t4KAX0p7T .",
-          "date_time": "2026-02-14 15:52:24.424",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Backcountry: Don\u0027t forget, Lightweight Stormshadow Jacket - Men\u0027s is 30% off! Grab it while you can:http://bctxt.co/aynSTqgwQgls",
-          "date_time": "2026-02-15 15:14:53.910",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Backcountry: Final hours! Up to 70% off Closeout Sale wraps tonight. Find last-chance deals here: http://bctxt.co/aYEAPJ3KebKR ",
-          "date_time": "2026-02-16 15:02:51.931",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Backcountry: Check out the Triolet Jacket—rugged GORE-TEX protection with breathable alpine performance.\n\nOur Winter Semi-Annual Sale is now up to 60% off.\n\nGear up here: http://bctxt.co/aFHtOTHa7vWo .",
-          "date_time": "2026-02-16 22:25:56.903",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Backcountry: Grab the Triolet Jacket you left in your cart—rugged GORE-TEX protection built for alpine weather.\n\nOur Winter Semi-Annual Sale is now up to 60% off.\n\nShop now: http://bctxt.co/akfCF9sNlgOe .",
-          "date_time": "2026-02-17 18:39:40.611",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "20% doesnt apply",
-          "date_time": "2026-02-17 19:09:17.767",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c6e1f-4f22-4780-f000-0000ee0e7616",
-          "message_text": "Backcountry: Thanks for getting in touch! I\u0027m really sorry for the inconvenience. To confirm, are you using the code BCPPXSSMS26DHN0DJF for 20% off? If so, upon checking, the code is only applicable for your first order. Since our system shows that you already ordered in the past, I\u0027m afraid you\u0027re no longer eligible for the code. No worries! Our deals will always be shared with our SMS subscribers or on our website, so keep an eye out! In the meantime, you can check out our sales collection here: http://bctxt.co/a27i1rPfuvKJ",
-          "message_type": "agent",
-          "agent": "109840",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-17 19:21:11.613"
-        }
-      ]
-    },
-    "2": {
-      "agentName": "Jordan",
-      "id": "019c6796-a65f-4e7c-f000-0000fbb89d7f",
       "rightPanel": {
-        "browsingHistory": [
-          {
-            "link": "https://www.customgoldgrillz.com/products/custom-fit-solid-gold-single-bottom-tooth-grillz?variant=12785469849623",
-            "item": "Solid Gold Single Tooth Grillz - 14K Gold / L3",
-            "timeAgo": "2026-02-16"
-          },
-          {
-            "link": "https://www.customgoldgrillz.com/products/custom-fit-solid-gold-single-bottom-tooth-grillz?variant=12785408835607",
-            "item": "Solid Gold Single Tooth Grillz - 14K Gold / R1",
-            "timeAgo": "2026-02-16"
-          },
-          {
-            "link": "https://www.customgoldgrillz.com/products/custom-fit-solid-gold-single-bottom-tooth-grillz",
-            "item": "Solid Gold Single Tooth Grillz - 10K Gold / R1",
-            "timeAgo": "2026-02-16"
-          },
-          {
-            "link": "https://www.customgoldgrillz.com/products/custom-fit-solid-gold-single-bottom-tooth-grillz?variant=12785469849623",
-            "item": "Solid Gold Single Tooth Grillz - 14K Gold / L3",
-            "timeAgo": "2026-02-16"
-          },
-          {
-            "link": "https://www.customgoldgrillz.com/products/custom-fit-solid-gold-single-bottom-tooth-grillz?variant=12785408835607",
-            "item": "Solid Gold Single Tooth Grillz - 14K Gold / R1",
-            "timeAgo": "2026-02-16"
-          }
-        ],
         "source": {
           "label": "Website",
-          "value": "https://customgoldgrillz.com",
+          "value": "https://bulbhead.com",
           "date": ""
         }
       },
-      "companyWebsite": "https://customgoldgrillz.com",
-      "companyName": "Custom Gold Grillz",
-      "notes": {
-        "send_to_cs": [
-          "Send to CS immediately if cx did not receive their order",
-          "Send to CS immediately for post purchase inquiries about the status of the mold, or issues with the molds",
-          "Send to CS for pricing inquiries",
-          "Send to CS if cx is looking for a more specific piece not available on the website",
-          "Send to CS if cx is asking for a code and we don\u0027t have one"
-        ],
-        "escalate": [
-          "No escalations for this client, send everything to CS"
-        ],
-        "tone": [
-          "Use Teeth instead of Pieces (e.g 8 teeth at the top)"
-        ],
-        "templates": [
-          "If the image is not coming through a second time, send Broken Image temp",
-          "For CUSTOM GRILLZ \u0026 ACCESSORIES INQUIRIES for models not available on the website use PS shortcut",
-          "For urgent concerns/delayed escalation response use PS shortcut",
-          "For delayed orders and the customer is frustrated use PS shortcut",
-          "For customer service use shortcut CS which has both the direct email/number"
-        ],
-        "dos_and_donts": [
-          "Do not use the order history as a reference to order status",
-          "If customers want to cancel their order always ask for the reason for cancellation"
-        ],
-        "drive_to_purchase": [
-          "Don\u0027t recommend pre-made grillz! Upsell to fitted and custom grillz",
-          "When recommending an item, let the cx know they can customize their order on the product page",
-          "When recommending an item, ask the cx if they are working with a budget",
-          "Use LFG shortcut to gather information and provide recommendations when cx ask about:",
-          "➜ Grillz/Chain recommendation",
-          "➜ Grillz/Chain in general",
-          "➜ Grillz/Chains pricing"
-        ]
-      },
-      "blocklisted_words": [
-        
-      ],
-      "escalation_preferences": [
-        
-      ],
+      "escalation_preferences": [],
+      "blocklisted_words": [],
+      "has_shopify": true
+    },
+    "4": {
+      "id": "019c4993-0c1a-4693-f000-00006870f4fe",
+      "companyName": "GBNY",
+      "companyWebsite": "https://gbny.com",
+      "agentName": "Sarah",
       "messageTone": "Formal",
       "conversation": [
         {
+          "message_media": [],
+          "message_text": "GBNY: The Hottest Air Jordan 4 Retro \"Flight Club\"- Family Collection has Just dropped, Limited stock available, don't miss out on these must-have kicks! \n gbny.attn.tv/a-B5bfvxh-Mp \n\nShop the best sale ever: Up to 40% OFF + Free Shipping\ngbny.attn.tv/abXolb1awQfz ",
           "message_type": "system",
-          "message_text": "Custom Gold Grillz: Welcome to Custom Gold Grillz! Msg \u0026 data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
-          "date_time": "2026-02-16 12:28:04.315",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-01-17 12:20:29.621"
         },
         {
+          "message_media": [],
+          "message_text": "GBNY: Just dropped: Air Jordan 9 Retro \"Flint Grey.\" Full family sizes + free shipping. \nShop Now: gbny.attn.tv/am22YKVzpXxj \n\nSale: gbny.attn.tv/aDiqba1qMwMD ",
           "message_type": "system",
-          "message_text": "Custom Gold Grillz: Welcome! Your 20% BACK offer is below!\n\nClick here to auto-apply it when you shop: https://customgoldgrillz.attn.tv/a4paWRpoAiKR \n\nText back with any questions!\n- Jordan \n",
-          "date_time": "2026-02-16 12:28:07.268",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-01-24 12:05:45.612"
         },
         {
+          "message_media": [],
+          "message_text": "GBNY: AJ 4 \"Sierra Red\" has arrived in family sizes! Also, check out Nike Diamond Turf 2 \"Red Gold\" with Free Shipping.\n\nShop now: gbny.attn.tv/adM2rPzbMdFK ",
           "message_type": "system",
-          "message_text": "Custom Gold Grillz: Don\u0027t miss out: Add us as a contact to your phone to access exclusive content first!",
-          "date_time": "2026-02-16 12:28:10.370",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-07 12:05:27.510"
         },
         {
+          "message_media": [],
+          "message_text": "GBNY: Hey , this is Sarah. Thanks for stopping by! 😊 https://gbny.attn.tv/amQu4eNJ55Yf \n\nAre you looking for a Nike Air Diamond Turf 2 Deion Sanders - Men's - 12.5 / Red today? \n\nTake $15 off with code VIP15 *select styles only",
           "message_type": "system",
-          "message_text": "Custom Gold Grillz: Hey , this is Jordan. Appreciate you stopping by! customgoldgrillz.attn.tv/alMpF2_YcX6U \n\nAnything you got your eye on? ",
-          "date_time": "2026-02-16 12:29:38.177",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-10 16:20:51.680"
         },
         {
+          "message_media": [],
+          "message_text": "Need in a 12.5",
           "message_type": "customer",
-          "message_text": "Yes a single gold tooth I just need to know does the dentist shape it and put it in your mouth ?",
-          "date_time": "2026-02-16 12:40:21.249",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-10 16:33:04.277"
         },
         {
-          "message_id": "019c678a-459e-4b71-f000-0000fbb89d7f",
-          "message_text": "Custom Gold Grillz: We provide a free molding kit with your order to take your teeth impression at home. You can also visit a dentist for a professional impression if preferred.",
-          "message_type": "agent",
-          "agent": "62551",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-16 12:40:41.018"
-        },
-        {
-          "message_type": "customer",
-          "message_text": "Ok ! Wonderful 😊 so I can just place my order and you\u0027ll ship out my tooth with a seal of its 100 percent gold 🪙",
-          "date_time": "2026-02-16 12:48:42.868",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c6792-1519-4987-f000-0000fbb89d7f",
-          "message_text": "Custom Gold Grillz: Yes, you can place your order for the Solid Gold Single Tooth Grillz here: https://customgoldgrillz.attn.tv/at_eSim8zwd0. It includes a quality guarantee.",
-          "message_type": "agent",
-          "agent": "62551",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-16 12:49:12.885"
-        },
-        {
-          "message_type": "customer",
-          "message_text": "Ok ! Thank you will do how long does it take to come in",
-          "date_time": "2026-02-16 12:50:21.215",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "template",
-          "message_text": "Template used: \"Shipping time\"; last updated: 2024-07-29 22:43:19.025",
-          "date_time": "2026-02-16 12:54:12.217",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c6796-a65f-4e7c-f000-0000fbb89d7f",
-          "message_text": "Custom Gold Grillz: We usually ship via USPS every business day at 2 pm PST. For our custom-made grillz, the production time is 2-3 weeks for Solid Style Grillz and 3-4 weeks for Iced Out Grillz, not including the shipping of the molding kits (back and forth) and finished piece. Overall, the timeframe could vary but should be around 3-4 weeks. For our pre-made grillz, once they\u0027re shipped, it\u0027ll take 3-5 business days domestically.",
-          "message_type": "agent",
-          "agent": "109968",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-16 12:54:12.219"
-        }
-      ]
-    },
-    "3": {
-      "agentName": "Jordan",
-      "id": "019c68ac-0c92-4df3-f000-0000a59545b1",
-      "rightPanel": {
-        "source": {
-          "label": "Website",
-          "value": "https://macofalltrades.com",
-          "date": ""
-        }
-      },
-      "companyWebsite": "https://macofalltrades.com",
-      "companyName": "Mac of All Trades",
-      "notes": {
-        "send_to_cs": [
-          "Send to CS for post-purchase/specific warranty inquiries",
-          "Send to CS for discount code issues immediatley",
-          "Send to CS for Affirm or financing issues (don\u0027t ask for screenshots)",
-          "Send to CS if cx card is declined",
-          "Send to CS if a customer accuses us of being misleading, illegal activity etc.",
-          "Send to CS If a customer insults us/is angry",
-          "Send to CS if cx has additional q\u0027s about tax exemption not included in our template",
-          "For software support direct customers to contact Apple Support directly"
-        ],
-        "tone": [
-          "Let the cx have the last word",
-          "Don\u0027t respond when the cx says they purchased elsewhere"
-        ],
-        "drive_to_purchase": [
-          "Don\u0027t recommend vintage products at all unless cx are specifically looking for a model"
-        ],
-        "promo_and_exclusions": [
-          "WELCOME CODE:",
-          "➜ For $10 off orders $49+",
-          "➜ Doesn\u0027t have an expiration date",
-          "➜ New subscribers only",
-          "➜ Sent automatically"
-        ]
-      },
-      "blocklisted_words": [
-        
-      ],
-      "escalation_preferences": [
-        "Esc if cm threatens with bad review/legal"
-      ],
-      "messageTone": "Polished",
-      "conversation": [
-        {
-          "message_type": "customer",
-          "message_text": "(attn) Hey, I need help with something: i was given a coupon code yesterday, but it’s not working? Please advice.",
-          "date_time": "2026-02-16 17:52:40.951",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c68a8-7f88-45e2-f000-0000a59545b1",
-          "message_text": "mac of all trades: I\u0027m sorry to hear that. Have you encountered any error messages? Also, could you kindly share the code and a screenshot of the items in your cart? I\u0027ll be happy to look into the issue! ",
-          "message_type": "agent",
-          "agent": "82447",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-16 17:53:19.136"
-        },
-        {
-          "message_type": "customer",
-          "message_text": "I thought it was more off. It\u0027s only $10 off. I may need to wait to purchase.",
-          "date_time": "2026-02-16 17:56:11.037",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "template",
-          "message_text": "Template used: \"Screenshot - All brands\"; last updated: 2023-10-10 18:09:41.020",
-          "date_time": "2026-02-16 17:57:11.859",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c68ac-0c92-4df3-f000-0000a59545b1",
-          "message_text": "mac of all trades: Thanks for the screenshot! Could you also share the code you received so I can check what seems to be the issue?",
-          "message_type": "agent",
-          "agent": "87310",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-16 17:57:11.862"
-        }
-      ]
-    },
-    "4": {
-      "agentName": "John",
-      "id": "019c595f-8c60-47fe-f000-0000faa650bf",
-      "rightPanel": {
-        "browsingHistory": [
-          {
-            "link": "https://www.theartofshaving.com/products/all/essential-starter-set-sandalwood/",
-            "item": "Essential Starter Set Sandalwood",
-            "timeAgo": "2026-02-13"
-          },
-          {
-            "link": "https://www.theartofshaving.com/products/gifts-kits/sandalwood-full-size-kit/",
-            "item": "Sandalwood Full Size Kit",
-            "timeAgo": "2026-02-12"
-          },
-          {
-            "link": "https://www.theartofshaving.com/products/gifts-kits/sandalwood-full-size-kit/",
-            "item": "Sandalwood Full Size Kit",
-            "timeAgo": "2026-02-12"
-          },
-          {
-            "link": "https://www.theartofshaving.com/products/gifts-kits/the-perfect-shave-sampler-sandalwood-1/?utm_campaign=Welcome!%20Enjoy%2050%25%20off%20your%20Perfect%20Shave%20Sampler!%20\u0026utm_source=50-off-sampler-1\u0026utm_medium=email",
-            "item": "The Perfect Shave Sampler - Sandalwood",
-            "timeAgo": "2026-02-12"
-          },
-          {
-            "link": "https://www.theartofshaving.com/products/gifts-kits/the-perfect-shave-sampler-sandalwood-1/?utm_campaign=Welcome!%20Enjoy%2050%25%20off%20your%20Perfect%20Shave%20Sampler!%20\u0026utm_source=50-off-sampler-1\u0026utm_medium=email",
-            "item": "The Perfect Shave Sampler - Sandalwood",
-            "timeAgo": "2026-02-12"
-          }
-        ],
-        "source": {
-          "label": "Website",
-          "value": "https://theartofshaving.com",
-          "date": ""
-        }
-      },
-      "companyWebsite": "https://theartofshaving.com",
-      "companyName": "The Art of Shaving",
-      "notes": {
-        "send_to_cs": [
-          "Send to CS if cx wants us to place order for them, use CS shortcut"
-        ],
-        "templates": [
-          "For adverse events or product quality complaints, use PS shortcut"
-        ],
-        "tone": [
-          "Ensure the word \"staging\" isn\u0027t in any link you send"
-        ]
-      },
-      "blocklisted_words": [
-        
-      ],
-      "escalation_preferences": [
-        "Adverse Events,",
-        "Product Quality Complaints"
-      ],
-      "messageTone": "Polished",
-      "conversation": [
-        {
-          "message_type": "system",
-          "message_text": "The Art of Shaving: Welcome! Msg \u0026 data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
-          "date_time": "2026-02-12 08:28:57.858",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "The Art of Shaving: Welcome to the ultimate grooming experience! Use code A6E2I3O6 for 50% off Perfect Shave Sampler. Shop Now: ",
-          "date_time": "2026-02-12 08:29:01.919",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "The Art of Shaving: Don\u0027t forget to save our contact for exclusive deals and updates!",
-          "date_time": "2026-02-12 08:29:04.161",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "The Art of Shaving: Hey I\u0027m John! Get a personalized shave consultation and discover products just for you: https://aos.attn.tv/a3QB1vPZUj5Y .\n\nText me with questions!",
-          "date_time": "2026-02-13 16:29:08.979",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "Hello Jon, I do have a I signed up on the art of shaving and they sent me a code and said it was good for 50% off some kind of an introductory offer website, put it in my cart put in the code and it says it\u0027s invalid so it\u0027s just just a gimmick or am I doing something wrong?",
-          "date_time": "2026-02-13 16:31:44.907",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c590c-2e11-484b-f000-0000faa650bf",
-          "message_text": "The Art of Shaving: I\u0027m sorry about that! Can you please share a screenshot of the items in your cart so I can check for you?",
-          "message_type": "agent",
-          "agent": "33953",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-13 17:08:16.431"
-        },
-        {
-          "message_id": "019c595f-8c60-47fe-f000-0000faa650bf",
-          "message_text": "The Art of Shaving: Thanks for sharing the code. Can you also send a screenshot of your cart so I can check? Please note that discounts can\u0027t be combined with other promotions.",
-          "message_type": "agent",
-          "agent": "109972",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-13 18:39:20.073"
-        }
-      ]
-    },
-    "5": {
-      "agentName": "Sarah",
-      "id": "019c49b9-b21a-4b23-f000-00000b6a5a4c",
-      "rightPanel": {
-        "source": {
-          "label": "Website",
-          "value": "https://kathykuohome.com",
-          "date": ""
-        }
-      },
-      "companyWebsite": "https://kathykuohome.com",
-      "companyName": "Kathy Kuo Home",
-      "notes": {
-        "escalate": [
-          "Esc inquiries about items not on the site",
-          "ESC if the cx missed a sale \u0026 wants to take advantage of it",
-          "ESC if the customer is asking for a discount and we don\u0027t have one",
-          "If cx is looking for general recommendations use LFR shortcut and ESC"
-        ],
-        "templates": [
-          "If cx is building a new home, interested in refurnishing their entire home or rooms in their home, use the IDS shortcut",
-          "If cx is shopping for a client use SFC shortcut",
-          "Any convo without a positive outcome (out of stock, not on sale, not shipping in time), use DSS shortcut"
-        ],
-        "dos_and_donts": [
-          "For product-specific delivery time-frame inquiries always check the product page for delivery info and share that with the cx"
-        ]
-      },
-      "blocklisted_words": [
-        
-      ],
-      "escalation_preferences": [
-        "Shipping questions",
-        "Discount code errors",
-        "Exchanges and returns",
-        "Lead time questions",
-        "Stock questions",
-        "Price matching",
-        "Angry or dissatisfied customer"
-      ],
-      "messageTone": "Polished",
-      "conversation": [
-        {
-          "message_type": "system",
-          "message_text": "Kathy Kuo: Reminder! Get our Amaris Updated Traditional White Curved Glass 13 Light Chandelier while it\u0027s in stock! \n\nMake the design magic happen: https://kathykuohome.attn.tv/aJNlPVEeD_-- .",
-          "date_time": "2026-01-12 08:43:12.315",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Kathy Kuo: Don\u0027t forget our Dresden French Country Antique White Fir Wood Arched Wall Mirror was lowered in price for a limited time only! Shop the savings: kathykuohome.attn.tv/aAmTp2bXgGD6",
-          "date_time": "2026-01-12 14:41:51.454",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Kathy Kuo: Winter Sale starts now! Thoughtfully designed pieces to cozy up your home, on sale for a limited time only: kathykuohome.attn.tv/aC6F3gDpA1yd . ",
-          "date_time": "2026-01-13 12:06:32.061",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Kathy Kuo: Got your eye on this? We love it too! Shop the perfect piece for your home: kathykuohome.attn.tv/a_YQL8C4fmsT .",
-          "date_time": "2026-01-13 13:57:14.156",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Kathy Kuo: Great news! We dropped the price on our Huxley Turmeric Velvet Eyelash Trim Throw Pillow - 22x22! Get the look you love before it goes: kathykuohome.attn.tv/aD84gUEYRkxN .",
-          "date_time": "2026-01-14 08:23:35.874",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Kathy Kuo: Amazing news! The Frost White Bird Chandelier - 30.75D you were looking at is back in stock! \n\nShop now before this designer favorite sells out again: https://kathykuohome.attn.tv/aa_d51-gve-4 .",
-          "date_time": "2026-01-14 08:29:44.032",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Kathy Kuo: Hey there, your great picks are waiting! Use code KKHSHIP15 for 15% off + free shipping. Finish your order here: kathykuohome.attn.tv/aKWSmCMBxflp . ",
-          "date_time": "2026-01-14 10:42:03.861",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Kathy Kuo: Reminder! Get our Frost White Bird Chandelier - 30.75D while it\u0027s in stock! \n\nMake the design magic happen: https://kathykuohome.attn.tv/azoHVVuirXFI .",
-          "date_time": "2026-01-15 08:29:46.553",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Kathy Kuo: Don\u0027t forget our Huxley Turmeric Velvet Eyelash Trim Throw Pillow - 22x22 was lowered in price for a limited time only! Shop the savings: kathykuohome.attn.tv/a-Q-YxFPhYTg",
-          "date_time": "2026-01-15 15:24:21.604",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Kathy Kuo: Cozy in and save! Our Winter Sale is on all weekend with your favorite furniture, lighting and decor: kathykuohome.attn.tv/aLZcEc6cyk10 . ",
-          "date_time": "2026-01-17 14:01:49.591",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Kathy Kuo: Got your eye on this? We love it too! Shop the perfect piece for your home: kathykuohome.attn.tv/aLxoXeMwsAml .",
-          "date_time": "2026-01-17 19:21:20.523",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Kathy Kuo: Our Winter Sale is officially here! 20% Off + Free Shipping on timeless pieces to refresh for the year ahead: kathykuohome.attn.tv/aHT_3AfKSRL_ . ",
-          "date_time": "2026-01-19 12:07:23.751",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Kathy Kuo: Still looking? Our Winter Sale ends soon. Don\u0027t miss out on 20% Off furniture, decor and more: kathykuohome.attn.tv/atwSLsLdGYcW . ",
-          "date_time": "2026-01-19 19:00:42.976",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Kathy Kuo: You still have time to save! 20% Off in-stock styles, custom pieces, and more cozy designer looks for your home: kathykuohome.attn.tv/axUxq4VGmj9W . ",
-          "date_time": "2026-01-20 13:01:21.595",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Kathy Kuo: Got your eye on this? We love it too! Shop the perfect piece for your home: kathykuohome.attn.tv/aN2MZWFJlCHA .",
-          "date_time": "2026-01-20 17:42:16.488",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Kathy Kuo: Amazing news! The Ari Frost White Resin End Table you were looking at is back in stock! \n\nShop now before this designer favorite sells out again: https://kathykuohome.attn.tv/aDLBddQOlOmw .",
-          "date_time": "2026-01-21 08:15:20.445",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Kathy Kuo: Hi, I\u0027m Sarah, your personal shopper for Kathy Kuo Home. Do you need help finding that perfect piece? \n\nhttps://kathykuohome.attn.tv/aZ4gxcjq1mQZ .",
-          "date_time": "2026-01-21 16:19:48.443",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Kathy Kuo: Shopping our Winter Sale? Final hours end tonight! Don\u0027t miss special savings on timeless furniture and decor: kathykuohome.attn.tv/a25lCkaf8gr3 ",
-          "date_time": "2026-01-21 19:00:51.616",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Kathy Kuo: Reminder! Get our Ari Frost White Resin End Table while it\u0027s in stock! \n\nMake the design magic happen: https://kathykuohome.attn.tv/ad8StRZjlC2i .",
-          "date_time": "2026-01-22 08:15:26.785",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Kathy Kuo: We wanted to let you know that the Xavier Modern Cream Fleece Bronze Metal Canopy Bed - King you were looking at is almost sold out! Grab it before it is too late: kathykuohome.attn.tv/aKPe57CHqXLd .",
-          "date_time": "2026-01-22 08:29:12.546",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Kathy Kuo: Hey there, this is Sarah. Thanks for checking out our site! https://kathykuohome.attn.tv/ajkkhRBN4jWc . Are you working on a home design project we can help you with?",
-          "date_time": "2026-01-22 15:55:46.353",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Kathy Kuo: Thank you for shopping with us again! Remember our team is here for anything you may need, from shipping updates to interior design services. Just text us!\n\nVisit us again to explore our latest looks: https://kathykuohome.attn.tv/aiP6oPaoPBp4 .",
-          "date_time": "2026-01-22 16:50:34.905",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Kathy Kuo: A room starts with walls. Our all-new wallpaper collection brings depth, history, and intention to every space: kathykuohome.attn.tv/a4M4hLLgT8ZK . ",
-          "date_time": "2026-01-23 15:35:29.310",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Kathy Kuo: Hey there! Just letting you know we offer interior design services guaranteed to bring your dream home to life with comfort, grace and style.\n\nSchedule a FREE consult today: https://kathykuohome.attn.tv/arPtyRkgYlTp .",
-          "date_time": "2026-01-23 16:50:41.349",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Kathy Kuo: Amazing news! The Ailani French Country Blue Reclaimed Pine Wood 3 Drawer Dresser you were looking at is back in stock! \n\nShop now before this designer favorite sells out again: https://kathykuohome.attn.tv/aCcqFmmuceLt .",
-          "date_time": "2026-01-24 08:19:41.529",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Kathy Kuo: Need that finishing touch? Enjoy $100 OFF most items of $500 or more with code TAKE100: https://kathykuohome.attn.tv/amCpnCBu0s_3 .\nExclusions apply.",
-          "date_time": "2026-01-24 16:50:43.803",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Kathy Kuo: Reminder! Get our Ailani French Country Blue Reclaimed Pine Wood 3 Drawer Dresser while it\u0027s in stock! \n\nMake the design magic happen: https://kathykuohome.attn.tv/aUMtUZFQcESe .",
-          "date_time": "2026-01-25 08:19:46.133",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Kathy Kuo: We wanted to let you know that the Sian Coastal Beach Natural Solid Jute Rug - 5\u0027x8\u0027 you were looking at is almost sold out! Grab it before it is too late: kathykuohome.attn.tv/a56OplmkmqGF .",
-          "date_time": "2026-01-25 08:30:49.464",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Kathy Kuo: Got your eye on this? We love it too! Shop the perfect piece for your home: kathykuohome.attn.tv/aMtL9Up3L0pD .",
-          "date_time": "2026-01-25 12:16:02.049",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Kathy Kuo: Reminder! Only a few of our Sian Coastal Beach Natural Solid Jute Rug - 5\u0027x8\u0027 are left! Shop before it\u0027s gone: kathykuohome.attn.tv/awlHNLbZEzem . ",
-          "date_time": "2026-01-26 08:53:37.328",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Kathy Kuo: Hey there, your great picks are waiting! Use code KKHSHIP15 for 15% off + free shipping. Finish your order here: kathykuohome.attn.tv/aojZBf6knDMC . ",
-          "date_time": "2026-01-26 09:43:56.587",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Kathy Kuo: Insiders only! Enjoy 20% Off + Free Standard Shipping on styles you love with code JAN26: kathykuohome.attn.tv/am3TZoJv_N21 \n\nExclusions apply. ",
-          "date_time": "2026-01-26 12:30:43.825",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Kathy Kuo: Great news! We dropped the price on our Palecek Selita Coastal Beach Cream Coco Beads Oval Chandelier! Get the look you love before it goes: kathykuohome.attn.tv/aKOnW2Nbu3El .",
-          "date_time": "2026-01-27 10:02:17.247",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Kathy Kuo: Amazing news! The Palecek Virginia Coastal Beach White Fiberglass Floral 3 Tier Chandelier you were looking at is back in stock! \n\nShop now before this designer favorite sells out again: https://kathykuohome.attn.tv/a1PwpAUIdv2o .",
-          "date_time": "2026-01-27 10:03:44.602",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Kathy Kuo: Got your eye on this? We love it too! Shop the perfect piece for your home: kathykuohome.attn.tv/aF2VfVDju4LW .",
-          "date_time": "2026-01-27 14:27:34.295",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Kathy Kuo: We wanted to let you know that the Sian Coastal Beach Natural Solid Jute Rug - 5\u0027x8\u0027 you were looking at is almost sold out! Grab it before it is too late: kathykuohome.attn.tv/aoxJZOli88sx .",
-          "date_time": "2026-01-28 08:33:59.545",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Kathy Kuo: Don\u0027t forget our Palecek Selita Coastal Beach Cream Coco Beads Oval Chandelier was lowered in price for a limited time only! Shop the savings: kathykuohome.attn.tv/afWiVu3Wl4ZY",
-          "date_time": "2026-01-28 16:02:30.603",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Kathy Kuo: Final hours! 20% off + FREE shipping with code JAN26 ends tonight. Last chance to make it yours: kathykuohome.attn.tv/aGUCkx9PPdAS . ",
-          "date_time": "2026-01-28 19:00:36.681",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Kathy Kuo: Reminder! Only a few of our Sian Coastal Beach Natural Solid Jute Rug - 5\u0027x8\u0027 are left! Shop before it\u0027s gone: kathykuohome.attn.tv/akPbi-tYgIfW . ",
-          "date_time": "2026-01-29 08:57:29.649",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Kathy Kuo: Got your eye on this? We love it too! Shop the perfect piece for your home: kathykuohome.attn.tv/aK43Y1xlbTJl .",
-          "date_time": "2026-01-29 14:28:05.707",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Kathy Kuo: Hey, this is Sarah! I wanted to thank you for your recent order. If there\u0027s anything else you have your eye on, text me back for 15% OFF!",
-          "date_time": "2026-01-31 16:50:48.544",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Kathy Kuo: Hey there, this is Sarah. Thanks for checking out our site! https://kathykuohome.attn.tv/a5eWfbIuaGpT . Are you working on a home design project we can help you with?",
-          "date_time": "2026-02-02 12:24:19.265",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Kathy Kuo: Got your eye on this? We love it too! Shop the perfect piece for your home: kathykuohome.attn.tv/ase6boKuAOOt .",
-          "date_time": "2026-02-02 14:23:04.637",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Kathy Kuo: Amazing news! The Matthew Modern Classic Brown Oak Media Console - 94\" you were looking at is back in stock! \n\nShop now before this designer favorite sells out again: https://kathykuohome.attn.tv/a9U6vHLxf_AW .",
-          "date_time": "2026-02-03 08:31:09.224",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Kathy Kuo: Hi, I\u0027m Sarah, your personal shopper for Kathy Kuo Home. Do you need help finding that perfect piece? \n\nhttps://kathykuohome.attn.tv/a3tuAjkEQPoG .",
-          "date_time": "2026-02-03 16:56:31.976",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Kathy Kuo: Great news! We dropped the price on our Lottie French Country Blue Floral Patterned Rug - 4\u0027x5\u00272\"! Get the look you love before it goes: kathykuohome.attn.tv/awjYG4wWW4i_ .",
-          "date_time": "2026-02-04 08:24:09.786",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Kathy Kuo: Hey there, the piece you loved is waiting! Use code ALMOSTHOME for 15% Off + Free Shipping when you finish your order: kathykuohome.attn.tv/a1cQovcXQo4f . ",
-          "date_time": "2026-02-04 14:45:10.236",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Kathy Kuo: Don\u0027t forget our Lottie French Country Blue Floral Patterned Rug - 4\u0027x5\u00272\" was lowered in price for a limited time only! Shop the savings: kathykuohome.attn.tv/aEgqWCdtyF6j",
-          "date_time": "2026-02-05 14:57:55.659",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Kathy Kuo: Great news! We dropped the price on our Cameron Modern Classic Off White Performance Metal Canopy Bed - King! Get the look you love before it goes: kathykuohome.attn.tv/ahTFAfFNrlmy .",
-          "date_time": "2026-02-06 08:31:54.036",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Kathy Kuo: Amazing news! The Stella Coastal Beach Natural Teak Wood Root Console Table - 98\" you were looking at is back in stock! \n\nShop now before this designer favorite sells out again: https://kathykuohome.attn.tv/arTl9a3mgZoW .",
-          "date_time": "2026-02-06 08:47:04.095",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Kathy Kuo: Reminder! Get our Stella Coastal Beach Natural Teak Wood Root Console Table - 98\" while it\u0027s in stock! \n\nMake the design magic happen: https://kathykuohome.attn.tv/aV9M7Iz5NzM4 .",
-          "date_time": "2026-02-07 08:47:08.287",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Kathy Kuo: Got your eye on this? We love it too! Shop the perfect piece for your home: kathykuohome.attn.tv/aLbXZNVQyf4k .",
-          "date_time": "2026-02-07 12:30:39.190",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Kathy Kuo: Don\u0027t forget our Cameron Modern Classic Off White Performance Metal Canopy Bed - King was lowered in price for a limited time only! Shop the savings: kathykuohome.attn.tv/ayN44brvRcDA",
-          "date_time": "2026-02-07 14:32:10.700",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Kathy Kuo: Great news! We dropped the price on our Rumi Coastal Beach Cream Performance Beige Wood Frame Rope Bedroom Bench! Get the look you love before it goes: kathykuohome.attn.tv/afwQ1TZyuE61 .",
-          "date_time": "2026-02-08 08:52:14.469",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Kathy Kuo: President\u0027s Day deals are here early! Up to 25% Off + Free Shipping on statement styles for a spring refresh: kathykuohome.attn.tv/adYbw9Pmag3x . ",
-          "date_time": "2026-02-09 12:15:32.391",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Kathy Kuo: Don\u0027t forget our Rumi Coastal Beach Cream Performance Beige Wood Frame Rope Bedroom Bench was lowered in price for a limited time only! Shop the savings: kathykuohome.attn.tv/abqwI-oeFTXB",
-          "date_time": "2026-02-09 14:52:29.896",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Kathy Kuo: Hey there, this is Sarah. Thanks for checking out our site! https://kathykuohome.attn.tv/aBOpri45QAWr . Are you working on a home design project we can help you with?",
-          "date_time": "2026-02-09 15:28:51.673",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "Thank you,This is Nancy Ciralsky and I am a Trade member.I just received 2 Henri cloud slipcovered sofas and the slipcover seems too large for the frame.  There is overlap across the front.It\u0027s not rightOne is worse than the otherWhat should I do to correct?",
-          "date_time": "2026-02-09 16:42:43.209",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c4461-08c2-41d4-f000-00000b6a5a4c",
-          "message_text": "Kathy Kuo: I\u0027m sorry to hear that! Let me raise this with the team. Can you please send me a photo of the items that you received, along with your order number and email address? ",
+          "message_media": [],
+          "message_text": "GBNY: I'm sorry about that! This size is sold out. I currently don't have the exact date of a possible restock, but I recommend checking our website and social media frequently. In the meantime, what do you think about this instead? - https://gbny.attn.tv/aNFKImF-cLvm ",
           "message_type": "agent",
           "agent": "50269",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-09 16:48:55.911"
+          "message_id": "019c497a-0872-4239-f000-00006870f4fe",
+          "date_time": "2026-02-10 16:34:20.302"
         },
         {
+          "message_media": [],
+          "message_text": "Ok just send a text when they are back in stock",
           "message_type": "customer",
-          "message_text": "Of course I\u0027ll be home sometime tomorrow so I\u0027ll send pics etc then Thank youNancy Ciralsky",
-          "date_time": "2026-02-09 17:14:29.959",
-          "message_media": [
-            
-          ]
+          "date_time": "2026-02-10 16:59:23.923"
         },
         {
-          "message_type": "customer",
-          "message_text": "I included picture of what I ordered and then rest are what I received.\r\nThere\u0027s even a small spot on none of the skirts.",
-          "date_time": "2026-02-10 12:39:45.316",
-          "message_media": [
-            "https://attentive-files.s3.amazonaws.com/receive-event-media/1770745178715_5161a2f8-6d8a-43cf-8f7b-d62a35da38f5-1.jpeg",
-            "https://attentive-files.s3.amazonaws.com/receive-event-media/1770745178715_5161a2f8-6d8a-43cf-8f7b-d62a35da38f5-1.jpeg"
-          ]
-        },
-        {
-          "message_id": "019c48a3-f6e2-4c03-f000-00000b6a5a4c",
-          "message_text": "Kathy Kuo: Thank you for sending that over. May I please have your order number and email address as well so that I can check this with the team? Please let me know, I\u0027m here to assist you. ",
+          "message_media": [],
+          "message_text": "GBNY: Thanks for getting back to me! We frequently send updates via our website and social media pages - make sure to stay tuned so you won't miss out! Feel free to let me know if there's anything else I can help you with in the meantime!",
           "message_type": "agent",
-          "agent": "87300",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-10 12:40:31.098"
-        },
-        {
-          "message_type": "customer",
-          "message_text": "Thank youI\u0027ll send right away",
-          "date_time": "2026-02-10 12:41:15.104",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "nciralsky@gmail.com",
-          "date_time": "2026-02-10 12:45:25.409",
-          "message_media": [
-            "https://attentive-files.s3.amazonaws.com/receive-event-media/1770745518549_7d7f362e-6577-4f79-8e43-80ef5a2f8839-1.png"
-          ]
-        },
-        {
-          "message_id": "019c48ac-358f-4f9d-f000-00000b6a5a4c",
-          "message_text": "Kathy Kuo: Thanks for sending that in! May I please have the order number as well? I\u0027m here to help you. ",
-          "message_type": "agent",
-          "agent": "87300",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-10 12:49:31.434"
-        },
-        {
-          "message_type": "customer",
-          "message_text": "Sorry",
-          "date_time": "2026-02-10 13:01:52.057",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "I just saw that this never came through Sorry",
-          "date_time": "2026-02-10 17:41:11.891",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "escalation",
-          "message_text": "voc: This is Nancy Ciralsky and I am a Trade member.I just received 2 Henri cloud slipcovered sofas and the slipcover seems too large for the frame. There is overlap across the front.It\u0027s not rightOne is worse than the otherWhat should I do to correct? | nciralsky@gmail.com, SR5023079",
-          "date_time": "2026-02-10 17:43:49.658",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "template",
-          "message_text": "Template used: \"Pass to the team - All brands\"; last updated: 2023-10-10 17:46:43.559",
-          "date_time": "2026-02-10 17:43:52.504",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c49b9-b21a-4b23-f000-00000b6a5a4c",
-          "message_text": "Kathy Kuo: No worries, I got you! Thanks for the info. I will pass this along to my team and get back to you as soon as possible.",
-          "message_type": "agent",
-          "agent": "109630",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-10 17:43:52.506"
+          "agent": "109840",
+          "message_id": "019c4993-0c1a-4693-f000-00006870f4fe",
+          "date_time": "2026-02-10 17:01:39.637"
         }
-      ]
+      ],
+      "notes": {
+        "send_to_cs": [
+          "No ESC for this client, send everything to CS"
+        ],
+        "promo_and_promo_exclusions": [
+          "Discount codes are for selected styles only.",
+          "Discount codes can't be combined with the other sales and discounts on-site."
+        ]
+      },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://gbny.com",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "Nike Air Diamond Turf 2 Deion Sanders - Men's - 12.5 / Red",
+            "link": "https://gbny.com/collections/new-arrival/products/nike-air-diamond-turf-2-deion-sanders-mens?variant=42561479016544&utm_campaign=Concierge-Site-Visitor-1&utm_source=attentive&utm_medium=text&externalId=Q7quO",
+            "timeAgo": "2026-02-10"
+          },
+          {
+            "item": "Nike Air Max TL - Men's - 12.5 / Red",
+            "link": "https://gbny.com/collections/nike/products/nike-air-max-tl-mens?variant=42567461830752&utm_campaign=Concierge&utm_medium=sms&utm_source=attentive&externalId=Q7quO",
+            "timeAgo": "2026-02-10"
+          },
+          {
+            "item": "Nike Air Diamond Turf 2 Deion Sanders - Men's - 12.5 / Red",
+            "link": "https://gbny.com/collections/new-arrival/products/nike-air-diamond-turf-2-deion-sanders-mens?variant=42561479016544",
+            "timeAgo": "2026-02-10"
+          }
+        ]
+      },
+      "escalation_preferences": [],
+      "blocklisted_words": [],
+      "has_shopify": true
+    },
+    "5": {
+      "id": "019c6ccc-d574-49ef-f000-0000ee07dd74",
+      "companyName": "Naturalizer",
+      "companyWebsite": "https://naturalizer.com",
+      "agentName": "",
+      "messageTone": "Polished",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "Naturalizer: Extra 25% off sale styles ends TONIGHT! Code: LASTCALL. Don't miss out.\n\nShop all clearance: naturalizer.attn.tv/aubwMwa2TxOg ",
+          "message_type": "system",
+          "date_time": "2026-01-20 12:45:15.699"
+        },
+        {
+          "message_media": [],
+          "message_text": "Naturalizer: Your Maxwell Ballet Flat is back in stock and they WILL sell out again. Shop to it: https://naturalizer.attn.tv/aUBVLNx18QcH .",
+          "message_type": "system",
+          "date_time": "2026-01-20 13:55:24.924"
+        },
+        {
+          "message_media": [],
+          "message_text": "Naturalizer: LAST CALL for code LASTCALL! Extra 25% off sale code expires soon.\n\nShop NOW: naturalizer.attn.tv/a29d9LgeXbMV ",
+          "message_type": "system",
+          "date_time": "2026-01-20 20:25:12.611"
+        },
+        {
+          "message_media": [],
+          "message_text": "Naturalizer: Snowstorm coming your way? Here's $30 off $150 to snag boots engineered for the elements.\n\nUse code: INBOX: naturalizer.attn.tv/an_ETSdfHtQI ",
+          "message_type": "system",
+          "date_time": "2026-01-24 13:35:15.703"
+        },
+        {
+          "message_media": [],
+          "message_text": "Naturalizer: Use your super-secret INBOX code before word gets out & your faves are gone!\n\nGet $30 off $150 now: naturalizer.attn.tv/aw78dbpT_4Wo ",
+          "message_type": "system",
+          "date_time": "2026-01-24 20:25:07.733"
+        },
+        {
+          "message_media": [],
+          "message_text": "Naturalizer: ICYMI: $30 off $150 with code: INBOX. Hurry, this exclusive deal ends soon!\n\nClaim your VIP savings: naturalizer.attn.tv/aj5URo2bF3jQ ",
+          "message_type": "system",
+          "date_time": "2026-01-26 16:00:12.437"
+        },
+        {
+          "message_media": [],
+          "message_text": "Naturalizer: How will you use your $30 off $150? It's decision time. Those shoes won't cart themselves.\n\nUse code: INBOX: naturalizer.attn.tv/atmH54Tk0QU- ",
+          "message_type": "system",
+          "date_time": "2026-01-27 19:10:08.563"
+        },
+        {
+          "message_media": [],
+          "message_text": "Naturalizer: Your $30 off $150 code: INBOX expires tonight! Use it on newness & need now styles.\n\nSHOP NOW: naturalizer.attn.tv/aPBnzS-Uk2uX ",
+          "message_type": "system",
+          "date_time": "2026-01-28 13:45:19.043"
+        },
+        {
+          "message_media": [],
+          "message_text": "Naturalizer: Tonight: $30 off $150. Tomorrow: $0 off $150. Our advice? Use code: INBOX now.\n\nLike, shop RIGHT NOW: naturalizer.attn.tv/anEa6bbMMZwH ",
+          "message_type": "system",
+          "date_time": "2026-01-28 20:10:06.751"
+        },
+        {
+          "message_media": [],
+          "message_text": "Naturalizer: Spring just landed // New styles. Fab colors. \n\nShop now: naturalizer.attn.tv/a5NbFiAyWrbZ ",
+          "message_type": "system",
+          "date_time": "2026-01-31 13:35:46.892"
+        },
+        {
+          "message_media": [],
+          "message_text": "Naturalizer: The sale you've been waiting for: styles up to 70% OFF! Boots, sneaks, flats, heels.\n\nShop now: naturalizer.attn.tv/aB-ooWxfx66T ",
+          "message_type": "system",
+          "date_time": "2026-02-01 16:10:10.435"
+        },
+        {
+          "message_media": [],
+          "message_text": "Naturalizer: At up to 70% off, our Last Call styles won't last. Don't let your faves disappear.\n\nFill your cart: naturalizer.attn.tv/aYmkmgiMn6Pu ",
+          "message_type": "system",
+          "date_time": "2026-02-02 21:30:06.427"
+        },
+        {
+          "message_media": [],
+          "message_text": "Naturalizer: THIS. IS. IT. Up to 70% off styles for every upcoming vacay, event, and celebration.\n\nShop your size NOW: naturalizer.attn.tv/aVYyy8xE7VM1 ",
+          "message_type": "system",
+          "date_time": "2026-02-03 15:25:06.520"
+        },
+        {
+          "message_media": [],
+          "message_text": "Naturalizer: Going fast: the deepest price drops of the season. Styles up to 70% off.\n\nGet it or regret it: naturalizer.attn.tv/aPad2E8rmnTt ",
+          "message_type": "system",
+          "date_time": "2026-02-03 22:05:16.831"
+        },
+        {
+          "message_media": [],
+          "message_text": "Naturalizer: JUST DROPPED // Style-Letics by June Ambrose. The exclusive capsule for Naturalizer. Don't miss this!\n\nShop Now: naturalizer.attn.tv/aL0kr3Tri7FC ",
+          "message_type": "system",
+          "date_time": "2026-02-04 15:15:15.044"
+        },
+        {
+          "message_media": [],
+          "message_text": "Naturalizer: Prediction: THIS WILL SELL OUT. Style-Letics by June Ambrose. Shop the exclusive collab. \n\nOnly at Naturalizer: naturalizer.attn.tv/aD-CXJe8wfky ",
+          "message_type": "system",
+          "date_time": "2026-02-04 22:05:13.170"
+        },
+        {
+          "message_media": [],
+          "message_text": "Naturalizer: HERE NOW // SS26. New season. New scroll stoppers. Expect compliments.\n\nShop the spring drop: naturalizer.attn.tv/aECG__WeqelO ",
+          "message_type": "system",
+          "date_time": "2026-02-08 17:15:10.651"
+        },
+        {
+          "message_media": [],
+          "message_text": "Naturalizer: Hey, we noticed you checking us out. Have you seen our best sellers yet? https://naturalizer.attn.tv/aEooi9XCgXGK . ",
+          "message_type": "system",
+          "date_time": "2026-02-10 18:18:48.258"
+        },
+        {
+          "message_media": [],
+          "message_text": "Naturalizer: NEW looks you'll love ON SALE! Haute heels, fab flats, & crush-worthy colors <3\n\nShop your heart out: naturalizer.attn.tv/a0tIZ6KBlOXy ",
+          "message_type": "system",
+          "date_time": "2026-02-11 13:35:15.003"
+        },
+        {
+          "message_media": [],
+          "message_text": "Naturalizer: Valentine's & Galentine's is almost here. Snag our hottest new arrivals ON SALE. \n\nShop the new and now: naturalizer.attn.tv/aUkh1hSH7Y3G ",
+          "message_type": "system",
+          "date_time": "2026-02-11 20:10:10.477"
+        },
+        {
+          "message_media": [],
+          "message_text": "Naturalizer: Happy Galentine's Day! Check out the NEW styles on SALE to celebrate! \n\nShop your <3 out: naturalizer.attn.tv/aQlFEC3WVIKz ",
+          "message_type": "system",
+          "date_time": "2026-02-13 19:41:10.891"
+        },
+        {
+          "message_media": [],
+          "message_text": "Naturalizer: Love at first wear: our curated sale styles. Chic colors. Comfort you crave.\n\nSwoon & shop: naturalizer.attn.tv/agUMN1tYGDKa ",
+          "message_type": "system",
+          "date_time": "2026-02-14 20:05:08.144"
+        },
+        {
+          "message_media": [],
+          "message_text": "Naturalizer: We miss you! Here's $10 off just for you SMS10OFFNUXKLSQS \n\nShop newness now: https://naturalizer.attn.tv/aD_MSp5UhKg1 .",
+          "message_type": "system",
+          "date_time": "2026-02-15 13:59:27.137"
+        },
+        {
+          "message_media": [],
+          "message_text": "Naturalizer: LAST CHANCE! Price drops on most-loved styles & shades end today. Get those Spring fits ready!\n\nDon't miss out: naturalizer.attn.tv/aF7apJDtIvga ",
+          "message_type": "system",
+          "date_time": "2026-02-16 13:05:20.718"
+        },
+        {
+          "message_media": [],
+          "message_text": "Naturalizer: Those shoes you're crushing on? It's time to commit. Our special sale ends TONIGHT!\n\nShop now: naturalizer.attn.tv/a1SAA76xMSlo ",
+          "message_type": "system",
+          "date_time": "2026-02-16 20:25:07.733"
+        },
+        {
+          "message_media": [],
+          "message_text": "Naturalizer: Hey, this is Hannah. Thanks for checking out our site! 😊 https://naturalizer.attn.tv/aqvjMFULrTxg \n\nAre you looking for anything in particular today? https://naturalizer.attn.tv/aqvjMFULrTxg .",
+          "message_type": "system",
+          "date_time": "2026-02-17 13:05:46.763"
+        },
+        {
+          "message_media": [],
+          "message_text": "Looking for narrow shoes/ heels, which I can't find on your site. And stores don't carry narrow.",
+          "message_type": "customer",
+          "date_time": "2026-02-17 13:08:32.744"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"Do you offer wide sizes/widths?\"; last updated: 2023-02-03 16:51:18.185",
+          "message_type": "template",
+          "date_time": "2026-02-17 13:11:29.296"
+        },
+        {
+          "message_media": [],
+          "message_text": "Naturalizer: Thanks for reaching out! Yes, we offer sizes from 4-12 and widths Medium, Narrow, and Wide in some styles, depending on availability. You can find the list of sizes in our mega menu to shop by size or width. You may check our narrow calf kitten heel collection here: https://naturalizer.attn.tv/aZ9hvwpBNQ78",
+          "message_type": "agent",
+          "agent": "109972",
+          "message_id": "019c6ccc-d574-49ef-f000-0000ee07dd74",
+          "date_time": "2026-02-17 13:11:29.303"
+        }
+      ],
+      "notes": {
+        "escalate": [
+          "Before you ESC use ESC shortcut",
+          "When ESC code issues, add the code to the escalation notes",
+          "Always add the customer's name in your esc notes"
+        ],
+        "tone": [
+          "Don't respond if the customer doesn't want to engage"
+        ],
+        "templates": [
+          "For inquiries regarding their order updates/status/tracking, use UPD shortcut"
+        ]
+      },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://naturalizer.com",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "27 edit carla ballet flat",
+            "link": "https://www.naturalizer.com/product/womens-27-edit-carla-ballet-flat-3029603/walnut-brown-faux-raffia-ec0209560",
+            "timeAgo": "2026-02-17"
+          },
+          {
+            "item": "everly pump",
+            "link": "https://www.naturalizer.com/product/womens-everly-pump-3020003/silver-leather-ec0235811",
+            "timeAgo": "2026-01-28"
+          },
+          {
+            "item": "everly pump",
+            "link": "https://www.naturalizer.com/product/womens-everly-pump-3020003/silver-leather-ec0235811",
+            "timeAgo": "2026-01-25"
+          },
+          {
+            "item": "huntley block heel pump",
+            "link": "https://www.naturalizer.com/product/womens-huntley-block-heel-pump-3031181/navy-faux-leather-ec0207583",
+            "timeAgo": "2026-01-14"
+          }
+        ],
+        "orders": [
+          {
+            "orderNumber": "005028514833",
+            "orderDate": "2025-12-17",
+            "items": [
+              {
+                "name": "maxwell ballet flat",
+                "price": 89.99,
+                "productLink": "https://www.naturalizer.com/product/womens-maxwell-ballet-flat-3021216/black-tumbled-leather-ec0239481"
+              }
+            ],
+            "total": 89.99,
+            "coupon": "save10nat",
+            "date_time": "2025-12-17 23:14:38.519"
+          }
+        ]
+      },
+      "escalation_preferences": [],
+      "blocklisted_words": [],
+      "has_shopify": false
     }
   }
 }

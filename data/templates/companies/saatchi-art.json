@@ -28,13 +28,13 @@
     },
     {
       "name": "Where does Artwork ship from?",
-      "content": "If you purchase an original work or limited edition print from Saatchi Art, the work will be delivered straight from the artist\u0027s studio to your specified shipping address. If you purchase an open edition print, it will be printed and shipped by Saatchi Art\u0027s printers, located in the USA.",
+      "content": "If you purchase an original work or limited edition print from Saatchi Art, the work will be delivered straight from the artist's studio to your specified shipping address. If you purchase an open edition print, it will be printed and shipped by Saatchi Art's printers, located in the USA.",
       "id": "6cbca46b-b0e3-4fa6-b7a9-dc8082ec3cdc",
       "companyName": "Saatchi Art"
     },
     {
-      "name": "What\u0027s the difference between buying limited edition vs. open edition prints?",
-      "content": "As the name suggests, only a limited number of prints will be made available for purchase. For example, if the artist is selling a limited run of 25 prints, once those 25 prints have sold, that limited edition will no longer be available to purchase. The exclusive nature of a limited edition print effectively raises its value and, therefore, its price. \n\nUnlike limited edition prints, open edition prints may be endlessly reproduced. Because there\u0027s no limit to the number of prints that can be made, an open edition print is priced lower than a limited edition print.",
+      "name": "What's the difference between buying limited edition vs. open edition prints?",
+      "content": "As the name suggests, only a limited number of prints will be made available for purchase. For example, if the artist is selling a limited run of 25 prints, once those 25 prints have sold, that limited edition will no longer be available to purchase. The exclusive nature of a limited edition print effectively raises its value and, therefore, its price. \n\nUnlike limited edition prints, open edition prints may be endlessly reproduced. Because there's no limit to the number of prints that can be made, an open edition print is priced lower than a limited edition print.",
       "id": "ef5caa66-6143-4e56-bed8-84ff9708cf7e",
       "companyName": "Saatchi Art"
     },
@@ -59,21 +59,21 @@
     },
     {
       "name": "Free shipping",
-      "content": "We have an agreement with our shipping providers for a competitive global flat rate shipping cost based on the artwork\u0027s dimensions and specifications. We\u0027re able to pass these savings on to you and we\u0027ve included the price of shipping within the artwork price. Now, what you see is what you pay!",
+      "content": "We have an agreement with our shipping providers for a competitive global flat rate shipping cost based on the artwork's dimensions and specifications. We're able to pass these savings on to you and we've included the price of shipping within the artwork price. Now, what you see is what you pay!",
       "id": "9c704686-f68d-4ea9-b517-b897465c3178",
       "shortcut": "fs",
       "companyName": "Saatchi Art"
     },
     {
       "name": "Military / First responder / Healthcare / Teacher discount",
-      "content": "Thank you for your service! We don\u0027t have any specific discounts like that, but our deals will always be shared with our SMS subscribers or on our website, so keep an eye out!",
+      "content": "Thank you for your service! We don't have any specific discounts like that, but our deals will always be shared with our SMS subscribers or on our website, so keep an eye out!",
       "id": "8396178a-e117-4acd-b173-7a5e0ab3a72e",
       "shortcut": "ms",
       "companyName": "Saatchi Art"
     },
     {
       "name": "Cancel / edit order",
-      "content": "I can check if that\u0027s possible. What\u0027s the order number, email address and the change you\u0027d like to make?",
+      "content": "I can check if that's possible. What's the order number, email address and the change you'd like to make?",
       "id": "07dced26-9650-4b8a-8ab9-5f944e95f296",
       "shortcut": "ced",
       "companyName": "Saatchi Art"
@@ -101,20 +101,20 @@
     },
     {
       "name": "Store location / retailer",
-      "content": "We don\u0027t currently have a store, as we are an online gallery.",
+      "content": "We don't currently have a store, as we are an online gallery.",
       "id": "28e113ab-45e9-4318-8ed7-d4da36eaf984",
       "shortcut": "sl",
       "companyName": "Saatchi Art"
     },
     {
       "name": "When will I hear back about my offer?",
-      "content": "Your offer will be received by one of our reps who will notify the artist on your behalf. You should receive an answer or counter-offer within 72 hours.\n\nIf you haven\u0027t heard a response in over 72 hours, please email us directly at support@saatchiart.com regarding the offer. Don\u0027t forget to include the name of the artist and the name of the artwork so we can easily identify the offer in our system.",
+      "content": "Your offer will be received by one of our reps who will notify the artist on your behalf. You should receive an answer or counter-offer within 72 hours.\n\nIf you haven't heard a response in over 72 hours, please email us directly at support@saatchiart.com regarding the offer. Don't forget to include the name of the artist and the name of the artwork so we can easily identify the offer in our system.",
       "id": "8133440a-0eee-4a4c-9d01-23c9d15d0232",
       "companyName": "Saatchi Art"
     },
     {
       "name": "Rewards / referral",
-      "content": "We have a referral program where you can give your friends 15% off their first order, and when they buy you\u0027ll get $100 off your next purchase. Check it out here - https://www.saatchiart.com/invite?traffic_source=site_footer",
+      "content": "We have a referral program where you can give your friends 15% off their first order, and when they buy you'll get $100 off your next purchase. Check it out here - https://www.saatchiart.com/invite?traffic_source=site_footer",
       "id": "da61f59f-167c-40c7-a637-7c3f52c43c81",
       "shortcut": "rwd",
       "companyName": "Saatchi Art"
@@ -128,13 +128,13 @@
     },
     {
       "name": "What kind of investment potential does this piece have? / How much money/profit do you think I can make from this piece?",
-      "content": "Regarding investment potential, there are never any guarantees when it comes to investing in art, especially at the level of emerging artists. We recommend first and foremost to purchase works you love and could imagine living with for a long time! When it comes to determining an artist\u0027s career trajectory, it\u0027s also helpful to review their profile for CV information-artists who exhibit frequently and internationally, have completed residencies, and/or are frequent sellers often have a promising career outlook.",
+      "content": "Regarding investment potential, there are never any guarantees when it comes to investing in art, especially at the level of emerging artists. We recommend first and foremost to purchase works you love and could imagine living with for a long time! When it comes to determining an artist's career trajectory, it's also helpful to review their profile for CV information-artists who exhibit frequently and internationally, have completed residencies, and/or are frequent sellers often have a promising career outlook.",
       "id": "b84a210a-3497-4e9d-bae1-92e4afd35dba",
       "companyName": "Saatchi Art"
     },
     {
       "name": "Would it be possible for you to recommend work/pieces based on (customer needs/dimensions/wall size/etc)?",
-      "content": "Our curation team would be happy to recommend works for you. Please submit an inquiry here: https://saatchiart.attn.tv/sl/flDVu8a5 When you work with our Art Advisory team, the team communicates directly with the artist to address any questions or concerns you may have before purchase. Additionally, you can negotiate pricing directly with the artists on the collector\u0027s behalf. This is particularly helpful if you\u0027d like to make offers on multiple works by multiple artists. They provide a complimentary service to tailor collections for the client to view based on the parameters provided (i.e. medium, style, dimensions, price, etc.). They also welcome custom requests and will work with our artists at your behest.",
+      "content": "Our curation team would be happy to recommend works for you. Please submit an inquiry here: https://saatchiart.attn.tv/sl/flDVu8a5 When you work with our Art Advisory team, the team communicates directly with the artist to address any questions or concerns you may have before purchase. Additionally, you can negotiate pricing directly with the artists on the collector's behalf. This is particularly helpful if you'd like to make offers on multiple works by multiple artists. They provide a complimentary service to tailor collections for the client to view based on the parameters provided (i.e. medium, style, dimensions, price, etc.). They also welcome custom requests and will work with our artists at your behest.",
       "id": "d7028a69-b693-4026-8fc8-b03b3194599c",
       "companyName": "Saatchi Art"
     },
@@ -154,32 +154,32 @@
     },
     {
       "name": "Do you offer framing?",
-      "content": "As we ship the artworks directly from the artist to you, we\u0027re unable to offer any additional framing services for originals. Unless the specific listing noted that it would come with a frame, the artwork won\u0027t be framed. We\u0027d recommend taking the work to professional framers once you receive it, as they\u0027ll be able to assist you further with some great framing options to suit the piece and the space you intend to hang it.",
+      "content": "As we ship the artworks directly from the artist to you, we're unable to offer any additional framing services for originals. Unless the specific listing noted that it would come with a frame, the artwork won't be framed. We'd recommend taking the work to professional framers once you receive it, as they'll be able to assist you further with some great framing options to suit the piece and the space you intend to hang it.",
       "id": "dc1a23fb-293c-4b1d-aa21-a113428268d2",
       "companyName": "Saatchi Art"
     },
     {
       "name": "I want to sell my art on your site",
-      "content": "If you\u0027d like to sell your artwork on our site, please head over to this page to get started: https://www.saatchiart.com/whysell Let me know if any questions come up!",
+      "content": "If you'd like to sell your artwork on our site, please head over to this page to get started: https://www.saatchiart.com/whysell Let me know if any questions come up!",
       "id": "dfaefb93-7531-4d88-9237-b66f0862144a",
       "companyName": "Saatchi Art"
     },
     {
       "name": "Shipping time",
-      "content": "We usually ship via UPS, FedEx, or DHL, and once your order ships our normal delivery timeline is 11-14 business days. Your artwork will be shipped directly from the artist\u0027s studio to your shipping address. Please note that shipping time will vary for buyers outside of the U.S., as delivery speed depends on the customs requirements of the country of destination.",
+      "content": "We usually ship via UPS, FedEx, or DHL, and once your order ships our normal delivery timeline is 11-14 business days. Your artwork will be shipped directly from the artist's studio to your shipping address. Please note that shipping time will vary for buyers outside of the U.S., as delivery speed depends on the customs requirements of the country of destination.",
       "id": "b8eb4517-a1a2-4b44-a394-fb670f230070",
       "shortcut": "shp",
       "companyName": "Saatchi Art"
     },
     {
       "name": "If my offer is accepted, can I apply additional discounts to it?",
-      "content": "I\u0027m afraid not. You will not be able to apply any promotional discounts on \"Make an Offer\" transactions.",
+      "content": "I'm afraid not. You will not be able to apply any promotional discounts on \"Make an Offer\" transactions.",
       "id": "7f56621e-9291-4bad-a31d-427d838cbc18",
       "companyName": "Saatchi Art"
     },
     {
-      "name": "Will the Artwork include the Artist\u0027s signature?",
-      "content": "When a signature is not displayed on the image of an artwork online, it\u0027s most likely that the artist has signed the work on the back or beneath the piece. If you have a special request regarding a specific piece, please contact us at support@saatchiart.com prior to your purchase to ensure that the artist is amenable to any changes or additions to their artwork, we can reach out to clarify with the artist directly for details.\n \nIt is very important to note that including a signature on any original artwork is entirely at the discretion of the artist. Please be aware that even if an artist should decline a request to an alteration, you will always receive a Certificate of Authenticity with the artist\u0027s signature and an exact description of the piece.",
+      "name": "Will the Artwork include the Artist's signature?",
+      "content": "When a signature is not displayed on the image of an artwork online, it's most likely that the artist has signed the work on the back or beneath the piece. If you have a special request regarding a specific piece, please contact us at support@saatchiart.com prior to your purchase to ensure that the artist is amenable to any changes or additions to their artwork, we can reach out to clarify with the artist directly for details.\n \nIt is very important to note that including a signature on any original artwork is entirely at the discretion of the artist. Please be aware that even if an artist should decline a request to an alteration, you will always receive a Certificate of Authenticity with the artist's signature and an exact description of the piece.",
       "id": "9f2a162e-8d82-4826-b5a9-2b6ff46dc1e1",
       "companyName": "Saatchi Art"
     },
@@ -191,7 +191,7 @@
     },
     {
       "name": "Different name on order as artist name",
-      "content": "Our shipping confirmation emails reference the name entered by the artist as the point of contact for shipping. It is not unusual to see the artist\u0027s assistant\u0027s name in this field. Our apologies for any concern this may have caused!\n \nOur tean will continue to monitor your shipment until delivery. Thanks again and please contact us if you have additional questions.",
+      "content": "Our shipping confirmation emails reference the name entered by the artist as the point of contact for shipping. It is not unusual to see the artist's assistant's name in this field. Our apologies for any concern this may have caused!\n \nOur tean will continue to monitor your shipment until delivery. Thanks again and please contact us if you have additional questions.",
       "id": "d0366d5a-4975-42a1-ad51-107817faeee9",
       "companyName": "Saatchi Art"
     },
@@ -203,7 +203,7 @@
     },
     {
       "name": "Why does my tracking number not show any status updates?",
-      "content": "Thanks for your question. Tracking numbers are generated as soon as the artist schedules the date that it will ship. However, the status will not show \"in transit\" until it\u0027s picked up by the courier on that scheduled date. \n\nIf your tracking number does not show any status updates and it\u0027s after the scheduled date that was indicated in your email notification, please let us know and we will be happy to assist you.\n\nThanks again and please contact us if you have additional questions.",
+      "content": "Thanks for your question. Tracking numbers are generated as soon as the artist schedules the date that it will ship. However, the status will not show \"in transit\" until it's picked up by the courier on that scheduled date. \n\nIf your tracking number does not show any status updates and it's after the scheduled date that was indicated in your email notification, please let us know and we will be happy to assist you.\n\nThanks again and please contact us if you have additional questions.",
       "id": "beab7036-7714-4503-a0b9-14ddf82ab1c7",
       "companyName": "Saatchi Art"
     },

@@ -1,0 +1,672 @@
+{
+  "companyKey": "apolis",
+  "templates": [
+    {
+      "name": "Why is white text/lettering not available for a product? (wholesale)",
+      "content": "Please kindly remember that white text is only available for Market Bags in Natural. Our Market Tote in Natural comes with black text only.",
+      "id": "5059f254-7285-4405-a54d-664f2b2c4802",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Is the LA flagship store still open?",
+      "content": "Our LA store is no longer open, but if you need help placing an order online, I'd be more than happy to help.",
+      "id": "764ba44d-8488-4c3b-8567-72e50bd5cf94",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Surplus Market: When does early access open for the surlplus market sale?",
+      "content": "Early access opens at 8 am PST on Saturday, December 27. Get on the waitlist & you'll be notified the second early access begins: https://apolisglobal.com/pages/surplus-market",
+      "id": "461e9533-300e-4868-b655-648c66643a7c",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Surplus Market: Do you accept returns?",
+      "content": "Yes! We stand behind the quality of every Apolis product with a 30-day money-back guarantee. Please note, return procedures for customized and non-customized products differ. To keep things simple for you, we offer refunds instead of exchanges. To return non-customized items please note that items need to be postmarked within 30 calendar days of receipt for a refund to your original method of payment or store credit. Original shipping charges are non-refundable and items must be returned in their original condition (unused, unwashed, unaltered) with the original packaging and tags attached.\n\nPlease note that customized products are not eligible for a return unless you encounter a craftsmanship or quality issue which includes the bag arriving with missing rivets or a damaged handle, the print is smudged or the text is slanted or cut off. Please note that since each bag is handmade, there will be slight variations in jute texture from bag to bag; no two bags will look exactly the same.\n\nIf you have a question about whether or not your bag will be accepted for a return, text us (+20919) with an image of your bag and a description of the issue and we'll get back to you ASAP with an answer. If your bag does not meet the requirements above, a refund will not be issued and if you sent your bag to us, you will receive it back.",
+      "id": "8db14f49-4eb8-4bce-9271-6c640b262c05",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "How long does it take to process an order?",
+      "content": "The rush orders received before 11 PM PST will be processed immediately. But, the rush orders received after this time will be processed the following day.",
+      "id": "08b939e3-98da-4791-ae3d-70732bb4aca5",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "When will the Wine Totes be available?",
+      "content": "Our Wine Tote is available once a year for one week during National Wine Day, May 25th. It is available all year with our retail partners.",
+      "id": "567cf3f2-e275-49dc-884e-5d257d7da4bc",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Surplus Market: I'm VIP but my code is working",
+      "content": "In order to pass on the great savings, VIP perks, promo codes, gift cards, and free shipping codes are not eligible.",
+      "id": "74974fa8-c28b-4a82-9c45-921a12a6651b",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Post purchase artwork/text edit request (for bags with customization option only)",
+      "content": "I can check if that's possible. Can I have your order number and the email address used to place the order? Can you also let me know how would you want the text to be positioned in the following format:\n\nLINE 1:\nLINE 2: \nLINE 3:",
+      "id": "6fb2b9b2-1df0-4c28-a81e-7685e651b11d",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Customization request (non wholesale)",
+      "content": "I'm afraid that we're not able to add anything that's not already offered on our website. Apologies for the inconvenience!",
+      "id": "b49f69b4-a2aa-4e25-94dc-4ac183052a0e",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Do you still have the tiny/mini bags for kids?",
+      "content": "We no longer have mini bags and they're not expected back.",
+      "id": "5ee98424-6b7a-4ae1-8720-04e6ec0d1d8c",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Surplus Market: Why no international orders?",
+      "content": "Our main site ApolisGlobal.com services our international community daily. The prices during surplus market make it difficult to absorb any missing packages that come with working with hundreds of international couriers.\n\nWe understand this is a huge inconvenience, so send an email to shea@apolisglobal.com & betty@apolisglobal.com with subject line: \"This\nis dumb Shea\" and we'll do our best to make it up to you ;)",
+      "id": "a05fedad-493d-4847-be06-ae971d7b7a3f",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Do you offer discounts for bulk purchases?",
+      "content": "Your discount will be automatically applied for orders of 30+ bags. We also offer greater discounts for wholesale purchases of 10+ but with a longer processing time.",
+      "id": "ddd2ea52-e7af-46ae-acc1-95e861c505be",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "My order has already shipped, can you reroute it to a different address?",
+      "content": "I'm afraid we can't reroute orders, though should the shipping address you used be invalid for whatever reason, we can reship it once it's mailed back. Can you please provide me with the full address you need to get the order to, as well as you order number and email it's under?",
+      "id": "8dc49b82-ee74-4b50-94aa-3a64527ad8cf",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Do all your bags have product information on the back? Can you make an exception?",
+      "content": "Every bag in our collection has product information on the back. The only exception is for wholesale orders.",
+      "id": "a49e9946-6c5b-4014-ac2f-d794c3059551",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Why does customization cost so much?",
+      "content": "Great question! Our everyday one-of-a-kind customizable bag has a water-resistant lining and on average lasts 8 years. Also each bag helps break a poverty cycle by providing the mothers that handcraft each bag with above Fair Trade wages, profit dividends and an annual retirement fund!",
+      "id": "092872cc-376a-11ec-8d3d-0242ac130003",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "What is the market bag made of?",
+      "content": "Our Market Bag is made of 100% natural golden jute fiber. It has a water-resistant polyurethane lining and has leather straps that are reinforced by antique nickel rivets.",
+      "id": "09287380-376a-11ec-8d3d-0242ac130003",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "If I only have 2 lines of text should I just use the middle and bottom lines? Or will my 2 lines of text be centered on the bag?",
+      "content": "We recommend top two lines :)",
+      "id": "0928743e-376a-11ec-8d3d-0242ac130003",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Can I do custom logos on one bag?",
+      "content": "We can only do custom logos for wholesale orders. If you're interested, you can place an order through this page: https://store.apolisglobal.com/collections/wholesale",
+      "id": "092876e6-376a-11ec-8d3d-0242ac130003",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "How much does the standard market tote weigh?",
+      "content": "Each bag weighs 1.5lbs.",
+      "id": "09287fce-376a-11ec-8d3d-0242ac130003",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Are the hand painted monogram also water resistant/waterproof?",
+      "content": "Yes! Water resistant paint is used for the monogram, tested & super durable!",
+      "id": "0928808c-376a-11ec-8d3d-0242ac130003",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Can I machine wash the market bags?",
+      "content": "Since the bag is water resistant you can turn it inside out and spray it down. As for washing the entire bag we recommend spot clean and air dry.",
+      "id": "0928814a-376a-11ec-8d3d-0242ac130003",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Bag sizing",
+      "content": "You can see sizing for all of our bags here: https://www.apolisglobal.com/bag-sizing/",
+      "id": "09288208-376a-11ec-8d3d-0242ac130003",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Where is the leather sourced from on the Detachable Handle Lunch Bag",
+      "content": "Our vegetable tanned leather is responsibly sourced from a tannery in Hong Kong. Labor to put the leather onto the bag is done on Bangladesh with our women's cooperative.",
+      "id": "092884ba-376a-11ec-8d3d-0242ac130003",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Do the gift cards expire?",
+      "content": "The gift cards don't have an expiration date.",
+      "id": "09288582-376a-11ec-8d3d-0242ac130003",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Can I use lowercase while customizing my bag?",
+      "content": "No, we don't offer lowercase artwork.",
+      "id": "0928a012-376a-11ec-8d3d-0242ac130003",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Customer service",
+      "content": "The best way to handle this is to email us directly at service@apolisglobal.com Our team is happy to help!",
+      "id": "0928a6f2-376a-11ec-8d3d-0242ac130003",
+      "shortcut": "cs",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "How tall are the letters?",
+      "content": "The letters are 1 centimetre tall.",
+      "id": "0928abf2-376a-11ec-8d3d-0242ac130003",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "What is your max character limit for bags?",
+      "content": "It would be 15 characters!",
+      "id": "0928ad6e-376a-11ec-8d3d-0242ac130003",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Customer texts in VIP",
+      "content": "So excited to have you in our VIP perks community, get started here: https://apol.is/vip-perks",
+      "id": "0928af94-376a-11ec-8d3d-0242ac130003",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Customer texts in GIFT",
+      "content": "What’s your first name?",
+      "id": "0928b048-376a-11ec-8d3d-0242ac130003",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "PARTNER - customer wants a call",
+      "content": "Glad to get you setup with a phone call with one of our market bag design consultants! Start here: https://calendly.com/apolis-wholesale/ Feel free to let me know if you're ready to place an order now!",
+      "id": "0928b106-376a-11ec-8d3d-0242ac130003",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Customer texts in GIFT follow up",
+      "content": "Thank you. Thanks for being a part of our community. Here is your private access URL for Apolis VIP Perks: https://apol.is/vip-perks",
+      "id": "0928b534-376a-11ec-8d3d-0242ac130003",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Social media",
+      "content": "Give us a follow on IG here https://www.instagram.com/apolis/ and FB here https://www.facebook.com/apolisglobal/ :)",
+      "id": "0928b836-376a-11ec-8d3d-0242ac130003",
+      "shortcut": "smd",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Brand ambassador / sponsorship",
+      "content": "The best way to discuss this is to email us directly at hello@apolisglobal.com Our team is happy to chat :)",
+      "id": "0928b9a8-376a-11ec-8d3d-0242ac130003",
+      "shortcut": "ams",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Where are your products made/manufactured?",
+      "content": "Every market bag is handcrafted in Bangladesh by mothers who receive Fair Trade-certified wages, annual profit dividends, and a retirement fund; read Forbes.com’s article on how this approach is changing people’s lives, with 665,000 bag owners and counting. The bags are then shipped to Los Angeles, California, where a growing team of 13 production associates print each bag with water-based ink onto the bag. Our masks are made in Los Angeles, CA. Each seamstress that assembles the mask receives fair wages.",
+      "id": "0928bbc4-376a-11ec-8d3d-0242ac130003",
+      "shortcut": "mfc",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Wholesale Orders for weddings",
+      "content": "For more information about wedding favors or gifts, I'd recommend starting here: https://store.apolisglobal.com/pages/wedding Please let me know how else I can help! :)",
+      "id": "0928bd40-376a-11ec-8d3d-0242ac130003",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Where will the gift note be in the order? / Can I request a gift receipt? / It's a gift, I don't want the price to appear on the order.",
+      "content": "The gift note is simply text added to the bottom of the invoice. So with gifts, you can either request for no invoice (and therefore no gift note), or add a gift note which will also show pricing info.",
+      "id": "0928c2f4-376a-11ec-8d3d-0242ac130003",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Do you ship overseas/internationally?",
+      "content": "Yes, we are now shipping internationally! Orders go out every Friday. To make it simple for you, we offer a way to pay international customs fees upfront. Customs fees and duties are included in the shipping price calculated during checkout. This will expedite delivery, make the order process more reliable and keep the costs down. Delivery is approximately 14 business days.",
+      "id": "0928c5e2-376a-11ec-8d3d-0242ac130003",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "What size rivets and shanks do the handles use?",
+      "content": "We use 9mm rivets for the handle and the shank is approximately 13mm. We don't sell them individually, though I suggest looking for them locally or on Amazon :)",
+      "id": "0928c696-376a-11ec-8d3d-0242ac130003",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Customer texts in TOTE",
+      "content": "Is this for you or a gift? PS: Here's customization inspiration & FAQ for the Original Apolis® Market Bag - https://apol.is/get-started",
+      "id": "1fad1eff-0e72-4e64-840b-16e01c13fff8",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Need help customizing your bag",
+      "content": "Check out this link. It's a quiz you can take for help with customizing your bags: apol.is/quiz",
+      "id": "09286d86-376a-11ec-8d3d-0242ac130003",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Influencer code not working",
+      "content": "Sorry to hear your code isn't working! The best thing to do here is to email Spencer at: Spencer@apolisglobal.com and he'll fix that for you as soon as possible.",
+      "id": "09286ef8-376a-11ec-8d3d-0242ac130003",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Can I customzie the customizeable bags myself with a heat press?",
+      "content": "Printing the bag on your own will lead to melting of the water-resistant lining when drying the screen print if too hot. If you get a few bags to test, you could eventually figure it out, but it takes a lot of tinkering to get the heat right. Here are tips to customize your bag at home: https://www.apolisglobal.com/journal/make-your-own-handwritten-custom-market-bag/",
+      "id": "09287e52-376a-11ec-8d3d-0242ac130003",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "What's the difference between the grocery, gift, work and everything bags?",
+      "content": "All the bags are packaged a little different to help with customization ideas, but they're all the same size and same bag.",
+      "id": "09287f1a-376a-11ec-8d3d-0242ac130003",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Can I print diacritics on the bag for example é",
+      "content": "We support é and some other diacritics, but anything that doesn't go through, place the order with the closest matching characters and then immediately text with the order number and email address! I'll check to see what I can do.",
+      "id": "092882c6-376a-11ec-8d3d-0242ac130003",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Why are you not making clothes anymore?",
+      "content": "We're definitely focusing on the bags as of late, both because we're so blown away for their tremendous popularity, as well as the way that demand translates into opportunities to make a big impact in breaking cycles of poverty. You can read more about it here: https://shop.apolisglobal.com/clothing :)",
+      "id": "092886f4-376a-11ec-8d3d-0242ac130003",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Are  your leather handles real leather or vegan?",
+      "content": "Our handles are made from real leather, here's more of an overview on how it's sourced: https://www.apolisglobal.com/journal/eco-friendly-tote/ - If you're interested in a vegan bag, here's a link to it: https://apolisglobal.com/products/vegan-market-bag-in-natural?variant=37587588284602",
+      "id": "092887b2-376a-11ec-8d3d-0242ac130003",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "I got an email my order was delivered, but it hasn't arrived yet?",
+      "content": "Our email system often triggers preemptive delivery notifications before packages arrive, please allow an additional 24h for your package to arrive. If for some reason it still hasn't arrived, send me your order and email and we'll follow up via email with next steps.",
+      "id": "09288866-376a-11ec-8d3d-0242ac130003",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Wrong address on my order",
+      "content": "Oh no! Please send me the correct address and we can update it for you ASAP. If you've already received an email that your order has shipped, we'll have to wait until the order is returned to us, at which point we'll gladly ship it back to the new address you've provided.",
+      "id": "09288924-376a-11ec-8d3d-0242ac130003",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Do you deliver to PO boxes?",
+      "content": "Yes, we ship to PO boxes with USPS within the US.",
+      "id": "09288bcc-376a-11ec-8d3d-0242ac130003",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Does it say apolis on the packaging?",
+      "content": "Yes, it says Apolis on the packaging -\nhttps://www.instagram.com/p/BXrc3WbBkn7/?igshid=jl3plk2spk9j",
+      "id": "092889d8-376a-11ec-8d3d-0242ac130003",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "On the custom bags, can I put text on both sides of the bag?",
+      "content": "We aren't able to print on both sides. We can only print double-sided for wholesale orders - 10+ units!",
+      "id": "09287b46-376a-11ec-8d3d-0242ac130003",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Can I spread the wholesale order between multiple designs?",
+      "content": "No, it would be 10+ units for one design for a bag.",
+      "id": "09287c04-376a-11ec-8d3d-0242ac130003",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Minimum wholesale quantity",
+      "content": "It would be 10+ units for bags for a one of a kind customization.",
+      "id": "092874f2-376a-11ec-8d3d-0242ac130003",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "How do I add more characters to my bag?",
+      "content": "Place your order with as many characters/letters that fit and email us with the subject line \"Shea Approved: Order #:_______\". Please include the additional characters/letters you want in the body of the email and send it to service@apolisglobal.com Cc: betty@apolisglobal.com, shea@apolisglobal.com - We'll ensure to manually update your order!",
+      "id": "09286a52-376a-11ec-8d3d-0242ac130003",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Follow up for bag replacements & refunds/ All customer complaints",
+      "content": "Can you please provide your order number, email address and send full pictures of the front and back of the bag as well as a picture of the product tag located inside the bag. The product tag is not the Apolis label. It's inside, attached to one of the creases like this: https://prnt.sc/19crsub",
+      "id": "0928c0ec-376a-11ec-8d3d-0242ac130003",
+      "shortcut": "rr",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Shipping time",
+      "content": "It takes 3-days for customization, but if you need it sooner, we also offer \"next day fulfillment\" for an extra $10 and customizable orders go out the next day (if placed before 11 pm PST). You can pick expedited shipping at checkout to speed it up further. The shipping timeline on product pages is available to show you the exact date range for estimated delivery.",
+      "id": "09286818-376a-11ec-8d3d-0242ac130003",
+      "shortcut": "shp",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Store location/retailer",
+      "content": "Please email wholesale@apolisglobal.com with your address for a list of stores in your area. Be sure to call the store beforehand as stock varies daily.",
+      "id": "092877a4-376a-11ec-8d3d-0242ac130003",
+      "shortcut": "sl",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "How long does customization take?",
+      "content": "We estimate bag customization to take 3 business days.",
+      "id": "0928acb0-376a-11ec-8d3d-0242ac130003",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Can I get my customizable market bag blank?",
+      "content": "Yes, you can have no artwork on one side, but all our bags include product information on the other. We do not offer bags that are blank on both sides.",
+      "id": "092879d4-376a-11ec-8d3d-0242ac130003",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Customer texts in PARTNER",
+      "content": "Interested in a one-on-one design consultation or want to place an order now? PS: If you are interested in first learning more about wholesale for the Original Apolis® Market Bag, go here — https://apol.is/wholesale Feel free to let me know if you're ready to place an order now!",
+      "id": "0928aed6-376a-11ec-8d3d-0242ac130003",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Which courier is used to ship items?",
+      "content": "Customized orders are sent via USPS or UPS, depending on your preference, and pre-made bags are sent through FedEx.",
+      "id": "09289b1c-376a-11ec-8d3d-0242ac130003",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Production timeline for wholesale orders?",
+      "content": "It would take less than 2-weeks once we finalize your order, with an expedited option to get your order produced in less than 10 days; and then however fast you want to ship at your cost.",
+      "id": "0928a238-376a-11ec-8d3d-0242ac130003",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Gift Message Option",
+      "content": "We offer a gift note option on all orders at checkout, please use a desktop computer, and right above the black \"pay with credit card\" button  there's a drop down button to \"add a gift message\".",
+      "id": "0928a7a6-376a-11ec-8d3d-0242ac130003",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Inconvenience Apology",
+      "content": "Very sorry for the inconvience we caused on this. As a small way to apologize for this, here's private access to our VIP perks, thanks for not sharing: https://vip.apolisglobal.com/advocate-passport",
+      "id": "0928a864-376a-11ec-8d3d-0242ac130003",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Customer wants to customize leather label/tag - wholesale",
+      "content": "The customization can be done after you've placed the order so feel free to order and we'll contact you to finalize a few details including the leather tag! You can also email us at wholesale@apolisglobal.com with your order number and customization request.",
+      "id": "0928bf70-376a-11ec-8d3d-0242ac130003",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Return policy",
+      "content": "You can check out our return policy in detail here: https://apolisglobal.com/pages/help-center-faq#block-1595951910578:~:text=Do%20you%20accept%20returns%3F",
+      "id": "09288c94-376a-11ec-8d3d-0242ac130003",
+      "shortcut": "rp",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "How do I start a return?",
+      "content": "To initiate a possible return, email us at service@apolisglobal.com with an image of your bag and a description of the issue and we'll get back to you ASAP with an answer.",
+      "id": "0928a2f6-376a-11ec-8d3d-0242ac130003",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Customer requesting call for wholesale",
+      "content": "You can contact us here: https://calendly.com/apolis-wholesale/chat?back=1&month=2021-06",
+      "id": "0928c02e-376a-11ec-8d3d-0242ac130003",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "What is the width of your petite bag strap?",
+      "content": "The petite bag strap is 3/4” wide.",
+      "id": "0928c470-376a-11ec-8d3d-0242ac130003",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Can I purchase the straps separately?",
+      "content": "Right now we don't offer straps as a standalone purchase. I'll definitely pass this along to the team to consider in the future, thank you for the feedback.",
+      "id": "0928c524-376a-11ec-8d3d-0242ac130003",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Do you offer repairs, parts, or repair kits?",
+      "content": "We don't offer repairs, parts, or repair kits at this time, though you can try looking into what options might be available to you locally.",
+      "id": "69512de3-26d3-47a2-8606-a734efbaf014",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Phone support",
+      "content": "The best number to reach us is 213-613-9626 (Ext. 1), leave a voicemail and our team will call right back. But the fastest reply is here on text.",
+      "id": "0928720e-376a-11ec-8d3d-0242ac130003",
+      "shortcut": "ps",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Questions code \"SMS\"",
+      "content": "The discount code \"SMS\" gives you free shipping, but only on orders of $50 or more.",
+      "id": "b5ce1566-1982-4dbb-ae58-558d899e8bc2",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Do you have any shops/stores you can recommend for repairs?",
+      "content": "We don't have anyone we can officially recommend, though a local shop that works on shoes or alterations should be able to help.",
+      "id": "c8b8a5d3-4335-4e0d-897b-fe743b5d89e0",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Wholesale inquiries",
+      "content": "Yes, we offer wholesale! You can place an order through this page: https://store.apolisglobal.com/pages/wholesale-collection#popup1 or you can schedule a one-on-one design consultation here to get your free digital mock-up: https://calendly.com/apolis-wholesale/ :)",
+      "id": "09287150-376a-11ec-8d3d-0242ac130003",
+      "shortcut": "wls",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Can I add emoji/hearts etc",
+      "content": "Emoticons and smileys are not permitted. However, once a month we do offer embroidered bags with the option to add a heart. Check here: https://apolisglobal.com/search?type=product&q=embroidery to see what's in stock.",
+      "id": "0928ae22-376a-11ec-8d3d-0242ac130003",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Restock? [autosend enabled]",
+      "content": "I don't have an exact date when those will be restocked. You can sign up on the product page to be notified when it becomes available. Is there anything else you like in the meantime?",
+      "id": "09286cc8-376a-11ec-8d3d-0242ac130003",
+      "shortcut": "stof",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Free shipping",
+      "content": "We offer free shipping on domestic orders over $150. Maybe you can add something else to reach the minimum?",
+      "id": "0928b76e-376a-11ec-8d3d-0242ac130003",
+      "shortcut": "fs",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Wholesale Issues (orders that end in \"S\" eg: 117881-S)",
+      "content": "The best way to address this is to email our wholesale team directly at wholesale@apolisglobal.com or call them at +1(213) 613 9626 (Ext. 16), M-F 9am-5pm PST. One of my colleagues will be glad to help.",
+      "id": "42294011-a045-40a2-90c3-01c1ddbb4ba1",
+      "shortcut": "wti",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "What is the character max for the shoulder market bag?",
+      "content": "The shoulder market bag has a limit of 10 characters.",
+      "id": "0d76f245-5a94-476f-af14-0e04edeb5238",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Will you be restocking the Bloom in red petite market bag?",
+      "content": "I'm afraid the Bloom in red was a limited edition and we don't have plans to restock it at the moment.",
+      "id": "dac3292a-097e-47dc-a394-002555c40802",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Surplus Market: Why is shipping not free?/Why am I paying $10 flat rate for shipping?",
+      "content": "Unfortunately, we are unable to provide free shipping on any orders in an effort to provide the best price. We totally understand this is lame and sucky, so please send an email to shea@apolisglobal.com and copy service@apolisglobal.com with the subject: \"you owe me shea\".",
+      "id": "4ce3a5cb-692b-4071-bd18-029c3fdd76a1",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Surplus Market: Why am I unable to use my gift card?",
+      "content": "Unfortunately we are unable to honor gift card codes from ApolisGlobal.com -- on Market.ApolisGlobal.com in an effort to provide the\nbest price. All gift card codes can only be used on ApolisGlobal.com where there are quite a few bags that are not on Surplus Market. We totally understand this is lame and sucky, so please send an email to shea@apolisglobal.com and copy service@apolisglobal.com with the subject: \"you\nowe me shea\".",
+      "id": "31bcd59c-fa3a-447a-a1c1-e99dd10839ab",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "I need creative ideas/can't decide",
+      "content": "Sure thing, I'd recommend starting here: apol.is/get-started",
+      "id": "9889ab2b-1d87-456b-8c0e-cfb82f8ad82a",
+      "shortcut": "icd",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Looking for an event or group gift",
+      "content": "Sure thing you can order from here: marketbag.apolisglobal.com",
+      "id": "0d919ec4-7b19-4db1-8e18-c5cc91213291",
+      "shortcut": "egg",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Surplus Market: I'm VIP but am not able to order free gift wrap",
+      "content": "In order to pass on the great savings, VIP perks, promo codes, gift cards, and free shipping codes are not eligible.",
+      "id": "84387a94-e8f7-4a6e-874a-33974e31ed3e",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Surplus Market: Only eight bags per person?",
+      "content": "Sorry! Since this flash sale is once all year we want to do our best to make sure as many people in our community are able to get a bag before they\nare all gone.",
+      "id": "cdf41fc3-936c-4ed4-90c5-93d512162694",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Surplus Market: I'm a VIP member so I usually get free shipping and dust bags. Why not for Surplus Market?",
+      "content": "Unfortunately we are unable to provide VIP perks for orders on Market.ApolisGlobal.com in an effort to provide the best price. We totally understand this is lame and sucky, so please send an email to shea@apolisglobal.com and copy service@apolisglobal.com with the subject: \"you\nowe me shea\".",
+      "id": "63674063-f4e6-4fe3-9407-615b42712a3c",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "I'm part of your VIP Perks program but when I check out my free shipping isn't reflected",
+      "content": "For the VIP perks, free shipping is not automatically applied. You need to use a specific code at checkout. If you're unsure of the code, you can find it here: https://vip.apolisglobal.com/vip-perks Let me know if you need any more help!",
+      "id": "f63a5059-a27f-4040-af58-29b4d307f4c9",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Is there a letter limit? (Bags by Amy Logsdon)",
+      "content": "Please note that all bags under this link: https://apolisglobal.com/search?type=product&options%5Bprefix%5D=last&q=Amy+Logsdon&page=2 for Bags by Amy Logsdon only allow 2 letters and no numbers.",
+      "id": "4583b2f0-d8d1-46e1-a73e-cbca59c2f520",
+      "shortcut": "ltl",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Do all the bags have this wording on the back?/ Can you remove the text from the back of the bag?",
+      "content": "All our bags feature company details on the back, serving as a mark of authenticity.",
+      "id": "c63f476e-6469-43cf-b3af-7f05c0df6371",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Surplus Market: Can I get my product personalized?",
+      "content": "Yes! Bags and masks are customized in Los Angeles, California, where a\ngrowing team of 13 production associates prints each item with\nwater-based ink.",
+      "id": "f40a8871-b707-4721-8935-9a6037cf1f34",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Surplus Market: What shipping carrier do you use?",
+      "content": "We use the United States Postal Service for Surplus Market orders.",
+      "id": "42783517-9fca-4f34-bc1f-3476464cc1cd",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Surplus Market: Where are the products made?",
+      "content": "Every market bag is handcrafted in Bangladesh by mothers who receive\nFair Trade-certified wages, annual profit dividends, and a retirement fund;\nread Forbes.com's article on how this approach is changing people's lives,\nwith over 1 million bag owners and counting. The bags are then shipped to\nLos Angeles, California, where a growing team of 13 production associates\nprint each bag with water-based ink onto the bag.",
+      "id": "8ef94a0f-d869-44dd-86af-68fc0d1eaa02",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Surplus Market: Why am I unable to login with my ApolisGlobal.com credentials?",
+      "content": "Excuse the hassle to create a new account for Market.ApolisGlobal.com. Unfortunately we are unable to honor gift cards, VIP perks or any discount\ncodes from ApolisGlobal.com. This is the clean-ness way to provide the best price. We totally understand this is lame and sucky, so please send an\nemail to shea@apolisglobal.com and copy\nservice@apolisglobal.com with the subject: \"you owe me shea\".",
+      "id": "7ff79113-77a2-41ad-807a-875e027f52a6",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Why are some bags more expensive?",
+      "content": "Note that bag prices vary. Adding custom artwork will result in a higher price.",
+      "id": "d0b8307f-3279-4d85-b97b-2dabbfc56aad",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Cancel/edit orders",
+      "content": "The best way to handle this is to email us at service@apolisglobal.com. Our team is happy to help!",
+      "id": "0928b8f4-376a-11ec-8d3d-0242ac130003",
+      "shortcut": "ced",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Order status/order tracking",
+      "content": "You can use our convenient online tool to see the latest updates on your order: https://apolisglobal.com/pages/tracking",
+      "id": "3b99eb2c-2f87-4788-a256-a58e90f1dc67",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Do you have replacement parts for bags?",
+      "content": "We're so sorry about your broken bag! Since we receive them fully assembled, we don't have extra parts on hand. If you'd like to return it, please email us your order number and a photo of the bag so we can guide you on the next steps service@apolisglobal.com",
+      "id": "232e0cd0-9856-43f5-a662-4ecca8e2f0e0",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Will you be adding more breeds to the pet collection?",
+      "content": "We're currently brainstorming new additions to our PET collection, and we'd love your input! Is there a specific dog breed you'd like to see added to our collection? Let us know, and we'll be sure to add your suggestion to our list for the artist to consider in future designs.",
+      "id": "7352d116-9bde-4637-ba05-fadd21d90410",
+      "shortcut": "pcc",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "How much for rush orders?",
+      "content": "Good question! It's $15 per bag for rush production next day and $25 for super rush shipping the same day before 11 am (Monday-Thursday).",
+      "id": "da7c17f1-0695-4f8d-9922-13b76db8aab2",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Surplus Market: How does my purchase help others?",
+      "content": "Every market bag is handcrafted in Bangladesh by mothers who receive Fair Trade-certified wages, annual profit dividends, and a retirement fund; read Forbes.com's article on how this approach is changing people's lives, with over 1 million bag owners and counting. The bags are then shipped to Los Angeles, California, where a growing team of 13 production associates print each bag with water-based ink onto the bag.",
+      "id": "202de0e1-49f6-4163-b6a9-b499ebce0665",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Surplus Market: When will I get my product? / Shipping time",
+      "content": "Before we ship, the product goes through a special print customization process to add your special word or phrase. Surplus Market bags take approximately 22-business days to customize. Once shipped the bag will follow shipment schedules. The estimated standard delivery in the US is 10 business days, please allow an extra day for some rural locations. Please note that we don't offer expedited shipping at the moment. \n\nIf you order today, your order should be delivered between January 23 and January 30, 2026.",
+      "id": "d66aea8a-2b97-425d-be60-0d9b6934d010",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Surplus Market: What payment methods do you accept?",
+      "content": "We gladly accept Visa, MasterCard and American Express credit cards as well as PayPal, Amazon Payments and Apple Pay. I'm afraid we cannot accept cash, checks, or money orders. Please note that sales tax will be added to all orders shipped in California. We also offer financing, and with Afterpay, you can enjoy 4 interest-free payments over 6-weeks.",
+      "id": "d625609a-bb4d-45af-8f46-137be7ebe933",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "My leather strap is a different color, I want a different strap",
+      "content": "I'm so sorry for the inconvenience! At this time, we're unable to offer a replacement strap in a different color or shade. The strap currently available in our facility is the only option we can provide, and it may be slightly different from the original strap that came with the bag.",
+      "id": "a4b19f00-7dad-43d4-9793-e17bc512a86c",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Returning customer asking for more discounts",
+      "content": "Thanks for texting again! I can't make a new offer, but as a small way to thank you for your ongoing support, here is private access to our VIP perk, thanks for not sharing: https://vip.apolisglobal.com/advocate-passport",
+      "id": "09286b42-376a-11ec-8d3d-0242ac130003",
+      "companyName": "Apolis"
+    },
+    {
+      "name": "Military / First responder discount",
+      "content": "Thank you for your service! We don't specifically have discounts for that, however, would another offer help instead? :)",
+      "id": "0928bc82-376a-11ec-8d3d-0242ac130003",
+      "shortcut": "ms",
+      "companyName": "Apolis"
+    }
+  ]
+}

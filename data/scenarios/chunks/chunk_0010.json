@@ -3,678 +3,835 @@
   "chunk": "chunk_0010",
   "scenarios": {
     "46": {
-      "agentName": "Sarah",
-      "id": "019c5d46-d70f-46e5-f000-0000f8095aa6",
+      "id": "019c7c64-1bfa-4ebf-f000-0000fa54f735",
+      "companyName": "Leilo",
+      "companyWebsite": "https://leilo.com",
+      "agentName": "Jake",
+      "messageTone": "Super Casual",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "Leilo: Reply Y to subscribe to recurring automated personalized marketing alerts (e.g. cart reminders) from Leilo.",
+          "message_type": "system",
+          "date_time": "2026-02-10 18:31:45.269"
+        },
+        {
+          "message_media": [],
+          "message_text": "Leilo: Welcome to Leilo! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
+          "message_type": "system",
+          "date_time": "2026-02-11 13:33:04.429"
+        },
+        {
+          "message_media": [],
+          "message_text": "Leilo: Welcome to Club Leilo! Save with code MOBILE10. Click here to auto-apply it and shop now: https://kava.attn.tv/aNbQa0Rk9eUz",
+          "message_type": "system",
+          "date_time": "2026-02-11 13:33:08.451"
+        },
+        {
+          "message_media": [],
+          "message_text": "Leilo: Also, if you get a chance, don't forget to save our contact to get exclusive updates!",
+          "message_type": "system",
+          "date_time": "2026-02-11 13:33:10.478"
+        },
+        {
+          "message_media": [
+            "https://attentive-files.s3.amazonaws.com/receive-event-media/1771540984496_2024615737674547200.jpeg",
+            "https://attentive-files.s3.amazonaws.com/receive-event-media/1771540984472_2024615737674547200.application/smil"
+          ],
+          "message_text": "I can't see where my order: ORDER #D-27457\r\n\r\nDelivered to. Says delivered but was not on my front/back porch or at any of my neighbors houses, checked my mailbox and not there either. Please see if you have a picture of where it delivered or refund me for the order. Thank you",
+          "message_type": "customer",
+          "date_time": "2026-02-19 17:43:16.997"
+        },
+        {
+          "message_media": [],
+          "message_text": "Leilo: Sorry to hear that. Unfortunately, the carrier did not provide a photo of the delivery. If your tracking says the package was delivered but you haven't received it, I recommend checking around your home and with nearby houses, just in case it was dropped off by mistake. Also, check with anyone you live with, like family, roommates, or a landlord, to see if they accepted it for you. Sometimes packages are also held by property managers, an apartment office, or even your local post office. Let me know if you can't find it, I'm here to help! ",
+          "message_type": "agent",
+          "agent": "35256",
+          "message_id": "019c7815-910b-4312-f000-0000fa54f735",
+          "date_time": "2026-02-19 17:46:45.292"
+        },
+        {
+          "message_media": [],
+          "message_text": "I've already checked everywhere and I did not receive it",
+          "message_type": "customer",
+          "date_time": "2026-02-19 17:48:06.800"
+        },
+        {
+          "message_media": [],
+          "message_text": "Leilo: Thank you for checking. Since the package was last handled by the carrier, it's best to reach out to them directly. Have you tried calling them? They should be able to help you locate your package.",
+          "message_type": "agent",
+          "agent": "37648",
+          "message_id": "019c781c-325f-4936-f000-0000fa54f735",
+          "date_time": "2026-02-19 17:53:59.804"
+        },
+        {
+          "message_media": [
+            "https://attentive-files.s3.amazonaws.com/receive-event-media/1771541776609_2024619061786329088.jpeg",
+            "https://attentive-files.s3.amazonaws.com/receive-event-media/1771541776478_2024619061786329088.application/smil"
+          ],
+          "message_text": "This is what I got when I tried",
+          "message_type": "customer",
+          "date_time": "2026-02-19 17:56:26.759"
+        },
+        {
+          "message_media": [],
+          "message_text": "Email and phone greyed out and unable to ask for help",
+          "message_type": "customer",
+          "date_time": "2026-02-19 17:56:56.839"
+        },
+        {
+          "message_media": [],
+          "message_text": "Leilo: Thanks for sharing that with me, and so sorry for the trouble! Let me check on this with my team, and I'll get back to you as soon as I have more info available. ",
+          "message_type": "agent",
+          "agent": "87310",
+          "message_id": "019c7822-f7b0-4c04-f000-0000fa54f735",
+          "date_time": "2026-02-19 18:01:23.541"
+        },
+        {
+          "message_media": [],
+          "message_text": "You have said that you'd let me know before and it's taken a long time, it shouldn't take this long to figure out where my order is or refund my money. I placed another order already to get the product but I would like an update or a refund ASAP",
+          "message_type": "customer",
+          "date_time": "2026-02-19 21:05:06.405"
+        },
+        {
+          "message_media": [],
+          "message_text": "Or resend the order, I don't care which",
+          "message_type": "customer",
+          "date_time": "2026-02-19 21:05:36.487"
+        },
+        {
+          "message_media": [],
+          "message_text": "Leilo: I'm really sorry for the long wait. I've sent another follow-up to ensure this is prioritized and will continue to monitor it closely. I'll reach out to you as soon as I have any information to share. ",
+          "message_type": "agent",
+          "agent": "87595",
+          "message_id": "019c78cd-8f47-46ba-f000-0000fa54f735",
+          "date_time": "2026-02-19 21:07:43.468"
+        },
+        {
+          "message_media": [],
+          "message_text": "Leilo: Thanks for your patience! I just heard from the team, and we understand how important this is. Upon checking the tracking, it looks like your order was delivered near your front door. Can you please confirm if you were able to double-check around the area?\n\nHere is a photo of where your order was delivered: https://kava.attn.tv/aqHXuakxeVOr\n\nIf you have any further questions or need assistance, please don't hesitate to contact me. We're here to help!",
+          "message_type": "agent",
+          "agent": "32937",
+          "message_id": "019c7c54-07ec-49bb-f000-0000fa54f735",
+          "date_time": "2026-02-20 13:33:27.816"
+        },
+        {
+          "message_media": [
+            "https://attentive-files.s3.amazonaws.com/receive-event-media/1771612533773_2024915834337501184.jpeg",
+            "https://attentive-files.s3.amazonaws.com/receive-event-media/1771612533755_2024915834337501184.application/smil"
+          ],
+          "message_text": "I emailed you, that's not my porch, here is a picture of my front porch",
+          "message_type": "customer",
+          "date_time": "2026-02-20 13:35:46.881"
+        },
+        {
+          "message_media": [],
+          "message_text": "I walked my whole block and can't find that porch",
+          "message_type": "customer",
+          "date_time": "2026-02-20 13:35:56.913"
+        },
+        {
+          "message_media": [],
+          "message_text": "Leilo: Sorry about that! Did you send an email to Help@Leilo.com? If so, our team is doing everything to respond to each inquiry promptly. They should follow up with you soon. Please check your spam and promo folders as well, as our emails sometimes end up there. ",
+          "message_type": "agent",
+          "agent": "50269",
+          "message_id": "019c7c58-1a8b-40c1-f000-0000fa54f735",
+          "date_time": "2026-02-20 13:37:54.729"
+        },
+        {
+          "message_media": [],
+          "message_text": "No I received an email from info@drinkleilo.com",
+          "message_type": "customer",
+          "date_time": "2026-02-20 13:39:27.059"
+        },
+        {
+          "message_media": [],
+          "message_text": "Leilo: You mentioned that you emailed us along with the picture of your front porch, correct? If so, please wait for some time; one of my colleagues will get back to you via email soon. Please check your spam and promo folders as well, as our emails sometimes end up there. \n\nIf not, I'd be happy to send word again to the team and let you know when I hear back. Again, I'm sorry for the hassle and really appreicate your patience!",
+          "message_type": "agent",
+          "agent": "87600",
+          "message_id": "019c7c5f-6602-465f-f000-0000fa54f735",
+          "date_time": "2026-02-20 13:45:52.803"
+        },
+        {
+          "message_media": [],
+          "message_text": "Can a refund just be issued?",
+          "message_type": "customer",
+          "date_time": "2026-02-20 13:47:06.991"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"Angry customer - All brands\"; last updated: 2023-10-10 18:19:02.447",
+          "message_type": "template",
+          "date_time": "2026-02-20 13:51:01.525"
+        },
+        {
+          "message_media": [],
+          "message_text": "Leilo: Our team will investigate this and get back to you with a resolution. I totally understand where you're coming from, and what you're feeling right now is absolutely valid. I can assure you that our team is doing its best to handle the situation in the best way possible. ",
+          "message_type": "agent",
+          "agent": "109964",
+          "message_id": "019c7c64-1bfa-4ebf-f000-0000fa54f735",
+          "date_time": "2026-02-20 13:51:01.527"
+        }
+      ],
+      "notes": {
+        "escalate": [
+          "ESC if you don't have the answer to the cx question instead of saying you don't know or don't have info"
+        ]
+      },
       "rightPanel": {
-        "browsingHistory": [
-          {
-            "link": "https://www.maxaroma.com/fragrance/niche-fragrances/parfums-de-marly-delina/pid/33139/2?utm_source=google\u0026utm_medium=cpc\u0026utm_campaign=product\u0026gad_source=1\u0026gad_campaignid=22118802157\u0026gbraid=0AAAAADc6URLGBT06iCEhj22vwL1QQmnMm\u0026gclid=Cj0KCQiA18DMBhDeARIsABtYwT3tnA7ziwa62SDyq7to_YKL1CSL2nnJ_ckmYNfjST3m27uTrEyrrn8aAqQVEALw_wcB",
-            "item": "Parfums De Marly Delina",
-            "timeAgo": "2026-02-14"
-          },
-          {
-            "link": "https://www.maxaroma.com/fragrance/niche-fragrances/parfums-de-marly-delina/pid/33139/2?utm_source=google\u0026utm_medium=cpc\u0026utm_campaign=product\u0026gad_source=1\u0026gad_campaignid=22118802157\u0026gbraid=0AAAAADc6URK9FW25ZNXcCzjzpb7ggj_N5\u0026gclid=CjwKCAiAqKbMBhBmEiwAZ3UboL2SY3BhUD4cEHTDqdhf-SKGjZN0v0GJWk0Iagdx6PLuLRHSZrL52RoCkysQAvD_BwE",
-            "item": "Parfums De Marly Delina",
-            "timeAgo": "2026-02-09"
-          }
-        ],
         "source": {
           "label": "Website",
-          "value": "https://maxaroma.com",
+          "value": "https://leilo.com",
           "date": ""
         }
       },
-      "companyWebsite": "https://maxaroma.com",
-      "companyName": "Maxaroma",
-      "notes": {
-        "send_to_cs": [
-          "Send to CS for post purchase issues, use PPI shortcut"
-        ]
-      },
-      "blocklisted_words": [
-        
-      ],
       "escalation_preferences": [
-        "Shipping questions",
-        "Discount code errors",
-        "Exchanges and returns"
+        "Any Health/Safety Related Concerns"
       ],
-      "messageTone": "Polished",
-      "conversation": [
-        {
-          "message_type": "system",
-          "message_text": "MaxAroma: Welcome to MaxAroma! Msg \u0026 data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
-          "date_time": "2026-02-05 15:04:35.985",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "MaxAroma: Welcome! Your $10 OFF coupon code is TEXT10 - click here to shop now: maxaroma.attn.tv/avHfO_vMys34 \n- Applies to Orders of $110+\n- Exclusions May Apply To Above Code\n- Don\u0027t forget to join AROMA CLUB to earn points! ",
-          "date_time": "2026-02-05 15:04:39.468",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "MaxAroma: Let\u0027s tailor your offers.\nWhat type of fragrances do you love most?\n\nReply 1 for Niche\nReply 2 for Designer\nReply 3 for I love trying new scents",
-          "date_time": "2026-02-05 15:05:43.388",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "MaxAroma: Members, your rewards are unlocked! Enjoy exclusive savings on your favorite fragrances: \n\n- Extra $10 OFF $120+ (VDAY10)\n- Extra $30 OFF $280+ (VDAY30)\n- Extra $100 OFF $750+ (VDAY100)\n\nTreat yourself to something special today! ends 2/11\nmaxaroma.attn.tv/aBDaxcS-aGxl ",
-          "date_time": "2026-02-08 16:15:23.509",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "MaxAroma: Hey there, this is Sarah. Thanks for checking out our site! 😊 https://maxaroma.attn.tv/aGt_U_nC4dDB \n\nAny questions I can answer for you? ",
-          "date_time": "2026-02-14 12:18:26.819",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "I don\u0027t get an option for the $10 discount code when I check out",
-          "date_time": "2026-02-14 12:20:44.605",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c5d46-d70f-46e5-f000-0000f8095aa6",
-          "message_text": "MaxAroma: Thanks for reaching out, and I\u0027m sorry to hear about this. VDAY10 is a promo code that needs to be entered at checkout. Once your cart subtotal is at least $120 with eligible items, you can apply the code in the \"Promo Code\" field during checkout, and the discount will be reflected before payment.\n\nIf you\u0027ve already tried entering it and it didn\u0027t apply, it usually means one of two things:\n\nThe cart total hasn\u0027t reached the $120 minimum.\n\nSome items aren\u0027t part of the eligible collection linked in the offer.\n\nIn those cases, adjusting the cart to meet the requirements should allow the code to work. Let me know if there\u0027s anything else I can help you with.",
-          "message_type": "agent",
-          "agent": "109972",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-14 12:50:49.656"
-        }
-      ]
+      "blocklisted_words": [
+        "kratom"
+      ],
+      "has_shopify": true
     },
     "47": {
-      "agentName": "Sarah",
-      "id": "019c6908-ed6c-4497-f000-0000fbbb80d3",
-      "rightPanel": {
-        "browsingHistory": [
-          {
-            "link": "https://www.newtonbaby.com/products/newton-crib-mattress",
-            "item": "Crib Mattress - Standard / White",
-            "timeAgo": "2026-02-16"
-          },
-          {
-            "link": "https://www.newtonbaby.com/products/newton-crib-mattress?blpromo=Sleeping25",
-            "item": "Crib Mattress - Standard / White",
-            "timeAgo": "2026-02-16"
-          },
-          {
-            "link": "https://www.newtonbaby.com/products/newton-crib-mattress?blpromo=Sleeping25",
-            "item": "Crib Mattress - Standard / White",
-            "timeAgo": "2026-02-16"
-          },
-          {
-            "link": "https://www.newtonbaby.com/products/newton-crib-mattress",
-            "item": "Waterproof Crib Mattress - Standard / White",
-            "timeAgo": "2026-02-16"
-          },
-          {
-            "link": "https://www.newtonbaby.com/products/newton-crib-mattress",
-            "item": "Waterproof Crib Mattress - Standard / White",
-            "timeAgo": "2026-02-16"
-          }
+      "id": "019c5de3-5558-44fe-f000-0000165e3650",
+      "companyName": "RéVive Skincare",
+      "companyWebsite": "https://reviveskincare.com",
+      "agentName": "Charli",
+      "messageTone": "Polished",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "RéVive Skincare: Final moments to indulge in 20% off. Stock up or try something new. Don't miss out! Use code: WINTER. Shop Now: revive.attn.tv/aE6FUm-6KAoo \n\nText back if you have any questions!",
+          "message_type": "system",
+          "date_time": "2026-01-18 17:00:47.443"
+        },
+        {
+          "message_media": [],
+          "message_text": "RéVive Skincare: New Gift Alert: Receive our full-size, best-selling Foaming Cleanser when you spend $300. Limited quantities available. Shop Now: revive.attn.tv/aFwTQwEG8GOS \n\nText back if you have any questions!",
+          "message_type": "system",
+          "date_time": "2026-01-22 14:00:37.762"
+        },
+        {
+          "message_media": [],
+          "message_text": "RéVive Skincare: Final moments to receive our full-size, best-selling Foaming Cleanser when you spend $300. Don't miss out! Shop Now: revive.attn.tv/a9ygvODigFA- \n\nText back if you have any questions!",
+          "message_type": "system",
+          "date_time": "2026-01-25 17:00:44.861"
+        },
+        {
+          "message_media": [],
+          "message_text": "RéVive Skincare: Hey Grace, this is Charli . Thanks for checking out our powerful, science-backed formulas! 😊 https://revive.attn.tv/aQoEyjESylmO \n\nAre you looking for anything in particular today? ",
+          "message_type": "system",
+          "date_time": "2026-01-29 15:59:53.002"
+        },
+        {
+          "message_media": [],
+          "message_text": "RéVive Skincare: Enjoy a wondrous winter gift including 4 deluxe samples of our most nourishing formulas to protect & balance skin and replenish lost moisture. Yours with any $250 purchase ($256 value). Shop Now: revive.attn.tv/aDj6dxg0pE-g \n\nText back if you have any questions!",
+          "message_type": "system",
+          "date_time": "2026-01-31 22:15:18.119"
+        },
+        {
+          "message_media": [],
+          "message_text": "RéVive Skincare: Indulge in renewal skin this Valentine's Day with 20% off sitewide. Use code: VDAY20.💖SHOP NOW: revive.attn.tv/a2xYRtXjmgkK \n\nText back if you have any questions!",
+          "message_type": "system",
+          "date_time": "2026-02-05 13:01:13.712"
+        },
+        {
+          "message_media": [],
+          "message_text": "RéVive Skincare: 💝Spoil your skin with our formulas this Valentine's. Use code VDAY20 for 20% off sitewide. SHOP NOW: revive.attn.tv/aUO0H85JeFTt \n\nText back if you have any questions!",
+          "message_type": "system",
+          "date_time": "2026-02-08 12:30:23.528"
+        },
+        {
+          "message_media": [],
+          "message_text": "RéVive Skincare: Hey Grace, this is Charli . I see you left something in your cart. revive.attn.tv/ad55_DBELIOb \n\nGreat choice! 😊 Any questions I can answer for you? ",
+          "message_type": "system",
+          "date_time": "2026-02-14 11:26:53.098"
+        },
+        {
+          "message_media": [],
+          "message_text": "Yes you can!  I have a reward of a full size balancing toner and it's not showing on my rewards list as the does not show all my rewards.... only shows 5 and it won't scroll further!  I want to complete my order today for the Vday20.",
+          "message_type": "customer",
+          "date_time": "2026-02-14 14:46:30.435"
+        },
+        {
+          "message_media": [],
+          "message_text": "RéVive Skincare: I'm sorry about that. Have you tried switching browsers? Google Chrome usually works best since some browsers have issues with e-commerce sites. If you're still having trouble, could you send me a screenshot so I can take a closer look?",
+          "message_type": "agent",
+          "agent": "35256",
+          "message_id": "019c5dd3-0aa5-4836-f000-0000165e3650",
+          "date_time": "2026-02-14 15:23:57.885"
+        },
+        {
+          "message_media": [],
+          "message_text": "I have tried using Google instead of safari and I had the same issue there.  I will send you a screenshot and try Google again",
+          "message_type": "customer",
+          "date_time": "2026-02-14 15:29:11.481"
+        },
+        {
+          "message_media": [],
+          "message_text": "RéVive Skincare: Sorry for the trouble, and I would appreciate it! Let me know how it goes. ",
+          "message_type": "agent",
+          "agent": "87310",
+          "message_id": "019c5dd8-ce8a-46f1-f000-0000165e3650",
+          "date_time": "2026-02-14 15:30:15.722"
+        },
+        {
+          "message_media": [
+            "https://attentive-files.s3.amazonaws.com/receive-event-media/1771101555648_2022772640711761920.png",
+            "https://attentive-files.s3.amazonaws.com/receive-event-media/1771101555289_2022772640711761920.application/smil"
+          ],
+          "message_text": "Here is what I got on Google",
+          "message_type": "customer",
+          "date_time": "2026-02-14 15:39:20.903"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"Order number and email - All brands\"; last updated: 2023-10-10 18:06:34.663",
+          "message_type": "template",
+          "date_time": "2026-02-14 15:41:45.582"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"Rewards / referral\"; last updated: 2022-07-24 19:22:27.596",
+          "message_type": "template",
+          "date_time": "2026-02-14 15:41:45.582"
+        },
+        {
+          "message_media": [],
+          "message_text": "RéVive Skincare: I'm really sorry for the inconvenience. Could you please share your email address? I'll be happy to look into this with my team!",
+          "message_type": "agent",
+          "agent": "109964",
+          "message_id": "019c5de3-5558-44fe-f000-0000165e3650",
+          "date_time": "2026-02-14 15:41:45.585"
+        }
+      ],
+      "notes": {
+        "escalate": [
+          "For \"Gift with Purchase\" promos, ESC if cx ask if the free gift is in stock (don't reference the website for these imquiries)"
         ],
+        "hurricane_storm_relief": [
+          "Please do not mention supporting anyone or anything during Hurricanes including Hurricane Helene and others affecting the Southern part of the United States. Do not offer help, mention brand support, etc."
+        ],
+        "samples": [
+          "Brand no longer offers 2 free samples with purchases."
+        ]
+      },
+      "rightPanel": {
         "source": {
           "label": "Website",
-          "value": "https://newtonbaby.com",
+          "value": "https://reviveskincare.com",
           "date": ""
-        }
+        },
+        "browsingHistory": [
+          {
+            "item": "Bestsellers Duo / Full-Size Moisturizers For Face & Neck ($370 Value)",
+            "link": "https://reviveskincare.com/products/bestsellers-duo-full-size-moisturizers-for-face-neck-360-value?variant=44433972560053",
+            "timeAgo": "2024-09-22"
+          },
+          {
+            "item": "Moisturizing Renewal Cream / Nightly Retexturizer - .5 oz / 15 ml",
+            "link": "https://reviveskincare.com/collections/best-sellers/products/moisturizing-renewal-cream?selling_plan=1050443957&variant=21904990076976",
+            "timeAgo": "2024-09-22"
+          },
+          {
+            "item": "Moisturizing Renewal Cream / Nightly Retexturizer - 1.7 oz / 50 ml",
+            "link": "https://reviveskincare.com/collections/best-sellers/products/moisturizing-renewal-cream?selling_plan=1050443957&variant=22356523876400",
+            "timeAgo": "2024-09-22"
+          },
+          {
+            "item": "Moisturizing Renewal Cream / Nightly Retexturizer - 1.7 oz / 50 ml",
+            "link": "https://reviveskincare.com/collections/best-sellers/products/moisturizing-renewal-cream",
+            "timeAgo": "2024-09-22"
+          },
+          {
+            "item": "Bestsellers Duo / Full-Size Moisturizers For Face & Neck ($370 Value)",
+            "link": "https://reviveskincare.com/products/bestsellers-duo-full-size-moisturizers-for-face-neck-360-value?variant=44433972560053",
+            "timeAgo": "2024-09-22"
+          }
+        ],
+        "orders": [
+          {
+            "orderNumber": "93010",
+            "orderDate": "2024-06-26",
+            "items": [
+              {
+                "name": "Moisturizing Renewal Serum / Nightly Repair Booster",
+                "price": 235,
+                "productLink": "https://reviveskincare.myshopify.com/products/moisturizing-renewal-serum"
+              }
+            ],
+            "total": 191.76,
+            "coupon": "CELEBRATION25",
+            "date_time": "2024-06-26 20:32:13.584"
+          },
+          {
+            "orderNumber": "88904",
+            "orderDate": "2024-04-21",
+            "items": [
+              {
+                "name": "Moisturizing Renewal Cream / Nightly Retexturizer",
+                "price": 195,
+                "productLink": "https://reviveskincare.myshopify.com/products/moisturizing-renewal-cream"
+              }
+            ],
+            "total": 169.73,
+            "coupon": "SPRING20",
+            "date_time": "2024-04-21 20:18:00.352"
+          },
+          {
+            "orderNumber": "80717",
+            "orderDate": "2023-12-11",
+            "items": [
+              {
+                "name": "Moisturizing Renewal Cream / Nightly Retexturizer",
+                "price": 195,
+                "productLink": "https://reviveskincare.myshopify.com/products/moisturizing-renewal-cream"
+              }
+            ],
+            "total": 146.25,
+            "coupon": "WINTER25",
+            "date_time": "2023-12-11 02:16:27.104"
+          },
+          {
+            "orderNumber": "80717",
+            "orderDate": "2023-12-11",
+            "items": [
+              {
+                "name": "Moisturizing Renewal Lotion Sample",
+                "price": 15,
+                "productLink": "https://reviveskincare.myshopify.com/products/moisturizing-renewal-lotion-sample"
+              }
+            ],
+            "total": 146.25,
+            "coupon": "WINTER25",
+            "date_time": "2023-12-11 02:16:27.099"
+          },
+          {
+            "orderNumber": "80717",
+            "orderDate": "2023-12-11",
+            "items": [
+              {
+                "name": "Perfectif Night Even Skin Tone Cream Sample",
+                "price": 15,
+                "productLink": "https://reviveskincare.myshopify.com/products/perfectif-night-even-skin-tone-cream-sample"
+              }
+            ],
+            "total": 146.25,
+            "coupon": "WINTER25",
+            "date_time": "2023-12-11 02:16:26.999"
+          }
+        ]
       },
-      "companyWebsite": "https://newtonbaby.com",
-      "companyName": "Newton Baby",
+      "escalation_preferences": [],
+      "blocklisted_words": [],
+      "has_shopify": true
+    },
+    "48": {
+      "id": "019c731f-bc39-4573-f000-0000174327cb",
+      "companyName": "Snipes",
+      "companyWebsite": "https://snipesusa.com",
+      "agentName": "Avery",
+      "messageTone": "Formal",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "SNIPES: The AJ9 Retro \"Flint Grey\" is available now. Don't miss your chance to grab a pair before they sell out. Shop now: snipes.attn.tv/ak5zw5YGAu2n .",
+          "message_type": "system",
+          "date_time": "2026-01-24 12:03:09.907"
+        },
+        {
+          "message_media": [],
+          "message_text": "SNIPES: Missed it? The KD 18, A'One, Shai 001, and more dropped at SNIPES this week. Shop the releases now: snipes.attn.tv/azKY9lBjWCHZ ",
+          "message_type": "system",
+          "date_time": "2026-01-25 12:03:15.122"
+        },
+        {
+          "message_media": [],
+          "message_text": "SNIPES: New arrivals just landed! Fresh styles from Nike, Jordan, UGG, adidas, New Balance, and more. Shop what's new now: snipes.attn.tv/arkfzrO3_w9j ",
+          "message_type": "system",
+          "date_time": "2026-01-27 12:14:08.671"
+        },
+        {
+          "message_media": [],
+          "message_text": "SNIPES: Final call. End of Season Sale with up to 70% off select styles from Nike, Jordan, UGG, New Balance, & more. Shop now: snipes.attn.tv/ahS6B2pv-5Rb ",
+          "message_type": "system",
+          "date_time": "2026-02-02 15:01:27.640"
+        },
+        {
+          "message_media": [],
+          "message_text": "SNIPES: Skip the shipping and get 10% OFF when you buy online and pick up in store with code SNIPESLOVE. Exclusions apply: snipes.attn.tv/aXjckE4d1jz7 ",
+          "message_type": "system",
+          "date_time": "2026-02-07 14:02:44.730"
+        },
+        {
+          "message_media": [],
+          "message_text": "SNIPES: Extra AJ6 Retro \"Infrared Salesman\" just dropped! Early access is live. Join the VIP queue with your Reserve email: snipes.attn.tv/apSsUQHxUv-z ",
+          "message_type": "system",
+          "date_time": "2026-02-12 12:35:20.612"
+        },
+        {
+          "message_media": [],
+          "message_text": "SNIPES: Final call for early access to the AJ6 Retro \"Infrared Salesman.\" Enter the VIP queue and lock in your pair: snipes.attn.tv/aDURkmCUPBV3 ",
+          "message_type": "system",
+          "date_time": "2026-02-12 13:30:25.171"
+        },
+        {
+          "message_media": [],
+          "message_text": "SNIPES: Thanks for your order! Check your email for more details on shipping information. Track your order here with order number, email address, and zip code: https://snipes.attn.tv/aHZpQPX5Qa4h .",
+          "message_type": "system",
+          "date_time": "2026-02-12 13:38:08.312"
+        },
+        {
+          "message_media": [],
+          "message_text": "SNIPES: Last chance to lock in Vday gifts. Get 10% off select styles when you buy online and pick up in store with code SNIPESLOVE: snipes.attn.tv/a3G4m8KDpDCf ",
+          "message_type": "system",
+          "date_time": "2026-02-13 18:05:10.499"
+        },
+        {
+          "message_media": [],
+          "message_text": "SNIPES: The Air Jordan 6 Retro \"Infrared Salesman\" just dropped. Get yours before they're gone: snipes.attn.tv/aMbgASzELiYt .",
+          "message_type": "system",
+          "date_time": "2026-02-14 12:45:38.481"
+        },
+        {
+          "message_media": [],
+          "message_text": "SNIPES: Flash sale for 48 hours only! Shop up to 75% off select styles. Get footwear, apparel, & so much more for less: snipes.attn.tv/aHWxqXujqXo7 ",
+          "message_type": "system",
+          "date_time": "2026-02-15 13:07:06.261"
+        },
+        {
+          "message_media": [],
+          "message_text": "SNIPES: Missed it? The Air Zoom Huarache 2K4 All Star, AJ1 Retro \"Cool Grey\", Shai 001, & more just dropped. Shop our releases: snipes.attn.tv/aLzvoH6sAzyR ",
+          "message_type": "system",
+          "date_time": "2026-02-17 17:31:37.628"
+        },
+        {
+          "message_media": [],
+          "message_text": "Need discount code",
+          "message_type": "customer",
+          "date_time": "2026-02-18 18:33:11.124"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"No promotions available - All brands\"; last updated: 2023-10-10 16:37:45.165",
+          "message_type": "template",
+          "date_time": "2026-02-18 18:39:45.627"
+        },
+        {
+          "message_media": [],
+          "message_text": "SNIPES: Thanks for getting in touch! I'm sorry, I don't have any codes available at the moment, but our deals will always be shared with our SMS subscribers or on our website, so keep an eye out! In the meantime, you can check out our sales collection here: https://snipes.attn.tv/a3k3ijNBibwd/",
+          "message_type": "agent",
+          "agent": "109840",
+          "message_id": "019c731f-bc39-4573-f000-0000174327cb",
+          "date_time": "2026-02-18 18:39:45.629"
+        }
+      ],
+      "notes": {
+        "send_to_cs": [
+          "Send to CS immediately for post-purchase issues",
+          "Send to CS for payment processing issues"
+        ],
+        "tone": [
+          "Don't use the term restock",
+          "Don't tell customers that we'll be restocking",
+          "Don't respond to blank messages",
+          "Don't use formal language",
+          "Close the conversation when a customer responds 'no'"
+        ],
+        "templates": [
+          "If a cx reaches out regarding the Early Access event, use EAE shortcut",
+          "For cx reaching out in Spanish use SSC shortcut",
+          "For checkout issues use the \"Check out Issues\" temp",
+          "For store item availability, use SPA shortcut",
+          "If cx's email doesn't work for early access, use EEA shortcut"
+        ],
+        "dos_and_don_ts": [
+          "They occasionally run sign-up campaigns where cx text certain keywords (“releases,” “early access”) to join a list. If a customer sends a similar keyword:",
+          "➜ Check the website banner or landing page to confirm if it's a current keyword trigger",
+          "➜ If confirmed, close the convo, if not you can respond",
+          "All clothing is true to size unless otherwise stated on the product page",
+          "You can use these sizing charts for reference (for internal use only): https://docs.google.com/spreadsheets/d/1kmra_vOwCJuHoAx9D4L4Qx95rxafHcrqn-ZGutfzLgg/edit?usp=sharing",
+          "🅿️ If customers say they want to purchase in store - encourage them to buy online & pick up in-store",
+          "For store info q's (phone number/additional info) - use the store locator with your VPN turned on!"
+        ],
+        "drive_to_purchase": [
+          "🅿️ If customers are looking for an outfit recommendation/item pairing - direct them to the \"shop the look\" section on each product page or use the LK shortcut"
+        ]
+      },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://snipesusa.com",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "NOCTA Woven Track Jacket",
+            "link": "https://www.snipesusa.com/nocta-woven-track-jacket-nike-black-fn7666-010-1000122046.html",
+            "timeAgo": "2025-09-22"
+          },
+          {
+            "item": "NOCTA Woven Track Jacket",
+            "link": "https://www.snipesusa.com/nocta-woven-track-jacket-nike-black-fn7666-010-1000122046.html",
+            "timeAgo": "2025-09-22"
+          },
+          {
+            "item": "NOCTA Northstar Nylon Track Pants",
+            "link": "https://www.snipesusa.com/nocta-northstar-nylon-track-pants-nike-black-fn7668-010-15560600013.html?gad_source=1&gad_campaignid=20357166678&gbraid=0AAAAADrwDpgCFxMUH4gaHvFB6a1XhxldH&gclid=Cj0KCQjw58PGBhCkARIsADbDilxo9vSlG7_lFhEaTO2ZBJ6G7o4tnH5WrmkJZV2AdUAls6GkKbBV9eAaAoO9EALw_wcB",
+            "timeAgo": "2025-09-22"
+          },
+          {
+            "item": "NOCTA Woven Track Jacket",
+            "link": "https://www.snipesusa.com/nocta-woven-track-jacket-nike-black-fn7666-010-1000122046.html",
+            "timeAgo": "2025-09-17"
+          },
+          {
+            "item": "NOCTA Woven Track Jacket",
+            "link": "https://www.snipesusa.com/nocta-woven-track-jacket-nike-black-fn7666-010-1000122046.html",
+            "timeAgo": "2025-09-14"
+          }
+        ]
+      },
+      "escalation_preferences": [
+        "Exchanges and returns"
+      ],
+      "blocklisted_words": [
+        "restock"
+      ],
+      "has_shopify": false
+    },
+    "49": {
+      "id": "019c44d7-036f-479d-f000-0000fa1bcabc",
+      "companyName": "Boston Scally",
+      "companyWebsite": "https://bostonscally.com/",
+      "agentName": "Jordan",
+      "messageTone": "Polished",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "Boston Scally: Welcome! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
+          "message_type": "system",
+          "date_time": "2026-02-08 21:19:52.360"
+        },
+        {
+          "message_media": [],
+          "message_text": "Boston Scally: You're in! Welcome to the family. Your coupon code is SMS10. Tap here to automatically apply it and shop now: bostonscally.attn.tv/aluiDhdmr-wl",
+          "message_type": "system",
+          "date_time": "2026-02-08 21:19:56.480"
+        },
+        {
+          "message_media": [],
+          "message_text": "Boston Scally: Don't forget to save our contact for exclusive updates and offers! ",
+          "message_type": "system",
+          "date_time": "2026-02-09 10:41:01.338"
+        },
+        {
+          "message_media": [],
+          "message_text": "Boston Scally: Hi, thanks for reaching out. I see you sent the Bareknuckle! Could you let me know if you have a question about it or if there's something specific you'd like help with?",
+          "message_type": "agent",
+          "agent": "109630",
+          "message_id": "019c44d7-036f-479d-f000-0000fa1bcabc",
+          "date_time": "2026-02-09 18:57:47.783"
+        }
+      ],
       "notes": {
         "send_to_cs": [
           "Send to CS for post purchase issues, use PPI shortcut"
-        ],
-        "promo_and_exclusions": [
-          "Only one code can be used per order. Multiple orders will need to be placed to optimize multiple offers",
-          "Do NOT offer codes during sales and promotions!",
-          "When sending a discount code to the customer - always add \"the code is valid on orders over XX. Exclusions may apply\""
         ]
       },
-      "blocklisted_words": [
-        
-      ],
-      "escalation_preferences": [
-        "Discount code errors",
-        "Discount adjustments to orders, please see template provided"
-      ],
-      "messageTone": "Polished",
-      "conversation": [
-        {
-          "message_type": "system",
-          "message_text": "Newton: Reply Y to subscribe to recurring automated personalized marketing alerts (e.g. cart reminders) from Newton Baby",
-          "date_time": "2026-02-16 18:43:01.170",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Newton: Welcome! Msg \u0026 data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel. Privacy: https://newton.attn.tv/cl/h2A",
-          "date_time": "2026-02-16 18:43:19.591",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Newton: Welcome! Take 20% OFF during our New Baby Event! Tap to automatically apply your discount: newton.attn.tv/aKcECsmgK0PV\n\n*Exclusions Apply. Ends 2/17.",
-          "date_time": "2026-02-16 18:43:24.148",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Newton: 🛒 Don\u0027t snooze on this! Your cart is waiting. Get 20% OFF with code BABY20* before it\u0027s gone.\n\n👉 Checkout now: newton.attn.tv/aZo_owkXTdH- \n\n*Exclusions Apply. Ends 2/17.",
-          "date_time": "2026-02-16 19:17:00.102",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "I need it delivered by 02-19",
-          "date_time": "2026-02-16 19:17:51.647",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c68f7-6da9-40b4-f000-0000fbbb80d3",
-          "message_text": "Newton: Thanks for reaching out! Unfortunately, I don\u0027t see any active orders on my end. Could you please check if you received a confirmation email or if there\u0027s a charge on your account? Sometimes the email might arrive in your spam or promo folder, so be sure to take a look there too! \n\nAlso, please note that all Newton products have a processing time of 1-3 business days. Our partner products like cribs, dressers, and Figgy products can take up to 5 days before shipping out.\n\nPlease let me know how I can assist you further today, I\u0027m just a text away!",
-          "message_type": "agent",
-          "agent": "109617",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-16 19:19:31.917"
-        },
-        {
-          "message_type": "customer",
-          "message_text": "I need one of your mattresses by Thursday.",
-          "date_time": "2026-02-16 19:34:48.182",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "template",
-          "message_text": "Template used: \"Shipping time\"; last updated: 2023-10-02 22:08:04.754",
-          "date_time": "2026-02-16 19:38:38.722",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "template",
-          "message_text": "Template used: \"Can I order now and have you hold the items for a future delivery date?\"; last updated: 2023-10-02 21:55:47.180",
-          "date_time": "2026-02-16 19:38:38.722",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c6908-ed6c-4497-f000-0000fbbb80d3",
-          "message_text": "Newton: Got it. However, all Newton products have a processing time of 1-3 business days. Our partner products like cribs, dressers, and Figgy products can take up to 5 days before shipping out. Once the order is placed, we will ship the items in approximately 1-2 business days, after its available ship date. Orders will arrive in 4-12 business days once they are shipped. Hope this helps.\n",
-          "message_type": "agent",
-          "agent": "109630",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-16 19:38:38.725"
-        }
-      ]
-    },
-    "48": {
-      "agentName": "Grace",
-      "id": "019c6e16-4739-44d5-f000-0000c7753686",
       "rightPanel": {
         "source": {
           "label": "Website",
-          "value": "https://stonewallkitchen.com",
+          "value": "https://bostonscally.com/",
           "date": ""
-        }
-      },
-      "companyWebsite": "https://stonewallkitchen.com",
-      "companyName": "Stonewall Kitchen",
-      "notes": {
-        "dos_and_donts": [
-          "Don\u0027t send links from the UI directly!",
-          "➜ Open their website https://www.stonewallkitchen.com/ and send links from there!"
-        ],
-        "promo_and_exclusions": [
-          "Active codes and promotions are online only and can\u0027t be redeemed at retail locations."
+        },
+        "browsingHistory": [
+          {
+            "item": "The Bareknuckle Boston Scally Cap - Irish Edition - X-Small [54cm]",
+            "link": "https://www.bostonscally.com/products/the-irish-bareknuckle-boston-scally-cap",
+            "timeAgo": "2026-02-09"
+          },
+          {
+            "item": "The Original Boston Scally Cap - Grey Herringbone - X-Small [53cm]",
+            "link": "https://www.bostonscally.com/products/hat-4",
+            "timeAgo": "2026-02-09"
+          },
+          {
+            "item": "The Violet Rose Plaid Peaky Boston Scally Cap - Purple Plaid - X-Small [54cm]",
+            "link": "https://www.bostonscally.com/products/the-violet-rose-boston-scally-cap-plaid",
+            "timeAgo": "2026-02-09"
+          },
+          {
+            "item": "The Autumn Rose Boston Scally Cap - Autumn Plaid - XX-Large [62cm]",
+            "link": "https://www.bostonscally.com/products/the-autumn-rose-boston-scally-cap",
+            "timeAgo": "2026-02-09"
+          },
+          {
+            "item": "The Autumn Rose Boston Scally Cap - Autumn Plaid - X-Small [54cm]",
+            "link": "https://www.bostonscally.com/products/the-autumn-rose-boston-scally-cap",
+            "timeAgo": "2026-02-09"
+          }
         ]
       },
-      "blocklisted_words": [
-        
-      ],
-      "escalation_preferences": [
-        
-      ],
-      "messageTone": "Polished",
-      "conversation": [
-        {
-          "message_type": "system",
-          "message_text": "Stonewall Kitchen: Flash sale alert! Today (1/27) until 4 pm ET, get 25% OFF online with code PANTRY25: swk.attn.tv/aYPNKjKn_tTz",
-          "date_time": "2026-01-27 12:05:57.464",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Stonewall Kitchen: Surprise, we\u0027ve extended our sale until midnight tonight (1/27)! Get 25% OFF online with code PANTRY25: swk.attn.tv/a-7YqMvpvQlq",
-          "date_time": "2026-01-27 16:05:31.553",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Stonewall Kitchen: This Presidents Day Weekend (2/13-2/216), enjoy 20% OFF online orders $75+ using code SWEET75: swk.attn.tv/a_8IwyPvrcTP",
-          "date_time": "2026-02-13 11:05:57.766",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Stonewall Kitchen: Only 48 hours left! Now through 2/16, shop more for less with 20% OFF online orders $75+ using code SWEET75: swk.attn.tv/aVRkV8TCcxkg ",
-          "date_time": "2026-02-15 12:06:19.856",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Stonewall Kitchen: You are already subscribed. Click here to shop now: stonewallkitchen.com.",
-          "date_time": "2026-02-17 18:03:02.725",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Stonewall Kitchen: Hi there, I\u0027m Grace and I\u0027m here to help! Are you looking for something in particular?",
-          "date_time": "2026-02-17 18:18:01.117",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "Yes donut mix",
-          "date_time": "2026-02-17 19:08:05.179",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c6e16-4739-44d5-f000-0000c7753686",
-          "message_text": "Stonewall Kitchen: Thanks for getting in touch! I currently don\u0027t have the exact date of a possible restock for our Doughnut Mixes, but I recommend checking our website and social media frequently. In the meantime, feel free to check our other baking \u0026 cooking products: https://swk.attn.tv/a2H8Q8jXBk24/",
-          "message_type": "agent",
-          "agent": "109840",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-17 19:11:19.769"
-        }
-      ]
-    },
-    "49": {
-      "agentName": "Alexa",
-      "id": "019c5f3a-0ee6-450a-f000-0000438f510f",
-      "rightPanel": {
-        "source": {
-          "label": "Website",
-          "value": "https://fashionnova.com",
-          "date": ""
-        }
-      },
-      "companyWebsite": "https://fashionnova.com",
-      "companyName": "Fashion Nova",
-      "notes": {
-        "send_to_cs": [
-          "No escalations for this client, send to CS using the Support templates",
-          "For post-purchase inquiries send to CS using the Support template (shortcut: ESC)",
-          "➜ If the cx is having difficulties sending an email to CS via the link in the ESC temp - use Support 2 template (shortcut: TESC)",
-          "➜ If the cx is facing technical website issues while accessing the link, do NOT immediately send the TESC shortcut, troubleshoot first instead",
-          "For pre-purchase inquiries send to CS using the Support 2 template (shortcut: TESC)"
-        ],
-        "tone": [
-          "🅿️ Use wording that is in line with the brand\u0027s voice and terminology found on the website",
-          "➜ e.g. Nova Kids, Nova Babes, Insta-worthy, slays, snatched, baddie, etc.",
-          "➜ Always look up the term\u0027s meaning before using it!"
-        ],
-        "templates": [
-          "For expired discounts use EXP shortcut",
-          "For login issues use LGI shortcut"
-        ],
-        "promo_and_exclusions": [
-          "If cx are looking for their 30% welcome code, ask to check their email (spam \u0026 promo)",
-          "Gift cards can be used on discounted items"
-        ]
-      },
-      "blocklisted_words": [
-        
-      ],
-      "escalation_preferences": [
-        
-      ],
-      "messageTone": "Polished",
-      "conversation": [
-        {
-          "message_type": "system",
-          "message_text": "Fashion Nova: Don\u0027t forget this dress! Use Code: TAKE10 for 10% off your ENTIRE order! -\u003e http://sms.fashionnova.com/aVxAPPEPXd6e .",
-          "date_time": "2026-01-17 18:14:41.464",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Fashion Nova: Surprise! Here\u0027s a code for 10% off the entire site: TAKE10 - Go on, treat yourself! -\u003e http://sms.fashionnova.com/an9ghSjeeQV4 .",
-          "date_time": "2026-01-19 19:01:47.701",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Fashion Nova: FREE 1-Day Shipping + Up to 70% OFF Sitewide!!\n\nThis One\u0027s Too Good To Miss! Shop NOW, Get It TMRW! -\u003e\nhttp://sms.fashionnova.com/aldfE7tJLkCL .",
-          "date_time": "2026-01-21 10:29:18.966",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Fashion Nova: Surprise! Here\u0027s a code for 10% off the entire site: TAKE10 - Go on, treat yourself! -\u003e http://sms.fashionnova.com/a2fEjvmonTnN .",
-          "date_time": "2026-01-22 12:55:10.059",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Fashion Nova: ⚠️SNOW STORM WARNING⚠️40% OFF EVERYTHING Starts NOW!!\n\nStay Inside \u0026 SHOP! →\nhttp://sms.fashionnova.com/a55C1wMZZGgt .",
-          "date_time": "2026-01-25 10:27:39.830",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Fashion Nova: 40% Off EVERYTHING + FREE 1-Day Shipping?!\n\nThe Math Is Mathing! T\u0026C Apply, Shop NOW, Get It TMRW!! -\u003e\nhttp://sms.fashionnova.com/aIYyI-pMvo7_ .",
-          "date_time": "2026-01-28 10:28:59.199",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Fashion Nova: 40% OFF EVERYTHING Ends TONIGHT!!\n\nUse Code: LOVE40 | T\u0026Cs Apply, Hurry B4 Code Expires! -\u003e\nhttp://sms.fashionnova.com/abWU9KDLuzee .",
-          "date_time": "2026-02-01 18:20:41.745",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Fashion Nova: FREE 1-Day Shipping! Get It TMRW!\n\n+ JUST LAUNCHED: NOVA Activewear. Hurry, Limited Quantity -\u003e\nhttp://sms.fashionnova.com/aU_D8TBEKIkt .",
-          "date_time": "2026-02-04 10:26:39.566",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Fashion Nova: Let\u0027s F#CKING GO! 50% OFF EVERYTHING Starts NOW!\n\n+Next 6HRS Only: $10 SETS!\n\nIt\u0027s GAMEDAY! Shop NOW! -\u003e\nhttp://sms.fashionnova.com/a9A1pmzvkCRq .",
-          "date_time": "2026-02-08 10:26:19.361",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Fashion Nova: 🚨We\u0027re REFUNDING The NEXT 2,000 Orders Up To $100!!!🚨\n\n+ 50% OFF EVERYTHING!\n\nHURRY! Ur Chance To Score Is... NOW! See T\u0026Cs. HURRY!! -\u003e\nhttp://sms.fashionnova.com/a_BSQER6XRkN .",
-          "date_time": "2026-02-08 19:04:24.700",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Fashion Nova: WTF?!🚨$5 JEANS Starts NOW!!🚨\n\n+ 50% OFF EVERYTHING ENDS Tonight!\n\nHurry, Don\u0027t Fumble This Deal! Shop Now! -\u003e\nhttp://sms.fashionnova.com/aI1AoCBoUJxa .",
-          "date_time": "2026-02-08 20:57:45.269",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Fashion Nova: 2HRS LEFT! 50% OFF EVERYTHING Ending + Xtra 10% OFF! Code: WIN10\n\nHurry, Shop B4 Game Day Is OVER! -\u003e\nhttp://sms.fashionnova.com/aFz_cwRWpMzh .",
-          "date_time": "2026-02-08 23:06:42.440",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Fashion Nova: EXTENDED! 50% OFF EVERYTHING Is Still Going!!\n\nT\u0026Cs Apply, Hurry \u0026 Shop B4 This SALE Is OVER! -\u003e\nhttp://sms.fashionnova.com/a5xmrAxau6oa .",
-          "date_time": "2026-02-09 19:30:34.529",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Fashion Nova: FREE 1-Day Shipping! Get It B4 V-DAY!\n\n+The Semi-Annual SALE Is NOW! 40-80% OFF SITEWIDE!\n\nT\u0026C Apply -\u003e\nhttp://sms.fashionnova.com/aPO4XqRjnxuD .",
-          "date_time": "2026-02-11 10:29:46.771",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Fashion Nova: Congrats! Your order #179301546 is confirmed.\n\nCheck the status of your order here: http://sms.fashionnova.com/aCpPNiNlkfec .",
-          "date_time": "2026-02-14 16:19:30.216",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "Help",
-          "date_time": "2026-02-14 21:09:11.871",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c5f3a-0ee6-450a-f000-0000438f510f",
-          "message_text": "Fashion Nova: Thank you for reaching out. May I know if there is anything in particular that I can assist you with today? I\u0027m more than happy to help.",
-          "message_type": "agent",
-          "agent": "82260",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-14 21:56:06.404"
-        }
-      ]
+      "escalation_preferences": [],
+      "blocklisted_words": [],
+      "has_shopify": true
     },
     "50": {
-      "agentName": "Sarah",
-      "id": "019c4f28-3683-4030-f000-00006929ed22",
+      "id": "019c49df-e7c4-411b-f000-0000b730f353",
+      "companyName": "Custom Gold Grillz",
+      "companyWebsite": "https://customgoldgrillz.com",
+      "agentName": "Jordan",
+      "messageTone": "Formal",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "Custom Gold Grillz: \nKeep your grillz looking new all year. Clean it, store it, protect it.\n\nSHOP NOW\ncustomgoldgrillz.attn.tv/axZeNe1bOcIL \n\n Text STOP to stop",
+          "message_type": "system",
+          "date_time": "2026-01-15 19:00:25.698"
+        },
+        {
+          "message_media": [],
+          "message_text": "Custom Gold Grillz: \nCustomize your drip. Pick the cut, the metal, the shine.\n\nSTART HERE\ncustomgoldgrillz.attn.tv/aD6GjctoAyk9 \n\n Text STOP to stop",
+          "message_type": "system",
+          "date_time": "2026-01-19 15:30:18.500"
+        },
+        {
+          "message_media": [],
+          "message_text": "Custom Gold Grillz: \nWant something they can't copy? You have to start with opal.\n\nSHOP CUSTOM OPAL\ncustomgoldgrillz.attn.tv/a7mZqGwaJ9mn \n\n Text STOP to stop",
+          "message_type": "system",
+          "date_time": "2026-01-27 15:30:12.478"
+        },
+        {
+          "message_media": [],
+          "message_text": "Custom Gold Grillz: \nSkip basic gifts. Moissanite grillz hit harder than diamonds.\n\nSHOP MOISSANITE\ncustomgoldgrillz.attn.tv/aCkXj47b43Fz \n\n Text STOP to stop",
+          "message_type": "system",
+          "date_time": "2026-02-07 19:02:09.182"
+        },
+        {
+          "message_media": [],
+          "message_text": "Custom Gold Grillz: \nOur Vday sale just dropped. Get 15% off sitewide with code VDAY15.\n\nSHOP NOW\ncustomgoldgrillz.attn.tv/aa-kyL_GqCA0 \n\n Text STOP to stop",
+          "message_type": "system",
+          "date_time": "2026-02-10 13:01:50.729"
+        },
+        {
+          "message_media": [],
+          "message_text": "Custom Gold Grillz: Hey Brandon we noticed you checking us out. Have you seen our best sellers yet? https://customgoldgrillz.attn.tv/aKD_qVLH-zxv  Text STOP to stop",
+          "message_type": "system",
+          "date_time": "2026-02-10 17:27:46.327"
+        },
+        {
+          "message_media": [],
+          "message_text": "No, I've been waiting for my grills to come in the mail. It's been two months so can I get an update?",
+          "message_type": "customer",
+          "date_time": "2026-02-10 18:23:15.350"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"Customer support\"; last updated: 2024-03-11 16:27:15.398",
+          "message_type": "template",
+          "date_time": "2026-02-10 18:25:36.606"
+        },
+        {
+          "message_media": [],
+          "message_text": "Custom Gold Grillz: Thanks for getting in touch! I sincerely apologize for the inconvenience. This definitely isn't the experience we wanted for you! Are you referring to Order #131990? If so, I can see that it has been delivered on Dec 23, 2025. If you haven't received it, the best way to handle this is to email us directly at support@customgoldgrillz.com or give us a call at (415) 413-4915, Monday - Friday 9 am - 5 pm PST. Our team is happy to help!",
+          "message_type": "agent",
+          "agent": "109840",
+          "message_id": "019c49df-e7c4-411b-f000-0000b730f353",
+          "date_time": "2026-02-10 18:25:36.608"
+        }
+      ],
+      "notes": {
+        "send_to_cs": [
+          "Send to CS immediately if cx did not receive their order",
+          "Send to CS immediately for post purchase inquiries about the status of the mold, or issues with the molds",
+          "Send to CS for pricing inquiries",
+          "Send to CS if cx is looking for a more specific piece not available on the website",
+          "Send to CS if cx is asking for a code and we don't have one"
+        ],
+        "escalate": [
+          "No escalations for this client, send everything to CS"
+        ],
+        "tone": [
+          "Use Teeth instead of Pieces (e.g 8 teeth at the top)"
+        ],
+        "templates": [
+          "If the image is not coming through a second time, send Broken Image temp",
+          "For CUSTOM GRILLZ & ACCESSORIES INQUIRIES for models not available on the website use PS shortcut",
+          "For urgent concerns/delayed escalation response use PS shortcut",
+          "For delayed orders and the customer is frustrated use PS shortcut",
+          "For customer service use shortcut CS which has both the direct email/number"
+        ],
+        "dos_and_don_ts": [
+          "Do not use the order history as a reference to order status",
+          "If customers want to cancel their order always ask for the reason for cancellation"
+        ],
+        "drive_to_purchase": [
+          "Don't recommend pre-made grillz! Upsell to fitted and custom grillz",
+          "When recommending an item, let the cx know they can customize their order on the product page",
+          "When recommending an item, ask the cx if they are working with a budget",
+          "Use LFG shortcut to gather information and provide recommendations when cx ask about:",
+          "➜ Grillz/Chain recommendation",
+          "➜ Grillz/Chain in general",
+          "➜ Grillz/Chains pricing"
+        ]
+      },
       "rightPanel": {
         "source": {
           "label": "Website",
-          "value": "https://montblanc.com",
+          "value": "https://customgoldgrillz.com",
           "date": ""
-        }
-      },
-      "companyWebsite": "https://montblanc.com",
-      "companyName": "Montblanc",
-      "notes": {
-        "send_to_cs": [
-          "If escalated do NOT send to CS"
+        },
+        "browsingHistory": [
+          {
+            "item": "Pisces Opal Zodiac Sign Double Cap Grillz - Sterling Silver / Silver (No Plating) / R2+R3",
+            "link": "https://www.customgoldgrillz.com/products/pisces-opal-zodiac-sign-double-cap-grillz?variant=55284936016241",
+            "timeAgo": "2025-12-19"
+          },
+          {
+            "item": "Pisces Opal Zodiac Sign Double Cap Grillz - Sterling Silver / Silver (No Plating) / R1+R2",
+            "link": "https://www.customgoldgrillz.com/products/pisces-opal-zodiac-sign-double-cap-grillz?variant=55284935983473",
+            "timeAgo": "2025-12-19"
+          },
+          {
+            "item": "Single Stone Gap Filler Grillz - Sterling Silver / R1",
+            "link": "https://www.customgoldgrillz.com/products/iced-two-teeth-gap-filler-grillz?utm_content=DPA_Catalog_Aug2025",
+            "timeAgo": "2025-11-23"
+          },
+          {
+            "item": "Single Stone Gap Filler Grillz - Sterling Silver / R2",
+            "link": "https://www.customgoldgrillz.com/products/iced-two-teeth-gap-filler-grillz?variant=52126399529329",
+            "timeAgo": "2025-11-07"
+          },
+          {
+            "item": "Single Stone Gap Filler Grillz - Sterling Silver / R1",
+            "link": "https://www.customgoldgrillz.com/products/iced-two-teeth-gap-filler-grillz?variant=52126399496561",
+            "timeAgo": "2025-11-07"
+          }
         ],
-        "escalate": [
-          "ESC if a cx wants to purchase an out of stock item",
-          "ESC if cx want someone from the cs team to call them directly",
-          "ESC when a cx asks for a call back",
-          "ESC if uncertain about refills or product specific questions",
-          "ESC if cx has issues registering",
-          "ESC if cx asks for help putting through an order"
-        ],
-        "tone": [
-          "Close the convo once the client takes over",
-          "Don\u0027t use too many exclamation points",
-          "Use more formal language such as \"Hello\" instead of \"Hey\"",
-          "Avoid using smiley faces/emojis",
-          "Avoid responding to anything related to politics"
-        ],
-        "dos_and_donts": [
-          "Always use your VPN when accessing their website \u0026 make sure you\u0027re sending US links",
-          "Don\u0027t ever release information on personnel related to the company",
-          "Don\u0027t share any authorized retailers, only boutiques",
-          "Don\u0027t ask cx to leave product reviews as they don\u0027t collect them",
-          "Don\u0027t offer holiday discounts/promos",
-          "Don\u0027t mention discounted items"
-        ],
-        "drive_to_purchase": [
-          "When D2P\u0027ing, do not send links of the search results page, send either a related collection or product page",
-          "Do not recommend gift sets"
+        "orders": [
+          {
+            "orderNumber": "131990",
+            "orderDate": "2025-12-19",
+            "items": [
+              {
+                "name": "Pisces Opal Zodiac Sign Double Cap Grillz",
+                "price": 220,
+                "productLink": "https://custom-gold-grillz.myshopify.com/products/pisces-opal-zodiac-sign-double-cap-grillz"
+              }
+            ],
+            "link": "https://www.customgoldgrillz.com/19575415/orders/678836c16b505e37d253761163398ca5/authenticate?key=c0e20b13b3ef9b55a86c9d22a9831de9",
+            "trackingLink": "https://tools.usps.com/go/TrackConfirmAction?qtc_tLabels1=9405550106151000976943",
+            "order_tracking_link": "https://tools.usps.com/go/TrackConfirmAction?qtc_tLabels1=9405550106151000976943",
+            "total": 262.04,
+            "date_time": "2025-12-19 07:30:10.530"
+          }
         ]
       },
-      "blocklisted_words": [
-        "deals",
-        "sales",
-        "promos",
-        "promo",
-        "promotion",
-        "promotions",
-        "sale",
-        "shoot",
-        "coupon",
-        "Hey"
-      ],
-      "escalation_preferences": [
-        "Discount code errors",
-        "Exchanges and returns",
-        "Shipping questions",
-        "Store location",
-        "store inventory",
-        "help placing an order",
-        "shipping times",
-        "cancel order"
-      ],
-      "messageTone": "Polished",
-      "conversation": [
-        {
-          "message_type": "system",
-          "message_text": "Montblanc: Discover the Meisterstück Romeo \u0026 Juliet Precious Resin and Doué Editions, a poetic tribute to one of the greatest love stories ever told. A new chapter for an icon. Explore here: montblanc.attn.tv/aVi6q3GGfESg ",
-          "date_time": "2026-01-15 14:01:05.615",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Montblanc: Hi Scott, this is Sarah. Thanks for visiting Montblanc.com. Are you looking for anything in particular today? https://montblanc.attn.tv/aKCLGSXzVj5b ",
-          "date_time": "2026-01-15 17:40:31.472",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Montblanc: Discover the latest leather creations from our Spring/Summer 2026 Collection. Explore now: montblanc.attn.tv/a1Bj0OWXx3wQ",
-          "date_time": "2026-01-30 17:00:47.560",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Montblanc: We would love to have you back into our world! How about browsing through our latest creations? Explore: montblanc.attn.tv/aDy4416_gDwv .",
-          "date_time": "2026-02-02 17:20:51.887",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Montblanc: This Valentine\u0027s Day, write from the heart to accompany a gift for someone you love. Explore now: montblanc.attn.tv/aXLljlkE9oe0 ",
-          "date_time": "2026-02-11 14:01:06.418",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "system",
-          "message_text": "Montblanc: Hi Scott, this is Sarah. Thanks for visiting Montblanc.com. Are you looking for anything in particular today? https://montblanc.attn.tv/ax39dXpyzu_6 ",
-          "date_time": "2026-02-11 18:29:36.535",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "customer",
-          "message_text": "Hi Sarah, I was looking for the rollerball pen in regular size, with dark green and yellow gold - I saw it previously",
-          "date_time": "2026-02-11 18:58:23.446",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "template",
-          "message_text": "Template used: \"Restock (website \u0026 social)\"; last updated: 2025-10-09 21:41:33.472",
-          "date_time": "2026-02-11 19:02:41.438",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_type": "template",
-          "message_text": "Template used: \"Restock (notifications)\"; last updated: 2025-10-09 21:41:40.249",
-          "date_time": "2026-02-11 19:02:41.438",
-          "message_media": [
-            
-          ]
-        },
-        {
-          "message_id": "019c4f28-3683-4030-f000-00006929ed22",
-          "message_text": "Montblanc: Hi, thanks for reaching out. Are you referring to this one? - https://montblanc.attn.tv/apFwu1S_Yxci - If so, it\u0027s currently sold out. I\u0027m sorry, I currently don\u0027t have the exact date of a possible restock, but I recommend signing up on the product page so you\u0027re notified the second it comes back in. In the meantime, let me know if you want to purchase this one. I might be able to help you out!",
-          "message_type": "agent",
-          "agent": "109630",
-          "message_media": [
-            
-          ],
-          "date_time": "2026-02-11 19:02:41.448"
-        }
-      ]
+      "escalation_preferences": [],
+      "blocklisted_words": [],
+      "has_shopify": true
     }
   }
 }
