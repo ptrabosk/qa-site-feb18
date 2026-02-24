@@ -1,0 +1,182 @@
+{
+  "companyKey": "james perse",
+  "templates": [
+    {
+      "name": "Can I return a store purchase to your online store?",
+      "content": "At this time, we can not accept store purchases returned to our online store.",
+      "id": "65610fe4-8498-45bb-822f-4ba110b064cc",
+      "companyName": "James Perse"
+    },
+    {
+      "name": "Phone support",
+      "content": "You can give us a call at 866-466-0668 or let us know if we can help via text, it may be faster.",
+      "id": "513877dd-1254-4f94-9903-42963cb504da",
+      "shortcut": "ps",
+      "companyName": "James Perse"
+    },
+    {
+      "name": "Social media",
+      "content": "Give us a follow on IG: https://www.instagram.com/jamesperse and FB here: https://www.facebook.com/jamespersela/",
+      "id": "6b89dffa-21be-45d6-9193-8f32b20c8ccb",
+      "shortcut": "smd",
+      "companyName": "James Perse"
+    },
+    {
+      "name": "Military / first responder discount",
+      "content": "Thank you for your service! We don't have any specific discounts like that, but if it helps, you can check out the items we have on sale here: https://jamesperse.com/collections/sale",
+      "id": "003a9b65-ac87-4560-9f52-f176f3f2cb43",
+      "shortcut": "ms",
+      "companyName": "James Perse"
+    },
+    {
+      "name": "Cancel / edit order",
+      "content": "We can check if that's possible. What's the order number, email address, and the change you'd like to make?",
+      "id": "52539d49-4431-40df-8bb9-65d4375340b9",
+      "shortcut": "ced",
+      "companyName": "James Perse"
+    },
+    {
+      "name": "Wholesale inquiries",
+      "content": "The best way to discuss wholesale is to email us directly at productinfo@jamesperse.com. Our team is happy to chat.",
+      "id": "0c664aa5-9405-4c18-bec3-55c53245156b",
+      "shortcut": "wls",
+      "companyName": "James Perse"
+    },
+    {
+      "name": "Brand ambassador / sponsorship",
+      "content": "The best way to discuss this is to email us directly at assistance@jamesperse.com. Our team is happy to chat.",
+      "id": "5a77d677-7663-49f3-a569-daa4258380f2",
+      "shortcut": "ams",
+      "companyName": "James Perse"
+    },
+    {
+      "name": "Customer support",
+      "content": "The best way to handle this is to email us directly at assistance@jamesperse.com or give us a call at 866-466-0668. Our team is happy to help!",
+      "id": "4dfdc413-44ee-4c47-9244-b383e9d5d967",
+      "shortcut": "cs",
+      "companyName": "James Perse"
+    },
+    {
+      "name": "Can I call to place my order?",
+      "content": "We can take orders over the phone for merchandise available for purchase on jamesperse.com. Simply give us a call at 866-466-0668 and our team will take care of you!",
+      "id": "d111019a-e641-42c7-84e6-7dab58cefd62",
+      "companyName": "James Perse"
+    },
+    {
+      "name": "For questions about TRAVEL",
+      "content": "Explore Greycape, a private luxury estate in Los Cabos, Mexico. https://jamesperse.com/pages/greycape. For information and booking, please email us at privateestates@jamesperse.com or call us at (323) 315-4595.",
+      "id": "38257bbb-e1ca-4829-8c07-e584e6f7f1d4",
+      "shortcut": "qat",
+      "companyName": "James Perse"
+    },
+    {
+      "name": "Return policy",
+      "content": "You can check out our detailed return policy here: https://www.jamesperse.com/pages/return-policy",
+      "id": "f19d6fab-9e66-4fda-943f-e9c6b5a4f8ee",
+      "shortcut": "rp",
+      "companyName": "James Perse"
+    },
+    {
+      "name": "Sizing",
+      "content": "What size do you usually wear? For reference, all of our models wear size 2 in our garments. To get the most accurate size, please consult our size chart here: https://www.jamesperse.com/pages/size-charts",
+      "id": "3e3ff0fd-0f6d-4af9-abfb-048bdc2caa08",
+      "shortcut": "sz",
+      "companyName": "James Perse"
+    },
+    {
+      "name": "For questions about FURNITURE",
+      "content": "Pricing varies depending on size. For more information, please contact furniture@jamesperse.com or call our sales specialist directly at (212) 255-5801.",
+      "id": "b64652a2-cdf0-42bc-9c54-9950eb8e5596",
+      "shortcut": "qaf",
+      "companyName": "James Perse"
+    },
+    {
+      "name": "What is luxe lotus jersey?",
+      "content": "Our Luxe Lotus Jersey clothing is made from Elevated Lotus Jersey (ELJ) fabric which is a luxe fabric sourced from Japan. Its luxurious nature is characterized by the way the Suvin cotton is spun. As the cotton yarn is spun, the excess fibers are sheared off creating a clean and smooth texture that mimics an ultra-soft, matte satin-like handfeel. This allows the face of the fabric to have a slightly polished look, ideal for transitioning the clothing piece from day to night.",
+      "id": "ac4212e6-eaf4-47f4-8037-9439461b32f6",
+      "companyName": "James Perse"
+    },
+    {
+      "name": "Do you sell apparel in your West Hollywood location?",
+      "content": "We have a boutique that sells clothes in West Hollywood at 8914 Melrose Ave, West Hollywood, CA 90069. We sell our furniture in the Pacific Design Center in West Hollywood - the location is 'strictly furniture'.",
+      "id": "d79646e4-13f0-41a0-a61a-1e696bb6d19f",
+      "companyName": "James Perse"
+    },
+    {
+      "name": "Shipping time",
+      "content": "We usually ship via USPS and FedEx, and once shipped it will take 2-8 business days for domestic orders.",
+      "id": "a26b20b5-8e62-4996-b5fa-b08ffb33f582",
+      "shortcut": "shp",
+      "companyName": "James Perse"
+    },
+    {
+      "name": "Store Locator (last part is optional - depends on the cm's question)",
+      "content": "We no longer have outlet boutiques, but we do have James Perse boutiques and some other stores that carry our apparel like Bloomingdales. You can see these using the Store Locator: https://www.jamesperse.com/pages/store-locator",
+      "id": "fe1a8b14-5b95-4a8f-bf27-2d53d9e76b9f",
+      "shortcut": "sl",
+      "companyName": "James Perse"
+    },
+    {
+      "name": "Can I use Store credit at any of your locations?",
+      "content": "The store credit we provide you with can be used at any of our domestic James Perse boutiques.",
+      "id": "01915a92-8630-44ec-aaa6-171819df59a5",
+      "companyName": "James Perse"
+    },
+    {
+      "name": "Free shipping",
+      "content": "We offer free shipping on domestic orders over $1000. Maybe you can add something else to reach the minimum?",
+      "id": "9531e473-fa51-4407-943e-c2508a23cf01",
+      "shortcut": "fs",
+      "companyName": "James Perse"
+    },
+    {
+      "name": "Can I get my purchase gift-wrapped?",
+      "content": "Yes, you can select gift wrapping in the cart before checking out ($10 per order). All items will be wrapped in one box. If you would like the items in your order to be wrapped individually, please contact customer service at assistance@jamesperse.com before placing your order.",
+      "id": "408621df-3dc1-4ce1-8e85-5a6b3701391c",
+      "companyName": "James Perse"
+    },
+    {
+      "name": "Do you ship to PO Boxes or APO/FPO addresses?",
+      "content": "At this time we do not offer delivery to PO boxes or APO/FPO addresses.",
+      "id": "a3f8963d-ed7b-4b59-90ff-6994e226d0a3",
+      "companyName": "James Perse"
+    },
+    {
+      "name": "How do I start a return?",
+      "content": "You can start your return here: https://returns.jamesperse.com/",
+      "id": "5cdee540-10f2-4c27-8f7f-e3fde25bd536",
+      "companyName": "James Perse"
+    },
+    {
+      "name": "Size Chart: All - Clothes",
+      "content": "You can take a look at our size chart here: https://www.jamesperse.com/pages/size-charts",
+      "id": "48123c0a-e495-463f-b0ee-7a93c7ce2fd5",
+      "companyName": "James Perse"
+    },
+    {
+      "name": "TONE notes typo",
+      "content": "Thanks for reaching out! I'll check the code with the team and I'll get back to you as soon as I hear back. Let me know if you have any questions in the meantime, and I'll be here to help!",
+      "id": "6d39e120-12c4-4ea6-8cbd-54af2ad93130",
+      "companyName": "James Perse"
+    },
+    {
+      "name": "Do you offer price adjustements?",
+      "content": "We're happy to offer price adjustments on items that go on sale within 30 days of purchase. Please email us at assistance@jamesperse.com so we can handle this request promptly.",
+      "id": "79a10a25-f8fd-4880-99ea-b2ab10fb6f0f",
+      "companyName": "James Perse"
+    },
+    {
+      "name": "Products too expensive / price complaints",
+      "content": "Thank you for sharing your feedback with us. Rest assured, I'll pass this on to the team for future reference. If you're interested in upcoming sales, we recommend subscribing to our emails.",
+      "id": "7c41d572-8733-4575-afac-38af605af538",
+      "shortcut": "pte",
+      "companyName": "James Perse"
+    },
+    {
+      "name": "Why is my gift card isn't working?",
+      "content": "I'm sorry for the inconvenience. As our online shop operates independently from the physical locations, physical gift cards are unable to be used on online orders. Please let me know if I can help you with anything else!",
+      "id": "3d0e0dd5-5439-4a1a-a128-f4c177e98b09",
+      "companyName": "James Perse"
+    }
+  ]
+}

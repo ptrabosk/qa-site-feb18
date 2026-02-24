@@ -3,258 +3,629 @@
   "chunk": "chunk_0035",
   "scenarios": {
     "171": {
-      "id": "019c541e-0e93-481c-f000-0000fae75be2",
-      "companyName": "Backcountry",
-      "companyWebsite": "https://backcountry.com",
+      "id": "019c5d77-dfff-44c9-f000-00003688e7b8",
+      "companyName": "Tail Activewear",
+      "companyWebsite": "https://tailactivewear.com",
       "agentName": "Sarah",
       "messageTone": "Polished",
       "conversation": [
         {
           "message_media": [],
-          "message_text": "Backcountry: Welcome to Backcountry! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel. Privacy: attnl.tv/p/iVG",
+          "message_text": "Tail Activewear: Enjoy an EXTRA 40% off when you buy 2+ sale styles. Elevated quality, exceptional value. No code needed. tailactivewear.attn.tv/aYoiNFduTuAi ",
           "message_type": "system",
-          "date_time": "2026-02-12 17:32:24.033"
+          "date_time": "2026-01-16 15:00:44.808"
         },
         {
           "message_media": [],
-          "message_text": "Backcountry: Welcome to the Herd! Our Winter Semi-Annual Sale just dropped. Get up to 50% off this years' best: http://bctxt.co/aD4WqPsLTrCI ",
+          "message_text": "Tail Activewear: More to love, more to save! Enjoy an EXTRA 40% off when you buy 2+ sale styles. No coded needed. tailactivewear.attn.tv/arWZz3D3_fwY ",
           "message_type": "system",
-          "date_time": "2026-02-12 17:32:25.409"
+          "date_time": "2026-01-19 15:01:06.461"
         },
         {
           "message_media": [],
-          "message_text": "Looking for rain gear",
+          "message_text": "Tail Activewear: Stack your savings! Save an EXTRA 40% when you buy 2 or more sale styles. No code needed, shop now! tailactivewear.attn.tv/aQJh_Zf7XDDx ",
+          "message_type": "system",
+          "date_time": "2026-01-23 15:01:00.566"
+        },
+        {
+          "message_media": [],
+          "message_text": "Tail Activewear: Don't miss out! The style you were looking at is almost gone. Grab it before it's too late! https://tailactivewear.attn.tv/a8kV-YWEdDk8",
+          "message_type": "system",
+          "date_time": "2026-01-24 12:20:58.938"
+        },
+        {
+          "message_media": [],
+          "message_text": "Tail Activewear: There are only a few of our Eleanor Noir Black Jogger - S left! Click here to shop before it's gone! https://tailactivewear.attn.tv/auFvJlmrjJzv .",
+          "message_type": "system",
+          "date_time": "2026-01-25 12:51:01.120"
+        },
+        {
+          "message_media": [],
+          "message_text": "Tail Activewear: Last day to stack your savings! Enjoy an EXTRA 40% off when you buy 2 or more sale styles, no code needed.\ntailactivewear.attn.tv/aSmrnf9Pgf7- ",
+          "message_type": "system",
+          "date_time": "2026-01-31 15:01:09.929"
+        },
+        {
+          "message_media": [],
+          "message_text": "Tail Activewear: 20% off full price styles for American Heart Month. Style you'll love, made to last. No code needed. tailactivewear.attn.tv/ao5lMAwbM9DI ",
+          "message_type": "system",
+          "date_time": "2026-02-03 15:00:38.342"
+        },
+        {
+          "message_media": [],
+          "message_text": "Tail Activewear: Fall in love with your wardrobe! 20% off full-price styles for American Heart Month. No code needed. tailactivewear.attn.tv/a6JUeb0jwVM_ ",
+          "message_type": "system",
+          "date_time": "2026-02-06 15:00:50.738"
+        },
+        {
+          "message_media": [],
+          "message_text": "Tail Activewear: Last chance: 20% off full-price styles you'll love for years. No code needed, shop now! tailactivewear.attn.tv/a8IigoJtIER- \n ",
+          "message_type": "system",
+          "date_time": "2026-02-08 15:01:06.974"
+        },
+        {
+          "message_media": [],
+          "message_text": "Tail Activewear: We miss you! Have you seen our new arrivals? Shop today and save 20% off with code HELLO20. Shop now: https://tailactivewear.attn.tv/amGX87OEltS_",
+          "message_type": "system",
+          "date_time": "2026-02-14 12:38:53.577"
+        },
+        {
+          "message_media": [],
+          "message_text": "I'm trying to make a purchase and my cart initially shows the discount but when I go to check out it takes the discount away. Can you please help?",
           "message_type": "customer",
-          "date_time": "2026-02-12 17:33:02.515"
+          "date_time": "2026-02-14 13:15:07.247"
         },
         {
           "message_media": [],
-          "message_text": "Backcountry: Oh, also, a lot of people like getting personal recs from us. Over the next few days we'll try to help you find something that you will love.\n\nSome of our favorite gear just went on sale! Get the best deals on our top brands before they're gone: http://bctxt.co/aazRezk_-TKR .",
-          "message_type": "system",
-          "date_time": "2026-02-12 17:33:33.425"
-        },
-        {
-          "message_media": [],
-          "message_text": "Backcountry: Happy to help! May I know what size you're looking for? You can explore our options here: http://bctxt.co/arDcVLfH9CMn to find the perfect fit!",
+          "message_text": "Tail Activewear: Thank you for reaching out. I'm sorry to hear that your code is not working. Can you please send me a screenshot of the items in your cart? This will help me troubleshoot the possible problem of why the code didn't work.\n\nAlso, please note that discount codes do not work on items that are on sale. I hope this helps.",
           "message_type": "agent",
-          "agent": "87589",
-          "message_id": "019c540a-0b1f-4eb1-f000-0000fae75be2",
-          "date_time": "2026-02-12 17:47:50.326"
+          "agent": "48804",
+          "message_id": "019c5d5f-d15e-409c-f000-00003688e7b8",
+          "date_time": "2026-02-14 13:18:06.587"
         },
         {
           "message_media": [],
-          "message_text": "XL",
-          "message_type": "customer",
-          "date_time": "2026-02-12 17:48:22.363"
-        },
-        {
-          "message_media": [],
-          "message_text": "Backcountry: Rain Defender Rockland Full-Zip Hooded Sweatshirt feels ready for wet days and quick hikes.\n\nUse code BCNTFSMS25Q4N1PWBE1 for 15% off on full-priced items; exclusions apply: http://bctxt.co/asCmsrxYlWRo .",
-          "message_type": "system",
-          "date_time": "2026-02-12 18:01:36.857"
-        },
-        {
-          "message_media": [],
-          "message_text": "Backcountry: Great, thanks for letting me know! What do you think about these?\n\nhttp://bctxt.co/ai_g_Y7ydLAx\nhttp://bctxt.co/a6sD5-exqj-r\nhttp://bctxt.co/a8AY8E2nISsn\n\nLet me know how that goes. ",
+          "message_text": "Tail Activewear: Thank you so much for the screenshot and I'm so sorry for the delay in responding back.\nI have tried on my end, and it worked! Can you please try accessing it through this checkout link - https://tailactivewear.attn.tv/ap3rHuiPSwvY\nLet me know how it goes!",
           "message_type": "agent",
-          "agent": "109617",
-          "message_id": "019c541e-0e93-481c-f000-0000fae75be2",
-          "date_time": "2026-02-12 18:09:41.935"
+          "agent": "109964",
+          "message_id": "019c5d77-dfff-44c9-f000-00003688e7b8",
+          "date_time": "2026-02-14 13:44:23.193"
         }
       ],
       "notes": {
-        "escalate": [
-          "No escalations for this client, send everything to CS"
-        ],
-        "tone": [
-          "Close the convo once the client takes over"
-        ],
-        "promo_and_promo_exclusions": [
-          "Welcome offer page:   https://www.backcountry.com/sc/new-customer-coupon-rules"
-        ]
-      },
-      "rightPanel": {
-        "source": {
-          "label": "Website",
-          "value": "https://backcountry.com",
-          "date": ""
-        }
-      },
-      "escalation_preferences": [],
-      "blocklisted_words": [],
-      "has_shopify": false
-    },
-    "172": {
-      "id": "019c7d41-5b16-45eb-f000-0000fb852ecd",
-      "companyName": "Happiest Baby",
-      "companyWebsite": "https://happiestbaby.com",
-      "agentName": "Mia",
-      "messageTone": "Polished",
-      "conversation": [
-        {
-          "message_media": [],
-          "message_text": "Happiest Baby: Welcome to Happiest Baby! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
-          "message_type": "system",
-          "date_time": "2026-02-14 16:49:12.582"
-        },
-        {
-          "message_media": [],
-          "message_text": "Happiest Baby: Welcome HB Fam! Our Valentine's Day Sale is going on now. Shop up to 40% off everything*: https://happiestbaby.attn.tv/awfyiBb1KS9j \n*While supplies last. Exclusions apply. See site for details.",
-          "message_type": "system",
-          "date_time": "2026-02-14 16:49:16.491"
-        },
-        {
-          "message_media": [],
-          "message_text": "Happiest Baby: Don't forget to save our contact to get exclusive updates!",
-          "message_type": "system",
-          "date_time": "2026-02-14 16:49:26.906"
-        },
-        {
-          "message_media": [],
-          "message_text": "Happiest Baby: Hey there! I'm Mia and I'm here to be a personal shopping assistant for you!\n\nDo you have any questions or need a recommendation? Let me know how I can help. \n\nhappiestbaby.attn.tv/aZN_L0D0GoAY ",
-          "message_type": "system",
-          "date_time": "2026-02-15 18:18:52.026"
-        },
-        {
-          "message_media": [],
-          "message_text": "Happiest Baby: Valentine's Day may be over, but our sale is still on! Last chance to get 25% off Certified Pre-Loved SNOO...the only used SNOO you can trust! Everything is up to 40% off so shop now before the clock strikes midnight: happiestbaby.attn.tv/aDxSNWpn2cGi \n\nWhile supplies last. Exclusions apply. See site for details.",
-          "message_type": "system",
-          "date_time": "2026-02-17 18:15:44.193"
-        },
-        {
-          "message_media": [],
-          "message_text": "Happiest Baby: Hey Cathy, it's Mia! Any questions I can help with? Don't sleep on Carbon Neutral Order - Offsets 123.44 lbs of carbon...get it before it's gone! happiestbaby.attn.tv/abgnQEYP4MPi",
-          "message_type": "system",
-          "date_time": "2026-02-20 16:58:31.159"
-        },
-        {
-          "message_media": [],
-          "message_text": "Hi- I tired buying a Snoo- preconditioned and a message kept coming up- saying it didn't deliver to my address- \nMy address is \n4 east 89th dt",
-          "message_type": "customer",
-          "date_time": "2026-02-20 17:43:55.927"
-        },
-        {
-          "message_media": [],
-          "message_text": "4 east 89th st\nApt 9e\nNyc, 10128",
-          "message_type": "customer",
-          "date_time": "2026-02-20 17:44:15.423"
-        },
-        {
-          "message_media": [],
-          "message_text": "Please let me know what's going on",
-          "message_type": "customer",
-          "date_time": "2026-02-20 17:44:35.480"
-        },
-        {
-          "message_media": [],
-          "message_text": "Happiest Baby: Thanks for reaching out, and I'm sorry to hear that! Could you please let me know your email address and order number? I would like to check on this with my team for you.",
-          "message_type": "agent",
-          "agent": "109617",
-          "message_id": "019c7d41-5b16-45eb-f000-0000fb852ecd",
-          "date_time": "2026-02-20 17:52:41.137"
-        }
-      ],
-      "notes": {
-        "important": [
-          "Ask the cx to share their order number and email before providing personal or order-specific information such as:",
-          "➜ Items they ordered",
-          "➜ Any order details",
-          "➜ Order confirmation page links",
-          "➜ Tracking information",
-          "➜ Order number"
-        ],
         "send_to_cs": [
-          "Send to CS for all shipping issues"
-        ],
-        "escalate": [
-          "If cx's mention pregnancy or infant loss, a grieving mother, or the incident with Brooklyn and Baby Rocky, DO NOT RESPOND. You can ESC these cases when needed without responding to the cx",
-          "Do NOT answer Premium App inquiries, ESC immediately",
-          "ESC rental portal issues",
-          "ESC when cx is looking for a supervisor",
-          "ESC when cx come back after emailing the CS team & haven't received a response",
-          "ESC any questions about the SNOO Sack inner bands (across the belly and the leg flap)",
-          "ESC in case the cx is asking if a product was discontinued"
-        ],
-        "tone": [
-          "Always type SNOO in all caps",
-          "Keep messages concise and not too long",
-          "Don't say the SNOO is an \"Investment\", say \"Premium product\""
-        ],
-        "templates": [
-          "For questions about future promos, sales or deals, use FUS shortcut",
-          "If there is no promo available for accessories use NPA shortcut",
-          "If cx can't connect SNOO to the app use CCA shortcut",
-          "If a product is on sale include that info when you use PTE shortcut",
-          "If cx says they're planning to purchase SNOO, use PGS shortcut",
-          "If cx are asking for items that we don't sell, use IDS shortcut",
-          "If cx are asking about refund for 6 month special, use PRR shortcut",
-          "If cx ask what is our return policy:",
-          "➜ Ask them which item they're referring to first",
-          "➜ Then send the correct information"
+          "Send to CS for shipping inquiries/orders delevered but not received"
         ],
         "dos_and_don_ts": [
-          "Never refer them to check the website for more info on promotions or sales",
-          "Always provide the actual date and time the sale ends. If there's none available use the LMO shortcut",
-          "Don't send links for The Lola Crib, it's not available anymore",
-          "Share expedited shipping information where applicable",
-          "We don't have a buyback program available. There is no need to mention the donation email as this program is now closed.",
-          "Tell cx that as a member of the HB text fam community, they will receive alerts about future promotions first"
-        ],
-        "drive_to_purchase": [
-          "Don't recommend SNOO accessories unless SNOO was already purchased.",
-          "Always share the full price and highlight if there is a running promotion. For ex: \"SNOO at full price is $1695 but this weekend we are running a promotion of 20% of SNOO + FREE gifts, which makes SNOO $1356!\""
+          "Gift cards count as a payment method and will not drop an order total below the shipping threshold!"
         ],
         "promo_and_promo_exclusions": [
-          "The client does NOT offer special discount codes for foster parents/parents of foster children, share standard discounts with cx who inquire about this if they are eligible",
-          "The military discount CAN NOT be applied to rentals, only to new SNOO purchases",
-          "When sharing codes with cx/troubleshooting errors - explain the promo code terms",
-          "Don't tell customers that the code can't be applied to an item - instead inform them that it CAN only be applied to certain products",
-          "We do not offer a discount specifically for multiple SNOOs"
+          "🅿 Check the brand website for the most up to date holiday promotions"
         ]
       },
       "rightPanel": {
         "source": {
           "label": "Website",
-          "value": "https://happiestbaby.com",
+          "value": "https://tailactivewear.com",
           "date": ""
         },
         "browsingHistory": [
           {
-            "item": "SNOO Smart Sleeper Bassinet",
-            "link": "https://www.happiestbaby.com/products/snoo-smart-bassinet?srsltid=AfmBOord1y4BlfpLqU3eObEWnhfXr2Pf69wTp4OzOe68xmJIhYnOIiN5",
-            "timeAgo": "2026-02-15"
+            "item": "Eleanor Noir Black Jogger - S",
+            "link": "https://www.tailactivewear.com/products/eleanor-noir-black-jogger?variant=40177989976111",
+            "timeAgo": "2026-02-14"
           },
           {
-            "item": "SNOO Smart Sleeper—Certified Pre-Loved",
-            "link": "https://www.happiestbaby.com/products/preloved-snoo",
-            "timeAgo": "2026-02-15"
+            "item": "Eleanor Noir Black Jogger - XS",
+            "link": "https://www.tailactivewear.com/products/eleanor-noir-black-jogger",
+            "timeAgo": "2026-02-14"
           },
           {
-            "item": "SNOO Smart Sleeper Bassinet",
-            "link": "https://www.happiestbaby.com/products/snoo-smart-bassinet?srsltid=AfmBOord1y4BlfpLqU3eObEWnhfXr2Pf69wTp4OzOe68xmJIhYnOIiN5",
-            "timeAgo": "2026-02-15"
+            "item": "Eleanor Chalk White Jogger - S",
+            "link": "https://www.tailactivewear.com/products/eleanor-jogger-chalk-white?variant=40177605705775",
+            "timeAgo": "2026-02-14"
           },
           {
-            "item": "SNOO Smart Sleeper—Certified Pre-Loved",
-            "link": "https://www.happiestbaby.com/products/preloved-snoo?variant=42793910927550&utm_medium=cpc&utm_campaign=Google%20Shopping&stkn=3691fb44bcd5&gadid=&utm_source=google&utm_campaign=&utm_content=&utm_term=&utm_medium=ppc&hsa_acc=8575382045&hsa_cam=20747821087&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=23054868635&gclid=CjwKCAiA-sXMBhAOEiwAGGw6LOAxWrmx4VIN4Bz-XaXykTj9ye2ItvtC2f0IegPyCJoK5Ec-NgyR5xoC1E4QAvD_BwE",
-            "timeAgo": "2026-02-15"
+            "item": "Eleanor Chalk White Jogger - XS",
+            "link": "https://www.tailactivewear.com/products/eleanor-jogger-chalk-white",
+            "timeAgo": "2026-02-14"
           },
           {
-            "item": "SNOO Smart Sleeper Bassinet",
-            "link": "https://www.happiestbaby.com/products/snoo-smart-bassinet?srsltid=AfmBOord1y4BlfpLqU3eObEWnhfXr2Pf69wTp4OzOe68xmJIhYnOIiN5",
-            "timeAgo": "2026-02-15"
+            "item": "Eleanor Cherry Rose Jogger - XS",
+            "link": "https://www.tailactivewear.com/products/eleanor-cherry-rose-jogger",
+            "timeAgo": "2026-02-14"
+          }
+        ]
+      },
+      "escalation_preferences": [],
+      "blocklisted_words": [],
+      "has_shopify": true
+    },
+    "172": {
+      "id": "019c732d-14fd-4949-f000-0000eb100060",
+      "companyName": "Comfrt",
+      "companyWebsite": "https://comfrt.com",
+      "agentName": "Samantha",
+      "messageTone": "Polished",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "Comfrt: Welcome to Comfrt! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
+          "message_type": "system",
+          "date_time": "2026-02-08 18:06:19.597"
+        },
+        {
+          "message_media": [],
+          "message_text": "Comfrt: Welcome to Comfrt! We're so excited to have you. Here's your exclusive 15% off code: W15SmMvH5\n\nClick here to auto-apply your discount and shop our viral best-sellers: comfrt.attn.tv/aXmoOayzuDK2",
+          "message_type": "system",
+          "date_time": "2026-02-08 18:06:22.614"
+        },
+        {
+          "message_media": [],
+          "message_text": "Comfrt: Let's be friends!\n\nSave our contact to make sure we land directly in your messages.",
+          "message_type": "system",
+          "date_time": "2026-02-08 18:06:27.649"
+        },
+        {
+          "message_media": [],
+          "message_text": "Comfrt: Your winter remedy is here.\n\nMeet the Ember Heated Blanket. Perfectly warm, irresistibly soft, and made to feel like a dream you never want to wake up from.\n\nGet cozy: comfrt.attn.tv/aR-GWsSnIj9U",
+          "message_type": "system",
+          "date_time": "2026-02-11 14:15:35.339"
+        },
+        {
+          "message_media": [],
+          "message_text": "Comfrt: Upgrade to first class.\n\nThe VIP Airplane Mode Hoodie with a satin-lined hood and eye mask has officially landed! \n\nAlso, four new limited shades just got added to our original collection.\n\nGet it while you can: comfrt.attn.tv/amq74oNqmKTl \n",
+          "message_type": "system",
+          "date_time": "2026-02-13 15:33:19.149"
+        },
+        {
+          "message_media": [],
+          "message_text": "Comfrt: Forgot Valentine's Day is today? Your secret is safe with us.\n\nSend a Comfrt E-Gift Card and let them pick their new favorite set. Delivered instantly.\n\nNo shipping, no stress: comfrt.attn.tv/a0N32k6lHetI \n",
+          "message_type": "system",
+          "date_time": "2026-02-14 11:17:43.892"
+        },
+        {
+          "message_media": [],
+          "message_text": "Comfrt: Five brand-new shades. One signature feel.\n\nPair the new Airplane Mode collection with the Anywhere Bag for seamless comfort from takeoff to landing.\n\nUpgrade your travel: comfrt.attn.tv/aj_SXOciGCCb \n",
+          "message_type": "system",
+          "date_time": "2026-02-18 18:42:14.386"
+        },
+        {
+          "message_media": [],
+          "message_text": "I am still waiting on my pre-order from November.",
+          "message_type": "customer",
+          "date_time": "2026-02-18 18:49:02.082"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"Tracking Info - All brands\"; last updated: 2023-10-10 16:47:28.277",
+          "message_type": "template",
+          "date_time": "2026-02-18 18:54:20.309"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"Pre-order shipping, when will my pre-order arrive?\"; last updated: 2025-05-07 18:45:20.495",
+          "message_type": "template",
+          "date_time": "2026-02-18 18:54:20.309"
+        },
+        {
+          "message_media": [],
+          "message_text": "Comfrt: Hi, thanks for reaching out. I completely understand how important it is to receive your order. You'll get a tracking email as soon as your order ships. If you don't see it in your inbox, be sure to check your spam and promo folders, sometimes our emails end up there as well. In the meantime, details on your pre-order should be in the order confirmation email sent to you. Please note that this date is an estimate and is not a guaranteed date of delivery or receipt. The estimated delivery date that you receive in your confirmation email is subject to change based on production, supplier availability, or other unforeseen circumstances. Hope this helps.",
+          "message_type": "agent",
+          "agent": "109630",
+          "message_id": "019c732d-14fd-4949-f000-0000eb100060",
+          "date_time": "2026-02-18 18:54:20.312"
+        }
+      ],
+      "notes": {
+        "send_to_cs": [
+          "Send to CS for post-purchase issues"
+        ],
+        "escalate": [
+          "ESC if the discount % is not the same as indicated in the automated message"
+        ],
+        "templates": [
+          "If cx asks if Comfrt was formerly another brand, use CFB shortcut"
+        ]
+      },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://comfrt.com",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "Anywhere Bag",
+            "link": "https://comfrt.com/products/anywhere-bag?variant=45247206424620&utm_source=Klaviyo&utm_medium=email&utm_campaign=Email_US_Anywhere_Bag_2.13.25_Friday%20%2801KH7B4G1C32Q7SS65X3RZ8YSX%29&nb_klid=01KB96H9HQ6CXBDCEQVGN1M6S6&_kx=EUvffCQlUnirV1xpKC0CINBkBBGm2USVMsI8gL8AHOKiSnLuKC5o8ETpQa4hYFKq.RJji5T",
+            "timeAgo": "2026-02-17"
+          },
+          {
+            "item": "CuddleCloud Weighted Blanket",
+            "link": "https://comfrt.com/products/cuddlecloud-weighted-blanket?variant=42211968679980&_pos=4&_sid=70d133406&_ss=r",
+            "timeAgo": "2025-12-30"
+          },
+          {
+            "item": "CuddleCloud Weighted Blanket",
+            "link": "https://comfrt.com/products/cuddlecloud-weighted-blanket?variant=42211968679980&_pos=4&_sid=70d133406&_ss=r",
+            "timeAgo": "2025-12-30"
+          },
+          {
+            "item": "CuddleCloud Weighted Blanket",
+            "link": "https://comfrt.com/products/cuddlecloud-weighted-blanket?variant=42256614162476&_pos=4&_sid=70d133406&_ss=r",
+            "timeAgo": "2025-12-30"
+          },
+          {
+            "item": "CuddleCloud Weighted Blanket",
+            "link": "https://comfrt.com/products/cuddlecloud-weighted-blanket?variant=42256614162476&_pos=4&_sid=70d133406&_ss=r",
+            "timeAgo": "2025-12-30"
+          }
+        ],
+        "orders": [
+          {
+            "orderNumber": "7381484",
+            "orderDate": "2025-11-30",
+            "items": [
+              {
+                "name": "Cloud Zip Hoodie - Pre-Order",
+                "price": 39,
+                "productLink": "https://comfrtclothing.myshopify.com/products/cloud-zip-hoodie-pre-order"
+              }
+            ],
+            "link": "https://comfrt.com/56940298284/orders/79d7967642fa459ab74a8e98f1238998/authenticate?key=9e93c10430a04f2db56d2f5f4f0372d1",
+            "total": 39,
+            "date_time": "2025-11-30 01:41:52.263"
+          },
+          {
+            "orderNumber": "7381484",
+            "orderDate": "2025-11-30",
+            "items": [
+              {
+                "name": "Cloud Zip Hoodie - Pre-Order",
+                "price": 39,
+                "productLink": "https://comfrtclothing.myshopify.com/products/cloud-zip-hoodie-pre-order"
+              }
+            ],
+            "link": "https://comfrt.com/56940298284/orders/79d7967642fa459ab74a8e98f1238998/authenticate?key=9e93c10430a04f2db56d2f5f4f0372d1",
+            "trackingLink": "https://track.flexport.com/e2fc1be913e3099ba",
+            "order_tracking_link": "https://track.flexport.com/e2fc1be913e3099ba",
+            "total": 49.29,
+            "date_time": "2025-11-30 01:38:01.423"
           }
         ]
       },
       "escalation_preferences": [
-        "Order Modification",
-        "Technical Issues with SNOO Functionality",
-        "Sleep/Safety Questions",
-        "TOG Rating",
-        "All medical issues; add KB140922S to ESC notes"
+        "Exchanges and returns",
+        "Sizing questions",
+        "Discount code errors"
       ],
       "blocklisted_words": [],
       "has_shopify": true
+    },
+    "173": {
+      "id": "019c5d96-df41-4c87-f000-0000f5aaf08c",
+      "companyName": "Lamson Products",
+      "companyWebsite": "https://lamsonproducts.com",
+      "agentName": "Taylor",
+      "messageTone": "Formal",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "Lamson Products: Welcome to Lamson Products! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
+          "message_type": "system",
+          "date_time": "2026-01-23 13:57:11.277"
+        },
+        {
+          "message_media": [],
+          "message_text": "Lamson Products: Welcome! Receive 20% off your next order. Use code LAMSON20. *Cannot be combined with any other offers. Shop now: https://lamsonproducts.attn.tv/aBNNNKof6erO ",
+          "message_type": "system",
+          "date_time": "2026-01-23 13:57:15.242"
+        },
+        {
+          "message_media": [],
+          "message_text": "Lamson Products: Don't forget to save our contact to get exclusive updates!",
+          "message_type": "system",
+          "date_time": "2026-01-23 13:58:22.877"
+        },
+        {
+          "message_media": [],
+          "message_text": "Lamson Products: Still deciding? Don't forget about your 20% off your next order. Use code LAMSON20. *Cannot be combined with any other offers. Shop now: https://lamsonproducts.attn.tv/aMOew4zbs5Xe ",
+          "message_type": "system",
+          "date_time": "2026-01-26 13:58:26.847"
+        },
+        {
+          "message_media": [],
+          "message_text": "Lamson Products: Two styles. One timeless tool. Buy a Vintage or Forged Nakiri & receive a free handcrafted leather sheath. lamsonproducts.attn.tv/acb8lLNxEuYP ",
+          "message_type": "system",
+          "date_time": "2026-01-29 16:25:11.203"
+        },
+        {
+          "message_media": [],
+          "message_text": "Lamson Products: Care is what turns a great tool into a legacy. Our simple care essentials help protect your Lamson kitchen tools for generations. Explore them here: lamsonproducts.attn.tv/a5G5fO9p5eIp ",
+          "message_type": "system",
+          "date_time": "2026-02-05 17:00:33.633"
+        },
+        {
+          "message_media": [],
+          "message_text": "Lamson Products: Hey, this is Taylor. Thanks for checking out Lamson Products! lamsonproducts.attn.tv/aur5r0E0anuD \n\nAre there any questions I can answer for you?",
+          "message_type": "system",
+          "date_time": "2026-02-06 16:44:57.584"
+        },
+        {
+          "message_media": [],
+          "message_text": "Lamson Products: Super Bowl Deal: On-the-Go Tail-gater BBQ Sets are 50% OFF today only. Walnut handles. Travel bag included. Get yours: lamsonproducts.attn.tv/aKUXTngjsPQN ",
+          "message_type": "system",
+          "date_time": "2026-02-08 11:30:16.377"
+        },
+        {
+          "message_media": [],
+          "message_text": "Lamson Products: Cut. Store. Repeat. Celebrate National Pizza Day! Pizza Rockers & Leather Sheaths - 50% Off Each Today Only (2/19). lamsonproducts.attn.tv/a3BgjtuZc6Zy ",
+          "message_type": "system",
+          "date_time": "2026-02-09 11:55:13.153"
+        },
+        {
+          "message_media": [],
+          "message_text": "Lamson Products: Hosting begins long before guests arrive. For Valentine's Week, enjoy 20% off thoughtfully crafted hosting essentials-designed for prep, presentation, and effortless entertaining. Shop now: lamsonproducts.attn.tv/aBq5sQgM9vQs ",
+          "message_type": "system",
+          "date_time": "2026-02-12 12:30:32.754"
+        },
+        {
+          "message_media": [],
+          "message_text": "Lamson Products: The perfect gift, right on time. For Valentine's Day, enjoy 20% off digital gift cards-delivered instantly and designed to let them choose pieces they'll reach for again and again. Shop now: lamsonproducts.attn.tv/ajZL-TF_z-ax ",
+          "message_type": "system",
+          "date_time": "2026-02-13 16:25:13.511"
+        },
+        {
+          "message_media": [],
+          "message_text": "Lamson Products: Hey there , this is Taylor. I see you left something in your cart. lamsonproducts.attn.tv/aqCk7I0B-Lm5 \n\nAny questions I can answer for you? ",
+          "message_type": "system",
+          "date_time": "2026-02-14 13:06:16.035"
+        },
+        {
+          "message_media": [],
+          "message_text": "Whats the difference between the brad Leone santoku and the 8\" santoku that doesn't say his name",
+          "message_type": "customer",
+          "date_time": "2026-02-14 13:17:52.827"
+        },
+        {
+          "message_media": [],
+          "message_text": "Lamson Products: Good question! The difference is that the Premier Forged 8′′ Chinese Santoku Cleaver Knife is a single, fully forged knife from our Premier line, while the Brad Leone Signature Set - Large and Small Chinese Santoku Knife Cleavers includes two knives (large and small) designed in collaboration with Brad Leone and offered with either Walnut or Midnight G-10 handles. I hope this helps!",
+          "message_type": "agent",
+          "agent": "35256",
+          "message_id": "019c5d76-fed9-49f7-f000-0000f5aaf08c",
+          "date_time": "2026-02-14 13:43:25.552"
+        },
+        {
+          "message_media": [],
+          "message_text": "There is a third that looks identical to the Brad Leone one but doesn't say his name",
+          "message_type": "customer",
+          "date_time": "2026-02-14 13:44:40.043"
+        },
+        {
+          "message_media": [],
+          "message_text": "Lamson Products: Thanks for sending that in! While it may appear similar, the Brad Leone Signature set is a distinct product. It features unique design elements, materials, and branding that set it apart from the unbranded version. You can also find the Brad Leone Signature collection here: https://lamsonproducts.attn.tv/aqKRQWVusK1s/ ",
+          "message_type": "agent",
+          "agent": "87310",
+          "message_id": "019c5d96-df41-4c87-f000-0000f5aaf08c",
+          "date_time": "2026-02-14 14:18:14.622"
+        }
+      ],
+      "notes": {
+        "send_to_cs": [
+          "Send to CS for loyalty points inquiries, we don't have the answer to",
+          "Send to CS for loyalty points issues",
+          "Send to CS immediately for anything time sensitive:",
+          "→ Order corrections,",
+          "→ Damaged, missing items",
+          "→ Discount code is not working after troubleshooting"
+        ],
+        "tone": [
+          "Don't say \"No problem\", say \"You're welcome\" instead"
+        ]
+      },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://lamsonproducts.com",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "Vintage 2-Piece Knife and Fork Carving Set",
+            "link": "https://lamsonproducts.com/product/vintage-2-piece-carving-set/",
+            "timeAgo": "2026-02-14"
+          },
+          {
+            "item": "Premier Forged 8′′ Chinese Santoku Cleaver Knife",
+            "link": "https://lamsonproducts.com/product/8-premier-forged-chinese-santoku-cleaver/",
+            "timeAgo": "2026-02-14"
+          },
+          {
+            "item": "Vintage 10-Piece Knife Block Set",
+            "link": "https://lamsonproducts.com/product/vintage-10-piece-block-set/?attribute_pa_block-type=acacia&attribute_pa_handle-material=walnut&gad_source=1&gad_campaignid=17336266476&gbraid=0AAAAADL6xIQB58BugirNwVRKeB6rNf6wD&gclid=Cj0KCQiA18DMBhDeARIsABtYwT1JdwH13i0HqjHBXsniRMn2OuOzNpoKTX52hpnygPDW-y1FxPs19oMaAp5kEALw_wcB",
+            "timeAgo": "2026-02-14"
+          },
+          {
+            "item": "TreeSpiritTM 17&quot; x 8&quot; Live Edge Cutting and Serving Boards",
+            "link": "https://lamsonproducts.com/product/treespirit-20-x-9-live-edge-cutting-and-serving-boards/",
+            "timeAgo": "2026-02-14"
+          },
+          {
+            "item": "TreeSpiritTM Reversible Cutting Boards with Juice Groove",
+            "link": "https://lamsonproducts.com/product/treespirit-reversible-cutting-boards-with-juice-groove/",
+            "timeAgo": "2026-02-14"
+          }
+        ]
+      },
+      "escalation_preferences": [
+        "Exchanges and returns"
+      ],
+      "blocklisted_words": [],
+      "has_shopify": false
+    },
+    "174": {
+      "id": "019c53b5-b9d2-4f86-f000-0000fae50ccc",
+      "companyName": "Ekster",
+      "companyWebsite": "https://ekster.com/",
+      "agentName": "Alex",
+      "messageTone": "Polished",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "Ekster: Reply Y to subscribe to recurring automated personalized marketing alerts (e.g. cart reminders) from Ekster.",
+          "message_type": "system",
+          "date_time": "2026-02-12 15:53:12.075"
+        },
+        {
+          "message_media": [],
+          "message_text": "Ekster: Welcome to Ekster! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel. Privacy: ekster.attn.tv/cl/qEH",
+          "message_type": "system",
+          "date_time": "2026-02-12 15:53:29.161"
+        },
+        {
+          "message_media": [],
+          "message_text": "Ekster: Click here for up to 45% off Valentine's Day Sale and get a free gift with orders over $110!\n\nekster.attn.tv/aawSD5Hr4iP7 ",
+          "message_type": "system",
+          "date_time": "2026-02-12 15:53:33.181"
+        },
+        {
+          "message_media": [],
+          "message_text": "Ekster: Hey , this is Alex . Thanks for checking us out! 😊 ekster.attn.tv/aXpt4wZwNJsh \n\nAny questions I can answer for you? \n",
+          "message_type": "system",
+          "date_time": "2026-02-12 15:56:26.925"
+        },
+        {
+          "message_media": [],
+          "message_text": "Is the cardholder pro MagSafe on the 45% sale",
+          "message_type": "customer",
+          "date_time": "2026-02-12 15:57:16.319"
+        },
+        {
+          "message_media": [],
+          "message_text": "Ekster: Yes, the Cardholder Pro for MagSafe is included in the sale. You can check it out here: https://ekster.attn.tv/a_U84pEcpxft",
+          "message_type": "agent",
+          "agent": "62551",
+          "message_id": "019c53a5-4a0a-4d8a-f000-0000fae50ccc",
+          "date_time": "2026-02-12 15:57:47.329"
+        },
+        {
+          "message_media": [],
+          "message_text": "It shows it's still at the normal $129 price point",
+          "message_type": "customer",
+          "date_time": "2026-02-12 16:07:35.250"
+        },
+        {
+          "message_media": [],
+          "message_text": "Ekster: Sorry, the Cardholder Pro for MagSafe is excluded from the offer. I hope this helps! If you have any questions, feel free to text me.",
+          "message_type": "agent",
+          "agent": "87295",
+          "message_id": "019c53b5-b9d2-4f86-f000-0000fae50ccc",
+          "date_time": "2026-02-12 16:15:44.493"
+        }
+      ],
+      "notes": {
+        "send_to_cs": [
+          "Send to CS for post purchase issues"
+        ],
+        "dos_and_don_ts": [
+          "18K Gold Cardholder is no longer to be continued nor restocked"
+        ]
+      },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://ekster.com/",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "Shoe Bag",
+            "link": "https://www.ekster.com/products/shoe-bag",
+            "timeAgo": "2026-02-12"
+          },
+          {
+            "item": "Shoe Bag",
+            "link": "https://www.ekster.com/products/shoe-bag",
+            "timeAgo": "2026-02-12"
+          }
+        ]
+      },
+      "escalation_preferences": [],
+      "blocklisted_words": [],
+      "has_shopify": true
+    },
+    "175": {
+      "id": "019c3e83-a368-4179-f000-0000fa104d95",
+      "companyName": "Lacoste",
+      "companyWebsite": "https://lacoste.com",
+      "agentName": "Sarah",
+      "messageTone": "Polished",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "Lacoste: Welcome to Lacoste! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel. Privacy: attnl.tv/p/VyG",
+          "message_type": "system",
+          "date_time": "2026-02-08 13:00:05.932"
+        },
+        {
+          "message_media": [],
+          "message_text": "Lacoste: Welcome! We'll text you about new arrivals & special offers as they happen. Shop now! https://lacoste.attn.tv/a6JarkNxOFBR .",
+          "message_type": "system",
+          "date_time": "2026-02-08 13:00:08.610"
+        },
+        {
+          "message_media": [],
+          "message_text": "Lacoste: Classic styles, perfect for every season!\n\nDiscover the latest here: https://lacoste.attn.tv/aMCM4lnRq4Wb  .",
+          "message_type": "system",
+          "date_time": "2026-02-08 13:01:10.272"
+        },
+        {
+          "message_media": [],
+          "message_text": "Where is my coupon",
+          "message_type": "customer",
+          "date_time": "2026-02-08 13:01:41.809"
+        },
+        {
+          "message_media": [],
+          "message_text": "Lacoste: Men's Made in France Stripe Neck T-Shirt, Men's L001 Set Leather Sneakers, Men's Classic Fit Original L.12.12 Polo, and more wait in your cart.\n\nUse code LAC-GDX-7LS-VFP-4ZW for 15% off, exclusions apply: https://lacoste.attn.tv/aGvxAJ3IOSJk .",
+          "message_type": "system",
+          "date_time": "2026-02-08 13:15:07.137"
+        },
+        {
+          "message_media": [],
+          "message_text": "Lacoste: I apologize for the delay, and for the inconvenience. Kindly find your 15% off code in the message above. Please don't hesitate to reach out if you have any questions. I'm happy to help.",
+          "message_type": "agent",
+          "agent": "109968",
+          "message_id": "019c3e83-a368-4179-f000-0000fa104d95",
+          "date_time": "2026-02-08 13:29:00.415"
+        }
+      ],
+      "notes": {
+        "send_to_cs": [
+          "No ESC for this client, send everything to CS"
+        ],
+        "do_s_and_don_ts": [
+          "Close the convo once the client takes over",
+          "Do use the Holiday Discounts template if you are unsure of the promotion"
+        ]
+      },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://lacoste.com",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "Men's L001 Set Leather Sneakers",
+            "link": "https://www.lacoste.com/us/checkout",
+            "timeAgo": "2026-02-08"
+          }
+        ]
+      },
+      "escalation_preferences": [],
+      "blocklisted_words": [],
+      "has_shopify": false
     }
   }
 }

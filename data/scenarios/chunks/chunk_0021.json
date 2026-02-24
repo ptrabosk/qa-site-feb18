@@ -3,122 +3,91 @@
   "chunk": "chunk_0021",
   "scenarios": {
     "101": {
-      "id": "019c53d4-505c-4984-f000-0000fa70f754",
-      "companyName": "Dermstore",
-      "companyWebsite": "https://dermstore.com",
+      "id": "019c5eda-3134-49d1-f000-0000fb7c9a80",
+      "companyName": "HalloweenCostumes.com",
+      "companyWebsite": "https://halloweencostumes.com",
       "agentName": "Sarah",
-      "messageTone": "Polished",
+      "messageTone": "Casual",
       "conversation": [
         {
           "message_media": [],
-          "message_text": "Dermstore: Welcome to Dermstore! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel. Privacy: attnl.tv/p/QaT",
+          "message_text": "Halloween Costumes: Welcome to Halloween Costumes! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
           "message_type": "system",
-          "date_time": "2026-02-10 17:58:22.226"
+          "date_time": "2026-02-14 19:17:42.941"
         },
         {
           "message_media": [],
-          "message_text": "Dermstore: Welcome to the Dermstore family! Enjoy 15% off your first order with code: EPZWM-SEA9-BOXX\n\nOffer valid for new subscribers & participating brands only. \n\nShop now > dermstore.attn.tv/a05ZApMkmusl",
+          "message_text": "Halloween Costumes: \nThanks for subscribing! Shop this link to claim your 15% off. halloweencostumes.attn.tv/asKqTqWyvnJh",
           "message_type": "system",
-          "date_time": "2026-02-10 17:58:24.041"
+          "date_time": "2026-02-14 19:17:46.503"
         },
         {
           "message_media": [],
-          "message_text": "Dermstore: Oh, also, a lot of people like getting personal recs from us. Over the next few days we'll try to help you find something that you will love.\n\nLooking for the perfect routine? We can help with that, give our custom routine builder a try! https://dermstore.attn.tv/aeglwPVwQvp4 .",
+          "message_text": "Halloween Costumes: \nHi there! Need help finding something? Let me know how I can make your shopping easier. halloweencostumes.attn.tv/amR8MI-RXqql",
           "message_type": "system",
-          "date_time": "2026-02-10 17:59:31.493"
+          "date_time": "2026-02-14 19:19:03.915"
         },
         {
           "message_media": [],
-          "message_text": "What's shipping code",
+          "message_text": "Trying to find a military custom for a historical play",
           "message_type": "customer",
-          "date_time": "2026-02-10 18:00:03.659"
+          "date_time": "2026-02-14 19:36:58.434"
         },
         {
           "message_media": [],
-          "message_text": "Dermstore: Thank you for reaching out. I'm sorry, but we don't have a free shipping code at this moment. We offer free shipping on domestic orders over $50. \n\nAlso, you can use your 15% discount code on your first order, which is EPZWM-SEA9-BOXX. \n\nPlease check out our new arrivals here: https://dermstore.attn.tv/a47DqFCXWsdA",
+          "message_text": "Halloween Costumes: Thanks for your interest! Let me know what size you'd like and if you're shopping for men, women, or kids. In the meantime, have a look at these: https://halloweencostumes.attn.tv/aISJd1CV_0hU",
           "message_type": "agent",
-          "agent": "48804",
-          "message_id": "019c49cb-b323-480e-f000-0000fa70f754",
-          "date_time": "2026-02-10 18:03:32.416"
+          "agent": "87359",
+          "message_id": "019c5ed6-ad54-47cd-f000-0000fb7c9a80",
+          "date_time": "2026-02-14 20:07:33.367"
         },
         {
           "message_media": [],
-          "message_text": "Dermstore: Try RapidLash Eyelash Enhancing Serum — boosts lash look with clinical-grade care. 🔬\n\nFree shipping on orders $50+.\n\nGive your lashes a lift: https://dermstore.attn.tv/aFtpQLgraOOI . BUY NOW",
-          "message_type": "system",
-          "date_time": "2026-02-11 10:12:32.063"
-        },
-        {
-          "message_media": [],
-          "message_text": "Dermstore: Meet our new Best of Dermstore Signature edit by @ashleyspivey!\n\n$197 value, with 6 handpicked daily must-haves (SPF, dry shampoo & more). Exclusively $60 for Rewards Members. \n\nCode SHIP for FREE 2-day shipping on $100 > dermstore.attn.tv/aS_bfSJxciCP",
-          "message_type": "system",
-          "date_time": "2026-02-12 15:46:02.091"
-        },
-        {
-          "message_media": [],
-          "message_text": "I never received my package that was delivered today I sent an email",
+          "message_text": "Size L for a woman",
           "message_type": "customer",
-          "date_time": "2026-02-12 16:45:14.131"
+          "date_time": "2026-02-14 20:08:17.857"
         },
         {
           "message_media": [],
-          "message_text": "Dermstore: Thank you for reaching out, and I'm sorry to hear that! Please check surrounding houses, doorsteps etc.. in case another home received it by mistake. Speak with any other tenants such as family, roommates or landlords etc. in the event they received it on your behalf. The package may also have been left with property managers, an apartment office or your local postal provider. Let me know if you find it, I'm here to help!",
+          "message_text": "Halloween Costumes: Thank you for sharing your preferences. You may check our current collection here: https://halloweencostumes.attn.tv/aWEsbchsKFqB\nMay I know if you are looking for a specific style or color? I would be happy to check your options further. ",
           "message_type": "agent",
-          "agent": "87295",
-          "message_id": "019c53d4-505c-4984-f000-0000fa70f754",
-          "date_time": "2026-02-12 16:49:09.117"
+          "agent": "82260",
+          "message_id": "019c5eda-3134-49d1-f000-0000fb7c9a80",
+          "date_time": "2026-02-14 20:11:23.720"
         }
       ],
       "notes": {
         "escalate": [
-          "🚨 DO NOT ESCALATE - send to CS🚨"
+          "ESC expired codes/discount code issues, ask for cart ID and add it in esc notes",
+          "Don't send to CS for this client, ESC if needed",
+          "For retroactive discount requests add discount % in ESC note",
+          "ESC if a customer requests a different resolution, after their escalation was resolved"
         ],
         "dos_and_don_ts": [
-          "Close the convo once the client takes over!"
+          "Fun Bucks AREN'T rewards points, those are given during exchanges"
         ],
         "promo_and_promo_exclusions": [
-          "For welcome code exclusions, use CWW template"
+          "This brand does not use coupon codes or promotions. All of their discounts are exclusively link-based and are applied automatically to the shopping cart upon checkout when the appropriate conditions are met",
+          "Please do not advise customers to use promotional codes, do not provide them with any codes, and do not direct them to look on the website for additional codes",
+          "They do not have any promotional code text fields on site to facilitate use"
         ]
       },
       "rightPanel": {
         "source": {
           "label": "Website",
-          "value": "https://dermstore.com",
+          "value": "https://halloweencostumes.com",
           "date": ""
         },
         "browsingHistory": [
           {
-            "item": "RapidLash Eyelash Enhancing Serum (0.1 fl. oz.)",
-            "link": "https://www.dermstore.com/p/rapidlash-eyelash-enhancing-serum/11289440/",
-            "timeAgo": "2026-02-11"
+            "item": "Plus Size Military General Women's Costume",
+            "link": "https://www.halloweencostumes.com/women-s-plus-size-military-general-costume.html",
+            "timeAgo": "2026-02-15"
           },
           {
-            "item": "RevitaLash Advanced Eyelash Conditioner 1ml (6 Weeks Supply)",
-            "link": "https://www.dermstore.com/p/revitalash-advanced-eyelash-conditioner-1ml-6-weeks-supply/15724056/",
-            "timeAgo": "2026-02-10"
-          },
-          {
-            "item": "RevitaLash RevitaBrow Advanced Eyebrow Conditioner 1.5ml (2 Month Supply)",
-            "link": "https://www.dermstore.com/p/revitalash-revitabrow-advanced-eyebrow-conditioner-1.5ml-2-month-supply/15724059/",
-            "timeAgo": "2026-02-10"
-          }
-        ],
-        "orders": [
-          {
-            "orderNumber": "740972870",
-            "orderDate": "2026-02-10",
-            "items": [
-              {
-                "name": "RevitaLash Advanced Eyelash Conditioner 1ml (6 Weeks Supply)",
-                "price": 59
-              },
-              {
-                "name": "Shop With Us Again - Offer In Box",
-                "price": 0,
-                "productLink": "https://www.chairish.com/product/id/17505586?utm_content=Link+%26+Chain+Necklaces&utm_medium=text&utm_source=attentive&utm_term=17505586"
-              }
-            ],
-            "total": 77.12,
-            "date_time": "2026-02-10 23:09:39.476"
+            "item": "Women's Vintage Combat Cutie Costume",
+            "link": "https://www.halloweencostumes.com/womens-vintage-combat-cutie.html",
+            "timeAgo": "2026-02-15"
           }
         ]
       },
@@ -127,55 +96,77 @@
       "has_shopify": false
     },
     "102": {
-      "id": "019c68b2-08a7-45f7-f000-0000fb94d8a8",
-      "companyName": "Baseball Lifestyle 101",
-      "companyWebsite": "https://bl101.com",
-      "agentName": "",
+      "id": "019c4e8b-ae00-4d44-f000-000020d62645",
+      "companyName": "Dr.Westin Childs",
+      "companyWebsite": "https://restartmed.com",
+      "agentName": "Kat",
       "messageTone": "Polished",
       "conversation": [
         {
           "message_media": [],
-          "message_text": "Baseball Lifestyle: Welcome to Baseball Lifestyle! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
+          "message_text": "Dr. Westin Childs: You are already subscribed. Click here to shop now: restartmed.com.",
           "message_type": "system",
-          "date_time": "2026-02-15 09:01:15.966"
+          "date_time": "2026-01-17 07:45:20.148"
         },
         {
           "message_media": [],
-          "message_text": "Baseball Lifestyle: Welcome! Use code WELCOME20 at checkout for a discount when you shop https://bl101.attn.tv/azzoMf92l4rN ",
+          "message_text": "Dr. Westin Childs: Hello! This is Kat. Thanks for checking out our store! https://drwc.attn.tv/a67xZ4wP4eNe \n\nDo you have any questions about Childs' supplements? Let me know! Stop to stop",
           "message_type": "system",
-          "date_time": "2026-02-15 09:01:18.972"
+          "date_time": "2026-01-21 18:26:02.023"
         },
         {
           "message_media": [],
-          "message_text": "Baseball Lifestyle: Don't forget to save our contact for exclusive updates!",
+          "message_text": "Dr. Westin Childs: Hey there, it's Kat. Thanks for stopping by! https://drwc.attn.tv/aForQf6agmBm \n\nCan I answer any supplement questions for you? Reply back to chat with me! Stop to stop",
           "message_type": "system",
-          "date_time": "2026-02-15 09:01:20.167"
+          "date_time": "2026-02-10 18:40:17.359"
         },
         {
           "message_media": [],
-          "message_text": "Hi I'm a big fan",
+          "message_text": "Looking into the Leptin resistance supplement.  Don't know what my Leptin value is... how do I know if I'm Leptin resistant? I need to lose 50lbs",
           "message_type": "customer",
-          "date_time": "2026-02-15 09:08:56.694"
+          "date_time": "2026-02-10 19:03:23.605"
         },
         {
           "message_media": [],
-          "message_text": "Baseball Lifestyle: FREE GIFT WITH PURCHASE: Receive a limited edition Spring Gift Box ($65 value) with all orders over $150. Shop: bl101.attn.tv/aosC2HbuNe_x ",
-          "message_type": "system",
-          "date_time": "2026-02-16 17:00:57.406"
+          "message_text": "VoC: Looking into the Leptin resistance supplement. Don't know what my Leptin value is... how do I know if I'm Leptin resistant? I need to lose 50lbs",
+          "message_type": "escalation",
+          "date_time": "2026-02-10 19:09:32.119"
         },
         {
           "message_media": [],
-          "message_text": "Do u have the don't be affraid 2 B U shirt",
-          "message_type": "customer",
-          "date_time": "2026-02-16 17:57:35.284"
-        },
-        {
-          "message_media": [],
-          "message_text": "Baseball Lifestyle: Thanks for your support! We always love hearing from our fans and appreciate you reaching out. I'm afraid we don't have the Don't Be Afraid 2 B U shirt available. In the meantime, you can take a look at our available T-Shirts here: https://bl101.attn.tv/aNeJccYt0VSI ",
+          "message_text": "Dr. Westin Childs: Good question! I will have to double-check that with my team to be sure. As soon as I hear back, I will send you a message right away!",
           "message_type": "agent",
-          "agent": "87310",
-          "message_id": "019c68b2-08a7-45f7-f000-0000fb94d8a8",
-          "date_time": "2026-02-16 18:03:44.071"
+          "agent": "109972",
+          "message_id": "019c4a08-3888-457f-f000-000020d62645",
+          "date_time": "2026-02-10 19:09:38.730"
+        },
+        {
+          "message_media": [],
+          "message_text": "My Leptin level was done two years ago and it was \"15\"",
+          "message_type": "customer",
+          "date_time": "2026-02-11 15:50:00.167"
+        },
+        {
+          "message_media": [],
+          "message_text": "Dr. Westin Childs: I understand! Thank you for letting me know. Is there anything else that I can help with while I wait for a response from the team? ",
+          "message_type": "agent",
+          "agent": "50271",
+          "message_id": "019c4e7e-07e2-4594-f000-000020d62645",
+          "date_time": "2026-02-11 15:56:48.380"
+        },
+        {
+          "message_media": [],
+          "message_text": "Does Dr Child's do virtual appointments? So impressed with his knowledge and stories of his patients successes!",
+          "message_type": "customer",
+          "date_time": "2026-02-11 16:01:40.348"
+        },
+        {
+          "message_media": [],
+          "message_text": "Dr. Westin Childs: Thank you for your interest in Dr. Childs, he indeed has helped many patients! Regarding virtual appointments, I would have to bring that forward as well to my team. I will get back to you with updates. Please hang tight!",
+          "message_type": "agent",
+          "agent": "109617",
+          "message_id": "019c4e8b-ae00-4d44-f000-000020d62645",
+          "date_time": "2026-02-11 16:11:42.878"
         }
       ],
       "notes": {
@@ -186,1039 +177,496 @@
       "rightPanel": {
         "source": {
           "label": "Website",
-          "value": "https://bl101.com",
+          "value": "https://restartmed.com",
           "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "https://www.restartmed.com/product/leptin-resistance-rx/",
+            "link": "https://www.restartmed.com/product/leptin-resistance-rx/",
+            "timeAgo": "2026-02-10"
+          },
+          {
+            "item": "https://www.restartmed.com/product/hashimotos-ab-rx/",
+            "link": "https://www.restartmed.com/product/hashimotos-ab-rx/",
+            "timeAgo": "2026-02-10"
+          },
+          {
+            "item": "https://www.restartmed.com/product/thyro-adk/",
+            "link": "https://www.restartmed.com/product/thyro-adk/",
+            "timeAgo": "2026-02-10"
+          },
+          {
+            "item": "https://www.restartmed.com/product/thyro-mag/?utm_source=Restart+Medical+Newsletter&utm_campaign=33abf22b1e-EMAIL_CAMPAIGN_2025_09_10_05_35&utm_medium=email&utm_term=0_-33abf22b1e-329216848&goal=0_5171b97996-33abf22b1e-329216848&mc_cid=33abf22b1e&mc_eid=a39a1cb3da",
+            "link": "https://www.restartmed.com/product/thyro-mag/?utm_source=Restart+Medical+Newsletter&utm_campaign=33abf22b1e-EMAIL_CAMPAIGN_2025_09_10_05_35&utm_medium=email&utm_term=0_-33abf22b1e-329216848&goal=0_5171b97996-33abf22b1e-329216848&mc_cid=33abf22b1e&mc_eid=a39a1cb3da",
+            "timeAgo": "2026-01-21"
+          },
+          {
+            "item": "https://www.restartmed.com/product/thyro-mag/?utm_source=Restart+Medical+Newsletter&utm_campaign=33abf22b1e-EMAIL_CAMPAIGN_2025_09_10_05_35&utm_medium=email&utm_term=0_-33abf22b1e-329216848&goal=0_5171b97996-33abf22b1e-329216848&mc_cid=33abf22b1e&mc_eid=a39a1cb3da",
+            "link": "https://www.restartmed.com/product/thyro-mag/?utm_source=Restart+Medical+Newsletter&utm_campaign=33abf22b1e-EMAIL_CAMPAIGN_2025_09_10_05_35&utm_medium=email&utm_term=0_-33abf22b1e-329216848&goal=0_5171b97996-33abf22b1e-329216848&mc_cid=33abf22b1e&mc_eid=a39a1cb3da",
+            "timeAgo": "2026-01-21"
+          }
+        ],
+        "orders": [
+          {
+            "orderNumber": "257997",
+            "orderDate": "2024-09-29",
+            "items": [
+              {
+                "name": "Thyroid Daily Essentials | 34 in 1 Complete Thyroid Multivitamin (60-Day Supply)",
+                "price": 69.99
+              }
+            ],
+            "total": 69.99,
+            "date_time": "2024-09-29 18:54:03.801"
+          },
+          {
+            "orderNumber": "226990",
+            "orderDate": "2024-03-18",
+            "items": [
+              {
+                "name": "Leptin Resistance Rx | Leptin Sensitizer with ORALVISC & GAGs for Metabolic Support (60 Count)",
+                "price": 69.95
+              }
+            ],
+            "total": 69.95,
+            "date_time": "2024-03-18 11:00:25.101"
+          },
+          {
+            "orderNumber": "222031",
+            "orderDate": "2024-02-21",
+            "items": [
+              {
+                "name": "(NEW) T2 Cream | Topical Bio-Identical T2 Thyroid Hormone (60 Servings)",
+                "price": 39.99
+              }
+            ],
+            "total": 39.99,
+            "date_time": "2024-02-21 02:19:18.518"
+          },
+          {
+            "orderNumber": "",
+            "orderDate": "2023-12-14",
+            "items": [
+              {
+                "name": "",
+                "price": 0
+              }
+            ],
+            "total": 0,
+            "date_time": "2023-12-14 10:45:05.536"
+          },
+          {
+            "orderNumber": "213674",
+            "orderDate": "2023-12-14",
+            "items": [
+              {
+                "name": "(NEW) Thyroid Collagen Complex | Patented Collagen Peptides & Collagen Precursors (30 Servings)",
+                "price": 59.99
+              }
+            ],
+            "total": 59.99,
+            "date_time": "2023-12-14 01:45:12.302"
+          }
+        ]
+      },
+      "escalation_preferences": [],
+      "blocklisted_words": [],
+      "has_shopify": false
+    },
+    "103": {
+      "id": "019c53e9-3750-4dcd-f000-00001f9971f9",
+      "companyName": "Howitzer Clothing",
+      "companyWebsite": "https://howitzerclothing.com",
+      "agentName": "Kim",
+      "messageTone": "Polished",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "Howitzer Clothing: Hi Mr. Santa, this is Kim. It looks like you left something in your cart! https://howitzerclothing.attn.tv/aZVpyZzAXsvM \n\nAre there any questions I can answer before they're gone?",
+          "message_type": "system",
+          "date_time": "2026-01-21 10:22:52.749"
+        },
+        {
+          "message_media": [],
+          "message_text": "Howitzer Clothing: Hey Mr. Santa, we noticed you checking us out. Have you seen our best sellers yet? https://howitzerclothing.attn.tv/aF9peRTllq5h \n\nText back with any questions!",
+          "message_type": "system",
+          "date_time": "2026-01-25 18:54:25.344"
+        },
+        {
+          "message_media": [],
+          "message_text": "Howitzer Clothing: Hey Mr. Santa, we noticed you checking us out. Have you seen our best sellers yet? https://howitzerclothing.attn.tv/aJNIRakGlqSN \n\nText back with any questions!",
+          "message_type": "system",
+          "date_time": "2026-01-26 21:08:52.002"
+        },
+        {
+          "message_media": [],
+          "message_text": "Howitzer Clothing: Hey Mr. Santa, this is Kim. Thanks for checking out our site! 😊 https://howitzerclothing.attn.tv/awUV41a2hsKf \n\nAny questions I can answer for you?",
+          "message_type": "system",
+          "date_time": "2026-01-28 10:56:28.567"
+        },
+        {
+          "message_media": [],
+          "message_text": "Howitzer Clothing: Hey Jeefrey, we noticed you checking us out. Have you seen our best sellers yet? https://howitzerclothing.attn.tv/a5PEx_yIn29n \n\nText back with any questions!",
+          "message_type": "system",
+          "date_time": "2026-01-29 21:07:14.958"
+        },
+        {
+          "message_media": [],
+          "message_text": "Howitzer Clothing: Hey Jeefrey, we noticed you checking us out. Have you seen our best sellers yet? https://howitzerclothing.attn.tv/aOuQiHOT7_Xv \n\nText back with any questions!",
+          "message_type": "system",
+          "date_time": "2026-01-31 10:33:08.978"
+        },
+        {
+          "message_media": [],
+          "message_text": "Howitzer Clothing: Hey Jeefrey, this is Kim. Thanks for checking out our site! 😊 https://howitzerclothing.attn.tv/a3mzvp6813CZ \n\nAny questions I can answer for you?",
+          "message_type": "system",
+          "date_time": "2026-02-05 13:58:09.351"
+        },
+        {
+          "message_media": [],
+          "message_text": "Howitzer Clothing: Hi Jeefrey, this is Kim. It looks like you left something in your cart! https://howitzerclothing.attn.tv/axicoclE40mi \n\nAre there any questions I can answer before they're gone?",
+          "message_type": "system",
+          "date_time": "2026-02-07 14:58:08.666"
+        },
+        {
+          "message_media": [],
+          "message_text": "I tried emailing them and no response",
+          "message_type": "customer",
+          "date_time": "2026-02-12 17:07:05.061"
+        },
+        {
+          "message_media": [],
+          "message_text": "Howitzer Clothing: We sincerely apologize for the delay! The team is experiencing a high volume of emails, but they'll respond to you as soon as possible. We really appreciate your patience on this and hope you can give us more time to reply. Please check your spam and promotions folders, as our emails sometimes end up there. Our team is happy to help!",
+          "message_type": "agent",
+          "agent": "87295",
+          "message_id": "019c53e9-3750-4dcd-f000-00001f9971f9",
+          "date_time": "2026-02-12 17:11:58.970"
         }
+      ],
+      "notes": {
+        "send_to_cs": [
+          "No ESC for this client, send everything to CS"
+        ]
+      },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://howitzerclothing.com",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "Patriot Hood - TEAK / L",
+            "link": "https://howitzerclothing.com/products/patriot-hood?variant=42060332630151",
+            "timeAgo": "2026-01-28"
+          },
+          {
+            "item": "Scout Pant - OLIVE / 30",
+            "link": "https://howitzerclothing.com/collections/mens-jeans-pants/products/scout-pant-v1",
+            "timeAgo": "2026-01-28"
+          },
+          {
+            "item": "Tiger Camo Scout Pants - DARK BROWN TIGER CAMO / 30",
+            "link": "https://howitzerclothing.com/collections/mens-jeans-pants/products/tiger-camo-scout-pants",
+            "timeAgo": "2026-01-27"
+          },
+          {
+            "item": "God And Country Hood - SILVER SAGE / L",
+            "link": "https://howitzerclothing.com/products/god-and-country-hood-1?variant=42060329877639",
+            "timeAgo": "2026-01-23"
+          },
+          {
+            "item": "Scout Pant - ASSORTED / 30",
+            "link": "https://howitzerclothing.com/products/scout-pant-3?tw_source=google&tw_adid=770472057813&tw_campaign=22916009700&tw_kwdid=pla-295133209182&gad_source=1&gad_campaignid=22916009700&gbraid=0AAAAACwjFMQGO5oH4AJBpzPpYLOfz4kKH&gclid=EAIaIQobChMIxNa5uveekgMVBJjuAR2euQMSEAQYCCABEgJlTfD_BwE",
+            "timeAgo": "2026-01-22"
+          }
+        ]
       },
       "escalation_preferences": [],
       "blocklisted_words": [],
       "has_shopify": true
     },
-    "103": {
-      "id": "019c727a-5bbe-41af-f000-00000e864995",
-      "companyName": "Critic's Choice Video",
-      "companyWebsite": "https://ccvideo.com",
-      "agentName": "Jordan",
-      "messageTone": "Polished",
-      "conversation": [
-        {
-          "message_media": [],
-          "message_text": "Critics' Choice Video: Cozy up this winter! Discover binge-worthy TV shows, now on SALE. Grab yours! criticschoice.attn.tv/aNAwj2NFYwG2 \n\nText STOP to opt out.",
-          "message_type": "system",
-          "date_time": "2026-01-20 15:10:14.758"
-        },
-        {
-          "message_media": [],
-          "message_text": "Critics' Choice Video: Our Fan Favorites collection is here! Check out these beloved titles: criticschoice.attn.tv/auML8KyuiYxW \n\nText STOP to opt out.",
-          "message_type": "system",
-          "date_time": "2026-01-21 15:25:14.391"
-        },
-        {
-          "message_media": [],
-          "message_text": "Critics' Choice Video: Enhance your collection with our stunning 4K films! Check out the sale: criticschoice.attn.tv/ayh6BFLWe7-d \n\nText STOP to opt out.",
-          "message_type": "system",
-          "date_time": "2026-01-23 15:30:20.130"
-        },
-        {
-          "message_media": [],
-          "message_text": "Critics' Choice Video: Upgrade your catalog with New & Recent releases! Plus, enjoy FREE Shipping on $25+ with WINTER. See what's new! criticschoice.attn.tv/ae4ZP-MTcV09 \n\nText STOP to opt out.",
-          "message_type": "system",
-          "date_time": "2026-01-25 15:35:10.038"
-        },
-        {
-          "message_media": [],
-          "message_text": "Critics' Choice Video: Don't miss out! 80's Film & TV are 30% OFF + FREE Shipping with TOTALLY. Shop now, sale ends soon! criticschoice.attn.tv/a36eax5nncSv \n\nText STOP to opt out.",
-          "message_type": "system",
-          "date_time": "2026-01-27 15:35:09.036"
-        },
-        {
-          "message_media": [],
-          "message_text": "Critics' Choice Video: Expand your collection! Grab collectibles, games, books, & more from your favorite titles. Take a look! criticschoice.attn.tv/a0e1ml72GNxJ \n\nText STOP to opt out.",
-          "message_type": "system",
-          "date_time": "2026-01-29 15:40:06.402"
-        },
-        {
-          "message_media": [],
-          "message_text": "Critics' Choice Video: Steelbooks are here! Plus, last day for FREE Shipping on $25+ with WINTER. Explore! criticschoice.attn.tv/aj6vMCD6vQcm \n\nText STOP to opt out.",
-          "message_type": "system",
-          "date_time": "2026-01-31 15:15:12.328"
-        },
-        {
-          "message_media": [],
-          "message_text": "Critics' Choice Video: Double the fun with 30% OFF Remakes & Sequels! Perfect for your next movie marathon. Treat Yourself! criticschoice.attn.tv/apu4AOpmQiVn \n\nText STOP to opt out.",
-          "message_type": "system",
-          "date_time": "2026-02-03 15:40:07.013"
-        },
-        {
-          "message_media": [],
-          "message_text": "Critics' Choice Video: Experience the heartwarming journey of \"When Calls the Heart\" for 30% OFF! Own the series:\ncriticschoice.attn.tv/aWu7Sqsp-RMm \n\nText STOP to opt out.",
-          "message_type": "system",
-          "date_time": "2026-02-05 15:45:12.815"
-        },
-        {
-          "message_media": [],
-          "message_text": "Critics' Choice Video: Save 30% on Awards Winning Films! Explore! criticschoice.attn.tv/a-Qwuf0i5umR \n\nText STOP to opt out.",
-          "message_type": "system",
-          "date_time": "2026-02-07 15:35:08.309"
-        },
-        {
-          "message_media": [],
-          "message_text": "Critics' Choice Video: Get 30% OFF on Mystery, Suspense & Film Noir titles. Check it out! criticschoice.attn.tv/aMeu1tLM2owG \n\nText STOP to opt out.",
-          "message_type": "system",
-          "date_time": "2026-02-09 15:15:11.501"
-        },
-        {
-          "message_media": [],
-          "message_text": "Critics' Choice Video: You are already subscribed. Click here to shop now: ccvideo.com.",
-          "message_type": "system",
-          "date_time": "2026-02-09 18:19:57.524"
-        },
-        {
-          "message_media": [],
-          "message_text": "Critics' Choice Video: You are already subscribed. Click here to shop now: ccvideo.com.",
-          "message_type": "system",
-          "date_time": "2026-02-09 18:20:49.665"
-        },
-        {
-          "message_media": [],
-          "message_text": "Critics' Choice Video: Save 30% on binge-worthy TV comedies! Plus, FREE Shipping on $25+ with code HEART. Explore! criticschoice.attn.tv/aRWhBgTUYCE- \n\nText STOP to opt out.",
-          "message_type": "system",
-          "date_time": "2026-02-11 15:20:09.004"
-        },
-        {
-          "message_media": [],
-          "message_text": "Critics' Choice Video: Thanks for your recent purchase! Check out new releases here: https://criticschoice.attn.tv/a5AfntVgvGz7 ",
-          "message_type": "system",
-          "date_time": "2026-02-12 16:48:15.957"
-        },
-        {
-          "message_media": [],
-          "message_text": "Critics' Choice Video: You are already subscribed. Click here to shop now: ccvideo.com.",
-          "message_type": "system",
-          "date_time": "2026-02-12 17:00:29.371"
-        },
-        {
-          "message_media": [],
-          "message_text": "Critics' Choice Video: Take your collection to the next level! Dive into our exciting Action & Adventure titles on SALE now! Explore: criticschoice.attn.tv/aPh7sBVtsTlu \n\nText STOP to opt out.",
-          "message_type": "system",
-          "date_time": "2026-02-13 15:25:09.413"
-        },
-        {
-          "message_media": [],
-          "message_text": "Critics' Choice Video: Hey, we noticed you checking us out. Have you seen our best sellers yet? https://criticschoice.attn.tv/aPalbM2fs1GC . ",
-          "message_type": "system",
-          "date_time": "2026-02-15 13:16:10.808"
-        },
-        {
-          "message_media": [],
-          "message_text": "Critics' Choice Video: Celebrate Presidents' Day with us! Stunning 4K titles on SALE now. Don't miss out! criticschoice.attn.tv/aNV5AupHi59- \n\nText STOP to opt out.",
-          "message_type": "system",
-          "date_time": "2026-02-16 15:15:13.465"
-        },
-        {
-          "message_media": [],
-          "message_text": "Critics' Choice Video: Discover high quality films on 4K & Blu-ray for 30% OFF! Explore! criticschoice.attn.tv/aIpfxJFSraRD \n\nText STOP to opt out.",
-          "message_type": "system",
-          "date_time": "2026-02-18 15:20:14.268"
-        },
-        {
-          "message_media": [],
-          "message_text": "Critics' Choice Video: Hey, this is Jordan. Thanks for checking us out! https://criticschoice.attn.tv/aIsJgEQJCxYB \n\nAny questions I can answer for you? ",
-          "message_type": "system",
-          "date_time": "2026-02-18 15:34:09.618"
-        },
-        {
-          "message_media": [],
-          "message_text": "Does Critics Choice have a customer service phone number?",
-          "message_type": "customer",
-          "date_time": "2026-02-18 15:35:25.864"
-        },
-        {
-          "message_media": [],
-          "message_text": "Critics' Choice Video: Yes! You can give us a call at 630-919-2246 Monday - Friday, 8am - 7pm & Saturday 9am - 5pm CT, or let me know if I can help via text, it may be faster. ",
-          "message_type": "agent",
-          "agent": "50269",
-          "message_id": "019c7277-d93d-410f-f000-00000e864995",
-          "date_time": "2026-02-18 15:36:23.016"
-        },
-        {
-          "message_media": [],
-          "message_text": "Thanks Jordan, no questions at this time. Appreciate your support",
-          "message_type": "customer",
-          "date_time": "2026-02-18 15:37:46.242"
-        },
-        {
-          "message_media": [],
-          "message_text": "Critics' Choice Video: Likewise. Please don't hesitate to reach out if you ever have any questions. I'm happy to help.",
-          "message_type": "agent",
-          "agent": "109968",
-          "message_id": "019c727a-5bbe-41af-f000-00000e864995",
-          "date_time": "2026-02-18 15:39:07.488"
-        }
-      ],
-      "notes": {
-        "promo_and_promo_exclusions": [
-          "🅿 Refer to brand's site for the most up to date promotional information where applicable."
-        ]
-      },
-      "rightPanel": {
-        "source": {
-          "label": "Website",
-          "value": "https://ccvideo.com",
-          "date": ""
-        },
-        "browsingHistory": [
-          {
-            "item": "Double Jeopardy",
-            "link": "https://www.ccvideo.com/double-jeopardy-double-jeopardy/032429273475",
-            "timeAgo": "2025-08-18"
-          },
-          {
-            "item": "Rain Man",
-            "link": "https://www.ccvideo.com/rain-man/027616884169?utm_source=recommendations&utm_medium=web&utm_campaign=Recs&utm_content=widget",
-            "timeAgo": "2024-03-11"
-          },
-          {
-            "item": "Analyze That",
-            "link": "https://www.ccvideo.com/analyze-that/085392341726?utm_source=recommendations&utm_medium=web&utm_campaign=Recs&utm_content=widget",
-            "timeAgo": "2024-03-11"
-          },
-          {
-            "item": "Pirates of the Caribbean: On Stranger Tides",
-            "link": "https://www.ccvideo.com/pirates-of-the-caribbean-on-stranger-tides/786936812442?utm_source=recommendations&utm_medium=web&utm_campaign=Recs&utm_content=widget",
-            "timeAgo": "2024-03-11"
-          },
-          {
-            "item": "Meet the Fockers",
-            "link": "https://www.ccvideo.com/meet-the-fockers/025192582325",
-            "timeAgo": "2024-03-11"
-          }
-        ],
-        "orders": [
-          {
-            "orderNumber": "0351-2102-6484SA",
-            "orderDate": "2024-02-04",
-            "items": [
-              {
-                "name": "he Beatles/Let It Be Special Edition [Deluxe 2 CD]",
-                "price": 0,
-                "productLink": "http://www.wowhd.co.uk/602507138622"
-              },
-              {
-                "name": "Places in the Heart",
-                "price": 0,
-                "productLink": "http://www.importcds.com/043396069763"
-              },
-              {
-                "name": "Places in the Heart",
-                "price": 0,
-                "productLink": "http://www.ccmusic.com/043396069763"
-              },
-              {
-                "name": "Places in the Heart",
-                "price": 0,
-                "productLink": "http://www.ccvideo.com/043396069763"
-              },
-              {
-                "name": "Places in the Heart",
-                "price": 0,
-                "productLink": "http://www.wowhd.co.uk/043396069763"
-              },
-              {
-                "name": "National Parks Exploration Series: Glacier National Park: Crown of the Continent",
-                "price": 0,
-                "productLink": "http://www.deepdiscount.com/683904631879"
-              },
-              {
-                "name": "National Parks Exploration Series: Glacier National Park: Crown of the Continent",
-                "price": 0,
-                "productLink": "http://www.ccmusic.com/683904631879"
-              },
-              {
-                "name": "Places in the Heart",
-                "price": 0,
-                "productLink": "http://www.deepdiscount.com/043396069763"
-              },
-              {
-                "name": "National Parks Exploration Series: Glacier National Park: Crown of the Continent",
-                "price": 0,
-                "productLink": "http://www.importcds.com/683904631879"
-              },
-              {
-                "name": "Places in the Heart",
-                "price": 0,
-                "productLink": "http://www.moviesunlimited.com/043396069763"
-              },
-              {
-                "name": "National Parks Exploration Series: Glacier National Park: Crown of the Continent",
-                "price": 0,
-                "productLink": "http://www.wowhd.co.uk/683904631879"
-              },
-              {
-                "name": "National Parks Exploration Series: Glacier National Park: Crown of the Continent",
-                "price": 0,
-                "productLink": "http://www.moviesunlimited.com/683904631879"
-              },
-              {
-                "name": "he Beatles/Let It Be Special Edition [Deluxe 2 CD]",
-                "price": 0,
-                "productLink": "http://www.moviesunlimited.com/602507138622"
-              },
-              {
-                "name": "he Beatles/Let It Be Special Edition [Deluxe 2 CD]",
-                "price": 0,
-                "productLink": "http://www.importcds.com/602507138622"
-              },
-              {
-                "name": "he Beatles/Let It Be Special Edition [Deluxe 2 CD]",
-                "price": 0,
-                "productLink": "http://www.ccvideo.com/602507138622"
-              },
-              {
-                "name": "he Beatles/Let It Be Special Edition [Deluxe 2 CD]",
-                "price": 0,
-                "productLink": "http://www.ccmusic.com/602507138622"
-              },
-              {
-                "name": "National Parks Exploration Series: Glacier National Park: Crown of the Continent",
-                "price": 0,
-                "productLink": "http://www.ccvideo.com/683904631879"
-              },
-              {
-                "name": "he Beatles/Let It Be Special Edition [Deluxe 2 CD]",
-                "price": 0,
-                "productLink": "http://www.deepdiscount.com/602507138622"
-              }
-            ],
-            "total": 209.29,
-            "date_time": "2024-02-04 17:10:31.182"
-          },
-          {
-            "orderNumber": "0351-2102-6484SA",
-            "orderDate": "2024-02-04",
-            "items": [
-              {
-                "name": "One Flew Over the Cuckoo's Nest",
-                "price": 0,
-                "productLink": "http://www.wowhd.co.uk/883929152605"
-              },
-              {
-                "name": "One Flew Over the Cuckoo's Nest",
-                "price": 0,
-                "productLink": "http://www.moviesunlimited.com/883929152605"
-              },
-              {
-                "name": "One Flew Over the Cuckoo's Nest",
-                "price": 0,
-                "productLink": "http://www.deepdiscount.com/883929152605"
-              },
-              {
-                "name": "One Flew Over the Cuckoo's Nest",
-                "price": 0,
-                "productLink": "http://www.ccvideo.com/883929152605"
-              },
-              {
-                "name": "One Flew Over the Cuckoo's Nest",
-                "price": 0,
-                "productLink": "http://www.ccmusic.com/883929152605"
-              },
-              {
-                "name": "One Flew Over the Cuckoo's Nest",
-                "price": 0,
-                "productLink": "http://www.importcds.com/883929152605"
-              }
-            ],
-            "total": 209.29,
-            "date_time": "2024-02-04 17:10:31.179"
-          },
-          {
-            "orderNumber": "0351-2102-6484SA",
-            "orderDate": "2024-02-04",
-            "items": [
-              {
-                "name": "All the President's Men",
-                "price": 0,
-                "productLink": "http://www.ccmusic.com/883929152698"
-              },
-              {
-                "name": "All the President's Men",
-                "price": 0,
-                "productLink": "http://www.moviesunlimited.com/883929152698"
-              },
-              {
-                "name": "All the President's Men",
-                "price": 0,
-                "productLink": "http://www.ccvideo.com/883929152698"
-              },
-              {
-                "name": "All the President's Men",
-                "price": 0,
-                "productLink": "http://www.importcds.com/883929152698"
-              },
-              {
-                "name": "All the President's Men",
-                "price": 0,
-                "productLink": "http://www.wowhd.co.uk/883929152698"
-              },
-              {
-                "name": "All the President's Men",
-                "price": 0,
-                "productLink": "http://www.deepdiscount.com/883929152698"
-              }
-            ],
-            "total": 209.29,
-            "date_time": "2024-02-04 17:10:31.177"
-          },
-          {
-            "orderNumber": "0351-2102-6484SA",
-            "orderDate": "2024-02-04",
-            "items": [
-              {
-                "name": "About My Father",
-                "price": 0,
-                "productLink": "http://www.ccmusic.com/031398340287"
-              },
-              {
-                "name": "About My Father",
-                "price": 0,
-                "productLink": "http://www.deepdiscount.com/031398340287"
-              },
-              {
-                "name": "About My Father",
-                "price": 0,
-                "productLink": "http://www.ccvideo.com/031398340287"
-              },
-              {
-                "name": "About My Father",
-                "price": 0,
-                "productLink": "http://www.moviesunlimited.com/031398340287"
-              },
-              {
-                "name": "About My Father",
-                "price": 0,
-                "productLink": "http://www.wowhd.co.uk/031398340287"
-              },
-              {
-                "name": "About My Father",
-                "price": 0,
-                "productLink": "http://www.importcds.com/031398340287"
-              }
-            ],
-            "total": 209.29,
-            "date_time": "2024-02-04 17:10:31.175"
-          },
-          {
-            "orderNumber": "0351-2102-6484SA",
-            "orderDate": "2024-02-04",
-            "items": [
-              {
-                "name": "Clint Eastwood Collection, Volume 5",
-                "price": 0,
-                "productLink": "http://www.ccvideo.com/883929780471"
-              },
-              {
-                "name": "Clint Eastwood Collection, Volume 5",
-                "price": 0,
-                "productLink": "http://www.moviesunlimited.com/883929780471"
-              },
-              {
-                "name": "Clint Eastwood Collection, Volume 5",
-                "price": 0,
-                "productLink": "http://www.importcds.com/883929780471"
-              },
-              {
-                "name": "Clint Eastwood Collection, Volume 5",
-                "price": 0,
-                "productLink": "http://www.wowhd.co.uk/883929780471"
-              },
-              {
-                "name": "Clint Eastwood Collection, Volume 5",
-                "price": 0,
-                "productLink": "http://www.ccmusic.com/883929780471"
-              },
-              {
-                "name": "Clint Eastwood Collection, Volume 5",
-                "price": 0,
-                "productLink": "http://www.deepdiscount.com/883929780471"
-              }
-            ],
-            "total": 209.29,
-            "date_time": "2024-02-04 17:10:31.174"
-          }
-        ]
-      },
-      "escalation_preferences": [
-        "Exchanges and returns"
-      ],
-      "blocklisted_words": [],
-      "has_shopify": false
-    },
     "104": {
-      "id": "019c6903-3152-4ed7-f000-00006ae2184c",
-      "companyName": "Birkenstock",
-      "companyWebsite": "https://birkenstock.com",
-      "agentName": "Taylor",
-      "messageTone": "Polished",
+      "id": "019c49cd-c9ac-4bee-f000-000024fce95e",
+      "companyName": "The Pink Lily Boutique",
+      "companyWebsite": "https://pinklily.com",
+      "agentName": "Olivia",
+      "messageTone": "Casual",
       "conversation": [
         {
           "message_media": [],
-          "message_text": "Birkenstock: Leaving soon and not restocking. Your Last Chance to shop clogs in Mauve & Stone Coin: birkenstock.attn.tv/aIPmkwcHRtHS .",
+          "message_text": "Pink Lily: The wait is over. Our Semi-Annual Sale just dropped! \n\nUp to 70% OFF 500+ styles!\n\npinklily.attn.tv/auQHw3bkm7vN \n\nText stop to opt out",
           "message_type": "system",
-          "date_time": "2026-01-18 14:11:32.809"
+          "date_time": "2026-01-11 18:32:38.147"
         },
         {
           "message_media": [],
-          "message_text": "Birkenstock: Statement piece platforms. Chunky soles transform the Paris, Boston & Arizona. Shop the look: birkenstock.attn.tv/al_IUFk8puzT .",
+          "message_text": "Pink Lily: Semi-annual sale: NEW STYLES ADDED!\n\nOver 600 styles up to 70% OFF!\n\nSHOP NOW:\npinklily.attn.tv/aB9AahXhT8J9 \n\nText stop to opt out",
           "message_type": "system",
-          "date_time": "2026-01-20 09:12:17.421"
+          "date_time": "2026-01-13 10:07:13.502"
         },
         {
           "message_media": [],
-          "message_text": "Birkenstock: Soft suede feel, new color story. Shop Carafe, Charcoal & more fresh shades: birkenstock.attn.tv/ans_A11J7-kZ .",
+          "message_text": "Pink Lily: Wait...35% OFF! New arrivals + Blue Horizon Collection. \n\nDon't miss this-use code STYLE35\n\npinklily.attn.tv/aE1B74Efm6D3\n\nText stop to opt out",
           "message_type": "system",
-          "date_time": "2026-01-21 11:30:37.781"
+          "date_time": "2026-01-16 11:16:29.208"
         },
         {
           "message_media": [],
-          "message_text": "Birkenstock: New arrivals are here. Discover the latest in fan-favorite Lutry, Arizona & Madrid: birkenstock.attn.tv/aF37cX_OcmOT .",
+          "message_text": "Pink Lily: Final call! 35% OFF your purchase! \n\nNew styles to wear now, wear everywhere. Use code: STYLE35\n\npinklily.attn.tv/adFSWmuwY2Gk\n\nText stop to opt out",
           "message_type": "system",
-          "date_time": "2026-01-22 09:07:11.538"
+          "date_time": "2026-01-18 09:02:20.952"
         },
         {
           "message_media": [],
-          "message_text": "Birkenstock: Get early access. Sign up for Membership to unlock exclusive new styles. It's free: birkenstock.attn.tv/as4YcHaDo4kG .",
+          "message_text": "Pink Lily: NEW graphics, better prices.\n\nTake 35% off ALL graphics!\n\nGrab yours now: pinklily.attn.tv/aggKrR9UzsL0 \n\nText stop to opt out",
           "message_type": "system",
-          "date_time": "2026-01-23 11:30:20.747"
+          "date_time": "2026-01-20 11:32:19.192"
         },
         {
           "message_media": [],
-          "message_text": "Birkenstock: Handpicked from select collections for Last Chance. Shop Big Buckle, boots & shearling at a special price: birkenstock.attn.tv/aO4BQ5XFWH5l .",
+          "message_text": "Pink Lily: 35% OFF ALL tops! \n\nUse code TOPS35. \n\nLimited time! Don't miss your faves.\npinklily.attn.tv/a4ElyNB9UKzc \n\nText stop to opt out",
           "message_type": "system",
-          "date_time": "2026-01-24 11:30:28.799"
+          "date_time": "2026-01-21 09:02:43.757"
         },
         {
           "message_media": [],
-          "message_text": "Birkenstock: Two straps. Two tones. One bold new look. Shop the Arizona Colorblock Capsule: birkenstock.attn.tv/abklx2B5r384 .",
+          "message_text": "Pink Lily: Happy Hour! 40% OFF sitewide for YOU only! Ends TONIGHT\n\nUse JAN40 before it's gone \npinklily.attn.tv/aFl8caBJ-Rt0 \n\nText stop to opt out",
           "message_type": "system",
-          "date_time": "2026-01-25 09:06:14.353"
+          "date_time": "2026-01-22 14:03:20.470"
         },
         {
           "message_media": [],
-          "message_text": "Birkenstock: Sandal state of mind. Dress for the season you want in Arizona, Gizeh & Florida: birkenstock.attn.tv/a6tf-aGOC0vv .",
+          "message_text": "Pink Lily: Final call! Bigger carts = bigger savings\n\n40% off $80+ or 35% off the rest\n\npinklily.attn.tv/aqXFLeXt6sgk \n\nText stop to opt out",
           "message_type": "system",
-          "date_time": "2026-01-26 11:30:15.936"
+          "date_time": "2026-01-25 09:32:19.856"
         },
         {
           "message_media": [],
-          "message_text": "Birkenstock: Outfit ideas for new shoes and clogs. Get inspired to style London, Naples Wrapped & more: birkenstock.attn.tv/ajSYPXDxQaoT .",
+          "message_text": "Pink Lily: FIRST EVER Pink Lily Outlet Sale!\n\nUp to 70% OFF + extra 20% OFF with code EXTRA20\n\npinklily.attn.tv/a7IaceXlNCsN \n\nText stop to opt out",
           "message_type": "system",
-          "date_time": "2026-01-27 11:30:17.924"
+          "date_time": "2026-01-26 09:03:04.162"
         },
         {
           "message_media": [],
-          "message_text": "Birkenstock: Our biggest clogs collection, ever. Shop new styles, hard-to-find colors & all the icons, only with us: birkenstock.attn.tv/aMR-uEirQE3y .",
+          "message_text": "Pink Lily: Final hours!\n\nThe Outlet Sale=our biggest discounts yet w/ prices you won't see again. Ends soon!\n\npinklily.attn.tv/aElQZDQR8UKG\nText stop to opt out",
           "message_type": "system",
-          "date_time": "2026-01-28 09:15:14.685"
+          "date_time": "2026-02-01 09:02:44.507"
         },
         {
           "message_media": [],
-          "message_text": "Birkenstock: The Valentine's Day collection. Polished Cherry Red & Fondant Pink Arizona sandals. Shop now: birkenstock.attn.tv/aFauAXXUmq8f .",
+          "message_text": "Pink Lily: Just dropped:all-new tops you'll live in! Plus-Buy one, get one 50% off.\n\nMeet your new favorites\npinklily.attn.tv/aJ6wM58_KuDo\n\nText stop to opt out",
           "message_type": "system",
-          "date_time": "2026-01-29 09:07:12.197"
+          "date_time": "2026-02-03 09:02:56.491"
         },
         {
           "message_media": [],
-          "message_text": "Birkenstock: Hi there. Thanks for visiting.\n\nYour next pair is here: https://birkenstock.attn.tv/a_idnhveGr15 .",
+          "message_text": "Pink Lily: Winter Must Go! Up to 60% OFF 800+ styles. Layers, knits & cold-weather faves.\n\nShop now.\npinklily.attn.tv/akmu3YyroHk5\n\nText stop to opt out",
           "message_type": "system",
-          "date_time": "2026-01-29 12:16:19.671"
+          "date_time": "2026-02-04 09:02:40.574"
         },
         {
           "message_media": [],
-          "message_text": "Birkenstock: Polished Cherry Red & Fondant Pink. Shop candy-colored Valentine's Day gifts: birkenstock.attn.tv/a_laTdi6RNVJ .",
+          "message_text": "Pink Lily: Your Soft Reset starts now! New spring styles just dropped + 30% off w/ code: reset30\n\npinklily.attn.tv/ay4zJmbz6np6\n\nText stop to opt out",
           "message_type": "system",
-          "date_time": "2026-01-30 09:06:05.612"
+          "date_time": "2026-02-06 09:02:56.409"
         },
         {
           "message_media": [],
-          "message_text": "Birkenstock: Carafe is here. Our newest brown complements every style it touches. Shop the full collection only with us: birkenstock.attn.tv/a0etC7OfWM0z .",
+          "message_text": "Pink Lily: LAST CHANCE! 30% OFF w/ code: reset30 ends TONIGHT! \n\nShop our newest spring arrivals: \npinklily.attn.tv/aapM36rf236x\n\nText stop to opt out",
           "message_type": "system",
-          "date_time": "2026-01-31 09:02:09.306"
+          "date_time": "2026-02-08 14:03:26.999"
         },
         {
           "message_media": [],
-          "message_text": "Birkenstock: Try the Tokio Suede Clog for contoured cork-latex support and adjustable straps that keep your feet comfy all day.\n\nFree returns for 30 days (except for Final Sale items).\n\nYour next pair is here: https://birkenstock.attn.tv/ajY4rMtY_kFO .",
+          "message_text": "Pink Lily: FREE shipping on EVERY order!\n\nAdd to cart, we'll handle the rest.\n\nLimited time only: \npinklily.attn.tv/a8M25e7uJAc1 \n\nText stop to opt out",
           "message_type": "system",
-          "date_time": "2026-01-31 11:23:09.284"
+          "date_time": "2026-02-10 18:01:39.636"
         },
         {
           "message_media": [],
-          "message_text": "Birkenstock: New in Last Chance. Shop winter boots & shearling, stay covered & cozy: birkenstock.attn.tv/apiEvE56GV4W .",
-          "message_type": "system",
-          "date_time": "2026-02-01 11:30:13.633"
-        },
-        {
-          "message_media": [],
-          "message_text": "Birkenstock: Yes, we make great shoes. Yes, they're very comfortable. Shop Uppsala Low, Utti Lace & Bend to start: birkenstock.attn.tv/an50t-VIy_dP .",
-          "message_type": "system",
-          "date_time": "2026-02-02 09:03:05.902"
-        },
-        {
-          "message_media": [],
-          "message_text": "Birkenstock: Every Naples Wrapped color, all in one place. Shop our viral loafer clog in Taupe, Pink Clay & more: birkenstock.attn.tv/aZZ0Ey3j7KDQ .",
-          "message_type": "system",
-          "date_time": "2026-02-03 09:13:37.292"
-        },
-        {
-          "message_media": [],
-          "message_text": "Birkenstock: New color, all over. Tonal Suede in Pure Sage, Faded Purple & Carafe. Shop now: birkenstock.attn.tv/adwwK5U2D4iA .",
-          "message_type": "system",
-          "date_time": "2026-02-04 10:07:21.286"
-        },
-        {
-          "message_media": [],
-          "message_text": "Birkenstock: Polished Dark Teal & Ecru. Arizona Droplet Buckle with hints of spring. Shop now: birkenstock.attn.tv/avmhbbY3mqpi .",
-          "message_type": "system",
-          "date_time": "2026-02-05 09:12:15.667"
-        },
-        {
-          "message_media": [],
-          "message_text": "Birkenstock: The Mary Jane Edit. Shop supportive flats for more polished style moments: birkenstock.attn.tv/a3RLPQ94XL5W .",
-          "message_type": "system",
-          "date_time": "2026-02-06 09:37:09.804"
-        },
-        {
-          "message_media": [],
-          "message_text": "Birkenstock: Step into lasting comfort with the Santa Clarita Leather Flats—contoured cork-latex footbed gives you support for all-day wear.\n\nFree returns for 30 days.\n\nYour next pair is here: https://birkenstock.attn.tv/a1qAz5LwfkY9 .",
-          "message_type": "system",
-          "date_time": "2026-02-06 10:46:06.338"
-        },
-        {
-          "message_media": [],
-          "message_text": "Birkenstock: The return of the Mary Jane. Shop classic flats in Black, Silver & Sandcastle: birkenstock.attn.tv/aDAq-kcQGeh6 .",
-          "message_type": "system",
-          "date_time": "2026-02-07 09:01:07.160"
-        },
-        {
-          "message_media": [],
-          "message_text": "Birkenstock: Hey there—thanks for stopping by!\n\nYour next pair is here: https://birkenstock.attn.tv/aD7L1jJwmOZW . 👟",
-          "message_type": "system",
-          "date_time": "2026-02-07 20:18:34.743"
-        },
-        {
-          "message_media": [],
-          "message_text": "Birkenstock: Just restocked Paris Chunky in Dark Tea. Shop your size before everyone else: birkenstock.attn.tv/aDkOG4Scab36 .",
-          "message_type": "system",
-          "date_time": "2026-02-10 12:30:21.791"
-        },
-        {
-          "message_media": [],
-          "message_text": "Birkenstock: Discover the Buckley clog in fresh hues, highlighting every detail. https://birkenstock.attn.tv/adLfbjam7zDY .\nQuestions? Reply back. -Taylor",
-          "message_type": "system",
-          "date_time": "2026-02-10 18:23:32.103"
-        },
-        {
-          "message_media": [],
-          "message_text": "Birkenstock: Spring Collection arrivals & you're first. Shop Pure Sage suede, Soft Pink sandals and Faded Purple clogs: birkenstock.attn.tv/aB4ZVvjZ0wtm .",
-          "message_type": "system",
-          "date_time": "2026-02-11 09:10:50.668"
-        },
-        {
-          "message_media": [],
-          "message_text": "Birkenstock: London style, anywhere comfort. Shops shoes for everyday wear: birkenstock.attn.tv/a4ckTLdoSjLK \nText back with any questions.\n-Taylor\n",
-          "message_type": "system",
-          "date_time": "2026-02-11 19:08:12.073"
-        },
-        {
-          "message_media": [],
-          "message_text": "Birkenstock: The first spring arrivals. Shop new Oyster suede, Soft Pink sandals & platforms: birkenstock.attn.tv/aS2rJq41Sl8Y .\n\nFit help? Text back. - Taylor",
-          "message_type": "system",
-          "date_time": "2026-02-12 14:03:14.308"
-        },
-        {
-          "message_media": [],
-          "message_text": "Birkenstock: New Buckley Braided clogs. A twist on texture with a braided oiled leather strap. Shop the look: birkenstock.attn.tv/a3aGg31uTeoa .",
-          "message_type": "system",
-          "date_time": "2026-02-13 18:14:09.898"
-        },
-        {
-          "message_media": [],
-          "message_text": "Birkenstock: Topping your Last Chance list: Exquisite leather platforms & cozy teddy shearling. Shop now: birkenstock.attn.tv/ajUNxbsxZCjW .",
-          "message_type": "system",
-          "date_time": "2026-02-15 16:13:11.657"
-        },
-        {
-          "message_media": [],
-          "message_text": "Birkenstock: Garden colors are springing up. Shop new Pink Clay, Carafe & our perennial green, Pure Sage: birkenstock.attn.tv/avDSwPCDPqlQ .",
-          "message_type": "system",
-          "date_time": "2026-02-16 19:15:21.362"
-        },
-        {
-          "message_media": [],
-          "message_text": "How do I exchange a par I just got?",
+          "message_text": "Extra may be taxes?",
           "message_type": "customer",
-          "date_time": "2026-02-16 19:15:51.779"
+          "date_time": "2026-02-10 18:02:00.338"
         },
         {
           "message_media": [],
-          "message_text": "Template used: \"Can I exchange for a different width / style?\"; last updated: 2024-02-09 15:03:26.677",
-          "message_type": "template",
-          "date_time": "2026-02-16 19:32:22.888"
-        },
-        {
-          "message_media": [],
-          "message_text": "Template used: \"How do I start an exchange?\"; last updated: 2023-10-27 20:41:13.327",
-          "message_type": "template",
-          "date_time": "2026-02-16 19:32:22.888"
-        },
-        {
-          "message_media": [],
-          "message_text": "Template used: \"Return policy\"; last updated: 2024-12-12 15:59:44.099",
-          "message_type": "template",
-          "date_time": "2026-02-16 19:32:22.888"
-        },
-        {
-          "message_media": [],
-          "message_text": "Birkenstock: Thanks for getting in touch! I'd be happy to help! To start an exchange, please contact our customer service team via this link: https://birkenstock.attn.tv/amdiSpB3MNdc \n\nItems may be returned in original purchase condition and packaging within 30 days of delivery, with the exception of select Last Chance items. Select Last Chance items are final sale (as shown on the site) and cannot be returned or exchanged. A Last Chance item can be identified by having a struck-thru base price, with a reduced price adjacent. More details at the link below:\nhttps://birkenstock.attn.tv/auts1IZxL5RN",
+          "message_text": "Pink Lily: Thanks for getting in touch! I'd be happy to help! Could you give me more context of your concern so I can assist you? Are you trying to purchase an item and are being charged for taxes?",
           "message_type": "agent",
           "agent": "109840",
-          "message_id": "019c6903-3152-4ed7-f000-00006ae2184c",
-          "date_time": "2026-02-16 19:32:22.892"
-        }
-      ],
-      "notes": {
-        "escalate": [
-          "For all pre-purchase and post purchase ESC always include the customers full name in the notes",
-          "Don't ESC if they get an error with the fs code while logged in"
-        ],
-        "templates": [
-          "For free shipping retroactive code requests, use SRP shortcut",
-          "For holiday/extended returns - use the template"
-        ],
-        "dos_and_don_ts": [
-          "Close the convo once the client takes over",
-          "🤖 If someone sends a product category, link them to the category and ask if they are looking for something specific"
-        ]
-      },
-      "rightPanel": {
-        "source": {
-          "label": "Website",
-          "value": "https://birkenstock.com",
-          "date": ""
-        },
-        "browsingHistory": [
-          {
-            "item": "Buy Santa Clarita Natural Leather for USD 139.95 | Birkenstock US",
-            "link": "https://www.birkenstock.com/us/santa-clarita-natural-leather/santaclarita-smoothleather-naturalleather-S004865-eva-w_109.html",
-            "timeAgo": "2026-02-07"
-          },
-          {
-            "item": "Buy Santa Clarita Natural Leather for USD 139.95 | Birkenstock US",
-            "link": "https://www.birkenstock.com/us/santa-clarita-natural-leather/santaclarita-smoothleather-naturalleather-S004865-eva-w_109.html",
-            "timeAgo": "2026-02-07"
-          },
-          {
-            "item": "Buy Santa Clarita Natural Leather for USD 139.95 | Birkenstock US",
-            "link": "https://www.birkenstock.com/us/santa-clarita-natural-leather/santaclarita-smoothleather-naturalleather-S004865-eva-w_109.html?utm_campaign=browse_abandonment-ai&utm_medium=sms&utm_source=attentive&externalId=vVqnN",
-            "timeAgo": "2026-02-06"
-          },
-          {
-            "item": "Buy Santa Clarita Natural Leather for USD 139.95 | Birkenstock US",
-            "link": "https://www.birkenstock.com/us/santa-clarita-natural-leather/santaclarita-smoothleather-naturalleather-S004865-eva-w_109.html",
-            "timeAgo": "2026-02-06"
-          },
-          {
-            "item": "Buy Santa Clarita Natural Leather for USD 139.95 | Birkenstock US",
-            "link": "https://www.birkenstock.com/us/santa-clarita-natural-leather/santaclarita-smoothleather-naturalleather-S004865-eva-w_109.html",
-            "timeAgo": "2026-02-06"
-          }
-        ],
-        "orders": [
-          {
-            "orderNumber": "521286919",
-            "orderDate": "2026-02-07",
-            "items": [
-              {
-                "name": "Santa Clarita Leather Silver",
-                "price": 139.95,
-                "productLink": "https://www.birkenstock.com/ca/santa-clarita-natural-leather/santaclarita-smoothleather-naturalleather-S004865-eva-w_109.html"
-              },
-              {
-                "name": "Santa Clarita Leather Silver",
-                "price": 139.95,
-                "productLink": "https://www.birkenstock.com/us/santa-clarita-natural-leather/santaclarita-smoothleather-naturalleather-S004865-eva-w_109.html"
-              }
-            ],
-            "total": 139.95,
-            "date_time": "2026-02-07 22:40:53.427"
-          },
-          {
-            "orderNumber": "513490745",
-            "orderDate": "2025-02-08",
-            "items": [
-              {
-                "name": "Arizona Flex Platform Birko-Flor Patent Steel Magenta",
-                "price": 120,
-                "productLink": "https://www.birkenstock.com/ca/arizona-pap-flex-platform-birko-flor-patent/arizona-266773-birkoflorpatent-0-eva-w_10487.html"
-              },
-              {
-                "name": "Arizona Flex Platform Birko-Flor Patent Steel Magenta",
-                "price": 120,
-                "productLink": "https://www.birkenstock.com/us/arizona-pap-flex-platform-birko-flor-patent/arizona-266773-birkoflorpatent-0-eva-w_10487.html"
-              }
-            ],
-            "total": 120,
-            "date_time": "2025-02-08 16:42:18.927"
-          },
-          {
-            "orderNumber": "512599978",
-            "orderDate": "2024-11-22",
-            "items": [
-              {
-                "name": "Arizona Big Buckle Shearling Fuchsia Tulip",
-                "price": 99,
-                "productLink": "https://www.birkenstock.com/us/arizona-big-buckle-fur/arizonabigbuckleteddyrivetlogoos-teddy-fur-0-eva-w_1621.html"
-              },
-              {
-                "name": "Arizona Big Buckle Shearling Fuchsia Tulip",
-                "price": 99,
-                "productLink": "https://www.birkenstock.com/ca/arizona-big-buckle-fur/arizonabigbuckleteddyrivetlogoos-teddy-fur-0-eva-w_1621.html"
-              }
-            ],
-            "total": 99,
-            "date_time": "2024-11-22 17:45:42.936"
-          },
-          {
-            "orderNumber": "512057032",
-            "orderDate": "2024-09-19",
-            "items": [
-              {
-                "name": "Boston Chunky Suede Leather Berry Crush",
-                "price": 150,
-                "productLink": "https://www.birkenstock.com/ca/boston-chunky-suede-leather/bostonpapchunky-chunkysuede-suedeleather-0-eva-w_11853.html"
-              },
-              {
-                "name": "Boston Chunky Suede Leather Berry Crush",
-                "price": 150,
-                "productLink": "https://www.birkenstock.com/us/boston-chunky-suede-leather/bostonpapchunky-chunkysuede-suedeleather-0-eva-w_11853.html"
-              }
-            ],
-            "total": 150,
-            "date_time": "2024-09-19 16:41:59.245"
-          },
-          {
-            "orderNumber": "59952428",
-            "orderDate": "2024-05-02",
-            "items": [
-              {
-                "name": "Gizeh Platform Leather Black",
-                "price": 220,
-                "productLink": "https://www.birkenstock.com/ca/gizeh-platform-natural-leather/gizeh-platformsmu-naturalleather-0-eva-w_3974.html"
-              },
-              {
-                "name": "Gizeh Platform Leather Black",
-                "price": 220,
-                "productLink": "https://www.birkenstock.com/us/gizeh-platform-natural-leather/gizeh-platformsmu-naturalleather-0-eva-w_3974.html"
-              }
-            ],
-            "total": 148.95,
-            "date_time": "2024-05-02 16:34:18.688"
-          }
-        ]
-      },
-      "escalation_preferences": [
-        "Shipping codes"
-      ],
-      "blocklisted_words": [],
-      "has_shopify": false
-    },
-    "105": {
-      "id": "019c7361-33fa-47ac-f000-00001057c468",
-      "companyName": "Maxaroma",
-      "companyWebsite": "https://maxaroma.com",
-      "agentName": "Sarah",
-      "messageTone": "Polished",
-      "conversation": [
-        {
-          "message_media": [],
-          "message_text": "MaxAroma: You tried it. Now own it.\nBuy any House of Dastan 100ML and pick a FREE second fragrance from our gift selection.\nShpw Now: maxaroma.attn.tv/a94SWs3hheD4  Stop to stop",
-          "message_type": "system",
-          "date_time": "2026-01-20 18:15:34.384"
-        },
-        {
-          "message_media": [],
-          "message_text": "MaxAroma: FINAL COUNTDOWN\nPrices go up soon. Lock yours now.\nGet 30-50% OFF + EXTRA 10% OFF\n\nUse code: FINAL10 (before Feb 1)\n\n-Creed, \n-Parfums De Marly, \n-Xerjoff, \n-Micallef, \n-Maison Crivelli, \n-Merchant Of Venice\n-Bond No 9\n-Spriti Of Dubai\n-Nishane\n- INITIO\nShop Now: maxaroma.attn.tv/ao8ksG-ADTnT  Stop to stop",
-          "message_type": "system",
-          "date_time": "2026-01-26 17:15:33.772"
-        },
-        {
-          "message_media": [],
-          "message_text": "MaxAroma: 8 Hours Left , Don't miss our BOGO Event. Buy one get one 80% OFF Select brands\n- bdk Parfums\n- AKRO\n- Goldfield & Banks\n- Atelier Materi\n- Spririt Of Kings\n- Pantheon Roma\n- Profumi Di Polignano\n- NIcheend\n\nAct Fast. Before it expires tonight at 11:59 PST,\nmaxaroma.attn.tv/a7XnY3Rc7pOD \n Stop to stop",
-          "message_type": "system",
-          "date_time": "2026-02-01 19:30:20.490"
-        },
-        {
-          "message_media": [],
-          "message_text": "MaxAroma: Members, your rewards are unlocked! Enjoy exclusive savings on your favorite fragrances: \n\n- Extra $10 OFF $120+ (VDAY10)\n- Extra $30 OFF $280+ (VDAY30)\n- Extra $100 OFF $750+ (VDAY100)\n\nTreat yourself to something special today! ends 2/11\nmaxaroma.attn.tv/a6M6lbsrsOBR  Stop to stop",
-          "message_type": "system",
-          "date_time": "2026-02-08 16:15:30.833"
-        },
-        {
-          "message_media": [],
-          "message_text": "MaxAroma: Get 20-50% OFF + EXTRA 10% OFF\n\nUse code: EXTRA10 (before Feb 18)\n\n-Xerjoff, \n-Stephane Humbert Lucas\n-bdk Parfums, \n-Goldfield & Banks, \n-Boadicea The Victorious\n-Parfums De Marly\n-Creed\n-Mind Games\n-Clive Christian\n- INITIO\nShop Now: maxaroma.attn.tv/arMwWbnAgbPQ  Stop to stop",
-          "message_type": "system",
-          "date_time": "2026-02-15 13:50:25.471"
-        },
-        {
-          "message_media": [],
-          "message_text": "MaxAroma: Still thinking about: Initio Oud For Greatness \nTell us what you need so we can help:\nReply 1 for I'm looking for a better offer\nReply 2 for Not Interested\nReply 3 for Learn more about this brand Stop to stop",
-          "message_type": "system",
-          "date_time": "2026-02-18 08:13:09.223"
-        },
-        {
-          "message_media": [],
-          "message_text": "Checking on mailing status for order #: OR915441",
-          "message_type": "customer",
-          "date_time": "2026-02-18 19:49:39.558"
-        },
-        {
-          "message_media": [],
-          "message_text": "Template used: \"Order status/order tracking\"; last updated: 2023-02-15 23:06:50.812",
-          "message_type": "template",
-          "date_time": "2026-02-18 19:51:16.137"
-        },
-        {
-          "message_media": [],
-          "message_text": "Template used: \"Post Purchase Inquiries \"; last updated: 2024-02-12 22:54:50.533",
-          "message_type": "template",
-          "date_time": "2026-02-18 19:51:16.137"
-        },
-        {
-          "message_media": [],
-          "message_text": "MaxAroma: Hi, thanks for reaching out. I'm sorry, but I have limited access to your account. We don't handle post-purchase requests via text. Please submit your request at customercare@maxaroma.com or feel free to call this number 1-844-552-7662. Please let me know if you have any questions about our products, I'm more than happy to help out! \n \nIn the meantime, you can use our convenient online tool to see the latest updates on your order: https://maxaroma.attn.tv/alNydPZ5lwzf",
-          "message_type": "agent",
-          "agent": "109630",
-          "message_id": "019c7361-33fa-47ac-f000-00001057c468",
-          "date_time": "2026-02-18 19:51:16.141"
+          "message_id": "019c49cd-c9ac-4bee-f000-000024fce95e",
+          "date_time": "2026-02-10 18:05:49.264"
         }
       ],
       "notes": {
         "send_to_cs": [
-          "Send to CS for post purchase issues, use PPI shortcut"
+          "No ESC for this client, send everything to CS",
+          "➜ For post purchase issues use PPI shortcut"
+        ],
+        "tone": [
+          "Close the convo once the client takes over!"
+        ],
+        "templates": [
+          "if cx message \"CREATOR,\" use CR shortcut"
         ]
       },
       "rightPanel": {
         "source": {
           "label": "Website",
-          "value": "https://maxaroma.com",
+          "value": "https://pinklily.com",
           "date": ""
         },
         "browsingHistory": [
           {
-            "item": "Initio Oud For Greatness",
-            "link": "https://www.maxaroma.com/fragrance/niche-fragrances/initio-oud-for-greatness/pid/36053/2?utm_source=google&utm_medium=cpc&utm_campaign=product&gad_source=1&gad_campaignid=22118802157&gclid=CjwKCAiAwNDMBhBfEiwAd7ti1MQZyVJOA_EKA7C1HkpkRXGVDm3J2zH3ceh4R7RupOOPBo3TRhuFFBoCN3cQAvD_BwE",
-            "timeAgo": "2026-02-18"
+            "item": "All Or Nothing Black Multi Striped Fitted Square Neck Sweater - Extra Small",
+            "link": "https://pinklily.com/products/black-multi-striped-fitted-square-neck-sweater",
+            "timeAgo": "2023-10-16"
+          }
+        ]
+      },
+      "escalation_preferences": [],
+      "blocklisted_words": [],
+      "has_shopify": true
+    },
+    "105": {
+      "id": "019c6cc5-ed50-4b45-f000-0000fb90af02",
+      "companyName": "Plank Mattress",
+      "companyWebsite": "https://plankmattress.com",
+      "agentName": "",
+      "messageTone": "Polished",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "Plank Mattress: Welcome to Plank Mattress! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
+          "message_type": "system",
+          "date_time": "2026-02-15 01:23:31.637"
+        },
+        {
+          "message_media": [],
+          "message_text": "Plank Mattress: Congrats! Your offer has been activated and can be redeemed here: https://plankmattress.attn.tv/a4Xpl7kWH8He \n\nI'm Sarah. I'm here to answer any and all questions, just text back for personal shopping assistance! \nLet me know if you need any help!\n",
+          "message_type": "system",
+          "date_time": "2026-02-15 01:23:35.596"
+        },
+        {
+          "message_media": [],
+          "message_text": "Plank Mattress: PS Don't forget to add us to your phonebook!",
+          "message_type": "system",
+          "date_time": "2026-02-15 01:23:36.691"
+        },
+        {
+          "message_media": [],
+          "message_text": "Plank Mattress: Your Plank Firm Luxe is waiting patiently to give you your best night's sleep. Come back to complete your purchase! https://plankmattress.attn.tv/amwdS46M3ykZ ",
+          "message_type": "system",
+          "date_time": "2026-02-15 12:19:45.794"
+        },
+        {
+          "message_media": [],
+          "message_text": "Plank Mattress: Final chance to save 30% 🚨 Presidents Day deals are coming to an end. Shop now: plankmattress.attn.tv/av_-sIgOn7T7 ",
+          "message_type": "system",
+          "date_time": "2026-02-16 12:10:12.762"
+        },
+        {
+          "message_media": [],
+          "message_text": "Plank Mattress: Just HOURS left to get 30% OFF Plank! It's time to get the sleep you deserve. Shop now for a limited time: plankmattress.attn.tv/aYKUNFH_HzQ1 ",
+          "message_type": "system",
+          "date_time": "2026-02-16 18:35:06.943"
+        },
+        {
+          "message_media": [],
+          "message_text": "Plank Mattress: Hey there! Your Plank Firm Luxe is waiting patiently to give you your best night's sleep.\n\nDid you have any questions I could help with?\n-Sarah\n https://plankmattress.attn.tv/afgr49Czq47G \n",
+          "message_type": "system",
+          "date_time": "2026-02-17 12:39:05.670"
+        },
+        {
+          "message_media": [],
+          "message_text": "Yes, I'm requesting the delivery be between March. Second, and march fifth, as I will not be available before then.Is that okay",
+          "message_type": "customer",
+          "date_time": "2026-02-17 12:40:01.899"
+        },
+        {
+          "message_media": [],
+          "message_text": "Plank Mattress: I understand your concern! All products shipped from our manufacturing facility are delivered via national carrier, typically FedEx. Once a shipping label is created and products leave our facility, the final delivery date is at the discretion of the carrier. While we cannot guarantee that a product shipment will arrive on a customer's preferred date, we can delay a shipment to ensure it arrives after a specified date. Please feel free to reach out to our customer service team at 1-888-210-8751 so that we can best accommodate any special requests.",
+          "message_type": "agent",
+          "agent": "46498",
+          "message_id": "019c6cb6-a1ce-46e7-f000-0000fb90af02",
+          "date_time": "2026-02-17 12:47:14.287"
+        },
+        {
+          "message_media": [],
+          "message_text": "So could you please do that?Delay the shipment",
+          "message_type": "customer",
+          "date_time": "2026-02-17 12:48:42.010"
+        },
+        {
+          "message_media": [],
+          "message_text": "Plank Mattress: Absolutely! We can help with that. While we can't guarantee delivery on a specific preferred date, we can delay your shipment to ensure it arrives after the date you specify. Please reach out to our customer service team at 1-888-210-8751 with the details, and we'll make sure your request is accommodated. Let me know if there's anything else I can help you with.",
+          "message_type": "agent",
+          "agent": "109972",
+          "message_id": "019c6cc5-ed50-4b45-f000-0000fb90af02",
+          "date_time": "2026-02-17 13:03:56.654"
+        }
+      ],
+      "notes": {},
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://plankmattress.com",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "Plank Firm",
+            "link": "https://plankmattress.com/products/plank",
+            "timeAgo": "2026-02-17"
           },
           {
-            "item": "Lorenzo Pazzaglia Sun-Gria",
-            "link": "https://www.maxaroma.com/fragrance/niche-fragrances/lorenzo-pazzaglia-sun-gria/pid/33975/2?gad_source=1&gclid=CjwKCAjwk43ABhBIEiwAvvMEB0X3GfLs5XHtFvNXn1BJq5hHhmRSaWyxKvfc0bMMI2XeD_4vEk_FWRoCa30QAvD_BwE",
-            "timeAgo": "2025-04-20"
+            "item": "Plank Firm Luxe",
+            "link": "https://plankmattress.com/products/plank-hybrid",
+            "timeAgo": "2026-02-17"
           },
           {
-            "item": "House of Dastan Light Breeze",
-            "link": "https://www.maxaroma.com/fragrance/niche-fragrances/house-of-dastan-light-breeze/pid/35742/2?utm_source=google&utm_medium=cpc&utm_campaign=product&gad_source=1&gclid=CjwKCAjwk43ABhBIEiwAvvMEB-fGtPlHJoVowUEJnr96H96ik0s9E5edW9oMKfIXX7fLiZyFUuUQyBoCdXEQAvD_BwE",
-            "timeAgo": "2025-04-20"
+            "item": "Plank Firm Luxe",
+            "link": "https://plankmattress.com/products/plank-hybrid/queen-no",
+            "timeAgo": "2026-02-17"
           },
           {
-            "item": "The Spirit of Dubai Haibah",
-            "link": "https://www.maxaroma.com/pocket-perfume/unisex/the-spirit-of-dubai-haibah/pid/32303/71?gad_source=1&gclid=Cj0KCQjwhMq-BhCFARIsAGvo0KdyHKvtEkifmbQOKM9d4z3YJpu8CVNGsjbdd0nLcwpQGSe95X-QWAEaAu7lEALw_wcB",
-            "timeAgo": "2025-03-13"
+            "item": "Plank Firm Luxe",
+            "link": "https://plankmattress.com/products/plank-hybrid",
+            "timeAgo": "2026-02-17"
           },
           {
-            "item": "Thameen Carved Oud",
-            "link": "https://www.maxaroma.com/fragrance/niche-fragrances/thameen-carved-oud/pid/34257/2",
-            "timeAgo": "2025-02-17"
+            "item": "Plank Firm Luxe",
+            "link": "https://plankmattress.com/products/plank-hybrid?irgwc=1&afsrc=1&irclickid=1mTwiT0RuxyZRdi0yhQwAxeEUkuxqTyHPQ7qTM0&utm_source=impact&utm_content=1316065&utm_medium=1295044&ir_campaignid=14794&ir_adid=1295044&ir_partnerid=1316065",
+            "timeAgo": "2026-02-17"
           }
         ],
         "orders": [
           {
-            "orderNumber": "OR706968",
-            "orderDate": "2025-02-17",
+            "orderNumber": "6508312395912",
+            "orderDate": "2026-02-17",
             "items": [
               {
-                "name": "Thameen Green Pearl",
-                "price": 104,
-                "productLink": "https://www.maxaroma.com/fragrance/niche-fragrances/thameen-green-pearl/pid/34455/2"
-              }
-            ],
-            "total": 104,
-            "date_time": "2025-02-17 04:54:26.340"
-          },
-          {
-            "orderNumber": "OR706952",
-            "orderDate": "2025-02-17",
-            "items": [
-              {
-                "name": "House of Dastan Light Breeze",
-                "price": 0,
-                "productLink": "https://www.maxaroma.com/fragrance/niche-fragrances/house-of-dastan-light-breeze/pid/36086/2"
-              }
-            ],
-            "total": 197,
-            "date_time": "2025-02-17 04:37:00.939"
-          },
-          {
-            "orderNumber": "OR706952",
-            "orderDate": "2025-02-17",
-            "items": [
-              {
-                "name": "Thameen Peacock Throne",
-                "price": 102,
-                "productLink": "https://www.maxaroma.com/fragrance/niche-fragrances/thameen-peacock-throne/pid/34613/2"
+                "name": "Luxury Cooling Mattress Protector",
+                "price": 129,
+                "productLink": "https://plankmattress.myshopify.com/products/luxury-cooling-mattress-protector"
               },
               {
-                "name": "Thameen Amber Room",
-                "price": 95,
-                "productLink": "https://www.maxaroma.com/fragrance/niche-fragrances/thameen-amber-room/pid/30971/2"
+                "name": "Plank Firm",
+                "price": 1332,
+                "productLink": "https://plankmattress.myshopify.com/products/plank"
               }
             ],
-            "total": 197,
-            "date_time": "2025-02-17 04:37:00.931"
-          },
-          {
-            "orderNumber": "OR706952",
-            "orderDate": "2025-02-17",
-            "items": [
-              {
-                "name": "House of Dastan You?",
-                "price": 0,
-                "productLink": "https://www.maxaroma.com/fragrance/unisex/house-of-dastan-you/pid/36085/4"
-              }
-            ],
-            "total": 197,
-            "date_time": "2025-02-17 04:37:00.926"
-          },
-          {
-            "orderNumber": "OR703945",
-            "orderDate": "2025-02-11",
-            "items": [
-              {
-                "name": "Thameen Carved Oud",
-                "price": 120,
-                "productLink": "https://www.maxaroma.com/fragrance/niche-fragrances/thameen-carved-oud/pid/30973/2"
-              }
-            ],
-            "total": 120,
-            "date_time": "2025-02-11 20:24:58.872"
+            "total": 1461,
+            "date_time": "2026-02-17 01:33:28.245"
           }
         ]
       },
-      "escalation_preferences": [
-        "Shipping questions",
-        "Discount code errors",
-        "Exchanges and returns"
+      "escalation_preferences": [],
+      "blocklisted_words": [
+        "AI"
       ],
-      "blocklisted_words": [],
-      "has_shopify": false
+      "has_shopify": true
     }
   }
 }

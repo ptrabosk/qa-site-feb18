@@ -3,460 +3,510 @@
   "chunk": "chunk_0002",
   "scenarios": {
     "6": {
-      "id": "019c68f2-0dc8-4cae-f000-0000d9d7e89d",
-      "companyName": "Montblanc",
-      "companyWebsite": "https://montblanc.com",
-      "agentName": "Sarah",
+      "id": "019c5efd-8c69-4962-f000-0000fb5d6e63",
+      "companyName": "Venus ET Fleur",
+      "companyWebsite": "https://venusetfleur.com",
+      "agentName": "Megan",
       "messageTone": "Polished",
       "conversation": [
         {
           "message_media": [],
-          "message_text": "Montblanc: Discover the latest leather creations from our Spring/Summer 2026 Collection. Explore now: montblanc.attn.tv/avlPfKKlFIfx",
+          "message_text": "Venus et Fleur: Welcome! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
           "message_type": "system",
-          "date_time": "2026-01-30 17:00:49.965"
+          "date_time": "2026-02-13 17:58:36.075"
         },
         {
           "message_media": [],
-          "message_text": "Montblanc: This Valentine's Day, write from the heart to accompany a gift for someone you love. Explore now: montblanc.attn.tv/apPCIOl8rfC6 ",
+          "message_text": "Venus et Fleur: Welcome to Venus et Fleur! I'm Megan, your personal concierge and we are excited to have you experience our Eternity® Blooms. I've arranged for Complimentary Standard Shipping on your first order with the code MZZ7KRM5. \n\nDiscover our garden of Real Flowers That Last A Year: \nhttps://venusetfleur.attn.tv/aiQKT0wcMmdc ",
           "message_type": "system",
-          "date_time": "2026-02-11 14:00:51.598"
+          "date_time": "2026-02-13 17:58:39.048"
         },
         {
           "message_media": [],
-          "message_text": "Montblanc: Hi Ashna, this is Sarah. Thanks for visiting Montblanc.com. Are you looking for anything in particular today? https://montblanc.attn.tv/asixUlVCIjnQ ",
+          "message_text": "Venus et Fleur: Don't forget to save our contact information:",
           "message_type": "system",
-          "date_time": "2026-02-16 14:06:22.382"
+          "date_time": "2026-02-13 17:58:43.934"
         },
         {
           "message_media": [],
-          "message_text": "Hi Sarah, yes",
+          "message_text": "Venus et Fleur: Happy Valentine's Day! 🌹 There's STILL TIME to surprise them with Real Flowers That Last A Year. \n\nOrder by 12 NOON TODAY to receive your order with HAND-DELIVERY. (Available Only in the Tri-State Area) \n\nMake their day: venusetfleur.attn.tv/aJFW8C4sZtky ",
+          "message_type": "system",
+          "date_time": "2026-02-14 09:30:50.438"
+        },
+        {
+          "message_media": [],
+          "message_text": "Venus et Fleur: Enjoy Complimentary Standard Shipping for only a few more days. \n\nYou can use your exclusive code MZZ7KRM5 at checkout. Shop Eternity® florals for any occasion here:venusetfleur.attn.tv/a9URthUj-42S \n\nPlease do not hesitate to reach out via text if you have any questions. I would be happy to assist you with securing your order for this occasion and more.\n\n- Megan",
+          "message_type": "system",
+          "date_time": "2026-02-14 17:58:50.495"
+        },
+        {
+          "message_media": [],
+          "message_text": "Help",
           "message_type": "customer",
-          "date_time": "2026-02-16 18:41:54.029"
+          "date_time": "2026-02-14 18:35:33.200"
         },
         {
           "message_media": [],
-          "message_text": "Montblanc: Thank you for reaching out. That's fantastic. May I know what item you are looking for so I can assist you further?\n\nAlso, you can check out our new arrivals here: https://montblanc.attn.tv/a94zaL0RqHOA",
+          "message_text": "Venus et Fleur: Hello, thank you for reaching out! How can I help you?\n",
           "message_type": "agent",
-          "agent": "48804",
-          "message_id": "019c68e0-234e-4924-f000-0000d9d7e89d",
-          "date_time": "2026-02-16 18:54:05.550"
+          "agent": "39001",
+          "message_id": "019c5ea4-e750-4ad1-f000-0000fb5d6e63",
+          "date_time": "2026-02-14 19:13:11.408"
         },
         {
           "message_media": [],
-          "message_text": "I am looking at the Pix black ball point pen in Navy blue. I want to pick it up from the store tomorrow because i want to gift it to my husband as an anniversary present",
+          "message_text": "I've been waiting for a delivery today",
           "message_type": "customer",
-          "date_time": "2026-02-16 18:55:34.426"
+          "date_time": "2026-02-14 20:12:03.076"
         },
         {
           "message_media": [],
-          "message_text": "Montblanc: That's amazing! Happy anniversary to both of you. Sure, let me helo you. During the checkout process select \"Pick up in boutique\" and choose which boutique you would like to have your order delivered to. You will receive an email as soon as your order is ready to be picked up at the boutique.\n\nIn order to pick up your order, you will need to bring with you a valid ID and the shipping confirmation email (printed or on a mobile device).\n\nAlso, you can find us near you here: https://montblanc.attn.tv/aIst8nPfMKwP",
-          "message_type": "agent",
-          "agent": "48804",
-          "message_id": "019c68ed-bd0f-468d-f000-0000d9d7e89d",
-          "date_time": "2026-02-16 19:08:56.881"
-        },
-        {
-          "message_media": [],
-          "message_text": "Is the pickup going to happen at the same day?",
+          "message_text": "When I ordered it showed that I would receive the order today. I sent emails and called and was told I'd get a call back today I have heard nothing at all. This is completely unacceptable.",
           "message_type": "customer",
-          "date_time": "2026-02-16 19:10:03.222"
+          "date_time": "2026-02-14 20:12:52.712"
         },
         {
           "message_media": [],
-          "message_text": "Montblanc: Thanks for asking! Same-day pickup could be possible if the item is in stock at the boutique you choose and your order is placed early. In any case, you will receive an email as soon as your order is ready to be picked up.\n\nPlease let me know how I can assist you further today, I'm just a text away!",
+          "message_text": "Template used: \"Experience - All brands\"; last updated: 2023-10-10 18:04:21.663",
+          "message_type": "template",
+          "date_time": "2026-02-14 20:50:00.841"
+        },
+        {
+          "message_media": [],
+          "message_text": "Venus et Fleur: I'm really sorry about this, and surely, this isn't the experience I want you to have. Rest assured that feedback will be sent to the team regarding this. To help with this, may I also ask for your order number and email address? ",
           "message_type": "agent",
-          "agent": "109617",
-          "message_id": "019c68f2-0dc8-4cae-f000-0000d9d7e89d",
-          "date_time": "2026-02-16 19:13:39.684"
+          "agent": "82260",
+          "message_id": "019c5efd-8c69-4962-f000-0000fb5d6e63",
+          "date_time": "2026-02-14 20:50:00.843"
         }
       ],
       "notes": {
-        "send_to_cs": [
-          "If escalated do NOT send to CS"
-        ],
         "escalate": [
-          "ESC if a cx wants to purchase an out of stock item",
-          "ESC if cx want someone from the cs team to call them directly",
-          "ESC when a cx asks for a call back",
-          "ESC if uncertain about refills or product specific questions",
-          "ESC if cx has issues registering",
-          "ESC if cx asks for help putting through an order"
+          "ESC if cx wants their account name to be changed",
+          "ESC if cx complains that their order was canceled",
+          "If cx's ask when their order will arrive/estimated delivery date",
+          "➜  Ask what shipping method they selected at checkout",
+          "➜ If it's standard shipping use STS shortcut",
+          "➜ If they insist to know exactly when ESC",
+          "Cx gets a code for free shipping for the first purchase; you can escalate any issues after troubleshooting"
         ],
         "tone": [
-          "Close the convo once the client takes over",
-          "Don't use too many exclamation points",
-          "Use more formal language such as \"Hello\" instead of \"Hey\"",
-          "Avoid using smiley faces/emojis",
-          "Avoid responding to anything related to politics"
-        ],
-        "dos_and_don_ts": [
-          "Always use your VPN when accessing their website & make sure you're sending US links",
-          "Don't ever release information on personnel related to the company",
-          "Don't share any authorized retailers, only boutiques",
-          "Don't ask cx to leave product reviews as they don't collect them",
-          "Don't offer holiday discounts/promos",
-          "Don't mention discounted items"
+          "Don't thank the cx for the purchase, thank them for their continuous support",
+          "Don't ask the customer to contact the courier"
         ],
         "drive_to_purchase": [
-          "When D2P'ing, do not send links of the search results page, send either a related collection or product page",
-          "Do not recommend gift sets"
+          "Don't D2P when the cx already made a purchase"
+        ],
+        "promo_and_promo_exclusions": [
+          "Free shipping code is only valid for standard shipping",
+          "Standard shipping charge is usually ~ $20, if you see a charge higher than that, it means the method selected is NOT standard (create a mock cart to double-check)"
         ]
       },
       "rightPanel": {
         "source": {
           "label": "Website",
-          "value": "https://montblanc.com",
-          "date": ""
-        }
-      },
-      "escalation_preferences": [
-        "Discount code errors",
-        "Exchanges and returns",
-        "Shipping questions",
-        "Store location",
-        "store inventory",
-        "help placing an order",
-        "shipping times",
-        "cancel order"
-      ],
-      "blocklisted_words": [
-        "deals",
-        "sales",
-        "promos",
-        "promo",
-        "promotion",
-        "promotions",
-        "sale",
-        "shoot",
-        "coupon",
-        "Hey"
-      ],
-      "has_shopify": false
-    },
-    "7": {
-      "id": "019c6e2f-3622-456a-f000-000051e833fa",
-      "companyName": "HOP WTR",
-      "companyWebsite": "https://hopwtr.com",
-      "agentName": "Fin",
-      "messageTone": "Casual",
-      "conversation": [
-        {
-          "message_media": [],
-          "message_text": "HOPWTR: 40% off to finish Dry January strong!\n\nBetter choices, locked in. Code LOCKEDIN40.\n\nhopwtr.attn.tv/asXKDzRDO_UU \n",
-          "message_type": "system",
-          "date_time": "2026-01-26 17:05:19.874"
-        },
-        {
-          "message_media": [],
-          "message_text": "HOPWTR: Finish Dry January with a bang! \n\nUse code LOCKEDIN40 for 40% off, but hurry, this deal won't last.\n\nhopwtr.attn.tv/axc7xxK7a7_m",
-          "message_type": "system",
-          "date_time": "2026-01-28 17:50:14.710"
-        },
-        {
-          "message_media": [],
-          "message_text": "HOPWTR: Grab your Ruby Red Grapefruit Sparkling Hop Water, Ângela — zesty, tart, and refreshingly hoppy for guilt-free sipping.\n\nUse code SAVE10 to take $10 off your order.\n\nBuy here: https://hopwtr.attn.tv/acD4cSyZdGCa .",
-          "message_type": "system",
-          "date_time": "2026-01-28 20:18:14.129"
-        },
-        {
-          "message_media": [],
-          "message_text": "HOPWTR: Ângela, cool citrus hops await in the citrus flavors lineup—try one for a crisp, beer-like taste without the buzz.\n\nBuy here: https://hopwtr.attn.tv/aejU0BN6aOgE .",
-          "message_type": "system",
-          "date_time": "2026-01-29 10:27:21.560"
-        },
-        {
-          "message_media": [],
-          "message_text": "HOPWTR: Last chance: 40% off ends tonight\n\nUse code LOCKEDIN40 and finish Dry January strong!\n\nhopwtr.attn.tv/aXKtn_btfBkg ",
-          "message_type": "system",
-          "date_time": "2026-01-30 17:15:04.563"
-        },
-        {
-          "message_media": [],
-          "message_text": "HOPWTR: Your Super Bowl weekend deal is here! Score 30% off before kickoff!\n\nhopwtr.attn.tv/aS03fWMas-2q \n\nBe the MVP!\n\n \n\n",
-          "message_type": "system",
-          "date_time": "2026-02-06 18:10:12.275"
-        },
-        {
-          "message_media": [],
-          "message_text": "HOPWTR: Discover our hop-forward beverages made to relax and refresh. 🍺\n\nSip the hoppy vibes: https://hopwtr.attn.tv/aHhMVfpA3p6X . ACT NOW",
-          "message_type": "system",
-          "date_time": "2026-02-06 18:25:45.031"
-        },
-        {
-          "message_media": [],
-          "message_text": "HOPWTR: Last chance for 40% off both one-time and first subscription orders!\n\nhopwtr.attn.tv/afGBW22AKAXm \n\n*Discount auto-applied at checkout*",
-          "message_type": "system",
-          "date_time": "2026-02-16 13:20:26.691"
-        },
-        {
-          "message_media": [],
-          "message_text": "HOPWTR: Final hours for 40% off both one-time and first subscription orders!\n\nhopwtr.attn.tv/alURupbcujgr \n\n*Discount auto-applied at checkout*",
-          "message_type": "system",
-          "date_time": "2026-02-17 19:15:18.442"
-        },
-        {
-          "message_media": [],
-          "message_text": "It's saying 40% off but then it's not giving me 40% off",
-          "message_type": "customer",
-          "date_time": "2026-02-17 19:20:57.836"
-        },
-        {
-          "message_media": [],
-          "message_text": "HOPWTR: I'm sorry to hear that! The discount should automatically appear when you add the items to your cart. If it doesn't, please try entering the code PREZDAY at checkout. Let me know if that works!",
-          "message_type": "agent",
-          "agent": "37648",
-          "message_id": "019c6e20-ac54-44f1-f000-000051e833fa",
-          "date_time": "2026-02-17 19:22:41.003"
-        },
-        {
-          "message_media": [],
-          "message_text": "Liked “I'm sorry to hear that! The discount should automa...”",
-          "message_type": "customer",
-          "date_time": "2026-02-17 19:23:07.644"
-        },
-        {
-          "message_media": [],
-          "message_text": "OK, awesome thanks I love having one of your drinks every night before bed instead of wine",
-          "message_type": "customer",
-          "date_time": "2026-02-17 19:23:17.668"
-        },
-        {
-          "message_media": [],
-          "message_text": "HOPWTR: Love hearing that! Sounds like a tasty way to unwind every night. Cheers to skipping the wine! In the meantime, is there anything else I can help with?",
-          "message_type": "agent",
-          "agent": "109630",
-          "message_id": "019c6e23-090c-4b1e-f000-000051e833fa",
-          "date_time": "2026-02-17 19:25:15.819"
-        },
-        {
-          "message_media": [],
-          "message_text": "No Thks   I'll try that code",
-          "message_type": "customer",
-          "date_time": "2026-02-17 19:25:47.601"
-        },
-        {
-          "message_media": [
-            "https://attentive-files.s3.amazonaws.com/receive-event-media/1771374481213_5896295d-70fa-4d94-8913-d3eb8c9020a7-1.png"
-          ],
-          "message_text": "Still not giving me the 40%",
-          "message_type": "customer",
-          "date_time": "2026-02-17 19:28:08.026"
-        },
-        {
-          "message_media": [],
-          "message_text": "HOPWTR: Thanks for sharing this! I noticed that you were able to apply the code and received 40% off your order. Is there anything else you'd like me to check or help you with?",
-          "message_type": "agent",
-          "agent": "109630",
-          "message_id": "019c6e29-19dc-45f0-f000-000051e833fa",
-          "date_time": "2026-02-17 19:31:53.333"
-        },
-        {
-          "message_media": [],
-          "message_text": "No, it's still not giving me the 40% off. It did only on one item.",
-          "message_type": "customer",
-          "date_time": "2026-02-17 19:32:27.749"
-        },
-        {
-          "message_media": [],
-          "message_text": "The lime is 22.19 and it should be around $14",
-          "message_type": "customer",
-          "date_time": "2026-02-17 19:32:47.803"
-        },
-        {
-          "message_media": [],
-          "message_text": "HOPWTR: Sorry about that! Can you please send a screenshot of the items you have in your cart so I can check on this on my end?",
-          "message_type": "agent",
-          "agent": "37648",
-          "message_id": "019c6e2a-d287-43f4-f000-000051e833fa",
-          "date_time": "2026-02-17 19:33:46.160"
-        },
-        {
-          "message_media": [],
-          "message_text": "Liked “Sorry about that! Can you please send a screenshot...”",
-          "message_type": "customer",
-          "date_time": "2026-02-17 19:34:17.565"
-        },
-        {
-          "message_media": [],
-          "message_text": "HOPWTR: Grab your Lime Sparkling Hop Water, Ângela — tart, sunny, hoppy with a lime twist waiting in your cart.\n\nUse code SAVE10 to take $10 off your order with the code.\n\nShop now: https://hopwtr.attn.tv/aK-VMeXBRHZ0 .",
-          "message_type": "system",
-          "date_time": "2026-02-17 19:36:01.479"
-        },
-        {
-          "message_media": [],
-          "message_text": "Thanks",
-          "message_type": "customer",
-          "date_time": "2026-02-17 19:38:27.770"
-        },
-        {
-          "message_media": [],
-          "message_text": "HOPWTR: Thanks for getting back to me with that screenshot! To ensure I provide the most accurate answer, I'll reach out to our team for more insights. We'll get back to you as soon as we have an update. Feel free to let me know if you need help with anything else in the meantime.",
-          "message_type": "agent",
-          "agent": "109840",
-          "message_id": "019c6e2f-3622-456a-f000-000051e833fa",
-          "date_time": "2026-02-17 19:38:33.783"
-        }
-      ],
-      "notes": {},
-      "rightPanel": {
-        "source": {
-          "label": "Website",
-          "value": "https://hopwtr.com",
+          "value": "https://venusetfleur.com",
           "date": ""
         },
         "browsingHistory": [
           {
-            "item": "Lime - 12-Pack",
-            "link": "https://hopwtr.com/products/lime-non-alcoholic-sparkling-hop-water-12-pack",
-            "timeAgo": "2026-02-18"
+            "item": "Fleura Porcelain Vase - Roses / Red",
+            "link": "https://www.venusetfleur.com/products/fleura-vase?variant=39841289797676",
+            "timeAgo": "2026-02-13"
           },
           {
-            "item": "Lime - 12-Pack",
-            "link": "https://hopwtr.com/products/lime-non-alcoholic-sparkling-hop-water-12-pack",
-            "timeAgo": "2026-02-18"
+            "item": "Large Round - White Classic / Pure White",
+            "link": "https://www.venusetfleur.com/products/large-round-white-classic?variant=39648680476716",
+            "timeAgo": "2026-02-13"
           },
           {
-            "item": "Ruby Red Grapefruit - 12-pack",
-            "link": "https://hopwtr.com/products/ruby-red-grapefruit-non-alcoholic-sparkling-hop-water",
-            "timeAgo": "2026-01-29"
+            "item": "Large Square - Black Classic / Red",
+            "link": "https://www.venusetfleur.com/products/large-square-black-classic?variant=39767768268844",
+            "timeAgo": "2026-02-13"
           },
           {
-            "item": "Centennial Citrus 12 Pack - 12-pack",
-            "link": "https://hopwtr.com/products/stone",
-            "timeAgo": "2026-01-29"
+            "item": "Large Square - Black Classic / Pearl",
+            "link": "https://www.venusetfleur.com/products/large-square-black-classic?variant=39767768268844",
+            "timeAgo": "2026-02-13"
           },
           {
-            "item": "Centennial Citrus - 12-pack",
-            "link": "https://hopwtr.com/products/stone?variant=47692618924259&utm_campaign=Launch_base&utm_medium=sms&utm_source=attentive&externalId=Rp_Ot",
-            "timeAgo": "2026-01-05"
+            "item": "Le Mini Letter - C - C / Red",
+            "link": "https://www.venusetfleur.com/products/mini-letter-c?variant=40761403506732",
+            "timeAgo": "2026-02-13"
           }
         ],
         "orders": [
           {
-            "orderNumber": "6874969473251",
-            "orderDate": "2025-12-01",
+            "orderNumber": "1012676",
+            "orderDate": "2026-02-13",
             "items": [
               {
-                "name": "NEW Ginger Limeade",
-                "price": 36.99,
-                "productLink": "https://hop-wtr-web.myshopify.com/products/ginger-limeade-non-alcoholic-sparkling-hop-water"
-              },
-              {
-                "name": "Checkout+",
-                "price": 0.98,
-                "productLink": "https://hop-wtr-web.myshopify.com/products/onward-package-protection"
+                "name": "Fleura Porcelain Vase",
+                "price": 429,
+                "productLink": "https://venus-et-fleur.myshopify.com/products/fleura-vase"
               }
             ],
-            "total": 27.79,
-            "coupon": "FOURTYFEELS",
-            "date_time": "2025-12-01 06:48:57.481"
-          },
-          {
-            "orderNumber": "285523",
-            "orderDate": "2025-07-02",
-            "items": [
-              {
-                "name": "Ruby Red Grapefruit",
-                "price": 36.99,
-                "productLink": "https://hop-wtr-web.myshopify.com/products/ruby-red-grapefruit-non-alcoholic-sparkling-hop-water"
-              },
-              {
-                "name": "Blood Orange",
-                "price": 36.99,
-                "productLink": "https://hop-wtr-web.myshopify.com/products/blood-orange-non-alcoholic-sparkling-hop-water-12-pack"
-              },
-              {
-                "name": "Mixed Pack | 12-Pack",
-                "price": 36.99,
-                "productLink": "https://hop-wtr-web.myshopify.com/products/variety-non-alcoholic-sparkling-hop-water-12-pack"
-              },
-              {
-                "name": "Flavor Pack | 12-Pack",
-                "price": 36.99,
-                "productLink": "https://hop-wtr-web.myshopify.com/products/flavor-pack"
-              }
-            ],
-            "link": "https://hopwtr.com/40926347419/orders/9e521f1b97d0d41ebdfa2bd3742d19b7/authenticate?key=27aa86b74f0a8d3c472acea46c2f2ee6",
-            "trackingLink": "https://www.ontrac.com/tracking/?number=D10016508069095",
-            "order_tracking_link": "https://www.ontrac.com/tracking/?number=D10016508069095",
-            "total": 110.97,
-            "date_time": "2025-07-02 21:07:41.720"
-          },
-          {
-            "orderNumber": "279413",
-            "orderDate": "2025-05-27",
-            "items": [
-              {
-                "name": "NEW Iced Tea & Lemonade",
-                "price": 36.99,
-                "productLink": "https://hop-wtr-web.myshopify.com/products/iced-tea-lemonade"
-              },
-              {
-                "name": "Black Cherry | 16oz Tall Boys",
-                "price": 42.99,
-                "productLink": "https://hop-wtr-web.myshopify.com/products/black-cherry"
-              },
-              {
-                "name": "Blood Orange",
-                "price": 36.99,
-                "productLink": "https://hop-wtr-web.myshopify.com/products/blood-orange-non-alcoholic-sparkling-hop-water-12-pack"
-              },
-              {
-                "name": "Checkout+",
-                "price": 2.55,
-                "productLink": "https://hop-wtr-web.myshopify.com/products/onward-package-protection"
-              }
-            ],
-            "link": "https://hopwtr.com/40926347419/orders/fa097d756405b22ee9ced3a4c0731b0a/authenticate?key=da9781b6d97bd56d17f0df77d11be203",
-            "trackingLink": "https://www.fedex.com/apps/fedextrack/?action=track&trackingnumber=289141299611",
-            "order_tracking_link": "https://www.fedex.com/apps/fedextrack/?action=track&trackingnumber=289141299611",
-            "total": 82.53,
-            "date_time": "2025-05-27 13:49:08.910"
-          },
-          {
-            "orderNumber": "252429",
-            "orderDate": "2025-01-26",
-            "items": [
-              {
-                "name": "Lemonade | 16oz Tall Boys",
-                "price": 42.99,
-                "productLink": "https://hop-wtr-web.myshopify.com/products/lemonade"
-              }
-            ],
-            "link": "https://hopwtr.com/40926347419/orders/c1cade941d68137d9574057840518b0b/authenticate?key=54f0aeea425e525999f6847f5be1b919",
-            "trackingLink": "https://www.fedex.com/apps/fedextrack/?action=track&trackingnumber=284781962276",
-            "order_tracking_link": "https://www.fedex.com/apps/fedextrack/?action=track&trackingnumber=284781962276",
-            "total": 63.98,
-            "coupon": "JANENDS20",
-            "date_time": "2025-01-26 19:39:58.338"
-          },
-          {
-            "orderNumber": "252429",
-            "orderDate": "2025-01-26",
-            "items": [
-              {
-                "name": "Ruby Red Grapefruit",
-                "price": 36.99,
-                "productLink": "https://hop-wtr-web.myshopify.com/products/ruby-red-grapefruit-non-alcoholic-sparkling-hop-water"
-              }
-            ],
-            "link": "https://hopwtr.com/40926347419/orders/c1cade941d68137d9574057840518b0b/authenticate?key=54f0aeea425e525999f6847f5be1b919",
-            "trackingLink": "https://www.fedex.com/apps/fedextrack/?action=track&trackingnumber=284781962276",
-            "order_tracking_link": "https://www.fedex.com/apps/fedextrack/?action=track&trackingnumber=284781962276",
-            "total": 63.98,
-            "coupon": "JANENDS20",
-            "date_time": "2025-01-26 19:39:58.248"
+            "link": "https://www.venusetfleur.com/8591856/orders/ede741760304192d3461dbca921e91aa/authenticate?key=cca09a212b14d3597080508c7571dd35",
+            "total": 541.58,
+            "date_time": "2026-02-13 23:15:07.221"
           }
         ]
       },
       "escalation_preferences": [
-        "Discount code errors",
-        "Exchanges and returns"
+        "Exchanges and returns",
+        "arrangement damages",
+        "delivery issues",
+        "post-purchase questions",
+        "inventory"
       ],
+      "blocklisted_words": [
+        "preserved",
+        "chemical",
+        "cant"
+      ],
+      "has_shopify": true
+    },
+    "7": {
+      "id": "019c4e85-7574-45f2-f000-00001958e645",
+      "companyName": "Saatchi Art",
+      "companyWebsite": "https://saatchiart.com",
+      "agentName": "Sofia",
+      "messageTone": "Polished",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "Saatchi Art: We asked our curators to share the 5 art trends gaining traction in 2026. Here's what they said: saatchiart.attn.tv/aamoVVsvBLLJ ",
+          "message_type": "system",
+          "date_time": "2026-01-14 18:01:05.943"
+        },
+        {
+          "message_media": [],
+          "message_text": "Saatchi Art: In need of a mood shift? Spark energy with a vibrant orange or destress with blue tones in our new color therapy collection. saatchiart.attn.tv/aDt2inPZDg5N ",
+          "message_type": "system",
+          "date_time": "2026-01-17 19:13:13.996"
+        },
+        {
+          "message_media": [],
+          "message_text": "Saatchi Art: Let your art do the talking. Redefine your space with these immersive works certain to draw attention. saatchiart.attn.tv/aCafavs9zzdh ",
+          "message_type": "system",
+          "date_time": "2026-01-20 18:12:05.760"
+        },
+        {
+          "message_media": [],
+          "message_text": "Saatchi Art: You don't have to be in Italy to live La Dolce Vita. Embrace the joy of life with artwork from today's emerging Italian artists. saatchiart.attn.tv/auflrJ-7nVLF ",
+          "message_type": "system",
+          "date_time": "2026-01-24 14:11:07.699"
+        },
+        {
+          "message_media": [],
+          "message_text": "Saatchi Art: The figure, redefined. Discover abstract figurative paintings that transform representation into pure feeling. saatchiart.attn.tv/agCT8Rvc706T ",
+          "message_type": "system",
+          "date_time": "2026-01-31 18:04:06.039"
+        },
+        {
+          "message_media": [],
+          "message_text": "Saatchi Art: Art buying, made easy. Explore acrylic paintings, rich in color and certain to elevate your living or dining room. saatchiart.attn.tv/ajHSQ0DtEuJa ",
+          "message_type": "system",
+          "date_time": "2026-02-03 14:05:16.208"
+        },
+        {
+          "message_media": [],
+          "message_text": "Saatchi Art: Small in scale, bold in impact. These pieces are perfect for a gallery wall or collecting sought-after artists at an accessible price. saatchiart.attn.tv/a-PEUzRVNWNO ",
+          "message_type": "system",
+          "date_time": "2026-02-07 19:02:09.253"
+        },
+        {
+          "message_media": [],
+          "message_text": "Saatchi Art: 10% off sitewide to banish those winter blues. Happy shopping: saatchiart.attn.tv/affh3vXBZiOB \n\nUse FLASH10 at checkout. Valid thru 2/17.",
+          "message_type": "system",
+          "date_time": "2026-02-11 15:14:08.599"
+        },
+        {
+          "message_media": [],
+          "message_text": "Where is my works \nArtist Khurshid Saleem",
+          "message_type": "customer",
+          "date_time": "2026-02-11 15:22:33.500"
+        },
+        {
+          "message_media": [],
+          "message_text": "Saatchi Art: I'll be happy to check on this for you. Do you mind telling me more about the issue?",
+          "message_type": "agent",
+          "agent": "33953",
+          "message_id": "019c4e68-9634-4e65-f000-00001958e645",
+          "date_time": "2026-02-11 15:33:23.033"
+        },
+        {
+          "message_media": [],
+          "message_text": "Thanks for your cooperation",
+          "message_type": "customer",
+          "date_time": "2026-02-11 15:34:37.631"
+        },
+        {
+          "message_media": [],
+          "message_text": "Saatchi Art: I'm sorry, just to be sure, did you recently sell some artwork on our website? Please share more details so that I can assist you.",
+          "message_type": "agent",
+          "agent": "33482",
+          "message_id": "019c4e6b-0ea8-47e1-f000-00001958e645",
+          "date_time": "2026-02-11 15:36:04.938"
+        },
+        {
+          "message_media": [],
+          "message_text": "No",
+          "message_type": "customer",
+          "date_time": "2026-02-11 15:36:40.096"
+        },
+        {
+          "message_media": [],
+          "message_text": "I have 11 works is listed",
+          "message_type": "customer",
+          "date_time": "2026-02-11 15:37:50.334"
+        },
+        {
+          "message_media": [],
+          "message_text": "Saatchi Art: Thank you for the details. Could you please share your email address? I will be happy to check this with my team.",
+          "message_type": "agent",
+          "agent": "87295",
+          "message_id": "019c4e6f-ba41-4a35-f000-00001958e645",
+          "date_time": "2026-02-11 15:41:11.010"
+        },
+        {
+          "message_media": [],
+          "message_text": "thenyartconnection@gmail.com",
+          "message_type": "customer",
+          "date_time": "2026-02-11 15:42:50.274"
+        },
+        {
+          "message_media": [],
+          "message_text": "Saatchi Art: Thank you! I do see your artwork here: https://saatchiart.attn.tv/aTPNFdwvv64B. They are all absolutely amazing. You are very talented! 😊 Can I help you with anything else today?",
+          "message_type": "agent",
+          "agent": "33482",
+          "message_id": "019c4e7b-9569-46bf-f000-00001958e645",
+          "date_time": "2026-02-11 15:54:08.010"
+        },
+        {
+          "message_media": [],
+          "message_text": "No I want at list saatchi art should promote my works like other artists",
+          "message_type": "customer",
+          "date_time": "2026-02-11 15:56:40.400"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"Customer support\"; last updated: 2022-12-15 17:43:08.916",
+          "message_type": "template",
+          "date_time": "2026-02-11 16:04:55.182"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"Feedback - All brands\"; last updated: 2023-10-10 18:02:56.723",
+          "message_type": "template",
+          "date_time": "2026-02-11 16:04:55.182"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"Feedback 1 - All brands\"; last updated: 2023-10-10 18:03:27.339",
+          "message_type": "template",
+          "date_time": "2026-02-11 16:04:55.182"
+        },
+        {
+          "message_media": [],
+          "message_text": "Saatchi Art: I completely understand where you're coming from, getting more visibility and promotion is very important for artists. I truly appreciate you sharing this, and I'll be sure to pass it along to our team for future consideration. Thank you so much!",
+          "message_type": "agent",
+          "agent": "109617",
+          "message_id": "019c4e85-7574-45f2-f000-00001958e645",
+          "date_time": "2026-02-11 16:04:55.186"
+        }
+      ],
+      "notes": {
+        "escalate": [
+          "Customer Details that need to be gathered for esc:",
+          "➜ Buyer Name: First & Last Name",
+          "➜ Email Address used for purchase",
+          "➜ Order Number",
+          "➜ Artwork Title/Artist",
+          "ESC any questions or concerns that need specific details about an order that cannot be answered with general information"
+        ],
+        "templates": [
+          "For art/painting/print-related questions that only the artist can answer, use ARQ shortcut"
+        ]
+      },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://saatchiart.com",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "Mountain air",
+            "link": "https://www.saatchiart.com/art/Painting-Mountain-air/1796740/12136895/view",
+            "timeAgo": "2025-01-28"
+          },
+          {
+            "item": "Dimensional Abstraction- Holiday Season",
+            "link": "https://www.saatchiart.com/art/Painting-Dimensional-Abstraction-Holiday-Season/1040610/12130879/view?utm_campaign=2528&utm_source=attentive&utm_medium=sms&utm_content=sa_2528_product_abandon&externalId=sLUE9",
+            "timeAgo": "2025-01-27"
+          },
+          {
+            "item": "Dimensional Abstraction- Holiday Season",
+            "link": "https://www.saatchiart.com/art/Painting-Dimensional-Abstraction-Holiday-Season/1040610/12130879/view?utm_campaign=2528&utm_source=attentive&utm_medium=sms&utm_content=sa_2528_product_abandon&externalId=sLUE9",
+            "timeAgo": "2025-01-27"
+          },
+          {
+            "item": "Quayside",
+            "link": "https://www.saatchiart.com/art/Painting-Quayside/423640/9480469/view?utm_source=facebook&utm_medium=paid&utm_campaign=2321&utm_term=C3_AdvantageShopping-Holiday24_FBIG_US_CO_Conversions_Evergreen_Social_Saatchi_10-01-24_Ad-Set&utm_content=25-Artists-Asset-2C_Video-Collection_Promo_15s_01-16-25_ASC&fb_campaign=C3_AdvantageShopping-Holiday24_FBIG_US_CO_Conversions_Evergreen_Social_Saatchi_10-01-24_Campaign&fbclid=IwZXh0bgNhZW0BMABhZGlkAAAGDJBNiRwBHcA009ZLv8DNbLVotMW5mHW2na4FPvYdcCXEa6_h_QETGrAunt7i4uLnlA_aem_ZZtzid4-o164t2xbZaSihQ",
+            "timeAgo": "2025-01-27"
+          },
+          {
+            "item": "Dimensional Abstraction- Holiday Season",
+            "link": "https://www.saatchiart.com/art/Painting-Dimensional-Abstraction-Holiday-Season/1040610/12130879/view",
+            "timeAgo": "2024-11-20"
+          }
+        ]
+      },
+      "escalation_preferences": [],
+      "blocklisted_words": [],
+      "has_shopify": false
+    },
+    "8": {
+      "id": "019c4e21-f0c9-4303-f000-00007f69e4ce",
+      "companyName": "Shady Rays",
+      "companyWebsite": "https://shadyrays.com",
+      "agentName": "Sam",
+      "messageTone": "Casual",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "Shady Rays: For a limited time, enjoy 30% OFF Sunglasses with a Snow purchase! Get your gear for the sun and the slopes: shadyrays.attn.tv/abz6o57FHTpn ",
+          "message_type": "system",
+          "date_time": "2026-01-18 13:01:23.565"
+        },
+        {
+          "message_media": [],
+          "message_text": "Shady Rays: Our Valentine's Day Sale is live! Get 40% off when you buy 2 or more pairs.\n\nSave now & spread the love: shadyrays.attn.tv/aSLXXTflhPzQ ",
+          "message_type": "system",
+          "date_time": "2026-01-23 17:30:31.775"
+        },
+        {
+          "message_media": [],
+          "message_text": "Shady Rays: Last Chance! Our Valentine's Day sale ends tonight. Save 40% on 2+ pairs while you can. \n\nShop Now: shadyrays.attn.tv/aPw04H98Wd2Q ",
+          "message_type": "system",
+          "date_time": "2026-01-25 14:00:35.754"
+        },
+        {
+          "message_media": [],
+          "message_text": "Shady Rays: Back by popular demand: Azalea & Calico. The retired shades you loved are back! \n\nShop the launch: shadyrays.attn.tv/a-2041T1_wVx ",
+          "message_type": "system",
+          "date_time": "2026-02-05 16:00:52.069"
+        },
+        {
+          "message_media": [],
+          "message_text": "Shady Rays: Hey , this is Sam. Thanks for stopping by! shadyrays.attn.tv/ajtT-sxPba2B .\n\nCan I help with any questions on our shades?",
+          "message_type": "system",
+          "date_time": "2026-02-11 13:49:02.254"
+        },
+        {
+          "message_media": [],
+          "message_text": "I lost my pair of glasses, do you happen to remember which pair it was I ordered?",
+          "message_type": "customer",
+          "date_time": "2026-02-11 13:50:03.275"
+        },
+        {
+          "message_media": [],
+          "message_text": "I think they were Allure but I can't find my order email to make sure before I order. :)",
+          "message_type": "customer",
+          "date_time": "2026-02-11 13:50:43.361"
+        },
+        {
+          "message_media": [],
+          "message_text": "Shady Rays: I'm really sorry for the trouble! I'm afraid I'm not seeing an order placed from your account. Could you please share your email address, full name, and shipping address? I'll be happy to look into this with my team! Also, please check your spam and promo folders as well, as our emails sometimes end up there.",
+          "message_type": "agent",
+          "agent": "87473",
+          "message_id": "019c4e0c-0f41-4723-f000-00007f69e4ce",
+          "date_time": "2026-02-11 13:52:19.170"
+        },
+        {
+          "message_media": [],
+          "message_text": "I am not sure what email I used. Shipping address: w16233 rat road, blair wi 54616 Samantha Berg Beatysam@gmail.com maybe?",
+          "message_type": "customer",
+          "date_time": "2026-02-11 14:08:20.879"
+        },
+        {
+          "message_media": [],
+          "message_text": "Shady Rays: I completely understand and thank you. I'll now have the team look into this. As soon as I hear back, I will send you a message right away! ",
+          "message_type": "agent",
+          "agent": "35256",
+          "message_id": "019c4e1c-262b-4207-f000-00007f69e4ce",
+          "date_time": "2026-02-11 14:09:53.600"
+        },
+        {
+          "message_media": [],
+          "message_text": "Sorry I have no idea what email it was.",
+          "message_type": "customer",
+          "date_time": "2026-02-11 14:12:30.722"
+        },
+        {
+          "message_media": [],
+          "message_text": "Shady Rays: No worries at all! I've passed this on to my team and I'll get back to you as soon as I get an update.",
+          "message_type": "agent",
+          "agent": "87295",
+          "message_id": "019c4e21-f0c9-4303-f000-00007f69e4ce",
+          "date_time": "2026-02-11 14:16:13.165"
+        }
+      ],
+      "notes": {
+        "escalate": [
+          "ESC restock inquiries, but use STOF shortcut first"
+        ],
+        "tone": [
+          "Close the convo if the cx first message doesn't warrant a response (e.g. Them thanking us, saying they're browsing, etc.)"
+        ],
+        "templates": [
+          "For product prescription inquiries use RPP shortcut",
+          "For prescription orders questions use RPO shortcut"
+        ],
+        "dos_and_don_ts": [
+          "If customers want to return an item - clarify if they’re trying to return a recently purchased pair or if they need a replacement"
+        ]
+      },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://shadyrays.com",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "Allure - Mahogany Polarized",
+            "link": "https://shadyrays.com/products/allure-translucent-dark-brown-polarized",
+            "timeAgo": "2026-02-11"
+          },
+          {
+            "item": "Allure - Mist Polarized",
+            "link": "https://shadyrays.com/products/allure-translucent-dark-brown-polarized",
+            "timeAgo": "2026-02-11"
+          },
+          {
+            "item": "Allure - Mist Polarized",
+            "link": "https://shadyrays.com/products/allure-translucent-matte-tan-polarized",
+            "timeAgo": "2026-02-11"
+          },
+          {
+            "item": "Allure - Mist Polarized",
+            "link": "https://shadyrays.com/products/allure-translucent-dark-brown-polarized",
+            "timeAgo": "2026-02-11"
+          },
+          {
+            "item": "Allure - Mist Polarized",
+            "link": "https://shadyrays.com/products/calimesa-blush",
+            "timeAgo": "2026-02-11"
+          }
+        ]
+      },
+      "escalation_preferences": [],
       "blocklisted_words": [],
       "has_shopify": true
     },
-    "8": {
+    "9": {
       "id": "019c71b5-6733-4d63-f000-0000fc3d1b36",
       "companyName": "Snipes",
       "companyWebsite": "https://snipesusa.com",
@@ -603,501 +653,188 @@
       ],
       "has_shopify": false
     },
-    "9": {
-      "id": "019c544d-8610-42f6-f000-00002a2dbfa3",
-      "companyName": "Tentree",
-      "companyWebsite": "https://tentree.com",
-      "agentName": "Jordan",
+    "10": {
+      "id": "019c6330-3ddc-49da-f000-00001160795e",
+      "companyName": "Joyride Dogs",
+      "companyWebsite": "https://joyrideharness.com",
+      "agentName": "Sarah",
       "messageTone": "Polished",
       "conversation": [
         {
           "message_media": [],
-          "message_text": "tentree: Going Fast: Up to 50% Off In-Season Styles. Catch these newly marked-down faves while you can. Shop Now: tentree.attn.tv/aubYvTtAhd_O ",
+          "message_text": "Joyride Dogs: Have you seen Joyride's Kitchen food & treats? \n\nYou can get 50% off your first bag!\n\njoyrideharness.attn.tv/aHlA_sgXE78C\n\n*limited time offer",
           "message_type": "system",
-          "date_time": "2026-01-16 14:00:51.719"
+          "date_time": "2026-01-18 17:55:19.115"
         },
         {
           "message_media": [],
-          "message_text": "tentree: New year, new layers. Stay warm with sustainable pieces made to move and last all season. Shop Now: tentree.attn.tv/awpe8fuQQTcO ",
+          "message_text": "Joyride Dogs: [FREE SHIPPING FLASH SALE]\n\nFree shipping, no minimums!\n\nUse code: FREEFLASH\n\njoyrideharness.attn.tv/aKYpbBWoxYOd\n\nDon't miss it!",
           "message_type": "system",
-          "date_time": "2026-01-21 14:00:41.744"
+          "date_time": "2026-01-24 15:30:17.086"
         },
         {
           "message_media": [],
-          "message_text": "tentree: The styles that built us. Shop best sellers & plant 10 trees with every item. tentree.attn.tv/aOMCquDR_PRh \n\nSTOP to cancel.",
+          "message_text": "Joyride Dogs: 3 NEW single ingredient treats JUST ADDED...\n\nyour dog will love these!\n\nCheck them out here:\n\njoyrideharness.attn.tv/a2qt_1OSRpe_\n\n",
           "message_type": "system",
-          "date_time": "2026-01-30 14:00:56.934"
+          "date_time": "2026-01-31 15:01:02.037"
         },
         {
           "message_media": [],
-          "message_text": "tentree: The Driftwood Dress is still available, don't miss out! Complete your purchase now: tentree.attn.tv/ayRxgcl2qiMY ",
+          "message_text": "Joyride Dogs: Hey, this is Sarah.\n\nCongrats on visiting our website during the BIGGEST sale of the year - get your discount while supplies last!\n\nIf you have any questions, Text back, I'm happy to help!\n\nhttps://joyrideharness.attn.tv/ay3H2NR7Z9bA",
           "message_type": "system",
-          "date_time": "2026-01-31 08:30:59.230"
+          "date_time": "2026-02-02 12:52:27.228"
         },
         {
           "message_media": [],
-          "message_text": "tentree: These best sellers make an impact-on your wardrobe and the planet. Shop Now: tentree.attn.tv/a2lWXYNhriw1 \n\nSTOP to cancel. \n",
+          "message_text": "Joyride Dogs: [EARLY ACCESS PRES DAY SALE]\n\nGet 15% off + a $15 Seatbelt (FREE) ,\n\nUse code: PRES\n\njoyrideharness.attn.tv/aUNEVkiL5Yn7\n\nDon't miss it!",
           "message_type": "system",
-          "date_time": "2026-02-06 14:00:55.460"
+          "date_time": "2026-02-07 15:15:18.567"
         },
         {
           "message_media": [],
-          "message_text": "(attn) Hey, I need help with something:",
+          "message_text": "Joyride Dogs: [LAST CALL]\n\nPRES DAY SALE is Ending!\n\nGet 15% off + a $15 Seatbelt (FREE)\n\nCode: PRES\n\njoyrideharness.attn.tv/axYgFaSuR12a\n\nDon't miss it!",
+          "message_type": "system",
+          "date_time": "2026-02-15 15:05:42.716"
+        },
+        {
+          "message_media": [],
+          "message_text": "I have a m order  money taken from my account  received a text   ticket no longer active   removed   send me merchandise or refund my money.",
           "message_type": "customer",
-          "date_time": "2026-02-12 18:31:21.060"
+          "date_time": "2026-02-15 15:12:12.646"
         },
         {
           "message_media": [],
-          "message_text": "My order number #622902 was placed weeks ago.  I live in PA and have ordered many times from Tentree.  My order tracked east, but then somehow ended up in Arizona.  OnTrack says that there's a weather delay, but my package has been in Arizona now for over a week with no progress.  I'm getting concerned that it's been lost.  OnTrack tracking # is D10017111665262. Please help me to understand what might be going on.  Many thanks, Catherine Levengood 🙏",
-          "message_type": "customer",
-          "date_time": "2026-02-12 18:35:03.917"
-        },
-        {
-          "message_media": [],
-          "message_text": "tentree: I'm sorry to hear about the issue you're experiencing with your order. I checked, and your package has been delayed due to the weather. \n\nSince the package is already with the carrier, it's best to contact them directly to get the most updated status. Have you tried reaching out to Ontrac? They should have the most up-to-date information: https://tentree.attn.tv/aVjuNiKxbw6W/ ",
+          "message_text": "Joyride Dogs: I'm here to help. Mind checking if you've already received your tracking info for the order that you've placed? If you don't see it in your inbox, be sure to check your spam and promo folders, sometimes our emails end up there as well. \n\nYou can also use our convenient online tool to see the latest updates on your order: https://joyrideharness.attn.tv/aZ-AzWtUT2xy",
           "message_type": "agent",
-          "agent": "31385",
-          "message_id": "019c5444-7d59-42c2-f000-00002a2dbfa3",
-          "date_time": "2026-02-12 18:51:40.672"
+          "agent": "50271",
+          "message_id": "019c62f1-0302-43ee-f000-00001160795e",
+          "date_time": "2026-02-15 15:14:48.104"
         },
         {
           "message_media": [],
-          "message_text": "I have been following their updates.  I understand that winter weather is not the best in the U.S. right now, but there really should be no reason for the order to progress east, then end up in Arizona, stalled there for over a week. Ontrac has shown zero progression of my order in over a week.",
+          "message_text": "I had an order.  Payment has been taken from my checking account.  Have NOT RECEIVED THE GOODS.  PLEASE CORRECT",
           "message_type": "customer",
-          "date_time": "2026-02-12 18:55:03.777"
+          "date_time": "2026-02-15 15:41:59.732"
         },
         {
           "message_media": [],
-          "message_text": "tentree: I completely understand your concern, Catherine, and I'm really sorry for the delay. I can check on this with our team to see if we can get more clarity. Could you please confirm the email address used for the order?",
+          "message_text": ".",
+          "message_type": "customer",
+          "date_time": "2026-02-15 15:42:04.783"
+        },
+        {
+          "message_media": [],
+          "message_text": "Joyride Dogs: I'm sorry this is happening, but I don't see any recent orders here. Could you please check your email to see if you received an order confirmation? Don't forget to check your spam and promotions folders, as our emails can sometimes end up there.\n",
           "message_type": "agent",
-          "agent": "42041",
-          "message_id": "019c5449-c086-4fce-f000-00002a2dbfa3",
-          "date_time": "2026-02-12 18:57:25.545"
+          "agent": "39001",
+          "message_id": "019c630a-fefe-442f-f000-00001160795e",
+          "date_time": "2026-02-15 15:43:11.002"
         },
         {
           "message_media": [],
-          "message_text": "catherinelevengood@yahoo.com",
+          "message_text": "Send me the goods or refund my money.",
           "message_type": "customer",
-          "date_time": "2026-02-12 18:58:33.906"
+          "date_time": "2026-02-15 15:46:50.111"
         },
         {
           "message_media": [],
-          "message_text": "I definitely appreciate your help.",
+          "message_text": "Joyride is messed up.  I sent my billing address and it was deleted by     one  of your techs.",
           "message_type": "customer",
-          "date_time": "2026-02-12 18:58:57.027"
+          "date_time": "2026-02-15 15:49:09.545"
         },
         {
           "message_media": [],
-          "message_text": "Template used: \"Escalating after business hours - All brands\"; last updated: 2023-10-10 17:45:06.600",
+          "message_text": "You took my money.",
+          "message_type": "customer",
+          "date_time": "2026-02-15 15:49:59.696"
+        },
+        {
+          "message_media": [],
+          "message_text": "Joyride Dogs: I'm very sorry this is happening. We never want you to feel misled. Since I don't have access to any recent order records in your account and my system has limitations for certain types of requests The best way to handle this is to email us directly at help@joyrideharness.com or live chat with one of our reps via our website: https://joyrideharness.attn.tv/aU3tK2_b_MC1/ Our team is happy to help! \n",
+          "message_type": "agent",
+          "agent": "39001",
+          "message_id": "019c6316-fbf5-4d7c-f000-00001160795e",
+          "date_time": "2026-02-15 15:56:16.661"
+        },
+        {
+          "message_media": [],
+          "message_text": "The order was placed on  February 11, 2026.",
+          "message_type": "customer",
+          "date_time": "2026-02-15 16:11:05.192"
+        },
+        {
+          "message_media": [],
+          "message_text": "Money has been deducted from my account.  No goods",
+          "message_type": "customer",
+          "date_time": "2026-02-15 16:12:05.361"
+        },
+        {
+          "message_media": [],
+          "message_text": "Joyride Dogs: Thank you for sharing this with me. I'd be happy to check this further with my team for you instead. Can you please share your order number and email address with me?",
+          "message_type": "agent",
+          "agent": "82219",
+          "message_id": "019c6326-3f7a-4ed2-f000-00001160795e",
+          "date_time": "2026-02-15 16:12:56.974"
+        },
+        {
+          "message_media": [],
+          "message_text": "I do not have an order number or a tracking number.",
+          "message_type": "customer",
+          "date_time": "2026-02-15 16:17:05.305"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"Customer support\"; last updated: 2022-12-16 17:23:43.065",
           "message_type": "template",
-          "date_time": "2026-02-12 19:01:32.724"
+          "date_time": "2026-02-15 16:23:51.930"
         },
         {
           "message_media": [],
-          "message_text": "tentree: Thanks! Let me check on this for you. It's a little late, so it's likely I won't hear back by today, though rest assured, I'll reach out once business hours resume.",
+          "message_text": "Joyride Dogs: I'm really sorry about this. The best way to handle this is to email us directly at help@joyrideharness.com or live chat with one of our reps via our website: https://joyrideharness.attn.tv/aO5c1inmjsSK/ Our team is happy to help!",
           "message_type": "agent",
           "agent": "109972",
-          "message_id": "019c544d-8610-42f6-f000-00002a2dbfa3",
-          "date_time": "2026-02-12 19:01:32.730"
+          "message_id": "019c6330-3ddc-49da-f000-00001160795e",
+          "date_time": "2026-02-15 16:23:51.935"
         }
       ],
-      "notes": {
-        "send_to_cs": [
-          "Send to CS for coupon code requests"
-        ],
-        "escalate": [
-          "Always include the cx name & email in your ESC notes",
-          "ESC to confirm accurate product measurements for the cx",
-          "ESC immediately if the cx mentions the code EMPLOYEE50",
-          "ESC immediately discount code issues"
-        ],
-        "dos_and_don_ts": [
-          "They don't offer callbacks, don't suggest this to cx"
-        ],
-        "promo_and_promo_exclusions": [
-          "SuperCircle Credits can be used at any time on any items (regular, discounted/on sale) and even during sitewide sales",
-          "SuperCircle Credits can't be combined with another discount code at the same time",
-          "Customers can apply discount codes to items that are on sale if its a discount code specific to the sale."
-        ]
-      },
+      "notes": {},
       "rightPanel": {
         "source": {
           "label": "Website",
-          "value": "https://tentree.com",
+          "value": "https://joyrideharness.com",
           "date": ""
         },
         "browsingHistory": [
           {
-            "item": "Baker Henley - FOREST PINE / S",
-            "link": "https://www.tentree.com/products/baker-henley-forest-pine",
-            "timeAgo": "2026-02-13"
-          }
-        ],
-        "orders": [
-          {
-            "orderNumber": "7491256713402",
-            "orderDate": "2026-01-31",
-            "items": [
-              {
-                "name": "TreeBlend Baker Henley Longsleeve",
-                "price": 40,
-                "productLink": "https://tentree-development-store.myshopify.com/products/baker-henley-longsleeve-jasper-heather"
-              },
-              {
-                "name": "Sutton Longsleeve",
-                "price": 46.4,
-                "productLink": "https://tentree-development-store.myshopify.com/products/treeblend-raglan-longsleeve-meteorite-black"
-              },
-              {
-                "name": "Sutton Longsleeve",
-                "price": 46.4,
-                "productLink": "https://tentree-development-store.myshopify.com/products/sutton-longsleeve-burnt-caramel"
-              },
-              {
-                "name": "Chasing Waves T-Shirt",
-                "price": 27,
-                "productLink": "https://tentree-development-store.myshopify.com/products/chasing-waves-t-shirt-tourmaline-blue-heather-cloud-white"
-              }
-            ],
-            "total": 162.58,
-            "date_time": "2026-01-31 13:46:12.000"
+            "item": "Rainbow Joyride B Grade Premium Advanced Dog Harness 2.0 - XS",
+            "link": "https://joyrideharness.com/products/rainbow-joyride-harness-2-0",
+            "timeAgo": "2026-02-12"
           },
           {
-            "orderNumber": "7083298455738",
-            "orderDate": "2025-09-19",
-            "items": [
-              {
-                "name": "Highline Wool Intarsia Sweater",
-                "price": 76.8,
-                "productLink": "https://tentree-development-store.myshopify.com/products/highline-wool-intarsia-sweater-pale-oak-heather-fossil-heather-midnight-plum"
-              }
-            ],
-            "total": 83.79,
-            "date_time": "2025-09-19 14:25:58.303"
+            "item": "Joyride Premium Advanced Dog Harness 2.0 (Solid Colors) - Black Onyx / XS",
+            "link": "https://joyrideharness.com/products/worlds-best-dog-harness?tw_source=google&tw_adid=770610001665&tw_campaign=22925139251&gad_source=1&gad_campaignid=22925139251&gbraid=0AAAAADsABKjaVxVPvXtXaq_hdzFxX7Zy4&gclid=CjwKCAiAkbbMBhB2EiwANbxtbWHe5wz_1IEJ4_F4ITI-vdrJTo7mki28V_eawNktCAN-QTgrSc1S5hoCJIwQAvD_BwE",
+            "timeAgo": "2026-02-12"
           },
           {
-            "orderNumber": "7083298455738",
-            "orderDate": "2025-09-19",
-            "items": [
-              {
-                "name": "Highline Wool Intarsia Sweater - PALE OAK HEATHER FOSSIL HEATHER MIDNIGHT PLUM / XL",
-                "price": 76.8,
-                "productLink": "https://tentree-development-store.myshopify.com/products/highline-wool-intarsia-sweater-pale-oak-heather-fossil-heather-midnight-plum"
-              }
-            ],
-            "total": 83.79,
-            "date_time": "2025-09-19 14:25:57.646"
+            "item": "Joyride Premium Advanced Dog Harness 2.0 (Solid Colors) - Black Onyx / XS",
+            "link": "https://joyrideharness.com/collections/harnesses-new/products/worlds-best-dog-harness",
+            "timeAgo": "2026-02-10"
           },
           {
-            "orderNumber": "7048334672058",
-            "orderDate": "2025-09-05",
-            "items": [
-              {
-                "name": "Modal Sunset Dress",
-                "price": 44,
-                "productLink": "https://tentree-development-store.myshopify.com/products/womens-modal-sunset-dress-agave-green"
-              }
-            ],
-            "total": 44,
-            "coupon": "FREESHIP",
-            "date_time": "2025-09-05 20:04:49.461"
+            "item": "Joyride Premium Advanced Dog Harness 2.0 (Patterns) - Ducky Delight / XS",
+            "link": "https://joyrideharness.com/collections/harnesses-new/products/joyride-harness-2-0-patterns",
+            "timeAgo": "2026-02-07"
           },
           {
-            "orderNumber": "7048334672058",
-            "orderDate": "2025-09-05",
-            "items": [
-              {
-                "name": "Modal Sunset Dress - AGAVE GREEN / XL",
-                "price": 44,
-                "productLink": "https://tentree-development-store.myshopify.com/products/womens-modal-sunset-dress-agave-green"
-              }
-            ],
-            "total": 44,
-            "date_time": "2025-09-05 20:04:48.386"
+            "item": "Joyride Premium Advanced Dog Harness 2.0 (Solid Colors) - Black Onyx / XS",
+            "link": "https://joyrideharness.com/collections/harnesses-new/products/worlds-best-dog-harness",
+            "timeAgo": "2026-01-26"
           }
         ]
       },
-      "escalation_preferences": [
-        "Shipping questions",
-        "Exchanges and returns",
-        "Discount code errors",
-        "address change",
-        "order edit/cancel",
-        "tax exemption",
-        "retroactive discount",
-        "garment measurements"
-      ],
-      "blocklisted_words": [],
-      "has_shopify": true
-    },
-    "10": {
-      "id": "019c5d7a-b89b-4036-f000-000025908e56",
-      "companyName": "Simon Pearce",
-      "companyWebsite": "https://simonpearce.com",
-      "agentName": "",
-      "messageTone": "Polished",
-      "conversation": [
-        {
-          "message_media": [],
-          "message_text": "Simon Pearce: Free Shipping for a limited time. Enjoy complimentary delivery on all orders $250+ through the weekend.\n\nShop: simonpearce.attn.tv/asDl2miK2LPc \n",
-          "message_type": "system",
-          "date_time": "2026-01-17 16:08:13.447"
-        },
-        {
-          "message_media": [],
-          "message_text": "Simon Pearce: Hello Laura — thanks for visiting Simon Pearce!\n\nDiscover handcrafted glass pieces: https://simonpearce.attn.tv/aCPn91AYvSY- .",
-          "message_type": "system",
-          "date_time": "2026-01-17 17:44:36.103"
-        },
-        {
-          "message_media": [],
-          "message_text": "Simon Pearce: Our Free Shipping Offer Ends Tomorrow. Complimentary shipping on all orders $250+.\n\nShop Now: simonpearce.attn.tv/aZp2_EjhUo1Q \n",
-          "message_type": "system",
-          "date_time": "2026-01-18 16:07:13.060"
-        },
-        {
-          "message_media": [],
-          "message_text": "Simon Pearce: Small pours. Thoughtful details. Discover handmade whiskey glasses designed to elevate the moment: simonpearce.attn.tv/adE_rVLKA3ly ",
-          "message_type": "system",
-          "date_time": "2026-01-22 17:41:10.056"
-        },
-        {
-          "message_media": [],
-          "message_text": "Simon Pearce: A Valentine's gift, made personal. Engrave today for a February 14th delivery.\n\nSay \"I love you\" your way: simonpearce.attn.tv/aBusBjA-QETG ",
-          "message_type": "system",
-          "date_time": "2026-01-25 12:45:21.225"
-        },
-        {
-          "message_media": [],
-          "message_text": "Simon Pearce: Thank you for your purchase! Your order number is 853798. View more information about your order here: https://simonpearce.attn.tv/agn8E_kH7xou .",
-          "message_type": "system",
-          "date_time": "2026-01-28 15:19:53.242"
-        },
-        {
-          "message_media": [],
-          "message_text": "Simon Pearce: Thank you for your purchase. We're honored to share our handmade designs with you. \n\nhttps://simonpearce.attn.tv/aSuROPanlgBm ",
-          "message_type": "system",
-          "date_time": "2026-01-28 16:19:59.257"
-        },
-        {
-          "message_media": [],
-          "message_text": "Simon Pearce: Hello Laura, thanks for visiting Simon Pearce!\n\nDiscover handcrafted glass pieces here: https://simonpearce.attn.tv/aI4JJdSM-Y19 .",
-          "message_type": "system",
-          "date_time": "2026-01-28 16:51:16.151"
-        },
-        {
-          "message_media": [],
-          "message_text": "Simon Pearce: We'd love to see our handmade designs in your home. Tag us on Instagram with beautiful photos: @simonpearce https://simonpearce.attn.tv/aWw2L8iFGHbo ",
-          "message_type": "system",
-          "date_time": "2026-02-04 16:21:18.178"
-        },
-        {
-          "message_media": [],
-          "message_text": "Simon Pearce: While supplies last, receive an Echo Lake Tealight with orders $300+. Hand-wrapped glass with a flowing form: simonpearce.attn.tv/aues5EVEWHdv ",
-          "message_type": "system",
-          "date_time": "2026-02-05 18:13:07.436"
-        },
-        {
-          "message_media": [],
-          "message_text": "Simon Pearce: Great news! Your order (853798) has shipped and will be to you soon. Click here to track your order: https://simonpearce.attn.tv/a3RKDVTnsnfD .",
-          "message_type": "system",
-          "date_time": "2026-02-05 18:30:49.901"
-        },
-        {
-          "message_media": [],
-          "message_text": "Simon Pearce: Explore best sellers featuring handcrafted glass pieces with timeless, artisan character.\n\nFind something special: https://simonpearce.attn.tv/a27Ysx-NYWzu .",
-          "message_type": "system",
-          "date_time": "2026-02-06 11:21:09.932"
-        },
-        {
-          "message_media": [],
-          "message_text": "Simon Pearce: Last day for a free gift with purchase. Echo Lake Tealight included with $300+ orders, while supplies last.\n\nsimonpearce.attn.tv/aLqt-pEOfWKy ",
-          "message_type": "system",
-          "date_time": "2026-02-08 13:05:36.913"
-        },
-        {
-          "message_media": [],
-          "message_text": "Simon Pearce: Hey Laura, order #853798 has been delivered! Track your order here: https://simonpearce.attn.tv/aO9C-IDqAInG .",
-          "message_type": "system",
-          "date_time": "2026-02-10 13:56:56.502"
-        },
-        {
-          "message_media": [],
-          "message_text": "Simon Pearce: Our signature handmade Evergreens bring the beauty of nature to your space, all year round. Find your new favorite. Shop now: https://simonpearce.attn.tv/ae01NunFjPyo ",
-          "message_type": "system",
-          "date_time": "2026-02-11 16:22:26.485"
-        },
-        {
-          "message_media": [],
-          "message_text": "Simon Pearce: Another Seconds Sale starts now. Enjoy 15% off seconds when you spend $200+ on these one-of-a-kind pieces: simonpearce.attn.tv/aey95nAmA8Fs ",
-          "message_type": "system",
-          "date_time": "2026-02-13 12:10:06.263"
-        },
-        {
-          "message_media": [],
-          "message_text": "Simon Pearce: Discover unique seconds with artisan character and slight variations.\n\nFind your next favorite piece: https://simonpearce.attn.tv/aLLlMmON7_zG .",
-          "message_type": "system",
-          "date_time": "2026-02-14 11:57:44.283"
-        },
-        {
-          "message_media": [
-            "https://attentive-files.s3.amazonaws.com/receive-event-media/1771093323295_86f42c75-afad-4e70-928b-3eb061ab7d85-1.jpeg"
-          ],
-          "message_text": "This is my Christmas/ Winter dining room table. Beautiful trees and my special Simon Pearce angel.",
-          "message_type": "customer",
-          "date_time": "2026-02-14 13:22:10.208"
-        },
-        {
-          "message_media": [],
-          "message_text": "Simon Pearce: Thank you for sharing that with us. It looks absolutely beautiful. Your trees are stunning, and that Simon Pearce angel is the perfect touch for the season. Truly a lovely holiday setup!",
-          "message_type": "agent",
-          "agent": "87310",
-          "message_id": "019c5d7a-b89b-4036-f000-000025908e56",
-          "date_time": "2026-02-14 13:47:29.717"
-        }
-      ],
-      "notes": {
-        "escalate": [
-          "ESC any wholesale or bulk discount pricing inquiries",
-          "ESC if cx wants to unsubscribe from emails after sending the TME shortcut",
-          "ESC if cx requests a call"
-        ],
-        "dos_and_don_ts": [
-          "If a cx asks about \"seconds\", they are referring to https://simonpearce.com/collections/seconds A collection of pieces that have natural and slight variations.",
-          "If cx sends “GLASS” they’re entering a giveaway",
-          "Do not share codes or promotions with subscribers"
-        ],
-        "drive_to_purchase": [
-          "Don't recommend \"seconds\" to cx",
-          "Do not advertise free shipping"
-        ]
-      },
-      "rightPanel": {
-        "source": {
-          "label": "Website",
-          "value": "https://simonpearce.com",
-          "date": ""
-        },
-        "browsingHistory": [
-          {
-            "item": "Enchanted Forest",
-            "link": "https://simonpearce.com/products/enchanted-forest",
-            "timeAgo": "2025-12-09"
-          },
-          {
-            "item": "Enchanted Forest",
-            "link": "https://simonpearce.com/products/enchanted-forest",
-            "timeAgo": "2025-12-09"
-          },
-          {
-            "item": "Snowdrift Conical Tree in Gift Box - 8 Inch",
-            "link": "https://simonpearce.com/products/snowdrift-conical-tree-in-gift-box-8-inch",
-            "timeAgo": "2025-12-09"
-          },
-          {
-            "item": "Vintner Red Wine - 2nd",
-            "link": "https://simonpearce.com/products/vintner-red-wine-2nd?utm_source=Klaviyo&utm_medium=email&utm_campaign=101225_PROMO_Seconds&nb_klid=01GZESQHWR8MM001B2D21G2HED&utm_klaviyo_id=01GZESQHWR8MM001B2D21G2HED&_kx=BGgJgsWB6f-gcC9xZA4Wci-vUA9L93gDIL7uUI9LsXs.HxEVis",
-            "timeAgo": "2025-10-14"
-          },
-          {
-            "item": "Champlain Ring Holder - 2nd",
-            "link": "https://simonpearce.com/products/champlain-ring-holder-2nd?utm_campaign=20250829_Seconds%20Sale%20Champlain&utm_medium=sms&utm_source=attentive&externalId=YaOkK",
-            "timeAgo": "2025-08-29"
-          }
-        ],
-        "orders": [
-          {
-            "orderNumber": "6949265178937",
-            "orderDate": "2026-01-28",
-            "items": [
-              {
-                "name": "Celebration Bowl",
-                "price": 270,
-                "productLink": "https://simonpearce.myshopify.com/products/celebration-bowl"
-              },
-              {
-                "name": "Engraving Charge",
-                "price": 55,
-                "productLink": "https://simonpearce.myshopify.com/products/engraving-charge"
-              }
-            ],
-            "total": 394.98,
-            "date_time": "2026-01-28 20:19:44.610"
-          },
-          {
-            "orderNumber": "765320",
-            "orderDate": "2025-08-27",
-            "items": [
-              {
-                "name": "Highgate Heart Vase - M 2nd",
-                "price": 78.75,
-                "productLink": "https://simonpearce.myshopify.com/products/highgate-heart-vase-m-2nd"
-              }
-            ],
-            "link": "https://simonpearce.com/71781581113/orders/d31be24cacadafe8cf4dbbc4955a9154/authenticate?key=acd31b6adb490878510a879ae8dd9b7a",
-            "trackingLink": "https://www.ups.com/WebTracking?loc=en_US&requester=ST&trackNums=1Z65EW350372932165",
-            "order_tracking_link": "https://www.ups.com/WebTracking?loc=en_US&requester=ST&trackNums=1Z65EW350372932165",
-            "total": 100.08,
-            "date_time": "2025-08-27 22:27:22.560"
-          },
-          {
-            "orderNumber": "625460",
-            "orderDate": "2024-08-28",
-            "items": [
-              {
-                "name": "Chelsea Optic Cinched Vase - M 2nd",
-                "price": 85.31,
-                "productLink": "https://simonpearce.myshopify.com/products/chelsea-optic-cinched-vase-m-2nd"
-              }
-            ],
-            "link": "https://simonpearce.com/71781581113/orders/d652237319509f2736b04d766230dbfc/authenticate?key=dd4af0ef7287f60bc1d56f42a39beeba&none=Vw1SBVBBVw",
-            "trackingLink": "https://www.ups.com/WebTracking?loc=en_US&requester=ST&trackNums=1Z65EW350356346632",
-            "order_tracking_link": "https://www.ups.com/WebTracking?loc=en_US&requester=ST&trackNums=1Z65EW350356346632",
-            "total": 446.14,
-            "date_time": "2024-08-28 18:55:23.701"
-          },
-          {
-            "orderNumber": "625460",
-            "orderDate": "2024-08-28",
-            "items": [
-              {
-                "name": "Barre Vase - L 2nd",
-                "price": 70.69,
-                "productLink": "https://simonpearce.myshopify.com/products/barre-vase-l-2nd"
-              }
-            ],
-            "link": "https://simonpearce.com/71781581113/orders/d652237319509f2736b04d766230dbfc/authenticate?key=dd4af0ef7287f60bc1d56f42a39beeba&none=Vw1SBVBBVw",
-            "trackingLink": "https://www.ups.com/WebTracking?loc=en_US&requester=ST&trackNums=1Z65EW350356346632",
-            "order_tracking_link": "https://www.ups.com/WebTracking?loc=en_US&requester=ST&trackNums=1Z65EW350356346632",
-            "total": 446.14,
-            "date_time": "2024-08-28 18:55:23.700"
-          },
-          {
-            "orderNumber": "625460",
-            "orderDate": "2024-08-28",
-            "items": [
-              {
-                "name": "Curio Crystalline Bud Vase - 2nd - Jade",
-                "price": 41.44,
-                "productLink": "https://simonpearce.myshopify.com/products/curio-crystalline-bud-vase-2nd-jade"
-              }
-            ],
-            "link": "https://simonpearce.com/71781581113/orders/d652237319509f2736b04d766230dbfc/authenticate?key=dd4af0ef7287f60bc1d56f42a39beeba&none=Vw1SBVBBVw",
-            "trackingLink": "https://www.ups.com/WebTracking?loc=en_US&requester=ST&trackNums=1Z65EW350356346632",
-            "order_tracking_link": "https://www.ups.com/WebTracking?loc=en_US&requester=ST&trackNums=1Z65EW350356346632",
-            "total": 446.14,
-            "date_time": "2024-08-28 18:55:23.697"
-          }
-        ]
-      },
-      "escalation_preferences": [
-        "Shipping questions",
-        "Discount code errors",
-        "Sizing questions",
-        "Exchanges and returns"
-      ],
+      "escalation_preferences": [],
       "blocklisted_words": [
-        "esteemed"
+        "pet"
       ],
       "has_shopify": true
     }

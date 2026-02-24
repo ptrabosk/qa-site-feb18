@@ -3,714 +3,771 @@
   "chunk": "chunk_0014",
   "scenarios": {
     "66": {
-      "id": "019c4990-6bdf-4699-f000-0000f5be46df",
-      "companyName": "In Common Beauty",
-      "companyWebsite": "https://incommonbeauty.com",
-      "agentName": "Sarah",
+      "id": "019c5414-3abf-4138-f000-0000f981103c",
+      "companyName": "First Tactical",
+      "companyWebsite": "https://firsttactical.com/",
+      "agentName": "Matthew",
       "messageTone": "Polished",
       "conversation": [
         {
           "message_media": [],
-          "message_text": "IN COMMON: Welcome to IN COMMON! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
+          "message_text": "First Tactical: Welcome to First Tactical! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
           "message_type": "system",
-          "date_time": "2026-02-06 13:42:27.502"
+          "date_time": "2026-02-06 20:05:26.604"
         },
         {
           "message_media": [],
-          "message_text": "IN COMMON: Hey this is Sarah, how can I help you? Stop to stop",
+          "message_text": "First Tactical: Welcome! Your coupon code is 1STAC. Click here to automatically apply it and shop now: firsttactical.attn.tv/agJiIHsSDPOd .\nReply back anytime with questions to reach our text-exclusive concierge, Matthew!",
           "message_type": "system",
-          "date_time": "2026-02-06 13:42:31.476"
+          "date_time": "2026-02-06 20:05:30.544"
         },
         {
           "message_media": [],
-          "message_text": "IN COMMON: Still deciding? Use offer WELCOME15 at checkout. Shop now: https://incommon.attn.tv/asAt76z0P2QL \n\nText back if you have any more questions! Stop to stop",
+          "message_text": "First Tactical: Hey Arturo, this is Matthew. Thanks for checking out Men's Defender Pants - Black / 28 / 30: firsttactical.attn.tv/aR4WEeAWZzGP \n\nAny questions I can answer for you today?",
           "message_type": "system",
-          "date_time": "2026-02-08 15:16:30.665"
+          "date_time": "2026-02-06 20:51:44.830"
         },
         {
           "message_media": [],
-          "message_text": "IN COMMON: Keep love + your hair alive with our V-day Buy One Get One 50% off. Keep both or share one...we won't tell. 😉 Code: BOGO50. \nSHOP NOW: \nincommon.attn.tv/aEDpOB-Oo6Jo \nText back if you have any questions! Stop to stop",
+          "message_text": "First Tactical: In case you missed it, take 15% off with code 1STAC. Click here to shop now: firsttactical.attn.tv/arIKy2ya9FnO .",
           "message_type": "system",
-          "date_time": "2026-02-10 12:35:17.434"
+          "date_time": "2026-02-07 20:05:34.068"
         },
         {
           "message_media": [],
-          "message_text": "IN COMMON: Last call! Use offer WELCOME15 at checkout before it's too late. \n\nLet us know if we can help! Stop to stop",
+          "message_text": "First Tactical: Last call! Don't miss out on 15% off with code \n1STAC. Click here to shop now: firsttactical.attn.tv/aq9mwd-_MiJ7\n\nText back if you have any questions!",
           "message_type": "system",
-          "date_time": "2026-02-10 15:16:37.737"
+          "date_time": "2026-02-10 20:05:42.325"
         },
         {
           "message_media": [],
-          "message_text": "(attn) Hey, I need help with something: any new news on the velvet cloud return?",
+          "message_text": "First Tactical: Your Presidents Day head start begins now.\n\nVIPs like you get 20% off sitewide before anyone else. Use code: PRES26VIP\n\nUnlock early access >> firsttactical.attn.tv/aDV9u6CLp05l ",
+          "message_type": "system",
+          "date_time": "2026-02-12 15:06:34.725"
+        },
+        {
+          "message_media": [],
+          "message_text": "First Tactical: Hey Arturo, this is Matthew. Thanks for checking out Men's Performance Long Sleeve Polo - OD Green / S / Regular: firsttactical.attn.tv/ajezrKikG5Q3 \n\nAny questions I can answer for you today?",
+          "message_type": "system",
+          "date_time": "2026-02-12 17:10:18.050"
+        },
+        {
+          "message_media": [],
+          "message_text": "Do you embroider uniform shirts for police agencies?",
           "message_type": "customer",
-          "date_time": "2026-02-10 16:56:25.248"
+          "date_time": "2026-02-12 17:48:12.388"
         },
         {
           "message_media": [],
-          "message_text": "Template used: \"Restock (notifications)\"; last updated: 2025-10-09 21:41:40.249",
+          "message_text": "Names, patches?",
+          "message_type": "customer",
+          "date_time": "2026-02-12 17:48:42.426"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"Pre-purchase escalations - All brands\"; last updated: 2023-10-10 17:48:28.037",
           "message_type": "template",
-          "date_time": "2026-02-10 16:58:47.546"
+          "date_time": "2026-02-12 17:58:57.879"
         },
         {
           "message_media": [],
-          "message_text": "IN COMMON: Thanks for the follow-up! I'm sorry, I still don't have more information about the possible restock, but I recommend signing up on the product page so you're notified the second it comes back in! https://incommon.attn.tv/abjUH8A2VH-X In the meantime, what do you think about this instead? - https://incommon.attn.tv/as6UhMoplJLI",
+          "message_text": "First Tactical: Thank you for reaching out! Good question! I will have to double-check that with my team to be sure. As soon as I hear back, I will send you a message right away!",
           "message_type": "agent",
-          "agent": "87310",
-          "message_id": "019c4990-6bdf-4699-f000-0000f5be46df",
-          "date_time": "2026-02-10 16:58:47.548"
+          "agent": "87295",
+          "message_id": "019c5414-3abf-4138-f000-0000f981103c",
+          "date_time": "2026-02-12 17:58:57.882"
         }
       ],
       "notes": {
-        "templates": [
-          "If a customer asks for a recommendation, use HRQ shortcut"
+        "escalate": [
+          "For restock inquiries, use STOK shortcut and ESC",
+          "ESC inquiries about direct to agency sales"
         ],
-        "promo_and_promo_exclusions": [
-          "🅿 Refer to brand's site for the most up to date promotional information!"
+        "templates": [
+          "If someone from a sales group/organisation wants to learn more use \"Sales group\" temp"
         ]
       },
       "rightPanel": {
         "source": {
           "label": "Website",
-          "value": "https://incommonbeauty.com",
+          "value": "https://firsttactical.com/",
           "date": ""
         },
-        "orders": [
+        "browsingHistory": [
           {
-            "orderNumber": "304853",
-            "orderDate": "2026-01-29",
-            "items": [
-              {
-                "name": "Magic Myst Duo",
-                "price": 70,
-                "productLink": "https://treatment-lbp.myshopify.com/products/magic-myst-retail-duo"
-              }
-            ],
-            "link": "https://www.incommonbeauty.com/6004113473/orders/b7f55ee3ee016fd2d52ce1d3addb2d6d/authenticate?key=f09e55f4a62fee838d3cd28d8cd91746",
-            "trackingLink": "https://www.ontrac.com/tracking/?number=D10017103162648",
-            "order_tracking_link": "https://www.ontrac.com/tracking/?number=D10017103162648",
-            "total": 45.5,
-            "coupon": "SheReviews",
-            "date_time": "2026-01-29 21:08:22.762"
+            "item": "Women's Tactical Belt 1.5” - Black / S",
+            "link": "https://www.firsttactical.com/products/womens-tactical-belt-1-5?_pos=1&_psq=belt&_ss=e&_v=1.0",
+            "timeAgo": "2026-02-12"
           },
           {
-            "orderNumber": "304346",
-            "orderDate": "2026-01-24",
-            "items": [
-              {
-                "name": "Magic Treatment Leave-In Hair Repair Mask Packette",
-                "price": 5,
-                "productLink": "https://treatment-lbp.myshopify.com/products/magic-treatment-leave-in-hair-repair-mask-packette"
-              },
-              {
-                "name": "Magic Myst 4-in-1",
-                "price": 35,
-                "productLink": "https://treatment-lbp.myshopify.com/products/magic-myst-universal-elixir"
-              },
-              {
-                "name": "Strength Booster",
-                "price": 28,
-                "productLink": "https://treatment-lbp.myshopify.com/products/strength-booster"
-              }
-            ],
-            "link": "https://www.incommonbeauty.com/6004113473/orders/99e441802d3c10c875d26c9fd1e70ef1/authenticate?key=b5c0868a31e45ea0b09732f5753b277d",
-            "trackingLink": "https://www.ontrac.com/tracking/?number=D10017093021409",
-            "order_tracking_link": "https://www.ontrac.com/tracking/?number=D10017093021409",
-            "total": 63,
-            "date_time": "2026-01-24 15:43:29.296"
+            "item": "Range Belt 1.75” - OD Green / XS",
+            "link": "https://www.firsttactical.com/products/range-belt-1-75?_pos=9&_psq=belts&_ss=e&_v=1.0",
+            "timeAgo": "2026-02-12"
+          },
+          {
+            "item": "Tactical Belt 1.75” - Coyote - Coyote / M",
+            "link": "https://www.firsttactical.com/products/tactical-belt-1-75-coyote?_pos=8&_psq=belts&_ss=e&_v=1.0",
+            "timeAgo": "2026-02-12"
+          },
+          {
+            "item": "Cobra Belt 1.5” - Black / M",
+            "link": "https://www.firsttactical.com/products/cobra-belt-1-5?_pos=6&_psq=belts&_ss=e&_v=1.0",
+            "timeAgo": "2026-02-12"
+          },
+          {
+            "item": "BDU Belt 1.5” - Black / XS",
+            "link": "https://www.firsttactical.com/products/bdu-belt-1-5?_pos=7&_psq=belts&_ss=e&_v=1.0",
+            "timeAgo": "2026-02-12"
           }
         ]
       },
       "escalation_preferences": [
         "Shipping questions",
-        "Exchanges and returns",
-        "Formula Related"
+        "Exchanges and returns"
       ],
-      "blocklisted_words": [
-        "guarantee"
-      ],
+      "blocklisted_words": [],
       "has_shopify": true
     },
     "67": {
-      "id": "019c77ae-82b7-4112-f000-0000f4515c27",
-      "companyName": "Capillus",
-      "companyWebsite": "https://capillus.com",
-      "agentName": "Jamie",
-      "messageTone": "Polished",
+      "id": "019c6814-373f-4fd0-f000-0000f8177ebe",
+      "companyName": "Covercraft",
+      "companyWebsite": "https://covercraft.com",
+      "agentName": "Sarah",
+      "messageTone": "Casual",
       "conversation": [
         {
           "message_media": [],
-          "message_text": "Capillus: Hi there - Jamie here. Not sure where to start? \n\nTake our Find My Treatment quiz to discover the best products for your hair! Get personalized results now: capillus.attn.tv/azs2fkjR8Vch \n\nText me back with questions!",
+          "message_text": "Covercraft: Welcome to Covercraft! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
           "message_type": "system",
-          "date_time": "2026-01-21 20:56:17.555"
+          "date_time": "2026-02-05 16:32:41.922"
         },
         {
           "message_media": [],
-          "message_text": "Capillus: Hey there, this is Jamie! We saw you checking out Body and Glow - Black! \n\nDon't wait, transform your confidence back today: capillus.attn.tv/a_7PefZStR8n .\n\nText back if you need assistance.",
+          "message_text": "Covercraft: Enjoy $10 Off with code SAVE10. Find Your Custom Cover Today!\n\nView Active Deals: https://covercraft.attn.tv/aLPjcQ8Vil45 ",
           "message_type": "system",
-          "date_time": "2026-01-28 13:08:59.954"
+          "date_time": "2026-02-05 16:32:45.886"
         },
         {
           "message_media": [],
-          "message_text": "Capillus: Hey there, this is Jamie! We saw you checking out Body and Glow - Black! \n\nDon't wait, transform your confidence back today: capillus.attn.tv/adl8YEnKFvPX .\n\nText back if you need assistance.",
+          "message_text": "Covercraft: Hey there, this is Sarah. Thanks for checking us out! 😊 https://covercraft.attn.tv/axL0m09NF3kV\n\nAny questions I can answer for you?",
           "message_type": "system",
-          "date_time": "2026-02-02 14:15:52.182"
+          "date_time": "2026-02-05 16:40:28.531"
         },
         {
           "message_media": [],
-          "message_text": "Capillus: Hi there - Jamie here. Not sure where to start? \n\nTake our Find My Treatment quiz to discover the best products for your hair! Get personalized results now: capillus.attn.tv/aKMjT0IHj1yT \n\nText me back with questions!",
+          "message_text": "Covercraft: Save 15% on our most popular covers, sunshades, and more during our Valentine's Day sale event!\ncovercraft.attn.tv/asYdtUFfcMXM ",
           "message_type": "system",
-          "date_time": "2026-02-15 16:45:49.887"
+          "date_time": "2026-02-13 14:26:21.525"
         },
         {
           "message_media": [],
-          "message_text": "Good day. Have you been able to get a SN for Body? Do you need my order number again ?",
+          "message_text": "Covercraft: Hey there, this is Sarah. Thanks for checking us out! 😊 https://covercraft.attn.tv/ap2ldH37G7sO\n\nAny questions I can answer for you?",
+          "message_type": "system",
+          "date_time": "2026-02-16 14:30:29.706"
+        },
+        {
+          "message_media": [],
+          "message_text": "Yes, which covers have the highest cotton content?",
           "message_type": "customer",
-          "date_time": "2026-02-19 15:33:53.705"
+          "date_time": "2026-02-16 14:34:26.308"
         },
         {
           "message_media": [],
-          "message_text": "And  when I registered my spectrum cap I didn't get an email confirmation. \nIs there some reference # or some way to know that my warranty has been registered?",
-          "message_type": "customer",
-          "date_time": "2026-02-19 15:46:43.972"
-        },
-        {
-          "message_media": [],
-          "message_text": "Template used: \"Customer support\"; last updated: 2025-01-28 16:04:24.483",
-          "message_type": "template",
-          "date_time": "2026-02-19 15:54:11.413"
-        },
-        {
-          "message_media": [],
-          "message_text": "Capillus: I'm still waiting to hear back from the team, but it may help to email us directly at support@capillus.com. Our team is happy to help! If you don't see any responses in your inbox, be sure to check your spam and promo folders; sometimes our emails end up there as well. Let me know how it goes.",
+          "message_text": "Covercraft: Just to be sure, are you referring to a Seat Cover? If so, the closest one that we have with cotton material on the website is the Polycotton SeatSaver Custom Seat Covers and you may check it here: https://covercraft.attn.tv/ariuzVoSvWYo\n\nFor the highest cotton content information, I'll gladly check this with my team. Could you please share your vehicle's year, make, model, and submodel (if applicable)?",
           "message_type": "agent",
-          "agent": "109968",
-          "message_id": "019c77ae-82b7-4112-f000-0000f4515c27",
-          "date_time": "2026-02-19 15:54:11.415"
+          "agent": "109964",
+          "message_id": "019c6814-373f-4fd0-f000-0000f8177ebe",
+          "date_time": "2026-02-16 15:11:21.309"
         }
       ],
       "notes": {
-        "send_to_cs": [
-          "Send to CS if a subscriber mentions a medical issue or an adverse effect from using products from this brand"
-        ],
-        "escalate": [
-          "ESC immediately discount code issues"
+        "templates": [
+          "For custom full vehicle covers use FVC shortcut",
+          "For cx that can't see the cover pattern/images of their vehicle use CPI shortcut",
+          "If we don't have a pattern/color the cx is looking for use PRR shortcut"
         ],
         "dos_and_don_ts": [
-          "Do not share any medical advice or guidance to subscribers outside of recommending appropriate products or directing them to purchase the right item",
-          "Do not comment on their medical situations",
-          "Close the covo if the customer says they're receiving too many messages/we're texting them too often - don't send TMT"
+          "Do not tell customers that the base price is the final price! The cost changes by the fitment and depends on the vehicle",
+          "Rebates are discounts for this brand!",
+          "Custom dim pattern sheets are only available for Vehicle Covers (Car, Truck, Van,RV)",
+          "➜https://www.covercraft.com/us/en/covercrafter"
         ],
         "drive_to_purchase": [
-          "If cx says they will be ordering soon, offer to schedule a call if they need further assistance with their purchase (shortcut OS) - do not upsell"
-        ],
-        "tone": [
-          "Don't use the term \"hang tight\", just say that you've passed the information to the team",
-          "Close the conversation once the client takes over"
-        ],
-        "templates": [
-          "If cx already purchased, use specific TFP template"
-        ],
-        "promo_and_promo_exclusions": [
-          "We do not offer any discounts for the SPECTRUM"
+          "Before sharing any product links, confirm the vehicle’s Year, Make, and Model"
         ]
       },
       "rightPanel": {
         "source": {
           "label": "Website",
-          "value": "https://capillus.com",
+          "value": "https://covercraft.com",
           "date": ""
         },
         "browsingHistory": [
           {
-            "item": "Capillus Body",
-            "link": "https://www.capillus.com/products/capillus-body",
-            "timeAgo": "2026-02-02"
+            "item": "Polycotton SeatSaver Custom Seat Covers",
+            "link": "https://www.covercraft.com/product/polycotton-seatsaver-custom-seat-covers/SS-SSPC",
+            "timeAgo": "2026-02-16"
           },
           {
-            "item": "Capillus Body",
-            "link": "https://www.capillus.com/products/capillus-body",
-            "timeAgo": "2026-02-02"
+            "item": "Polycotton SeatSaver Custom Seat Covers",
+            "link": "https://www.covercraft.com/product/polycotton-seatsaver-custom-seat-covers/SS-SSPC",
+            "timeAgo": "2026-02-16"
           },
           {
-            "item": "Capillus Body",
-            "link": "https://www.capillus.com/products/capillus-body",
-            "timeAgo": "2026-02-02"
+            "item": "Polycotton SeatSaver Custom Seat Covers",
+            "link": "https://www.covercraft.com/product/polycotton-seatsaver-custom-seat-covers/SS-SSPC",
+            "timeAgo": "2026-02-16"
           },
           {
-            "item": "Capillus Red Light Therapy Mat",
-            "link": "https://www.capillus.com/products/capillus-red-light-therapy-mat",
-            "timeAgo": "2026-02-02"
+            "item": "Polycotton SeatSaver Custom Seat Covers",
+            "link": "https://www.covercraft.com/product/polycotton-seatsaver-custom-seat-covers/SS-SSPC",
+            "timeAgo": "2026-02-16"
           },
           {
-            "item": "Capillus Body",
-            "link": "https://www.capillus.com/products/capillus-body",
-            "timeAgo": "2026-02-02"
-          }
-        ],
-        "orders": [
-          {
-            "orderNumber": "6322336727179",
-            "orderDate": "2026-02-02",
-            "items": [
-              {
-                "name": "Capillus Spectrum",
-                "price": 2699,
-                "productLink": "https://shopcapillus.myshopify.com/products/capillus-spectrum"
-              },
-              {
-                "name": "Capillus Body",
-                "price": 399,
-                "productLink": "https://shopcapillus.myshopify.com/products/capillus-body"
-              }
-            ],
-            "total": 3098,
-            "date_time": "2026-02-02 19:52:05.906"
+            "item": "Polycotton SeatSaver Custom Seat Covers",
+            "link": "https://www.covercraft.com/product/polycotton-seatsaver-custom-seat-covers/SS-SSPC",
+            "timeAgo": "2026-02-16"
           }
         ]
       },
       "escalation_preferences": [
-        "Discount code errors",
-        "Exchanges and returns"
+        "Discount code errors"
       ],
-      "blocklisted_words": [
-        "Curallux",
-        "hang"
-      ],
-      "has_shopify": true
+      "blocklisted_words": [],
+      "has_shopify": false
     },
     "68": {
-      "id": "019c7266-61d1-4fcf-f000-0000db6ef5be",
-      "companyName": "Simply Earth",
-      "companyWebsite": "https://simplyearth.com",
-      "agentName": "Sarah",
-      "messageTone": "Polished",
+      "id": "019c68e3-3764-4d2d-f000-0000fa795c22",
+      "companyName": "Blenders Eyewear",
+      "companyWebsite": "https://blenderseyewear.com",
+      "agentName": "Kai",
+      "messageTone": "Casual",
       "conversation": [
         {
           "message_media": [],
-          "message_text": "Simply Earth: Reply Y to subscribe to recurring automated personalized marketing alerts (e.g. cart reminders) from Simply Earth.",
+          "message_text": "Blenders: Reply Y to subscribe to recurring automated personalized marketing alerts (e.g. cart reminders) from Blenders Eyewear",
           "message_type": "system",
-          "date_time": "2026-02-18 12:55:49.035"
+          "date_time": "2026-02-16 17:27:18.560"
         },
         {
           "message_media": [],
-          "message_text": "Simply Earth: Welcome to Simply Earth! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
+          "message_text": "Blenders: Welcome to Blenders! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
           "message_type": "system",
-          "date_time": "2026-02-18 12:56:10.621"
+          "date_time": "2026-02-16 17:27:33.432"
         },
         {
           "message_media": [],
-          "message_text": "Simply Earth: Hi Earthie! This is Sarah. Thanks for signing up via text! Use code UNICORN to get a free unicorn diffuser with your 1st Recipe Box! https://simplyearth.attn.tv/aMsus_CJWiuj \n\nHave any questions? Reply here!",
+          "message_text": "Blenders: Get Blended! Your welcome code is WELCOME-n4hdtB. Shop now and automatically apply 15% off your order: https://blenderseyewear.attn.tv/afM6_kfRDWlT .\n\nReply back anytime for help! ",
           "message_type": "system",
-          "date_time": "2026-02-18 12:56:14.583"
+          "date_time": "2026-02-16 17:27:36.935"
         },
         {
           "message_media": [],
-          "message_text": "Simply Earth: We pride ourselves on our customer service. Save our contact in your phone and text us whenever you have a question about the Recipe Box! ",
+          "message_text": "Blenders: Plus save our contact to receive exclusive updates!",
           "message_type": "system",
-          "date_time": "2026-02-18 12:58:18.876"
+          "date_time": "2026-02-16 17:27:38.781"
         },
         {
           "message_media": [],
-          "message_text": "Simply Earth: What are you looking for in your essential oil journey? Reply with the number that best matches your desire!\n\n1 for Community\n2 for Confidence + Clarity\n3 for Saving Money",
-          "message_type": "system",
-          "date_time": "2026-02-18 14:58:28.545"
-        },
-        {
-          "message_media": [],
-          "message_text": "Simply Earth: With the Recipe Box, you're receiving 4 full-size, 100% pure essential oils + 6 recipes + more for just $35! That's the price of a single essential oil at some other places... simplyearth.attn.tv/asjvsYEwNVB1 ",
-          "message_type": "system",
-          "date_time": "2026-02-18 15:01:34.679"
-        },
-        {
-          "message_media": [],
-          "message_text": "I make candles can these oils be used in candle making, bath bumps, lip balm, and lotions?",
+          "message_text": "Help",
           "message_type": "customer",
-          "date_time": "2026-02-18 15:02:55.003"
+          "date_time": "2026-02-16 17:37:45.282"
         },
         {
           "message_media": [],
-          "message_text": "Simply Earth: Yes, our essential oils can be used in candle making, bath bombs, lip balm, and lotions. They are 100% pure and perfect for DIY projects.",
+          "message_text": "Blenders: I would be more than happy to help out, ask away!",
           "message_type": "agent",
           "agent": "62551",
-          "message_id": "019c7259-9cbb-421e-f000-0000db6ef5be",
-          "date_time": "2026-02-18 15:03:21.429"
+          "message_id": "019c689a-755b-411b-f000-0000fa795c22",
+          "date_time": "2026-02-16 17:37:59.025"
         },
         {
           "message_media": [],
-          "message_text": "Also looking to add room sprays to my line. How do I market using these oils from simply earth?",
+          "message_text": "!",
           "message_type": "customer",
-          "date_time": "2026-02-18 15:05:14.377"
+          "date_time": "2026-02-16 17:38:05.323"
         },
         {
           "message_media": [],
-          "message_text": "Simply Earth: For room sprays, consider using our Car Diffuser Vent Clip for inspiration. It's a great way to showcase the versatility of Simply Earth's essential oils. https://simplyearth.attn.tv/aiM39-mxUxNi",
+          "message_text": "I'm buying a pair of glasses I have a gift card and I have the 15% off you gave me but the price is not correct on the initial price of the glasses they were on sale for 2990 they're marked at 2999 and then I'm trying to be charged 59+ my $30 discount makes it down to not much at all I got a $30 gift card from Nift and IFT and your 15% off and they're trying to charge me $31 that's not even right the initial price was less than that they're charging me $30 more than the initial price from the beginning",
+          "message_type": "customer",
+          "date_time": "2026-02-16 17:39:05.471"
+        },
+        {
+          "message_media": [],
+          "message_text": "Blenders: I'm sorry to hear that. Could you kindly share a screenshot of the items in your cart? I'll be happy to look into the issue! ",
           "message_type": "agent",
-          "agent": "62551",
-          "message_id": "019c725b-ba5a-4251-f000-0000db6ef5be",
-          "date_time": "2026-02-18 15:05:40.076"
+          "agent": "39001",
+          "message_id": "019c68a6-8bcb-4c67-f000-0000fa795c22",
+          "date_time": "2026-02-16 17:51:11.202"
         },
         {
-          "message_media": [],
-          "message_text": "Thank you",
+          "message_media": [
+            "https://attentive-files.s3.amazonaws.com/receive-event-media/1771282533201_fb3e42d0-b306-4a43-9046-a72c642c2cbe-1.png",
+            "https://attentive-files.s3.amazonaws.com/receive-event-media/1771282533201_fb3e42d0-b306-4a43-9046-a72c642c2cbe-1.png"
+          ],
+          "message_text": "Hrllog",
           "message_type": "customer",
-          "date_time": "2026-02-18 15:13:34.939"
+          "date_time": "2026-02-16 17:55:45.462"
         },
         {
           "message_media": [],
-          "message_text": "One more question can I sell these oils on my website?",
+          "message_text": "You can see it's 2999 and it doesn't state that on the first photo the price is that's not even it's not right it's there's they're not even taking the $30 off for my Nift gift which I was given $30 and then you guys gave me 15 so it should be free and chipping free",
           "message_type": "customer",
-          "date_time": "2026-02-18 15:14:14.551"
+          "date_time": "2026-02-16 17:56:55.177"
         },
         {
           "message_media": [],
-          "message_text": "Template used: \"Wholesale inquiries\"; last updated: 2023-02-13 23:02:56.564",
-          "message_type": "template",
-          "date_time": "2026-02-18 15:17:18.312"
-        },
-        {
-          "message_media": [],
-          "message_text": "Simply Earth: Thank you for being so interested! You can learn more and apply for wholesale here: https://simplyearth.attn.tv/a0Wu-q1awByw Hope this helps!",
+          "message_text": "Blenders: Thank you for sending that over! Could you also provide a screenshot of the item(s) in your cart so I can take a closer look and assist you further?",
           "message_type": "agent",
-          "agent": "109968",
-          "message_id": "019c7266-61d1-4fcf-f000-0000db6ef5be",
-          "date_time": "2026-02-18 15:17:18.313"
+          "agent": "37648",
+          "message_id": "019c68ae-3a1c-41aa-f000-0000fa795c22",
+          "date_time": "2026-02-16 17:59:34.575"
+        },
+        {
+          "message_media": [],
+          "message_text": "The second photo is from my cart",
+          "message_type": "customer",
+          "date_time": "2026-02-16 18:00:05.266"
+        },
+        {
+          "message_media": [],
+          "message_text": "Blenders: Thank you for getting back to me and providing that information! Unfortunately, you won't be able to use multiple deals at checkout, but feel free to use the one that gives you the best value! We offer free shipping on domestic orders over $50. Maybe you can add something else to reach the minimum?",
+          "message_type": "agent",
+          "agent": "109840",
+          "message_id": "019c68b1-9930-4c08-f000-0000fa795c22",
+          "date_time": "2026-02-16 18:03:15.527"
+        },
+        {
+          "message_media": [],
+          "message_text": "I would if I had any money but I'm homeless and jobless and I'm just disabled and was given a gift I guess it's not a gift anymore set a qualified for free shipping right there on that piece of paper or on my cart everything said I qualified for free shipping why doesn't it also not qualify for shipping and they still haven't taken my $30 gift card off",
+          "message_type": "customer",
+          "date_time": "2026-02-16 18:06:44.501"
+        },
+        {
+          "message_media": [],
+          "message_text": "Blenders: I totally understand where you're coming from. May I know what item you are trying to purchase? Based on your screenshot, I can see that your $30 gift card was successfully applied to your cart. \n\nIf the item is currently on sale for $29.99, then it is possible that the item went back to its original price after you applied the gift card since discount codes and gift cards don't apply to sale items. I hope this clarifies it.",
+          "message_type": "agent",
+          "agent": "48804",
+          "message_id": "019c68ba-b520-4455-f000-0000fa795c22",
+          "date_time": "2026-02-16 18:13:12.512"
+        },
+        {
+          "message_media": [],
+          "message_text": "Yes it's I think discounted or not discounted discontinued sage cruisers",
+          "message_type": "customer",
+          "date_time": "2026-02-16 18:40:04.143"
+        },
+        {
+          "message_media": [],
+          "message_text": "Blenders: Thanks for letting me know! I just checked and it looks like the Sage Cruisers are back to their original price, $59. Also, upon checking the screenshot that had been sent, since you've already used a code that takes $30 off, another discount can't be applied. You can only use one deal per checkout, so feel free to choose the one that gives you the best value.\n\nPlease let me know how I can assist you further today, I'm just a text away!",
+          "message_type": "agent",
+          "agent": "109617",
+          "message_id": "019c68e3-3764-4d2d-f000-0000fa795c22",
+          "date_time": "2026-02-16 18:57:27.300"
         }
       ],
       "notes": {
-        "send_to_cs": [
-          "Send to CS for post purchase issues, use PPI shortcut"
+        "templates": [
+          "When closing the conversation use CC shortcut",
+          "For all inqiuries about refunds/replacement orders use RRO shortcut"
         ],
         "promo_and_promo_exclusions": [
-          "Cx can use both a gift card and a promo code per order!"
+          "Discount codes or rewards points can be used with a gift card",
+          "Discount codes and rewards points can not be used together",
+          "Discount codes can not be used on sale items"
         ]
       },
       "rightPanel": {
         "source": {
           "label": "Website",
-          "value": "https://simplyearth.com",
+          "value": "https://blenderseyewear.com",
           "date": ""
-        },
-        "orders": [
-          {
-            "orderNumber": "",
-            "orderDate": "2026-02-17",
-            "items": [
-              {
-                "name": "Wholesale Sample packet",
-                "price": 0,
-                "productLink": "https://simplyearth.com/products/shilah-wholesale-sample"
-              }
-            ],
-            "total": 0,
-            "date_time": "2026-02-17 13:43:10.000"
-          },
-          {
-            "orderNumber": "",
-            "orderDate": "2026-01-14",
-            "items": [
-              {
-                "name": "Essential Oils for Beginners Pamphlet",
-                "price": 0,
-                "productLink": "https://simplyearth.com/products/ebookpamphlet"
-              },
-              {
-                "name": "Essential Oil Recipe Book: 2020 Edition",
-                "price": 29.99,
-                "productLink": "https://simplyearth.com/products/2020-essential-oil-recipe-book"
-              }
-            ],
-            "total": 29.99,
-            "date_time": "2026-01-14 13:06:31.000"
-          }
-        ]
+        }
       },
-      "escalation_preferences": [],
+      "escalation_preferences": [
+        "Exchanges and returns",
+        "Refund"
+      ],
       "blocklisted_words": [],
       "has_shopify": true
     },
     "69": {
-      "id": "019c7c26-034e-43b5-f000-0000fd44fda7",
-      "companyName": "CALPAK",
-      "companyWebsite": "https://calpaktravel.com",
-      "agentName": "Jordan",
+      "id": "019c3e78-e0fa-4552-f000-0000f7dd6ded",
+      "companyName": "Nectar Sleep",
+      "companyWebsite": "https://nectarsleep.com",
+      "agentName": "Quinn",
       "messageTone": "Polished",
       "conversation": [
         {
           "message_media": [],
-          "message_text": "CALPAK: Welcome! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
+          "message_text": "Nectar: Reply Y to subscribe to recurring automated personalized marketing alerts (e.g. cart reminders) from Nectar.",
           "message_type": "system",
-          "date_time": "2026-02-20 12:24:20.361"
+          "date_time": "2026-02-04 13:20:57.066"
         },
         {
           "message_media": [],
-          "message_text": "CALPAK: Thanks for traveling with CALPAK. Enjoy 10% off your first order with code AT1NT1V26IRvPlO.\n\nShop best sellers: calpak.attn.tv/aiZpWomHA4g5 \n*Offer expires in 7 days and excludes sale items. ",
+          "message_text": "Nectar: Welcome! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel. Phone support: (888) 863-2827.",
           "message_type": "system",
-          "date_time": "2026-02-20 12:24:24.872"
+          "date_time": "2026-02-04 19:44:20.619"
         },
         {
           "message_media": [],
-          "message_text": "CALPAK: Save our number so you never miss an update!",
+          "message_text": "Nectar: You're in!",
           "message_type": "system",
-          "date_time": "2026-02-20 12:29:32.856"
+          "date_time": "2026-02-04 19:44:24.640"
         },
         {
           "message_media": [],
-          "message_text": "My discount code is not working",
+          "message_text": "Nectar: You've unlocked savings up to 66% on a mattress + base + bedding set. Better sleep starts here. \n\nClaim your savings:\nnectarsleep.attn.tv/aC0oIIO8f8_c ",
+          "message_type": "system",
+          "date_time": "2026-02-04 19:44:26.668"
+        },
+        {
+          "message_media": [],
+          "message_text": "Nectar: From box to bliss in 3 easy steps! Unbox, unroll, & fall in love with your new Nectar mattress. Save up to 50% NOW: nectarsleep.attn.tv/aiH7Vyzgw5yQ\n.",
+          "message_type": "system",
+          "date_time": "2026-02-06 10:47:39.696"
+        },
+        {
+          "message_media": [],
+          "message_text": "Nectar: Quinn here: Monica L.'s sleeping soundly (even with a partner): \"We sleep so well on this mattress. If either of us move we can't tell the difference, no motion whatsoever. We have a nice cool sleep.\" - Verified Buyer: nectarsleep.attn.tv/aJkCg5_Db1kz\n.",
+          "message_type": "system",
+          "date_time": "2026-02-07 10:47:52.491"
+        },
+        {
+          "message_media": [],
+          "message_text": "Nectar: Invest in your health & comfort! Save up to 66% on the Adjustable Bundle: base, mattress & bedding.\n\nShop now: nectarsleep.attn.tv/a_z2hY_xBMLT \n.",
+          "message_type": "system",
+          "date_time": "2026-02-08 10:48:01.752"
+        },
+        {
+          "message_media": [
+            "https://d3vkheyf3b92pv.cloudfront.net/hgp-mms-content/2C6C7A60-D5C4-4AEB-98AA-37625572D80A?Expires=1771438559&Signature=FXgMy~kbuBU46UqevCaHWKK0rd-I6Kuj-9fIUVrj4YAwX6ZrG7oeL3wbioz5-jLXHKc4aMQR0pViH8hjJ3blOoCwzvCH3LXMBv~Divm6-kVxxzsKae8Og5LOtCL8Wmn8wJs6Wz9V3wVSjEwzIMgAIHQQx-BOwQnWr49Btuvt-9gr5QiLba57r-uS94H6yUi~wAJWGubBOJVR33vnHwkaQrsxggIEn5Bi~Oq3W8rf6-56XZhD2TcUsLS9ljfgeTcOmR3MHBXmo7rRSWkDfOaZqCpmg8zsyY-em93eupeqdZiLeKXZOsXYbSbN17Kr03vlkGAkWDXKpNTG7TNJ4VXYjw__&Key-Pair-Id=APKAJYKFVWTTAQLYS7LA",
+            "https://d3vkheyf3b92pv.cloudfront.net/hgp-mms-content/1D22F3FB-FF2C-4DB1-B02B-0EB30C55F995?Expires=1771438559&Signature=SXWZRhITKqAJE-spT9rZR0Y5Kxj7DQxxQJioogie1TbFPN07yZCzfrw-DthfW~JUFmtgP-qEqHYCdeGUN7ViuyEIrQBWkQkGHwJlPrQMrBx8rIaxECs4FsoRK~36KwOedl5lN2z-~x9pucLJCcASorC~rm0JrV8qplxZGJbjLyOkEeA5ue0VqV~jDMT9IYqh0CBTsv9-e8s54FjkkuSFfABk51zGsTR~oZVcZ~w6XkFy5frrZmk~e1r1g6WjYM2xhj95QojSaw-mlPZDmlyWaJXGDyonnrwpyYit3R-d4NFzIr17Y27IiOUbN~2VoEL9gzGxP-1hYvzqXtne5Nb-6g__&Key-Pair-Id=APKAJYKFVWTTAQLYS7LA",
+            "https://d35742m9b1cssv.cloudfront.net/hgp-mms-content/017564DA-764A-4E09-9C8D-4D15DE71193C?Expires=1771438559&Signature=HAQ5NaZp6ShXe1tMAgfoSwU14S9gTdi3rcV8WbauYyvEnAZmSXD0hODVGPuycQVFG3mifslEIqmKUl54Mu25RCfhJo8UkMUIOIiHii1TlbUQj0sbRno1361wYQEGc3wesUChPbyD6NnNSBQauCVmR1ccPTwDfKjyoVjR1KLIzZvE25FGSqeoHChXQDKyTaKmFVtFTODkVdmzX5t~bjWR9hHp22JrTVBcK0CEZbIJ9JR1qlm~UaQQMDq7RaJYaEq5ujGbmzrdw~gfYJ8euE4HMzo1MrH9AuxEoRwOJ2~Iv7Osob6~VemvdHvGL5YFzXEOOjzkOLaZsJhfGGwE3BZoAw__&Key-Pair-Id=APKAJYKFVWTTAQLYS7LA",
+            "https://d35742m9b1cssv.cloudfront.net/hgp-mms-content/381FE075-DC51-4770-824B-76C52829AE24?Expires=1771438559&Signature=LDHKeQOpIHeFqrHXJ8zJROZLTxBWN7FRJ9yeCTmcxhi97g26Br3TPtXWPYh0fhyMCOfB8PM6MzPpTiid1-vsMLFMJYQ5LY56O2J8IWYk~FRhTX4eZEska5JDgWvFNZKm52R4kBQsIUfbLGQ9fMtdxwAJyvKO9qODRdKeZ0bCWkRHcwTCUXnR1VRJ3~5yjLx705J1G5QbLycikWWHopwI3qd0h7WenRQwzjlR-m52JnB6rM10A6NF5ML10YKxLKoPrxMccb0kczn3S2sRA8EiKBLsqiTUze67M8lrGNY4jmoF1~B-u2URUFe5EjA5Yyl26IrfXldqnHqCi9-pH6L4-Q__&Key-Pair-Id=APKAJYKFVWTTAQLYS7LA",
+            "https://d3vkheyf3b92pv.cloudfront.net/hgp-mms-content/912E94E9-2D78-4DFF-B5BA-7933C07CC219?Expires=1771438560&Signature=bLt3aDp2tKN3OprElnXGDmfOvTXI8wiRSTv4iLeEx1STF~bZFPM1Uguu1JdKGIHHxEYgrd2ZzqmGw~p6nhmF2IIAviX~GK8B9I0FNjG8~dYZuid0bK-KXUU~pxS3sQxhPZTCYOlMGZVUFfb~fxtjprBx8WoRXi~aCf6v8OSM5XAIjJA4bZ3JHtskirPWL0rtcaD1jQ1jqlZ5CFjLuS-Bpjb3mvekPQIKVF1ksQuRvLn1TjHrf58VEevMoQP07y9rpH6hw6Cs~g~drZkDvj6QOw1bBgQemmQ5Xn5tH3VyzpX7v99r1QaYlc5VqALM9u448kladSsiuj4vhilKUD64qA__&Key-Pair-Id=APKAJYKFVWTTAQLYS7LA",
+            "https://d35742m9b1cssv.cloudfront.net/hgp-mms-content/0767D219-AA03-45F6-B9E4-3A2EB76CED59?Expires=1771438560&Signature=B6uFJy4nMyn9RPei1jqReBQcFuaFn-GZNK8XdYuzB3fyUiIoRcw0hsZVqYFNARHDAcezBUR8wgHKKy1u0kevb6yGmlFuMXWX-z9M3LiVgIP69ctiNJRztyFJGV5OvtrwG57u1RuppiG1FFQubTSg-xu13Wi2pmpb2aTjnSlu4gOr2zO9TVtiDugs-3XJCTmpd6Yju029y3W-0BmwsrMJ~2WftgDmx5hnOlvuitbEKxPqonSd1G3DCchyQkGJQzW6RzihDXBWPmHn1xFjmG4f53dJSkyhlMT5n~2algvINsFJVP9ujIG6RIsKzmpV-nOSAl4rOwZu7J6TARaBp2SqHw__&Key-Pair-Id=APKAJYKFVWTTAQLYS7LA",
+            "https://d35742m9b1cssv.cloudfront.net/hgp-mms-content/709F6839-15CB-4207-B35E-B9DFCC05DDE8?Expires=1771438560&Signature=NTU6Mx1yvHuiXXN1~SlY5UpZR27NAgZqgBzc8OAw50UTGTo-dae~~NbZvLYif~bzRs3~xFixJI7dionsUSDuh0o6zDpsSG2grVtyXelHkO-nwXfQ9yCj4U1YAKlVaqBefC4EgyfwlMHU0--jLu-K5W6BoSjaJD9G5qDBT7BnETuGJ~7xO7BkIO5eZq3SOunMPvR2qbybK0BQ39GdVvwCxL2vRzzH5mkDm8cBGzenr-4cJoi6z~GkJUPkzRhQsDtNo4jBnMlW0hqu28kV0-2yYfp2Lo6Yd8xCWWaNog7-sMASybSjMWqU0U2tdrmvDNH89fQAf7PsIMP1Fr~P8rzA-g__&Key-Pair-Id=APKAJYKFVWTTAQLYS7LA",
+            "https://d35742m9b1cssv.cloudfront.net/hgp-mms-content/7DC58910-2E37-4B6F-8952-F9C366863A17?Expires=1771438560&Signature=TvpRVUVKlz6QE6gMECMbXy~jm8fObURWzW70yeRb5hAgItlelhQAexQYjl1Jpa3Qxm3Ku3PijkbJI3AMxeN0ImeR3QFkB57Kv9WcvNXMlhPsiP-5eaAxn6rz~5ch34VfXA6OiTZey86TCBYQyuWZem6Qq~2G-a7qguNSfauJHPSzcBx07~BMkvLS9B0v6gUmcFu3InCaL2~FTCcWA1bjgOeU-QWuDkLm9YaCJMxxc~2eJTRC9uNjNcu-WrO0E828p4YNLbDDeDiANACX8KQnB-ztcvpntI~6v3J4U~OCIgdRq3it57yjgLgyGHWkZBqh01bJs39VPo2gEGbpBlQHLw__&Key-Pair-Id=APKAJYKFVWTTAQLYS7LA"
+          ],
+          "message_text": "Box very damaged did not open yet.???",
           "message_type": "customer",
-          "date_time": "2026-02-20 12:32:47.063"
+          "date_time": "2026-02-08 13:16:06.766"
         },
         {
           "message_media": [],
-          "message_text": "CALPAK: Thank you for reaching out, and I'm sorry to hear that! Our promo codes are only eligible for full-priced items. They don't work on already discounted products, including bundled sets. I'm sorry for the inconvenience.",
-          "message_type": "agent",
-          "agent": "87295",
-          "message_id": "019c7c1d-6375-4907-f000-0000fd44fda7",
-          "date_time": "2026-02-20 12:33:46.768"
-        },
-        {
-          "message_media": [],
-          "message_text": "I am trying to buy something that is full price.",
-          "message_type": "customer",
-          "date_time": "2026-02-20 12:34:26.821"
-        },
-        {
-          "message_media": [],
-          "message_text": "CALPAK: I completely understand and I apologize for the inconvenience. Mind sending a screenshot of the items in your cart and the error message so I can check? ",
-          "message_type": "agent",
-          "agent": "35256",
-          "message_id": "019c7c1f-4e17-48a2-f000-0000fd44fda7",
-          "date_time": "2026-02-20 12:35:52.370"
-        },
-        {
-          "message_media": [],
-          "message_text": "Template used: \"Invalid code for marketing texts - All brands\"; last updated: 2023-10-10 16:39:50.091",
+          "message_text": "Template used: \"Customer support\"; last updated: 2024-05-28 16:56:57.736",
           "message_type": "template",
-          "date_time": "2026-02-20 12:43:11.970"
+          "date_time": "2026-02-08 13:17:15.278"
         },
         {
           "message_media": [],
-          "message_text": "CALPAK: Thank you for sharing that. Upon checking, the code AT1NT1V26IRvPlO appears to work on my end. Just to make sure, have you signed up for text or email alerts before? If so, our system is set up to give the same promo you previously received, which might be why that code isn't working!",
+          "message_text": "Nectar: Thanks for reaching out, and I'm sorry to hear about this. The best way to handle this is to email us at support@nectarsleep.com or give us a call at +1 (888) 863-2827. Our sleep specialists are available 24/7, and they'll be more than happy to help!",
           "message_type": "agent",
-          "agent": "109968",
-          "message_id": "019c7c26-034e-43b5-f000-0000fd44fda7",
-          "date_time": "2026-02-20 12:43:11.973"
+          "agent": "109972",
+          "message_id": "019c3e78-e0fa-4552-f000-0000f7dd6ded",
+          "date_time": "2026-02-08 13:17:15.280"
         }
       ],
       "notes": {
         "send_to_cs": [
-          "Send to CS for post purchase inquiries, use PPI shortcut",
-          "If cx needs help returning/exchanging a gift send to CS",
-          "Send to CS for discount code issues"
-        ],
-        "escalate": [
-          "When ESC add email to notes for all escalations"
-        ]
-      },
-      "rightPanel": {
-        "source": {
-          "label": "Website",
-          "value": "https://calpaktravel.com",
-          "date": ""
-        },
-        "browsingHistory": [
-          {
-            "item": "Medium Compression Packing Cubes",
-            "link": "https://www.calpaktravel.com/products/medium-compression-packing-cubes/lavender-bloom",
-            "timeAgo": "2026-02-20"
-          },
-          {
-            "item": "Medium Compression Packing Cubes",
-            "link": "https://www.calpaktravel.com/products/medium-compression-packing-cubes/lavender-bloom",
-            "timeAgo": "2026-02-20"
-          },
-          {
-            "item": "Insulated Lunch Bag",
-            "link": "https://www.calpaktravel.com/products/insulated-lunch-bag/camel",
-            "timeAgo": "2026-02-20"
-          },
-          {
-            "item": "Insulated Lunch Bag",
-            "link": "https://www.calpaktravel.com/products/insulated-lunch-bag/polka-dot",
-            "timeAgo": "2026-02-20"
-          },
-          {
-            "item": "Insulated Lunch Bag",
-            "link": "https://www.calpaktravel.com/products/insulated-lunch-bag/polka-dot",
-            "timeAgo": "2026-02-20"
-          }
-        ]
-      },
-      "escalation_preferences": [
-        "change of address"
-      ],
-      "blocklisted_words": [],
-      "has_shopify": true
-    },
-    "70": {
-      "id": "019c6e3c-40b8-44aa-f000-0000fbc86a32",
-      "companyName": "DreamCloud",
-      "companyWebsite": "https://dreamcloudsleep.com",
-      "agentName": "Sam",
-      "messageTone": "Polished",
-      "conversation": [
-        {
-          "message_media": [],
-          "message_text": "DreamCloud: Welcome! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel. Phone support: (833) 237-3269.",
-          "message_type": "system",
-          "date_time": "2026-02-16 22:25:23.557"
-        },
-        {
-          "message_media": [],
-          "message_text": "DreamCloud: You're in (& your deal is here)!",
-          "message_type": "system",
-          "date_time": "2026-02-16 22:25:27.515"
-        },
-        {
-          "message_media": [],
-          "message_text": "DreamCloud: Upgrade your old mattress for less. Save up to 60% + free shipping & returns.\n\nClaim your savings: dreamcloud.attn.tv/a-rwknPYLFci .",
-          "message_type": "system",
-          "date_time": "2026-02-16 22:25:28.522"
-        },
-        {
-          "message_media": [],
-          "message_text": "DreamCloud: That adjustable frame bundle catch your eye? Hotel-quality sleep at home. Save up to 66%! Act now!\n\ndreamcloud.attn.tv/aqtp3ffRsB0d \n.\n",
-          "message_type": "system",
-          "date_time": "2026-02-17 10:34:16.920"
-        },
-        {
-          "message_media": [],
-          "message_text": "DreamCloud: Hello, this is Sam. Thanks for checking out DreamCloud! Why wait to sleep better? You can save up to 60% on mattresses right now.\ndreamcloud.attn.tv/ar3UKUfZU39w\n\nAny questions I can answer for you?\n.",
-          "message_type": "system",
-          "date_time": "2026-02-17 10:42:13.706"
-        },
-        {
-          "message_media": [],
-          "message_text": "What special finance do you have going on ?",
-          "message_type": "customer",
-          "date_time": "2026-02-17 10:44:41.430"
-        },
-        {
-          "message_media": [],
-          "message_text": "DreamCloud: We offer financing via Affirm. Learn more here: https://dreamcloud.attn.tv/aPJR312sArC7/",
-          "message_type": "agent",
-          "agent": "62551",
-          "message_id": "019c6c47-02e7-4cbe-f000-0000fbc86a32",
-          "date_time": "2026-02-17 10:45:19.106"
-        },
-        {
-          "message_media": [],
-          "message_text": "DreamCloud: You are already subscribed. Click here to shop now: https://dreamcloud.attn.tv/cl/0Ee",
-          "message_type": "system",
-          "date_time": "2026-02-17 10:49:31.797"
-        },
-        {
-          "message_media": [],
-          "message_text": "I'm not seeing financing for 24 months it only offered 6 months",
-          "message_type": "customer",
-          "date_time": "2026-02-17 10:54:21.088"
-        },
-        {
-          "message_media": [],
-          "message_text": "DreamCloud: Thank you for sharing this with me, and I'm sorry about that. Can you please share what you see on your end? Also, if you've already applied for a loan with Affirm, they will notify you of the loan amount you're approved for, the interest rate, and the number of months you will have to pay off your loan. You will have the option to choose to pay off your loan over time. Affirm will also state the amount of your fixed, monthly payments and the total amount of interest you'll pay over the course of the loan. You can read more about it here: https://dreamcloud.attn.tv/aLf1Htf0WDV2",
-          "message_type": "agent",
-          "agent": "109955",
-          "message_id": "019c6c5b-5365-4fdb-f000-0000fbc86a32",
-          "date_time": "2026-02-17 11:07:30.438"
-        },
-        {
-          "message_media": [],
-          "message_text": "Thank you but I changed my mind for now",
-          "message_type": "customer",
-          "date_time": "2026-02-17 11:15:40.941"
-        },
-        {
-          "message_media": [],
-          "message_text": "DreamCloud: Closing out Presidents Day deals. Save up to 60% on mattresses + extra 5% off ends tonight! Code S5PD26.\n\ndreamcloud.attn.tv/a55tek6DZJiK\n.",
-          "message_type": "system",
-          "date_time": "2026-02-17 19:01:02.816"
-        },
-        {
-          "message_media": [],
-          "message_text": "If you can call me tomorrow I like to ask some questions before buying, if I buy",
-          "message_type": "customer",
-          "date_time": "2026-02-17 19:51:24.780"
-        },
-        {
-          "message_media": [],
-          "message_text": "Template used: \"Can't take calls - All brands\"; last updated: 2023-10-10 18:11:21.727",
-          "message_type": "template",
-          "date_time": "2026-02-17 19:52:48.469"
-        },
-        {
-          "message_media": [],
-          "message_text": "DreamCloud: Hi, thanks for letting me know. However, this number is for SMS only, so I'm not able to make or receive calls. Is it okay if we continue chatting by text?",
-          "message_type": "agent",
-          "agent": "109630",
-          "message_id": "019c6e3c-40b8-44aa-f000-0000fbc86a32",
-          "date_time": "2026-02-17 19:52:48.473"
-        }
-      ],
-      "notes": {
-        "send_to_cs": [
-          "No ESC for this client, send everything to CS, use ESC shortcut",
-          "Use escalation template if customer mentions any of the following:",
-          "➜ Exchanges or returns",
-          "➜ Premuim In - Home Setup Questions",
-          "➜ Discount code errors",
-          "➜ Recalls",
-          "➜ Better Business Bureau (BBB)",
-          "➜ Fiberglass",
-          "➜ Lawyers/Lawsuits",
-          "➜ Class Action",
-          "➜ Post Purchase Issues"
+          "No ESC for this client, send everything to CS",
+          "Send to CS for refund inquiries"
         ],
         "tone": [
-          "Let the customer have the last word"
+          "Close the convo once the client takes over",
+          "Close the convo if the cx first message is ok, no, etc.",
+          "Don't use the word \"off\" when talking about promotions"
+        ],
+        "dos_and_don_ts": [
+          "Don't proactively offer to find pricing info, redirect them to the website instead"
+        ],
+        "promo_and_promo_exclusions": [
+          "Do not offer a coupon to first time purchasers/subscribers. There is not an active discount code at this time. Use DCI shortcut"
         ]
       },
       "rightPanel": {
         "source": {
           "label": "Website",
-          "value": "https://dreamcloudsleep.com",
+          "value": "https://nectarsleep.com",
           "date": ""
         },
-        "browsingHistory": [
+        "orders": [
           {
-            "item": "DreamCloud Classic Hybrid Mattress",
-            "link": "https://www.dreamcloudsleep.com/mattress?cpn=S5PD26&utm_campaign=%5BDC%5D_%5BP%5D_cmp%5BPOTUS%5D_SMS%5B13%5D_off%5BUpto60off%5D_ct%5BNonpurchasers%5D_021726&utm_medium=sms&utm_source=Attentive&externalId=8fXDz",
-            "timeAgo": "2026-02-18"
+            "orderNumber": "N-17475856",
+            "orderDate": "2026-02-04",
+            "items": [
+              {
+                "name": "Nectar Premier Hybrid Mattress",
+                "price": 1178,
+                "productLink": "http://www.nectarsleep.com/hybrid-premier-mattress"
+              }
+            ],
+            "total": 1178,
+            "date_time": "2026-02-04 18:23:34.003"
           },
           {
-            "item": "DreamCloud Classic Hybrid Mattress",
-            "link": "https://www.dreamcloudsleep.com/mattress",
-            "timeAgo": "2026-02-17"
+            "orderNumber": "N-16060866",
+            "orderDate": "2025-02-02",
+            "items": [
+              {
+                "name": "the-stf-box-king",
+                "price": 0
+              }
+            ],
+            "total": 1778,
+            "date_time": "2025-02-02 19:00:18.481"
           },
           {
-            "item": "Premier Adjustable Bed Frame",
-            "link": "https://www.dreamcloudsleep.com/mattress-bundles/adjustable-frame-bundle?utm_source=attentive&utm_medium=sms&utm_campaign=B-(D)_TH-(BAU)_T-(flow)_ST-()_N-(AbandonBrowse)_S-(ai)_CT-(nonpurchasers)_SG-()_Nu-(1)_O-(Saveupto60)_CR-()_TE-(dcaibrowse101025)_V-(1)_D-(101025)&externalId=8fXDz",
-            "timeAgo": "2026-02-17"
+            "orderNumber": "N-16060866",
+            "orderDate": "2025-02-02",
+            "items": [
+              {
+                "name": "accidental-hybrid-premier-mattress-extend-coverage",
+                "price": 0,
+                "productLink": "https://www.nectarsleep.com"
+              }
+            ],
+            "total": 1778,
+            "date_time": "2025-02-02 19:00:18.479"
           },
           {
-            "item": "DreamCloud Classic Hybrid Mattress",
-            "link": "https://www.dreamcloudsleep.com/mattress?utm_campaign=B-(D)_TH-(BAU)_T-(flow)_ST-()_N-(welcome)_S-()_CT-(nonpurchasers)_SG-()_Nu-(1)_O-(percentoff)_CR-()_TE-()_V-()_D-(021326)&utm_medium=sms&utm_source=Attentive&externalId=8fXDz",
-            "timeAgo": "2026-02-17"
+            "orderNumber": "N-16060866",
+            "orderDate": "2025-02-02",
+            "items": [
+              {
+                "name": "nectar-hybrid-premier",
+                "price": 1299,
+                "productLink": "http://www.nectarsleep.com/hybrid-premier-mattress"
+              },
+              {
+                "name": "mornington-upholstered",
+                "price": 479,
+                "productLink": "http://www.sienasleep.com/bed-frame-with-headboard"
+              },
+              {
+                "name": "mornington-upholstered",
+                "price": 479,
+                "productLink": "http://www.nectarsleep.com/bed-frame-with-headboard"
+              },
+              {
+                "name": "mornington-upholstered",
+                "price": 479,
+                "productLink": "http://www.dreamcloudsleep.com/bed-frame-with-headboard"
+              }
+            ],
+            "total": 1778,
+            "date_time": "2025-02-02 19:00:18.478"
           }
         ]
       },
       "escalation_preferences": [
+        "Shipping questions",
         "Exchanges and returns",
         "Discount code errors",
-        "Shipping questions",
         "Recall",
         "BBB",
         "fiberglass",
         "lawyer",
         "class action"
       ],
-      "blocklisted_words": [
-        "organic"
-      ],
+      "blocklisted_words": [],
       "has_shopify": false
+    },
+    "70": {
+      "id": "019c4d91-60ab-438d-f000-0000a5a5fcc9",
+      "companyName": "Boston Scally",
+      "companyWebsite": "https://bostonscally.com/",
+      "agentName": "Jordan",
+      "messageTone": "Polished",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "Boston Scally: Grateful Dead x Boston Scally Dancing Bears Cap is here to bring the vibes 🎸 but won't last long ⚡️\n\nSHOP NOW: bostonscally.attn.tv/aPRg1DqEK8nZ ",
+          "message_type": "system",
+          "date_time": "2026-01-12 12:05:14.691"
+        },
+        {
+          "message_media": [],
+          "message_text": "Boston Scally: These Roses never wilt - they earn their place in your rotation. Get 10% off the iconic Rose Collection scally caps with code ROSE.\n\nGrab yours before they're gone.\n \n SHOP NOW: bostonscally.attn.tv/as02XHEDIrwJ ",
+          "message_type": "system",
+          "date_time": "2026-01-14 12:03:44.380"
+        },
+        {
+          "message_media": [],
+          "message_text": "Boston Scally: NEW! The 'Box of Chocolates' is NOW AVAILABLE! Plus, The 'Valentine Rose', 'All Heart', and 'Cupid' are BACK! \n\nSHOP NOW: bostonscally.attn.tv/aj_zbr5I4cs9 ",
+          "message_type": "system",
+          "date_time": "2026-01-16 14:03:40.186"
+        },
+        {
+          "message_media": [],
+          "message_text": "Boston Scally: Match made in heaven. The 'Box of Chocolates' and 'Valentine Rose' 🌹 Plus, shop the Valentine's Collection now: bostonscally.attn.tv/a-7KjILHMvoE ",
+          "message_type": "system",
+          "date_time": "2026-01-19 12:05:10.976"
+        },
+        {
+          "message_media": [],
+          "message_text": "Boston Scally: The 'Scot' is HERE! 10% OFF with code: SCOT. Grab yours quick before it's gone!\n\nSHOP NOW: bostonscally.attn.tv/aa7OSGIzE3sh ",
+          "message_type": "system",
+          "date_time": "2026-01-23 14:12:17.126"
+        },
+        {
+          "message_media": [],
+          "message_text": "Boston Scally: NEW! In case you missed it, the 'Scot' has arrived! \n\nGrab yours today and get 10% OFF with code SCOT: bostonscally.attn.tv/aj4MrQiF1AO3 ",
+          "message_type": "system",
+          "date_time": "2026-01-26 12:04:00.474"
+        },
+        {
+          "message_media": [],
+          "message_text": "Boston Scally: NEW: The 'Cloverland' is here! Plus, The 'Bareknuckle Irish Edition' is back in stock! Don't miss this!\n\nSHOP NOW: bostonscally.attn.tv/ajVsiUabEDfR ",
+          "message_type": "system",
+          "date_time": "2026-01-30 14:06:41.354"
+        },
+        {
+          "message_media": [],
+          "message_text": "Boston Scally: Take 10% off the NEW 'Cloverland' and this season's best selling scally caps with code: CLOVERLAND\n\nSHOP NOW: bostonscally.attn.tv/amg416v2ELRz ",
+          "message_type": "system",
+          "date_time": "2026-02-02 18:07:25.409"
+        },
+        {
+          "message_media": [],
+          "message_text": "Boston Scally: The 'Kilkenny' is HERE! Plus, our favorite 'Irish Baker Boy' is back! Limited quantities available, don't let these get away! \n\nSHOP NOW: bostonscally.attn.tv/aCkFDg4nw_L6 ",
+          "message_type": "system",
+          "date_time": "2026-02-06 14:07:00.933"
+        },
+        {
+          "message_media": [],
+          "message_text": "Boston Scally: Did you see? The 'Kilkenny' and 'Irish Baker Boy' dropped and they're going FAST! Grab these St. Pat's favorites before they're gone!\n\nSHOP NOW: bostonscally.attn.tv/a-5KTkEqtt3y ",
+          "message_type": "system",
+          "date_time": "2026-02-07 15:01:14.294"
+        },
+        {
+          "message_media": [],
+          "message_text": "Boston Scally: The highly anticipated St. Patrick's Day Collection is BACK! Here's your chance to grab the season's best sellers before they sell out again! \n\nSHOP NOW: bostonscally.attn.tv/aoP8a6pLm7ep ",
+          "message_type": "system",
+          "date_time": "2026-02-09 12:02:40.946"
+        },
+        {
+          "message_media": [],
+          "message_text": "Boston Scally: Don't leave Boston Scally The Guinness Cap Pin Set behind! Finish your order now before it's gone for good: bostonscally.attn.tv/aYtMC1-1u-AI",
+          "message_type": "system",
+          "date_time": "2026-02-11 11:18:39.923"
+        },
+        {
+          "message_media": [],
+          "message_text": "I'm waiting for the Guinness hat",
+          "message_type": "customer",
+          "date_time": "2026-02-11 11:25:30.253"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"Restock (website & social)\"; last updated: 2025-10-09 21:41:33.472",
+          "message_type": "template",
+          "date_time": "2026-02-11 11:38:19.113"
+        },
+        {
+          "message_media": [],
+          "message_text": "Boston Scally: Glad to see yoou've taken an interest in our offering. I'm afraid I currently don't have the exact date of a possible restock, but I recommend checking our website and social media frequently. In the meantime, you can check our newest arrivals here: https://bostonscally.attn.tv/aqjdXbsPWSuv",
+          "message_type": "agent",
+          "agent": "109968",
+          "message_id": "019c4d91-60ab-438d-f000-0000a5a5fcc9",
+          "date_time": "2026-02-11 11:38:19.116"
+        }
+      ],
+      "notes": {
+        "send_to_cs": [
+          "Send to CS for post purchase issues, use PPI shortcut"
+        ]
+      },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://bostonscally.com/",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "Boston Scally The Guinness Cap Pin Set",
+            "link": "https://www.bostonscally.com/products/boston-scally-guinness-pin-set",
+            "timeAgo": "2026-02-11"
+          },
+          {
+            "item": "Boston Scally Happy Gilmore Cap Pin Set",
+            "link": "https://www.bostonscally.com/products/boston-scally-the-happy-gilmore-pin-pack",
+            "timeAgo": "2026-02-11"
+          },
+          {
+            "item": "The Bareknuckle Boston Scally Cap - Irish Edition - X-Small [54cm]",
+            "link": "https://www.bostonscally.com/products/the-irish-bareknuckle-boston-scally-cap",
+            "timeAgo": "2026-02-11"
+          },
+          {
+            "item": "The Guinness Boston Scally Cap - Medium/Large [58cm]",
+            "link": "https://www.bostonscally.com/products/the-guinness-boston-scally-cap",
+            "timeAgo": "2026-02-09"
+          },
+          {
+            "item": "The Guinness Boston Scally Cap - X-Small [54cm]",
+            "link": "https://www.bostonscally.com/products/the-guinness-boston-scally-cap",
+            "timeAgo": "2026-02-09"
+          }
+        ],
+        "orders": [
+          {
+            "orderNumber": "7429041815639",
+            "orderDate": "2025-11-05",
+            "items": [
+              {
+                "name": "The Scrapyard Boston Scally Cap - Black",
+                "price": 52,
+                "productLink": "https://boston-scally-co.myshopify.com/products/the-leather-boston-scally-cap-black"
+              }
+            ],
+            "total": 56.09,
+            "coupon": "SCRAPYARD",
+            "date_time": "2025-11-05 00:08:25.832"
+          },
+          {
+            "orderNumber": "1911471",
+            "orderDate": "2025-03-17",
+            "items": [
+              {
+                "name": "The Goon Boston Scally Cap - Black & Gold",
+                "price": 52,
+                "productLink": "https://boston-scally-co.myshopify.com/products/the-goon-boston-scally-cap"
+              }
+            ],
+            "link": "https://www.bostonscally.com/2339765/orders/b2e9d958290ff068d2a20aa0f27afe8a/authenticate?key=bd33f7ec4ea87cddae7c9cd3e0633722",
+            "trackingLink": "https://tools.usps.com/go/TrackConfirmAction.action?tRef=fullpage&tLc=1&text28777=&tLabels=9400136208303284631720",
+            "order_tracking_link": "https://tools.usps.com/go/TrackConfirmAction.action?tRef=fullpage&tLc=1&text28777=&tLabels=9400136208303284631720",
+            "total": 55.59,
+            "coupon": "GOON",
+            "date_time": "2025-03-17 16:47:24.827"
+          },
+          {
+            "orderNumber": "1670511",
+            "orderDate": "2024-12-03",
+            "items": [
+              {
+                "name": "The Flap Cap Boston Scally Cap - Grey Herringbone",
+                "price": 56,
+                "productLink": "https://boston-scally-co.myshopify.com/products/herringbone-ear-flap-boston-scally-cap"
+              }
+            ],
+            "link": "https://www.bostonscally.com/2339765/orders/1e8ac95785ec210673be47415ba036ea/authenticate?key=24670f795ad1ba23997444af05c8604d",
+            "trackingLink": "https://tools.usps.com/go/TrackConfirmAction.action?tRef=fullpage&tLc=1&text28777=&tLabels=9400136208271293379639",
+            "order_tracking_link": "https://tools.usps.com/go/TrackConfirmAction.action?tRef=fullpage&tLc=1&text28777=&tLabels=9400136208271293379639",
+            "total": 53.59,
+            "coupon": "BLACKFRIDAY",
+            "date_time": "2024-12-03 12:49:47.143"
+          }
+        ]
+      },
+      "escalation_preferences": [],
+      "blocklisted_words": [],
+      "has_shopify": true
     }
   }
 }

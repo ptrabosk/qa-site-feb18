@@ -3,697 +3,305 @@
   "chunk": "chunk_0005",
   "scenarios": {
     "21": {
-      "id": "019c67bd-6bc7-4c01-f000-0000deb3c2ee",
-      "companyName": "Dr. Scholl's Shoes",
-      "companyWebsite": "https://drschollsshoes.com",
-      "agentName": "Jordan",
+      "id": "019c5475-dc15-44d5-f000-0000f39bbec1",
+      "companyName": "Modern Gents Trading Co",
+      "companyWebsite": "https://modgents.com",
+      "agentName": "Sarah",
       "messageTone": "Polished",
       "conversation": [
         {
           "message_media": [],
-          "message_text": "Dr. Scholl's Shoes: New Year, New Shoes! EXTRA 20% OFF select styles! Start your shoedrobe refresh NOW.\n\nCode EXTRA20: drschollsshoes.attn.tv/aOfQUJNclXuG .",
+          "message_text": "Modern Gents: Oh no! Your MYSTERY OFFER expired. If you reply YES, I'll extend it for another 24 hours :)",
           "message_type": "system",
-          "date_time": "2026-01-17 18:30:16.524"
+          "date_time": "2026-01-14 17:42:51.403"
         },
         {
           "message_media": [],
-          "message_text": "Dr. Scholl's Shoes: EXTRA 20% off styles for you, him & the kiddos! New Year DEALS, wear NOW styles. HURRY!\n\nCode EXTRA20: drschollsshoes.attn.tv/audil8hBYOhL .",
+          "message_text": "Modern Gents: Your Store Credit expires soon :(\n\nRedeem it at checkout with code: STBN8W\n\nmodgents.attn.tv/arCDhCk7NM46\n\nPS: It's use it or lose it!",
           "message_type": "system",
-          "date_time": "2026-01-18 15:30:18.744"
+          "date_time": "2026-01-15 17:35:45.882"
         },
         {
           "message_media": [],
-          "message_text": "Dr. Scholl's Shoes: FINAL HOURS FOR EXTRA 20% OFF! Your faves start @$31.99. PLUS free ship on orders $65+\n\nCode EXTRA20: drschollsshoes.attn.tv/aedXL64tv5xH . ",
+          "message_text": "Modern Gents: Something exciting is HERE!\n\nUse code BA30zS for 30% OFF your next jewelry pick.\n\nFind your perfect piece ✨: https://modgents.attn.tv/aMG5HFUBuuR_ .",
           "message_type": "system",
-          "date_time": "2026-01-20 13:35:12.444"
+          "date_time": "2026-01-15 18:20:58.768"
         },
         {
           "message_media": [],
-          "message_text": "Dr. Scholl's Shoes: LAST CHANCE! EXTRA 20% off sale styles w/ code EXTRA20. Plus, free ship on orders $65+\n\nSHOP NOW: drschollsshoes.attn.tv/aNb8Nt03mNic . ",
+          "message_text": "Modern Gents: OMG. WE JUST DROPPED A NEW RING!\n\nmodgents.attn.tv/a6u8lFLvyZSV\n\nPS: Your Store Credit Expires this weekend!\n\nUse Your VIP Code: STBN8W @checkout",
           "message_type": "system",
-          "date_time": "2026-01-20 18:30:10.086"
+          "date_time": "2026-01-16 17:31:35.111"
         },
         {
           "message_media": [],
-          "message_text": "Dr. Scholl's Shoes: Clearance season but make it comfortable. Up to 65% off + Free Ship $65+. Winter Clearance is on!\n\nGO: drschollsshoes.attn.tv/aPOJpn31uSD1 .",
+          "message_text": "Modern Gents: LAST CHANCE\nYour store credit expires tomorrow\n\nUse code: STBN8W @checkout b4 it's gone!\nmodgents.attn.tv/aqgBDE1D-Ih6\n\nPay Later w/Shop or Klarna",
           "message_type": "system",
-          "date_time": "2026-01-21 13:30:18.063"
+          "date_time": "2026-01-18 17:05:23.157"
         },
         {
           "message_media": [],
-          "message_text": "Dr. Scholl's Shoes: Try the Time Off Max Lace Up Sneaker for cushioned support and a flexible, sustainable platform fit.\n\nFree shipping on orders $65+. Free returns within 45 days of purchase.\n\nYour next pair is here: https://drschollsshoes.attn.tv/aOQ6-YY1oo9z .",
+          "message_text": "Modern Gents: Want a FREE RING!?\n\nBuy 2 pieces of jewelry, Get 1 FREE!\nUse code: B2G1F\n\nmodgents.attn.tv/aYuCD6UeLrH7 \n\nLimited VIP Offer. Hurry b4 it expires!",
           "message_type": "system",
-          "date_time": "2026-01-21 20:24:02.934"
+          "date_time": "2026-01-20 17:41:02.490"
         },
         {
           "message_media": [],
-          "message_text": "Dr. Scholl's Shoes: Sneaks starting at $25.99? Say less. Everyday comfort is up to 65% off + free ship $65+. \n\nSHOP NOW: drschollsshoes.attn.tv/aTInSa2F2sye . ",
+          "message_text": "Modern Gents: Complete your pick. The Meadow Engagement Ring looks stunning with its 2 carat round cut and leaf detailing — grab it before it's gone! 😊\n\nUse code AC2A5s for 25% off.\n\nSHOP NOW: https://modgents.attn.tv/axQpeV2Mi3DT .",
           "message_type": "system",
-          "date_time": "2026-01-23 13:30:21.092"
+          "date_time": "2026-01-21 10:40:49.277"
         },
         {
           "message_media": [],
-          "message_text": "Dr. Scholl's Shoes: Beat the Sunday Scaries. Boots + casuals up to 65% off + Free Ship on $65+. \n\nSHOP WINTER CLEARANCE: drschollsshoes.attn.tv/aDXTi2zBCNwW . ",
+          "message_text": "Modern Gents: Something exciting is HERE! Explore gold engagement rings with warm yellow tones and classic settings you'll want to try.\n\nFree standard shipping on orders.\n\nGet yours: https://modgents.attn.tv/ayjf8XEqbwRn . ✨",
           "message_type": "system",
-          "date_time": "2026-01-25 15:30:16.891"
+          "date_time": "2026-01-21 11:40:59.484"
         },
         {
           "message_media": [],
-          "message_text": "Dr. Scholl's Shoes: Cozy up to winter SAVINGS! Winter Clearance is on w/ up to 65% off select styles + Free Ship $65+\n\nGO: drschollsshoes.attn.tv/aemnzvp68FjY .",
+          "message_text": "Modern Gents: 2 CODES. BIGGER SAVINGS.\n\nSTACK two codes @checkout to SAVE MORE!\n\nUse Codes:\nLOVE\nYOU\n\nmodgents.attn.tv/aQwxLzKqjpDk \n\nHURRY! ENDS SOON!",
           "message_type": "system",
-          "date_time": "2026-01-28 13:30:14.521"
+          "date_time": "2026-01-23 17:45:55.387"
         },
         {
           "message_media": [],
-          "message_text": "Dr. Scholl's Shoes: Your size won't wait. Comfort goes quick! Up to 65% off select styles + Free Ship on $65+. \n\nHURRY: drschollsshoes.attn.tv/aNgLb1g-noTy . ",
+          "message_text": "Modern Gents: Complete your pick: the Meadow Engagement Ring with its 2 carat round stone and leaf detailing is waiting for you.\n\nUse code AC2A5s to get 25% off your purchase, valid on eligible items.\n\nShop now: https://modgents.attn.tv/a7rsCPtOVA28 .",
           "message_type": "system",
-          "date_time": "2026-01-31 13:35:11.041"
+          "date_time": "2026-01-24 10:40:40.403"
         },
         {
           "message_media": [],
-          "message_text": "Dr. Scholl's Shoes: Hey, we noticed you checking us out. Have you seen our best sellers yet? drschollsshoes.attn.tv/atwww1MpporG . ",
+          "message_text": "Modern Gents: Something exciting is HERE! Gold engagement rings with classic, modern bands you'll love.\n\nFree standard shipping on your order.\n\nSee them now: https://modgents.attn.tv/aybiuEg18ADp . 🚀",
           "message_type": "system",
-          "date_time": "2026-02-01 13:39:59.355"
+          "date_time": "2026-01-24 11:40:51.524"
         },
         {
           "message_media": [],
-          "message_text": "Dr. Scholl's Shoes: Last day to shop Winter Clearance! Up to 65% off select styles + Free Ship $65+. Ends tonight!\n\nGO: drschollsshoes.attn.tv/abNGf03xJOdl . ",
+          "message_text": "Modern Gents: THIS ENDS TOMORROW\n\nStack two codes @checkout for BIG savings!\n\nUse Codes:\nLOVE\nYOU\n\nmodgents.attn.tv/aodUGkvxbugF\n\nHURRY! Don't miss out :(",
           "message_type": "system",
-          "date_time": "2026-02-01 15:30:14.997"
+          "date_time": "2026-01-25 17:15:17.648"
         },
         {
           "message_media": [],
-          "message_text": "Dr. Scholl's Shoes: Final hours: Winter Clearance ends tonight with up to 65% off + Free Ship $65+. \n\nHURRY: drschollsshoes.attn.tv/a8wo8kN6jC3m . ",
+          "message_text": "Modern Gents: FINAL HOURS!\n\nStack two codes @checkout for the BEST SAVINGS!\n\nUse Codes:\nLOVE\nYOU\n\nmodgents.attn.tv/aLfI0bxYuwlO \n\nOFFER ENDS TONIGHT!",
           "message_type": "system",
-          "date_time": "2026-02-01 18:30:06.839"
+          "date_time": "2026-01-26 18:04:06.847"
         },
         {
           "message_media": [],
-          "message_text": "Dr. Scholl's Shoes: Just dropped: SPRING. New sneaks, fresh sandals + your viral faves in new hues! \n\nSHOP NEW ARRIVALS: drschollsshoes.attn.tv/affsUkt6oMhs . ",
+          "message_text": "Modern Gents: TIME IS RUNNING OUT!\n\nYOUR EXCLUSIVE 70% OFF A SINGLE ITEM ENDS SOON!\n\nmodgents.attn.tv/amCUyB6MKAar\n\nFYI: This Sale is ONLY for VIP subscribers!",
           "message_type": "system",
-          "date_time": "2026-02-08 15:30:14.712"
+          "date_time": "2026-01-27 16:47:02.344"
         },
         {
           "message_media": [],
-          "message_text": "Dr. Scholl's Shoes: Pantone calls it Cloud Dancer. We call it Time Off White, timeless. \n\nSNAG THE TIKTOK FAVE: drschollsshoes.attn.tv/ajMocyPPTJ3g . ",
+          "message_text": "Modern Gents: Hello, thanks for visiting!\n\nUse code BA30zS for 30% off at checkout.\n\nTry some jewelry picks: https://modgents.attn.tv/ag-KBHlHYqhv .",
           "message_type": "system",
-          "date_time": "2026-02-09 13:30:16.343"
+          "date_time": "2026-01-28 10:40:48.152"
         },
         {
           "message_media": [],
-          "message_text": "Dr. Scholl's Shoes: STARTS NOW: Take an EXTRA 20% off select styles+ free ship! Use code: TAKE20\n\nFind your solemate now: drschollsshoes.attn.tv/a4ccQ8wrqG4x . ",
+          "message_text": "Modern Gents: Don't forget! YOU UNLOCKED 70% OFF a single item!\n\nmodgents.attn.tv/ac5OPxRFnqfB\n\nPS: Offer ends soon! \n\nPay later w/Klarna, Sezzle or Shop Pay",
           "message_type": "system",
-          "date_time": "2026-02-13 13:30:16.717"
+          "date_time": "2026-01-29 14:01:31.903"
         },
         {
           "message_media": [],
-          "message_text": "Dr. Scholl's Shoes: Hey, we noticed you checking us out. Have you seen our best sellers yet? drschollsshoes.attn.tv/a8UinOVhe1Td . ",
+          "message_text": "Modern Gents: Your VIP offer ENDS TOMORROW :(\n\nLast Chance to get 70% off a single item!\n\nmodgents.attn.tv/aDGw93IaqIlz \n\nOrder & get it before Valentine's Day!",
           "message_type": "system",
-          "date_time": "2026-02-14 13:55:42.198"
+          "date_time": "2026-01-31 13:03:10.874"
         },
         {
           "message_media": [],
-          "message_text": "Dr. Scholl's Shoes: ENDS SOON: Take an EXTRA 20% off + free ship before it's too late!\n\nShop your faves w/ code TAKE20: drschollsshoes.attn.tv/aeLEuKXP2al8 .",
+          "message_text": "Modern Gents: CUPID SENT YOU A VIP CODE <3\n\nUse code: VVIP897 @checkout to SAVE MORE!\n\nmodgents.attn.tv/aVlhlfxjbYXq\n\nOrder today & get it b4 Valentine's Day!",
           "message_type": "system",
-          "date_time": "2026-02-15 15:30:08.158"
+          "date_time": "2026-02-04 17:36:32.711"
         },
         {
           "message_media": [],
-          "message_text": "Dr. Scholl's Shoes: LAST CHANCE for an EXTRA 20% off + free ship! Add to cart & use code: TAKE20\n\nSHOP NOW: drschollsshoes.attn.tv/aPpN1VVhsCvT ",
+          "message_text": "Modern Gents: ORDER TODAY w/Rush Shipping & GET IT B4 VALENTINE'S DAY\n\nmodgents.attn.tv/a6DvCtrVNsTN\n\nUse code: VVIP897 @checkout to SAVE BIG - Expires Soon!",
           "message_type": "system",
-          "date_time": "2026-02-16 13:35:07.098"
+          "date_time": "2026-02-06 17:26:36.447"
         },
         {
           "message_media": [],
-          "message_text": "Ok",
+          "message_text": "Modern Gents: LAST CHANCE! \nVIP offer ends tomorrow\n\nUse code: VVIP897\n\nmodgents.attn.tv/alHa5loUgmJR\n\nOrder by TUES @12pm PST w/Rush Shipping & get it by VDAY!",
+          "message_type": "system",
+          "date_time": "2026-02-08 13:06:10.040"
+        },
+        {
+          "message_media": [],
+          "message_text": "Modern Gents: HURRY! Get it b4 VDAY w/Express Shipping!\n\n$25 OFF $99+\ncode: v25\n\n$40 OFF $149+\ncode: v40\n\n$60 OFF $199+\ncode: v60\n\nmodgents.attn.tv/aNXNRVtMl1lo",
+          "message_type": "system",
+          "date_time": "2026-02-10 17:36:32.706"
+        },
+        {
+          "message_media": [],
+          "message_text": "Modern Gents: We <3 You!\n\nHere's 70% OFF a single item!\n\nmodgents.attn.tv/aEmXY5N0bhdd\n\nPS: Ends this weekend!\n\nPay later w/Klarna, Sezzle or Shop Pay",
+          "message_type": "system",
+          "date_time": "2026-02-12 18:46:19.060"
+        },
+        {
+          "message_media": [],
+          "message_text": "Modern Gents: Complete your checkout for The Delilah Wedding Ring Set — a sparkling 1-carat pear center with intricate round details and matching half-eternity band.\n\nUse code AC2A5s for 25% off.\n\nShop now: https://modgents.attn.tv/aClskR28sU7b .",
+          "message_type": "system",
+          "date_time": "2026-02-12 19:13:31.890"
+        },
+        {
+          "message_media": [],
+          "message_text": "Modern Gents: We <3 You!Here's 70% OFF a single item!modgents.attn.tv/aEmXY5N0bhddPS: Ends this weekend!Pay later w/Klarna, Sezzle or Shop PayRe:It did not give me 70% off",
           "message_type": "customer",
-          "date_time": "2026-02-16 13:35:28.587"
+          "date_time": "2026-02-12 19:19:20.225"
         },
         {
           "message_media": [],
-          "message_text": "Dr. Scholl's Shoes: Glad to hear it! In the meantime, please don't hesitate to reach out if you have any questions. I'm happy to help.",
+          "message_text": "Modern Gents: I apologize for the inconvenience this has caused. This offer requires two eligible items in your cart, and add-on items do not qualify. You'll also need to enter code MY70 in the promo box at checkout to apply the discount.\n\nTo better assist you, could you let me know which items are currently in your cart? If it's easier, you're welcome to share a screenshot, and I'll take a closer look to make sure everything qualifies correctly. \n\nIf you're thinking about adding another item to meet the requirements, you can check out our new arrivals here: https://modgents.attn.tv/amCPatN8capB ",
           "message_type": "agent",
-          "agent": "109968",
-          "message_id": "019c67bd-6bc7-4c01-f000-0000deb3c2ee",
-          "date_time": "2026-02-16 13:36:33.125"
+          "agent": "87595",
+          "message_id": "019c5470-266b-4d1c-f000-0000f39bbec1",
+          "date_time": "2026-02-12 19:39:21.993"
+        },
+        {
+          "message_media": [],
+          "message_text": "Modern Gents: Thanks for sending that screenshot over! It appears that you only have one item in your cart, that's likely why the offer is not showing. Please note that it requires two eligible items in your cart and you need to enter the code: MY70 as well during checkout.\n\nPlease let me know how I can assist you further today, I'm just a text away!",
+          "message_type": "agent",
+          "agent": "109617",
+          "message_id": "019c5475-dc15-44d5-f000-0000f39bbec1",
+          "date_time": "2026-02-12 19:45:36.177"
         }
       ],
       "notes": {
-        "escalate": [
-          "For all ESC use ESC shortcut",
-          "When ESC code issues, include the promo code in the ESC notes"
+        "send_to_cs": [
+          "No ESC for this client, send everything to CS"
         ],
-        "promo_and_promo_exclusions": [
-          "Coupon codes CAN be combined with sale items"
+        "tone": [
+          "Close the convo once the client takes over!"
         ]
       },
       "rightPanel": {
         "source": {
           "label": "Website",
-          "value": "https://drschollsshoes.com",
+          "value": "https://modgents.com",
           "date": ""
         },
         "browsingHistory": [
           {
-            "item": "women's time off max lace up sneaker",
-            "link": "https://www.drschollsshoes.com/product/dr-scholls-womens-time-off-max-lace-up-sneaker-5275931/charcoal-fabric-87423",
-            "timeAgo": "2026-01-22"
+            "item": "The Delilah - Gold",
+            "link": "https://modgents.com/products/the-delilah-gold",
+            "timeAgo": "2026-02-13"
           },
           {
-            "item": "women's bianca wedge bootie",
-            "link": "https://www.drschollsshoes.com/product/dr-scholls-womens-bianca-wedge-bootie-5264549/black-05931",
-            "timeAgo": "2025-12-28"
+            "item": "The Bliss - Gold",
+            "link": "https://modgents.com/products/the-bliss-gold?group=true&Size=4",
+            "timeAgo": "2026-02-12"
           },
           {
-            "item": "women's feel support lace up sneaker",
-            "link": "https://www.drschollsshoes.com/product/dr-scholls-beyond-comfort-womens-feel-support-lace-up-sneaker-5277585/black-fabric-13008",
-            "timeAgo": "2025-12-28"
+            "item": "The Bliss - Rose Gold",
+            "link": "https://modgents.com/products/the-bliss-rose-gold",
+            "timeAgo": "2026-02-12"
+          },
+          {
+            "item": "The Zara",
+            "link": "https://modgents.com/products/the-zara",
+            "timeAgo": "2026-02-12"
+          },
+          {
+            "item": "The Isla - Gold",
+            "link": "https://modgents.com/products/the-isla-gold",
+            "timeAgo": "2026-02-12"
           }
+        ]
+      },
+      "escalation_preferences": [],
+      "blocklisted_words": [],
+      "has_shopify": true
+    },
+    "22": {
+      "id": "019c5cfd-febc-463f-f000-00004b414589",
+      "companyName": "Lacoste",
+      "companyWebsite": "https://lacoste.com",
+      "agentName": "Sarah",
+      "messageTone": "Polished",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "Lacoste: Up to 50% off PLUS extra 20% off select styles. Happening now!\n\nShow Now: lacoste.attn.tv/aag7YsChyT8R .\n\n*exclusions apply",
+          "message_type": "system",
+          "date_time": "2026-02-13 15:31:21.702"
+        },
+        {
+          "message_media": [],
+          "message_text": "Lacoste: You are already subscribed. Click here to shop now: lacoste.com.",
+          "message_type": "system",
+          "date_time": "2026-02-14 10:35:32.355"
+        },
+        {
+          "message_media": [],
+          "message_text": "Promo code?",
+          "message_type": "customer",
+          "date_time": "2026-02-14 10:38:27.631"
+        },
+        {
+          "message_media": [],
+          "message_text": "Lacoste: You are already subscribed. Click here to shop now: lacoste.com.",
+          "message_type": "system",
+          "date_time": "2026-02-14 10:42:58.346"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"No promotions available - All brands\"; last updated: 2023-10-10 16:37:45.165",
+          "message_type": "template",
+          "date_time": "2026-02-14 11:31:15.673"
+        },
+        {
+          "message_media": [],
+          "message_text": "Lacoste: Thank you for reaching out! I apologize for the delayed response. I'm afraid I don't have any codes available at the moment, but our deals will always be shared with our SMS subscribers or on our website, so keep an eye out! In the meantime, you can check out our sales collection here: https://www.lacoste.com/us/sale-3/?utm_campaign=20261213_Weekend_Sale_Full_File_V2_base&utm_medium=sms&utm_source=attentive&externalId=310K5",
+          "message_type": "agent",
+          "agent": "109968",
+          "message_id": "019c5cfd-febc-463f-f000-00004b414589",
+          "date_time": "2026-02-14 11:31:15.676"
+        }
+      ],
+      "notes": {
+        "send_to_cs": [
+          "No ESC for this client, send everything to CS"
         ],
-        "orders": [
+        "do_s_and_don_ts": [
+          "Close the convo once the client takes over",
+          "Do use the Holiday Discounts template if you are unsure of the promotion"
+        ]
+      },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://lacoste.com",
+          "date": ""
+        },
+        "browsingHistory": [
           {
-            "orderNumber": "005027251550",
-            "orderDate": "2025-10-17",
-            "items": [
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://www.judybluewholesale.com/88707pl-14w-24w-md-18w.html"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://christiesdirect.com/espree-advanced-care-tea-tree-and-aloe-shampoo-355ml.html"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://www.cardkingdom.com/mtg/unlimited/bad-moon"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://touchupdirect.com/shop/touch-up-paint/kia-midnight-blue-metallic-qg/"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://www.highflowfuel.com/quantum-intank-oem-replacement-fuel-pump-w-tank-seal-for-seadoo-3d-rfi-efi-2004-2005-replaces-275500610/"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://cheapfood.co.uk/box-of-kenco-tassimo-american-grande-5-x-16-pods/"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://www.drschollsshoes.com/product/dr-scholls-beyond-comfort-womens-feel-support-lace-up-sneaker-5277585/black-fabric-13008"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://www.polarnopyretusa.com/my-party-necktie-2-6yrs/"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://www.antiquefarmhouse.com/carved-holiday-believe-sign.html"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://www.lightopia.com/Details/HudsonValley/13008"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://shop.gasketguy.com/gu301A-premade-gasket/"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://echoparkwholesale.com/cbsun144031-sunflower-market-cardmakers-mega-paper-pad/"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://www.northernreflections.com/lightweight-active-jacket-451451490/"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://edeninlove.com/coaster-alohabloomiespapaya"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://checkout.sportsshoes.com/adidas-terrex-tracerocker-half-zip-top-aw20-adi12324/"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://www.cravenspeed.com/the-gemini-phone-mount-for-kia-carnival-magsafe/"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://www.mindgames.ca/lego-harry-potter-hogwarts-moment-potions-class-76383-brick-built-playset-271-pieces/"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://www.everlane.com/products/womens-satin-relaxed-shirt-cornflower-blue?locale=US"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://www.steeda.com/airliftperformance-3P-s550-suspension-kit"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://www.eztestpools.com/meyco-wall-anchor-set-hwall/"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://www.officialbandshirts.com/mayhem-logo-mens-black-t-shirt/"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://echoparkpaper.com/year-in-review-make-things-happen-stamp-set/"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://francescas.com/product/22150TW/claire-structured-mini-satchel"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://www.dormco.com/Black_Texture_Collegiate_College_Storage_Trunks_p/11124-tex-black.htm"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://www.officeresale.co.uk/refurbished-furniture/accessories/screen-monitor-arms/humanscale-m-flex-m2-dual-monitor-arms/"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://bullionsharks.com/1902-s-10-gold-liberty-pcgs-ms64-cac/"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://www.nordicoutdoor.co.uk/houdini-mens-phantom-houdi/"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://shop.adventurewithkeen.com/product/minnesota-hauntings-2/"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://www.chairish.com/product/id/13008?utm_content=Low+Stools&utm_medium=text&utm_source=attentive&utm_term=13008"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://www.seymourshome.com/yard-chunky-waffle-eucalyptus-duvet-cover-set-p13008/"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://daytonamagic.com/shop/magic-dvds/card-sandwich-effects-by-steve-branham-on-dvd/"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://www.modainpelle.com/bags-c5/feriabag-lime-green-porvair-p13008"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://www.keylessentryremotefob.com/ilco-hov01t5-transponder-key/"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://www.fish307.com/minn-kota-trolling-motor-part-pin-prop-obsolete-3025/"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://mcstaging.pierrefabreconnect.com/p0008043-av-vm-cvs-sstrip-set-2s-24-2h23"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://www.factorydirectjewelry.com/womens-collection/white-gold-dainty-marquise-cubic-zirconia-solitaire-proposal-ring/"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://armament.com/vx-2-3-9x50-amber-see-through-flip-cover-with-adapter-ring-ard-compatible-50ltcc-acr/"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://www.alamomusic.com/schumann-g84-grand-piano-satin-walnut/"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://www.hammacher.com/product/serious-blockout-curtains-80-w-x-84-l?cm_cat=ProductSEM&cm_pla=AdWordsPLA&cm_ven=HomeLiving&source=PRODSEM&utm_source=google&utm_medium=organic&utm_campaign=surfaces-across-google&utm_term=13008"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://watchwarehouse.com/cross-century-ii-translucent-blue-lacquer-ballpoint-pen-at0082wg-103/"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://www.rcsuperstore.com/traxxas-6061-t6-aluminum-stub-axle-carriers-red-anodized/"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://industrialladder.com/topper-501058-full-size-window-guard-screen/"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://www.greengaskets.com/schott-gemtron-gasket-3m-0016-021-29-1-4-x-66-3-8/"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://shop.centralparkpuppies.com/puppy/f1b-cavapoo-female-id4841-sf/"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://www.anniesattic.com/sweet-dreams-cross-stitch-pattern-digital-download"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://discount-mugs.mybigcommerce.com/product/mrl635-customizable-shelf-stable-wisconsin-variety-package-with-knife-and-bamboo-cutting-board/"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://collectorstore.com/cherished-teddiesthe-bigger-the-heart-the-more-love-it-can-hold/"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://www.replacements.com/china-anchor-hocking-memories-childs-mug/p/130081"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://www.seriousshops.com/railway-station-40pc-jigsaw-puzzle-by-castorland/"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://sagaconcepts.com/tap-wp3011/"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://stampington.com/bella-grace-issue-24-instant-download/"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://www.prioritytire.com/en/federal-mr295-lt-195-85r16-114l-f-12-ply-as-a-s-all-season-tire"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://liquorama.net/b-side-north-coast-cabernet-2019.html"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://checkout.livesuper.com/products/interchangeable-murano-glass-bracelet-18k-white-gold-with-swarovski-crystals/"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://thereelshot.com/wordens-spin-n-glo-large-met-chart-head-2-1-4/"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://www.macofalltrades.com/shop/fair-condition-apple-macbook-air-13-inch-m1-chip-with-8-core-cpu-and-7-core-gpu-late-2020-space-gray-mgn53ll-a-11/"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://www.everlane.com/products/womens-satin-relaxed-shirt-cornflower-blue?locale=GB"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://www.zennioptical.com/p/titanium-round-eyeglass-frames/13008?skuId=1300821"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://s3powersports.com/evolution-powersports-can-am-defender-large-outlet-exhaust-tip/"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://strathfieldcarradios.com.au/eton-b100w-plug-and-play-2-way-bmw-system/"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://csd.shop/products/women/shoes/ralph-lauren-brown-croc-embossed-pointed-toe-heels.html"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://ampeduplearning.com/adverbs-legal-size-text-tic-tac-toe-bingo-game/"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://store.philamuseum.org/patchwork-quilted-cocoon-jacket/"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://livecarmodel.com/products/1980-mci-mc-9-crusader-ii-intercity-coach-bus-brewster-gray-line-canada-white-and-silver-with-stripes-vintage-bus-motorcoach-collection-1-87-ho-diecast-model-by-iconic-replicas.html"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://macks-prairie-wings-inc-alb.mybigcommerce.com/hoppes-boresnake-viper-den-416-45-70-458-cal-rifle-brush-bronze/"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://www.batteriesinaflash.com/samsung-oem-battery-eb-l1g5hva-fits-galaxy-s-blaze-4g-sgh-t769"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://www.atlantacutlery.com/pleated-front-dress-shirt"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://hotrodcameras.com/dji-ronin-m-mobile-device-holder/"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://www.discounthardware.com/villar-home-designs-prefinished-white-solid-wood-core-door-slab-mallow-with-polycarbonate-solid-glass-28-x-84"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://www.lafurniturestore.com/morph-modern-ultra-compact-extendable-white-dining-table.html"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://www.catwalk.com.au/matrix-setter-mousse-232g"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://www.bwear.com/he-is-strong-premium-baseball-tee-white-navy/"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://www.cassart.co.uk/sennelier-single-soft-pastels-full-ultramarine-deep-391--c/"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://beautysense.ca/en/obagi-obagi360-exfoliating-cleanser.html"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://store.franklinplanner.com/wellness-notebook-set/"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://www.cecilandlou.com/shop-all/blue-seersucker-applique-apple-dress/"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://www.everlane.com/products/womens-satin-relaxed-shirt-cornflower-blue?locale=CA"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://checkout.fascinatingdiamonds.com/loose-diamonds/0-93-carat-round-cut-diamond-7637168/"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://palmbeachjewelry.com/products/paul-sebastian-by-paul-sebastian-for-men-after-shave-4-oz.html"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://www.beercartel.com.au/hawkers-pimms-fruit-sour-cup-gose-440ml-can/"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://premierecollectibles.com/cardinals-kyler-murray-hail-murray-signed-eclipse-proline-f-s-speed-helmet-bas/"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://trendytransfers.com/thankful-mini-dtf-heat-transfer/"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://decoratorswarehouse.com/14-5-gold-glitter-pine-cone-ornament-spray/"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://www.misfitsmarket.com/shop/aisle?addToCart=13008"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://x-ph.com/bmw-hvac-heater-hose-genuine-bmw-64218401808/"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://www.famousfootwear.com/product/dr-scholls-beyond-comfort-womens-feel-support-lace-up-sneaker-5277585/black-fabric-13008"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://www.modainpelle.com/bags-c5/shoulder-bags-c48/feriabag-lime-green-porvair-p13008"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://www.filtersfast.com/"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://www.pierrefabreconnect.com/p0008043-av-vm-cvs-sstrip-set-2s-24-2h23"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://www.razoremporium.com/1940s-gillette-super-speed-double-edge-safety-razor-with-case-original-condition/"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://blessedperformance.com/bd-power-coolant-tube-relocation-kit-2003-2005-dodge-5-9l-cummins/"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://www.gorgeousshop.com/l-oreal-professionnel-shine-blonde-shampoo.html"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://dailysteals.com/products/home-collection-embossed-throw.html"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://www.brilliance.com/wedding-rings/celtic-cross-mens-band-yellow-gold"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://carewell.com/product/neutrogena-makeup-remover-ultra-soft-cleaning-towelettes/"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://www.superbselection.com/varsity-tappa-regga-beer-drinking-adult-t-shirt/"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://eknives.com/microtech-ultratech-od-green-bayonet-satin-plain-120-4od/"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://mcstaging.pierrefabreconnect.com/p0008043-av-vm-cvs-sstrip-set-2s-24-2h23?___store=pierrefabreconnect"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://www.seriouspuzzles.com/afternoon-tea-1000pc-jigsaw-puzzle-by-holdson-discon/"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://replacebase1.evdpl.com/pub/default/for-samsung-galaxy-note-10-replacement-battery-cover-rear-panel-bonding-adhesive-oem.html"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://shop.loriwhitlock.com/flexi-card-child-of-god/"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://www.myotcstore.com/store/p/65695-Lash-Couture-Faux-Mink-Collection-Boudoir-By-Kiss-1-Ea"
-              },
-              {
-                "name": "women's feel support lace up sneaker",
-                "price": 89.99,
-                "productLink": "https://artbeads.com/jewelry-supplies/gold-filled-open-jump-ring-0-025-x-110-inches-0-6-x-2-8mm/"
-              }
-            ],
-            "total": 89.99,
-            "coupon": "drs15wel;drs15wel_fs",
-            "date_time": "2025-10-17 00:36:49.837"
+            "item": "Men's L003 2K24 Sneakers",
+            "link": "https://www.lacoste.com/us/lacoste/men/shoes/sneakers/50SMA0110.html?color=02H",
+            "timeAgo": "2026-02-14"
+          },
+          {
+            "item": "Men's L003 2K24 Sneakers",
+            "link": "https://www.lacoste.com/us/lacoste/men/shoes/sneakers/50SMA0110.html?color=02H",
+            "timeAgo": "2026-02-14"
+          },
+          {
+            "item": "Men's L003 2K24 Sneakers",
+            "link": "https://www.lacoste.com/us/lacoste/men/shoes/sneakers/50SMA0105.html?color=21G",
+            "timeAgo": "2026-02-14"
+          },
+          {
+            "item": "Women's L003 Neo Sneakers",
+            "link": "https://www.lacoste.com/us/lacoste/women/shoes/sneakers/45SFA0001.html?color=075",
+            "timeAgo": "2026-02-13"
+          },
+          {
+            "item": "Men's Tatalya Leather Slip-On",
+            "link": "https://www.lacoste.com/us/lacoste-men-shoes-low-rise-sneakers/37CMA0093.html?color=312",
+            "timeAgo": "2024-07-09"
           }
         ]
       },
@@ -701,8 +309,8 @@
       "blocklisted_words": [],
       "has_shopify": false
     },
-    "22": {
-      "id": "019c49e3-4f83-4a50-f000-0000b730f353",
+    "23": {
+      "id": "019c58bc-2c80-4398-f000-0000b8703b15",
       "companyName": "Custom Gold Grillz",
       "companyWebsite": "https://customgoldgrillz.com",
       "agentName": "Jordan",
@@ -710,73 +318,113 @@
       "conversation": [
         {
           "message_media": [],
-          "message_text": "Custom Gold Grillz: \nKeep your grillz looking new all year. Clean it, store it, protect it.\n\nSHOP NOW\ncustomgoldgrillz.attn.tv/axZeNe1bOcIL \n\n Text STOP to stop",
+          "message_text": "Custom Gold Grillz: \nKeep your grillz looking new all year. Clean it, store it, protect it.\n\nSHOP NOW\ncustomgoldgrillz.attn.tv/aFVVtrJAthHN \n\n",
           "message_type": "system",
-          "date_time": "2026-01-15 19:00:25.698"
+          "date_time": "2026-01-15 19:00:25.588"
         },
         {
           "message_media": [],
-          "message_text": "Custom Gold Grillz: \nCustomize your drip. Pick the cut, the metal, the shine.\n\nSTART HERE\ncustomgoldgrillz.attn.tv/aD6GjctoAyk9 \n\n Text STOP to stop",
+          "message_text": "Custom Gold Grillz: Hey Caleb welcome back! Don't forget to complete your checkout of Solid Sterling Silver Grillz today before it's gone! customgoldgrillz.attn.tv/agHm-0SdnzRd .\n\nAny last-minute questions?\n Jordan .",
           "message_type": "system",
-          "date_time": "2026-01-19 15:30:18.500"
+          "date_time": "2026-01-16 12:04:53.282"
         },
         {
           "message_media": [],
-          "message_text": "Custom Gold Grillz: \nWant something they can't copy? You have to start with opal.\n\nSHOP CUSTOM OPAL\ncustomgoldgrillz.attn.tv/a7mZqGwaJ9mn \n\n Text STOP to stop",
+          "message_text": "Custom Gold Grillz: Need pointing in the right direction?\n\nHere's what's trending this month: https://customgoldgrillz.attn.tv/aMD5WVNRm6QQ ",
           "message_type": "system",
-          "date_time": "2026-01-27 15:30:12.478"
+          "date_time": "2026-01-16 12:21:37.799"
         },
         {
           "message_media": [],
-          "message_text": "Custom Gold Grillz: \nSkip basic gifts. Moissanite grillz hit harder than diamonds.\n\nSHOP MOISSANITE\ncustomgoldgrillz.attn.tv/aCkXj47b43Fz \n\n Text STOP to stop",
+          "message_text": "Custom Gold Grillz: \nCustomize your drip. Pick the cut, the metal, the shine.\n\nSTART HERE\ncustomgoldgrillz.attn.tv/aQBv4L6KPg7S \n\n",
           "message_type": "system",
-          "date_time": "2026-02-07 19:02:09.182"
+          "date_time": "2026-01-19 15:30:17.857"
         },
         {
           "message_media": [],
-          "message_text": "Custom Gold Grillz: \nOur Vday sale just dropped. Get 15% off sitewide with code VDAY15.\n\nSHOP NOW\ncustomgoldgrillz.attn.tv/aa-kyL_GqCA0 \n\n Text STOP to stop",
+          "message_text": "Custom Gold Grillz: \nWomen's grillz that hit clean without chasing attention?\n\nFIND THEM HERE\ncustomgoldgrillz.attn.tv/ajbt5R_XHOJw \n\n",
           "message_type": "system",
-          "date_time": "2026-02-10 13:01:50.729"
+          "date_time": "2026-01-23 21:12:07.213"
         },
         {
           "message_media": [],
-          "message_text": "Custom Gold Grillz: Hey Brandon we noticed you checking us out. Have you seen our best sellers yet? https://customgoldgrillz.attn.tv/aKD_qVLH-zxv  Text STOP to stop",
+          "message_text": "Custom Gold Grillz: \nWant something they can't copy? You have to start with opal.\n\nSHOP CUSTOM OPAL\ncustomgoldgrillz.attn.tv/aVFZOcf5cDNY \n\n",
           "message_type": "system",
-          "date_time": "2026-02-10 17:27:46.327"
+          "date_time": "2026-01-27 15:30:11.734"
         },
         {
           "message_media": [],
-          "message_text": "No, I've been waiting for my grills to come in the mail. It's been two months so can I get an update?",
+          "message_text": "Custom Gold Grillz: Hey Caleb we noticed you checking us out. Have you seen our best sellers yet? https://customgoldgrillz.attn.tv/a5MwZJ0-q8bJ ",
+          "message_type": "system",
+          "date_time": "2026-01-31 12:32:49.516"
+        },
+        {
+          "message_media": [],
+          "message_text": "Custom Gold Grillz: \nMissing teeth? Smile still hits with the right grillz.\n\nFILL THE GAP\ncustomgoldgrillz.attn.tv/aXTfScvTbxW_ \n\n",
+          "message_type": "system",
+          "date_time": "2026-01-31 19:00:27.272"
+        },
+        {
+          "message_media": [],
+          "message_text": "Custom Gold Grillz: \nNo need to break the bank. Split the payment with ShopPay.\n\nSHOP NOW\ncustomgoldgrillz.attn.tv/auGA0yLzkOEJ \n\n",
+          "message_type": "system",
+          "date_time": "2026-02-03 13:00:10.077"
+        },
+        {
+          "message_media": [],
+          "message_text": "Custom Gold Grillz: \nSkip basic gifts. Moissanite grillz hit harder than diamonds.\n\nSHOP MOISSANITE\ncustomgoldgrillz.attn.tv/alCJDckoVD-z \n\n",
+          "message_type": "system",
+          "date_time": "2026-02-07 18:02:06.301"
+        },
+        {
+          "message_media": [],
+          "message_text": "Custom Gold Grillz: \nOur Vday sale just dropped. Get 15% off sitewide with code VDAY15.\n\nSHOP NOW\ncustomgoldgrillz.attn.tv/ai_vTZieOm2P \n\n",
+          "message_type": "system",
+          "date_time": "2026-02-10 13:01:10.454"
+        },
+        {
+          "message_media": [],
+          "message_text": "Custom Gold Grillz: Hey Caleb we noticed you checking us out. Have you seen our best sellers yet? https://customgoldgrillz.attn.tv/apuNXjUPEWrs ",
+          "message_type": "system",
+          "date_time": "2026-02-11 13:58:36.627"
+        },
+        {
+          "message_media": [],
+          "message_text": "Custom Gold Grillz: \nGet 15% off sitewide with our Vday sale. Use code: VDAY15.\n\nSHOP NOW\ncustomgoldgrillz.attn.tv/aJFZo9FQS5EY \n\n",
+          "message_type": "system",
+          "date_time": "2026-02-13 14:00:49.244"
+        },
+        {
+          "message_media": [],
+          "message_text": "Custom Gold Grillz: Hey Caleb welcome back!\nThis is Jordan. Appreciate you stopping by! customgoldgrillz.attn.tv/apBrcBQP75IJ \n\nAnything you got your eye on? ",
+          "message_type": "system",
+          "date_time": "2026-02-13 15:11:46.219"
+        },
+        {
+          "message_media": [],
+          "message_text": "I wanted to get open faced grillz with one tooth (L2) to be solid, is that possible",
           "message_type": "customer",
-          "date_time": "2026-02-10 18:23:15.350"
+          "date_time": "2026-02-13 15:13:35.689"
         },
         {
           "message_media": [],
-          "message_text": "Custom Gold Grillz: Thanks for getting in touch! I sincerely apologize for the inconvenience. This definitely isn't the experience we wanted for you! Are you referring to Order #131990? If so, I can see that it has been delivered on Dec 23, 2025. If you haven't received it, the best way to handle this is to email us directly at support@customgoldgrillz.com or give us a call at (415) 413-4915, Monday - Friday 9 am - 5 pm PST. Our team is happy to help!",
-          "message_type": "agent",
-          "agent": "109840",
-          "message_id": "019c49df-e7c4-411b-f000-0000b730f353",
-          "date_time": "2026-02-10 18:25:36.608"
-        },
-        {
-          "message_media": [],
-          "message_text": "Yes, that's the order but I sent that back in the molds and I never got the grill back",
-          "message_type": "customer",
-          "date_time": "2026-02-10 18:26:44.845"
+          "message_text": "Template used: \"Phone support\"; last updated: 2022-07-09 12:25:48.849",
+          "message_type": "template",
+          "date_time": "2026-02-13 15:40:53.142"
         },
         {
           "message_media": [],
           "message_text": "Template used: \"Customer support\"; last updated: 2024-03-11 16:27:15.398",
           "message_type": "template",
-          "date_time": "2026-02-10 18:29:19.776"
+          "date_time": "2026-02-13 15:40:53.142"
         },
         {
           "message_media": [],
-          "message_text": "Custom Gold Grillz: Thanks for the confirmation! The best way to handle this is to email us directly at support@customgoldgrillz.com or give us a call at (415) 413-4915, Monday - Friday 9 am - 5 pm PST. Our team is happy to help!",
+          "message_text": "Custom Gold Grillz: Thanks for your interest! The best way to handle this is to email us directly at support@customgoldgrillz.com or give us a call at (415) 413-4915, Monday - Friday 9 am - 5 pm PST. Our team is happy to help! ",
           "message_type": "agent",
-          "agent": "109972",
-          "message_id": "019c49e3-4f83-4a50-f000-0000b730f353",
-          "date_time": "2026-02-10 18:29:19.778"
+          "agent": "87310",
+          "message_id": "019c58bc-2c80-4398-f000-0000b8703b15",
+          "date_time": "2026-02-13 15:40:53.146"
         }
       ],
       "notes": {
@@ -822,47 +470,68 @@
         },
         "browsingHistory": [
           {
-            "item": "Pisces Opal Zodiac Sign Double Cap Grillz - Sterling Silver / Silver (No Plating) / R2+R3",
-            "link": "https://www.customgoldgrillz.com/products/pisces-opal-zodiac-sign-double-cap-grillz?variant=55284936016241",
-            "timeAgo": "2025-12-19"
+            "item": "Iced Opal Double Cap Grillz - Sterling Silver / Silver (No Plating) / L4+L3",
+            "link": "https://www.customgoldgrillz.com/products/iced-opal-double-cap-grillz",
+            "timeAgo": "2026-02-13"
           },
           {
-            "item": "Pisces Opal Zodiac Sign Double Cap Grillz - Sterling Silver / Silver (No Plating) / R1+R2",
-            "link": "https://www.customgoldgrillz.com/products/pisces-opal-zodiac-sign-double-cap-grillz?variant=55284935983473",
-            "timeAgo": "2025-12-19"
+            "item": "Iced Straight Tips VVS Moissanite (Zig Zag Setting) - Sterling Silver / No Top / 4 Bottom",
+            "link": "https://www.customgoldgrillz.com/products/iced-straight-tips-vvs-moissanite-zig-zag-setting",
+            "timeAgo": "2026-02-13"
           },
           {
-            "item": "Single Stone Gap Filler Grillz - Sterling Silver / R1",
-            "link": "https://www.customgoldgrillz.com/products/iced-two-teeth-gap-filler-grillz?utm_content=DPA_Catalog_Aug2025",
-            "timeAgo": "2025-11-23"
+            "item": "Solid .925 Sterling Silver Open Face Grillz - No Plating / 6 Top / No Bottom",
+            "link": "https://www.customgoldgrillz.com/products/custom-fit-solid-sterling-silver-open-face-grillz?variant=12796273721367",
+            "timeAgo": "2026-01-16"
           },
           {
-            "item": "Single Stone Gap Filler Grillz - Sterling Silver / R2",
-            "link": "https://www.customgoldgrillz.com/products/iced-two-teeth-gap-filler-grillz?variant=52126399529329",
-            "timeAgo": "2025-11-07"
+            "item": "Solid Sterling Silver Grillz - No Plating / 6 Top / No Bottom",
+            "link": "https://www.customgoldgrillz.com/products/custom-fitted-solid-silver-grillz?variant=38541754700",
+            "timeAgo": "2026-01-16"
           },
           {
-            "item": "Single Stone Gap Filler Grillz - Sterling Silver / R1",
-            "link": "https://www.customgoldgrillz.com/products/iced-two-teeth-gap-filler-grillz?variant=52126399496561",
-            "timeAgo": "2025-11-07"
+            "item": "Solid Sterling Silver Grillz - No Plating / No Top / 4 Bottom",
+            "link": "https://www.customgoldgrillz.com/products/custom-fitted-solid-silver-grillz",
+            "timeAgo": "2026-01-10"
           }
         ],
         "orders": [
           {
-            "orderNumber": "131990",
-            "orderDate": "2025-12-19",
+            "orderNumber": "129632",
+            "orderDate": "2025-11-08",
             "items": [
               {
-                "name": "Pisces Opal Zodiac Sign Double Cap Grillz",
-                "price": 220,
-                "productLink": "https://custom-gold-grillz.myshopify.com/products/pisces-opal-zodiac-sign-double-cap-grillz"
+                "name": "Solid Sterling Silver 6 Teeth with Connecting Bridge Grillz Bar",
+                "price": 200,
+                "productLink": "https://custom-gold-grillz.myshopify.com/products/6-teeth-sterling-silver-connecting-bridge-grillz-bar"
+              },
+              {
+                "name": "Open Face Heart with Iced Tip Double Cap Grillz",
+                "price": 183,
+                "productLink": "https://custom-gold-grillz.myshopify.com/products/open-face-heart-with-iced-tip-double-cap-grillz"
               }
             ],
-            "link": "https://www.customgoldgrillz.com/19575415/orders/678836c16b505e37d253761163398ca5/authenticate?key=c0e20b13b3ef9b55a86c9d22a9831de9",
-            "trackingLink": "https://tools.usps.com/go/TrackConfirmAction?qtc_tLabels1=9405550106151000976943",
-            "order_tracking_link": "https://tools.usps.com/go/TrackConfirmAction?qtc_tLabels1=9405550106151000976943",
-            "total": 262.04,
-            "date_time": "2025-12-19 07:30:10.530"
+            "link": "https://www.customgoldgrillz.com/19575415/orders/279b3bd7605c6f6149360ae5faf0f940/authenticate?key=bfa692cb6273811d9d67b6b27759b8e4",
+            "trackingLink": "https://tools.usps.com/go/TrackConfirmAction?qtc_tLabels1=9405511206217425663001",
+            "order_tracking_link": "https://tools.usps.com/go/TrackConfirmAction?qtc_tLabels1=9405511206217425663001",
+            "total": 407.99,
+            "date_time": "2025-11-08 07:43:46.652"
+          },
+          {
+            "orderNumber": "128919",
+            "orderDate": "2025-10-24",
+            "items": [
+              {
+                "name": "Solid Sterling Silver Grillz",
+                "price": 300,
+                "productLink": "https://custom-gold-grillz.myshopify.com/products/custom-fitted-solid-silver-grillz"
+              }
+            ],
+            "link": "https://www.customgoldgrillz.com/19575415/orders/33eb5272b53a9947fd240df4701ac08b/authenticate?key=774bb7517ecf1f001df22fd7bbb9b7b9",
+            "trackingLink": "https://tools.usps.com/go/TrackConfirmAction?qtc_tLabels1=9405511206217837793549",
+            "order_tracking_link": "https://tools.usps.com/go/TrackConfirmAction?qtc_tLabels1=9405511206217837793549",
+            "total": 600,
+            "date_time": "2025-10-24 06:58:06.718"
           }
         ]
       },
@@ -870,450 +539,230 @@
       "blocklisted_words": [],
       "has_shopify": true
     },
-    "23": {
-      "id": "019c4e21-a05a-4aa1-f000-0000fa8d0937",
-      "companyName": "Igloo",
-      "companyWebsite": "https://igloocoolers.com",
+    "24": {
+      "id": "019c4e31-cbfa-48c6-f000-0000d9e84d92",
+      "companyName": "Capillus",
+      "companyWebsite": "https://capillus.com",
+      "agentName": "Jamie",
+      "messageTone": "Polished",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "Capillus: Hey there, this is Jamie! We saw you checking out Capillus Spectrum! \n\nDon't wait, transform your confidence back today: capillus.attn.tv/ajrJwaRRJKtd .\n\nText back if you need assistance.",
+          "message_type": "system",
+          "date_time": "2026-01-29 12:28:51.878"
+        },
+        {
+          "message_media": [],
+          "message_text": "Capillus: Hey there! We saw you checking out Capillus Spectrum! Don't wait, get your confidence today: capillus.attn.tv/aFX3sjxwrGn6 .\n\nText back with questions! - Jamie",
+          "message_type": "system",
+          "date_time": "2026-02-05 12:07:02.909"
+        },
+        {
+          "message_media": [],
+          "message_text": "Capillus: Tackle hair loss this Big Game weekend. Save 40% on Capillus laser caps - FDA-cleared, hands-free therapy in just 6 minutes a day. Shop now -> capillus.attn.tv/aKTLWzzaE8EK ",
+          "message_type": "system",
+          "date_time": "2026-02-08 13:01:05.669"
+        },
+        {
+          "message_media": [],
+          "message_text": "Capillus: Hey there, this is Jamie! We saw you checking out Create Your Own Bundle! \n\nDon't wait, transform your confidence back today: capillus.attn.tv/aeJc38Z34Q2U .\n\nText back if you need assistance.",
+          "message_type": "system",
+          "date_time": "2026-02-11 14:14:45.394"
+        },
+        {
+          "message_media": [],
+          "message_text": "Hi! I was wondering if there is a bundle that includes the spectrum cap and the panel",
+          "message_type": "customer",
+          "date_time": "2026-02-11 14:29:07.983"
+        },
+        {
+          "message_media": [],
+          "message_text": "Capillus: Thank you for reaching out! Good question! Sure, you can find it here: https://capillus.attn.tv/asTXlHSPrmF5\n\nHope this helps! If you have any questions, feel free to text me.",
+          "message_type": "agent",
+          "agent": "87295",
+          "message_id": "019c4e31-cbfa-48c6-f000-0000d9e84d92",
+          "date_time": "2026-02-11 14:33:32.309"
+        }
+      ],
+      "notes": {
+        "send_to_cs": [
+          "Send to CS if a subscriber mentions a medical issue or an adverse effect from using products from this brand"
+        ],
+        "escalate": [
+          "ESC immediately discount code issues"
+        ],
+        "dos_and_don_ts": [
+          "Do not share any medical advice or guidance to subscribers outside of recommending appropriate products or directing them to purchase the right item",
+          "Do not comment on their medical situations",
+          "Close the covo if the customer says they're receiving too many messages/we're texting them too often - don't send TMT"
+        ],
+        "drive_to_purchase": [
+          "If cx says they will be ordering soon, offer to schedule a call if they need further assistance with their purchase (shortcut OS) - do not upsell",
+          "If cx already purchased, use specific TFP template - do not upsell"
+        ],
+        "tone": [
+          "Don't use the term \"hang tight\", just say that you've passed the information to the team",
+          "Close the conversation once the client takes over"
+        ],
+        "promo_and_promo_exclusions": [
+          "We do not offer any discounts for the SPECTRUM",
+          "If a cx asks for a code and we don't have one, inform them of ongoing sales (if any)"
+        ]
+      },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://capillus.com",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "Capillus Spectrum",
+            "link": "https://www.capillus.com/products/capillus-spectrum?_pos=1&_psq=Capillus+spect&_ss=e&_v=1.0",
+            "timeAgo": "2026-02-11"
+          },
+          {
+            "item": "Create Your Own Bundle",
+            "link": "https://www.capillus.com/products/multi-tier-bundle",
+            "timeAgo": "2026-02-11"
+          },
+          {
+            "item": "Complete Radiance",
+            "link": "https://www.capillus.com/collections/bundle-and-save/products/capillus-spectrum-panel",
+            "timeAgo": "2026-02-05"
+          },
+          {
+            "item": "Capillus Spectrum",
+            "link": "https://www.capillus.com/products/capillus-spectrum?variant=42742491807883",
+            "timeAgo": "2026-02-05"
+          },
+          {
+            "item": "Capillus Spectrum",
+            "link": "https://www.capillus.com/collections/holiday-event/products/capillus-spectrum?token=69JI4&utm_source=Klaviyo&utm_medium=email&utm_campaign=1.28.2026%20-%20Spectrum%20Flash%20Sale%20V_2%20%2801KG3B7QTAYTXJYCGF854R7B14%29&utm_id=01KG3B7QTAYTXJYCGF854R7B14&bxid=01K64BFYA2CW3W79S380RDCCCH&_kx=hAPmYwrUoqgKIrZwnHoikgAERPmdKuuxm82igD2n5K0.NmKEjQ",
+            "timeAgo": "2026-01-29"
+          }
+        ]
+      },
+      "escalation_preferences": [
+        "Discount code errors",
+        "Exchanges and returns"
+      ],
+      "blocklisted_words": [
+        "Curallux",
+        "hang"
+      ],
+      "has_shopify": true
+    },
+    "25": {
+      "id": "019c53a9-b32f-4c22-f000-0000b2484ba5",
+      "companyName": "The Frye Company",
+      "companyWebsite": "https://thefryecompany.com",
       "agentName": "Sarah",
       "messageTone": "Polished",
       "conversation": [
         {
           "message_media": [],
-          "message_text": "Igloo: Welcome to Igloo! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
+          "message_text": "FRYE: Welcome! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel. Privacy: attnl.tv/p/ePe",
           "message_type": "system",
-          "date_time": "2026-02-11 14:12:13.463"
+          "date_time": "2026-02-06 09:27:35.302"
         },
         {
           "message_media": [],
-          "message_text": "Igloo: Hey this is Sarah, how can I help you?",
+          "message_text": "FRYE: Welcome! Your code to save $30 off your next $275+ order is WF30XF25 . Click here to auto-apply it and shop now: frye.attn.tv/aOq2sBNFYxnK .",
           "message_type": "system",
-          "date_time": "2026-02-11 14:12:17.979"
+          "date_time": "2026-02-06 09:27:38.407"
         },
         {
           "message_media": [],
-          "message_text": "Hi we have an Igloo cooler that we love and the hinge broke, we are trying to buy a replacement part",
+          "message_text": "FRYE: Oh, also, a lot of people like getting personal recs from us. Over the next few days we'll try to help you find something that you will love.\n\nCheck out our newest arrivals and get ready for the season: https://frye.attn.tv/aRQNpkl-Pbnr .",
+          "message_type": "system",
+          "date_time": "2026-02-06 09:28:50.592"
+        },
+        {
+          "message_media": [],
+          "message_text": "FRYE: CAMPUS 14L backpacks blend rugged leather and clean lines for everyday carry.\n\nUse code WF30XF25 to take $30 off with a minimum purchase of $275.\n\nShop now: https://frye.attn.tv/aPwq_kdnS44w .",
+          "message_type": "system",
+          "date_time": "2026-02-06 09:39:03.488"
+        },
+        {
+          "message_media": [],
+          "message_text": "FRYE: Use code WF30XF25 for $30 off when you spend $275 or more; free shipping on orders $275+: https://frye.attn.tv/ahwPPNaA-XH- .",
+          "message_type": "system",
+          "date_time": "2026-02-07 13:44:51.147"
+        },
+        {
+          "message_media": [],
+          "message_text": "FRYE: New season, new hues. \n\nRefresh your daily rotation with effortless styles in our signature spring palette. Shop New Arrivals: frye.attn.tv/azbjOkd0gZmp .",
+          "message_type": "system",
+          "date_time": "2026-02-10 15:15:13.928"
+        },
+        {
+          "message_media": [],
+          "message_text": "FRYE: Hey Julie, did you know you are eligible for free shipping? Don't forget to complete your purchase of Campus 12R before it's gone! frye.attn.tv/aanjILRXWID- .",
+          "message_type": "system",
+          "date_time": "2026-02-12 15:56:33.234"
+        },
+        {
+          "message_media": [],
+          "message_text": "Not on sale for president holiday?",
           "message_type": "customer",
-          "date_time": "2026-02-11 14:13:00.871"
+          "date_time": "2026-02-12 15:59:58.196"
         },
         {
           "message_media": [],
-          "message_text": "Igloo: I'm so sorry to hear that! For our available replacement hinges for coolers, you may check here: https://igloo.attn.tv/aVkIrUUAvnBP\n\nCan you please let me know what model of Igloo Cooler do you own? I'll be happy to check this for you.",
+          "message_text": "Template used: \"No promotions available - All brands\"; last updated: 2023-10-10 16:37:45.165",
+          "message_type": "template",
+          "date_time": "2026-02-12 16:02:36.356"
+        },
+        {
+          "message_media": [],
+          "message_text": "FRYE: Thanks for reaching out! Unfortunately, I don't have information regarding our future sales due to the limited access I have on the system, but our deals will always be shared with our SMS subscribers or on our website, so keep an eye out! In the meantime, you can check out our sales collection here:\n\nhttps://frye.attn.tv/axZwNWvlU1Ae\n\nLet me know how that goes. ",
           "message_type": "agent",
-          "agent": "109964",
-          "message_id": "019c4e21-a05a-4aa1-f000-0000fa8d0937",
-          "date_time": "2026-02-11 14:15:52.569"
+          "agent": "109617",
+          "message_id": "019c53a9-b32f-4c22-f000-0000b2484ba5",
+          "date_time": "2026-02-12 16:02:36.357"
         }
       ],
       "notes": {
         "send_to_cs": [
-          "Send to CS for legal and fraud related inquires",
-          "Send to CS for product safety inquires and threats",
-          "Send to CS for website technical issues"
-        ],
-        "escalate": [
-          "ESC if cx claims bodily injury as result of a product",
-          "ESC if cx highlights dangers to health/safety as a result of product"
-        ],
-        "templates": [
-          "For all post-purchase & warranty inquiries use \"SUPPORT\" temp (SPT)",
-          "For discount code issues use \"SUPPORT\" temp (SPT)",
-          "For product info that you can't find on the site use \"SUPPORT\" temp (SPT)",
-          "If cx reach out about 90 qt cooler recall, use shortcut RCC",
-          "For custom order cancellation and edit requests, don't use CED, use the designated templates instead"
-        ]
-      },
-      "rightPanel": {
-        "source": {
-          "label": "Website",
-          "value": "https://igloocoolers.com",
-          "date": ""
-        }
-      },
-      "escalation_preferences": [
-        "Exchanges and returns",
-        "warranty",
-        "broken product claims",
-        "parts",
-        "missing shipment",
-        "leaks"
-      ],
-      "blocklisted_words": [],
-      "has_shopify": true
-    },
-    "24": {
-      "id": "019c5425-45dd-4f67-f000-0000a3b7ecfc",
-      "companyName": "Oral-B and Crest",
-      "companyWebsite": "https://oralb.com",
-      "agentName": "Sam",
-      "messageTone": "Polished",
-      "conversation": [
-        {
-          "message_media": [],
-          "message_text": "Oral-B: Welcome to Oral-B! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
-          "message_type": "system",
-          "date_time": "2026-02-12 17:44:35.853"
-        },
-        {
-          "message_media": [],
-          "message_text": "Oral-B: Hey! I'm Sam with Oral-B and Crest! Just wanted to say thanks for joining. If you're looking for great savings check out our Deals page! https://oral-b.attn.tv/az7wU5cVRA6C \n\nText me any time with questions!",
-          "message_type": "system",
-          "date_time": "2026-02-12 17:44:39.809"
-        },
-        {
-          "message_media": [],
-          "message_text": "Register new toothbrush",
-          "message_type": "customer",
-          "date_time": "2026-02-12 17:45:13.407"
-        },
-        {
-          "message_media": [],
-          "message_text": "Oral-B: I'm happy to help! You can register your product at the following link: https://oral-b.attn.tv/alsBVpGS6eyo ",
-          "message_type": "agent",
-          "agent": "46498",
-          "message_id": "019c5410-41f2-4e16-f000-0000a3b7ecfc",
-          "date_time": "2026-02-12 17:54:37.578"
-        },
-        {
-          "message_media": [],
-          "message_text": "Tried x2 and both times got 'error. Try again later'",
-          "message_type": "customer",
-          "date_time": "2026-02-12 18:10:23.442"
-        },
-        {
-          "message_media": [],
-          "message_text": "Template used: \"The Site Won't take my Card - All brands\"; last updated: 2023-10-10 16:56:54.019",
-          "message_type": "template",
-          "date_time": "2026-02-12 18:17:34.845"
-        },
-        {
-          "message_media": [],
-          "message_text": "Template used: \"Site won't work - All brands\"; last updated: 2025-07-16 17:54:02.115",
-          "message_type": "template",
-          "date_time": "2026-02-12 18:17:34.845"
-        },
-        {
-          "message_media": [],
-          "message_text": "Oral-B: Thanks for letting me know, and I'm sorry for the inconvenience. First, I might suggest trying to open the site in an incognito or private window to rule out any browser cache or extension issues. Let me know how that goes. ",
-          "message_type": "agent",
-          "agent": "109630",
-          "message_id": "019c5425-45dd-4f67-f000-0000a3b7ecfc",
-          "date_time": "2026-02-12 18:17:34.848"
-        }
-      ],
-      "notes": {
-        "important": [
-          "When sending a link, if you see a \"/\" at the end of the URL, remove it"
-        ],
-        "send_to_cs": [
-          "Send to CS for damaged items that aren't available on the website"
-        ],
-        "escalate": [
-          "ESC immediately if the order is delivered, but cx did not receive it",
-          "ESC if cx wants to use an expired code",
-          "ESC sales end date questions",
-          "ESC invalid codes / expired code issues",
-          "Before ESC for retroactive discount requests, check if the item is on sale or if they met the minimum",
-          "Don't make suggestions of replacements - if unsure, ESC",
-          "ESC false advertising complaints",
-          "ESC if cx state they regret placing the order after the CANCEL/ORDER temp has been sent",
-          "Before ESC products not functioning properly",
-          "→ Inquire what exact brush/product they have",
-          "→ Provide any user guides available",
-          "Don't ask for the cx's shipping address as secondary info, include their phone number instead"
+          "No ESC for this client, send everything to CS"
         ],
         "tone": [
-          "Keep messages shorter and more direct",
-          "Don't use the term \"cart tracking\", or let cxs know we can see what they have in their cart"
-        ],
-        "templates": [
-          "If the cx asks where there order is, and it's a confirmed order within the standard processing and shipping time, only share the \"Order status/order tracking\" temp",
-          "If the cx reaches out saying they're having issue with their code, first use CWW temp",
-          "If cx needs assistance with brush function/operations use FOQ shortcut",
-          "For product complaints/bad experiences use PBE shortcut",
-          "If cx says they're dentists/hygienists & want to shop use RDH shortcut",
-          "If cx is a short amount away from reaching the $100 threshold for the welcome discount to apply use SRT shortcut",
-          "If cx ask why their order was canceled, use MOC shortcut",
-          "If cx purchased from their dentist and looking for rebate ($30, $20, $10 back) use RBT shortcut",
-          "For post-purchase issues with Amazon orders, use PS shortcut",
-          "For post-purchase issues where cxs are dental professionals, dentists, hygienists, use DPS shortcut"
-        ],
-        "dos_and_don_ts": [
-          "If customers are looking for brush heads always confirm what type of brush they have, iO or non iO",
-          "If you can't find the products on the website, refer to this one https://crest.com/en-us",
-          "Hold to policy and do not offer to check if deviation from policy is acceptable",
-          "If customers ask about the warranty registration code OR say it's not accepting theirs (they might refer to it as a promo code for registration)- send them this one OB59185 (it's always the same)"
-        ],
-        "drive_to_purchase": [
-          "For general recommendations use CFR shortcut",
-          "Always refer cxs to iO series products, when possible"
-        ],
-        "promo_and_promo_exclusions": [
-          "The $85 welcome promo code isn't for % off, once applied a free item is added to the cart",
-          "Please check the last letters of a code to determine when they were sent",
-          "→ I.e. WCOBDC means it is a December code (DC) and will likely expire in Jan",
-          "Discount codes do not work on Amazon",
-          "If cx is looking for a discount on replacement brush heads, encourage to subscribe for savings on the product page"
+          "Close the convo once the client takes over"
         ]
       },
       "rightPanel": {
         "source": {
           "label": "Website",
-          "value": "https://oralb.com",
-          "date": ""
-        }
-      },
-      "escalation_preferences": [
-        "All product complaints or bad experiences with a product"
-      ],
-      "blocklisted_words": [
-        "seems",
-        "shoot",
-        "worries"
-      ],
-      "has_shopify": false
-    },
-    "25": {
-      "id": "019c6ce2-62d1-4654-f000-000099e078e1",
-      "companyName": "R + Co",
-      "companyWebsite": "https://randco.com",
-      "agentName": "Lesley",
-      "messageTone": "Polished",
-      "conversation": [
-        {
-          "message_media": [],
-          "message_text": "R+Co: Add us to your contacts and never miss out on our latest news, offers and style tips.",
-          "message_type": "system",
-          "date_time": "2026-02-02 12:13:33.218"
-        },
-        {
-          "message_media": [],
-          "message_text": "R+Co: Welcome to R+Co! Msg & data rates may apply. Msg frequency varies. Reply STOP to cancel.",
-          "message_type": "system",
-          "date_time": "2026-02-02 17:55:02.094"
-        },
-        {
-          "message_media": [],
-          "message_text": "R+Co: Thanks for joining! Your code for 15% OFF is HELLO15. Click here to shop now: rco.attn.tv/a8eSHCGK2NJB \n\nYou also now have access to our text concierge Lesley! You can message them here anytime with questions while you shop.",
-          "message_type": "system",
-          "date_time": "2026-02-02 17:55:07.023"
-        },
-        {
-          "message_media": [],
-          "message_text": "R+Co: Add us to your contacts and never miss out on our latest news, offers and style tips.",
-          "message_type": "system",
-          "date_time": "2026-02-02 17:55:08.293"
-        },
-        {
-          "message_media": [],
-          "message_text": "R+Co: ICYMI: 15% off your first order when you enter code HELLO15 at checkout. rco.attn.tv/a_zb1JLEF8Ev \n\nWas there anything I could help you find? \n- Lesley ",
-          "message_type": "system",
-          "date_time": "2026-02-03 12:14:07.469"
-        },
-        {
-          "message_media": [],
-          "message_text": "R+Co: Hi Annette, Thank you for purchasing HIGHEST VOLUMIZING MOUSSE. \n\nLet us know what you think and receive 10% OFF your next order: rco.attn.tv/a_qQ1-9z5_8G ",
-          "message_type": "system",
-          "date_time": "2026-02-14 12:32:29.611"
-        },
-        {
-          "message_media": [],
-          "message_text": "R+Co: Hey Annette, still thinking it over? Your picks are still in your cart. Finish checking out: rco.attn.tv/amhdD36bhs2F\n\nI'm here if you have any questions!\n- Lesley ",
-          "message_type": "system",
-          "date_time": "2026-02-15 12:22:20.240"
-        },
-        {
-          "message_media": [],
-          "message_text": "R+Co: Don't forget to complete your purchase of INGENIOUS THICKENING Shampoo & Conditioner Set before it's gone! \nrco.attn.tv/a5oZ771kcogI",
-          "message_type": "system",
-          "date_time": "2026-02-16 12:25:16.794"
-        },
-        {
-          "message_media": [],
-          "message_text": "My order for the shampoo set was $83.00 and now it is showing up as $93.  What happened??",
-          "message_type": "customer",
-          "date_time": "2026-02-16 14:16:22.323"
-        },
-        {
-          "message_media": [],
-          "message_text": "R+Co: I'm sorry to hear that! Do you mind sharing a screenshot of your cart so I can check on this?",
-          "message_type": "agent",
-          "agent": "33482",
-          "message_id": "019c67f4-f4b1-43d0-f000-000099e078e1",
-          "date_time": "2026-02-16 14:37:12.661"
-        },
-        {
-          "message_media": [],
-          "message_text": "Can you please answer my question?  Thank you.",
-          "message_type": "customer",
-          "date_time": "2026-02-17 13:16:06.282"
-        },
-        {
-          "message_media": [],
-          "message_text": "Template used: \"Did I order already? - All brands\"; last updated: 2023-10-10 16:42:51.099",
-          "message_type": "template",
-          "date_time": "2026-02-17 13:35:01.736"
-        },
-        {
-          "message_media": [],
-          "message_text": "Template used: \"Product too expensive / Why did you increase your prices? \"; last updated: 2022-10-28 14:49:49.281",
-          "message_type": "template",
-          "date_time": "2026-02-17 13:35:01.736"
-        },
-        {
-          "message_media": [],
-          "message_text": "R+Co: Thank you for reaching out, and I apologize for the inconvenience. Kindly note that in the last year, we did increase our prices to keep up with rising prices globally and to not compromise the integrity of our formulas. We hope you understand this and will come back and shop with us again. That being said, we would love to have you signed up for our emails and texts so you can take advantage of any of our promotions.",
-          "message_type": "agent",
-          "agent": "109968",
-          "message_id": "019c6ce2-62d1-4654-f000-000099e078e1",
-          "date_time": "2026-02-17 13:35:01.739"
-        }
-      ],
-      "notes": {
-        "escalate": [
-          "ESC retroactive discount/price adjustment inquiries immediately",
-          "ESC discount code issues",
-          "ESC if stylists/salons want to carry the products"
-        ],
-        "templates": [
-          "For any q's about affiliate links, commissions, or salon referral links, use AFQ shortcut",
-          "All of the products are unisex, use USX shortcut"
-        ],
-        "drive_to_purchase": [
-          "Ask the cx what their hair concerns are before making a recommendation!",
-          "Make recommendations when cx has specific inquiry, don't send the quiz!",
-          "For full haircare regimen inquiries, recommend shampoo, conditioner, and at least one or two other products recommended that align with their need"
-        ],
-        "promo_and_promo_exclusions": [
-          "When sending a code provide more detail about what the code is valid for!",
-          "When sending the promo/code end date, include the time the offer expires as well!"
-        ]
-      },
-      "rightPanel": {
-        "source": {
-          "label": "Website",
-          "value": "https://randco.com",
+          "value": "https://thefryecompany.com",
           "date": ""
         },
         "browsingHistory": [
           {
-            "item": "INGENIOUS THICKENING SHAMPOO - 8.5 OZ",
-            "link": "https://www.randco.com/products/ingenious-thickening-shampoo?variant=40387641835715&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&utm_source=Google&utm_campaign=22841746959&utm_content=&utm_term=&tw_source=google&tw_adid=&tw_campaign=22841746959&tw_kwdid=&gad_source=0&gad_campaignid=22847567516&gclid=Cj0KCQiA18DMBhDeARIsABtYwT3SHcpZQjDb-IRExVpgEZOzJlGZBsF1rqevVUNuAGhDM4mHazqlCCQaAuOrEALw_wcB",
-            "timeAgo": "2026-02-15"
+            "item": "Alex Softy Tall Wide Calf",
+            "link": "https://www.thefryecompany.com/products/alex-softy-tall-wide-calf?variant=43584030179519",
+            "timeAgo": "2025-02-01"
           },
           {
-            "item": "INGENIOUS THICKENING SHAMPOO - 8.5 OZ",
-            "link": "https://www.randco.com/products/ingenious-thickening-shampoo?variant=40387641835715&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&utm_source=Google&utm_campaign=22841746959&utm_content=&utm_term=&tw_source=google&tw_adid=&tw_campaign=22841746959&tw_kwdid=&gad_source=0&gad_campaignid=22847567516&gclid=Cj0KCQiA18DMBhDeARIsABtYwT3SHcpZQjDb-IRExVpgEZOzJlGZBsF1rqevVUNuAGhDM4mHazqlCCQaAuOrEALw_wcB",
-            "timeAgo": "2026-02-15"
+            "item": "Alex Softy Tall Wide Calf",
+            "link": "https://www.thefryecompany.com/products/alex-softy-tall-wide-calf?variant=43584030015679",
+            "timeAgo": "2025-02-01"
           },
           {
-            "item": "HIGHEST VOLUMIZING MOUSSE - 6.3 OZ",
-            "link": "https://www.randco.com/products/highest-volumizing-mousse?variant=40387647209667&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&tw_source=google&tw_adid=777529091173&tw_campaign=21833226862&tw_kwdid=aud-1937950218393&gad_source=0&gad_campaignid=21833226862&gclid=CjwKCAiAs4HMBhBJEiwACrfNZfTzCE7QtWgcb95auAlgPfDzrL7X96EfkzepWmgXB-_sfV1AAawdABoCLb4QAvD_BwE",
-            "timeAgo": "2026-02-02"
+            "item": "Harness 12R Womens",
+            "link": "https://www.thefryecompany.com/products/harness-12r-womens?variant=44009814425791",
+            "timeAgo": "2025-02-01"
           },
           {
-            "item": "GO MODE Holiday Limited-Edition Kit",
-            "link": "https://www.randco.com/collections/black-friday-sale-kits/products/go-mode-holiday-2025-small-kit",
-            "timeAgo": "2025-11-21"
+            "item": "Harness 12R Womens",
+            "link": "https://www.thefryecompany.com/products/harness-12r-womens?variant=44009814229183",
+            "timeAgo": "2025-02-01"
           },
           {
-            "item": "Volumizing Hair Bundle",
-            "link": "https://www.randco.com/products/tts-rodeo-balloon",
-            "timeAgo": "2025-11-21"
-          }
-        ],
-        "orders": [
-          {
-            "orderNumber": "6418874597571",
-            "orderDate": "2026-02-02",
-            "items": [
-              {
-                "name": "HIGHEST VOLUMIZING MOUSSE",
-                "price": 42,
-                "productLink": "https://randco-core.myshopify.com/products/highest-volumizing-mousse"
-              }
-            ],
-            "total": 45.37,
-            "date_time": "2026-02-02 17:16:01.434"
-          },
-          {
-            "orderNumber": "6311553007811",
-            "orderDate": "2025-11-21",
-            "items": [
-              {
-                "name": "Essential Air Dry Blow Dry Crème Packette",
-                "price": 0,
-                "productLink": "https://randco-core.myshopify.com/products/essential-air-dry-blow-dry-creme-packette"
-              },
-              {
-                "name": "Volume & Strength Mini Bundle",
-                "price": 54,
-                "productLink": "https://randco-core.myshopify.com/products/volume-strength-mini-bundle"
-              },
-              {
-                "name": "INGENIOUS THICKENING SHAMPOO",
-                "price": 49,
-                "productLink": "https://randco-core.myshopify.com/products/ingenious-thickening-shampoo"
-              },
-              {
-                "name": "SPIRITUALIZED Dry Shampoo Mist",
-                "price": 32,
-                "productLink": "https://randco-core.myshopify.com/products/spiritualized-dry-shampoo-mist"
-              },
-              {
-                "name": "Volumizing Hair Bundle",
-                "price": 62.9,
-                "productLink": "https://randco-core.myshopify.com/products/tts-rodeo-balloon"
-              }
-            ],
-            "total": 144.35,
-            "coupon": "GREATHAIR",
-            "date_time": "2025-11-21 00:22:35.391"
-          },
-          {
-            "orderNumber": "6237764747459",
-            "orderDate": "2025-09-23",
-            "items": [
-              {
-                "name": "Summer Sample Set",
-                "price": 28,
-                "productLink": "https://randco-core.myshopify.com/products/summer-favorites-sample-set"
-              }
-            ],
-            "total": 34.35,
-            "coupon": "HELLO15",
-            "date_time": "2025-09-23 13:12:45.198"
-          },
-          {
-            "orderNumber": "1005192",
-            "orderDate": "2024-11-23",
-            "items": [
-              {
-                "name": "DALLAS Thickening Spray",
-                "price": 34,
-                "productLink": "https://randco-core.myshopify.com/products/dallas-thickening-spray"
-              }
-            ],
-            "link": "https://www.randco.com/57678889155/orders/cd16f13a6ea07eb03d6e9bd060a36b76/authenticate?key=1d717ec45db60c3e62433dc0211fd712",
-            "trackingLink": "https://www.ontrac.com/tracking/?number=D10015832662848",
-            "order_tracking_link": "https://www.ontrac.com/tracking/?number=D10015832662848",
-            "total": 83.17,
-            "date_time": "2024-11-23 19:41:51.584"
-          },
-          {
-            "orderNumber": "1005192",
-            "orderDate": "2024-11-23",
-            "items": [
-              {
-                "name": "DALLAS Biotin Thickening Shampoo + Conditioner Set",
-                "price": 76,
-                "productLink": "https://randco-core.myshopify.com/products/dallas-biotin-thickening-shampoo-conditioner-set"
-              }
-            ],
-            "link": "https://www.randco.com/57678889155/orders/cd16f13a6ea07eb03d6e9bd060a36b76/authenticate?key=1d717ec45db60c3e62433dc0211fd712",
-            "trackingLink": "https://www.ontrac.com/tracking/?number=D10015832662848",
-            "order_tracking_link": "https://www.ontrac.com/tracking/?number=D10015832662848",
-            "total": 83.17,
-            "date_time": "2024-11-23 19:41:51.582"
+            "item": "Jean Tall Pull On Wide Calf",
+            "link": "https://www.thefryecompany.com/products/jean-tall-pull-on-wide-calf?variant=42590952292543",
+            "timeAgo": "2025-02-01"
           }
         ]
       },

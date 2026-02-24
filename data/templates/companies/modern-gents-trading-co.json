@@ -1,0 +1,162 @@
+{
+  "companyKey": "modern gents trading co",
+  "templates": [
+    {
+      "name": "Wholesale inquiries",
+      "content": "Thank you for your interest! The best way to discuss wholesale is to email us directly at hello@modgents.com. Our team is happy to chat.",
+      "id": "dc60917e-ae11-4e42-ac8f-5778fed3e65d",
+      "shortcut": "wls",
+      "companyName": "Modern Gents Trading Co"
+    },
+    {
+      "name": "Store location / retailer",
+      "content": "We don't currently have a store but definitely keep an eye out.",
+      "id": "d9d5ef5a-b8cb-423a-9147-b3ccef3fade9",
+      "shortcut": "sl",
+      "companyName": "Modern Gents Trading Co"
+    },
+    {
+      "name": "Will your rings turn my finger green?",
+      "content": "Our rings will not turn your finger green. We guarantee it! Our rings are made of high-quality materials ranging from 925 Sterling Silver, to tungsten carbide (the actual materials are listed in the product descriptions). You don't have to worry about your ring rusting or your finger turning green like cheap costume jewelry does.",
+      "id": "1640e5d3-8c78-4e0e-a29a-3e6c6e9597d0",
+      "companyName": "Modern Gents Trading Co"
+    },
+    {
+      "name": "What are the stones made of?",
+      "content": "Our rings are made from conflict-free materials. We don't support inhumanely mined diamonds, which is why we use high-quality diamond simulants. Diamond simulants are man-made stones (AAAAA grade cz) that look just like a perfect diamond and shine like crazy.",
+      "id": "39a6a704-7211-42c6-b2b0-e6f5309ac000",
+      "companyName": "Modern Gents Trading Co"
+    },
+    {
+      "name": "Customer support",
+      "content": "The best way to handle this is to email us directly at hello@modgents.com or give us a call at 800-619-7078. Our team is happy to help!",
+      "id": "1f02aec6-7a86-48b8-8d0f-20912d3b2548",
+      "shortcut": "cs",
+      "companyName": "Modern Gents Trading Co"
+    },
+    {
+      "name": "Size and fit",
+      "content": "All our rings are made true to U.S. standard ring sizes. We recommend getting your finger sized at a local jeweler. You can also do a quick Google search to find ring sizing methods available online. Just make sure you measure based on U.S. standard ring sizes. Also, if you order the wrong size, don't worry, we've got you covered as we offer hassle-free returns and exchanges. 😉",
+      "id": "54cbc9da-85e8-456c-bd49-21fc30d08422",
+      "shortcut": "sz",
+      "companyName": "Modern Gents Trading Co"
+    },
+    {
+      "name": "Return policy",
+      "content": "You can check out our detailed return policy here: https://modgents.com/pages/returns",
+      "id": "69eb8f41-9767-4ea8-aa2e-531012eabbd8",
+      "shortcut": "rp",
+      "companyName": "Modern Gents Trading Co"
+    },
+    {
+      "name": "Can the Eternity band fit with the Elena?",
+      "content": "The Eternity band is too thick for the Elena, a better fit would be the Promise.",
+      "id": "946bda2f-fdbf-4df3-a6ca-65142fe9abe8",
+      "companyName": "Modern Gents Trading Co"
+    },
+    {
+      "name": "Shipping time",
+      "content": "All orders shipped out of our Southern California Headquarters within 1 business day. We offer Free & Rush Shipping in both the USA and Canada. Check out our shipping page here for more details on delivery times: https://modgents.com/pages/shipping-faq",
+      "id": "c827d23c-0f0b-4c40-8a11-14fe453a2a3d",
+      "shortcut": "shp",
+      "companyName": "Modern Gents Trading Co"
+    },
+    {
+      "name": "Warranty policy",
+      "content": "Check out our warranty policy in detail here: https://modgents.attn.tv/sl/OKe5B4uy",
+      "id": "dce72afe-2e1c-49d8-b26a-5c211970bb2b",
+      "shortcut": "wp",
+      "companyName": "Modern Gents Trading Co"
+    },
+    {
+      "name": "Free shipping",
+      "content": "We offer free shipping on all domestic orders!",
+      "id": "74e140a1-ac30-40ae-a387-ac1f9647efbd",
+      "shortcut": "fs",
+      "companyName": "Modern Gents Trading Co"
+    },
+    {
+      "name": "How do I care for my jewelry?",
+      "content": "You can take a look at our cleaning and care instructions at the following link: https://modgents.com/pages/care",
+      "id": "7fac042b-010b-4444-9957-4337a58ec84f",
+      "companyName": "Modern Gents Trading Co"
+    },
+    {
+      "name": "Why are your prices so low? Are the rings real?",
+      "content": "It's natural to be skeptical. Society has programmed us to spend a fortune on all things wedding related. The reality is, you shouldn't have to spend a ton of money on a symbol of love. Our rings are hand-crafted, beautiful, affordable, backed by a Lifetime Warranty and a 100% Satisfaction Guarantee. \n\nWe use alternative materials ranging from 925 sterling silver to tungsten carbide to keep prices lower without sacrificing quality. For more information about how we're different, check out this link: https://modgents.com/pages/why-us If you're still skeptical, check out our reviews from our happy customers here: https://modgents.com/pages/reviews",
+      "id": "11d7aaa5-a946-4346-a762-6fc17b720743",
+      "companyName": "Modern Gents Trading Co"
+    },
+    {
+      "name": "Do you do custom rings?",
+      "content": "I'm afraid we don't offer custom rings at the moment.",
+      "id": "a7437265-b2e9-4c0f-bd61-f652de6aa5fd",
+      "companyName": "Modern Gents Trading Co"
+    },
+    {
+      "name": "Military / First responder / Healthcare discount",
+      "content": "Thank you for your service! You can learn more and apply for your discount here: https://modgents.com/pages/military-discount",
+      "id": "5739e126-d654-4d0f-9f44-ef25bc4037e3",
+      "shortcut": "ms",
+      "companyName": "Modern Gents Trading Co"
+    },
+    {
+      "name": "Brand ambassador / sponsorship / affiliate program",
+      "content": "Thank you for your interest! The best way to discuss this is to email us directly at hello@modgents.com. Our team is happy to chat.",
+      "id": "c7065d1c-3780-4e51-97ff-da8305c6652c",
+      "shortcut": "ams",
+      "companyName": "Modern Gents Trading Co"
+    },
+    {
+      "name": "Phone support",
+      "content": "You can give us a call at (800) 619-7078 or let me know if I can help via text, it may be faster.",
+      "id": "37a9422f-2dd6-485a-adfd-067f444971b5",
+      "shortcut": "ps",
+      "companyName": "Modern Gents Trading Co"
+    },
+    {
+      "name": "Can you engrave these rings?",
+      "content": "We don't do ring engraving but you can absolutely take any of our metal rings to a local shop for engraving.",
+      "id": "ca2e64aa-10b8-4fd9-ba65-a27793eb70ce",
+      "companyName": "Modern Gents Trading Co"
+    },
+    {
+      "name": "Where do you ship from?",
+      "content": "We ship all orders from Southern California!",
+      "id": "af0c0a27-b95b-4a2e-bb57-0ca257a13614",
+      "companyName": "Modern Gents Trading Co"
+    },
+    {
+      "name": "Size Chart: All - Clothes",
+      "content": "You can take a look at our size chart here: https://modgents.com/pages/ring-size-chart",
+      "id": "a1f3566a-4b2a-436c-a639-534e7bf06a6c",
+      "companyName": "Modern Gents Trading Co"
+    },
+    {
+      "name": "Cancel / edit order",
+      "content": "The best way to handle this is to email us directly at hello@modgents.com or give us a call at 800-619-7078. Our team is happy to help!",
+      "id": "47a4e14b-59dd-49e4-ba23-7037a8ac6a2d",
+      "shortcut": "ced",
+      "companyName": "Modern Gents Trading Co"
+    },
+    {
+      "name": "Social media",
+      "content": "Give us a follow on IG: https://www.instagram.com/themodgents and FB here: https://www.facebook.com/moderngentstradingco",
+      "id": "f72e541d-5b2c-4a27-9b24-ac796b0d70fb",
+      "shortcut": "smd",
+      "companyName": "Modern Gents Trading Co"
+    },
+    {
+      "name": "How do I start a return?",
+      "content": "You can start your return here: https://moderngents.loopreturns.com/#",
+      "id": "57841e5f-7d84-42a7-9efa-f63ab8886aae",
+      "companyName": "Modern Gents Trading Co"
+    },
+    {
+      "name": "How long will it take before I receive my refund?",
+      "content": "Once your return package has been received, we please ask that you allow our returns department 2-4 business days to process and send your refund confirmation email. Once processed, it will take your bank roughly 3-5 business days to display the funds in your account. Please note that Shop Pay refunds may take up to two weeks to be received back to your bank account.",
+      "id": "f1359e94-82ee-4652-be27-ea63782f28d3",
+      "companyName": "Modern Gents Trading Co"
+    }
+  ]
+}

@@ -3,506 +3,738 @@
   "chunk": "chunk_0016",
   "scenarios": {
     "76": {
-      "id": "019c49bd-e4c6-47f8-f000-00006943145c",
-      "companyName": "Movies Unlimited",
-      "companyWebsite": "https://moviesunlimited.com",
-      "agentName": "Jordan",
-      "messageTone": "Formal",
+      "id": "019c5964-179c-4db5-f000-0000d48d6b35",
+      "companyName": "Shady Rays",
+      "companyWebsite": "https://shadyrays.com",
+      "agentName": "Sam",
+      "messageTone": "Casual",
       "conversation": [
         {
           "message_media": [],
-          "message_text": "Movies Unlimited: You've got to have these! Discover must-have films featured in the National Film Registry. Don't miss out! moviesunlimited.attn.tv/azHXORBLLAhx \n\nText STOP to opt out.",
+          "message_text": "Shady Rays: The weekend is here, so is our BOGO sale. Double up on shades with code BOGOJAN through 1/28. Exc. apply.\n\nShop Now: shadyrays.attn.tv/aNUvv1WCw6KR ",
           "message_type": "system",
-          "date_time": "2026-01-13 16:20:21.438"
+          "date_time": "2026-01-16 20:15:17.265"
         },
         {
           "message_media": [],
-          "message_text": "Movies Unlimited: Get 15% OFF new arrivals! Spend $50+ on in-stock items & use code 15OFF50. Shop here! moviesunlimited.attn.tv/a3fmGAQJujV0 \n\nText STOP to opt out.",
+          "message_text": "Shady Rays: Hey, it's been a while! Let's get you back in your next favorite style! Check out our new arrivals here: shadyrays.attn.tv/aZ7GdjLUev7o \n\nAnything we can help with today? Text back with any questions!",
           "message_type": "system",
-          "date_time": "2026-01-16 16:05:43.393"
+          "date_time": "2026-01-17 15:26:03.756"
         },
         {
           "message_media": [],
-          "message_text": "Movies Unlimited: This offer ends soon! Spend $50+ on in-stock items and get 15% OFF. Use code 15OFF50. Act fast! moviesunlimited.attn.tv/afpXOcmmqoQS \n\nText STOP to opt out.",
+          "message_text": "Shady Rays: For a limited time, enjoy 30% OFF Sunglasses with a Snow purchase! Get your gear for the sun and the slopes: shadyrays.attn.tv/aSszTnYZk--Q ",
           "message_type": "system",
-          "date_time": "2026-01-18 16:10:20.517"
+          "date_time": "2026-01-18 18:01:14.869"
         },
         {
           "message_media": [],
-          "message_text": "Movies Unlimited: Honor legendary performances! Explore our 2025 memoriam collection and celebrate the artists we've lost. Tap & explore: moviesunlimited.attn.tv/anmRKLWw-2Ir \n\nText STOP to opt out.",
+          "message_text": "Shady Rays: Our Valentine's Day Sale is live! Get 40% off when you buy 2 or more pairs.\n\nSave now & spread the love: shadyrays.attn.tv/aMaXT5T2eJhO ",
           "message_type": "system",
-          "date_time": "2026-01-20 16:20:19.406"
+          "date_time": "2026-01-22 15:00:39.750"
         },
         {
           "message_media": [],
-          "message_text": "Movies Unlimited: Your 4K Favorites are here! Fill your collection with high quality films. Shop now! moviesunlimited.attn.tv/araR5CEE4zgO \n\nText STOP to opt out.",
+          "message_text": "Shady Rays: Last Chance! Our Valentine's Day sale ends tonight. Save 40% on 2+ pairs while you can. \n\nShop Now: shadyrays.attn.tv/aQeH5aiu_uP7 ",
           "message_type": "system",
-          "date_time": "2026-01-23 16:25:27.549"
+          "date_time": "2026-01-25 16:00:16.688"
         },
         {
           "message_media": [],
-          "message_text": "Movies Unlimited: Explore in-demand documentaries! Uncover true-life stories and dive into your favorite interests. Shop now! moviesunlimited.attn.tv/alxcGJU5FHw2 \n\nText STOP to opt out.",
+          "message_text": "Shady Rays: Hey, it's been a while! Let's get you back in your next favorite style! Check out our new arrivals here: shadyrays.attn.tv/ar66PbkHvQ4r \n\nAnything we can help with today? Text back with any questions!",
           "message_type": "system",
-          "date_time": "2026-01-27 16:15:19.571"
+          "date_time": "2026-01-29 15:33:27.949"
         },
         {
           "message_media": [],
-          "message_text": "Movies Unlimited: Celebrate cinematic excellence with our Array of Award Winners Sale! Shop: moviesunlimited.attn.tv/aWsFYkKtai34 \n\nText STOP to opt out.",
+          "message_text": "Shady Rays: Beat winter glare! 35% off sunglasses w/ code 35OFF and 55% off new outlet styles. Grab yours before they're gone:\n\nshadyrays.attn.tv/amioyj_vOAfn ",
           "message_type": "system",
-          "date_time": "2026-02-02 16:10:43.807"
+          "date_time": "2026-01-30 17:15:13.027"
         },
         {
           "message_media": [],
-          "message_text": "Movies Unlimited: Get 15% OFF your favorites! Buy 3+ in-stock DVDs/Blu-rays and use code 15OFF3. Don't miss out! moviesunlimited.attn.tv/amhPVJTXYjjy \n\nText STOP to opt out.",
+          "message_text": "Shady Rays: FLASH SALE! Save 35% on limited Green Wolf frames for the course. Use code GREEN35: shadyrays.attn.tv/anJ9YRL1C97N \n\nEnds 2/5 at 11:59pm PST.",
           "message_type": "system",
-          "date_time": "2026-02-06 16:20:13.702"
+          "date_time": "2026-02-04 16:00:23.330"
         },
         {
           "message_media": [],
-          "message_text": "Movies Unlimited: Final Hours! Get 15% OFF on 3+ in-stock DVDs/Blu-rays. Use code 15OFF3. Hurry ends soon! moviesunlimited.attn.tv/a6mItMi_b6-i \n\nText STOP to opt out.",
+          "message_text": "Shady Rays: Back by popular demand: Azalea & Calico. The retired shades you loved are back! \n\nShop the launch: shadyrays.attn.tv/asVtIVpGvpMz ",
           "message_type": "system",
-          "date_time": "2026-02-08 16:25:20.246"
+          "date_time": "2026-02-05 18:00:22.857"
         },
         {
           "message_media": [],
-          "message_text": "Movies Unlimited: Frightful faves are on SALE! Score horror titles at a great price. Shop! moviesunlimited.attn.tv/au38EdeHISB- \n\nText STOP to opt out.",
+          "message_text": "Shady Rays: Valid through Halftime only! 50% OFF your next pair of shades with code: BG60 shadyrays.attn.tv/anxqXP-SFlqQ \n\nLimit one pair. Exclusions apply.",
           "message_type": "system",
-          "date_time": "2026-02-10 16:20:13.631"
+          "date_time": "2026-02-08 20:01:28.419"
         },
         {
           "message_media": [],
-          "message_text": "Movies Unlimited: Hey, this is Jordan. Thanks for checking out our site! 😊 https://moviesunlimited.attn.tv/aVoMj7YpSGT5 .\n\nAre you looking for anything in particular today? ",
+          "message_text": "Shady Rays: Hey, it's been a while! Let's get you back in your next favorite style! Check out our new arrivals here: shadyrays.attn.tv/aHUdQBPZuFyK \n\nAnything we can help with today? Text back with any questions!",
           "message_type": "system",
-          "date_time": "2026-02-10 16:51:23.136"
+          "date_time": "2026-02-09 15:20:53.913"
         },
         {
           "message_media": [],
-          "message_text": "Nothing particular.\nWe like mysteries and horror...\nBut only the tasteful, quality movies.",
+          "message_text": "Shady Rays: The long weekend is here! Take $20 OFF shades for Presidents Day using code PD26 at checkout. Excl. apply.\n\nShop: shadyrays.attn.tv/aTh9bIaHZt2j ",
+          "message_type": "system",
+          "date_time": "2026-02-13 18:10:08.635"
+        },
+        {
+          "message_media": [],
+          "message_text": "I'm OK I never received my second pair and when I asked you guys about it, I never gotten an explanation. Why?",
           "message_type": "customer",
-          "date_time": "2026-02-10 17:41:24.189"
+          "date_time": "2026-02-13 18:12:58.639"
         },
         {
           "message_media": [],
-          "message_text": "Movies Unlimited: Thank you for letting me know! Are you interested in movies from a specific decade? If so, what theme do you prefer? In the meantime, you can take a look at the newly released horror movies here: https://moviesunlimited.attn.tv/aGZQhCdl8CIs and mystery/suspense movies here: https://moviesunlimited.attn.tv/aMVvKoQiqYde Hope this helps!",
+          "message_text": "Shady Rays: Thank you for reaching out, and I'm truly sorry to hear about this. Could you share a few more details so I can better understand the situation and assist you right away?",
           "message_type": "agent",
-          "agent": "87310",
-          "message_id": "019c49bd-e4c6-47f8-f000-00006943145c",
-          "date_time": "2026-02-10 17:48:27.618"
+          "agent": "109972",
+          "message_id": "019c5964-179c-4db5-f000-0000d48d6b35",
+          "date_time": "2026-02-13 18:44:17.849"
         }
       ],
-      "notes": {},
+      "notes": {
+        "escalate": [
+          "ESC restock inquiries, but use STOF shortcut first"
+        ],
+        "tone": [
+          "Close the convo if the cx first message doesn't warrant a response (e.g. Them thanking us, saying they're browsing, etc.)"
+        ],
+        "templates": [
+          "For product prescription inquiries use RPP shortcut",
+          "For prescription orders questions use RPO shortcut"
+        ],
+        "dos_and_don_ts": [
+          "If customers want to return an item - clarify if they’re trying to return a recently purchased pair or if they need a replacement"
+        ]
+      },
       "rightPanel": {
         "source": {
           "label": "Website",
-          "value": "https://moviesunlimited.com",
+          "value": "https://shadyrays.com",
           "date": ""
-        }
+        },
+        "browsingHistory": [
+          {
+            "item": "Classic Timber - Black Ocean Polarized - ORIGINAL / Standard",
+            "link": "https://shadyrays.com/products/classic-black-emerald-timber-polarized",
+            "timeAgo": "2025-08-28"
+          },
+          {
+            "item": "Classic Timber - Black Ocean Polarized - Colorush / Standard",
+            "link": "https://shadyrays.com/products/classic-black-ocean-timber-polarized?_pos=1&_sid=1a2090e30&_ss=r&variant=41682097897519",
+            "timeAgo": "2025-08-28"
+          }
+        ],
+        "orders": [
+          {
+            "orderNumber": "6833984",
+            "orderDate": "2025-08-28",
+            "items": [
+              {
+                "name": "Priority Order Processing",
+                "price": 3.99,
+                "productLink": "https://shady-rays.myshopify.com/products/priority-vip-processing"
+              },
+              {
+                "name": "Signature Live Hard Case EXCLUSIVE – Large",
+                "price": 10,
+                "productLink": "https://shady-rays.myshopify.com/products/signature-live-hard-case-exclusive-test"
+              }
+            ],
+            "link": "https://shadyrays.com/3505401/orders/43a35f64c05302832a731eb5f0c711e9/authenticate?key=5a8d1bc2de4572b4dfd4eb98fb234db0",
+            "total": 64.37,
+            "coupon": "AT20",
+            "date_time": "2025-08-28 04:30:43.746"
+          },
+          {
+            "orderNumber": "6833984",
+            "orderDate": "2025-08-28",
+            "items": [
+              {
+                "name": "Classic Timber - Black Emerald Polarized",
+                "price": 59,
+                "productLink": "https://shady-rays.myshopify.com/products/classic-black-emerald-timber-polarized"
+              }
+            ],
+            "link": "https://shadyrays.com/3505401/orders/43a35f64c05302832a731eb5f0c711e9/authenticate?key=5a8d1bc2de4572b4dfd4eb98fb234db0",
+            "total": 64.37,
+            "coupon": "AT20",
+            "date_time": "2025-08-28 04:30:43.744"
+          }
+        ]
       },
       "escalation_preferences": [],
       "blocklisted_words": [],
       "has_shopify": true
     },
     "77": {
-      "id": "019c5d75-9948-4303-f000-0000da16c81c",
-      "companyName": "Cecil and Lou",
-      "companyWebsite": "https://cecilandlou.com",
-      "agentName": "Emma",
+      "id": "019c5f1d-2293-4f7e-f000-0000fae60cf4",
+      "companyName": "Julie Vos",
+      "companyWebsite": "https://julievos.com",
+      "agentName": "Rebecca",
       "messageTone": "Polished",
       "conversation": [
         {
           "message_media": [],
-          "message_text": "Cecil and Lou: 💗 Thanks for visiting Cecil and Lou! This is Emma, I'm happy to help you discover darling styles!\n\nWho are you shopping for today?",
+          "message_text": "Julie Vos: Welcome to Julie Vos! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel. Privacy: attnl.tv/p/N9l",
           "message_type": "system",
-          "date_time": "2026-01-30 21:09:22.126"
+          "date_time": "2026-02-12 16:33:58.293"
         },
         {
           "message_media": [],
-          "message_text": "Cecil and Lou: 🥳 Spotted something you love? Grab it now before it's gone: candl.attn.tv/a8snMbe7EJXq .",
+          "message_text": "Julie Vos: Hey, this is Rebecca, your personal concierge ✨ Feel free to text me with any questions! Use code WELCOMEK8V2 for 10% off your order to shop now: julievos.attn.tv/aSDqD3uWHjTa .",
           "message_type": "system",
-          "date_time": "2026-01-31 10:44:36.101"
+          "date_time": "2026-02-12 16:34:01.501"
         },
         {
           "message_media": [],
-          "message_text": "Cecil and Lou: ♥️It's time for a sweet treat! 30% off Valentine's Styles - TODAY only. Shop NOW! candl.attn.tv/aW9glCC052OF",
+          "message_text": "Julie Vos: Oh, also, a lot of people like getting personal recs from us. Over the next few days we'll try to help you find something that you will love.\n\nIn the meantime, check out our newest arrivals > https://julievos.attn.tv/ap0H4B1X5iUj .",
           "message_type": "system",
-          "date_time": "2026-02-03 11:45:25.457"
+          "date_time": "2026-02-12 16:35:09.048"
         },
         {
           "message_media": [],
-          "message_text": "Cecil and Lou: 🚨 Flash Sale Alert! $21.99 swim & spring styles-limited quantities, limited time. Don't miss out! candl.attn.tv/aZuPXx4F742N ",
+          "message_text": "Julie Vos: Fall in love with the Beaded Station Bracelet—elegant, wearable style you'll reach for daily.\n\nUse code WELCOMEK8V2 for 10% off at checkout: https://julievos.attn.tv/aE3d5loDFyoo .",
           "message_type": "system",
-          "date_time": "2026-02-06 09:10:31.355"
+          "date_time": "2026-02-12 16:45:15.982"
         },
         {
           "message_media": [],
-          "message_text": "Cecil and Lou: 💗 Thanks for visiting Cecil and Lou! This is Emma, I'm happy to help you discover darling styles!\n\nWho are you shopping for today?",
+          "message_text": "Julie Vos: You are already subscribed. Click here to shop what's trending now: https://julievos.attn.tv/cl/9Oj",
           "message_type": "system",
-          "date_time": "2026-02-07 18:03:22.285"
+          "date_time": "2026-02-13 16:21:10.952"
         },
         {
           "message_media": [],
-          "message_text": "Cecil and Lou: 🎉 SALE EXTENDED! $21.99 spring & swim styles. Ends TONIGHT! candl.attn.tv/aBQkDgehB5A_ ",
+          "message_text": "Julie Vos: Use code WELCOMEK8V2 for 10% off and free shipping on your order.\n\nShop now: https://julievos.attn.tv/aM_QpU_33Eze .",
           "message_type": "system",
-          "date_time": "2026-02-09 16:30:28.495"
+          "date_time": "2026-02-13 16:54:24.014"
         },
         {
           "message_media": [],
-          "message_text": "Cecil and Lou: Hey Presley! I'm Emma, your personal shopping assistant.\n\nI'm here to answer any questions, share recommendations, or assist in any way. What can I help you with today?\n\nhttps://candl.attn.tv/aBZ9OLPCiosO .",
+          "message_text": "Julie Vos: Fall for the Cannes Hinge Cuff — a 24K gold‐plated cuff with sparkling rose‐cut endcaps and pear‐shaped gemstones that elevate your look.\n\nEnjoy free shipping.\n\nMake it yours: https://julievos.attn.tv/ahAnPM1R5Iud .",
           "message_type": "system",
-          "date_time": "2026-02-10 19:22:26.783"
+          "date_time": "2026-02-14 13:37:31.038"
         },
         {
           "message_media": [],
-          "message_text": "Cecil and Lou: 🎉FREE MONOGRAMS! All in-stock items - for a limited time! Shop now! candl.attn.tv/aoWw2q9Nz5Gs ",
-          "message_type": "system",
-          "date_time": "2026-02-13 09:30:34.698"
-        },
-        {
-          "message_media": [],
-          "message_text": "Cecil and Lou: 🎉 See something that caught your eye? Grab it before it's gone! candl.attn.tv/aI6KezuD6MyN\n\nIs there anything I can help you with?\n- Emma",
-          "message_type": "system",
-          "date_time": "2026-02-14 13:04:00.859"
-        },
-        {
-          "message_media": [],
-          "message_text": "Do you have any coupon codes or free shipping available?",
+          "message_text": "Can I wear my Catalina hinge bangle with clear crystal wear in water pool or shower? I wear it every day ? And what I can stack with this ? How I can find out the size ?",
           "message_type": "customer",
-          "date_time": "2026-02-14 13:17:30.300"
+          "date_time": "2026-02-14 13:43:08.785"
         },
         {
           "message_media": [],
-          "message_text": "Template used: \"No promotions available - All brands\"; last updated: 2023-10-10 16:37:45.165",
-          "message_type": "template",
-          "date_time": "2026-02-14 13:41:54.021"
-        },
-        {
-          "message_media": [],
-          "message_text": "Cecil and Lou: Thanks for reaching out! I'm sorry, I don't have any codes available at the moment, but our deals will always be shared with our SMS subscribers or on our website, so keep an eye out! In the meantime, you can check out our sales collection here: https://candl.attn.tv/a3w9vD8h9iIn",
+          "message_text": "Julie Vos: Avoid wearing the Catalina Hinge Bangle in water or while showering to maintain its quality. For stacking, consider the Marbella or Milano bangles. Find sizing info here: https://julievos.attn.tv/ahRRCDme432j",
           "message_type": "agent",
-          "agent": "109972",
-          "message_id": "019c5d75-9948-4303-f000-0000da16c81c",
-          "date_time": "2026-02-14 13:41:54.026"
+          "agent": "62551",
+          "message_id": "019c5d77-00de-4fa4-f000-0000fae60cf4",
+          "date_time": "2026-02-14 13:43:26.071"
+        },
+        {
+          "message_media": [],
+          "message_text": "One of each or two of one kind ?",
+          "message_type": "customer",
+          "date_time": "2026-02-14 13:50:38.639"
+        },
+        {
+          "message_media": [],
+          "message_text": "Julie Vos: Pair the Catalina Hinge Bangle with one Marbella and one Milano bangle for a balanced stack.",
+          "message_type": "agent",
+          "agent": "62551",
+          "message_id": "019c5d7d-dab1-4013-f000-0000fae60cf4",
+          "date_time": "2026-02-14 13:50:55.043"
+        },
+        {
+          "message_media": [],
+          "message_text": "Can u send me picture of showing them to-gather please ? What color of Milano will go with clear crystals Catalina ?",
+          "message_type": "customer",
+          "date_time": "2026-02-14 13:52:28.499"
+        },
+        {
+          "message_media": [],
+          "message_text": "Julie Vos: I recommend the Milano Bangle in Clear Crystal to complement your Catalina Hinge Bangle. You can view the Milano Bangle here: https://julievos.attn.tv/as2FmgoFTVBw",
+          "message_type": "agent",
+          "agent": "62551",
+          "message_id": "019c5d7f-8585-4963-f000-0000fae60cf4",
+          "date_time": "2026-02-14 13:52:44.311"
+        },
+        {
+          "message_media": [],
+          "message_text": "Small Marbella u don't have ? My Catalina is Cz not crystal. Milano cz and then what else u recomend ?",
+          "message_type": "customer",
+          "date_time": "2026-02-14 14:12:23.432"
+        },
+        {
+          "message_media": [],
+          "message_text": "Julie Vos: The Marbella Bangle is available in small. Pair your CZ Catalina with a CZ Milano and a Marbella for a chic look. Check availability here: https://julievos.attn.tv/agx_LIVHue7u",
+          "message_type": "agent",
+          "agent": "62551",
+          "message_id": "019c5d91-c833-4880-f000-0000fae60cf4",
+          "date_time": "2026-02-14 14:12:41.033"
+        },
+        {
+          "message_media": [],
+          "message_text": "Are these both bangles are hinge ? \nI want in gold ? \nI also have one of your cuff with black and in gold.",
+          "message_type": "customer",
+          "date_time": "2026-02-14 14:15:03.429"
+        },
+        {
+          "message_media": [],
+          "message_text": "Julie Vos: The Milano Bangle is not hinged, but the Marbella is. Both are available in gold. Pair them with your gold cuff for a stylish stack.",
+          "message_type": "agent",
+          "agent": "62551",
+          "message_id": "019c5d94-31dd-40da-f000-0000fae60cf4",
+          "date_time": "2026-02-14 14:15:19.161"
+        },
+        {
+          "message_media": [],
+          "message_text": "I think if it is not hinge then I might need bigger size then it will not fit well ?",
+          "message_type": "customer",
+          "date_time": "2026-02-14 14:17:00.321"
+        },
+        {
+          "message_media": [],
+          "message_text": "Julie Vos: For a non-hinged bangle, consider sizing up for comfort. Check our size guide for accurate measurements: https://julievos.attn.tv/aTVwQcKyU4N8",
+          "message_type": "agent",
+          "agent": "62551",
+          "message_id": "019c5d95-fb13-4c00-f000-0000fae60cf4",
+          "date_time": "2026-02-14 14:17:16.197"
+        },
+        {
+          "message_media": [],
+          "message_text": "In your webside is showing maribella gold in small is sold out ?",
+          "message_type": "customer",
+          "date_time": "2026-02-14 14:21:37.214"
+        },
+        {
+          "message_media": [],
+          "message_text": "U said u have Maribella gold in small i can find on your webside ? Can u help me to\nFind it ? I want to order right now ?",
+          "message_type": "customer",
+          "date_time": "2026-02-14 14:29:57.288"
+        },
+        {
+          "message_media": [],
+          "message_text": "Do u have any retailer in Cincinnati ?",
+          "message_type": "customer",
+          "date_time": "2026-02-14 14:30:17.350"
+        },
+        {
+          "message_media": [],
+          "message_text": "Or Ohio ?",
+          "message_type": "customer",
+          "date_time": "2026-02-14 14:30:46.949"
+        },
+        {
+          "message_media": [],
+          "message_text": "Julie Vos: Sorry for the confusion! I rechecked, and it looks like the Marbella Bangle in small is already sold out. I don't have the exact date of a possible restock, but I recommend checking our website and social media frequently. In the meantime, what do you think about this instead? https://julievos.attn.tv/amdt8BxEa9MG \n\nWe are carried in fine boutiques and in jewelry stores throughout the U.S.A. To find a store near you, please email us at customercare@julievos.com or give us a call at (646)448-4345. One of my colleagues will be more than happy to help out! ",
+          "message_type": "agent",
+          "agent": "46498",
+          "message_id": "019c5daa-55af-4803-f000-0000fae60cf4",
+          "date_time": "2026-02-14 14:39:30.126"
+        },
+        {
+          "message_media": [],
+          "message_text": "I tried u guys are closed today. \nWhat else I replace Maribella with ? I liked that combination. But 😞!! \nAny other suggestions? I like to finish my order please ?",
+          "message_type": "customer",
+          "date_time": "2026-02-14 14:45:22.205"
+        },
+        {
+          "message_media": [],
+          "message_text": "Julie Vos: Consider the Avalon Hinge Bangle in Iridescent Coral or Chalcedony Blue as an alternative. It pairs beautifully with your existing pieces. Check it out here: https://julievos.attn.tv/afoqe23xKbJH",
+          "message_type": "agent",
+          "agent": "62551",
+          "message_id": "019c5daf-ed26-41bf-f000-0000fae60cf4",
+          "date_time": "2026-02-14 14:45:36.580"
+        },
+        {
+          "message_media": [],
+          "message_text": "Is it versatile?",
+          "message_type": "customer",
+          "date_time": "2026-02-14 14:46:40.969"
+        },
+        {
+          "message_media": [],
+          "message_text": "Julie Vos: Yes, the Avalon Hinge Bangle is versatile and complements various styles, making it a great addition to your collection.",
+          "message_type": "agent",
+          "agent": "62551",
+          "message_id": "019c5db1-1660-4be4-f000-0000fae60cf4",
+          "date_time": "2026-02-14 14:46:52.660"
+        },
+        {
+          "message_media": [],
+          "message_text": "As I like statement and different pieces.",
+          "message_type": "customer",
+          "date_time": "2026-02-14 14:47:40.707"
+        },
+        {
+          "message_media": [],
+          "message_text": "Julie Vos: For a statement piece, consider the Cannes Statement Hinge Bangle. It's bold and unique. View it here: https://julievos.attn.tv/aUGF374vw1LO",
+          "message_type": "agent",
+          "agent": "62551",
+          "message_id": "019c5db2-0757-480d-f000-0000fae60cf4",
+          "date_time": "2026-02-14 14:47:54.345"
+        },
+        {
+          "message_media": [],
+          "message_text": "I can't find Avalon hinge bangle ? Can u send me picture ? Cannes bangle looks to wide for stacking ?",
+          "message_type": "customer",
+          "date_time": "2026-02-14 14:53:20.728"
+        },
+        {
+          "message_media": [],
+          "message_text": "Julie Vos: The Avalon Hinge Bangle is available in Iridescent Chalcedony Blue and Coral. View it here: https://julievos.attn.tv/aN2X4lOqyJmw",
+          "message_type": "agent",
+          "agent": "62551",
+          "message_id": "019c5db7-3dd7-457c-f000-0000fae60cf4",
+          "date_time": "2026-02-14 14:53:35.980"
+        },
+        {
+          "message_media": [],
+          "message_text": "I don't see it or search it ? Can u send me screen shot ?",
+          "message_type": "customer",
+          "date_time": "2026-02-14 14:55:50.690"
+        },
+        {
+          "message_media": [],
+          "message_text": "Julie Vos: I'm so sorry for the confusion! It looks like we no longer have the Avalon Hinge Bangle on the website.\nFor a stone bangle, what do you think of our 'Carnaby Stone Bangle' - https://julievos.attn.tv/amiudB5LSWlK\nYou may also check our 'Colette Bangle' that looks great on stacking! - https://julievos.attn.tv/adW0iepavUoW",
+          "message_type": "agent",
+          "agent": "109964",
+          "message_id": "019c5dbe-5614-4db2-f000-0000fae60cf4",
+          "date_time": "2026-02-14 15:01:20.954"
+        },
+        {
+          "message_media": [],
+          "message_text": "What kind of material is this ? It looks white ?",
+          "message_type": "customer",
+          "date_time": "2026-02-14 15:06:21.780"
+        },
+        {
+          "message_media": [],
+          "message_text": "Julie Vos: Our jewelry is hand set in 24k gold plate over nickel-free brass. The white appearance may be due to the stone or enamel used in the design.",
+          "message_type": "agent",
+          "agent": "62551",
+          "message_id": "019c5dc3-30c7-4436-f000-0000fae60cf4",
+          "date_time": "2026-02-14 15:06:39.072"
+        },
+        {
+          "message_media": [],
+          "message_text": "What kind of plating is those? It is not gold ?",
+          "message_type": "customer",
+          "date_time": "2026-02-14 15:07:38.535"
+        },
+        {
+          "message_media": [],
+          "message_text": "Julie Vos: Our jewelry is hand set in 24k gold plate over nickel-free brass.",
+          "message_type": "agent",
+          "agent": "62551",
+          "message_id": "019c5dc4-5cdd-4576-f000-0000fae60cf4",
+          "date_time": "2026-02-14 15:07:55.893"
+        },
+        {
+          "message_media": [],
+          "message_text": "I spend so much time today and I think I deserve better deal or discount ?",
+          "message_type": "customer",
+          "date_time": "2026-02-14 15:08:58.335"
+        },
+        {
+          "message_media": [],
+          "message_text": "Julie Vos: Thank you for shopping with us! Use code WELCOMEK8V2 for 10% off your first purchase at julievos.com. Keep an eye on our website for more deals!",
+          "message_type": "agent",
+          "agent": "62551",
+          "message_id": "019c5dc5-8ddb-424c-f000-0000fae60cf4",
+          "date_time": "2026-02-14 15:09:13.973"
+        },
+        {
+          "message_media": [],
+          "message_text": "I wish u had retail here ?",
+          "message_type": "customer",
+          "date_time": "2026-02-14 15:09:28.430"
+        },
+        {
+          "message_media": [],
+          "message_text": "I already have this discount but I am hoping u can do better than this ?",
+          "message_type": "customer",
+          "date_time": "2026-02-14 15:10:28.122"
+        },
+        {
+          "message_media": [],
+          "message_text": "Julie Vos: Complete your Milano Bangle — lightly hammered 24K gold-plated bangle with six circular gemstones for elegant layering.\n\nUse code WELCOMEK8V2 for 10% off.\n\nShop now: https://julievos.attn.tv/aFcMu25ihaSo .",
+          "message_type": "system",
+          "date_time": "2026-02-14 15:15:45.033"
+        },
+        {
+          "message_media": [],
+          "message_text": "But that only make one piece but I need two ? That's what we are struggling from this morning ? Unless u want to discount more on 2nd piece since all the pieces we struggling on are out of stock u recomended. I already have the code u send me.",
+          "message_type": "customer",
+          "date_time": "2026-02-14 15:51:36.315"
+        },
+        {
+          "message_media": [],
+          "message_text": "I ordered that !!",
+          "message_type": "customer",
+          "date_time": "2026-02-14 16:01:56.227"
+        },
+        {
+          "message_media": [],
+          "message_text": "Julie Vos: Thanks for your order. I added 2 Milano Bangle Cubic Zirconia / Medium in my cart and it worked with the code. I'm afraid we are unable to make any changes to an order once it has been placed. I can check if it's possible to cancel. If you'd like to proceed, please confirm your email address. ",
+          "message_type": "agent",
+          "agent": "31385",
+          "message_id": "019c5e26-92cf-4078-f000-0000fae60cf4",
+          "date_time": "2026-02-14 16:55:12.248"
+        },
+        {
+          "message_media": [],
+          "message_text": "I did not get it ? I mean understand !",
+          "message_type": "customer",
+          "date_time": "2026-02-14 20:36:22.198"
+        },
+        {
+          "message_media": [],
+          "message_text": "This is how I am wearing today.",
+          "message_type": "customer",
+          "date_time": "2026-02-14 21:22:42.191"
+        },
+        {
+          "message_media": [],
+          "message_text": "Julie Vos: I do apologize for the confusion. Just to confirm, you are currently looking for an additional discount code so you could add another piece, correct? Please let me know so I can check further on this for you. ",
+          "message_type": "agent",
+          "agent": "82260",
+          "message_id": "019c5f1d-2293-4f7e-f000-0000fae60cf4",
+          "date_time": "2026-02-14 21:24:30.895"
         }
       ],
       "notes": {
-        "send_to_cs": [
-          "No ESC for this client, send everything to CS"
+        "escalate": [
+          "When ESC during the weekend/late Friday use the \"Weekend escalation template\" template"
         ],
-        "ai_instructions": [
-          "Do not escalate anything, if the customer question cannot be handled, send template titled Customer support",
-          "If inbound question references 'pre-order' or 'preorder' send template titled Customer Support"
+        "tone": [
+          "Don't use the term \"customer service team\", use \"customer care\" instead"
+        ],
+        "dos_and_don_ts": [
+          "Do not direct cx to contact the carrier",
+          "Do not provide customers with dates for restock before checking with our team."
+        ],
+        "promo_and_promo_exclusions": [
+          "They have only 2 sales per year (June/November) - when those end the sale items are removed from the site"
         ]
       },
       "rightPanel": {
         "source": {
           "label": "Website",
-          "value": "https://cecilandlou.com",
+          "value": "https://julievos.com",
           "date": ""
         },
         "browsingHistory": [
           {
-            "item": "Pink Seersucker Scalloped Bubble - 12M",
-            "link": "https://www.cecilandlou.com/products/pink-seersucker-scalloped-bubble7?variant=50843814461738",
+            "item": "Colette Bangle - Alabaster / S",
+            "link": "https://www.julievos.com/products/colette-bangle?variant=42406799376482&_pos=1&_psq=colette+ban&_ss=e&_v=1.0",
             "timeAgo": "2026-02-14"
           },
           {
-            "item": "Pink Seersucker Scalloped Bubble - 12M",
-            "link": "https://www.cecilandlou.com/products/pink-seersucker-scalloped-bubble7?variant=50843814461738",
+            "item": "Colette Bangle - Alabaster / S",
+            "link": "https://www.julievos.com/products/colette-bangle?variant=42406799376482",
             "timeAgo": "2026-02-14"
           },
           {
-            "item": "Pink Seersucker Scalloped Bubble - 3T",
-            "link": "https://www.cecilandlou.com/products/pink-seersucker-scalloped-bubble7?variant=50843814560042&utm_source=facebook&utm_medium=paid&utm_campaign=TNT+Advantage%2B+Shopping&utm_content=TNT+-+Advantage%2B+Shopping_Group_1&term=TNT+Advantage%2B+Shopping+Ad+set&fbclid=IwYW9leAP9kxNleHRuA2FlbQEwAGFkaWQAAC_IJardRHNydGMGYXBwX2lkCjY2Mjg1NjgzNzkAAR5A4qQkJ3YjYeGESGZt2jxL7f4R6CJxxvDJBnwl5pvabVd20ggLxjOLtzRi2Q_aem_7YSaImFd8ImIgIi26srYKw&campaign_id=6583599369024&ad_id=6583599369224&utm_id=6583599369024&utm_term=6583599368824",
+            "item": "Tribeca Bangle - Pearl / Small",
+            "link": "https://www.julievos.com/products/tribeca-bangle?variant=42074211582050&vslyvid=2b273345-7f0b-442c-a71c-a6730bad1e88&vslywgid=4120b0aef951499c8b1d3bd0fbd75912&vslysid=_loomi_addon_1687780495364_dup1688068203_dup1688656408",
             "timeAgo": "2026-02-14"
           },
           {
-            "item": "Pink Seersucker Scalloped Bubble - 3T",
-            "link": "https://www.cecilandlou.com/products/pink-seersucker-scalloped-bubble7?variant=50843814560042&utm_source=facebook&utm_medium=paidsocial&utm_campaign=TNT+Advantage%2B+Shopping+Campaign&utm_content=TNT+-+Advantage%2B+Shopping+-+In+Stock+Catalog&term=TNT+Advantage%2B+Shopping+Ad+set&utm_id=6583599369024&utm_term=6583599368824&fbclid=IwYW9leAP0o8NleHRuA2FlbQEwAGFkaWQAAC_IJah4xHNydGMGYXBwX2lkCjY2Mjg1NjgzNzkAAR4JeyXPj81vxM71ARVhkvU1hG7zIL1kfd2iXE6wGAdDxsAz4o_fXgXfTZXfsw_aem_YM7SshdVZoMnoa9A8lYtgA&campaign_id=6583599369024&ad_id=6583599369224",
-            "timeAgo": "2026-02-08"
+            "item": "Catalina Hinge Bangle - Gold",
+            "link": "https://www.julievos.com/products/catalina-hinge-bangle?externalId=F5nHd",
+            "timeAgo": "2026-02-14"
+          },
+          {
+            "item": "Solara Nova Hinge Bangle - Gold",
+            "link": "https://www.julievos.com/products/solara-nova-hinge-bangle?srsltid=AfmBOooaK8-hQTBi3vbiDWE0iU159S9QLREacrLu_Q9PdgAF_3zCQxx9",
+            "timeAgo": "2026-02-14"
           }
         ],
         "orders": [
           {
-            "orderNumber": "7233200718122",
-            "orderDate": "2026-02-06",
+            "orderNumber": "691201",
+            "orderDate": "2026-02-14",
             "items": [
               {
-                "name": "Embroidered Cross Heirloom Bubble",
-                "price": 50,
-                "productLink": "https://www.cecilandlou.com/products/embroidered-cross-heirloom-bubble4?variant=50943238471978"
-              },
-              {
-                "name": "Floral Lycra Long Sleeved Swimsuit",
-                "price": 21.99,
-                "productLink": "https://www.cecilandlou.com/products/floral-lycra-long-sleeved-swimsuit2?variant=51122639536426"
-              },
-              {
-                "name": "Floral Lycra Long Sleeved Swimsuit",
-                "price": 21.99,
-                "productLink": "https://cecil-and-lou.myshopify.com/products/floral-lycra-long-sleeved-swimsuit2"
-              },
-              {
-                "name": "Embroidered Cross Heirloom Bubble",
-                "price": 50,
-                "productLink": "https://cecil-and-lou.myshopify.com/products/embroidered-cross-heirloom-bubble4"
+                "name": "Milano Bangle",
+                "price": 95,
+                "productLink": "https://juliecollection.myshopify.com/products/milano-bangle"
               }
             ],
-            "total": 86.29,
-            "date_time": "2026-02-06 20:20:13.390"
+            "link": "https://www.julievos.com/57472/orders/09a21d880ba4c29db57e837c3e731ee6/authenticate?key=4ff99b05347ec8575021201854b6737a",
+            "trackingLink": "https://www.ups.com/WebTracking?loc=en_US&requester=ST&trackNums=1ZH4Y248YN39584887",
+            "order_tracking_link": "https://www.ups.com/WebTracking?loc=en_US&requester=ST&trackNums=1ZH4Y248YN39584887",
+            "total": 91.06,
+            "coupon": "WELCOMEK8V2",
+            "date_time": "2026-02-14 20:53:35.531"
           }
         ]
       },
-      "escalation_preferences": [
-        "Pre Orders"
-      ],
+      "escalation_preferences": [],
       "blocklisted_words": [],
       "has_shopify": true
     },
     "78": {
-      "id": "019c6800-b179-4734-f000-0000bff452fe",
-      "companyName": "Fashion Nova",
-      "companyWebsite": "https://fashionnova.com",
-      "agentName": "Alexa",
-      "messageTone": "Polished",
+      "id": "019c538d-82a8-4187-f000-0000fae3a890",
+      "companyName": "HEYDUDE US",
+      "companyWebsite": "https://heydude.com",
+      "agentName": "Casey",
+      "messageTone": "Casual",
       "conversation": [
         {
           "message_media": [],
-          "message_text": "Fashion Nova: It's here! Order #176663058 has been delivered!\n \nCheck delivery details here: http://sms.fashionnova.com/aRmYwujsoGQy .",
+          "message_text": "HEYDUDE: Reply Y to subscribe to recurring automated personalized marketing alerts (e.g. cart reminders) from HEYDUDE.",
           "message_type": "system",
-          "date_time": "2026-01-20 12:14:50.855"
+          "date_time": "2026-02-12 14:52:07.971"
         },
         {
           "message_media": [],
-          "message_text": "Fashion Nova: Your wishlist fave is back in stock! New York Chenille Patch Sweatshirt - Heather Grey is available in your size! Act fast before it sells out again! ->\nhttp://sms.fashionnova.com/aOjHv0MXQ-V7 .",
+          "message_text": "HEYDUDE: Welcome to HEYDUDE! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel. Privacy: attnl.tv/p/o76",
           "message_type": "system",
-          "date_time": "2026-01-20 12:48:20.114"
+          "date_time": "2026-02-12 14:52:23.074"
         },
         {
           "message_media": [],
-          "message_text": "Fashion Nova: Your order #176663058 is out for delivery and should arrive TODAY!\n\nTrack it here: http://sms.fashionnova.com/aZoYqt94_FSP .",
+          "message_text": "HEYDUDE: We're so stoked you made it in time for the Winter Savings Event!\n\nUse code FEB25 to take 25% off almost everything.\n\nShop Now:\nhttps://heydudeshoes.attn.tv/aNUtyb_gVIEt .",
           "message_type": "system",
-          "date_time": "2026-01-20 12:53:49.580"
+          "date_time": "2026-02-12 14:52:23.721"
         },
         {
           "message_media": [],
-          "message_text": "Fashion Nova: FREE 1-Day Shipping + Up to 70% OFF Sitewide!!\n\nThis One's Too Good To Miss! Shop NOW, Get It TMRW! ->\nhttp://sms.fashionnova.com/aWH_ZSqR8Xq3 .",
+          "message_text": "HEYDUDE: Over the next few days we'll try to help you find something that you will love!\n\nUntil then, shop our viral best-sellers: https://heydudeshoes.attn.tv/a4JP6mwTalDa .",
           "message_type": "system",
-          "date_time": "2026-01-21 10:33:22.795"
+          "date_time": "2026-02-12 14:53:30.251"
         },
         {
           "message_media": [],
-          "message_text": "Fashion Nova: Low stock alert! Your saved item is about to sell out! Shop before it's gone!\nhttp://sms.fashionnova.com/aQWKGgqpXVt0 .",
-          "message_type": "system",
-          "date_time": "2026-01-24 17:15:58.621"
-        },
-        {
-          "message_media": [],
-          "message_text": "Fashion Nova: ⚠️SNOW STORM WARNING⚠️40% OFF EVERYTHING Starts NOW!!\n\nStay Inside & SHOP! →\nhttp://sms.fashionnova.com/aYlNZby4GSMa .",
-          "message_type": "system",
-          "date_time": "2026-01-25 10:31:24.969"
-        },
-        {
-          "message_media": [],
-          "message_text": "Fashion Nova: Your wishlist fave is BACK in STOCK! Wild Side PJ Pant Set - Hot Pink/combo is available in your size! Act fast before it sells out again! ->\nhttp://sms.fashionnova.com/aGmz7Ff42Hsa .",
-          "message_type": "system",
-          "date_time": "2026-01-27 12:28:58.138"
-        },
-        {
-          "message_media": [],
-          "message_text": "Fashion Nova: 40% Off EVERYTHING + FREE 1-Day Shipping?!\n\nThe Math Is Mathing! T&C Apply, Shop NOW, Get It TMRW!! ->\nhttp://sms.fashionnova.com/aqf0CRlT4XJB .",
-          "message_type": "system",
-          "date_time": "2026-01-28 10:34:02.478"
-        },
-        {
-          "message_media": [],
-          "message_text": "Fashion Nova: Baby, come back! Shop new styles and get 10% OFF with code: TAKE10 .\n\nHurry, it won't last!\n\nhttp://sms.fashionnova.com/awnQE8wZmOjU .",
-          "message_type": "system",
-          "date_time": "2026-01-30 12:24:39.982"
-        },
-        {
-          "message_media": [],
-          "message_text": "Fashion Nova: Your wishlist fave is BACK in STOCK! Act Up Faux Leather Cargo Mini Skirt - Black is available in your size! Act fast before it sells out again! ->\nhttp://sms.fashionnova.com/aDaK9CKFlJUQ .",
-          "message_type": "system",
-          "date_time": "2026-01-31 13:11:15.532"
-        },
-        {
-          "message_media": [],
-          "message_text": "Fashion Nova: 40% OFF EVERYTHING Ends TONIGHT!!\n\nUse Code: LOVE40 | T&Cs Apply, Hurry B4 Code Expires! ->\nhttp://sms.fashionnova.com/a8aM-Hq9AXLH .",
-          "message_type": "system",
-          "date_time": "2026-02-01 18:24:19.351"
-        },
-        {
-          "message_media": [],
-          "message_text": "Fashion Nova: Christina, what happened? You may have missed something! Check out our New Arrivals before they sell out... you won't regret it: http://sms.fashionnova.com/aPaIcuNLLIOB . ",
-          "message_type": "system",
-          "date_time": "2026-02-03 12:16:58.616"
-        },
-        {
-          "message_media": [],
-          "message_text": "Fashion Nova: Your wishlist fave is selling fast! Grab it now before it's gone for good.\nhttp://sms.fashionnova.com/aZFvtUKiPbta .\n",
-          "message_type": "system",
-          "date_time": "2026-02-03 12:30:09.432"
-        },
-        {
-          "message_media": [],
-          "message_text": "Fashion Nova: FREE 1-Day Shipping! Get It TMRW!\n\n+ JUST LAUNCHED: NOVA Activewear. Hurry, Limited Quantity ->\nhttp://sms.fashionnova.com/aODu64KFLc_e .",
-          "message_type": "system",
-          "date_time": "2026-02-04 10:30:44.782"
-        },
-        {
-          "message_media": [],
-          "message_text": "Fashion Nova: Let's F#CKING GO! 50% OFF EVERYTHING Starts NOW!\n\n+Next 6HRS Only: $10 SETS!\n\nIt's GAMEDAY! Shop NOW! ->\nhttp://sms.fashionnova.com/awFohB_-kyjw .",
-          "message_type": "system",
-          "date_time": "2026-02-08 10:30:20.214"
-        },
-        {
-          "message_media": [],
-          "message_text": "Fashion Nova: Great news! Your order #178501977 has been picked up by the carrier!\n\nTrack it here: http://sms.fashionnova.com/aArt1zfGCnTk .",
-          "message_type": "system",
-          "date_time": "2026-02-08 12:48:24.652"
-        },
-        {
-          "message_media": [],
-          "message_text": "Fashion Nova: 🚨We're REFUNDING The NEXT 2,000 Orders Up To $100!!!🚨\n\n+ 50% OFF EVERYTHING!\n\nHURRY! Ur Chance To Score Is... NOW! See T&Cs. HURRY!! ->\nhttp://sms.fashionnova.com/aK4eXfsSbio5 .",
-          "message_type": "system",
-          "date_time": "2026-02-08 19:13:57.468"
-        },
-        {
-          "message_media": [],
-          "message_text": "Fashion Nova: Christina, what happened? Don't miss the Super Sunday Sale! Shop 50% Off EVERYTHING! -> http://sms.fashionnova.com/aZjb8T3BChk8 .",
-          "message_type": "system",
-          "date_time": "2026-02-08 19:55:04.132"
-        },
-        {
-          "message_media": [],
-          "message_text": "Fashion Nova: WTF?!🚨$5 JEANS Starts NOW!!🚨\n\n+ 50% OFF EVERYTHING ENDS Tonight!\n\nHurry, Don't Fumble This Deal! Shop Now! ->\nhttp://sms.fashionnova.com/abFJRSuj5BUj .",
-          "message_type": "system",
-          "date_time": "2026-02-08 21:07:05.712"
-        },
-        {
-          "message_media": [],
-          "message_text": "Fashion Nova: 2HRS LEFT! 50% OFF EVERYTHING Ending + Xtra 10% OFF! Code: WIN10\n\nHurry, Shop B4 Game Day Is OVER! ->\nhttp://sms.fashionnova.com/aQkqYEJ0SOCI .",
-          "message_type": "system",
-          "date_time": "2026-02-08 23:10:30.935"
-        },
-        {
-          "message_media": [],
-          "message_text": "Fashion Nova: EXTENDED! 50% OFF EVERYTHING Is Still Going!!\n\nT&Cs Apply, Hurry & Shop B4 This SALE Is OVER! ->\nhttp://sms.fashionnova.com/ax3Id9eVMFNd .",
-          "message_type": "system",
-          "date_time": "2026-02-09 19:34:07.142"
-        },
-        {
-          "message_media": [],
-          "message_text": "Fashion Nova: FREE 1-Day Shipping! Get It B4 V-DAY!\n\n+The Semi-Annual SALE Is NOW! 40-80% OFF SITEWIDE!\n\nT&C Apply ->\nhttp://sms.fashionnova.com/aLwIABKv5F7K .",
-          "message_type": "system",
-          "date_time": "2026-02-11 10:38:36.720"
-        },
-        {
-          "message_media": [],
-          "message_text": "Fashion Nova: Your order #178501977 is out for delivery and should arrive TODAY!\n\nTrack it here: http://sms.fashionnova.com/aUZHq8VPGpVV .",
-          "message_type": "system",
-          "date_time": "2026-02-12 12:15:36.848"
-        },
-        {
-          "message_media": [],
-          "message_text": "Fashion Nova: Your order #178501977 is out for delivery and should arrive TODAY!\n\nTrack it here: http://sms.fashionnova.com/agHz9cYIQLHW .",
-          "message_type": "system",
-          "date_time": "2026-02-12 12:34:50.732"
-        },
-        {
-          "message_media": [],
-          "message_text": "Fashion Nova: Great news! Your order #178501977 has been picked up by the carrier!\n\nTrack it here: http://sms.fashionnova.com/aweCIUadmPj8 .",
-          "message_type": "system",
-          "date_time": "2026-02-12 12:47:31.030"
-        },
-        {
-          "message_media": [],
-          "message_text": "Fashion Nova: It's here! Order #178501977 has been delivered!\n \nCheck delivery details here: http://sms.fashionnova.com/aTWRJTfhsRPq .",
-          "message_type": "system",
-          "date_time": "2026-02-12 14:26:26.257"
-        },
-        {
-          "message_media": [],
-          "message_text": "Fashion Nova: Your wishlist fave is BACK in STOCK! Act Up Faux Leather Cargo Mini Skirt - Black is available in your size! Act fast before it sells out again! ->\nhttp://sms.fashionnova.com/aSSVdTR2TIUy .",
-          "message_type": "system",
-          "date_time": "2026-02-13 12:31:47.981"
-        },
-        {
-          "message_media": [],
-          "message_text": "Fashion Nova: FINAL 6HRS! 40-80% OFF EVERYTHING Is ENDING!!\n\nHURRY, Shop B4 Code: SAVE40 Expires!! ->\nhttp://sms.fashionnova.com/a5crMGSACTqa .",
-          "message_type": "system",
-          "date_time": "2026-02-15 18:38:56.933"
-        },
-        {
-          "message_media": [],
-          "message_text": "Can I get my return code",
+          "message_text": "Code didn't work",
           "message_type": "customer",
-          "date_time": "2026-02-16 14:47:01.895"
+          "date_time": "2026-02-12 15:22:09.764"
         },
         {
           "message_media": [],
-          "message_text": "I would like to reorder",
-          "message_type": "customer",
-          "date_time": "2026-02-16 14:47:31.935"
-        },
-        {
-          "message_media": [],
-          "message_text": "Template used: \"No promotions available - All brands\"; last updated: 2023-10-10 16:37:45.165",
-          "message_type": "template",
-          "date_time": "2026-02-16 14:50:01.873"
-        },
-        {
-          "message_media": [],
-          "message_text": "Fashion Nova: Thanks for reaching out, and sorry for any confusion. Could you clarify what you meant by the return code? In the meantime, you can use the code SAVE40 to take advantage of the 40-80% discount on the eligible items here: http://sms.fashionnova.com/aClrTYB-qvN5",
+          "message_text": "HEYDUDE: Please check our website, heydude.com, for the latest promotions and sales. If you're having trouble with a coupon, please share a screenshot for assistance.",
           "message_type": "agent",
-          "agent": "87310",
-          "message_id": "019c6800-b179-4734-f000-0000bff452fe",
-          "date_time": "2026-02-16 14:50:01.875"
+          "agent": "62551",
+          "message_id": "019c5384-f9d5-470d-f000-0000fae3a890",
+          "date_time": "2026-02-12 15:22:29.612"
+        },
+        {
+          "message_media": [],
+          "message_text": "FEB25 does not work",
+          "message_type": "customer",
+          "date_time": "2026-02-12 15:23:09.897"
+        },
+        {
+          "message_media": [],
+          "message_text": "HEYDUDE: Please check our website, heydude.com, for the most up-to-date promotions and sales. If you're having trouble with a coupon, please share a screenshot for further assistance.",
+          "message_type": "agent",
+          "agent": "62551",
+          "message_id": "019c5385-ce61-46ca-f000-0000fae3a890",
+          "date_time": "2026-02-12 15:23:24.018"
+        },
+        {
+          "message_media": [],
+          "message_text": "HEYDUDE: Grab the Wally Vintage Classic — effortless vintage style with elastic laces and a cushioned outsole, perfect for all-day comfort.\n\nOver 20K people have recently viewed it: https://heydudeshoes.attn.tv/aVhWYUwcz0Uc .",
+          "message_type": "system",
+          "date_time": "2026-02-12 15:27:16.405"
+        },
+        {
+          "message_media": [],
+          "message_text": "Not available online",
+          "message_type": "customer",
+          "date_time": "2026-02-12 15:27:59.669"
+        },
+        {
+          "message_media": [],
+          "message_text": "Just tried to purchase them",
+          "message_type": "customer",
+          "date_time": "2026-02-12 15:28:29.764"
+        },
+        {
+          "message_media": [],
+          "message_text": "False advertising",
+          "message_type": "customer",
+          "date_time": "2026-02-12 15:29:39.545"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"Code won't work - All brands\"; last updated: 2023-10-10 16:36:42.859",
+          "message_type": "template",
+          "date_time": "2026-02-12 15:31:48.932"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"Code won't work\"; last updated: 2025-11-12 15:43:55.752",
+          "message_type": "template",
+          "date_time": "2026-02-12 15:31:48.932"
+        },
+        {
+          "message_media": [],
+          "message_text": "HEYDUDE: I'm so sorry that you are having trouble using the code. Have you encountered any error messages? Also, could you kindly share a screenshot of the items in your cart? I'll be happy to look into the issue!\n\nPlease note that discount codes are valid for items available on this link: https://heydudeshoes.attn.tv/aILUIU3eYvlR They cannot be combined with any other offer or promotion, including sale styles. Please note that additional exclusions may apply. \n\nFor the item, are you referring to Wally Vintage Classic? If so, it is currently available and you may purchase it here: https://heydudeshoes.attn.tv/alqhy48-5lVy",
+          "message_type": "agent",
+          "agent": "109964",
+          "message_id": "019c538d-82a8-4187-f000-0000fae3a890",
+          "date_time": "2026-02-12 15:31:48.935"
         }
       ],
       "notes": {
-        "send_to_cs": [
-          "No escalations for this client, send to CS using the Support templates",
-          "For post-purchase inquiries send to CS using the Support template (shortcut: ESC)",
-          "➜ If the cx is having difficulties sending an email to CS via the link in the ESC temp - use Support 2 template (shortcut: TESC)",
-          "➜ If the cx is facing technical website issues while accessing the link, do NOT immediately send the TESC shortcut, troubleshoot first instead",
-          "For pre-purchase inquiries send to CS using the Support 2 template (shortcut: TESC)"
+        "important": [
+          "There is a scam website that customers are texting in from (https://heydudestores.com/)",
+          "If you notice this, reroute customers to the correct website!"
         ],
-        "tone": [
-          "🅿️ Use wording that is in line with the brand's voice and terminology found on the website",
-          "➜ e.g. Nova Kids, Nova Babes, Insta-worthy, slays, snatched, baddie, etc.",
-          "➜ Always look up the term's meaning before using it!"
+        "send_to_cs": [
+          "Don't ESC post-purchase issues, use PPI shortcut"
         ],
         "templates": [
-          "For expired discounts use EXP shortcut",
-          "For login issues use LGI shortcut"
+          "For wrong items received use WMP shortcut",
+          "For damaged items received use DMI shortcut",
+          "For order status requests use OSR shortcut"
         ],
         "promo_and_promo_exclusions": [
-          "If cx are looking for their 30% welcome code, ask to check their email (spam & promo)",
-          "Gift cards can be used on discounted items"
+          "The welcome code is valid for first-time customers only.",
+          "➜ Applies to full-price styles",
+          "➜ Can't be combined with any other discounts or offers, including sale styles",
+          "➜  Use cww temp for code issues",
+          "The promotional price shown on the Heydude website may not always be guaranteed when cx is redirected to Prime for purchase if the item is out of stock"
         ]
       },
       "rightPanel": {
         "source": {
           "label": "Website",
-          "value": "https://fashionnova.com",
+          "value": "https://heydude.com",
           "date": ""
         },
         "browsingHistory": [
           {
-            "item": "Harlem Faux Leather Moto Jacket - Black",
-            "link": "https://www.fashionnova.com/products/harlem-faux-leather-moto-jacket-black?variant=39295031574652&currency=USD&utm_source=google&utm_medium=cpc&utm_id=21489984388&utm_campaign=USA_NB_SHOPPING_W_OUTERWEAR&glid=Cj0KCQiAnJHMBhDAARIsABr7b86dFdifqeb7Af8dvB0sBF7N2ALePsyfmgyyBZziqvLRvL8OeO6F06caAjBYEALw_wcB&nbt=nb%3Aadwords%3Ag%3A21489984388%3A165299927189%3A708233684802&gad_source=1&gad_campaignid=21489984388&gbraid=0AAAAADmA10TKAxUsO5KpHdHu1tJGlf1m6&gclid=Cj0KCQiAnJHMBhDAARIsABr7b86dFdifqeb7Af8dvB0sBF7N2ALePsyfmgyyBZziqvLRvL8OeO6F06caAjBYEALw_wcB",
-            "timeAgo": "2026-02-06"
+            "item": "Wally Stretch Canvas - Black/Black - 7",
+            "link": "https://www.heydude.com/products/wally-stretch-canvas-dgn",
+            "timeAgo": "2026-02-12"
           },
           {
-            "item": "Dagger Lace Up Boots - Black",
-            "link": "https://www.fashionnova.com/products/dagger-lace-up-boots-black?utm_campaign=wishlist_added&externalId=66nKe",
-            "timeAgo": "2026-02-06"
+            "item": "Wally Stretch Canvas - Black/Black",
+            "link": "https://www.heydude.com/products/wally-stretch-canvas-black-black",
+            "timeAgo": "2026-02-12"
           },
           {
-            "item": "New York Chenille Patch Sweatshirt - Heather Grey",
-            "link": "https://www.fashionnova.com/products/new-york-chenille-patch-sweatshirt-heather-grey?utm_campaign=wishlist_back_in_stock&utm_source=attentive&utm_medium=sms&externalId=66nKe",
-            "timeAgo": "2026-01-22"
+            "item": "Wally Stretch Canvas - Black/Black - 7",
+            "link": "https://www.heydude.com/products/wally-stretch-canvas-black-black",
+            "timeAgo": "2026-02-12"
+          },
+          {
+            "item": "Wally Washed Quilt - Black/Grey",
+            "link": "https://www.heydude.com/products/wally-washed-quilt-blk-grey",
+            "timeAgo": "2026-02-12"
+          },
+          {
+            "item": "Wally Washed Quilt - Black/Grey",
+            "link": "https://www.heydude.com/products/wally-washed-quilt-stormy-blue-multi",
+            "timeAgo": "2026-02-12"
           }
         ]
       },
@@ -511,2026 +743,330 @@
       "has_shopify": true
     },
     "79": {
-      "id": "019c4964-1037-43cf-f000-0000f9f978b9",
-      "companyName": "Dr. Scholl's Shoes",
-      "companyWebsite": "https://drschollsshoes.com",
-      "agentName": "Jordan",
+      "id": "019c5ce1-d980-4bee-f000-0000fa94e362",
+      "companyName": "Comfrt",
+      "companyWebsite": "https://comfrt.com",
+      "agentName": "Samantha",
       "messageTone": "Polished",
       "conversation": [
         {
           "message_media": [],
-          "message_text": "Dr. Scholl's Shoes: Welcome to Dr. Scholl's Shoes! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel. Privacy: attnl.tv/p/E6K",
+          "message_text": "Comfrt: Reply Y to subscribe to recurring automated personalized marketing alerts (e.g. cart reminders) from Comfrt.",
           "message_type": "system",
-          "date_time": "2026-02-08 01:46:19.221"
+          "date_time": "2026-02-11 19:30:08.935"
         },
         {
           "message_media": [],
-          "message_text": "Dr. Scholl's Shoes: Here's your 15% off + free shipping on cool, comfy, classic looks for the whole family! \n\nShop now: drschollsshoes.attn.tv/aI7aO2gNfC6S ",
+          "message_text": "Comfrt: Welcome to Comfrt! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
           "message_type": "system",
-          "date_time": "2026-02-08 01:46:24.740"
+          "date_time": "2026-02-11 19:30:52.537"
         },
         {
           "message_media": [],
-          "message_text": "Dr. Scholl's Shoes: Oh, also, a lot of people like getting personal recs from us. Over the next few days we'll try to help you find something that you will love.\n\nNot exactly sure what you're looking for? Check out our newest arrivals for some inspiration: https://drschollsshoes.attn.tv/aWWlbRLq7zSh .",
+          "message_text": "Comfrt: Welcome to Comfrt! We're so excited to have you. Here's your exclusive 15% off code: W15NwowLz\n\nClick here to auto-apply your discount and shop our viral best-sellers: comfrt.attn.tv/a-2kNb-tcXHB",
           "message_type": "system",
-          "date_time": "2026-02-08 01:47:27.903"
+          "date_time": "2026-02-11 19:30:57.057"
         },
         {
           "message_media": [],
-          "message_text": "Dr. Scholl's Shoes: Shop the Original Joy Platform Clog with recycled materials, plant-based cushioning, and a wood heel.\n\nUse code DRS15WELNVHWSKML for 15% off: https://drschollsshoes.attn.tv/ag6A3UHPOH6v .",
+          "message_text": "Comfrt: Let's be friends!\n\nSave our contact to make sure we land directly in your messages.",
           "message_type": "system",
-          "date_time": "2026-02-08 02:05:00.986"
+          "date_time": "2026-02-11 19:31:00.531"
         },
         {
           "message_media": [],
-          "message_text": "I'm looking for the leopard clogs. Will they be back in stock soon?",
+          "message_text": "Hi",
           "message_type": "customer",
-          "date_time": "2026-02-08 14:08:13.300"
+          "date_time": "2026-02-12 12:50:12.898"
         },
         {
           "message_media": [],
-          "message_text": "Dr. Scholl's Shoes: I appreciate your inquiry! I checked and it's in stock in select sizes: https://drschollsshoes.attn.tv/aiMrtgXfZ6nJ What size do you need?",
+          "message_text": "Did my item ship yet?",
+          "message_type": "customer",
+          "date_time": "2026-02-12 12:50:22.879"
+        },
+        {
+          "message_media": [],
+          "message_text": "Comfrt: You can check your order status here: https://comfrt.attn.tv/aJpp4GFqtgex",
           "message_type": "agent",
-          "agent": "31385",
-          "message_id": "019c3ec5-d933-4fdd-f000-0000f9f978b9",
-          "date_time": "2026-02-08 14:41:19.564"
+          "agent": "62551",
+          "message_id": "019c52fa-12a3-41fc-f000-0000fa94e362",
+          "date_time": "2026-02-12 12:50:46.449"
         },
         {
           "message_media": [],
-          "message_text": "8.5",
-          "message_type": "customer",
-          "date_time": "2026-02-08 14:41:47.285"
-        },
-        {
-          "message_media": [],
-          "message_text": "Loved “I appreciate your inquiry! I checked and it's in stock in select sizes: https://drschollsshoes.attn.tv/aiMrtgXfZ6nJ What size do you need?”",
-          "message_type": "customer",
-          "date_time": "2026-02-08 14:49:37.057"
-        },
-        {
-          "message_media": [],
-          "message_text": "Dr. Scholl's Shoes: Unfortunately, size 8.5 is currently unavailable. I'm sorry, I currently don't have the exact date of a possible restock, but I recommend checking our website and social media frequently. In the meantime, what do you think about this instead? https://drschollsshoes.attn.tv/aCjoK64gX6FY",
-          "message_type": "agent",
-          "agent": "109629",
-          "message_id": "019c3ecf-267f-4499-f000-0000f9f978b9",
-          "date_time": "2026-02-08 14:51:29.175"
-        },
-        {
-          "message_media": [],
-          "message_text": "Dr. Scholl's Shoes: Check out the Chill Time Slip-On Clog in your cart—sustainably made with algae-infused cushioning and an adjustable strap.\n\n3.3K people have recently viewed them.\n\nShop now: https://drschollsshoes.attn.tv/aEPsxXdGg0T3 .",
+          "message_text": "Comfrt: Upgrade to first class.\n\nThe VIP Airplane Mode Hoodie with a satin-lined hood and eye mask has officially landed! \n\nAlso, four new limited shades just got added to our original collection.\n\nGet it while you can: comfrt.attn.tv/aOqp8shetQdl \n",
           "message_type": "system",
-          "date_time": "2026-02-08 15:24:22.698"
+          "date_time": "2026-02-13 18:30:58.753"
         },
         {
           "message_media": [],
-          "message_text": "Dr. Scholl's Shoes: Hi—shoes with built-in cushioning and arch support feel great all day; check the women's styles I saw.\n\nYour next pair is here: https://drschollsshoes.attn.tv/a_L0o4aJAvGK .",
-          "message_type": "system",
-          "date_time": "2026-02-08 16:24:31.048"
-        },
-        {
-          "message_media": [],
-          "message_text": "Dr. Scholl's Shoes: Just dropped: SPRING. New sneaks, fresh sandals + your viral faves in new hues! \n\nSHOP NEW ARRIVALS: drschollsshoes.attn.tv/aDVLIHz5M8Ad . ",
-          "message_type": "system",
-          "date_time": "2026-02-08 17:30:10.976"
-        },
-        {
-          "message_media": [],
-          "message_text": "Dr. Scholl's Shoes: Find comfort and lift with the Time Off Platform Sneaker—recycled materials, cushioned support, and flexible grip to keep you moving. 😊\n\nFree shipping on orders $65+ and free returns within 45 days.\n\nYour next pair is here: https://drschollsshoes.attn.tv/a-C1W7AnVnSX .",
-          "message_type": "system",
-          "date_time": "2026-02-08 19:14:52.978"
-        },
-        {
-          "message_media": [],
-          "message_text": "Dr. Scholl's Shoes: Pantone calls it Cloud Dancer. We call it Time Off White, timeless. \n\nSNAG THE TIKTOK FAVE: drschollsshoes.attn.tv/ar8-ZzKyPmCF . ",
-          "message_type": "system",
-          "date_time": "2026-02-09 15:30:07.704"
-        },
-        {
-          "message_media": [],
-          "message_text": "Any chance you can help me to get free shipping on my shoes... It says spend 15 more dollars For free shippingBut you don't have anything for $15",
+          "message_text": "Where is my order",
           "message_type": "customer",
-          "date_time": "2026-02-10 14:48:45.036"
+          "date_time": "2026-02-14 10:52:56.604"
         },
         {
           "message_media": [],
-          "message_text": "Dr. Scholl's Shoes: Thanks for reaching out! I'm afraid we only offer free economy shipping on domestic orders over $65. ",
-          "message_type": "agent",
-          "agent": "45474",
-          "message_id": "019c491d-6e1d-45e4-f000-0000f9f978b9",
-          "date_time": "2026-02-10 14:53:11.487"
-        },
-        {
-          "message_media": [],
-          "message_text": "Dr. Scholl's Shoes: Try the Webster Loafer — eco-friendly comfort with cushioned support and a flexible fit that works all day with a stylish almond toe. 😊\n\nFree shipping on orders $65+ and free returns within 45 days.\n\nYour next pair is here: https://drschollsshoes.attn.tv/aem7km1drYru . BUY NOW",
-          "message_type": "system",
-          "date_time": "2026-02-10 15:12:29.589"
-        },
-        {
-          "message_media": [],
-          "message_text": "Aww 🥰 thanks anyway, bummer now they're sold out darn it",
+          "message_text": "I paid express shipping",
           "message_type": "customer",
-          "date_time": "2026-02-10 16:02:40.370"
+          "date_time": "2026-02-14 10:53:02.072"
         },
         {
           "message_media": [],
-          "message_text": "I should have just bought them 😭",
-          "message_type": "customer",
-          "date_time": "2026-02-10 16:03:00.427"
-        },
-        {
-          "message_media": [],
-          "message_text": "Dr. Scholl's Shoes: I know how it feels to miss out! Keep an eye out for updates. In the meantime, you can explore our new arrivals here: drschollsshoes.attn.tv/aDVLIHz5M8Ad .",
-          "message_type": "agent",
-          "agent": "82222",
-          "message_id": "019c495f-723c-45a1-f000-0000f9f978b9",
-          "date_time": "2026-02-10 16:05:17.906"
-        },
-        {
-          "message_media": [],
-          "message_text": "Liked “I know how it feels to miss out! Keep an eye out for updates. In the meantime, you can explore our new arrivals here: drschollsshoes.attn.tv/aDVLIHz5M8Ad .”",
-          "message_type": "customer",
-          "date_time": "2026-02-10 16:05:43.479"
-        },
-        {
-          "message_media": [],
-          "message_text": "Will you be getting more of these in either one of these?",
-          "message_type": "customer",
-          "date_time": "2026-02-10 16:05:50.467"
-        },
-        {
-          "message_media": [],
-          "message_text": "Template used: \"Restock (website & social)\"; last updated: 2025-10-09 21:41:33.472",
+          "message_text": "Template used: \"Customer support\"; last updated: 2022-09-13 01:43:33.168",
           "message_type": "template",
-          "date_time": "2026-02-10 16:10:20.502"
+          "date_time": "2026-02-14 11:00:31.139"
         },
         {
           "message_media": [],
-          "message_text": "Dr. Scholl's Shoes: Thanks for getting back to me with that screenshot! I'm sorry, I currently don't have the exact date of a possible restock for both our Women's Original Joy Platform Clog (Brown Leopard Leather) and Women's Chill Time Slip On Clog (Brown Leopard Faux Leather), but I recommend checking our website and social media frequently.",
+          "message_text": "Comfrt: Thank you for reaching out! I'm sorry to hear that you haven't received your order yet, especially since you paid for express shipping. It certainly isn't the experience I want you to have. The best way to handle this is to email us directly at info@comfrt.com. Our team is happy to help!",
           "message_type": "agent",
-          "agent": "109840",
-          "message_id": "019c4964-1037-43cf-f000-0000f9f978b9",
-          "date_time": "2026-02-10 16:10:20.504"
+          "agent": "109968",
+          "message_id": "019c5ce1-d980-4bee-f000-0000fa94e362",
+          "date_time": "2026-02-14 11:00:31.141"
         }
       ],
       "notes": {
+        "send_to_cs": [
+          "Send to CS for post-purchase issues"
+        ],
         "escalate": [
-          "For all ESC use ESC shortcut",
-          "When ESC code issues, include the promo code in the ESC notes"
+          "ESC if the discount % is not the same as indicated in the automated message"
         ],
-        "promo_and_promo_exclusions": [
-          "Coupon codes CAN be combined with sale items"
+        "templates": [
+          "If cx asks if Comfrt was formerly another brand, use CFB shortcut"
         ]
       },
       "rightPanel": {
         "source": {
           "label": "Website",
-          "value": "https://drschollsshoes.com",
+          "value": "https://comfrt.com",
           "date": ""
         },
         "browsingHistory": [
           {
-            "item": "women's madison cloud slip on sneaker",
-            "link": "https://www.drschollsshoes.com/product/dr-scholls-womens-madison-cloud-slip-on-sneaker-5279390/pink-leopard-faux-leather-02350",
-            "timeAgo": "2026-02-10"
-          },
-          {
-            "item": "women's right on sneaker",
-            "link": "https://www.drschollsshoes.com/product/dr-scholls-womens-right-on-sneaker-5281099/blue-fabric-87490?icid=DrSchollsRecommendationsPDPMiddle_American%20Lifestyle_5281099_20010_87490",
-            "timeAgo": "2026-02-10"
-          },
-          {
-            "item": "women's madison cloud slip on sneaker",
-            "link": "https://www.drschollsshoes.com/product/dr-scholls-womens-madison-cloud-slip-on-sneaker-5279390/pink-leopard-faux-leather-02350",
-            "timeAgo": "2026-02-10"
-          },
-          {
-            "item": "women's chill time slip on clog",
-            "link": "https://www.drschollsshoes.com/product/dr-scholls-womens-chill-time-slip-on-clog-5281115/brown-leopard-faux-leather-87461",
-            "timeAgo": "2026-02-10"
-          }
-        ]
-      },
-      "escalation_preferences": [],
-      "blocklisted_words": [],
-      "has_shopify": false
-    },
-    "80": {
-      "id": "019c58b1-09eb-4182-f000-000001f11a59",
-      "companyName": "ELEMIS",
-      "companyWebsite": "https://us.elemis.com/",
-      "agentName": "Charlotte",
-      "messageTone": "Polished",
-      "conversation": [
-        {
-          "message_media": [],
-          "message_text": "ELEMIS: Hi, this is Charlotte. Thanks for popping by Elemis.com! \n\nAny skincare or product questions I can answer for you?\n\nShop Now >> elemis.attn.tv/aBcE9meK8I-0 . ",
-          "message_type": "system",
-          "date_time": "2026-01-14 16:05:27.519"
-        },
-        {
-          "message_media": [],
-          "message_text": "ELEMIS: Hi! Charlotte here- don't miss out on the items in your ELEMIS cart!\n\nText back with any questions you may have! \n\nComplete your purchase now >> elemis.attn.tv/aXtgm_J8o1MZ .",
-          "message_type": "system",
-          "date_time": "2026-01-14 16:23:57.092"
-        },
-        {
-          "message_media": [],
-          "message_text": "ELEMIS: Live now for London Calling! Meet Pro-Collagen Hydrating Cleansing Mousse: cloud-like comfort, deep hydration, zero dryness. \n\nTune in >> elemis.attn.tv/ayKfKyBG21Qy ",
-          "message_type": "system",
-          "date_time": "2026-01-14 17:25:25.843"
-        },
-        {
-          "message_media": [],
-          "message_text": "ELEMIS: VIPs save more today. Early access to 30% off sitewide + free 5-piece gift ($136 value) with $160+. Public gets 25% tomorrow.\n\nUse Code: WINTERVIP>> elemis.attn.tv/awptUg9sOgLg ",
-          "message_type": "system",
-          "date_time": "2026-01-15 10:00:38.458"
-        },
-        {
-          "message_media": [],
-          "message_text": "ELEMIS: Your extra savings: 30% off + FREE 5-piece gift ($136 value) ends at midnight.\n\nUse Code: WINTERVIP>> elemis.attn.tv/apcqm60MS44t ",
-          "message_type": "system",
-          "date_time": "2026-01-15 19:00:54.438"
-        },
-        {
-          "message_media": [],
-          "message_text": "ELEMIS: Your winter renewal starts now. Take 25% off and enjoy a FREE 5-piece gift (worth $136) with $160+. \n\nCode: WINTER25>> elemis.attn.tv/aKrUFlUJSekq ",
-          "message_type": "system",
-          "date_time": "2026-01-16 10:30:49.749"
-        },
-        {
-          "message_media": [],
-          "message_text": "ELEMIS: Your winter glow starts here. Get a FREE 5-piece set ($136 value) with $160+ and enjoy 25% off. \n\nCode: WINTER25>> elemis.attn.tv/am2wjL8gzwzT ",
-          "message_type": "system",
-          "date_time": "2026-01-17 08:07:14.117"
-        },
-        {
-          "message_media": [],
-          "message_text": "ELEMIS: Fight winter dryness with 25% off, plus a FREE 5-piece renewal gift when you spend $160+.\n\nCode: WINTER25>> elemis.attn.tv/arg9KlvvbN1u ",
-          "message_type": "system",
-          "date_time": "2026-01-18 13:15:58.090"
-        },
-        {
-          "message_media": [],
-          "message_text": "ELEMIS: Your best skin begins overnight! FREE Pro-Collagen Night Cream or Overnight Matrix with $150+ purchase. \n\nCode: EVENING>> elemis.attn.tv/aRlj2tOKP8Xv ",
-          "message_type": "system",
-          "date_time": "2026-01-22 12:30:39.280"
-        },
-        {
-          "message_media": [],
-          "message_text": "ELEMIS: Last chance! FREE Pro-Collagen Night Cream or Overnight Matrix with $150+ purchase. \n\nCode: EVENING>> elemis.attn.tv/aZwDoj2oNEXs ",
-          "message_type": "system",
-          "date_time": "2026-01-23 12:45:41.068"
-        },
-        {
-          "message_media": [],
-          "message_text": "ELEMIS: Bundle up & save. This weekend only, enjoy 25% OFF sitewide.\n\nUse code: FLASH25>> elemis.attn.tv/aOYxjGLzBTCI ",
-          "message_type": "system",
-          "date_time": "2026-01-24 12:30:51.564"
-        },
-        {
-          "message_media": [],
-          "message_text": "ELEMIS: Snowed in? Stay cozy & save 25% OFF sitewide. Ends tonight.\n\nUse code: FLASH25>> elemis.attn.tv/aSNG4hudof9t ",
-          "message_type": "system",
-          "date_time": "2026-01-25 13:45:41.009"
-        },
-        {
-          "message_media": [],
-          "message_text": "ELEMIS: Don't miss our new Refer-A-Friend program! Gift your friends $30 off their first order. When they purchase, you'll receive $30 off your next order! elemis.attn.tv/aNFO6_UV5NJU .",
-          "message_type": "system",
-          "date_time": "2026-01-27 12:29:16.268"
-        },
-        {
-          "message_media": [],
-          "message_text": "ELEMIS: Your Valentine's Day gift is here! Indulge in a skin-loving ritual for day-to-night hydration and glow. Free 5-piece gift (worth $136) with $175+ purchase. \n\nCode: LOVE >> elemis.attn.tv/adxBqL-XQZaB ",
-          "message_type": "system",
-          "date_time": "2026-02-03 12:30:34.682"
-        },
-        {
-          "message_media": [],
-          "message_text": "ELEMIS: Invest in your skin. Enjoy 25% off sitewide for a limited time on skincare you can commit to every day. \n\nCode: HEART25 >> elemis.attn.tv/aQvbxZS3z029 ",
-          "message_type": "system",
-          "date_time": "2026-02-06 12:03:04.300"
-        },
-        {
-          "message_media": [],
-          "message_text": "ELEMIS: Limited time only. Save 25% sitewide on skincare that delivers visible results and high-performing formulas your skin can feel.\n\nCode: HEART25 >> elemis.attn.tv/afEksQSyE4WR ",
-          "message_type": "system",
-          "date_time": "2026-02-07 08:10:08.129"
-        },
-        {
-          "message_media": [],
-          "message_text": "ELEMIS: Save 25% on dependable skincare that shows up daily. That's a relationship your skin can count on.\n\nCode: HEART25 >> elemis.attn.tv/aOBw9JYKUJeH ",
-          "message_type": "system",
-          "date_time": "2026-02-08 13:02:17.601"
-        },
-        {
-          "message_media": [],
-          "message_text": "ELEMIS: Ends soon. Enjoy 25% off sitewide for a limited time on reliable skincare with results you can feel. \n\nCode: HEART25 >> elemis.attn.tv/a11AWkUo_Wpa ",
-          "message_type": "system",
-          "date_time": "2026-02-09 12:05:21.570"
-        },
-        {
-          "message_media": [],
-          "message_text": "ELEMIS: Last-minute Valentine's gifts? We've got you. Free 2-day shipping on $150+ ends tomorrow. Plus, receive a free 5-piece gift (worth $136) when you spend $175+. \n\nCode: LOVE >> elemis.attn.tv/alsZkC8sW0wI ",
-          "message_type": "system",
-          "date_time": "2026-02-11 12:30:20.421"
-        },
-        {
-          "message_media": [],
-          "message_text": "ELEMIS: Hi! Charlotte here- don't miss out on the items in your ELEMIS cart!\n\nText back with any questions you may have! \n\nComplete your purchase now >> elemis.attn.tv/aY-LqN8Ha4ZY .",
-          "message_type": "system",
-          "date_time": "2026-02-12 17:19:57.153"
-        },
-        {
-          "message_media": [],
-          "message_text": "I'm trying to figure out why I keep getting an error message about payment error for my subscription. I've been on the phone with the bank and they say my card hasn't been declined",
-          "message_type": "customer",
-          "date_time": "2026-02-12 17:29:56.984"
-        },
-        {
-          "message_media": [],
-          "message_text": "ELEMIS: My sincere apologies for the inconvenience! Please double-check that the billing ZIP code you entered matches the one linked to your credit card. I also recommend trying to open the site in an incognito or private window to rule out any browser cache or extension issues. Are you seeing any specific error messages on your end?",
-          "message_type": "agent",
-          "agent": "82427",
-          "message_id": "019c5402-2d62-46ca-f000-000001f11a59",
-          "date_time": "2026-02-12 17:39:14.822"
-        },
-        {
-          "message_media": [],
-          "message_text": "It just says that the subscription couldn't be placed due to a payment error",
-          "message_type": "customer",
-          "date_time": "2026-02-12 20:45:40.206"
-        },
-        {
-          "message_media": [],
-          "message_text": "ELEMIS: Thanks for letting me know. Just to be sure, have you already double-checked that the billing ZIP code you entered matches the one linked to your credit card? Have you also tried opening the site in an incognito or private window to rule out any browser cache or extension issues? Sometimes, these steps help resolve the issue you're having. Let me know how it goes!",
-          "message_type": "agent",
-          "agent": "125911",
-          "message_id": "019c54b0-700c-4aa3-f000-000001f11a59",
-          "date_time": "2026-02-12 20:49:35.150"
-        },
-        {
-          "message_media": [],
-          "message_text": "I haven't tried opening the site in a different browser but, I'll try that in the morning when I get back to the office. Thank you! I'll check in tomorrow and let you know how it goes.",
-          "message_type": "customer",
-          "date_time": "2026-02-12 20:51:20.163"
-        },
-        {
-          "message_media": [],
-          "message_text": "ELEMIS: Got it, let me know how it goes when you give it a try tomorrow morning! Anything else I can help with in the meantime?",
-          "message_type": "agent",
-          "agent": "125911",
-          "message_id": "019c54b3-6663-4052-f000-000001f11a59",
-          "date_time": "2026-02-12 20:52:49.284"
-        },
-        {
-          "message_media": [],
-          "message_text": "No, thank you",
-          "message_type": "customer",
-          "date_time": "2026-02-12 21:28:29.929"
-        },
-        {
-          "message_media": [],
-          "message_text": "I'm still having the same issue. I guess I'll cancel the subscription and just place a regular order. I ordered something else earlier and still had to verify the charge but, it did work.",
-          "message_type": "customer",
-          "date_time": "2026-02-13 15:06:31.807"
-        },
-        {
-          "message_media": [],
-          "message_text": "ELEMIS: Thanks for the update, and I'm really sorry you're still running into the same issue.\n\nI understand your decision to cancel the subscription and place a regular order instead. I appreciate you giving it another try, and I'm glad to hear the earlier order at least went through after the verification. If you'd like, I can still help look into why the subscription keeps triggering the problem so it won't happen again in the future. Can you please let me know the email it's under so I can check it with my team?",
-          "message_type": "agent",
-          "agent": "43099",
-          "message_id": "019c589e-e26e-47b3-f000-000001f11a59",
-          "date_time": "2026-02-13 15:08:53.637"
-        },
-        {
-          "message_media": [],
-          "message_text": "The email is melissajp0625@yahoo.com",
-          "message_type": "customer",
-          "date_time": "2026-02-13 15:10:07.981"
-        },
-        {
-          "message_media": [],
-          "message_text": "I've never had this much trouble before. One thing I know is that I've been told this particular item is not available for subscription so, I don't know if that's why and there was some fluke with it getting added as a subscription.",
-          "message_type": "customer",
-          "date_time": "2026-02-13 15:11:38.263"
-        },
-        {
-          "message_media": [],
-          "message_text": "Template used: \"Pass to the team - All brands\"; last updated: 2023-10-10 17:46:43.559",
-          "message_type": "template",
-          "date_time": "2026-02-13 15:28:43.394"
-        },
-        {
-          "message_media": [],
-          "message_text": "ELEMIS: Thanks for the info, and apologies for all the trouble this has caused. I will pass this along to my team and get back to you as soon as possible, hang tight! ",
-          "message_type": "agent",
-          "agent": "87310",
-          "message_id": "019c58b1-09eb-4182-f000-000001f11a59",
-          "date_time": "2026-02-13 15:28:43.396"
-        }
-      ],
-      "notes": {
-        "tone": [
-          "Let the customer have the last word!"
-        ],
-        "dos_and_don_ts": [
-          "Don't reply to messages like \"ok\", \"thanks\", etc"
-        ],
-        "promo_and_promo_exclusions": [
-          "Welcome Code:",
-          "➜ Cannot be used for new products!",
-          "➜ Recommend to cx to take advantage of the Gift With Purchase (found on the Offers page) with new products so they can get a deal",
-          "Check their offers page for up-to-date info on codes & offers",
-          "If cx asks about a code that isn't on this page, it's likely expired!",
-          "Offers page: https://us.elemis.com/offers"
-        ]
-      },
-      "rightPanel": {
-        "source": {
-          "label": "Website",
-          "value": "https://us.elemis.com/",
-          "date": ""
-        },
-        "browsingHistory": [
-          {
-            "item": "Nourishing Omega-Rich Cleansing Oil",
-            "link": "https://us.elemis.com/nourishing-omega-rich-cleansing-oil.html",
+            "item": "VIP Airplane Mode Travel Hoodie",
+            "link": "https://comfrt.com/products/vip-airplane-mode-travel-hoodie?variant=45241147293740",
             "timeAgo": "2026-02-13"
           },
           {
-            "item": "Pro-Collagen Skin Protection Fluid SPF 50",
-            "link": "https://us.elemis.com/pro-collagen-skin-protection-fluid-spf50.html",
+            "item": "VIP Airplane Mode Travel Hoodie",
+            "link": "https://comfrt.com/products/vip-airplane-mode-travel-hoodie?variant=45241147293740",
             "timeAgo": "2026-02-13"
           },
           {
-            "item": "Nourishing Omega-Rich Cleansing Oil",
-            "link": "https://us.elemis.com/nourishing-omega-rich-cleansing-oil.html",
-            "timeAgo": "2026-02-12"
+            "item": "Ember Heated Blanket",
+            "link": "https://comfrt.com/products/ember-heated-blanket?variant=45246089068588",
+            "timeAgo": "2026-02-13"
           },
           {
-            "item": "Nourishing Omega-Rich Cleansing Oil",
-            "link": "https://us.elemis.com/nourishing-omega-rich-cleansing-oil.html",
-            "timeAgo": "2026-02-12"
+            "item": "Ember Heated Blanket",
+            "link": "https://comfrt.com/products/ember-heated-blanket?variant=45246089068588",
+            "timeAgo": "2026-02-13"
           },
           {
-            "item": "Nourishing Omega-Rich Cleansing Oil",
-            "link": "https://us.elemis.com/nourishing-omega-rich-cleansing-oil.html?utm_source=Pepperjam&utm_medium=affiliate&utm_campaign=26991&utm_content=5386105884&clickId=5386105884&source=pepperjam&publisher=26991&click=5386105884",
+            "item": "Signature Sweatpants",
+            "link": "https://comfrt.com/products/signature-fit-sweatpants?variant=40692760641580",
             "timeAgo": "2026-02-12"
           }
         ],
         "orders": [
           {
-            "orderNumber": "7009847886",
-            "orderDate": "2026-02-13",
+            "orderNumber": "10040276",
+            "orderDate": "2026-02-12",
             "items": [
               {
-                "name": "NEW Pro-Collagen Hydrating Cleansing Mousse Sachet",
-                "price": 0,
-                "productLink": "https://www.highflowfuel.com/qfs-oem-replacement-in-tank-efi-fuel-pump-w-fuel-pressure-regulator-tank-seal-strainer-for-can-am-defender-efi-2016-2019-replaces-709000662/"
-              },
-              {
-                "name": "NEW Pro-Collagen Hydrating Cleansing Mousse Sachet",
-                "price": 0,
-                "productLink": "https://thesocietees.com/product/army-of-darkness-chainsaw-low-on-gas-mens-t-shirt/"
-              },
-              {
-                "name": "NEW Pro-Collagen Hydrating Cleansing Mousse Sachet",
-                "price": 0,
-                "productLink": "https://www.misfitsmarket.com/shop/aisle?addToCart=39822"
-              },
-              {
-                "name": "NEW Pro-Collagen Hydrating Cleansing Mousse Sachet",
-                "price": 0,
-                "productLink": "https://www.golfbox.com.au/accessories/bettinardi-limited-edition-monopoly-train-headcover-mallet/"
-              },
-              {
-                "name": "NEW Pro-Collagen Hydrating Cleansing Mousse Sachet",
-                "price": 0,
-                "productLink": "https://www.lightopia.com/Details/dweLEDbyWACLighting/39822"
-              },
-              {
-                "name": "NEW Pro-Collagen Hydrating Cleansing Mousse Sachet",
-                "price": 0,
-                "productLink": "https://dunsterhouse.co.uk/garden-bar-shed/gazebo-bars/leviathan-garden-bar-gazebo-w6-0m-x-d3-0m"
-              },
-              {
-                "name": "NEW Pro-Collagen Hydrating Cleansing Mousse Sachet",
-                "price": 0,
-                "productLink": "https://www.bents.co.uk/p/white-floral-felt-chicken-ornament-floeas1637/"
-              },
-              {
-                "name": "NEW Pro-Collagen Hydrating Cleansing Mousse Sachet",
-                "price": 0,
-                "productLink": "https://www.homeshoppingmalls.com/48-w-x-96-l-kidney-shaped-activity-table-w-1-25-thick-high-pressure-oak-laminate-top-height-adjustable-preschool-legs-flash-furniture-xu-a4896-kidny-oak-h-p-gg"
-              },
-              {
-                "name": "Nourishing Omega-Rich Cleansing Oil",
-                "price": 54
-              },
-              {
-                "name": "NEW Pro-Collagen Hydrating Cleansing Mousse Sachet",
-                "price": 0,
-                "productLink": "https://livecarmodel.com/products/1-18-ignition-model-mazda-rx-8-se3p-re-amemiya-blue-pink.html"
-              },
-              {
-                "name": "NEW Pro-Collagen Hydrating Cleansing Mousse Sachet",
-                "price": 0,
-                "productLink": "https://tgmskateboards.com/new-deal-deck-templeton-cat-green-9-75/"
-              },
-              {
-                "name": "NEW Pro-Collagen Hydrating Cleansing Mousse Sachet",
-                "price": 0,
-                "productLink": "http://www.erincondren.com/star-wars-watercolor-leia-coversrt"
-              },
-              {
-                "name": "NEW Pro-Collagen Hydrating Cleansing Mousse Sachet",
-                "price": 0,
-                "productLink": "https://www.jackit.com/bds-1693pes.html"
-              },
-              {
-                "name": "NEW Pro-Collagen Hydrating Cleansing Mousse Sachet",
-                "price": 0
-              },
-              {
-                "name": "NEW Pro-Collagen Hydrating Cleansing Mousse Sachet",
-                "price": 0,
-                "productLink": "https://www.roadrunnersports.com/product/39822/new-balance-xc-seven-v3/?cc=001&s=11.5&w=D"
-              },
-              {
-                "name": "NEW Pro-Collagen Hydrating Cleansing Mousse Sachet",
-                "price": 0,
-                "productLink": "https://superjeweler.com/10k-yellow-gold-5mm-heavy-comfort-fit-milgrain-ladies-and-mens-wedding-band-size-13-free-engraving-39822.html"
-              },
-              {
-                "name": "NEW Pro-Collagen Hydrating Cleansing Mousse Sachet",
-                "price": 0,
-                "productLink": "https://x-ph.com/forgestar-cf5-18x9-5x114-3-bp-et35-6-5in-bs-gloss-black-wheel-frgf11189065p35/"
-              },
-              {
-                "name": "NEW Pro-Collagen Hydrating Cleansing Mousse Sachet",
-                "price": 0,
-                "productLink": "https://www.toolnut.com/of-2200-eb-router-ct-26-dust-extractor-discount-package.html"
-              },
-              {
-                "name": "Nourishing Omega-Rich Cleansing Oil",
-                "price": 54,
-                "productLink": "https://www.famousfootwear.com/product/under-armour-mens-hovr-intake-6-running-shoe-1053913/red-black-00179"
-              },
-              {
-                "name": "NEW Pro-Collagen Hydrating Cleansing Mousse Sachet",
-                "price": 0,
-                "productLink": "https://www.barberdts.com/uk/eternal-chukes-ink-aqua-marine-2oz-60ml.html"
-              },
-              {
-                "name": "NEW Pro-Collagen Hydrating Cleansing Mousse Sachet",
-                "price": 0,
-                "productLink": "https://www.antiquefarmhouse.com/bag-of-faux-pumpkins-12-piece.html"
-              },
-              {
-                "name": "NEW Pro-Collagen Hydrating Cleansing Mousse Sachet",
-                "price": 0,
-                "productLink": "https://daytonamagic.com/shop/card-magic/colorful-kings/"
-              },
-              {
-                "name": "NEW Pro-Collagen Hydrating Cleansing Mousse Sachet",
-                "price": 0,
-                "productLink": "https://www.rarecarat.com/wedding-ring/placeholder/39822"
-              },
-              {
-                "name": "NEW Pro-Collagen Hydrating Cleansing Mousse Sachet",
-                "price": 0,
-                "productLink": "https://mcstaging.pharmacyonline.com.au/microlax-enemas-5ml-x-4"
-              },
-              {
-                "name": "NEW Pro-Collagen Hydrating Cleansing Mousse Sachet",
-                "price": 0,
-                "productLink": "https://www.gamenerdz.com/marvel-champions-lcg-the-wrecking-crew-scenario-pack"
-              },
-              {
-                "name": "NEW Pro-Collagen Hydrating Cleansing Mousse Sachet",
-                "price": 0,
-                "productLink": "https://www.structube.com/en_ca/rowan-leftfacing-sectional-sofa-84-67-30-62-f"
-              },
-              {
-                "name": "NEW Pro-Collagen Hydrating Cleansing Mousse Sachet",
-                "price": 0,
-                "productLink": "https://www.prioritytire.com/en/advanta-hp-z-01-225-50r18-95w-as-a-s-all-season-tire"
-              },
-              {
-                "name": "NEW Pro-Collagen Hydrating Cleansing Mousse Sachet",
-                "price": 0,
-                "productLink": "https://www.pharmacyonline.com.au/microlax-enemas-5ml-x-4"
-              },
-              {
-                "name": "NEW Pro-Collagen Hydrating Cleansing Mousse Sachet",
-                "price": 0,
-                "productLink": "https://medicalmega.com/Nu-Form-Beige-Support-Belt-2-3-4-Center-Belt-Ring-5-Wide-36-40-Waist-Large-Cool-Comfort-Elastic"
-              },
-              {
-                "name": "NEW Pro-Collagen Hydrating Cleansing Mousse Sachet",
-                "price": 0,
-                "productLink": "https://artbeads.com/prestige-crystal-6430-8mm-classic-cut-pendant-emerald-shimmer/"
-              },
-              {
-                "name": "NEW Pro-Collagen Hydrating Cleansing Mousse Sachet",
-                "price": 0,
-                "productLink": "https://www.hatton-jewellers.com/9ct-white-gold-0-15ct-diamond-engagement-ring-q.html"
-              },
-              {
-                "name": "NEW Pro-Collagen Hydrating Cleansing Mousse Sachet",
-                "price": 0,
-                "productLink": "https://checkout.fascinatingdiamonds.com/lab-grown-diamonds/3-34-carat-round-cut-lab-grown-diamond-m62565/"
-              },
-              {
-                "name": "NEW Pro-Collagen Hydrating Cleansing Mousse Sachet",
-                "price": 0,
-                "productLink": "https://collectorstore.com/mickey-mouse-funko-pop-disney-01-blue-label/"
-              },
-              {
-                "name": "NEW Pro-Collagen Hydrating Cleansing Mousse Sachet",
-                "price": 0,
-                "productLink": "https://www.wildwestpoolsupplies.com/pentair-filter-cartridge-50-sq-ft-570058/"
-              },
-              {
-                "name": "NEW Pro-Collagen Hydrating Cleansing Mousse Sachet",
-                "price": 0,
-                "productLink": "https://collectorsautosupply.com/sound-deadener-for-1953-1956-ford-f-250-die-cut-eva-4pc-complete/"
-              },
-              {
-                "name": "NEW Pro-Collagen Hydrating Cleansing Mousse Sachet",
-                "price": 0,
-                "productLink": "https://checkout.sportsshoes.com/salomon-sense-headband-aw21-sal5251/"
-              },
-              {
-                "name": "NEW Pro-Collagen Hydrating Cleansing Mousse Sachet",
-                "price": 0,
-                "productLink": "https://www.replacements.com/china-brock-california-farmhouse-yellow-8-round-vegetable-bowl/p/398221"
-              },
-              {
-                "name": "Nourishing Omega-Rich Cleansing Oil",
-                "price": 54,
-                "productLink": "https://uk.elemis.com/nourishing-omega-rich-cleansing-oil.html"
-              },
-              {
-                "name": "NEW Pro-Collagen Hydrating Cleansing Mousse Sachet",
-                "price": 0,
-                "productLink": "https://csd.shop/products/women/accessories/burberry-gradient-brown-daphne-sunglasses.html"
-              },
-              {
-                "name": "NEW Pro-Collagen Hydrating Cleansing Mousse Sachet",
-                "price": 0,
-                "productLink": "https://www.evo.com/gloves/hestra-heli-womens-11?image=39822/237178/hestra-heli-gloves-women-s-.jpg"
-              },
-              {
-                "name": "NEW Pro-Collagen Hydrating Cleansing Mousse Sachet",
-                "price": 0,
-                "productLink": "https://www.plumbersstock.com/blkn14cl-xh-14-x-cl-xh-seamless-black-nipple.html"
-              },
-              {
-                "name": "NEW Pro-Collagen Hydrating Cleansing Mousse Sachet",
-                "price": 0,
-                "productLink": "https://grandviewmercantile.com/product/jeanne-isenhart1920-2005-original-oil-on-canvas-holmes-county-fall/"
+                "name": "Ember Heated Blanket",
+                "price": 85,
+                "productLink": "https://comfrtclothing.myshopify.com/products/ember-heated-blanket"
               }
             ],
-            "total": 54,
-            "date_time": "2026-02-13 20:08:24.237"
+            "link": "https://comfrt.com/56940298284/orders/c45ec4aca7b32fe08f3081fec0e26b6b/authenticate?key=1315ad896917d1dd3e3fae2105030d10",
+            "trackingLink": "https://track.flexport.com/UUS62C6610073499193",
+            "order_tracking_link": "https://track.flexport.com/UUS62C6610073499193",
+            "total": 85,
+            "date_time": "2026-02-12 02:12:13.547"
           },
           {
-            "orderNumber": "7009846998",
-            "orderDate": "2026-02-13",
+            "orderNumber": "10040276",
+            "orderDate": "2026-02-12",
             "items": [
               {
-                "name": "Pro-Collagen Skin Protection Fluid SPF 50",
-                "price": 72,
-                "productLink": "https://livecarmodel.com/products/1-18-top-speed-2025-lamborghini-huracan-gt3-evo2-45-dex-wayne-taylor-racing-imsa-daytona-24-hrs-car-model.html"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse Sachet 3ml",
-                "price": 0,
-                "productLink": "https://www.evo.com/gloves/hestra-heli-womens-11?image=39822/237178/hestra-heli-gloves-women-s-.jpg"
-              },
-              {
-                "name": "Pro-Collagen Skin Protection Fluid SPF 50",
-                "price": 72,
-                "productLink": "https://www.prioritytire.com/en/continental-extremecontact-dws-06-255-50r20-zr-109y-xl-as-a-s-all-season-tire"
-              },
-              {
-                "name": "Pro-Collagen Skin Protection Fluid SPF 50",
-                "price": 72,
-                "productLink": "https://www.evo.com/en-ca/outlet/hoodies/volcom-navy-zip-hoodie?image=60111/302875/volcom-navy-zip-hoodie--front.jpg"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse Sachet 3ml",
-                "price": 0,
-                "productLink": "https://www.replacements.com/china-brock-california-farmhouse-yellow-8-round-vegetable-bowl/p/398221"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse Sachet 3ml",
-                "price": 0,
-                "productLink": "https://artbeads.com/prestige-crystal-6430-8mm-classic-cut-pendant-emerald-shimmer/"
-              },
-              {
-                "name": "Pro-Collagen Skin Protection Fluid SPF 50",
-                "price": 72,
-                "productLink": "https://www.homeshoppingmalls.com/reading-superstars-kids-rug-in-multi-color-2-8-x-3-10-joy-carpets-1853a"
-              },
-              {
-                "name": "Pro-Collagen Skin Protection Fluid SPF 50",
-                "price": 72,
-                "productLink": "https://x-ph.com/rotiform-r140-rse-wheel-19x8-5-5x108-5x114-3-45-offset-gloss-silver-rotr140198502-45/"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse Sachet 3ml",
-                "price": 0,
-                "productLink": "https://www.highflowfuel.com/qfs-oem-replacement-in-tank-efi-fuel-pump-w-fuel-pressure-regulator-tank-seal-strainer-for-can-am-defender-efi-2016-2019-replaces-709000662/"
-              },
-              {
-                "name": "Pro-Collagen Skin Protection Fluid SPF 50",
-                "price": 72,
-                "productLink": "https://www.myotcstore.com/leader-vitamin-d3-dietary-supplement-10000-iu-tablets-100-ea/"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse Sachet 3ml",
-                "price": 0,
-                "productLink": "https://www.wildwestpoolsupplies.com/pentair-filter-cartridge-50-sq-ft-570058/"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse Sachet 3ml",
-                "price": 0,
-                "productLink": "http://www.erincondren.com/star-wars-watercolor-leia-coversrt"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse Sachet 3ml",
-                "price": 0
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse Sachet 3ml",
-                "price": 0,
-                "productLink": "https://www.barberdts.com/uk/eternal-chukes-ink-aqua-marine-2oz-60ml.html"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse Sachet 3ml",
-                "price": 0,
-                "productLink": "https://checkout.fascinatingdiamonds.com/lab-grown-diamonds/3-34-carat-round-cut-lab-grown-diamond-m62565/"
-              },
-              {
-                "name": "Pro-Collagen Skin Protection Fluid SPF 50",
-                "price": 72,
-                "productLink": "https://ansgear.com/dye-m2-mosair-paintball-gun-t-800-gold/"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse Sachet 3ml",
-                "price": 0,
-                "productLink": "https://www.homeshoppingmalls.com/48-w-x-96-l-kidney-shaped-activity-table-w-1-25-thick-high-pressure-oak-laminate-top-height-adjustable-preschool-legs-flash-furniture-xu-a4896-kidny-oak-h-p-gg"
-              },
-              {
-                "name": "Pro-Collagen Skin Protection Fluid SPF 50",
-                "price": 72,
-                "productLink": "https://www.replacements.com/collectibles-artaffects-north-american-wildlife-timber-wolf-boxed/p/601111"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse Sachet 3ml",
-                "price": 0,
-                "productLink": "https://thesocietees.com/product/army-of-darkness-chainsaw-low-on-gas-mens-t-shirt/"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse Sachet 3ml",
-                "price": 0,
-                "productLink": "https://checkout.sportsshoes.com/salomon-sense-headband-aw21-sal5251/"
-              },
-              {
-                "name": "Pro-Collagen Skin Protection Fluid SPF 50",
-                "price": 72,
-                "productLink": "https://www.tylerstx.com/glyder-womens-electric-tank/"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse Sachet 3ml",
-                "price": 0,
-                "productLink": "https://livecarmodel.com/products/1-18-ignition-model-mazda-rx-8-se3p-re-amemiya-blue-pink.html"
-              },
-              {
-                "name": "Pro-Collagen Skin Protection Fluid SPF 50",
-                "price": 72,
-                "productLink": "https://www.megamusiconline.com.au/product/mano-percussion-tmp50r-star-shaped-tambourine-red/"
-              },
-              {
-                "name": "Pro-Collagen Skin Protection Fluid SPF 50",
-                "price": 72,
-                "productLink": "https://www.enjukuracing.com/products/estimate-15626.html"
-              },
-              {
-                "name": "Pro-Collagen Skin Protection Fluid SPF 50",
-                "price": 72,
-                "productLink": "https://checkout.sportsshoes.com/patagonia-p-6-mission-organic-t-shirt-pat490/"
-              },
-              {
-                "name": "Pro-Collagen Skin Protection Fluid SPF 50",
-                "price": 72,
-                "productLink": "https://www.bellacor.com/productdetail%2Fa%2D19%2Dlighting%2D219%2Dgreat%2Ddelos%2Dbisque%2Dflush%2Dwall%2Dsconce-60111.html"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse Sachet 3ml",
-                "price": 0,
-                "productLink": "https://www.golfbox.com.au/accessories/bettinardi-limited-edition-monopoly-train-headcover-mallet/"
-              },
-              {
-                "name": "Pro-Collagen Skin Protection Fluid SPF 50",
-                "price": 72,
-                "productLink": "https://charlies-stores-ltd-store-1.mybigcommerce.com/kitchencraft-copco-space-saving-lazy-susan/"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse Sachet 3ml",
-                "price": 0,
-                "productLink": "https://www.plumbersstock.com/blkn14cl-xh-14-x-cl-xh-seamless-black-nipple.html"
-              },
-              {
-                "name": "Pro-Collagen Skin Protection Fluid SPF 50",
-                "price": 72,
-                "productLink": "https://www.thertastore.com/gramercy-coffee-33-base-cabinet-60111.html"
-              },
-              {
-                "name": "Pro-Collagen Skin Protection Fluid SPF 50",
-                "price": 72,
-                "productLink": "https://www.gamenerdz.com/copy-of-ticket-to-ride"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse Sachet 3ml",
-                "price": 0,
-                "productLink": "https://x-ph.com/forgestar-cf5-18x9-5x114-3-bp-et35-6-5in-bs-gloss-black-wheel-frgf11189065p35/"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse Sachet 3ml",
-                "price": 0,
-                "productLink": "https://www.hatton-jewellers.com/9ct-white-gold-0-15ct-diamond-engagement-ring-q.html"
-              },
-              {
-                "name": "Pro-Collagen Skin Protection Fluid SPF 50",
-                "price": 72,
-                "productLink": "https://www.antiquefarmhouse.com/black-ceramic-bunny-figure.html"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse Sachet 3ml",
-                "price": 0,
-                "productLink": "https://tgmskateboards.com/new-deal-deck-templeton-cat-green-9-75/"
-              },
-              {
-                "name": "Pro-Collagen Skin Protection Fluid SPF 50",
-                "price": 72,
-                "productLink": "https://medicalmega.com/medtrition-national-nutrition-11770-oral-supplement-utymax-cranberry-flavor-powder-5-gram-individual-packet/"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse Sachet 3ml",
-                "price": 0,
-                "productLink": "https://mcstaging.pharmacyonline.com.au/microlax-enemas-5ml-x-4"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse Sachet 3ml",
-                "price": 0,
-                "productLink": "https://grandviewmercantile.com/product/jeanne-isenhart1920-2005-original-oil-on-canvas-holmes-county-fall/"
-              },
-              {
-                "name": "Pro-Collagen Skin Protection Fluid SPF 50",
-                "price": 72,
-                "productLink": "https://www.guidedev.com/product/index/bauer-bros-universal-holster-black?a=45448"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse Sachet 3ml",
-                "price": 0,
-                "productLink": "https://www.antiquefarmhouse.com/bag-of-faux-pumpkins-12-piece.html"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse Sachet 3ml",
-                "price": 0,
-                "productLink": "https://collectorsautosupply.com/sound-deadener-for-1953-1956-ford-f-250-die-cut-eva-4pc-complete/"
-              },
-              {
-                "name": "Pro-Collagen Skin Protection Fluid SPF 50",
-                "price": 72,
-                "productLink": "https://tgmskateboards.com/welcome-complete-tusk-on-effigy-teal-8-8-x-32-5/"
-              },
-              {
-                "name": "Pro-Collagen Skin Protection Fluid SPF 50",
-                "price": 72,
-                "productLink": "https://www.cardkingdom.com/mtg/onslaught/screaming-seahawk"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse Sachet 3ml",
-                "price": 0,
-                "productLink": "https://www.pharmacyonline.com.au/microlax-enemas-5ml-x-4"
-              },
-              {
-                "name": "Pro-Collagen Skin Protection Fluid SPF 50",
-                "price": 72,
-                "productLink": "https://myfurniturestorecomau.mybigcommerce.com/legions-w182-2-drawer-bedside-table-nutmeg/"
-              },
-              {
-                "name": "Pro-Collagen Skin Protection Fluid SPF 50",
-                "price": 72,
-                "productLink": "https://testing.eastwood.com/eastwood-replacement-three-piece-clamp-bar-set.html"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse Sachet 3ml",
-                "price": 0,
-                "productLink": "https://daytonamagic.com/shop/card-magic/colorful-kings/"
-              },
-              {
-                "name": "Pro-Collagen Skin Protection Fluid SPF 50",
-                "price": 72,
-                "productLink": "https://www.sstack.com/laundryaccessories/p/60111/"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse Sachet 3ml",
-                "price": 0,
-                "productLink": "https://www.roadrunnersports.com/product/39822/new-balance-xc-seven-v3/?cc=001&s=11.5&w=D"
-              },
-              {
-                "name": "Pro-Collagen Skin Protection Fluid SPF 50",
-                "price": 72,
-                "productLink": "https://www.misfitsmarket.com/shop/aisle?addToCart=60111"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse Sachet 3ml",
-                "price": 0,
-                "productLink": "https://www.gamenerdz.com/marvel-champions-lcg-the-wrecking-crew-scenario-pack"
-              },
-              {
-                "name": "Pro-Collagen Skin Protection Fluid SPF 50",
-                "price": 72,
-                "productLink": "https://www.officialbandshirts.com/cheech-and-chong-up-in-smoke-dog-junior-womens-t-shirt-v-neck-white/"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse Sachet 3ml",
-                "price": 0,
-                "productLink": "https://collectorstore.com/mickey-mouse-funko-pop-disney-01-blue-label/"
-              },
-              {
-                "name": "LUNAR: Free 3-piece Gift with Any Full-Size Purchase",
-                "price": 0
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse Sachet 3ml",
-                "price": 0,
-                "productLink": "https://medicalmega.com/Nu-Form-Beige-Support-Belt-2-3-4-Center-Belt-Ring-5-Wide-36-40-Waist-Large-Cool-Comfort-Elastic"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse Sachet 3ml",
-                "price": 0,
-                "productLink": "https://www.rarecarat.com/wedding-ring/placeholder/39822"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse Sachet 3ml",
-                "price": 0,
-                "productLink": "https://www.lightopia.com/Details/dweLEDbyWACLighting/39822"
-              },
-              {
-                "name": "Pro-Collagen Skin Protection Fluid SPF 50",
-                "price": 72,
-                "productLink": "https://creativeaudio.net/jlaudiobdl241126-80/"
-              },
-              {
-                "name": "Pro-Collagen Skin Protection Fluid SPF 50",
-                "price": 72,
-                "productLink": "https://www.prioritytire.com/master-operative-25x8-00-12-38f-4-ply-at-a-t-all-terrain-tire"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse Sachet 3ml",
-                "price": 0,
-                "productLink": "https://www.misfitsmarket.com/shop/aisle?addToCart=39822"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse Sachet 3ml",
-                "price": 0,
-                "productLink": "https://www.toolnut.com/of-2200-eb-router-ct-26-dust-extractor-discount-package.html"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse Sachet 3ml",
-                "price": 0,
-                "productLink": "https://csd.shop/products/women/accessories/burberry-gradient-brown-daphne-sunglasses.html"
-              },
-              {
-                "name": "Pro-Collagen Skin Protection Fluid SPF 50",
-                "price": 72,
-                "productLink": "https://www.evo.com/outlet/hoodies/volcom-navy-zip-hoodie?image=60111/302875/volcom-navy-zip-hoodie--front.jpg"
-              },
-              {
-                "name": "Pro-Collagen Skin Protection Fluid SPF 50",
-                "price": 72,
-                "productLink": "https://mcstaging.packersproshop.com/green-bay-packers-xbox-one-controller-skin"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse Sachet 3ml",
-                "price": 0,
-                "productLink": "https://www.prioritytire.com/en/advanta-hp-z-01-225-50r18-95w-as-a-s-all-season-tire"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse Sachet 3ml",
-                "price": 0,
-                "productLink": "https://dunsterhouse.co.uk/garden-bar-shed/gazebo-bars/leviathan-garden-bar-gazebo-w6-0m-x-d3-0m"
-              },
-              {
-                "name": "Pro-Collagen Skin Protection Fluid SPF 50",
-                "price": 72,
-                "productLink": "https://www.toolnut.com/metabo-hpt-cn18dslq4m-18v-cordless-nibbler-w-battery-and-charger-4-0ah-8-0ah-starter-kit.html"
-              },
-              {
-                "name": "Pro-Collagen Skin Protection Fluid SPF 50",
-                "price": 72,
-                "productLink": "https://www.chairish.com/product/id/60111?utm_content=Home+Accents&utm_medium=text&utm_source=attentive&utm_term=60111"
-              },
-              {
-                "name": "Pro-Collagen Skin Protection Fluid SPF 50",
-                "price": 72,
-                "productLink": "https://www.wildwestpoolsupplies.com/matco-norca-nipple-galvanized-6-x-3-4-male-pipe-thread-zng046/"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse Sachet 3ml",
-                "price": 0,
-                "productLink": "https://www.bents.co.uk/p/white-floral-felt-chicken-ornament-floeas1637/"
-              },
-              {
-                "name": "Pro-Collagen Skin Protection Fluid SPF 50",
-                "price": 72,
-                "productLink": "https://www.famousfootwear.com/product/dr-scholls-kids-wexley-flat-toddler-5277672/red-faux-leather-60111"
-              },
-              {
-                "name": "Pro-Collagen Skin Protection Fluid SPF 50",
-                "price": 72,
-                "productLink": "https://safetysourcellc.com/furniture/desks-workstations/desks/bush-bsh2972mca103-enterprise-collection-72w-double-pedestal-desk-mocha-cherry-box-1-of-2/"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse Sachet 3ml",
-                "price": 0,
-                "productLink": "https://superjeweler.com/10k-yellow-gold-5mm-heavy-comfort-fit-milgrain-ladies-and-mens-wedding-band-size-13-free-engraving-39822.html"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse Sachet 3ml",
-                "price": 0,
-                "productLink": "https://www.structube.com/en_ca/rowan-leftfacing-sectional-sofa-84-67-30-62-f"
-              },
-              {
-                "name": "Pro-Collagen Skin Protection Fluid SPF 50",
-                "price": 72,
-                "productLink": "https://superjeweler.com/1-3-4-carat-pear-shape-peridot-and-diamond-earrings-in-14-karat-yellow-gold-60111.html"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse Sachet 3ml",
-                "price": 0,
-                "productLink": "https://www.jackit.com/bds-1693pes.html"
+                "name": "Ember Heated Blanket",
+                "price": 85,
+                "productLink": "https://comfrtclothing.myshopify.com/products/ember-heated-blanket"
               }
             ],
-            "total": 72,
-            "coupon": "lunar",
-            "date_time": "2026-02-13 16:48:40.269"
+            "link": "https://comfrt.com/56940298284/orders/c45ec4aca7b32fe08f3081fec0e26b6b/authenticate?key=1315ad896917d1dd3e3fae2105030d10",
+            "trackingLink": "https://track.flexport.com/UUS62C6610073499193",
+            "order_tracking_link": "https://track.flexport.com/UUS62C6610073499193",
+            "total": 92.24,
+            "coupon": "W15NwowLz",
+            "date_time": "2026-02-12 02:08:11.619"
+          }
+        ]
+      },
+      "escalation_preferences": [
+        "Exchanges and returns",
+        "Sizing questions",
+        "Discount code errors"
+      ],
+      "blocklisted_words": [],
+      "has_shopify": true
+    },
+    "80": {
+      "id": "019c4e78-7e42-4367-f000-0000f96d5426",
+      "companyName": "Beis Travel",
+      "companyWebsite": "https://beistravel.com",
+      "agentName": "Annie",
+      "messageTone": "Casual",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "BÉIS Travel: Welcome to BÉIS Travel! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
+          "message_type": "system",
+          "date_time": "2026-02-06 16:22:51.415"
+        },
+        {
+          "message_media": [],
+          "message_text": "BÉIS Travel: Hey there, newbie! First time shopping with us? We've handpicked some essentials to get you started: https://beistravel.attn.tv/aX3hRG1o0ZLq . \n\nEnjoy 20% OFF with code WELCOMEDYA961 \nbeistravel.attn.tv/aZhlklTgKgvQ .",
+          "message_type": "system",
+          "date_time": "2026-02-06 16:22:55.429"
+        },
+        {
+          "message_media": [],
+          "message_text": "BÉIS Travel: Bags designed to make your every day easier. Save our contact to make getting all of our latest updates easy.",
+          "message_type": "system",
+          "date_time": "2026-02-06 16:22:56.639"
+        },
+        {
+          "message_media": [],
+          "message_text": "BÉIS Travel: This friendship is forever... but your 20% OFF code isn't. Don't forget to use code WELCOMEDYA961 to save on our bestsellers. \n\nhttps://beistravel.attn.tv/aU3kLC1hvkaV .",
+          "message_type": "system",
+          "date_time": "2026-02-07 16:23:05.128"
+        },
+        {
+          "message_media": [],
+          "message_text": "BÉIS Travel: Psst! Your items are in someone else's cart... Get 15% OFF using code welcomenWzXa9 when you check out now before they're gone. beistravel.attn.tv/aILlYmdvE8un .",
+          "message_type": "system",
+          "date_time": "2026-02-07 16:46:57.628"
+        },
+        {
+          "message_media": [],
+          "message_text": "BÉIS Travel: Not late, but definitely cutting it close. \n\nOrder today for Valentine's Day delivery: beistravel.attn.tv/aWRJQahRDsjc .",
+          "message_type": "system",
+          "date_time": "2026-02-07 19:02:11.662"
+        },
+        {
+          "message_media": [],
+          "message_text": "BÉIS Travel: PSA- The Weekender in Maple is almost sold out. Don't wait-order yours now! beistravel.attn.tv/a9Ld2ooPEpvZ .",
+          "message_type": "system",
+          "date_time": "2026-02-08 08:09:27.639"
+        },
+        {
+          "message_media": [],
+          "message_text": "BÉIS Travel: Last chance to get yourself what you *actually* want by Valentine's Day. \n\nCall it self love: beistravel.attn.tv/aZ9vDpiP1z9S .",
+          "message_type": "system",
+          "date_time": "2026-02-09 12:10:09.916"
+        },
+        {
+          "message_media": [],
+          "message_text": "BÉIS Travel: NEW! Style and function for every phase of life. \n\nMeet The Ultimate Family Collection: beistravel.attn.tv/a5zkdMeZQNFk .",
+          "message_type": "system",
+          "date_time": "2026-02-10 16:02:12.493"
+        },
+        {
+          "message_media": [],
+          "message_text": "BÉIS Travel: Roses are red. Love's overdue.\n\nOrder today. 2-day shipping comes thru: beistravel.attn.tv/aolgMEk7tRXF .",
+          "message_type": "system",
+          "date_time": "2026-02-11 15:08:14.763"
+        },
+        {
+          "message_media": [],
+          "message_text": "BÉIS Travel: Hi there. If you need additional help please reach us at hello@beistravel.com. Text STOP to opt out.",
+          "message_type": "system",
+          "date_time": "2026-02-11 15:26:33.247"
+        },
+        {
+          "message_media": [],
+          "message_text": "My discount code isn't working ",
+          "message_type": "customer",
+          "date_time": "2026-02-11 15:26:40.242"
+        },
+        {
+          "message_media": [],
+          "message_text": "BÉIS Travel: I'm sorry to hear that. Have you encountered any error messages? Also, could you kindly share a screenshot of the items in your cart? I'll be happy to look into the issue! ",
+          "message_type": "agent",
+          "agent": "82427",
+          "message_id": "019c4e63-6d78-448c-f000-0000f96d5426",
+          "date_time": "2026-02-11 15:27:44.915"
+        },
+        {
+          "message_media": [],
+          "message_text": "It applies it but when I go to complete checkout it goes away",
+          "message_type": "customer",
+          "date_time": "2026-02-11 15:30:30.421"
+        },
+        {
+          "message_media": [],
+          "message_text": "BÉIS Travel: Thank you for sending that over, and I'm sorry for any inconvenience. Can you please try this cart link instead?- https://beistravel.attn.tv/aFuOl-AzcVBv Please let me k now how that goes, I'm here to assist you. ",
+          "message_type": "agent",
+          "agent": "87300",
+          "message_id": "019c4e71-9373-4269-f000-0000f96d5426",
+          "date_time": "2026-02-11 15:43:12.141"
+        },
+        {
+          "message_media": [
+            "https://attentive-files.s3.amazonaws.com/receive-event-media/1770842934228_d09c839d-0f2e-4fda-b1c7-d74d2c303f4e-2.png",
+            "https://attentive-files.s3.amazonaws.com/receive-event-media/1770842934228_d09c839d-0f2e-4fda-b1c7-d74d2c303f4e-2.png"
+          ],
+          "message_text": "Still does not work.",
+          "message_type": "customer",
+          "date_time": "2026-02-11 15:49:00.462"
+        },
+        {
+          "message_media": [],
+          "message_text": "BÉIS Travel: Thank you for the screenshot. I can see that the discount code is applied to your cart, so could you please let me know what the issue is?",
+          "message_type": "agent",
+          "agent": "87295",
+          "message_id": "019c4e78-7e42-4367-f000-0000f96d5426",
+          "date_time": "2026-02-11 15:50:45.461"
+        }
+      ],
+      "notes": {
+        "escalate": [
+          "We don't ESC for this client, use ESC shortcut",
+          "If cx ask how to get/redeem the discount for downloading the app use ESC shortcut"
+        ],
+        "templates": [
+          "For Limited edition items don't use restock temps, they will not be restocked"
+        ],
+        "dos_and_don_ts": [
+          "Don't share the duration of the sale/sale dates with customers!"
+        ]
+      },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://beistravel.com",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "The Weekender in Black",
+            "link": "https://beistravel.com/products/the-weekender-in-black",
+            "timeAgo": "2026-02-11"
           },
           {
-            "orderNumber": "7009802586",
-            "orderDate": "2026-01-26",
-            "items": [
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse",
-                "price": 60,
-                "productLink": "https://www.rockler.com/voss-pull-3-3-4-c-c-brushed-satin-nickel"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse",
-                "price": 60,
-                "productLink": "https://www.misfitsmarket.com/shop/aisle?addToCart=60112"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse",
-                "price": 60,
-                "productLink": "https://www.thertastore.com/gramercy-coffee-33-full-height-door-base-cabinet-60112.html"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse",
-                "price": 60,
-                "productLink": "https://www.cardkingdom.com/mtg/onslaught/seas-claim"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse",
-                "price": 60,
-                "productLink": "https://www.evo.com/en-ca/outlet/mid-layer-tops/volcom-redding-tech-flannel?image=60112/302880/volcom-redding-tech-flannel--front.jpg"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse",
-                "price": 60,
-                "productLink": "https://charlies-stores-ltd-store-1.mybigcommerce.com/kitchencraft-disposable-piping-bags-pack-of-20/"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse",
-                "price": 60,
-                "productLink": "https://www.gamenerdz.com/trudvang-legends-preorder"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse",
-                "price": 60,
-                "productLink": "https://www.evo.com/outlet/mid-layer-tops/volcom-redding-tech-flannel?image=60112/302880/volcom-redding-tech-flannel--front.jpg"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse",
-                "price": 60,
-                "productLink": "https://ansgear.com/dye-m2-paintball-gun-t-800/"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse",
-                "price": 60,
-                "productLink": "https://www.christianbook.com/Christian/Books/product?item_no=60112"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse",
-                "price": 60,
-                "productLink": "https://rogerssportinggoods.com/browning-30-30-winchester-170-grain-silver-series-soft-point-rifle-ammunition-box-of-20/"
-              },
-              {
-                "name": "Subscription Opt In Welcome Gift",
-                "price": 0
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse",
-                "price": 60,
-                "productLink": "https://www.replacements.com/collectibles-artaffects-north-american-wildlife-polar-bear-boxed/p/601121"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse",
-                "price": 60,
-                "productLink": "https://myfurniturestorecomau.mybigcommerce.com/legions-5-drawer-tallboy-nutmeg/"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse",
-                "price": 60,
-                "productLink": "https://checkout.sportsshoes.com/adidas-court-team-bounce-2-0-womens-indoor-court-shoes-ss23-adi16257/"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse",
-                "price": 60,
-                "productLink": "http://www.uncommongoods.com/product/european-crepe-kit"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse",
-                "price": 60,
-                "productLink": "https://www.toolnut.com/metabo-hpt-371751m-36v-2-5ah-and-18v-5-0ah-multivolt-battery-promo.html"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse",
-                "price": 60,
-                "productLink": "https://www.chairish.com/product/id/60112?utm_content=Side+Chairs&utm_medium=text&utm_source=attentive&utm_term=60112"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse",
-                "price": 60,
-                "productLink": "https://livecarmodel.com/products/1-18-top-speed-2025-chevrolet-corvette-z06-gt3-r-3-corvette-racing-by-pratt-miller-motorsports-2025-imsa-sebring-12-hrs-car-model.html"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse",
-                "price": 60,
-                "productLink": "https://www.antiquefarmhouse.com/textured-paper-flower-wall-art.html"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse",
-                "price": 60,
-                "productLink": "https://www.prioritytire.com/master-shredder-front-21x7-00-10-30j-6-ply-at-a-t-all-terrain-tire"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse",
-                "price": 60,
-                "productLink": "https://testing.eastwood.com/eastwood-replacement-small-six-piece-clamp-bar-set.html"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse",
-                "price": 60,
-                "productLink": "https://tgmskateboards.com/welcome-complete-unholy-diver-on-son-of-golem-dark-gren-8-75-x-32-25/"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse",
-                "price": 60,
-                "productLink": "https://grandviewmercantile.com/product/canadel-birch-buffet-and-hutch-in-nutmeg-finish/"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse",
-                "price": 60,
-                "productLink": "https://www.homeshoppingmalls.com/reading-superstars-kids-rug-in-multi-color-5-4-x-7-8-joy-carpets-1853c"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse",
-                "price": 60,
-                "productLink": "https://www.wildwestpoolsupplies.com/matco-norca-90-elbow-galvanized-3-4-female-pipe-thread-zmgl9004/"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse",
-                "price": 60,
-                "productLink": "https://www.prioritytire.com/en/continental-terraincontact-a-t-lt-235-80r17-120-117s-e-10-ply-at-all-terrain-tire"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse",
-                "price": 60,
-                "productLink": "https://www.vitacost.com/neilmed-kyrosol-natural-earwax-removal-kit"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse",
-                "price": 60,
-                "productLink": "https://medicalmega.com/icu-medical-inc-100-102-055-cuffed-endotracheal-tube-aircare-curved-5-5-mm-pediatric-murphy-eye/"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse",
-                "price": 60,
-                "productLink": "https://lapolicegear.com/camelback-reservoir-cleaning-kit.html?sku=60112"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse",
-                "price": 60,
-                "productLink": "https://checkout.fascinatingdiamonds.com/loose-diamonds/1-30-carat-oval-diamond-to22187a/"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse",
-                "price": 60,
-                "productLink": "https://www.myotcstore.com/leader-vitamin-d3-extra-strength-dietary-supplement-1000-iu-tablets-200-ea/"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse",
-                "price": 60,
-                "productLink": "https://superjeweler.com/1-3-4-carat-pear-shape-peridot-and-diamond-earrings-in-14-karat-rose-gold-60112.html"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse",
-                "price": 60,
-                "productLink": "https://www.enjukuracing.com/products/bride-zeta-iv-gradation-frp-hans-compatible.html"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse",
-                "price": 60,
-                "productLink": "https://www.famousfootwear.com/product/dr-scholls-kids-wexley-ballet-flat-toddler-little-kid-5277672/black-faux-leather-60112"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse",
-                "price": 60,
-                "productLink": "https://www.bellacor.com/productdetail%2Fa%2D19%2Dlighting%2D220%2Dgreat%2Dmelos%2Dbisque%2Dflush%2Dwall%2Dsconce-60112.html"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse",
-                "price": 60,
-                "productLink": "https://x-ph.com/rotiform-r140-rse-wheel-19x8-5-5x112-5x114-3-35-offset-gloss-silver-rotr140198542-35/"
-              },
-              {
-                "name": "Pro-Collagen Hydrating Cleansing Mousse",
-                "price": 60,
-                "productLink": "https://www.megamusiconline.com.au/product/dxp-fusion-20-drum-kit-package-wine-red/"
-              }
-            ],
-            "total": 60,
-            "date_time": "2026-01-26 16:59:53.970"
-          },
-          {
-            "orderNumber": "7009773251",
-            "orderDate": "2026-01-15",
-            "items": [
-              {
-                "name": "Frangipani Monoi Shower Cream",
-                "price": 27,
-                "productLink": "https://livecarmodel.com/products/boeing-727-100-commercial-aircraft-eastern-air-lines-n8120n-silver-with-blue-stripes-gemini-200-series-1-200-diecast-model-airplane-by-geminijets.html"
-              },
-              {
-                "name": "Wonder Glow",
-                "price": 90,
-                "productLink": "https://www.theshoemart.com/alden-factory-seconds-fd-a0802h-barrie-last-color-8/"
-              },
-              {
-                "name": "Pro-Collagen Naked Cleansing Balm",
-                "price": 72,
-                "productLink": "https://www.vitalitymedical.com/20140705-70296.html"
-              },
-              {
-                "name": "Frangipani Monoi Shower Cream",
-                "price": 27,
-                "productLink": "https://x-ph.com/rotiform-r141-rse-wheel-19x8-5-5x114-3-5x120-35-offset-matte-anthracite-rotr141198552-35/"
-              },
-              {
-                "name": "Wonder Glow",
-                "price": 90,
-                "productLink": "https://www.silverts.com/ca/pant-o-b-knit-with-pocket-antimicrobial-in-navy.html"
-              },
-              {
-                "name": "Frangipani Monoi Shower Cream",
-                "price": 27,
-                "productLink": "https://www.gamenerdz.com/dungeons-dragons-5e-rpg-savage-frontier-map-ding-dent"
-              },
-              {
-                "name": "Wonder Glow",
-                "price": 90,
-                "productLink": "https://tgmskateboards.com/innova-disc-golf-gstar-teebird3-fairway-driver-8-4-0-2-grey-roses-173-grams/"
-              },
-              {
-                "name": "Pro-Collagen Naked Cleansing Balm",
-                "price": 72,
-                "productLink": "https://www.thesocietees.com/product/muhammad-ali-quotes-hologram-mens-t-shirt/"
-              },
-              {
-                "name": "Pro-Collagen Naked Cleansing Balm",
-                "price": 72,
-                "productLink": "https://www.guidedev.com/product/index/volquartsen-mk-ii-v-comp-compensator?a=1633516"
-              },
-              {
-                "name": "Wonder Glow",
-                "price": 90,
-                "productLink": "https://www.chairish.com/product/id/89811?utm_content=Writing+Desks&utm_medium=text&utm_source=attentive&utm_term=89811"
-              },
-              {
-                "name": "Pro-Collagen Naked Cleansing Balm",
-                "price": 72,
-                "productLink": "https://www.replacements.com/collectibles-hallmark-1992-hallmark-christmas-ornaments-cool-fliers-boxed/p/702961"
-              },
-              {
-                "name": "Frangipani Monoi Shower Cream",
-                "price": 27,
-                "productLink": "https://offroadarmor.com/product/2019-2021-ram-1500-spartan-front-bumper-bolt-on-accessory-skid-plate-guard-texture-black-road-armor/"
-              },
-              {
-                "name": "Frangipani Monoi Shower Cream",
-                "price": 27,
-                "productLink": "https://www.antiquefarmhouse.com/waffle-knit-fennel-floral-dish-towel-set-of-4.html"
-              },
-              {
-                "name": "Wonder Glow",
-                "price": 90,
-                "productLink": "https://www.charlies.co.uk/woodlodge-self-watering-oval-planter-clay-48cm/"
-              },
-              {
-                "name": "Frangipani Monoi Shower Cream",
-                "price": 27,
-                "productLink": "https://www.replacements.com/collectibles-artaffects-proud-young-spirits-woodland-scouts-boxed/p/601211"
-              },
-              {
-                "name": "Frangipani Monoi Shower Cream",
-                "price": 27,
-                "productLink": "https://www.famousfootwear.com/product/dr-scholls-kids-time-off-hi-top-platform-sneaker-toddler-little-kid-5277671/honey-brown-faux-leather-60121"
-              },
-              {
-                "name": "Wonder Glow",
-                "price": 90,
-                "productLink": "https://www.everest.com/dr-8-cook-s-knife.html"
-              },
-              {
-                "name": "Frangipani Monoi Shower Cream",
-                "price": 27,
-                "productLink": "https://www.drschollsshoes.com/product/dr-scholls-kids-time-off-hi-top-platform-sneaker-toddler-little-kid-5277671/honey-brown-faux-leather-60121"
-              },
-              {
-                "name": "Frangipani Monoi Shower Cream",
-                "price": 27,
-                "productLink": "https://www.goggles4u.com/g4u/g4u-6313-rectangle-eyeglasses-122354-c.html"
-              },
-              {
-                "name": "Pro-Collagen Naked Cleansing Balm",
-                "price": 72,
-                "productLink": "https://www.chairish.com/product/id/70296?utm_content=Rings&utm_medium=text&utm_source=attentive&utm_term=70296"
-              },
-              {
-                "name": "Frangipani Monoi Shower Cream",
-                "price": 27,
-                "productLink": "https://www.wildwestpoolsupplies.com/waterway-plastics-front-cage-old-faithful-jet-218-7357/"
-              },
-              {
-                "name": "Wonder Glow",
-                "price": 90,
-                "productLink": "https://proclubs.mybigcommerce.com/callaway-2023-great-big-bertha-26-6-hybrid-w-hc-grand-bassara-regular-379792/"
-              },
-              {
-                "name": "Frangipani Monoi Shower Cream",
-                "price": 27,
-                "productLink": "https://www.bellacor.com/productdetail%2Fa%2D19%2Dlighting%2D304ada%2Dgran%2Daegina%2Dwall%2Dsconce-60121.html"
-              },
-              {
-                "name": "Pro-Collagen Naked Cleansing Balm",
-                "price": 72,
-                "productLink": "https://tgmskateboards.com/lakai-shoes-evo-2-0-xlk-navy-red-mens/"
-              },
-              {
-                "name": "Frangipani Monoi Shower Cream",
-                "price": 27,
-                "productLink": "https://charlies-stores-ltd-store-1.mybigcommerce.com"
-              },
-              {
-                "name": "Frangipani Monoi Shower Cream",
-                "price": 27,
-                "productLink": "https://dev.goggles4u.info/g4u/g4u-6313-rectangle-eyeglasses-122354-c.html"
-              },
-              {
-                "name": "Frangipani Monoi Shower Cream",
-                "price": 27,
-                "productLink": "https://medicalmega.com/attends-healthcare-products-au50-unisex-adult-absorbent-underwear-attends-bariatric-pull-on-with-tear-away-seams-2x-large-disposable-heavy-absorbency/"
-              },
-              {
-                "name": "Wonder Glow",
-                "price": 90,
-                "productLink": "https://www.famousfootwear.com/product/dirty-laundry-womens-newz-combat-boot-5275060/black-89811"
-              },
-              {
-                "name": "Pro-Collagen Naked Cleansing Balm",
-                "price": 72,
-                "productLink": "https://checkout.fascinatingdiamonds.com/loose-diamonds/1-01-carat-emerald-diamond-3114053901/"
-              },
-              {
-                "name": "Frangipani Monoi Shower Cream",
-                "price": 27,
-                "productLink": "https://creativeaudio.net/kickerbdl241108-31/"
-              },
-              {
-                "name": "Frangipani Monoi Shower Cream",
-                "price": 27,
-                "productLink": "https://testing.eastwood.com/eastwood-axial-welding-clamp-straight-jaws-plcc348apl.html"
-              },
-              {
-                "name": "Wonder Glow",
-                "price": 90,
-                "productLink": "https://raybuck.com/product/1955-1957-ford-thunderbird-flooring-with-column-shift-flooring/"
-              },
-              {
-                "name": "Wonder Glow",
-                "price": 90,
-                "productLink": "https://www.officialbandshirts.com/superman-tie-dye-logo-s-s-womens-t-shirt-black/"
-              },
-              {
-                "name": "Pro-Collagen Naked Cleansing Balm",
-                "price": 72,
-                "productLink": "https://charlies-stores-ltd-store-1.mybigcommerce.com/zest-outdoor-living-freya-companion-seat/"
-              },
-              {
-                "name": "Wonder Glow",
-                "price": 90,
-                "productLink": "https://www.enjukuracing.com/products/afe-super-stock-intake-system-for-ford-mustang-15-17-v6-3-7l.html"
-              },
-              {
-                "name": "Wonder Glow",
-                "price": 90,
-                "productLink": "https://safetysourcellc.com/maintenance-breakroom/cleaning-tools/squeegees/unger-ungfp600-aquadozer-heavy-duty-squeegee-black-rubber-straight-24-wide-blade/"
-              },
-              {
-                "name": "Pro-Collagen Naked Cleansing Balm",
-                "price": 72,
-                "productLink": "https://www.rockler.com/wisdom-stone-sage-knob-brushed-gold-finish"
-              },
-              {
-                "name": "Frangipani Monoi Shower Cream",
-                "price": 27,
-                "productLink": "https://tgmskateboards.com/welcome-complete-soil-on-wicked-queen-purple-stain-8-6-x-32-5/"
-              },
-              {
-                "name": "Pro-Collagen Naked Cleansing Balm",
-                "price": 72,
-                "productLink": "https://www.prioritytire.com/landgolden-lgt67-h-t-lt-245-75r16-120-116s-e-10-ply-as-a-s-all-season-tire"
-              },
-              {
-                "name": "Pro-Collagen Naked Cleansing Balm",
-                "price": 72,
-                "productLink": "https://x-ph.com/bfgoodrich-mud-terrain-t-a-km3-33x10-50r15lt-114q-bfg17109/"
-              },
-              {
-                "name": "Wonder Glow",
-                "price": 90,
-                "productLink": "https://store.dailysteals.com/products/jacques-lemans-womens-watch-stainless-steel-leather-strap-quartz-1-2024g/"
-              },
-              {
-                "name": "Pro-Collagen Naked Cleansing Balm",
-                "price": 72,
-                "productLink": "https://www.structube.com/en_ca/marjorie-modern-contemporary-sectionalsofa-22-97-07-d"
-              },
-              {
-                "name": "Wonder Glow",
-                "price": 90,
-                "productLink": "https://x-ph.com/racechip-mercedes-benz-e-class-w-s213-2016-2023-e-63-amg-560-hp-420-kw-gts-5-black-tuning-module/"
-              },
-              {
-                "name": "Pro-Collagen Naked Cleansing Balm",
-                "price": 72,
-                "productLink": "https://myfurniturestorecomau.mybigcommerce.com/mudgee-aussie-made-buffet-and-hutch-collection-assorted-stained-colours-starting-from-1099/"
-              },
-              {
-                "name": "Wonder Glow",
-                "price": 90,
-                "productLink": "https://ansgear.com/rothco-bandana-dont-tread-on-me-4932/"
-              },
-              {
-                "name": "Wonder Glow",
-                "price": 90,
-                "productLink": "https://www.guidedev.com/product/index/20x60-mm-binoculars?a=193903"
-              },
-              {
-                "name": "Pro-Collagen Naked Cleansing Balm",
-                "price": 72,
-                "productLink": "https://testing.eastwood.com/dynabrade-air-motor-01608.html"
-              },
-              {
-                "name": "Pro-Collagen Naked Cleansing Balm",
-                "price": 72,
-                "productLink": "https://www.bltdirect.com/megaman-1200x600mm-43w-berto-backlit-led-panel-cool-white"
-              },
-              {
-                "name": "Frangipani Monoi Shower Cream",
-                "price": 27,
-                "productLink": "https://ansgear.com/dye-m2-mosair-m3s-m3-replacement-grip-black-cyan/"
-              },
-              {
-                "name": "Pro-Collagen Naked Cleansing Balm",
-                "price": 72,
-                "productLink": "https://www.fish307.com/ancor-battery-cable-assembly-2-awg-34mm-wire-5-16-7-93mm-stud-black-32-81-2cm/"
-              },
-              {
-                "name": "Pro-Collagen Naked Cleansing Balm",
-                "price": 72,
-                "productLink": "https://www.misfitsmarket.com/shop/aisle?addToCart=70296"
-              },
-              {
-                "name": "Wonder Glow",
-                "price": 90,
-                "productLink": "https://leadersrpmshop.com/land-n-sea-new-hand-rail-ss-18-50-38311/"
-              },
-              {
-                "name": "Frangipani Monoi Shower Cream",
-                "price": 27,
-                "productLink": "https://www.guidedev.com/product/index/black-padded-atv-logic-rack-pack?a=1635793"
-              },
-              {
-                "name": "Pro-Collagen Naked Cleansing Balm",
-                "price": 72,
-                "productLink": "https://medicaldevicedepot.com/ABB-2A-circuit-breaker/"
-              },
-              {
-                "name": "Frangipani Monoi Shower Cream",
-                "price": 27,
-                "productLink": "https://www.megamusiconline.com.au/product/remo-ambassador-vintage-coated-15-inch-drumhead/"
-              },
-              {
-                "name": "Frangipani Monoi Shower Cream",
-                "price": 27,
-                "productLink": "https://www.prioritytire.com/falken-wildpeak-a-t-trail-245-65r17-107h-at-all-terrain-tire"
-              },
-              {
-                "name": "Frangipani Monoi Shower Cream",
-                "price": 27,
-                "productLink": "https://www.discountmags.com/magazine/train-wrecks-digital"
-              },
-              {
-                "name": "Frangipani Monoi Shower Cream",
-                "price": 27,
-                "productLink": "https://www.pharmacyonline.com.au/hamilton-sport-spf-50-cream-200g"
-              },
-              {
-                "name": "Wonder Glow",
-                "price": 90,
-                "productLink": "https://www.vitalitymedical.com/20150424-89811.html"
-              },
-              {
-                "name": "Frangipani Monoi Shower Cream",
-                "price": 27,
-                "productLink": "https://www.prioritytire.com/en/bridgestone-blizzak-dm-v2-255-50r19-107t-xl-winter-tire"
-              },
-              {
-                "name": "Pro-Collagen Naked Cleansing Balm",
-                "price": 72,
-                "productLink": "https://www.famousfootwear.com/product/skechers-kids-street-uno-sneaker-little-big-kid-1051685/natural-leopard-70296"
-              },
-              {
-                "name": "Frangipani Monoi Shower Cream",
-                "price": 27,
-                "productLink": "https://mcstaging.pharmacyonline.com.au/hamilton-sport-spf-50-cream-200g"
-              },
-              {
-                "name": "Wonder Glow",
-                "price": 90,
-                "productLink": "https://www.thertastore.com/glazed-praline-36x12-wall-cabinet.html"
-              },
-              {
-                "name": "Frangipani Monoi Shower Cream",
-                "price": 27,
-                "productLink": "https://www.chairish.com/product/id/60121?utm_content=Wingback+Chairs&utm_medium=text&utm_source=attentive&utm_term=60121"
-              },
-              {
-                "name": "Pro-Collagen Naked Cleansing Balm",
-                "price": 72,
-                "productLink": "https://www.evo.com/outlet/wetsuits/roxy-3/2-syncro-back-zip-gbs-wetsuit-womens?image=70296/354052/roxy-syncro-3-2-back-zip-gbs-wetsuit-women-s--front.jpg"
-              },
-              {
-                "name": "Wonder Glow",
-                "price": 90,
-                "productLink": "https://checkout.fascinatingdiamonds.com/1-79-carat-emerald-diamond-115539629/"
-              },
-              {
-                "name": "Frangipani Monoi Shower Cream",
-                "price": 27,
-                "productLink": "https://www.homeshoppingmalls.com/read-believe-achieve-kids-rug-in-multi-color-10-9-x-13-2-joy-carpets-1855g"
-              },
-              {
-                "name": "Pro-Collagen Naked Cleansing Balm",
-                "price": 72,
-                "productLink": "https://www.westminsterteak.com/new/PID70296/sussex-3-pc-teak-round-bistro-set"
-              },
-              {
-                "name": "Frangipani Monoi Shower Cream",
-                "price": 27,
-                "productLink": "https://www.thertastore.com/gramercy-coffee-33x36-wall-cabinet-60121.html"
-              },
-              {
-                "name": "Frangipani Monoi Shower Cream",
-                "price": 27,
-                "productLink": "https://www.officialbandshirts.com/tropic-thunder-title-s-s-adult-18-1-t-shirt-black/"
-              },
-              {
-                "name": "Frangipani Monoi Shower Cream",
-                "price": 27,
-                "productLink": "https://superjeweler.com/1-3-4-carat-pear-shape-citrine-and-diamond-earrings-in-14-karat-rose-gold-60121.html"
-              },
-              {
-                "name": "Pro-Collagen Naked Cleansing Balm",
-                "price": 72,
-                "productLink": "https://www.wildwestpoolsupplies.com/hayward-sizzle-kit-18-sand-flt-1hp-pump-sskiths01tla/"
-              },
-              {
-                "name": "Frangipani Monoi Shower Cream",
-                "price": 27,
-                "productLink": "https://www.myotcstore.com/21st-century-vitamin-a-eye-health-support-3000-mcg-softgels-110-ea/"
-              },
-              {
-                "name": "Frangipani Monoi Shower Cream",
-                "price": 27,
-                "productLink": "https://www.misfitsmarket.com/shop/aisle?addToCart=60121"
-              },
-              {
-                "name": "Wonder Glow",
-                "price": 90,
-                "productLink": "https://daytonamagic.com/shop/card-magic/half-brick-6-decks-hyper-neon-playing-cards-by-riffle-shuffle/"
-              },
-              {
-                "name": "Pro-Collagen Naked Cleansing Balm",
-                "price": 72,
-                "productLink": "https://www.bambibaby.com/atlantic-windsor-five-drawer-chest-55-in-white-1/"
-              },
-              {
-                "name": "Wonder Glow",
-                "price": 90,
-                "productLink": "https://www.replacements.com/silver-alvin-bridal-rose-sterling-1903-five-oclock-teaspoon/p/89811"
-              },
-              {
-                "name": "Pro-Collagen Naked Cleansing Balm",
-                "price": 72,
-                "productLink": "https://venue.com/product/axxess-accessory-retention-harness-for-select-ford-fusion-explorer-f-150-and-focus-vehicles-black/"
-              },
-              {
-                "name": "Pro-Collagen Naked Cleansing Balm",
-                "price": 72,
-                "productLink": "https://www.evo.com/en-ca/outlet/wetsuits/roxy-3/2-syncro-back-zip-gbs-wetsuit-womens?image=70296/354052/roxy-syncro-3-2-back-zip-gbs-wetsuit-women-s--front.jpg"
-              },
-              {
-                "name": "Pro-Collagen Naked Cleansing Balm",
-                "price": 72,
-                "productLink": "https://ansgear.com/hk-army-klr-goggle-visor-grey/"
-              },
-              {
-                "name": "Frangipani Monoi Shower Cream",
-                "price": 27,
-                "productLink": "https://www.sstack.com/canvas-bag-small-monogram/p/60121/sku/60121/"
-              },
-              {
-                "name": "Frangipani Monoi Shower Cream",
-                "price": 27,
-                "productLink": "https://checkout.fascinatingdiamonds.com/loose-diamonds/2-50-carat-pear-diamond-to4575a/"
-              },
-              {
-                "name": "Pro-Collagen Naked Cleansing Balm",
-                "price": 72,
-                "productLink": "https://www.toolnut.com/dewalt-20v-max-powerstack-compact-battery-and-charger-starter-kit-plus-20v-max-6-1-2-circular-saw-tool-only.html"
-              },
-              {
-                "name": "Frangipani Monoi Shower Cream",
-                "price": 27,
-                "productLink": "https://www.oldbrickfurniture.com/shop-accessories/throw-pillows-throws/donna-sharp-by-american-heritage-textiles-bear-ridge-ucc-pillow-plaid/851861905"
-              },
-              {
-                "name": "Wonder Glow",
-                "price": 90,
-                "productLink": "https://danasafetysupply.com/rothco-9128-vintage-canvas-paratrooper-bag-adjustable-shoulder-strap-olive-drab-green/"
-              },
-              {
-                "name": "Pro-Collagen Naked Cleansing Balm",
-                "price": 72,
-                "productLink": "https://checkout.sportsshoes.com/terrex-agravic-trail-running-t-shirt-aw24-adi17143/"
-              },
-              {
-                "name": "Wonder Glow",
-                "price": 90,
-                "productLink": "https://www.misfitsmarket.com/shop/aisle?addToCart=89811"
-              },
-              {
-                "name": "Frangipani Monoi Shower Cream",
-                "price": 27,
-                "productLink": "https://www.cardkingdom.com/mtg/onslaught/words-of-wind"
-              },
-              {
-                "name": "Frangipani Monoi Shower Cream",
-                "price": 27,
-                "productLink": "https://checkout.sportsshoes.com/adidas-gamecourt-2-0-tennis-shoes-ss23-adi16248/"
-              },
-              {
-                "name": "Pro-Collagen Naked Cleansing Balm",
-                "price": 72,
-                "productLink": "https://uk.elemis.com/procollagen-naked-cleansingbalm.html"
-              },
-              {
-                "name": "Pro-Collagen Naked Cleansing Balm",
-                "price": 72,
-                "productLink": "https://www.christianbook.com/Christian/Books/product?item_no=70296"
-              },
-              {
-                "name": "Pro-Collagen Naked Cleansing Balm",
-                "price": 72,
-                "productLink": "https://www.thertastore.com/tuscan-33x15x24-wall-cabinet-70296.html"
-              },
-              {
-                "name": "Wonder Glow",
-                "price": 90,
-                "productLink": "https://homedone.co.uk/reflective-corner-guards-5-pcs-rubber-80-cm.html"
-              },
-              {
-                "name": "Wonder Glow",
-                "price": 90,
-                "productLink": "https://greekgear.com/asa-floralornament.html"
-              },
-              {
-                "name": "Wonder Glow",
-                "price": 90,
-                "productLink": "https://www.spicylingerie.com/soh25913mnt.html"
-              }
-            ],
-            "total": 189,
-            "coupon": "wintervip",
-            "date_time": "2026-01-15 15:59:45.818"
-          },
-          {
-            "orderNumber": "7009430991",
-            "orderDate": "2025-10-13",
-            "items": [
-              {
-                "name": "Pro-Collagen Rose Cleansing Balm 3ml",
-                "price": 0
-              },
-              {
-                "name": "Pro-Collagen Rose Cleansing Balm 3ml",
-                "price": 0,
-                "productLink": "https://www.macofalltrades.com/shop/fair-condition-16-inch-macbook-pro-2-6ghz-late-2019-silver-16gb-ram-2tb-hdd-radeon-pro-5300m-with-4-0gb-vram-gddr6/"
-              },
-              {
-                "name": "Pro-Collagen Rose Cleansing Balm 3ml",
-                "price": 0,
-                "productLink": "https://ampeduplearning.com/multiplication-facts-for-2-times-table-practice-mystery-pictures-boom-cards/"
-              },
-              {
-                "name": "Pro-Collagen Rose Cleansing Balm 3ml",
-                "price": 0,
-                "productLink": "https://ediscountperfumes.com/frederic-malle-geranium-pour-monsieur-3-4-oz-edp-spray-new-in-retail-box/"
-              },
-              {
-                "name": "Pro-Collagen Rose Cleansing Balm 3ml",
-                "price": 0,
-                "productLink": "https://acuatlanta.net/panaxea/down-time-60-capsules-500-milligrams"
-              },
-              {
-                "name": "Pro-Collagen Rose Cleansing Balm 3ml",
-                "price": 0,
-                "productLink": "https://medicaldevicedepot.com/ProductCode-33-31B/"
-              },
-              {
-                "name": "Pro-Collagen Rose Cleansing Balm 3ml",
-                "price": 0,
-                "productLink": "https://livecarmodel.com/products/1-64-paragon-2022-mercedes-amg-gt3-evo-24h-spa-madpanda-motorsport-diecast-car-model.html"
-              },
-              {
-                "name": "Pro-Collagen Rose Cleansing Balm 3ml",
-                "price": 0,
-                "productLink": "https://www.utvsource.com/hmf-racing-polaris-rzr-rs1-radiator-scoops/"
-              },
-              {
-                "name": "Pro-Collagen Rose Cleansing Balm 3ml",
-                "price": 0,
-                "productLink": "https://uk.elemis.com/pro-collagen-rose-cleansing-balm-3ml-new.html"
-              },
-              {
-                "name": "Pro-Collagen Rose Cleansing Balm 3ml",
-                "price": 0,
-                "productLink": "https://www.antiquefarmhouse.com/embossed-metal-ho-ho-ho-santa-wall-sign.html"
-              },
-              {
-                "name": "Pro-Collagen Rose Cleansing Balm 3ml",
-                "price": 0,
-                "productLink": "https://www.wildwestpoolsupplies.com/MAINTENANCE-line-9x12-no-glassware-allowed-pool-sign-ps246-sw-44/"
-              },
-              {
-                "name": "Pro-Collagen Rose Cleansing Balm 3ml",
-                "price": 0,
-                "productLink": "https://www.prioritytire.com/en/goodride-cross-legend-su320-235-65r17-104h-as-a-s-all-season-tire"
-              },
-              {
-                "name": "Pro-Collagen Rose Cleansing Balm 3ml",
-                "price": 0,
-                "productLink": "https://hespokestyle.com/?post_type=product&p=29011"
-              },
-              {
-                "name": "Pro-Collagen Rose Cleansing Balm 3ml",
-                "price": 0,
-                "productLink": "https://www.misfitsmarket.com/shop/aisle?addToCart=29011"
-              },
-              {
-                "name": "Pro-Collagen Rose Cleansing Balm 3ml",
-                "price": 0,
-                "productLink": "https://industrialladder.com/adrian-jd48fp-kd-shelf-unit-24x48x48/"
-              },
-              {
-                "name": "Pro-Collagen Rose Cleansing Balm 3ml",
-                "price": 0,
-                "productLink": "https://www.factorydirectjewelry.com/gold/solid-gold-reversible-virgin-mary-and-jesus-christ-pendant-necklace-available-in-yellow-rose-white/"
-              },
-              {
-                "name": "Pro-Collagen Rose Cleansing Balm 3ml",
-                "price": 0,
-                "productLink": "https://www.mobilitysmart.co.uk/lets-go-out-rollator-set-of-4-dome-nuts.html"
-              },
-              {
-                "name": "Pro-Collagen Rose Cleansing Balm 3ml",
-                "price": 0,
-                "productLink": "https://premierecollectibles.com/john-sinclair-version-33/"
-              },
-              {
-                "name": "Pro-Collagen Rose Cleansing Balm 3ml",
-                "price": 0,
-                "productLink": "https://www.bedfords.com/12735028156"
-              },
-              {
-                "name": "Pro-Collagen Rose Cleansing Balm 3ml",
-                "price": 0,
-                "productLink": "https://www.chairish.com/product/id/29011?utm_content=Dining+Chairs&utm_medium=text&utm_source=attentive&utm_term=29011"
-              },
-              {
-                "name": "Pro-Collagen Rose Cleansing Balm 3ml",
-                "price": 0,
-                "productLink": "https://x-ph.com/mode-carbon-f80-m3-full-seat-shells-with-headrests/"
-              },
-              {
-                "name": "Pro-Collagen Rose Cleansing Balm 3ml",
-                "price": 0,
-                "productLink": "https://www.jbtools.com/otc-4614-5-16-battery-terminal-wrench/"
-              },
-              {
-                "name": "Pro-Collagen Rose Cleansing Balm 3ml",
-                "price": 0,
-                "productLink": "https://www.evo.com/en-ca/outlet/snowboards/burton-twin-channel-snowboard?image=29011/206251/burton-twin-channel-snowboard-2010-.jpg"
-              },
-              {
-                "name": "Pro-Collagen Rose Cleansing Balm 3ml",
-                "price": 0,
-                "productLink": "https://collectorstore.com/kenneth-walker-iii-2022-panini-score-rookie-card-auto-329-atlanta-falcons/"
-              },
-              {
-                "name": "Pro-Collagen Rose Cleansing Balm 3ml",
-                "price": 0,
-                "productLink": "https://www.jackit.com/ico-58645-700.html"
-              },
-              {
-                "name": "Pro-Collagen Rose Cleansing Balm 3ml",
-                "price": 0,
-                "productLink": "https://www.evo.com/outlet/snowboards/burton-twin-channel-snowboard?image=29011/206251/burton-twin-channel-snowboard-2010-.jpg"
-              },
-              {
-                "name": "Pro-Collagen Rose Cleansing Balm 3ml",
-                "price": 0,
-                "productLink": "https://www.highflowfuel.com/fuelab-in-line-fuel-filter-flb-81800-4-12-8/"
-              },
-              {
-                "name": "Pro-Collagen Rose Cleansing Balm 3ml",
-                "price": 0,
-                "productLink": "https://liquorama.net/the-lost-explorer-12-year-old-salmiana-mezcal-750ml.html"
-              },
-              {
-                "name": "Pro-Collagen Rose Cleansing Balm 3ml",
-                "price": 0,
-                "productLink": "https://www.sugarfina.com/sparkling-rose-bears-party-pack.html"
-              },
-              {
-                "name": "Pro-Collagen Rose Cleansing Balm 3ml",
-                "price": 0,
-                "productLink": "https://www.gamenerdz.com/citadel-technical-paint-blood-for-the-blood-god-12ml"
-              },
-              {
-                "name": "Pro-Collagen Rose Cleansing Balm 3ml",
-                "price": 0,
-                "productLink": "https://homedone.co.uk/monroe-small-dining-table-white.html"
-              },
-              {
-                "name": "Pro-Collagen Rose Cleansing Balm 3ml",
-                "price": 0,
-                "productLink": "https://www.homeshoppingmalls.com/dreamline-unidoor-plus-39-1-2-w-x-30-3-8-d-x-72-h-hinged-shower-enclosure-satin-black-finish-hardware-dreamline-shen-24395300-09"
-              },
-              {
-                "name": "Pro-Collagen Rose Cleansing Balm 3ml",
-                "price": 0,
-                "productLink": "https://eknives.com/spyderco-murray-carter-itamae-nakiri-kitchen-knife-burl-g10-7-25-cleaver-satin-k17gpbnbk/"
-              },
-              {
-                "name": "Pro-Collagen Rose Cleansing Balm 3ml",
-                "price": 0,
-                "productLink": "https://www.seriouspuzzles.com/peach-season-1000pc-jigsaw-puzzle-by-new-york-puzzle-company/"
-              },
-              {
-                "name": "Pro-Collagen Rose Cleansing Balm 3ml",
-                "price": 0,
-                "productLink": "https://heinnie.com/tad-m-65-field-jacket-liner/"
-              },
-              {
-                "name": "Pro-Collagen Rose Cleansing Balm 3ml",
-                "price": 0,
-                "productLink": "https://bullionsharks.com/1914-2-5-indian-gold-quarter-eagle-coin-cacg-ms62-hat775863002/"
-              },
-              {
-                "name": "Pro-Collagen Rose Cleansing Balm 3ml",
-                "price": 0,
-                "productLink": "https://www.rarecarat.com/wedding-ring/placeholder/29011"
-              },
-              {
-                "name": "Pro-Collagen Rose Cleansing Balm 3ml",
-                "price": 0,
-                "productLink": "https://www.cardkingdom.com/mtg/the-dark/bone-flute"
-              },
-              {
-                "name": "Pro-Collagen Rose Cleansing Balm 3ml",
-                "price": 0,
-                "productLink": "https://www.replacements.com/china-bernardaud-ber10-bread-and-butter-plate/p/290111"
-              },
-              {
-                "name": "Pro-Collagen Rose Cleansing Balm 3ml",
-                "price": 0,
-                "productLink": "https://www.myotcstore.com/store/p/59838-HydroxyCut-Hardcore-Weight-Loss-and-Energy-Rapid-Release-Capsules-60-Ea"
-              },
-              {
-                "name": "Pro-Collagen Rose Cleansing Balm 3ml",
-                "price": 0,
-                "productLink": "https://medicalmega.com/heparin-lock-argyle"
-              },
-              {
-                "name": "Pro-Collagen Rose Cleansing Balm 3ml",
-                "price": 0,
-                "productLink": "https://superjeweler.com/platinum-6mm-ladies-and-mens-wedding-band-size-16-5-free-engraving-29011.html"
-              },
-              {
-                "name": "Pro-Collagen Rose Cleansing Balm 3ml",
-                "price": 0,
-                "productLink": "https://checkout.sportsshoes.com/salomon-sense-ride-4-womens-trail-running-shoes-ss21-sal4588/"
-              },
-              {
-                "name": "Pro-Collagen Rose Cleansing Balm 3ml",
-                "price": 0,
-                "productLink": "https://www.toolnut.com/makita-194733-8-dust-nozzle-plunge-base.html"
-              },
-              {
-                "name": "Pro-Collagen Rose Cleansing Balm 3ml",
-                "price": 0,
-                "productLink": "https://artbeads.com/jewelry-supplies/tierracast-antique-pewter-jardin-post-earrings-pa-1080/"
-              },
-              {
-                "name": "Pro-Collagen Rose Cleansing Balm 3ml",
-                "price": 0,
-                "productLink": "https://www.simplysockyarn.com/mal-arroyo-429-cape-cod-gray/"
-              },
-              {
-                "name": "Pro-Collagen Rose Cleansing Balm 3ml",
-                "price": 0,
-                "productLink": "https://www.lightopia.com/Details/MinkaLavery-Ricochet/29011"
-              },
-              {
-                "name": "Pro-Collagen Rose Cleansing Balm 3ml",
-                "price": 0,
-                "productLink": "https://lapolicegear.com/heros-pride-5043-ca-parks-lifeguard.html"
-              },
-              {
-                "name": "Pro-Collagen Rose Cleansing Balm 3ml",
-                "price": 0,
-                "productLink": "https://csd.shop/products/women/shoes/balenciaga-black-chunky-triple-s-trainers.html"
-              },
-              {
-                "name": "Pro-Collagen Rose Cleansing Balm 3ml",
-                "price": 0,
-                "productLink": "https://www.famousfootwear.com/product/spring-step-womens-ingrid-slip-on-5266146/white-leather-29011"
-              },
-              {
-                "name": "Pro-Collagen Rose Cleansing Balm 3ml",
-                "price": 0,
-                "productLink": "https://marystack.com/panhandle-solid-coral-stretch-snap-shirt/"
-              }
-            ],
-            "total": 54,
-            "date_time": "2025-10-13 14:11:27.089"
+            "item": "The East To West Tote in Maple",
+            "link": "https://beistravel.com/products/the-east-to-west-tote-in-maple",
+            "timeAgo": "2026-02-06"
           }
         ]
       },
       "escalation_preferences": [],
       "blocklisted_words": [],
-      "has_shopify": false
+      "has_shopify": true
     }
   }
 }

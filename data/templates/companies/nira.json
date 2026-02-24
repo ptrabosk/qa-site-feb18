@@ -1,0 +1,828 @@
+{
+  "companyKey": "nira",
+  "templates": [
+    {
+      "name": "Does the Nira cause fat loss?",
+      "content": "The NIRA Laser is non-ablative and targets only the upper dermal layer (not the deeper layers where fat resides). It does not damage or reduce fat.",
+      "id": "7599fb8d-695d-4abb-b0a1-46854c518934",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Does the NIRA compare to LYMA?",
+      "content": "LYMA is not a true laser-based device, as they use a near-infrared LED light source (808 nm), optimized for Low Level Light Therapy (LLLT), and a red LED light source (620 nm). In addition, the predicate devices that they based their FDA clearance on are also LED devices.\n\nNIRA has the first and only non-fractional, true laser-based device for home use. Our laser technology works by penetrating through the epidermis (outer skin) at a wavelength of 1450 nm to gently heat up the dermis to stimulate natural collagen production for younger-looking skin.\n\nLYMA is not FDA-cleared or clinically validated specifically for wrinkle reduction like the NIRA is. LYMA's strength is more in skin tone, redness, and inflammation, whereas NIRA focuses on collagen stimulation and visible wrinkle reduction.",
+      "id": "5c308b74-43be-4d61-9ab9-116ad69d06ce",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Does the Nira cause fat/weight loss?",
+      "content": "The NIRA Laser is non-ablative and targets only the upper dermal layer (not the deeper layers where fat resides). It does not damage or reduce fat.",
+      "id": "6385b0e2-bdbc-4fb9-a19b-0356564da540",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "How long or how many years does the Nira device last?",
+      "content": "With regular use and proper care, your NIRA device is designed to last for many years. The NIRA lasers are solid-state devices with no moving parts, which makes them highly reliable and should provide many years of unlimited usage under normal operating conditions. Many of our customers continue to use their original devices for years without any issues. If you ever notice a decline in performance or have any concerns, we're always here to help.",
+      "id": "1949923c-84e8-4ad4-8cee-d5db9862cf6a",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "My device does not heat up like before, I don't feel it working",
+      "content": "Please ensure full skin contact - The Precision Laser needs to be pressed flat against the skin to activate properly. Try using it on a smoother area, like your cheek or forehead, and make sure the tip is fully flush with the skin.\n\nFully charge the device - Even if it turns on, low battery can affect performance. Plug it in for at least 2-3 hours using a wall outlet (not a USB port).\n\nTry a reset - Hold the power button for 10-15 seconds to reset the device, then try using it again at level 5.\n\nListen for the beep - You should hear a beep when a treatment pulse is successfully delivered. If you're not hearing that, it may not be activating correctly.\n\nIf you've tried all the above and are still experiencing the same issue, please let me know.",
+      "id": "3c06cddc-efca-47da-ba44-5434ae5374c6",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Is there Nickel in your products?",
+      "content": "None of our products contain any trace of nickel.",
+      "id": "9a1d0f8f-1116-4e05-8c9c-00e447511b09",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Who can use Nira Lasers?",
+      "content": "The NIRA lasers are safe to use and suitable for all skin types and tones. They can be used by anyone over the age of 22. The technology has been clinically tested for efficacy and safety in both women and men. If you have any other questions, please let me know!",
+      "id": "12a908eb-fceb-4f43-959f-70ad692a964b",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Is it normal for the NIRA Pro fan to turn on when in-use?",
+      "content": "Yes! The NIRA Pro has a fan that chips in periodically for a special reason. Since it covers a larger area, that fan steps in to make sure everything stays vented during your session.",
+      "id": "b5b23784-bd6e-4f04-a6e3-ea00d99fa7e8",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "I see mixed reviews. Some are a hit and some are a miss",
+      "content": "From all our team at NIRA, we feel honored when customers entrust us with high expectations. While we welcome customer feedback, try the NIRA Laser to see if it's for you. \n\nOrder on NIRAskin.com for free US shipping! Remember your skin care goals, and enjoy the peace of mind from your 90-day money-back guarantee.",
+      "id": "e9508dee-2069-47dd-9199-c4c5e31391b4",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Can I use the Nira Laser overtop of a closed eyelid?",
+      "content": "Please note that you should never put a laser overtop of a closed eyelid or point a laser toward the eye.",
+      "id": "22645b4f-3096-495e-a1a3-312e2df973eb",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Is the Nira safe for somebody who has melasma?",
+      "content": "The NIRA Laser is safe to use and suitable for all skin types and tones. In order to achieve FDA clearance, the laser was clinically tested on 76 subjects (both women and men) for efficacy and safety. The laser was also tested and certified for electrical and laser safety as well. Please consult your doctor for medical advice regarding melasma.",
+      "id": "3e9d18f9-035a-4463-9f69-345650a0ffcc",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Can I use the NIRA Precision Laser in other areas besides around the eyes?",
+      "content": "The NIRA Precision Laser is FDA-Cleared for the treatment of wrinkles around the eyes and is proven safe for use on all skin areas on all skin types and tones. We have many customers that have reported improvements with wrinkles around the mouth, forehead wrinkles, dark circles around the eyes, and other blemishes on the face. We plan to get further FDA clearance for these other treatment areas to guarantee broader results.",
+      "id": "c5b3916b-04bd-4f8e-bad0-317962a1b232",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "How do I pause or cancel my subscription?",
+      "content": "You can pause or cancel your subscription at any time! Please contact us via this link: https://www.NIRAskin.com/pages/contact to pause or cancel your subscription.",
+      "id": "ec27ff26-5504-45ec-8863-7cc4ea0e9148",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "After 3 months, do I still need to use the NIRA Precision laser to maintain my results?",
+      "content": "The NIRA Precision Laser works similarly to exercise and muscle - it takes time for the collagen to rebuild and the best results are seen with continued routine use. NIRA Precision will stimulate your skin's natural collagen production as long as you continue treatments. Daily usage is recommended on an ongoing basis to maintain results.",
+      "id": "5d7a61fd-076a-4c93-af12-cd13db38e752",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Can I use NIRA if I have dental implants?",
+      "content": "Yes, we do not have any evidence that suggests that a NIRA laser cannot be used with dental implants or other implants in the body. The only exception could be if an implant is very close to the surface and is in the skin area that you want to treat with a NIRA laser. If you are unsure, we recommend consulting with your dentist or other medical professional.",
+      "id": "eef488a6-75d5-4013-b8ae-6681fc1e8722",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Is the NIRA Precision Laser safe?",
+      "content": "Yes, the NIRA Precision Laser is safe to use and suitable for all skin types and tones. In order to achieve FDA clearance, the laser was clinically tested on 76 subjects (both women and men) for efficacy and safety. The laser was also tested and certified for electrical and laser safety as well.",
+      "id": "1ba65637-8db5-4fa6-803d-192fe3b43109",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "What does the NIRA Precision Laser feel like on the skin?/Does it hurt",
+      "content": "The NIRA Precision Laser feels like a warm, pulsing sensation on your skin. The laser features 5 power (or comfort) levels that enable you to adjust the laser to your skin sensitivity. If you are new to NIRA, we recommend starting on power level 1, seeing what it feels like, and gradually adjusting your power levels from there. As long as you feel warmth during treatment, and not pain, you are getting the benefits of the laser.",
+      "id": "153e7290-a819-429b-885d-0ec5219eb7e9",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "What happens if I completely stop using the NIRA Pro Laser?",
+      "content": "The NIRA Pro Laser helps build new collagen, which is naturally depleted over time with age, environmental pollutants, and sun exposure.If you stop your NIRA laser treatment, you will likely start seeing natural signs of aging over time as new collagen production will no longer be stimulated. We recommend using the NIRA Pro Laser daily to continue stimulating natural collagen production for a brighter, firmer, and younger looking complexion.",
+      "id": "58573fb0-b224-4b68-b043-aeda5d109e1e",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "What percentage of Hyaluronic acid is the NIRA Serum?",
+      "content": "Our ultra-hydrating Hyaluronic Acid Serum contains 1.1% of hyaluronic acid. As you may know, our serum formula contains only four ingredients: water, sodium hyaluronate (hyaluronic acid), phenoxyethanol, and ethylhexylglycerin. The NIRA Hyaluronic Acid Serum is lightweight, fragrance-free, cruelty-free, and vegan. It is designed for use after your laser treatment to complement the beneficial effects of the NIRA lasers!",
+      "id": "e454e6a7-641f-4ba5-a3b0-4d1aedf52312",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "What is the difference between Nira Pro and Nira Precision Laser?",
+      "content": "Both lasers are FDA-cleared and use the same patented, non-fractional, non-ablative laser technology to stimulate natural collagen production without pain, redness, or downtime. Both laser treatments are simple, fast, and effective for clinical-grade wrinkle reduction in as little as 90 days. They also feature 5 power levels (or comfort levels) that enable you to adjust each laser to compliment your skin sensitivity.\n\nWith a 10x larger treatment tip than NIRA Precision, the NIRA Pro Laser is able to treat the full face, neck, chest, and back of hands in just minutes a day. In addition, our in-house laser experts designed NIRA Pro without a treatment button - enabling treatment to automatically begin once the device tip is in full contact with the skin. You can also visit our blog to learn more about the differences between NIRA Precision and NIRA Pro: https://www.niraskin.com/blogs/blog/nira-precision-vs-nira-pro",
+      "id": "e934ee1b-2971-45f4-ab14-8298ae51c437",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "How do I use the NIRA Pro Laser?",
+      "content": "Before using the laser, clean and dry the skin completely. Then turn on the device and select your comfort level. Begin the treatment by placing the tip of the laser to the skin and pressing the treatment button until you hear two beeps. If you feel warmth, the laser is working. Move to the next spot & continue this process until all desired areas are targeted. Once you are done, hydrate the skin with NIRA's all-natural hyaluronic acid serum.",
+      "id": "8f153bb1-1007-4cad-a375-8c046d97c33f",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "How often should I use the NIRA Pro Laser?",
+      "content": "Consistency is key when it comes to stunning results. The NIRA Pro Laser works similarly to exercise and muscle, it takes time for the collagen to rebuild, and the best results are seen with continued routine use.\n \n For best results with the NIRA Pro Laser, treat your skin daily for 90 days or more according to the instructions. For possible enhanced results, you may treat twice a day; in the morning and the evening. We recommend waiting at least 1-minute before retreating to each area. Daily usage is recommended on an ongoing basis to maintain results.",
+      "id": "f1dcb782-244e-4080-9bf4-943ef0a3665d",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Can I use the NIRA Pro Laser in other areas besides around the eyes?",
+      "content": "The NIRA Pro Laser is FDA-Cleared for the treatment of wrinkles around the eyes and is proven safe for use on all skin areas on all skin types and tones. We have many customers that have reported full face, neck, chest, and hand wrinkle reduction. We plan to get further FDA clearance for these other treatment areas to guarantee broader results.",
+      "id": "d2bcb4b1-6e60-4482-9d46-e83ab206097a",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Can I use the Nira Pro in other areas and see results?",
+      "content": "The NIRA Pro Laser is FDA-Cleared for facial wrinkle reduction around the eyes and is proven safe for use on all skin areas on all skin types and tones. We have many customers that have reported full face, neck, chest, and hand wrinkle reduction. We plan to get further FDA clearance for these other treatment areas to guarantee broader results.",
+      "id": "b4f87ffe-04f3-4ba4-b9e1-61e9f90afb87",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Can I travel with the Nira Precision Laser?",
+      "content": "Yes! The NIRA Precision Laser is a portable, wireless device that travels well. NIRA Precision is small enough to fit in a carry-on bag, does not need to be plugged in for use, and contains a built-in lithium-ion rechargeable battery. If possible, we recommend packing the device in its original packaging to avoid damage.",
+      "id": "ad51b106-b959-4fa4-a126-3ba30f014aa2",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Wholesale inquiries",
+      "content": "The best way to discuss wholesale is to email us directly at info@niraskin.com. Our team is happy to chat.",
+      "id": "92f247f8-71fe-472b-9dc7-14b05ca613bb",
+      "shortcut": "wls",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Phone support",
+      "content": "You can give us a call at 1-877-607-NIRA or let me know if I can help via text, it may be faster.",
+      "id": "6523fbdd-2bdd-4b29-a16b-e190decd281b",
+      "shortcut": "ps",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Warranty policy",
+      "content": "You can take a look at our full warranty policy here: https://www.niraskin.com/pages/return-policy",
+      "id": "c9f787c7-b64a-4e91-adfe-c718ae8ea17b",
+      "shortcut": "wp",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Military / First responder / Healthcare / Teacher discount",
+      "content": "Thank you for your service! We don't have any specific discounts like that, but our deals will always be shared with our SMS subscribers or on our website, so keep an eye out!",
+      "id": "96a41073-85b5-44ef-96af-4d0f1ff3959e",
+      "shortcut": "ms",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Free shipping",
+      "content": "We offer free standard shipping on all domestic orders.",
+      "id": "9003c38c-7454-40ba-ad8f-453c7243c8eb",
+      "shortcut": "fs",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Social Media",
+      "content": "Give us a follow on IG: https://www.instagram.com/nira_skin/?hl=en and FB here: https://www.facebook.com/niraskincare/",
+      "id": "d233ab0c-33b6-4cc1-99d7-9e7c737397fc",
+      "shortcut": "smd",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Rewards / referral",
+      "content": "We have a rewards/referral program where you can earn points to redeem on future purchases. Check it out here - https://nira.referralcandy.com/",
+      "id": "771f5542-3621-4cee-bf39-a2d82322fc70",
+      "shortcut": "rwd",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Store location / retailer",
+      "content": "You can find our products on Amazon, and through distributors and retailers in the US, Hong Kong, Spain, China, and the United Kingdom.",
+      "id": "da88cc61-9b45-4de8-b547-78785d6c780e",
+      "shortcut": "sl",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Cancel / edit order",
+      "content": "I can check if that's possible. What's the order number, email address and the change you'd like to make?",
+      "id": "31e5b726-ade9-4567-9eeb-67dd80752381",
+      "shortcut": "ced",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "What is non-frictional laser fluence?",
+      "content": "Non-Fractional laser technology works by gently heating up the cells in your dermis using laser light which causes the cells some limited stress, triggering the cells to release proteins and the body to rejuvenate and renew the dermal area.\nThe NIRA laser penetrates through the epidermis (outer skin) and is absorbed specifically in the dermis area where your collagen and elastin cells are located. The laser raises the temperature of these cells above the level of heat-shock protein formation but below the pain threshold. This process helps to maximize the signaling of cell rejuvenation while avoiding skin damage and pain.",
+      "id": "b3473a12-0a6d-4ae0-bb1e-27678daa55fa",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Do you offer expedited shipping?",
+      "content": "I'm afraid we don't offer expedited or priority shipping options at the moment.",
+      "id": "a88b7e0f-960c-4c22-acd1-987483bcf8ed",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Can I use the laser in other areas?",
+      "content": "The NIRA Precision is FDA-Cleared to reduce wrinkles around the eyes (the hardest area to treat!) by stimulating collagen production. Many customers have also seen results in other areas of the face such as the \"elevens\", marionette lines, and lifting hooded eyes. Customers have also reported the lightening of dark circles, improvement in skin tone, and reduction in scarring.",
+      "id": "8fcc0ae6-c610-4930-815b-12975feca0b2",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Can I split my payment in 4?",
+      "content": "Yes, you can split your payment in four with Klarna.",
+      "id": "8c420e73-4d05-4473-bfea-4b0dc1fa508f",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Return policy",
+      "content": "You can check out our detailed return policy here: https://www.niraskin.com/pages/return-policy",
+      "id": "ad7e1505-b485-4be9-9a2e-25c6a689419f",
+      "shortcut": "rp",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Customer support",
+      "content": "The best way to handle this is to email us here info@niraskin.com or give us a call at +1 877-607-NIRA Our team is happy to help!",
+      "id": "f90f3308-30d3-4496-8246-a5388da5e39a",
+      "shortcut": "cs",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Does it help with roseaca?",
+      "content": "Unfortunately, we have no evidence to support any contraindications in regards to rosacea. We always recommend consulting with your physician, and to refrain from using on broken or damaged skin.",
+      "id": "771b2ead-b540-45f2-9aed-2c0a82dac234",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Will I see results in 60 days if I'm using Nira at any level?",
+      "content": "As long as you're using it on a level where you feel warmth, the laser is working and will begin to show results in about 60 days. You can use the device on any level and still see results in 60 days as well.",
+      "id": "d80a27d3-b59e-450d-b101-755c95174221",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "I saw the Precision Laser at a discounted price at another site. Do you have a discount for me? / Can you pricematch?",
+      "content": "We don't actually sell the NIRA Precision Laser at a discount on any other site. I'd suggest ordering directly from our official website, niraskin.com. That way, you can be sure to avoid any fraudulent activity.",
+      "id": "907dc5f6-bd43-48b1-bb4e-b3889563fec6",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Products too expensive (Add discount code template)",
+      "content": "I'm really sorry about this, I can offer you a discount to help out:",
+      "id": "f235b437-ff95-4f5b-88dd-71ef5de80e15",
+      "shortcut": "pte",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Where do you ship/assemble from?",
+      "content": "All orders ship directly from Danvers, Massachusetts, where product assembly, programming, and testing are all done! Each product is made with the highest attention to quality and detail.",
+      "id": "2f354acd-1280-427d-b572-2313054acf84",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "How to use Nira",
+      "content": "We've put together a detailed guide plus video instructions on how to use our Nira here: https://www.niraskin.com/pages/how-to-videos",
+      "id": "8cbf9ead-5fe6-4a83-9532-907614a31fef",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Shipping time",
+      "content": "Our processing time takes 1-2 business days and we usually ship via USPS. Once shipped it will take 3-4 business days for domestic orders.",
+      "id": "a5b30ffc-123a-4b22-9983-383479997862",
+      "shortcut": "shp",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Reviews/ Results (Pictures)",
+      "content": "You can check out our customer reviews and results here: https://niraskin.attn.tv/sl/DYh7D51v",
+      "id": "f0be8c6b-def0-4dc9-826c-9b0ac398076c",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Brand ambassador / sponsorship / influencer",
+      "content": "Thanks for your interest, we'd love to have you join our NIRA tribe! You can fill out our Affiliate application form here: https://nira.refersion.com/ Once you're approved, you'll get the opportunity to make 10% commission on sales you generate, get a FREE NIRA Laser & Hyaluronic Acid Serum Collection, and more. For more details, please click here: https://www.niraskin.com/pages/affiliate-program",
+      "id": "e34d68bc-2ef3-4b7b-a1fd-8c704a42475f",
+      "shortcut": "ams",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "NIRA Precision Laser: When will I see the results?",
+      "content": "You should expect to see visible wrinkle improvements within 60 days and dramatic results after 90 days of regular use. We recommend applying the Hyaluronic Acid Serum after your NIRA Precision Laser treatment as the serum provides quick results while the laser provides dramatic, long-lasting results over time. We are so confident that you'll love your results that we offer a 90-day money back guarantee.",
+      "id": "3c938a98-584e-428e-b11a-03061e649a51",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Restock button",
+      "content": "I currently don't have the exact date of a possible restock, but I recommend signing up on the product page so you're notified the second it comes back in!",
+      "id": "dc614864-f252-4cf9-b58d-e01363ac5be4",
+      "shortcut": "stof",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Customer says NO THANKS, just browsing, not right now etc",
+      "content": "No worries! Feel free to reach out if there's anything I can help with, and in the meantime, check out some helpful customer reviews here: https://www.niraskin.com/pages/before-after",
+      "id": "2fcc4446-3f25-4c0a-be3b-b90ce3b38f45",
+      "shortcut": "nw",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Restock",
+      "content": "I currently don't have the exact date of a possible restock, but I recommend checking our website and social media frequently.",
+      "id": "2fc4bf7b-fa6a-455b-902a-d5168e9b4807",
+      "shortcut": "stok",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "No promotions available",
+      "content": "I don't have any codes available at the moment, but our deals will always be shared with our SMS subscribers or on our website, so keep an eye out! In the meantime, check out our financing option to help you spread the cost of your purchase over time: https://www.niraskin.com/pages/buy-now-pay-later",
+      "id": "2e41b082-5f3b-428f-b8dd-0a0cae7d9e65",
+      "shortcut": "ncode",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Can the NIRA Pro Laser be used around the eye area?",
+      "content": "You can certainly use the NIRA Pro around the eye area. However, please be aware that achieving full contact might be slightly challenging due to the larger aperture. Nonetheless, the NIRA Pro effectively targets wrinkles around the eyes, lips, and nose.",
+      "id": "b120119e-b932-456a-8853-4780a8d74f49",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Can I use the NIRA Precision laser without the Serum?",
+      "content": "Yes, the NIRA Hyaluronic Acid Serum is designed to complement the laser but is not required. Our ultra-hydrating Hyaluronic Acid Serum works to tighten the skin instantly while the NIRA Precision Laser provides dramatic long-lasting results over time. When combined, they offer the fastest acting solution to fine lines and wrinkles!",
+      "id": "64ae4fec-643a-44ab-8fb8-7042c8fe5b0a",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Can I treat with both the NIRA Precision and NIRA Pro Laser during the same session?",
+      "content": "Yes, you may use both the NIRA Pro Laser and NIRA Precision Laser during the same session. However, make sure that you move the laser to a new spot for each pulse. If you treat the same spot twice in a row, the heat in your skin may build up to a point where you feel discomfort or pain. This is not recommended and should be avoided. If you feel warmth, and not pain, your NIRA laser is working properly to stimulate your natural collagen production.\n\nIn addition, we recommend waiting at least 1 minute before retreating to each area. Do not treat more than twice within a 1 hour period.",
+      "id": "46208226-a7fb-4c01-aa38-39ce6ee22f7b",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Can I use the NIRA Precision Laser every other day and just double my pulses?",
+      "content": "For possible enhanced results, you may use the NIRA Precision Laser twice a day; in the morning and evening after cleansing and drying the treatment area. However, if you can only use it every other day, then doubling the number of pulses may help you get the treatment needed to help promote natural collagen production for younger looking skin. We recommend waiting at least 1 minute before retreating to each area. Please do not treat more than twice within a 1 hour period.",
+      "id": "45842e92-8a2e-4b2d-bc7b-2497b3a6af88",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "What does the NIRA Pro Laser feel like on the skin?/Does it hurt",
+      "content": "The NIRA Pro Laser feels like a warm, pulsing sensation on your skin. The laser features 5 power (or comfort) levels that enable you to adjust the laser to your skin sensitivity.",
+      "id": "0a78dadb-5337-4754-83ac-cc0034f2215e",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "What is covered by the limited warranty?",
+      "content": "This limited warranty covers defects in materials and workmanship in your NIRA Laser if you purchased it from an authorized seller or directly from the manufacturer (NIRA). Your limited warranty is valid for you alone, the original purchaser and cannot be transferred.",
+      "id": "8416e7d6-c157-4551-9b19-588c8e776025",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Can I treat each area more than once per day with the NIRA Precision Laser?",
+      "content": "You may treat twice per day for possible enhanced results. We recommend waiting at least 1 minute before retreating to each area. Please do not treat more than twice within a 1 hour period.",
+      "id": "0d317e72-d12e-4a3b-8950-8607f0a87459",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Can I go in the sun if I'm using NIRA Pro Laser?",
+      "content": "Yes, we do not have any evidence that suggests that the laser will cause any sensitivity to the sun. However, we always recommend wearing sunscreen to protect your skin from harmful ultraviolet (UV) rays. Please note that the laser is meant to be used on unbroken, undamaged skin so you should avoid using a NIRA laser on sunburned skin.",
+      "id": "6b578ffb-e9e6-4014-9ca8-ea29328ee1b2",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Can I use the NIRA Pro Laser If I have sensitive skin?",
+      "content": "Yes, the NIRA Pro Laser has 5 power levels (or comfort levels) that enable you to adjust the laser to compliment your skin sensitivity.",
+      "id": "3e750054-f72a-47a2-a9f2-9584eca3440d",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "How should I prep my skin Before and After using the NIRA Pro Laser?",
+      "content": "You may use any facial cleanser prior to your NIRA Pro Laser treatment. The lasers should be used on clean, dry, healthy skin. After each treatment, we recommend using our all-natural Hyaluronic Acid Serum to lock in moisture, diminish the appearance of aging, and drive antioxidant activity - resulting in softer, smoother, and firmer looking skin. Follow the serum application with a moisturizer to maximize hydration, and of course, don't forget your SPF!",
+      "id": "e056255c-985b-4501-b01f-87540c806dfb",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Can I use the NIRA Precision Laser If I have sensitive skin?",
+      "content": "Yes, the NIRA Precision Laser has 5 power levels (or comfort levels) that enable you to adjust the laser to compliment your skin sensitivity.",
+      "id": "5468775c-5d4c-4ddf-8a8c-62dc33b8ef3a",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Is NIRA cruelty free?",
+      "content": "Yes, all NIRA products are 100% cruelty-free and have never been tested on animals.",
+      "id": "da9d690a-b7d4-4453-99bf-f1cc66449de6",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Can I use the NIRA Pro Laser if I'm pregnant?",
+      "content": "No, it is not recommended to use the NIRA Pro Laser if you are pregnant, nursing, or undergoing fertility treatments. Please see the Instructions for Use for a full list of contraindications.",
+      "id": "09a2c93a-e9a0-4a7c-be28-7e8ee1b6e283",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "How deep does the NIRA Pro Laser penetrate the skin?",
+      "content": "The NIRA Pro Laser uses a 1450 nm wavelength to penetrate into the papillary layer of the dermis (where your collagen and elastin cells are located) and gently heats the dermis to painlessly stimulate natural collagen production.",
+      "id": "8b94dff3-5282-4103-b885-c7a1ea0d47b6",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Can I use NIRA before or after red light therapy mask?",
+      "content": "Yes, you can use a NIRA laser either before or after using a red light therapy mask. However, if you are using other at-home skincare tools (like red light therapy, microcurrent, etc.), we recommend using the other devices in alternation with a NIRA laser to give your skin some time to reset.",
+      "id": "b019a939-c9ad-4dd3-8d05-f9223daebcc1",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "What happens if I stop using the NIRA Precision Laser temporarily?",
+      "content": "It is not a problem if you need to stop using a NIRA Precision Laser temporarily - just start using it again when you return. However, the NIRA Precision Laser travels well, so you can always take it with you!",
+      "id": "f1fa9a92-223b-46d9-8dc5-e9f060e9f51a",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "What do I do if my order is marked as delivered but I don't have it?",
+      "content": "Please contact your local USPS post office. When you call them, please make sure you have the tracking number handy so they can look it up for you. They will be able to provide some more information about where it was delivered and can hopefully help you locate it. If USPS is unable to locate your package, please email us directly at info@NIRAskin.com.",
+      "id": "1cf0092f-cc33-402a-8a4a-278990dd1d88",
+      "shortcut": "stl",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Is NIRA Laser technology clinically tested and proven?",
+      "content": "Yes! In order to obtain FDA clearance, rigorous clinical testing was conducted on 76 individuals of all genders in an independent, blinded study by New England Dermatology Associates overseen by three medical experts. The study assessed the NIRA laser's effectiveness and safety as the participants used NIRA for 2 minutes a day over a period of 90 days.\n\nOur technology is unparalleled with no observable adverse effects on darker skin tones, nor any interference with skin melanin levels, making it the only laser device suitable for all skin tones. Furthermore, our laser devices are proven to deliver long-lasting results, as 7 out of 10 users maintained their wrinkle reduction benefits for up to three months after their treatment ended.",
+      "id": "a69ebf93-e03d-4473-b74a-bf6b5ef6aa92",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Can the NIRA Lasers be used on other areas besides the eyes?",
+      "content": "The NIRA lasers are FDA-Cleared and clinically proven to reduce wrinkles around the eyes. The lasers are also proven safe for use on all skin areas on all skin types and tones. Many NIRA customers have reported improvements with wrinkles around the mouth (marionette lines), forehead, hands, chest, neck, other skin blemishes (like dark circles around the eyes), and more!",
+      "id": "507e3f72-79e7-4f2a-aa48-8f3aa1bb92ea",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Are there any side effects to using the NIRA Precision Laser?",
+      "content": "Though not common, NIRA Precision may cause some temporary redness immediately after use but that should fade within a few minutes. A small portion of users may also experience mild stinging and discomfort. Please see the Instructions for Use for NIRA Precision for a full list of possible side effects, indications, cautions, and precautions.",
+      "id": "939e882e-5ede-4d38-805c-cce193ed77cf",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Can I use NIRA after a derma roller or microneedling?",
+      "content": "Dermal rollers, also known as microneedling devices, create tiny, microscopic punctures in the skin. NIRA lasers are intended to only be used on clean, dry, undamaged and intact skin. If you just used a derma roller or another microneedling device, please refrain from using a NIRA laser on areas of skin that are broken or punctured. Instead, wait until the skin is fully healed before treating it with a NIRA laser.",
+      "id": "8a440aaa-cdff-4d99-b7a9-4a443a325f00",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "After 3 months, do I still need to use the NIRA Pro laser to maintain my results?",
+      "content": "The NIRA Pro Laser works similarly to exercise and muscle - it takes time for the collagen to rebuild and the best results are seen with continued routine use. NIRA Pro will stimulate your skin's natural collagen production as long as you continue treatments. Daily usage is recommended on an ongoing basis to maintain results.",
+      "id": "dea3d7c3-0c00-49ab-b29d-6185e69ed7dc",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Can I use the NIRA Precision Laser on dark or tan skin?",
+      "content": "Yes, the NIRA Precision Laser is safe and suitable for all skin types and tones. NIRA Precision was designed to be equally effective independent of the melanin levels in the skin.",
+      "id": "be025853-a9af-4ad4-9ded-a16aee57fb57",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Can I use the NIRA Pro Laser on dark or tan skin?",
+      "content": "Yes, the NIRA Pro Laser is safe and suitable for all skin types and tones. NIRA Pro was designed to be equally effective independent of the melanin levels in the skin.",
+      "id": "57c29e28-f554-4f46-ba1b-56de10ca6cc8",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Does the NIRA help with other skin concerns?",
+      "content": "All NIRA lasers are FDA-Cleared and clinically proven to reduce fine lines and wrinkles around the eye area. However, many NIRA customers have seen improvements with acne, puffiness, dark circles, dark spots, hyperpigmentation, and more! However, until we secure FDA clearance for these other claims, we cannot guarantee results.",
+      "id": "c1ed215b-8a4a-4675-8f69-c4e07cbccad6",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Can I treat each area more than once per day with the NIRA Pro Laser?",
+      "content": "You may treat twice per day for possible enhanced results. We recommend waiting at least 1 minute before retreating to each area. Do not treat more than twice within a 1 hour period.",
+      "id": "e7697380-0932-43c5-ac58-80c5beef795a",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Do the NIRA Lasers use UV (ultraviolet) light therapy?",
+      "content": "No, the NIRA lasers do not use UV (ultraviolet) light therapy. Instead, NIRA lasers are 'near-infrared' lasers that deliver targeted heat energy to gently warm the dermis to stimulate natural collagen production, all without pain, redness, or downtime.",
+      "id": "f67d5d11-dd4f-4fcb-a980-857d7a5eef28",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "NIRA Precision Laser: How many pulses am I supposed to use per treatment area?",
+      "content": "We recommend 40 pulses daily around each eye area. For possible enhanced results, the NIRA Precision Laser can be used twice a day. We recommend waiting at least 1-minute before retreating to each area.",
+      "id": "19d6ba25-616d-48c8-951d-a9797cad6ee9",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "How long does the warranty last?",
+      "content": "The limited warranty begins on the date of purchase and is in effect for one (1) full year.",
+      "id": "d3825a87-a37c-4169-860a-a5baac35eaa9",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Can I use the NIRA Precision Laser if I'm planning a cosmetic procedure (neurotoxin/filler injections/IPL/laser hair removal)",
+      "content": "Yes, as long as you are using the NIRA Precision Laser on clean, dry, unbroken and intact skin. In addition, we always recommend letting your physician or skincare professional know that you are using the laser prior to receiving any treatments.",
+      "id": "084912e3-569c-403c-ba86-760e9548c6ea",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "How do I know the NIRA Precision Laser is working?",
+      "content": "The NIRA Precision Laser works by gently heating up the water in your skin to stimulate natural collagen production. If you feel a warming sensation while using NIRA Precision, the laser is working. To get the results illustrated on our website, you need to use the laser routinely - 40 pulses per eye, per day, for 90 days.",
+      "id": "26b4a999-9423-4597-bad8-ec7134722225",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "How often should I use the NIRA Precision laser?",
+      "content": "Consistency is key when it comes to stunning results. The NIRA Precision Laser works similarly to exercise and muscle, it takes time for the collagen to rebuild, and the best results are seen with continued routine use.\n\nFor best results with the NIRA Precision Laser, treat your skin daily for 90 days or more according to the instructions. For possible enhanced results, you may treat twice a day; in the morning and the evening. We recommend waiting at least 1-minute before retreating to each area. Daily usage is recommended on an ongoing basis to maintain results.",
+      "id": "8a1dd7a4-bd4e-411b-8df4-fb3baa957607",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Can I use the NIRA Precision Laser If I have a history of skin cancer?",
+      "content": "The NIRA Precision Laser is recommended to be used on healthy, intact skin only. Please do not use NIRA Precision if you have a history of cancer or pre-malignant moles. If you are unsure, we recommend consulting with your physician or medical professional before using the laser to ensure the best safety and performance.",
+      "id": "7a1f0348-7f17-4fb7-b08f-eb6aaf5cd1cf",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Is there a NIRA App?",
+      "content": "Not yet, but the NIRA app will be available on the iOS App Store soon. The NIRA app will enable you to track your laser usage over time, track your results with before and after photos, and more. Please subscribe to our email newsletter to get notified when it launches!",
+      "id": "ee4ba75f-55a1-4cd9-986d-7e66b50b0088",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Do the NIRA Lasers use LED?",
+      "content": "No, the NIRA lasers do NOT use LED light - they are actual lasers for home use.",
+      "id": "74b17e01-1a80-44e2-a7dc-8bc278c9c583",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "What happens if I stop using the NIRA Pro Laser temporarily?",
+      "content": "It is not a problem if you need to stop using a NIRA Pro Laser temporarily - just start using it again when you return. However, the NIRA Pro Laser travels well, so you can always take it with you!",
+      "id": "f6395523-6b29-459a-8091-a1c825ecbf55",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "How do I know when the battery is low?",
+      "content": "If the battery is 50% to 100% charged when you turn on your device, both lights above the charging port will be illuminated. If your laser is less than 50% charged, the top light will not be illuminated. If you are about to lose your charge, then the bottom light will flash.",
+      "id": "8f3e0609-37b5-4f0a-a97a-a51c49bef3e4",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Is the NIRA Pro Laser safe?",
+      "content": "Yes, the NIRA Pro Laser is safe to use and suitable for all skin types and tones. In order to achieve FDA clearance, the laser was clinically tested on 76 subjects (both women and men) for efficacy and safety. The laser was also tested and certified for electrical and laser safety as well.",
+      "id": "02d8df5f-68a1-4924-a805-1731703a4072",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Can I buy the Serum without the Laser?",
+      "content": "Yes, you can buy and use the NIRA Hyaluronic Acid Serum without purchasing a NIRA laser.",
+      "id": "ad0efdb9-c06b-4132-875a-1ca6641680ae",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Can I use the NIRA Pro laser without the Serum?",
+      "content": "Yes, the NIRA Hyaluronic Acid Serum is designed to complement the laser but is not required. Our ultra-hydrating Hyaluronic Acid Serum works to tighten the skin instantly while the NIRA Pro Laser provides dramatic long-lasting results over time. When combined, they offer the fastest acting solution to fine lines and wrinkles!",
+      "id": "873089f9-8e63-48b2-ac75-e304b8642036",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Are there any side effects to using the NIRA Pro Laser?",
+      "content": "Though not common, NIRA Pro may cause some temporary redness immediately after use but that should fade within a few minutes. A small portion of users may also experience mild stinging and discomfort. Please see the Instructions for Use for NIRA Pro for a full list of possible side effects, indications, cautions, and precautions.",
+      "id": "0bef4c3c-d25c-4c93-87b3-aa0c0f079c83",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "NIRA Pro : When will I see the results?",
+      "content": "You should expect to see visible wrinkle improvements within 60 days and dramatic results after 90 days of regular use. We recommend applying the Hyaluronic Acid Serum after your NIRA Pro Laser treatment as the serum provides quick results while the laser provides dramatic, long-lasting results over time. We are so confident that you'll love your results that we offer a 90-day money back guarantee.",
+      "id": "1e0ad81e-71f1-4c7a-bf81-83f67226ea5c",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "How many pulses am I supposed to use per treatment area?",
+      "content": "We recommend 10 pulses daily for each treatment area, such as around one eye. For possible enhanced results, the NIRA Pro Laser can be used twice a day. We recommend waiting at least 1-minute before retreating to each area.",
+      "id": "5148eda0-788f-4d1f-8322-7443b1800b33",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "How should I prep my skin Before and After using the NIRA Precision Laser?",
+      "content": "You may use any facial cleanser prior to your NIRA Precision Laser treatment. The lasers should be used on clean, dry, healthy skin. After each treatment, we recommend using our all-natural Hyaluronic Acid Serum to lock in moisture, diminish the appearance of aging, and drive antioxidant activity - resulting in softer, smoother, and firmer looking skin. Follow the serum application with a moisturizer to maximize hydration, and of course, don't forget your SPF!",
+      "id": "9892d8c5-9b14-4701-acd2-238396ee4b96",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "If I use the NIRA Precision Laser on a high level, does that mean that I will see results faster?",
+      "content": "If you are feeling warmth, then the NIRA Precision Laser is working. We do not have official testing that proves that using the NIRA Precision Laser at a higher level will decrease the amount of time needed for results. However, we have had users report seeing results faster when using the device at a higher level, sensitivity permitting.",
+      "id": "26c2449c-4bbe-4956-8f00-6ea9a7a9e39d",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "What differentiates the NIra Precision Laser from other at home skincare devices?",
+      "content": "NIRA has developed the first and only painless at-home lasers that are FDA-cleared and clinically proven to visibly reduce fine lines and wrinkles in just minutes a day. It's important to note that the NIRA Precision Laser does NOT use LED light - NIRA Precision is an actual laser for home use. NIRA's patented laser technology is 200x more powerful than LED and 190x more powerful than competing at-home laser light technology.\n\nUnlike competing at-home skincare devices, NIRA's laser treatments are simple, fast, and effective - and are a fraction of the price of in-office anti-aging treatments. The lasers are designed to be used on clean, dry, healthy skin - no messy gels or primers required! In addition, NIRA is proven safe and effective for all skin types and tones.",
+      "id": "8c437dff-0b32-403f-981a-82d03c3c28f6",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Is the NIRA Precision Laser effective for all genders?",
+      "content": "Yes, the NIRA Precision Laser is effective for all genders.",
+      "id": "29f7b714-66c5-4093-a049-1ad92cb0be09",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Does the 10% subscription discount apply to future refills?",
+      "content": "Yes! By signing up for a subscription, you'll save 10% on all future refills and also ensure that you never run out of your favorite serum again.",
+      "id": "939e7ee3-add3-4c18-8362-205ff854fc9c",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "How often will I get refills if I sign up for the Serum subscription?",
+      "content": "If you sign up for our Hyaluronic Acid Serum subscription, you will receive refills automatically, and conveniently, delivered to your doorstep every two months.",
+      "id": "66e9a2bb-57c2-4b35-a496-913ac7e56ecd",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Can I travel with the NIra Pro Laser?",
+      "content": "Yes! The NIRA Pro Laser is a portable, wireless device that travels well. NIRA Pro is small enough to fit in a carry-on bag, does not need to be plugged in for use, and contains a built-in lithium-ion rechargeable battery. If possible, we recommend packing the device in its original packaging to avoid damage.",
+      "id": "d341e9a8-ea48-4be8-8bf5-288a287f35e6",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Can I use NIRA on a skin with vitiligo?",
+      "content": "Yes, the NIRA lasers are safe to use and suitable for all skin types and tones.",
+      "id": "bc7b7422-8231-469e-a0e3-66801648821e",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Can I use the NIRA Pro Laser if I'm planning a cosmetic procedure (neurotoxin/filler injections/IPL/laser hair removal)",
+      "content": "Yes, as long as you are using the NIRA Pro Laser on clean, dry, unbroken and intact skin. In addition, we always recommend letting your physician or skincare professional know that you are using the laser prior to receiving any treatments.",
+      "id": "512edf12-d894-4845-b202-cb444dfedf57",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Can I go in the sun if I'm using NIRA Precision Laser?",
+      "content": "Yes, we do not have any evidence that suggests that the laser will cause any sensitivity to the sun. However, we always recommend wearing sunscreen to protect your skin from harmful ultraviolet (UV) rays. Please note that the laser is meant to be used on unbroken, undamaged skin so you should avoid using a NIRA laser on sunburned skin.",
+      "id": "a71bda68-9065-47f6-8e7b-0e5da726d1db",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "If I use the NIRA Pro Laser on a high level, does that mean that I will see results faster?",
+      "content": "If you are feeling warmth, then the NIRA Pro Laser is working. We do not have official testing that proves that using the NIRA Pro Laser at a higher level will decrease the amount of time needed for results. However, we have had users report seeing results faster when using the device at a higher level, sensitivity permitting.",
+      "id": "ee7521b5-c894-4239-9bdd-1c18d1ef9c3d",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Is the NIRA Pro Laser effective for all genders?",
+      "content": "Yes, the NIRA Pro Laser is effective for all genders.",
+      "id": "e3b0c728-6c47-445d-ab5c-c442379cc46d",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "NIRA Pro: How do I know when the battery is low?",
+      "content": "If the battery is 50% to 100% charged when you turn on your device, both lights above the charging port will be illuminated. If your laser is less than 50% charged, the top light will not be illuminated. If you are about to lose your charge, then the bottom light will flash.",
+      "id": "12829ab2-4653-44a3-8c86-e73fdc3f0705",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "What are the benefits of Hyaluronic acid?",
+      "content": "Hyaluronic acid is a potent ingredient that offers numerous benefits in skincare. It is a powerful humectant that attracts and retains moisture to help hydrate and plump the skin. By boosting hydration, it can improve the appearance of fine lines and wrinkles, resulting in smoother, firmer looking skin. Hyaluronic acid also supports the skin's natural barrier function, protecting it from environmental stressors and promoting a vibrant complexion. Additionally, it has soothing properties and can help calm irritated or sensitive skin. Overall, hyaluronic acid is a versatile ingredient that enhances skin hydration, texture, and resilience.",
+      "id": "273d6274-e905-4d42-9128-cd161bb89c0b",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Can I use the NIRA Pro Laser If I have a history of skin cancer?",
+      "content": "The NIRA Pro Laser is recommended to be used on healthy, intact skin only. Please do not use NIRA Pro if you have a history of cancer or pre-malignant moles. If you are unsure, we recommend consulting with your physician or medical professional before using the laser to ensure the best safety and performance.",
+      "id": "b5d0a69b-4371-4cb8-b022-168e297c9ec9",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Can I use the NIRA Precision Laser if I'm pregnant?",
+      "content": "No, it is not recommended to use the NIRA Precision Laser if you are pregnant, nursing, or undergoing fertility treatments.",
+      "id": "f75336f8-573c-4f7b-9588-69d56a972ec2",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Can I use the NIRA Pro Laser every other day and just double my pulses?",
+      "content": "For possible enhanced results, you may use the NIRA Pro Laser twice a day; in the morning and evening after cleansing and drying the treatment area. However, if you can only use it every other day, then doubling the number of pulses may help you get the treatment needed to help promote natural collagen production for younger looking skin. We recommend waiting at least 1 minute before retreating to each area. Please do not treat more than twice within a 1 hour period.",
+      "id": "421f54dd-c122-4218-af2c-17881a98f662",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Can I use NIRA if I have a cardiac implant?",
+      "content": "Yes, we do not have any evidence that suggests that a NIRA laser cannot be used with cardiac implants (like a PaceMaker) or other implants in the body. The only exception could be if an implant is very close to the surface and is in the skin area that you want to treat with a NIRA laser. If you are unsure, we recommend consulting with your physician or other medical professional.",
+      "id": "27e92e52-1384-49e4-bf0c-eeda3ba5506b",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "What happens if I completely stop using the NIRA Precision Laser?",
+      "content": "If you stop your NIRA laser treatment, you will likely start seeing natural signs of aging over time as new collagen production will no longer be stimulated. We recommend using the NIRA Precision Laser daily to continue stimulating natural collagen production for a brighter, firmer, and younger looking complexion.",
+      "id": "90394427-dd4e-413c-8c6d-10c94472bdc5",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "How long does it take to process my refund?",
+      "content": "Please allow up to 7 business days for your refund to process once the returned product is received by our warehouse.",
+      "id": "7c61bd2a-7894-4bc5-9b6c-22bca827cefc",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Will the Nira Pro Laser give me better results?",
+      "content": "The NIRA Pro uses the same patented, non-fractional laser technology as the NIRA Precision. Both lasers have the same wavelength, which is 1450nm (+/-20 nm), and a maximum power of 2 W. The main difference is that the NIRA Pro features our largest treatment head (10x the area of the NIRA Precision Laser) and can treat wrinkles on the full face, neck, chest, and hands. Meanwhile, the NIRA Precision Laser is perfect for targeting small, hard-to-treat areas such as crow's feet.\n\nFor maximum facial renewal, we recommend combining NIRA Precision with NIRA Pro to treat both small and large surface areas.",
+      "id": "09dd669c-8fbe-4e5c-8f06-33883351c047",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Is the precision a better option than pro?",
+      "content": "The effectiveness of laser treatments can vary depending on an individual's face shape and specific concerns. While both the NIRA Pro and NIRA Precision laser devices are FDA-cleared for facial wrinkle reduction around the eyes and are proven safe for use on all skin areas on all skin types and tones, the practical application may differ.\n\nThe NIRA Pro laser may be more challenging to use effectively on small and curved areas like facial wrinkles because it requires the laser to be flush with the skin to activate properly. Due to the limitations of the Pro device in treating such intricate areas, the Precision laser might be a more suitable option.\n\nThe NIRA Precision laser, designed for smaller and more delicate treatment areas, could be easier to maneuver and apply accurately on areas like the nasolabial folds, marionette lines, corners of the mouth, lipstick lines, and laugh lines. Its design allows for precise targeting, which is particularly important when dealing with sensitive or detailed regions.",
+      "id": "10470d28-11e8-446b-b9b0-ed66e5d3e60b",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "How deep does the NIRA Precision Laser penetrate the skin?/ What wavelength is used in NIRA and what intensity?",
+      "content": "The NIRA Precision Laser uses a 1450 nm wavelength to penetrate into the papillary layer of the dermis (where your collagen and elastin cells are located) and gently heats the dermis to painlessly stimulate natural collagen production. The NIRA lasers have a power density of 12.5 W/cm2.",
+      "id": "357fbd9b-01a8-4344-95ea-17b3b6469dbe",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Do you ship to Canada?",
+      "content": "We're currently not able to ship to Canada. We haven't yet gone through the process to get regulatory approval. However, we are actively working on expanding to more locations.\n\nIf you would like to be notified when NIRA is available in your area, please join our email newsletter at the bottom of our website (https://niraskin.attn.tv/sl/rEJk-k4m), and we will be sure to update you!",
+      "id": "0dea6a3f-c27d-4598-b443-657e3b4436c4",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Why does the device smell like burning sometimes? Is this normal?",
+      "content": "In general, a slight burning smell coming from any electronic or electrical device is not normal and could indicate a problem. Burning smells can be caused by overheating components, and that should be taken seriously as they may pose a safety risk.",
+      "id": "dc1a0b03-de37-414e-8889-86b2dc1fc42e",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "I have deep lip wrinkles, nasal labial folds and some jowls. Does the NIRA work?",
+      "content": "NIRA lasers are FDA-cleared and clinically proven to reduce wrinkles around the eyes. The lasers are also proven safe for use on all skin areas on all skin types and tones. Many NIRA customers have reported improvements with wrinkles around the mouth (marionette lines), upper lip lines, nasal labial folds, forehead, hands, chest, neck, other skin blemishes (like dark circles around the eyes), and more! We plan to get further FDA clearance for these other treatment areas to guarantee broader results.",
+      "id": "0277381d-ac26-45f0-bbfa-b40629dee43a",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Can the Nira be used on elbows and knees to improve texture after Micro needling?",
+      "content": "The NIRA laser can be used on elbows and knees to help improve texture and skin appearance. However, after microneedling, it's best to wait until your skin has fully healed and any tenderness has subsided before using the NIRA laser on the same area. We generally recommend waiting about two weeks post-micro needling to ensure your skin has had time to recover fully. If you have any specific concerns, consulting your skincare provider is always a good idea.",
+      "id": "8304bd9f-3418-463b-8676-8aebc0d6eccd",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "What's the difference between the NIRA Pro+ and NIRA pro?",
+      "content": "The NIRA Pro+ builds on the original NIRA Pro by delivering 50% more power and working up to 35% faster for quicker, more effective treatments. It also connects to the NIRA iOS app, allowing you to track progress, receive personalized insights, and earn rewards. With these upgrades, the Pro+ offers a smarter, more powerful skincare experience.",
+      "id": "135dfd8a-c45e-47e9-ad8b-eea1aab3ab05",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Does the NIRA laser come with a charger?",
+      "content": "Yes, a USB-C Charging Cable is included with all NIRA laser purchases.",
+      "id": "d31b522e-9c85-4ebc-aa60-ab1bda6a1360",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Should the tip of the laser be covered? Will it burn my skin?",
+      "content": "The tip of the laser is supposed to be open. Being covered will affect its efficacy. There is no need for the glass, as the wavelength we use is 1450 nm, which is not strong enough to cause skin burns.",
+      "id": "dbfe1d15-70d0-430d-8a52-10bb7397a112",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Can you send me clinical study trial results?",
+      "content": "You can learn more about our Clinical Study here: https://niraskin.attn.tv/afTxBgC7oTKc",
+      "id": "1d5e1e9f-772d-4d30-bf80-f7bff4826dd8",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Is it okay to use the NIRA on the lowest setting?",
+      "content": "Yes, using your NIRA Pro on the lowest setting is perfectly fine. As long as you feel a gentle warmth during treatment, the laser is working effectively. Over time, as your skin adjusts, you may find you can increase the level if comfortable, but it's not required to achieve results.",
+      "id": "472b2b5b-19df-4f8d-b581-5ae2db34362d",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Can you use the laser underneath the eyebrows or above the top eyelid?",
+      "content": "The laser is designed to be safe for use around the eye area, but under no circumstances should we treat the eyelid, and under no circumstances should we angle the laser towards the eye.\n\nWhile the laser doesn't emit visible light, the infrared might cause heating of the cornea. The skin can tolerate this heating, and it's normal, healthy, and thought to promote collagen production. On the other hand, the eye is less heat-tolerant, and we strongly advise against pointing the laser toward the eye.\n\nThe solution is to angle the laser away from the eye. You can treat the upper eyelid by raising your eyebrow and applying laser treatment to the bone above the eye. This is safe and clinically proven.",
+      "id": "760fc6d4-db7f-41c6-add9-0def6710cee6",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Can I use the NIRA with Botox?",
+      "content": "Botox treatment, derived from bacteria, is utilized to relax overused muscles. It's advisable to wait a minimum of two weeks after undergoing Botox treatment before using NIRA Laser to allow Botox to take full effect. This two-week interval between aesthetic treatments is typically recommended to ensure the skin has ample time to recover from the prior major treatment.\n\nThe NIRA Laser generates heat beneath the skin to promote collagen, which could potentially lessen the effectiveness of toxins introduced to your skin, such as those used in Botox treatments. While there might be no specific study on this concern, it's wise to stay on the side of caution to ensure that you maximize the benefits of your treatments and avoid any potential setbacks.",
+      "id": "ce7218af-4363-4894-b9de-8f4cb2975021",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Do you offer a buy back or trade in program / can I sell my item back to you?",
+      "content": "We don't currently have a buy-back program, but we do offer a trade-in option from the NIRA Pro (1st Generation) to the NIRA Pro (2nd Generation), depending on certain conditions. You'll just need to cover the price difference if you qualify.\n\nCould you please provide us with your email and order number so we can check eligibility for you?",
+      "id": "3d3f03c1-8fc8-494a-a444-1ad3a98790ab",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "Can I use my FSA/HSA card to purchase",
+      "content": "HSAs (Health Savings Accounts) typically cover qualified medical expenses like doctor visits, prescription medications, medical procedures, and durable medical equipment. As NIRA operates as an online retailer, not a medical service provider, it's important to verify if its products align with your HSA plan's criteria for qualified medical expenses.",
+      "id": "6617645e-9486-4dde-9884-c930473a64fa",
+      "companyName": "NIRA"
+    },
+    {
+      "name": "How can I scan my face on the App?",
+      "content": "To analyze your face in the NIRA app, you'll want to go to the \"Results\" tab instead of the \"Analyze\" tab. Here's how it works:\n\n• Open the app and tap \"Results.\"\n• The app will show a guide - align your eyes to the guide. \n• The camera will automatically capture your face once it's positioned correctly.\n• After the photo is taken, you can pinch and drag to fine-tune your eye alignment for the best analysis.\n• This should give you the most accurate results. Make sure you're in good lighting and your face is fully visible.",
+      "id": "fdcc6719-d2ba-4ca4-a041-3065f02015b3",
+      "companyName": "NIRA"
+    }
+  ]
+}

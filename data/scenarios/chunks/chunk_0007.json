@@ -3,154 +3,1320 @@
   "chunk": "chunk_0007",
   "scenarios": {
     "31": {
-      "id": "019c4f45-5a90-41c1-f000-000040fe65e9",
-      "companyName": "The Happy Planner",
-      "companyWebsite": "https://thehappyplanner.com",
-      "agentName": "Taylor",
+      "id": "019c49aa-cd14-4468-f000-0000f0a6d3f9",
+      "companyName": "Oral-B and Crest",
+      "companyWebsite": "https://oralb.com",
+      "agentName": "Sam",
       "messageTone": "Polished",
       "conversation": [
         {
           "message_media": [],
-          "message_text": "Happy Planner: Hey there , this is Taylor . Thanks for checking out The Happy Planner! happyp.attn.tv/aWhFd87WY3hW \n\nAre you looking for anything in particular today? ",
+          "message_text": "Oral-B: Resolution Check-In! Keep up with your smile goals with a partner and save $50 on the Genius X Twin Pack! oral-b.attn.tv/aq5pXztqV2WD ",
           "message_type": "system",
-          "date_time": "2026-01-27 16:44:51.839"
+          "date_time": "2026-01-24 18:04:12.725"
         },
         {
           "message_media": [],
-          "message_text": "Happy Planner: SMS Exclusive! Kick off the weekend with Free Shipping + 25% OFF SITEWIDE* with code: SMSVIP25.\n\nTODAY ONLY! happyp.attn.tv/awan_2mP-Bft \n.",
+          "message_text": "Oral-B: Valentine's Day is Closer Than You Think - You Ready? Make the first move with $50 Off the Oral-B + Crest iO Whitening Bundle: oral-b.attn.tv/aOJ1hnYPEFhn ",
           "message_type": "system",
-          "date_time": "2026-01-30 15:20:54.674"
+          "date_time": "2026-01-26 17:09:09.910"
         },
         {
           "message_media": [],
-          "message_text": "Happy Planner: Exclusively for you: Free Shipping + 25% OFF SITEWIDE* with code: PLANS25.\n\nHurry, today only! happyp.attn.tv/asHGQVLJHMVe \n.",
+          "message_text": "Oral-B: Save on 2X the Clean and Share! Get the Smart Clean 360 Twin Pack for $20 off while supplies last: oral-b.attn.tv/as104pixiPAq ",
           "message_type": "system",
-          "date_time": "2026-02-03 13:45:45.202"
+          "date_time": "2026-01-28 21:04:04.941"
         },
         {
           "message_media": [],
-          "message_text": "Happy Planner: For list lovers + coffee drinkers alike, our Gilmore Girls collection is BACK! Now undated + your fave accessories! happyp.attn.tv/a1FM1TgYMhaX ",
+          "message_text": "Oral-B: Brighten Up No Matter When Spring Starts! Get the Oral-B + Crest iO Whitening Bundle for $50 off now: oral-b.attn.tv/a65V6cCD0gjr ",
           "message_type": "system",
-          "date_time": "2026-02-06 13:03:07.794"
+          "date_time": "2026-02-02 17:07:06.053"
         },
         {
           "message_media": [],
-          "message_text": "Happy Planner: Game Day Deal! Score 25% OFF Sitewide* + Free Shipping with code GAMEPLAN25. \n\nTake your goals to the end zone: happyp.attn.tv/a9Quz72vEXTj \n.",
+          "message_text": "Oral-B: WCOBDC20206052313551056462CU48",
           "message_type": "system",
-          "date_time": "2026-02-08 14:16:27.112"
+          "date_time": "2026-02-05 15:07:22.553"
         },
         {
           "message_media": [],
-          "message_text": "Happy Planner: Hey Mary! We have all the essentials in our Accessories section! happyp.attn.tv/a4mL6vEV6-Xw \n\nWere you looking for something specific like filler paper or discs?",
+          "message_text": "Oral-B: You are already subscribed. Click here to shop now: https://oral-b.attn.tv/cl/XJO.",
           "message_type": "system",
-          "date_time": "2026-02-11 19:32:16.974"
+          "date_time": "2026-02-05 15:13:00.684"
         },
         {
           "message_media": [],
-          "message_text": "The winnie the pooh collection",
+          "message_text": "Oral-B: Save $10 on the Oral-B Family Pack during Kids Dental Health Month. Get your iO2 and kids electric toothbrush bundle today! oral-b.attn.tv/a8k-7LnEv1V2",
+          "message_type": "system",
+          "date_time": "2026-02-05 21:11:07.409"
+        },
+        {
+          "message_media": [],
+          "message_text": "Oral-B: 🏈 Become an Oral-B Champion with the iO4 Gum Care Bundle & Score $25 Savings: oral-b.attn.tv/aELR1dDvQull ",
+          "message_type": "system",
+          "date_time": "2026-02-08 15:30:52.689"
+        },
+        {
+          "message_media": [],
+          "message_text": "Oral-B: Discover your perfect match! Explore our range of brushes to find the one that suits you best: https://oral-b.attn.tv/a42QeoxM8TPp \n\nText us if you need assistance!",
+          "message_type": "system",
+          "date_time": "2026-02-10 17:21:17.231"
+        },
+        {
+          "message_media": [],
+          "message_text": "I am waiting for a call back.",
           "message_type": "customer",
-          "date_time": "2026-02-11 19:32:58.583"
+          "date_time": "2026-02-10 17:22:14.167"
         },
         {
           "message_media": [],
-          "message_text": "Happy Planner: Hi, thanks for reaching out. Are you referring to this one? - https://happyp.attn.tv/asrGrLKCp6b9",
+          "message_text": "A supervisor is working on my cancelled order. I need a new 20% coupon code.",
+          "message_type": "customer",
+          "date_time": "2026-02-10 17:22:44.191"
+        },
+        {
+          "message_media": [],
+          "message_text": "Oral-B: I'm sorry about that! Our team is doing everything to follow up with you soon. You can also give us a call at 1-800-566-7252, Monday-Friday 9am-6pm EST, or share your canceled order number and email address so I can follow up on this. ",
+          "message_type": "agent",
+          "agent": "50269",
+          "message_id": "019c49a7-9cb7-4d3d-f000-0000f0a6d3f9",
+          "date_time": "2026-02-10 17:24:07.388"
+        },
+        {
+          "message_media": [],
+          "message_text": "I have called three times today and spoke to three different people.",
+          "message_type": "customer",
+          "date_time": "2026-02-10 17:24:54.032"
+        },
+        {
+          "message_media": [],
+          "message_text": "Here's my order number: 1282840",
+          "message_type": "customer",
+          "date_time": "2026-02-10 17:25:14.089"
+        },
+        {
+          "message_media": [],
+          "message_text": "Please have someone call me.",
+          "message_type": "customer",
+          "date_time": "2026-02-10 17:25:43.665"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"Can't take calls - All brands\"; last updated: 2023-10-10 18:11:21.727",
+          "message_type": "template",
+          "date_time": "2026-02-10 17:27:36.371"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"No promotions available - All brands\"; last updated: 2023-10-10 16:37:45.165",
+          "message_type": "template",
+          "date_time": "2026-02-10 17:27:36.371"
+        },
+        {
+          "message_media": [],
+          "message_text": "Oral-B: I understand. This number is for SMS only, so I'm not able to make or receive calls. Is it okay if we continue chatting by text?",
           "message_type": "agent",
           "agent": "109630",
-          "message_id": "019c4f45-5a90-41c1-f000-000040fe65e9",
-          "date_time": "2026-02-11 19:34:31.208"
+          "message_id": "019c49aa-cd14-4468-f000-0000f0a6d3f9",
+          "date_time": "2026-02-10 17:27:36.376"
         }
       ],
       "notes": {
         "important": [
-          "Make sure links you're sending customers are for THE HAPPY PLANNER!",
-          "Example of what NOT to send: thehappinessplanner.com (The Happiness Planner is completely different company)"
+          "When sending a link, if you see a \"/\" at the end of the URL, remove it"
+        ],
+        "send_to_cs": [
+          "Send to CS for damaged items that aren't available on the website"
+        ],
+        "escalate": [
+          "ESC immediately if the order is delivered, but cx did not receive it",
+          "ESC if cx wants to use an expired code",
+          "ESC sales end date questions",
+          "ESC invalid codes / expired code issues",
+          "Before ESC for retroactive discount requests, check if the item is on sale or if they met the minimum",
+          "Don't make suggestions of replacements - if unsure, ESC",
+          "ESC false advertising complaints",
+          "ESC if cx state they regret placing the order after the CANCEL/ORDER temp has been sent",
+          "Before ESC products not functioning properly",
+          "→ Inquire what exact brush/product they have",
+          "→ Provide any user guides available",
+          "Don't ask for the cx's shipping address as secondary info, include their phone number instead"
         ],
         "tone": [
-          "Use a more upbeat, but professional tone",
-          "Don't say \"My bad\""
+          "Keep messages shorter and more direct",
+          "Don't use the term \"cart tracking\", or let cxs know we can see what they have in their cart"
+        ],
+        "templates": [
+          "If the cx asks where there order is, and it's a confirmed order within the standard processing and shipping time, only share the \"Order status/order tracking\" temp",
+          "If the cx reaches out saying they're having issue with their code, first use CWW temp",
+          "If cx needs assistance with brush function/operations use FOQ shortcut",
+          "For product complaints/bad experiences use PBE shortcut",
+          "If cx says they're dentists/hygienists & want to shop use RDH shortcut",
+          "If cx is a short amount away from reaching the $100 threshold for the welcome discount to apply use SRT shortcut",
+          "If cx ask why their order was canceled, use MOC shortcut",
+          "If cx purchased from their dentist and looking for rebate ($30, $20, $10 back) use RBT shortcut",
+          "For post-purchase issues with Amazon orders, use PS shortcut",
+          "For post-purchase issues where cxs are dental professionals, dentists, hygienists, use DPS shortcut"
+        ],
+        "dos_and_don_ts": [
+          "If customers are looking for brush heads always confirm what type of brush they have, iO or non iO",
+          "If you can't find the products on the website, refer to this one https://crest.com/en-us",
+          "Hold to policy and do not offer to check if deviation from policy is acceptable",
+          "If customers ask about the warranty registration code OR say it's not accepting theirs (they might refer to it as a promo code for registration)- send them this one OB59185 (it's always the same)"
+        ],
+        "drive_to_purchase": [
+          "For general recommendations use CFR shortcut",
+          "Always refer cxs to iO series products, when possible"
         ],
         "promo_and_promo_exclusions": [
-          "🅿️ Promote customers to sign up to Happy Rewards, use RWD shortcut",
-          "DON'T ask customers to check their email if they didn't get the code for signing up for emails & texts OR for spinning the wheel! The code should be in the texts!",
-          "Custom Planners are excluded from discount codes"
-        ],
-        "old_expired_codes": [
-          "Please do not send old or expired codes to subscribers. This includes recycling old codes that may have previously gone to the sub and is no longer valid."
+          "The $85 welcome promo code isn't for % off, once applied a free item is added to the cart",
+          "Please check the last letters of a code to determine when they were sent",
+          "→ I.e. WCOBDC means it is a December code (DC) and will likely expire in Jan",
+          "Discount codes do not work on Amazon",
+          "If cx is looking for a discount on replacement brush heads, encourage to subscribe for savings on the product page"
         ]
       },
       "rightPanel": {
         "source": {
           "label": "Website",
-          "value": "https://thehappyplanner.com",
+          "value": "https://oralb.com",
           "date": ""
         },
         "browsingHistory": [
           {
-            "item": "Disney Winnie the Pooh True to You -  Classic Accessory Pack",
-            "link": "https://thehappyplanner.com/products/disney-winnie-the-pooh-true-to-you-classic-accessory-pack?_pos=6&_sid=7ee53083f&_ss=r",
-            "timeAgo": "2026-02-12"
+            "item": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+            "link": "https://oralb.com/en-us/products/electric-toothbrushes/io-series-10-rechargeable-electric-toothbrush-cosmic-black/",
+            "timeAgo": "2026-02-05"
           },
           {
-            "item": "Disney Winnie the Pooh True to You -  Classic Accessory Pack",
-            "link": "https://thehappyplanner.com/products/disney-winnie-the-pooh-true-to-you-classic-accessory-pack?_pos=5&_sid=7ee53083f&_ss=r",
-            "timeAgo": "2026-02-12"
+            "item": "Oral-B Genius X Rechargeable Electric Toothbrush Twin Pack, Black and White",
+            "link": "https://oralb.com/en-us/products/oral-b-genius-x-rechargeable-electric-toothbrush-twin-pack-black-and-white/?utm_source=attentive&utm_medium=text&utm_campaign=prospecting&utm_content=oralb-resolution-check-012426&utm_term=sms-geniusxtwinpacksms-geniusxtwinpack&ai_audience=null_base&externalId=4o-9o",
+            "timeAgo": "2026-01-24"
           },
           {
-            "item": "Enjoy the Moment Parenting - Classic Guided Parenting Journal - 80 Sheets",
-            "link": "https://thehappyplanner.com/collections/sale/products/enjoy-the-moment-parenting-classic-guided-parenting-journal-80-sheets",
-            "timeAgo": "2026-01-27"
-          },
+            "item": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+            "link": "https://oralb.com/en-us/products/electric-toothbrushes/io-series-10-rechargeable-electric-toothbrush-cosmic-black/",
+            "timeAgo": "2026-01-07"
+          }
+        ],
+        "orders": [
           {
-            "item": "Disney Moana - Classic Guided Wellness Journal - 80 Sheets",
-            "link": "https://thehappyplanner.com/collections/sale/products/disney-moana-classic-guided-wellness-journal-80-sheets",
-            "timeAgo": "2026-01-27"
-          },
-          {
-            "item": "Fruit Stand Teacher - Dotted Lined + Dot Grid Classic Notebook - 60 Sheets",
-            "link": "https://thehappyplanner.com/collections/sale/products/fruit-stand-teacher-dotted-lined-dot-grid-classic-notebook-60-sheets",
-            "timeAgo": "2026-01-27"
+            "orderNumber": "1282840",
+            "orderDate": "2026-02-05",
+            "items": [
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://www.pierrefabreconnect.com/p0001063-kl-sample-chamomile-shampoo-10ml"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://www.seriouspuzzles.com/funny-business-castle-aqua-750pc-jigsaw-puzzle-by-ceaco/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://warriorpoetsupplyco.com/nano-iwb-holster/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://www.doheny.com/horizon-ventures-protective-solar-reel-cover-16-ft"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://www.ams-samplers.com/1-1-2-x-12-sst-liner/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://store.philamuseum.org/what-a-wonderful-world/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://bestpricenutrition.com/products/solaray-mega-multi-mineral-iron-free-200-caps-1?sku=9550"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://www.toolnut.com/jet-708595-jsg-96-benchtop-6-x-48-belt-9-disc-sander-3-4hp-1ph-115v.html"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://www.plumbersstock.com/blkl112-1-12in-black-90-elbow.html"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://www.naturalpigments.com/wilson-s-medium.html"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://touchupdirect.com/shop/touch-up-paint/acura-flint-black-metallic-nh-526m/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://www.steeda.com/hawk-mustang-brake-pads-164-hb274s.610.html"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://us.jellycat.com/nippit-hedgehog/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://hyva.odindev.com/120005-yukon-xl-flaps.html"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://www.namcopool.com/pro-series-leaf-rake"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://mcstaging.teppermans.com/ge-dishwasher-front-controls-gdf510pgjww.html"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://www.elemis.com/life-elixirs-sleep-candle.html"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://vrlatech.com/product/quadro-p4000-8gb-gddr5-256-bit-graphics-card/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://www.customconnectorkits.com/13511134/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://macks-prairie-wings-inc-alb.mybigcommerce.com/benchmade-osborne-knife-black/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://secure.theartofshaving.com/4-elements-bundle-unscented-2/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://www.coolergaskets.com/leer-gasket-26-1-2-x-46/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://www.bcwsupplies.com/digest-manga-bags"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://wilton-industries-inc.mybigcommerce.com/wilton-green-dragon-metal-cookie-cutter/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://www.lifeaidbevco.com/fitaid-ladies-tank-yellow-sm"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://www.mobilitysmart.co.uk/rotating-padded-bath-stool.html"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://www.empirecovers.com/1593-empirecovers-t-shirt"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://www.nutrisystem.com/diet-plans"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://checkout.platformart.com/now-we-wait/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://www.beautifiedyou.com/neostrata-ultra-moisturizing-face-cream/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://www.alekoproducts.com/outdoor-living/awnings/hook-style-hand-crank-for-half-cassette-retractable-awnings-dark-gray/awcrankgy-ap/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://checkout.burrow.com/outdoor/seating/dunes-2-piece-sofa-cover"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://bullionsharks.com/roman-silver-antoninianus-of-gallienus-ad-253-268-ngc-au/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://www.theshoemart.com/alden-mens-39701-perforated-cap-toe-boot-dark-tan/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://www.designsbyjuju.com/zdbjj365-7-dots-n-doodles-too-single"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://healthypets.com/bitterchryswab/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://trendytransfers.com/products/blessed-to-be-called-mom-mom-sublimation-transfer/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://www.bestpricenutrition.com/products/solaray-mega-multi-mineral-iron-free-200-caps-1"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://store.goodandbeautiful.com/archimedes-motion-and-simple-machines-grades-7-8-extension/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://tartecosmetics.com/shop/limited-edition-glow-girls-bronze-highlight-duo-1030.html"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://leggari.com/product/epoxy-counter-kit-12/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://mauipineapplestore.com/lahaina-honey-co-8oz-honey/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://www.ascolour.com.au/surf-safety-cap-1114f/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://www.tikibrand.com/20-pack-indoor-outdoor-wood-pellet-fire-starter"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://groomerschoice.com/shimmer-delights-bows-50-count/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://www.rpgshow.com/16-blonde-highlight-straight-human-hair-lace-front-wig-rt-572.html"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://secure.selkent.com/hexagon-wrench"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://checkout.livesuper.com/products/spectrum-unisex-machado-wood-polarized-sunglasses-blue-53-15-150/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://www.lovesac.com/insert-for-24x16-throw-pillow-lovesoft.html"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://checkout.fascinatingdiamonds.com/products/trio-stack-diamond-band/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://shopstarbeauty.com/9a-no-name-brand-brazilian-two-bundle-deal/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://www.incognitoconcealment.com/products/fn-fnx-45-tactical-iwb-holster/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://www.lightopia.com/Details/HinkleyLighting-Reef/1030"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://www.cravenspeed.com/the-original-stubby-antenna-for-2008-2015-subaru-impreza/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://cheapfood.co.uk/trebor-extra-strong-mints-4-pack/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://www.thermoworks.com/timestack-pp/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://northern-reflections-store-2.mybigcommerce.com/petite-ivory-scoop-neck-t-shirt-4000011583/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://echoparkpaper.com/ilc1145-tree-trimming/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://bodyjewelry.com/beburisustwi45.html"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://new.serioussips.com/tipus-chai-now-quick-brew-organic-chai-tea-sweetened/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://beautysense.ca/en/luzern-serum-absolut-control.html"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://www.oka.com/uk/pentire-adjustable-sunbed-a15579-2-32-1486-10"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://www.tulipworld.com/Spring-Planted-Bulbs/Bare-root-Perennials/Daylilies/Ruby-Stella-Daylily.aspx"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://www.misfitsmarket.com/shop/aisle?addToCart=1030"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://comainducer.com/cover-me-cold-coma-inducer-oversized-comforter-frigid-cloud/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://jovialfoods.com/sourdough-pasta-variety-pack/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://www.enjukuracing.com/products/apexi-ws-exhaust-subaru-impreza-02-07-wrx-sti.html"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://oralb.com/en-us/products/electric-toothbrushes/io-series-10-rechargeable-electric-toothbrush-cosmic-black/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://crazycups.com/crazy-cups-frosted-oatmeal-cookie-decaf-flavored-coffee-keurig-compatible-capsules/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://testing.eastwood.com/powder-vermillion-50-lb.html"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://www.myotcstore.com/store/p/70521-Lusters-Pink-Shea-Butter-Coconut-Oil-Curl-and-Twist-Hair-Pudding-11-Oz"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://www.homeshoppingmalls.com/donato-twin-bed-in-ash-brown-acme-furniture-21520t"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://shop.lacrawfish.com/pin-dat-tail-game/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://www.rcsuperstore.com/e-flite-inner-shaft-main-gear-blade-mcx/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://mcstaging.pierrefabreconnect.com/p0001063-kl-sample-chamomile-shampoo-10ml?___store=pierrefabreconnect"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://global-medical-solutions.com/Hewlett-Packard-Chart-Paper-for-Model-4650-9700_p_2322.html"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://www.mysupplementstore.com/products/beverly-international-up-lift-hybrid-training-formula-330-grams-2"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://artbeads.com/jewelry-supplies/toho-8-0-hybrid-colortrends-metallic-niagara-round-bead-2-5-inch-tube-tbrd8-yps0080/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://tieks.com/catalog/product/view/id/1030/s/rose/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://tulster.com/range-accessory-pack-g-code-rti-hanger/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://www.modani.com/vintage-overdyed-aqua-rug.html"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://jasonofbh.com/collection/the-king-of-jungle-ring/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://www.boatoutfitters.com/pliers-holder"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://shop.loriwhitlock.com/stationery-box-big-scallops/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://www.keylessentryremotefob.com/j5523518t1-2-buttons-factory-oem-key-fob-keyless-entry-remote-alarm-replace/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://www.dormco.com/Pink_with_Blue_Hearts_Shower_Sandal_p/r5-6-6-ssgirl2746-0002.htm"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://romencegardens.com/hosta-wrinkle-in-time/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://monumentmetals.com/2018-1-2oz-gold-kangaroo.html"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://www.clearbags.com/1-x-4-flap-hang-tab-top-opening-bags-25x102.html"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://simply-nutrients.mybigcommerce.com/klean-electrolytes-p5056.html"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://www.carnivalsavers.com/sea-life-bubble-bottle-necklace/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://aspen-company.com/blessed-baseball-hat-gray/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://www.beautyplussalon.com/redken-real-control-slim-supreme-3-4-oz"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://shopabbyrose.com/love-yourself-first-iphone-case/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://feltmanbrothers.com/vintage-bobby-suit/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://mcstaging-eu.elemis.com/life-elixirs-sleep-candle.html"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://thegoodprep.com/product/teriyaki-udon-noodles/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://www.bltdirect.com/100-watt-standard-shape-gls-nbsp-bayonet-cap-pearl"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://checkout.springbok-puzzles.com/Water-Wheel-p/43-36037.htm"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://csd.shop/products/women/clothing/brown-black-viscose-leopard-maxi-dress.html"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://www.fabspeed.com/ferrari-488-supersport-x-pipe-exhaust-system/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://www.thrivemarket.com/p/late-july-mini-peanut-butter-sandwich-crackers"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://lifeaidbevco.com.au/fitaid-ladies-tank-yellow-sm"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://getbitoutdoors.com/rainshadow-revc68h-sb"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://versacarry.com/products/revolver-iwb-holster-2023/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://energyartistjulia.com/products/owl-spirit-energy-pendant.html"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://lazyone.com/namoosete-womens-fitted-tee/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://ca.eccotemp.com/gold-2-year-protection-plan-for-sh12-a-tankless-water-heaters/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://shophockeytown.com/detroit-red-wings-new-era-quilted-trapper/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://www.renovatorstore.com.au/enzo-freestanding-heated-towel-rack-500mm-x-950mm.html"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://ruby-rd-store-2.mybigcommerce.com/womens-neutral-plaid-jacket/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://yonidapunani.com/esssence-septum/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://francescas.com/product/ALEENAZ50/beatrice-satin-jacquard-mini-dress"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://rafflex.io/product/race-3-whack-a-stack-race-3-winners-2"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://www.zennioptical.com/p/unisex-fullrim-acetate-plastic-rectangle-eyeglass-frames/1030?skuId=103021"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://mbrpexhauststore.com/t5053-mbrp-5-tip-dual-wall-angled-4-inlet-12-length-t304-ss/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://www.tractorsupply.com"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://dunsterhouse.co.uk/porches/wooden-porch-canopies/wooden-porch-full-height-2-post-w2m-x-d1-5m"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://countrylifevitamins.com/product/active-lipoic-acid/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://coco-republic-us-store-1-b2b.mybigcommerce.com/products/st-martin-outdoor-extension-dining-table.html"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://museumreplicas.com/mary-read-pirate-coat/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://ampeduplearning.com/andorra-map-scavenger-hunt/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://www.gorgeousshop.com/cowshed-moody-cow-balancing-diffuser-250ml-html.html"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://www.macofalltrades.com/vintage-apple-macbook-pro-17-inch-glossy-2-6ghz-core-2-duo-mid-late-2007-ma897ll-a-good-condition/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://djcity.com.au/product/brightlight-lmb12-12-inch-mirror-ball/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://burjushoes.com/shabina-limited-edition-hot-pink-stretch-lycra-open-toe-sock-boot-stiletto-heel/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://zogics.com/gym-wipes/wipes-bucket-dispenser-z700-bucket"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://s3powersports.com/2017-can-am-maverick-x3-x-rs-double-bs-motorsports-brian-king/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://mcstaging.dusk.au/tropical-spice-moodmist-fragrant-oil"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://sagaconcepts.com/usaopoly-yahtzee-the-nightmare-before-christmas-25-year-anniversary-dice-game-jack-skellington-merchandise/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://toptrenz.com/puffer-tote-weekender-bag-black-with-scatter-star-strap/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://shootsteel.com/product/1-2-steel-target-12x20-static/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://livecarmodel.com/products/1-18-dealer-edition-skoda-new-superb-dark-red-diecast-car-model.html"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://www.gourmetgiftbaskets.com/College-Care-Package-Of-Snacks.asp?sku1030"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://www.badgleymischka.com/printed-tank-top/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://www.wrightlife.com/disc-golf/discs/distance-driver/innova-beast-blizzard-champion/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://creole.net/caludas-bavarian-king-cake/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://barndoorag.com/banjo-2-mpt-x-1-fpt-poly-reducing-bushing-rb200-100/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://mcstaging.charlesbentley.com/charles-bentley-outdoor-120-litre-wheelie-bin.html"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://www.mollymutt.com/custom101/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://heritagebooks.org/products/godly-sorrow-wisse.html"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://vandamwarehouse.com/friction-call-striker-3-pack-by-primos/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://www.masterpiecesinc.com/new-orleans-saints-1000-piece-stadium-panoramic-jigsaw-puzzle/"
+              },
+              {
+                "name": "iO Series 10 Rechargeable Electric Toothbrush, Cosmic Black",
+                "price": 399.99,
+                "productLink": "https://www.filtersfast.com/Filters-Fast-16oz-Filtered-Water-Bottle.asp"
+              }
+            ],
+            "total": 347.99,
+            "coupon": "GCR20_4AF79C1A-9AEF-441B-97CF-EBFC935BF939",
+            "date_time": "2026-02-05 20:31:55.242"
           }
         ]
       },
-      "escalation_preferences": [],
-      "blocklisted_words": [
-        "cheers",
-        "gear"
+      "escalation_preferences": [
+        "All product complaints or bad experiences with a product"
       ],
-      "has_shopify": true
+      "blocklisted_words": [
+        "seems",
+        "shoot",
+        "worries"
+      ],
+      "has_shopify": false
     },
     "32": {
-      "id": "019c7c95-0c73-41ba-f000-000032f0c5a8",
-      "companyName": "Cookie's Kids",
-      "companyWebsite": "https://cookieskids.com",
-      "agentName": "Jordan",
-      "messageTone": "Casual",
+      "id": "019c6e26-fd32-48c5-f000-0000fbf12996",
+      "companyName": "DreamCloud",
+      "companyWebsite": "https://dreamcloudsleep.com",
+      "agentName": "Sam",
+      "messageTone": "Polished",
       "conversation": [
         {
           "message_media": [],
-          "message_text": "Cookie's Kids: Celebrate Presidents Day with Style! Enjoy BOGO 25% OFF sitewide including fresh spring styles! Don't miss out! cookieskids.attn.tv/a4K4EBdcyTYZ ",
+          "message_text": "DreamCloud: Reply Y to subscribe to recurring automated personalized marketing alerts (e.g. cart reminders) from DreamCloud.",
           "message_type": "system",
-          "date_time": "2026-02-13 14:00:59.655"
+          "date_time": "2026-02-17 17:40:44.310"
         },
         {
           "message_media": [],
-          "message_text": "Cookie's Kids: Hello, Jordan here! It looks like you left some items in your cart...anything I can help with today?\n\nWe saved your cart for you here: https://cookieskids.attn.tv/aDAKSB9DTkKz ",
+          "message_text": "DreamCloud: Welcome! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel. Phone support: (833) 237-3269.",
           "message_type": "system",
-          "date_time": "2026-02-18 12:52:53.445"
+          "date_time": "2026-02-17 17:41:11.828"
         },
         {
           "message_media": [],
-          "message_text": "Hi Jordan. I'm looking for embroidery for the sweaters. How do I find it?",
+          "message_text": "DreamCloud: You're in (& your deal is here)!",
+          "message_type": "system",
+          "date_time": "2026-02-17 17:41:15.827"
+        },
+        {
+          "message_media": [],
+          "message_text": "DreamCloud: Upgrade your old mattress for less. Save up to 60% + free shipping & returns.\n\nClaim your savings: dreamcloud.attn.tv/aq498rA4O9Ug .",
+          "message_type": "system",
+          "date_time": "2026-02-17 17:41:16.334"
+        },
+        {
+          "message_media": [],
+          "message_text": "DreamCloud: Hello, this is Sam. Thanks for checking out DreamCloud! Why wait to sleep better? You can save up to 60% on mattresses right now.\ndreamcloud.attn.tv/aA7jPXVjybRf\n\nAny questions I can answer for you?\n.",
+          "message_type": "system",
+          "date_time": "2026-02-17 17:42:59.790"
+        },
+        {
+          "message_media": [],
+          "message_text": "DreamCloud: Hello, this is Sam! We noticed you left the DreamCloud Luxe Hybrid Mattress in your cart! You can save up to 60%. Complete your purchase now to lock in these savings: dreamcloud.attn.tv/asht6J5SoXIq \n\nIf you have questions before you check out, text me back!\n.",
+          "message_type": "system",
+          "date_time": "2026-02-17 17:58:46.539"
+        },
+        {
+          "message_media": [],
+          "message_text": "we ordered it ORDER #D-17546510",
           "message_type": "customer",
-          "date_time": "2026-02-20 14:39:36.157"
+          "date_time": "2026-02-17 19:25:38.299"
         },
         {
           "message_media": [],
-          "message_text": "Cookie's Kids: Thank you for reaching out. I'm happy to help. Could you please let me know which sweater you're referring to?",
+          "message_text": "DreamCloud: Hi, thanks for reaching out and for your purchase. Do you have any questions or concerns that I can help with?",
           "message_type": "agent",
-          "agent": "87295",
-          "message_id": "019c7c95-0c73-41ba-f000-000032f0c5a8",
-          "date_time": "2026-02-20 14:44:28.813"
+          "agent": "109630",
+          "message_id": "019c6e24-a3a0-434a-f000-0000fbf12996",
+          "date_time": "2026-02-17 19:27:00.924"
+        },
+        {
+          "message_media": [],
+          "message_text": "not yet.  except for when do you think it will arrive?",
+          "message_type": "customer",
+          "date_time": "2026-02-17 19:27:48.143"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"Shipping time\"; last updated: 2024-02-08 12:24:42.215",
+          "message_type": "template",
+          "date_time": "2026-02-17 19:29:34.922"
+        },
+        {
+          "message_media": [],
+          "message_text": "DreamCloud: Thanks for clarifying! While I can't guarantee a specific delivery date, please note that different mattresses and sizes have different ship times. Delivery typically takes 2 - 5 business days once your mattress has shipped, and could be arriving via FedEx Ground delivery. ",
+          "message_type": "agent",
+          "agent": "87310",
+          "message_id": "019c6e26-fd32-48c5-f000-0000fbf12996",
+          "date_time": "2026-02-17 19:29:34.924"
+        }
+      ],
+      "notes": {
+        "send_to_cs": [
+          "No ESC for this client, send everything to CS, use ESC shortcut",
+          "Use escalation template if customer mentions any of the following:",
+          "➜ Exchanges or returns",
+          "➜ Premuim In - Home Setup Questions",
+          "➜ Discount code errors",
+          "➜ Recalls",
+          "➜ Better Business Bureau (BBB)",
+          "➜ Fiberglass",
+          "➜ Lawyers/Lawsuits",
+          "➜ Class Action",
+          "➜ Post Purchase Issues"
+        ],
+        "tone": [
+          "Let the customer have the last word"
+        ]
+      },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://dreamcloudsleep.com",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "DreamCloud Luxe Hybrid Mattress",
+            "link": "https://www.dreamcloudsleep.com/mattresses/luxe-hybrid-mattress/queen",
+            "timeAgo": "2026-02-17"
+          },
+          {
+            "item": "DreamCloud Classic Hybrid Mattress",
+            "link": "https://www.dreamcloudsleep.com/mattress?utm_campaign=B-(D)_TH-(BAU)_T-(flow)_ST-()_N-(welcome)_S-()_CT-(nonpurchasers)_SG-()_Nu-(1)_O-(percentoff)_CR-()_TE-()_V-()_D-(021326)&utm_medium=sms&utm_source=Attentive&externalId=s1SsZ",
+            "timeAgo": "2026-02-17"
+          }
+        ],
+        "orders": [
+          {
+            "orderNumber": "6994f34662000014004f2e5f",
+            "orderDate": "2026-02-17",
+            "items": [
+              {
+                "name": "DreamCloud Luxe Hybrid Mattress",
+                "price": 1348,
+                "productLink": "http://www.dreamcloudsleep.com/premier-rest-hybrid-mattress"
+              },
+              {
+                "name": "Serenity Sleep Bundle",
+                "price": 0
+              }
+            ],
+            "total": 1348,
+            "date_time": "2026-02-17 23:01:30.351"
+          }
+        ]
+      },
+      "escalation_preferences": [
+        "Exchanges and returns",
+        "Discount code errors",
+        "Shipping questions",
+        "Recall",
+        "BBB",
+        "fiberglass",
+        "lawyer",
+        "class action"
+      ],
+      "blocklisted_words": [
+        "organic"
+      ],
+      "has_shopify": false
+    },
+    "33": {
+      "id": "019c544f-1d03-4e71-f000-0000d1185797",
+      "companyName": "Bonafide",
+      "companyWebsite": "https://hellobonafide.com",
+      "agentName": "Sarah",
+      "messageTone": "Polished",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "Bonafide: Vaginal itching during menopause is common - get 6 expert-backed tips for real relief and comfort. bonafide.attn.tv/aBxCIyE1_2lP \n",
+          "message_type": "system",
+          "date_time": "2026-01-19 14:01:06.848"
+        },
+        {
+          "message_media": [],
+          "message_text": "Bonafide: Perimenopause makeover? Load up on good fats & protein, skip the sugar slump, and feel fabulous from the inside out bonafide.attn.tv/aWtR_1OvzwNW \n",
+          "message_type": "system",
+          "date_time": "2026-01-26 14:02:05.712"
+        },
+        {
+          "message_media": [],
+          "message_text": "Bonafide: Spice things up with playful moves, fresh routines, and a sexy mindset-your spark just got an upgrade. \nbonafide.attn.tv/aKpe7bG4HaP_ ",
+          "message_type": "system",
+          "date_time": "2026-02-02 14:00:54.922"
+        },
+        {
+          "message_media": [],
+          "message_text": "Bonafide: Hi, this is Heather from Bonafide! Let me know if you have any questions about Thermella! https://bonafide.attn.tv/aWola6eVK_as ",
+          "message_type": "system",
+          "date_time": "2026-02-04 11:29:27.825"
+        },
+        {
+          "message_media": [],
+          "message_text": "Bonafide: Stay intimate, stay vibrant - sex after menopause supports health and happiness. bonafide.attn.tv/akdJZFjfoXmp \n",
+          "message_type": "system",
+          "date_time": "2026-02-09 14:01:01.695"
+        },
+        {
+          "message_media": [],
+          "message_text": "Bonafide: More restful nights, coming soon 🌙\nIn the meantime, here's what impacts sleep → bonafide.attn.tv/amKxDD097E1Z ",
+          "message_type": "system",
+          "date_time": "2026-02-12 14:01:32.463"
+        },
+        {
+          "message_media": [],
+          "message_text": "I need thermella for hot flashes",
+          "message_type": "customer",
+          "date_time": "2026-02-12 19:01:42.041"
+        },
+        {
+          "message_media": [],
+          "message_text": "Bonafide: Hi, thanks for reaching out. You can go ahead and place an order for Thermella to help with your hot flashes. Let me know if you need any help with the ordering process!",
+          "message_type": "agent",
+          "agent": "109630",
+          "message_id": "019c544f-1d03-4e71-f000-0000d1185797",
+          "date_time": "2026-02-12 19:03:16.900"
+        }
+      ],
+      "notes": {
+        "escalate": [
+          "ESC all medical/scientific inquiries immediately",
+          "ESC return requests that are past the 30-day policy"
+        ],
+        "tone": [
+          "Close the convo once the client takes over"
+        ],
+        "templates": [
+          "For exact measurements of ingredients, use \"MOI\" shortcut"
+        ],
+        "dos_and_don_ts": [
+          "When sending the quiz - always suggest a specific product if customers mention a certain symptom"
+        ]
+      },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://hellobonafide.com",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "Thermella",
+            "link": "https://hellobonafide.com/products/thermella",
+            "timeAgo": "2026-02-04"
+          },
+          {
+            "item": "Thermella",
+            "link": "https://hellobonafide.com/products/thermella",
+            "timeAgo": "2026-02-04"
+          },
+          {
+            "item": "Thermella",
+            "link": "https://hellobonafide.com/products/thermella?g_adtype=search&gclsrc=aw.ds&&g_acctid=381-037-9272&g_campaign=Bonafide_Google_Search_Semibrand_Thermella&g_campaignid=21734815579&g_adgroupid=167960167579&g_adid=714377176285&g_keyword=thermella&g_keywordid=kwd-2270349537052&g_network=g&utm_source=google_adwords&utm_medium=paid_search&utm_campaign=Bonafide_Google_Search_Semibrand_Thermella&utm_term=thermella&gad_source=1&gad_campaignid=21734815579&gbraid=0AAAAADSETrOojbKBFxUMGvGfKFJZ3H_u6&gclid=Cj0KCQiA-YvMBhDtARIsAHZuUzK_SNL0LfYkb3rfEhV8LHdexBREqCrxgw-seH7JfumBxtZ7B5JrAZ8aAktfEALw_wcB",
+            "timeAgo": "2026-02-04"
+          },
+          {
+            "item": "Thermella",
+            "link": "https://hellobonafide.com/products/thermella?g_adtype=search&gclsrc=aw.ds&&g_acctid=381-037-9272&g_campaign=Bonafide_Google_Search_Semibrand_Thermella&g_campaignid=21734815579&g_adgroupid=167960167579&g_adid=714377176285&g_keyword=thermella&g_keywordid=kwd-2270349537052&g_network=g&utm_source=google_adwords&utm_medium=paid_search&utm_campaign=Bonafide_Google_Search_Semibrand_Thermella&utm_term=thermella&gad_source=1&gad_campaignid=21734815579&gbraid=0AAAAADSETrOojbKBFxUMGvGfKFJZ3H_u6&gclid=Cj0KCQiA-YvMBhDtARIsAHZuUzK_SNL0LfYkb3rfEhV8LHdexBREqCrxgw-seH7JfumBxtZ7B5JrAZ8aAktfEALw_wcB",
+            "timeAgo": "2026-02-04"
+          }
+        ]
+      },
+      "escalation_preferences": [
+        "Exchanges and returns"
+      ],
+      "blocklisted_words": [],
+      "has_shopify": true
+    },
+    "34": {
+      "id": "019c67d8-333d-4177-f000-0000f6b0f733",
+      "companyName": "Lovesac",
+      "companyWebsite": "https://lovesac.com",
+      "agentName": "",
+      "messageTone": "Polished",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "Lovesac: Welcome! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
+          "message_type": "system",
+          "date_time": "2026-01-30 15:15:38.679"
+        },
+        {
+          "message_media": [],
+          "message_text": "Lovesac: You're on the list! Shop now to save 40% during this sale.\n\nClick to save: lovesac.attn.tv/a8VUIgyk27f8 .",
+          "message_type": "system",
+          "date_time": "2026-01-30 15:15:43.198"
+        },
+        {
+          "message_media": [],
+          "message_text": "Lovesac: Be sure to save our contact card so you don't miss out on any exclusive offers.",
+          "message_type": "system",
+          "date_time": "2026-01-30 15:15:43.864"
+        },
+        {
+          "message_media": [],
+          "message_text": "Lovesac: Hey there! We noticed you eyeing something on our site...come back and save 40%: lovesac.attn.tv/aO0C3h3cEkTj .",
+          "message_type": "system",
+          "date_time": "2026-01-30 15:27:21.769"
+        },
+        {
+          "message_media": [],
+          "message_text": "Lovesac: Last chance for a little love and LOTS of comfort. Our Friends & Family get 40% off for one last day.\n\nDon't miss it: lovesac.attn.tv/aqpcTuHjdK2T .",
+          "message_type": "system",
+          "date_time": "2026-01-31 12:05:25.278"
+        },
+        {
+          "message_media": [],
+          "message_text": "Lovesac: Total Comfort starts with swatches. Get 5 free samples, see them in your space & find your favorite.\n\nStart here: lovesac.attn.tv/aPxK73CKxVL5 .",
+          "message_type": "system",
+          "date_time": "2026-02-02 15:15:51.106"
+        },
+        {
+          "message_media": [],
+          "message_text": "Lovesac: Hey there! We noticed you eyeing something on our site...come back and get 40% off: lovesac.attn.tv/ag0DmsTbjkxG .",
+          "message_type": "system",
+          "date_time": "2026-02-08 13:46:16.962"
+        },
+        {
+          "message_media": [],
+          "message_text": "Lovesac: Hey there! We noticed you stopped by. Need some help? Just let us know which products you're interested in below. \n\nA. Sactionals\nB. Sacs\nC. StealthTech\nD. Snugg\n\nReply back \"A\", \"B\", \"C\", or \"D\"\n\nOr shop them all at 40% off: lovesac.attn.tv/aUU37ExNaDbh .",
+          "message_type": "system",
+          "date_time": "2026-02-15 13:21:47.733"
+        },
+        {
+          "message_media": [],
+          "message_text": "Lovesac: Presidents' Day Sale ends tonight - take 40% off before it's gone.\n\nLast call to save on the styles you've been eyeing: lovesac.attn.tv/ax24bCG60PNg .",
+          "message_type": "system",
+          "date_time": "2026-02-16 13:15:13.973"
+        },
+        {
+          "message_media": [],
+          "message_text": "Lovesac: Hi, if you need assistance, please call us at (888) 636-1223 or text us at (650) 414-5475. Text STOP to opt out.",
+          "message_type": "system",
+          "date_time": "2026-02-16 13:20:20.892"
+        },
+        {
+          "message_media": [],
+          "message_text": "I was eyeing when the rest of my order is going to arrive. Tired of looking at boxes that I can't do anything with",
+          "message_type": "customer",
+          "date_time": "2026-02-16 13:20:24.599"
+        },
+        {
+          "message_media": [],
+          "message_text": "Not doing that!",
+          "message_type": "customer",
+          "date_time": "2026-02-16 13:20:54.644"
+        },
+        {
+          "message_media": [],
+          "message_text": "Just send my order",
+          "message_type": "customer",
+          "date_time": "2026-02-16 13:21:14.706"
+        },
+        {
+          "message_media": [],
+          "message_text": "Lovesac: Thank you for reaching out! I'm afraid I don't see any recent orders from you on my end. Could you please check if you received a confirmation email or if there's a charge on your account? Sometimes the email might arrive in your spam or promo folder, so be sure to take a look there too! ",
+          "message_type": "agent",
+          "agent": "109968",
+          "message_id": "019c67ba-37ff-4f50-f000-0000f6b0f733",
+          "date_time": "2026-02-16 13:33:03.254"
+        },
+        {
+          "message_media": [],
+          "message_text": "Lovesac: Thanks for sharing that with me. For this particular concern, our email support team is more equipped to assist since they have full access to your order details, which I'm not able to view on my end. I'm really sorry for the inconvenience. \n\nPlease reach out through this link: https://lovesac.attn.tv/azvXkvxizNZm Once your message is submitted, our team will review your order information and provide you with the most accurate update and next steps. They're truly happy to help and will make sure your concern is properly addressed.",
+          "message_type": "agent",
+          "agent": "82221",
+          "message_id": "019c67c6-350f-4ad1-f000-0000f6b0f733",
+          "date_time": "2026-02-16 13:46:08.944"
+        },
+        {
+          "message_media": [],
+          "message_text": "I'll just call my sales rep at the store",
+          "message_type": "customer",
+          "date_time": "2026-02-16 13:53:35.464"
+        },
+        {
+          "message_media": [],
+          "message_text": "Lovesac: That sounds like a plan, and apologies for the trouble. Is there anything else that I can help with? ",
+          "message_type": "agent",
+          "agent": "87310",
+          "message_id": "019c67d8-333d-4177-f000-0000f6b0f733",
+          "date_time": "2026-02-16 14:05:48.115"
         }
       ],
       "notes": {
@@ -158,530 +1324,40 @@
           "No ESC for this client, send everything to CS"
         ],
         "tone": [
-          "Close the convo once the client takes over"
-        ],
-        "promo_and_promo_exclusions": [
-          "If cx are looking for 15% welcome code, ask to check their email (spam & promo)"
+          "Close the convo once the client takes over!"
         ]
       },
       "rightPanel": {
         "source": {
           "label": "Website",
-          "value": "https://cookieskids.com",
+          "value": "https://lovesac.com",
           "date": ""
         },
         "browsingHistory": [
           {
-            "item": "Sonic The Hedgehog Boys' Baseball Jersey T-Shirt",
-            "link": "https://www.cookieskids.com/product.aspx?l=00240091022402500000&p=FRZ01867",
-            "timeAgo": "2024-06-06"
+            "item": "PillowSac",
+            "link": "https://www.lovesac.com/sacs/pillowsac-accent-chair/build?cover=swiss-diamond-phur&frame=brown&straps=black&hardware=gunmetal",
+            "timeAgo": "2026-02-08"
           },
           {
-            "item": "Teenage Mutant Ninja Turtles Boys' 2-Piece Joggers Set Outfit",
-            "link": "https://www.cookieskids.com/product.aspx?l=00240091029003930000&p=FRZ02025",
-            "timeAgo": "2024-06-06"
+            "item": "PillowSac",
+            "link": "https://www.lovesac.com/sacs/pillowsac-accent-chair/build?cover=indigo-brushstroke-jacquard&frame=brown&straps=black&hardware=gunmetal",
+            "timeAgo": "2026-02-08"
           },
           {
-            "item": "Seven Souls Boys' NYC T-Shirt",
-            "link": "https://www.cookieskids.com/product.aspx?l=00240091022402500000&p=SCO01480",
-            "timeAgo": "2024-06-06"
+            "item": "PillowSac",
+            "link": "https://www.lovesac.com/sacs/pillowsac-accent-chair/build?cover=indigo-brushstroke-jacquard&frame=brown&straps=black&hardware=gunmetal",
+            "timeAgo": "2026-02-08"
           },
           {
-            "item": "https://www.cookieskids.com/product.aspx?l=00240091022404620000&p=FRZ01998",
-            "link": "https://www.cookieskids.com/product.aspx?l=00240091022404620000&p=FRZ01998",
-            "timeAgo": "2024-06-06"
+            "item": "PillowSac",
+            "link": "https://www.lovesac.com/sacs/pillowsac-accent-chair/build?cover=geometric-jacquard-mist&frame=brown&straps=black&hardware=gunmetal",
+            "timeAgo": "2026-02-08"
           },
           {
-            "item": "https://www.cookieskids.com/product.aspx?l=00240091022404620000&p=FRZ01998",
-            "link": "https://www.cookieskids.com/product.aspx?l=00240091022404620000&p=FRZ01998",
-            "timeAgo": "2024-06-06"
-          }
-        ],
-        "orders": [
-          {
-            "orderNumber": "5159753",
-            "orderDate": "2024-05-17",
-            "items": [
-              {
-                "name": "Little Me Baby Girls' 4-Piece Knee-High Socks With Headwraps Set",
-                "price": 3.99,
-                "productLink": "https://www.famousfootwear.com/product/naturalizer-womens-bristol-dress-sandal-5262772/navy-fabric-01861"
-              }
-            ],
-            "total": 104.8,
-            "coupon": "Jordan10",
-            "date_time": "2024-05-17 01:07:48.854"
-          },
-          {
-            "orderNumber": "5159753",
-            "orderDate": "2024-05-17",
-            "items": [
-              {
-                "name": "Delia's Girl Baby Girls' 3-Piece Headband Set Outfit",
-                "price": 9.99,
-                "productLink": "https://www.famousfootwear.com/product/nunn-bush-mens-otto-moc-toe-slip-on-5268991/stone-01375"
-              }
-            ],
-            "total": 104.8,
-            "coupon": "Jordan10",
-            "date_time": "2024-05-17 01:07:48.848"
-          },
-          {
-            "orderNumber": "5159753",
-            "orderDate": "2024-05-17",
-            "items": [
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://www.jackit.com/fue-d54618901757.html"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://www.chairish.com/product/id/12438?utm_content=Home+Accents&utm_medium=text&utm_source=attentive&utm_term=12438"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://www.cassart.co.uk/cass-art-studio-portfolio-a3-grey--c/"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://www.discounthardware.com/villar-home-designs-prefinished-natural-wood-veneer-dark-oak-victoria-wood-door-slab-with-matte-black-inserts-28-x-96"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://store.philamuseum.org/this-or-that/"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://www.factorydirectjewelry.com/mens-collection/yellow-gold-cz-comfort-fit-mens-wedding-band-ring/"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://artbeads.com/jewelry-supplies/fire-polished-bead-4mm-turquoise-ab/"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://echoparkwholesale.com/cbcr137018-designer-solids-navy-yellow/"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://www.cravenspeed.com/the-gemini-phone-mount-for-cadillac-ats-magsafe/"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://premierecollectibles.com/jared-verse-signed-los-angeles-rams-slate-alternate-speed-mini-football-helmet-beckett/"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://www.simplysockyarn.com/fa-hm-casbah-cardamom/"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://www.famousfootwear.com/product/adidas-kids-ultradream-dna-running-shoe-little-kid-5280063/dark-blue-white-orange-12438"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://www.catwalk.com.au/kerasilk-taming-balm-25ml"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://www.alamomusic.com/gibson-sg-special-electric-guitar-ebony/"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://echoparkpaper.com/be-my-valentine-4x6-journaling-cards/"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://touchupdirect.com/shop/touch-up-paint/jaguar-amethyst-blue-metallic-829-jgp/"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://www.greengaskets.com/kairak-gasket-19-1-8-x-20-5-8/"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://www.thrivemarket.com/p/simple-mills-soft-baked-dark-chocolate-coconut-cookies"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://edeninlove.com/swedish-dishcloth-oh-wow-lau-lau/"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://www.seymourshome.com/ugg-w-tazzlita-hardwood-p12438/"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://trendytransfers.com/checkered-happy-face-coral-puff-youth-screen-print-heat-transfer/"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://beautysense.ca/en/pca-skin-brightening-bar.html"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://www.versare.com/hush-panel-configurable-cubicle-partition-6-x-6-w-window-blue-spruce-fabric-clear-window/"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://www.toolnut.com/dewalt-dw49150-3-x-5-8-11-xp-014-carbon-crimp-wire-cup-brush-6-pack.html"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://x-ph.com/bmw-resistor-behr-genuine-bmw-64111366990/"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://www.utvsource.com/ssv-works-polaris-rzr-pro-xp-front-door-speaker-pods/"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://www.evo.com/en-ca/outlet/snowboards/nitro-revolt-sturgis-mid-wide-series-snowboard?image=12438/170732/nitro-revolt-sturgis-mid-wide-snowboard-2007-.jpg"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://www.coolwick.com/product/motiv-plain-black-coolwick-bowling-jersey/"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://ampeduplearning.com/natural-disasters-and-emergencies-legal-size-text-sinking-ships-game/"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://banneroftruth.org/us/store/christian-living/catechizing-children-2/"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://carewell.com/product/cimilre-s5-dual-motor-rechargeable-breast-pump/"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://www.dormco.com/Softest_Dorm_Throw_Blanket_Oversized_Dimensions_p/mbisty-a-full-0003.htm"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://www.festive-lights.com/battery-operated-lit-green-wreath"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://mallmusic.com.au/vu102-polyfoam-tenor-ukulele-case/vu102"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://palmbeachjewelry.com/products/glow-after-dark-by-jennifer-lopez-for-women-eau-de-toilette-spray-3-4-oz.html"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://www.mindgames.ca/funko-pop-movies-starship-troopers-rico-ln-jumpsuit-vinyl-figure/"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://checkout.sportsshoes.com/keen-seacamp-ii-cnx-junior-walking-sandals-kee885/"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://hotrodcameras.com/bongoties-style-d-10-pack-azure/"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://checkout.fascinatingdiamonds.com/loose-diamonds/0-86-carat-round-cut-diamond-1253358/"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://liquorama.net/leopold-bros-new-york-apple-flavored-whiskey-750ml.html"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://livecarmodel.com/products/skill-2-model-kit-garage-accessory-set-1-with-figurine-weekend-wrenchin-1-25-scale-model-by-amt.html"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://www.rcsuperstore.com/traxxas-sledge-hardware-kit/"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://www.napacabs.com/sutter-home-fre-alcohol-removed-california-moscato-nv.html"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://www.prioritytire.com/en/kumho-ecsta-ps91-265-35r20-zr-99y-xl"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://www.myotcstore.com/store/p/5239-Loreal-Telescopic-Precision-Liquid-Eyeliner-Brown-3-Ea"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://www.cherrybrook.com/k-9-dryer-accessories-066w-wide-concentrator-and-connector/"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://shop.loriwhitlock.com/birthday-bunny-with-balloon/"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://dailysteals.com/products/electric-teppanyaki-table-top-nonstick-bbq-grill.html"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://www.superbselection.com/thomas-rhett-front-porch-junkie-adult-t-shirt/"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://www.eztestpools.com/gli-promesh-16-x-32-4x8-ctr-rect-blue-inground-safety-cover/"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://francescas.com/product/LLE386-34NC/peace-rainbow-neon-sign"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://checkout.super.com/products/call-of-duty-ghosts-tactical-versatile-paracord-strap-bracelet/"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://www.misfitsmarket.com/shop/aisle?addToCart=12438"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://www.macofalltrades.com/fair-condition-apple-macbook-pro-13-inch-2-7ghz-core-i7-mid-2018-space-gray-mr9q2ll-a-bto-3/"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://www.bestpricenutrition.com/clearance-finaflex-oatmeal-protein-pie-marshmallow-2-2lbs-tub-exp-12-2023/"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://www.beautyplussalon.com/eco-tools-boho-luxe-mini-set"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://cart.avery.com/matte-white-paper-laser-inkjet-no-precut-94202-1767829044.html"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://www.keylessentryremotefob.com/new-aftermarket-pontiac-key-fob-replacement-4-button-15252034-kobgt04a/"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://www.seriouspuzzles.com/the-good-shepherd-by-nathan-greene-small-box-1000pc-jigsaw-puzzle-by-eurographics-discon/"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://cheapfood.co.uk/mr-porky-hand-cooked-scratchings-40g/"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://csd.shop/products/women/accessories/dolce---gabbana-purple-dg4160-sunglasses.html"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://store.franklinplanner.com/marker-zipper-storage-case/"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://knifeworks.com/blackjack-classic-blades-model-1-7-antique-ivory-micarta-leather-sheath/"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://www.beercartel.com.au/bentspoke-muthur-funker-barrel-aged-sour-375ml-can/"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://strathfieldcarradios.com.au/alpine-kwe-dy01g6-sound-system-adapter/"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://www.seriousshops.com/natural-tranquility-300pc-jigsaw-puzzle-by-sunsout/"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://eknives.com/zero-tolerance-sinkevich-0450-titanium-flipper-knife-3-25-satin-drop-point-0450/"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://www.petflow.com/product/glofish/glofish-plant-large-green-yellow-tank-accessory/"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://www.bwear.com/plain-richardson-112-trucker-cap-dark-green-yellow/"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://replacebase1.evdpl.com/pub/default/for-huawei-honor-20-pro-replacement-dual-sim-card-tray-gold-oem.html"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://lapolicegear.com/511-12438-at8-arid-sz-boot.html?sku=12438_013"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://sagaconcepts.com/24-01-16-mtg-afternoonedh-casual/"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://www.anniesattic.com/sports-coasters-plastic-canvas-patterns-digital-download"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://www.homeshoppingmalls.com/series-a-2-drawer-mobile-file-cabinet-in-natural-cherry-slate-bush-furniture-wc57452psu"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://www.modainpelle.com/boots-c4/knee-high-boots-c33/hanah-black-patent-mocc-croc-p12438"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://macks-prairie-wings-inc-alb.mybigcommerce.com/hornady-precision-hunter-270-win-145-gr-eld-x/"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://www.antiquefarmhouse.com/aged-pine-balustrade-table-ships-free.html"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://www.judybluewholesale.com/82570pl-14w-24w-bk-24w.html"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://www.vitalitymedical.com/20090314-12438.html"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://www.evo.com/outlet/snowboards/nitro-revolt-sturgis-mid-wide-series-snowboard?image=12438/170732/nitro-revolt-sturgis-mid-wide-snowboard-2007-.jpg"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://www.lightopia.com/Details/CapitalLighting-Lexi/12438"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://www.highflowfuel.com/quantum-efi-fuel-pump-for-mv-agusta-brutale-1090rr-efi-2010-2013-replaces-8000b1958/"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://www.lafurniturestore.com/943-modern-italian-leather-sofa-set.html"
-              },
-              {
-                "name": "Princess Rose Baby Girls' 6-Pack Fancy Socks",
-                "price": 5.99,
-                "productLink": "https://watchwarehouse.com/cartier-havana-brown-lens-53-17mm-womens-sunglasses-t8200155/"
-              }
-            ],
-            "total": 104.8,
-            "coupon": "Jordan10",
-            "date_time": "2024-05-17 01:07:48.835"
-          },
-          {
-            "orderNumber": "5159753",
-            "orderDate": "2024-05-17",
-            "items": [
-              {
-                "name": "Sweet & Soft Baby Girls' 2-Piece Sea flower Rash Guard Swim Set",
-                "price": 6.99,
-                "productLink": "https://www.famousfootwear.com/product/splendid-womens-susana-sandal-5276603/black-02114"
-              }
-            ],
-            "total": 104.8,
-            "coupon": "Jordan10",
-            "date_time": "2024-05-17 01:07:48.832"
-          },
-          {
-            "orderNumber": "5159753",
-            "orderDate": "2024-05-17",
-            "items": [
-              {
-                "name": "Hanes Baby 2-Pack Coveralls",
-                "price": 4.97,
-                "productLink": "https://www.famousfootwear.com/product/eastland-womens-dawn-oxford-5274481/black-01244"
-              }
-            ],
-            "total": 104.8,
-            "coupon": "Jordan10",
-            "date_time": "2024-05-17 01:07:48.831"
+            "item": "PillowSac",
+            "link": "https://www.lovesac.com/sacs/pillowsac-accent-chair/build?cover=geometric-jacquard-mist&frame=brown&straps=black&hardware=gunmetal",
+            "timeAgo": "2026-02-08"
           }
         ]
       },
@@ -689,387 +1365,111 @@
       "blocklisted_words": [],
       "has_shopify": false
     },
-    "33": {
-      "id": "019c5f3d-4367-4f35-f000-0000f9bbb430",
-      "companyName": "Hot Topic",
-      "companyWebsite": "https://hottopic.com",
+    "35": {
+      "id": "019c68c3-3854-49d8-f000-00009068b123",
+      "companyName": "Blissy",
+      "companyWebsite": "https://blissy.com",
       "agentName": "Sarah",
       "messageTone": "Polished",
       "conversation": [
         {
           "message_media": [],
-          "message_text": "Hot Topic: Reply Y to subscribe to recurring promotional and personalized marketing alerts (including but not limited to cart reminders) from Hot Topic.",
+          "message_text": "Blissy: Wow.. you wont believe what just got unlocked hehe.\n\nCode: blissyvday2026vip\n\nGO: https://blissy.attn.tv/aTxIwcTIjFBS ",
           "message_type": "system",
-          "date_time": "2026-02-07 08:27:51.966"
+          "date_time": "2026-01-18 19:40:37.154"
         },
         {
           "message_media": [],
-          "message_text": "Hot Topic: Reply Y to subscribe to recurring promotional and personalized marketing alerts (including but not limited to cart reminders) from Hot Topic.",
+          "message_text": "Blissy: Did you see the new launch ?\n\nI bet you missed them. and they are 60% off\n\nCheck out the Latest 3: https://blissy.attn.tv/aiB599dVzWgN . ",
           "message_type": "system",
-          "date_time": "2026-02-07 16:31:10.828"
+          "date_time": "2026-01-20 19:20:27.041"
         },
         {
           "message_media": [],
-          "message_text": "Hot Topic: Welcome! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
+          "message_text": "Blissy: Oooo yeah.. Turned it on for another 24 Hours!\n\n60% off - You don't wanna miss this one\n\nHere we GO: https://blissy.attn.tv/azUPQr_zHJLN . ",
           "message_type": "system",
-          "date_time": "2026-02-07 18:16:12.791"
+          "date_time": "2026-02-04 20:40:32.302"
         },
         {
           "message_media": [],
-          "message_text": "Hot Topic: HT Rewards is the BEST way to save on merch! Earn points & SAVE, plus get birthday rewards, Hot Cash tracking & more. hottopic.attn.tv/at5HoLL9A7_d .",
+          "message_text": "Blissy: It's never to late for VDAY\n\nOoyeah.. Turned it on for another 24 Hours!\n\n60% off - don't wanna miss this!\n\nGO: https://blissy.attn.tv/aP1-nSUhaKDU . ",
           "message_type": "system",
-          "date_time": "2026-02-10 18:16:24.138"
+          "date_time": "2026-02-11 13:25:26.481"
         },
         {
           "message_media": [],
-          "message_text": "Hot Topic: Hi, friend! Add us to your contacts ASAP so you never miss our messages. That means more exclusive deals & drops in your inbox!",
+          "message_text": "Blissy: It's President's day and i'm doin something extra special...\n\nI turned on the VDAY MASSIVE sale again.. because the president's day one wasnt as big. \n\nYou're welcome =)\n\n60% off - don't wanna miss this!\n\nGO: https://blissy.attn.tv/aAjL50ojBHrg . ",
           "message_type": "system",
-          "date_time": "2026-02-11 18:16:30.051"
+          "date_time": "2026-02-16 17:55:23.605"
         },
         {
           "message_media": [],
-          "message_text": "I did add u to my contacts bestie",
+          "message_text": "Blissy: Hey Sandi, thanks for stopping by!\n\nCozy picks for Personal Care await: https://blissy.attn.tv/aElXWLDKbjdI .",
+          "message_type": "system",
+          "date_time": "2026-02-16 18:13:45.636"
+        },
+        {
+          "message_media": [],
+          "message_text": "I bought a standard pillowcase and am sad to say it is falling apart on the zipper end. Could you please replace it with a new one?",
           "message_type": "customer",
-          "date_time": "2026-02-12 21:27:49.734"
+          "date_time": "2026-02-16 18:15:50.650"
         },
         {
           "message_media": [],
-          "message_text": "Hot Topic: We appreciate that! Do you have any questions for me while I still have you? \n\nIn the meantime, feel free to explore our new arrivals here: https://hottopic.attn.tv/aq7-j6n-A7RV/",
+          "message_text": "Template used: \"Return policy\"; last updated: 2024-03-15 00:30:15.599",
+          "message_type": "template",
+          "date_time": "2026-02-16 18:22:30.377"
+        },
+        {
+          "message_media": [],
+          "message_text": "Blissy: Thanks for reaching out, and I'm sorry to hear that! Could you please let me know when you purchased the pillowcase? That way, I would be able to assist you further with this.\n\nLet me know how that goes.",
           "message_type": "agent",
-          "agent": "35256",
-          "message_id": "019c54d4-4aa3-4b14-f000-0000f9bbb430",
-          "date_time": "2026-02-12 21:28:44.870"
-        },
-        {
-          "message_media": [],
-          "message_text": "Do u guys have pride merch",
-          "message_type": "customer",
-          "date_time": "2026-02-13 06:40:48.834"
-        },
-        {
-          "message_media": [],
-          "message_text": "Hot Topic: Sorry for the delayed response! You can check some of our pride merch here: https://hottopic.attn.tv/a80PxFoMbMhp",
-          "message_type": "agent",
-          "agent": "109955",
-          "message_id": "019c573c-341a-4621-f000-0000f9bbb430",
-          "date_time": "2026-02-13 08:41:29.280"
-        },
-        {
-          "message_media": [],
-          "message_text": "I'm having trouble logging back into my account. My Gmail is Addison.Wiltrout5@gmail.com but the email isn't sending can I have some help please?",
-          "message_type": "customer",
-          "date_time": "2026-02-14 20:49:31.994"
-        },
-        {
-          "message_media": [],
-          "message_text": "Hot Topic: Sorry for the trouble. Is that the same email you used to register? If you don't see it in your inbox, be sure to check your spam and promo folders, sometimes our emails end up there as well. ",
-          "message_type": "agent",
-          "agent": "30890",
-          "message_id": "019c5f20-5283-41eb-f000-0000f9bbb430",
-          "date_time": "2026-02-14 21:27:59.782"
-        },
-        {
-          "message_media": [],
-          "message_text": "Yes! I got it to work!!! Yay! Do you guys have any shark themed things? Because I LOVE blåhaj!!!",
-          "message_type": "customer",
-          "date_time": "2026-02-14 21:30:11.968"
-        },
-        {
-          "message_media": [],
-          "message_text": "Hot Topic: That is great to hear. You may check our Shark themed items here: https://hottopic.attn.tv/aCaDYq34lpNN\nYou may also want to check our sale collection to get ideas for your next purchase here: https://hottopic.attn.tv/aMgxvQQSJdlI/\n\nIf you have any other questions in the future, don't hesitate to reach out. ",
-          "message_type": "agent",
-          "agent": "82260",
-          "message_id": "019c5f3d-4367-4f35-f000-0000f9bbb430",
-          "date_time": "2026-02-14 21:59:36.453"
+          "agent": "109617",
+          "message_id": "019c68c3-3854-49d8-f000-00009068b123",
+          "date_time": "2026-02-16 18:22:30.380"
         }
       ],
       "notes": {
         "send_to_cs": [
-          "No ESC for this client, send everything to CS!"
+          "No ESC for this client, send everything to CS"
         ],
-        "dos_and_don_ts": [
+        "tone": [
           "Close the convo once the client takes over!"
-        ],
-        "promo_and_promo_exclusions": [
-          "Welcome code & promotion terms and conditions: https://www.hottopic.com/details/?viewType=desktop"
         ]
       },
       "rightPanel": {
         "source": {
           "label": "Website",
-          "value": "https://hottopic.com",
+          "value": "https://blissy.com",
           "date": ""
         },
         "browsingHistory": [
           {
-            "item": "Studio Ghibli Spirited Away Soot Sprites Candy Drop Earrings | Hot Topic",
-            "link": "https://www.hottopic.com/product/studio-ghibli-spirited-away-soot-sprites-candy-drop-earrings/16816889.html",
-            "timeAgo": "2026-02-15"
+            "item": "Pillowcase - Champagne Ombre - King",
+            "link": "https://blissy.com/products/pillowcase-champagne-ombre-king",
+            "timeAgo": "2025-09-13"
           },
           {
-            "item": "Shark Biting Earrings | Hot Topic",
-            "link": "https://www.hottopic.com/product/shark-biting-earrings/20285094.html",
-            "timeAgo": "2026-02-15"
-          }
-        ],
-        "orders": [
+            "item": "Pillowcase - Champagne Ombre - King",
+            "link": "https://blissy.com/products/pillowcase-champagne-ombre-king",
+            "timeAgo": "2025-09-13"
+          },
           {
-            "orderNumber": "DH2506813185",
-            "orderDate": "2026-02-07",
-            "items": [
-              {
-                "name": "Sweet Society Rainbow Slug Drop Earrings",
-                "price": 9.9,
-                "productLink": "https://www.replacements.com/collectibles-m-i-hummel-madonna-with-halo-tm2-madonna-with-halo-no-box/p/34075011"
-              },
-              {
-                "name": "Shark Biting Earrings",
-                "price": 3.95
-              },
-              {
-                "name": "Cosmic Aura Bling Star Hoop Earring Set",
-                "price": 11.5
-              }
-            ],
-            "total": 36.01,
-            "date_time": "2026-02-07 21:44:00.825"
-          }
-        ]
-      },
-      "escalation_preferences": [],
-      "blocklisted_words": [],
-      "has_shopify": false
-    },
-    "34": {
-      "id": "019c495f-9808-4ceb-f000-0000fa1a3b0c",
-      "companyName": "Birkenstock",
-      "companyWebsite": "https://birkenstock.com",
-      "agentName": "Taylor",
-      "messageTone": "Polished",
-      "conversation": [
-        {
-          "message_media": [],
-          "message_text": "Birkenstock: Welcome to Birkenstock! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel. Privacy: attnl.tv/p/8y2",
-          "message_type": "system",
-          "date_time": "2026-02-08 19:55:13.644"
-        },
-        {
-          "message_media": [],
-          "message_text": "Birkenstock: CLICK ON THE LINK to reveal your FREE GROUND SHIPPING CODE, good for your next full price purchase:\n\nhttps://birkenstock.attn.tv/aVi2bvdYdzjV\n\nWelcome to the family!",
-          "message_type": "system",
-          "date_time": "2026-02-08 19:55:15.465"
-        },
-        {
-          "message_media": [],
-          "message_text": "Birkenstock: Oh, also, a lot of people like getting personal recs from us. Over the next few days we'll try to help you find something that you will love.\n\nDid you know we have exclusive versions of our top sellers that you can't get in stores? Check them out now: https://birkenstock.attn.tv/aJeTZUisYFfZ .",
-          "message_type": "system",
-          "date_time": "2026-02-08 19:56:24.943"
-        },
-        {
-          "message_media": [],
-          "message_text": "Birkenstock: Shop your Boston Soft Footbed Suede Clog with its cushioned footbed and flexible EVA sole for all-day comfort\n\nUse code ATSHIP-3HVR-MFSP-BHDM-W2VB9 for free ground shipping on full-priced items: https://birkenstock.attn.tv/a-edS-P_G4rN .",
-          "message_type": "system",
-          "date_time": "2026-02-08 20:14:22.732"
-        },
-        {
-          "message_media": [],
-          "message_text": "Birkenstock: Final call for Mauve before it leaves our collection. Shop Last Chance colors at a special price: birkenstock.attn.tv/aIDEhhj5CfNS .",
-          "message_type": "system",
-          "date_time": "2026-02-09 11:11:07.909"
-        },
-        {
-          "message_media": [],
-          "message_text": "Birkenstock: Discover the Buckley clog in fresh hues, highlighting every detail. https://birkenstock.attn.tv/aDOCGo355l4T .\nQuestions? Reply back. -Taylor",
-          "message_type": "system",
-          "date_time": "2026-02-09 14:43:36.761"
-        },
-        {
-          "message_media": [],
-          "message_text": "Birkenstock: Hello, Slipper Season. Get the warm & fuzzies with Zermatt. Shop new prints & colors: birkenstock.attn.tv/aVEDyPJbGHuT .\n\nQuestions? Text back.",
-          "message_type": "system",
-          "date_time": "2026-02-09 14:49:54.213"
-        },
-        {
-          "message_media": [],
-          "message_text": "Birkenstock: Over 20K people have recently viewed Boston Soft Footbed Suede Clog.\n\nUse code ATSHIP-3HVR-MFSP-BHDM-W2VB9 for free ground shipping on full-priced items. Free returns for 30 days.\n\nShop now: https://birkenstock.attn.tv/a6lim5D8QHXu .",
-          "message_type": "system",
-          "date_time": "2026-02-09 20:14:32.216"
-        },
-        {
-          "message_media": [],
-          "message_text": "Birkenstock: Hi, it's Taylor. I'm a personal concierge here to help you find the perfect pair of Birkenstocks. Is there anything I can help you with today?\n\nhttps://birkenstock.attn.tv/aRsg26pfbZiC .",
-          "message_type": "system",
-          "date_time": "2026-02-10 14:52:44.718"
-        },
-        {
-          "message_media": [],
-          "message_text": "When will I be receiving my brikenstocks?",
-          "message_type": "customer",
-          "date_time": "2026-02-10 16:02:44.393"
-        },
-        {
-          "message_media": [],
-          "message_text": "Template used: \"Shipping time\"; last updated: 2023-10-27 20:11:17.329",
-          "message_type": "template",
-          "date_time": "2026-02-10 16:05:27.582"
-        },
-        {
-          "message_media": [],
-          "message_text": "Template used: \"Order status/order tracking\"; last updated: 2023-10-27 20:40:45.884",
-          "message_type": "template",
-          "date_time": "2026-02-10 16:05:27.582"
-        },
-        {
-          "message_media": [],
-          "message_text": "Birkenstock: Thanks for getting in touch! Our processing time takes 1-2 business days, and we usually ship via UPS. Once shipped it will take 2-5 business days for domestic orders. You can use our convenient online tool to see the latest updates on your order: https://birkenstock.attn.tv/apXm_QUzkXwI Hope this helps! Should you need help with anything else, I'm only a message away!",
-          "message_type": "agent",
-          "agent": "109840",
-          "message_id": "019c495f-9808-4ceb-f000-0000fa1a3b0c",
-          "date_time": "2026-02-10 16:05:27.585"
-        }
-      ],
-      "notes": {
-        "escalate": [
-          "For all pre-purchase and post purchase ESC always include the customers full name in the notes",
-          "Don't ESC if they get an error with the fs code while logged in"
-        ],
-        "templates": [
-          "For free shipping retroactive code requests, use SRP shortcut",
-          "For holiday/extended returns - use the template"
-        ],
-        "dos_and_don_ts": [
-          "Close the convo once the client takes over",
-          "🤖 If someone sends a product category, link them to the category and ask if they are looking for something specific"
-        ]
-      },
-      "rightPanel": {
-        "source": {
-          "label": "Website",
-          "value": "https://birkenstock.com",
-          "date": ""
-        },
-        "browsingHistory": [
+            "item": "Pillowcase - Silver - King",
+            "link": "https://blissy.com/products/pillowcase-silver-king",
+            "timeAgo": "2025-09-13"
+          },
           {
-            "item": "Buy Boston Soft Footbed Suede Leather for USD 169.95 | Birkenstock US",
-            "link": "https://www.birkenstock.com/us/boston-soft-footbed-suede-leather/boston-suede-suedeleather-softfootbed-eva-u_46.html",
-            "timeAgo": "2026-02-09"
+            "item": "Pillowcase - Silver - King",
+            "link": "https://blissy.com/products/pillowcase-silver-king",
+            "timeAgo": "2025-09-13"
+          },
+          {
+            "item": "Pillowcase - Silver - Queen",
+            "link": "https://blissy.com/products/pillowcase-silver-queen",
+            "timeAgo": "2025-09-13"
           }
         ]
-      },
-      "escalation_preferences": [
-        "Shipping codes"
-      ],
-      "blocklisted_words": [],
-      "has_shopify": false
-    },
-    "35": {
-      "id": "019c4a0c-c5a2-4ea3-f000-0000f7ef36fe",
-      "companyName": "Darc Sport",
-      "companyWebsite": "https://shop.darcsport.com",
-      "agentName": "",
-      "messageTone": "Polished",
-      "conversation": [
-        {
-          "message_media": [],
-          "message_text": "Darc Sport: Welcome to Darc Sport! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
-          "message_type": "system",
-          "date_time": "2026-02-04 18:23:18.403"
-        },
-        {
-          "message_media": [],
-          "message_text": "Darc Sport: Thank you for signing up. Wolves Forever. NFGU https://darcsport.attn.tv/aw22_NUsQKG8 ",
-          "message_type": "system",
-          "date_time": "2026-02-04 18:23:22.407"
-        },
-        {
-          "message_media": [],
-          "message_text": "Darc Sport: Don't forget to save our contact to be notified for exclusive drops, early access passwords, weekly affirmations, future events and more.",
-          "message_type": "system",
-          "date_time": "2026-02-04 18:23:23.604"
-        },
-        {
-          "message_media": [],
-          "message_text": "Darc Sport: DSDD - Day 5 \n\nCollection 1 drops in minutes. \n\nEvery drop this week sold out fast. \nToday will be measured in minutes.\n\nGo to darcsport.attn.tv/amiqJpJFWJy- ",
-          "message_type": "system",
-          "date_time": "2026-02-05 14:58:32.325"
-        },
-        {
-          "message_media": [],
-          "message_text": "Darc Sport: DSDD - DAY 6 MONOPOLY\n\n24 HOURS ONLY! \n \n SHOP NOW: darcsport.attn.tv/aZmKuT822gkU ",
-          "message_type": "system",
-          "date_time": "2026-02-06 15:06:32.599"
-        },
-        {
-          "message_media": [],
-          "message_text": "Darc Sport: DSDD - DAY 7 \n\nPUNISHER - LIVE \n\nYou have minutes. Not hours. \n \nGet Punisher: darcsport.attn.tv/aOoei6AgL1lE ",
-          "message_type": "system",
-          "date_time": "2026-02-07 14:57:56.941"
-        },
-        {
-          "message_media": [],
-          "message_text": "Darc Sport: Punisher sold out at Noon.\nCancelled orders reopened - limited inventory.\n\nThis isn't a restock. When it's gone, it's gone.\n \nShop now darcsport.attn.tv/aJxN59MAJo6o ",
-          "message_type": "system",
-          "date_time": "2026-02-07 20:55:50.690"
-        },
-        {
-          "message_media": [],
-          "message_text": "Darc Sport: DSDD DAY 9\nDARTH VADER - LIVE\n\nEvery DSDD drop.\nSold out in minutes.\n\nNot hours.\nMinutes.\n\nShop Darth Vader → darcsport.attn.tv/aCTL4UMsjwNb ",
-          "message_type": "system",
-          "date_time": "2026-02-08 14:57:07.815"
-        },
-        {
-          "message_media": [],
-          "message_text": "Darc Sport: DSDD DAY 9\nSTONE COLD - LIVE\n\nSells out in minutes.\nNot hours.\n\nShop Stone Cold → darcsport.attn.tv/aZszF0aKs-wt ",
-          "message_type": "system",
-          "date_time": "2026-02-09 14:57:51.867"
-        },
-        {
-          "message_media": [],
-          "message_text": "Darc Sport: Stone Cold.\nFound Units at 6PM.\nDon't blink.\n \nShop darcsport.attn.tv/aaPmw5q7xMJA ",
-          "message_type": "system",
-          "date_time": "2026-02-09 20:55:54.861"
-        },
-        {
-          "message_media": [],
-          "message_text": "Darc Sport: DSDD - DAY 10 SCARFACE - LIVE\n\nSells out in minutes.\nNot hours.\n \nShop Scarface →\ndarcsport.attn.tv/aBtZ2gKc0r5Z \n",
-          "message_type": "system",
-          "date_time": "2026-02-10 14:57:44.769"
-        },
-        {
-          "message_media": [],
-          "message_text": "I got a question",
-          "message_type": "customer",
-          "date_time": "2026-02-10 19:06:50.238"
-        },
-        {
-          "message_media": [],
-          "message_text": "How much will the Carnage oversized tee cost for day 11",
-          "message_type": "customer",
-          "date_time": "2026-02-10 19:07:40.346"
-        },
-        {
-          "message_media": [],
-          "message_text": "Darc Sport: Hi, thanks for reaching out. Unfortunately, I don't have the details on the Day 11 pricing yet. It's best to keep an eye out for updates so you don't miss it!",
-          "message_type": "agent",
-          "agent": "109630",
-          "message_id": "019c4a0c-c5a2-4ea3-f000-0000f7ef36fe",
-          "date_time": "2026-02-10 19:14:36.988"
-        }
-      ],
-      "notes": {
-        "send_to_cs": [
-          "No ESC for this client, send everything to CS!"
-        ],
-        "templates": [
-          "For lost, stolen, or damaged orders, use DMI shortcut"
-        ]
-      },
-      "rightPanel": {
-        "source": {
-          "label": "Website",
-          "value": "https://shop.darcsport.com",
-          "date": ""
-        }
       },
       "escalation_preferences": [],
       "blocklisted_words": [],

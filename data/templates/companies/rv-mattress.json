@@ -1,0 +1,361 @@
+{
+  "companyKey": "rv mattress",
+  "templates": [
+    {
+      "name": "Shipping time",
+      "content": "Our mattresses and toppers are made to order, and due to the increased volume of orders we are receiving, production times currently range from 3 to 8 business days before shipping out. Once your order has shipped, we will send you a shipping confirmation email with a FedEx ground tracking number and an estimated delivery date. FedEx will take 3-7 business days for domestic orders.",
+      "id": "5e24de2a-7ae7-4eab-b23c-39af4dc7c32d",
+      "shortcut": "shp",
+      "companyName": "RV Mattress"
+    },
+    {
+      "name": "Do you offer any foldable or inged mattresses?",
+      "content": "I'm afraid we do not have any foldable or hinged mattresses.",
+      "id": "efeaa37b-df9e-4d49-9184-b166136ca647",
+      "companyName": "RV Mattress"
+    },
+    {
+      "name": "Return policy",
+      "content": "You can check out our detailed return policy here: https://rvmattress.com/pages/return-policy",
+      "id": "7dbdb6b5-6889-468d-aba6-42bf08cf5050",
+      "shortcut": "rp",
+      "companyName": "RV Mattress"
+    },
+    {
+      "name": "Warranty policy",
+      "content": "You can take a look at our full warranty policy here: https://rvmattress.com/pages/warranty-policy",
+      "id": "440d2231-dc84-402f-8e6b-419202d83619",
+      "shortcut": "wp",
+      "companyName": "RV Mattress"
+    },
+    {
+      "name": "Cancel / edit order",
+      "content": "I can check if that's possible. What's the order number, email address and the change you'd like to make?",
+      "id": "d29551c9-1da7-422c-8f04-4f446669a3d7",
+      "shortcut": "ced",
+      "companyName": "RV Mattress"
+    },
+    {
+      "name": "Wholesale inquiries",
+      "content": "Thank you for your interest! The best way to discuss wholesale is to contact us via this link: https://support.rvmattress.com/hc/en-us/requests/new Our team is happy to chat.",
+      "id": "094f0a22-aca7-40a8-989c-a61783f44853",
+      "shortcut": "wls",
+      "companyName": "RV Mattress"
+    },
+    {
+      "name": "Store location / retailer",
+      "content": "We don't currently have a store but definitely keep an eye out!",
+      "id": "e0fbfa6d-a973-4fe7-b81d-df031612a6a7",
+      "shortcut": "sl",
+      "companyName": "RV Mattress"
+    },
+    {
+      "name": "How high are your foundations? How much storage is under the foundation?",
+      "content": "Our foundations vary in height depending on the type of foundation. You can take a look at the heights and available clearance space for each of our foundations here: https://prnt.sc/Zs4PAAy_P1V4",
+      "id": "ae62352d-300b-49bf-ae5b-e54b576b4ee4",
+      "companyName": "RV Mattress"
+    },
+    {
+      "name": "Do you use any chemical fire retardants (FR) in your mattresses?",
+      "content": "We don't use chemical fire sprays or chemical retardants in our mattresses. We do use the highest quality fire retardant socks - a fabric made of a non-woven silica/rayon/polyester/cotton blend.",
+      "id": "7b14e87e-9976-4974-8b19-e7c0a4b851cc",
+      "companyName": "RV Mattress"
+    },
+    {
+      "name": "Is the mattress protector hypoallergenic?",
+      "content": "Yes, the mattress protector is made of cotton terry, which is designed to be both easy care and hypo-allergenic.",
+      "id": "24fac1ce-da13-4fe8-8880-d588c23f981c",
+      "companyName": "RV Mattress"
+    },
+    {
+      "name": "How do I choose the correct loft for my pillow?",
+      "content": "As a general rule, side sleepers require higher loft; stomach sleepers require lower loft; back and combination sleepers have the latitude to choose high or low loft, depending on preference. Check out our blog here for more tips: https://brooklynbedding.com/blog/the-best-types-of-pillows-for-back-side-and-stomach-sleepers",
+      "id": "4547b751-07de-4cf1-838a-2e96385bacbb",
+      "companyName": "RV Mattress"
+    },
+    {
+      "name": "Military / First responder / Healthcare / Teacher discount",
+      "content": "Thank you for your service! Simply look for the ID.me verification in your cart as you complete your order. Click the \"Verify\" button and follow the steps!",
+      "id": "e1a7cfea-0ba2-4713-8c56-a4e66b03761b",
+      "shortcut": "ms",
+      "companyName": "RV Mattress"
+    },
+    {
+      "name": "Does your trial period include sleep accessories?",
+      "content": "Our 120-night trial applies to mattresses only. Sheets, mattress protectors, and pillows can be returned within 30 days from the date of delivery for a full refund.",
+      "id": "56a657d7-eff2-4ce1-831b-9ba19f7636c3",
+      "companyName": "RV Mattress"
+    },
+    {
+      "name": "Do you offer White Glove Delivery?",
+      "content": "We don't offer White Glove Delivery. We believe it's an expensive add-on that is not necessary with compressed mattresses.",
+      "id": "29a52d0b-cfbe-4062-8a80-01fea2c6fc11",
+      "companyName": "RV Mattress"
+    },
+    {
+      "name": "How does the 120-night trial period work?",
+      "content": "We are confident we have made the best bedding products, so we back them with a generous trial period of 120 nights! We do require that you try your new mattress for at least 30 days from the date of delivery. This gives you ample time to properly adjust to the new materials. The trial date begins when you receive your mattress and can only be used once per customer per calendar year.",
+      "id": "811340be-4a69-4151-9813-bf548a112103",
+      "companyName": "RV Mattress"
+    },
+    {
+      "name": "How long does it take to receive my refund?",
+      "content": "After your product is donated or returned, feel free to call us to expedite your refund. We will credit the card you used at the time of your purchase or process your refund via Affirm.com. Credit card refunds can take 3 to 4 business days to show up in your account depending on your banking institution. PayPal refunds are immediately transferred into your account. In some situations, we may need to issue refunds via paper check through U.S. mail, but this is typically due to a change in account information or delayed processing.",
+      "id": "db3c2983-c7f5-4ae7-ab48-bff6392a03c5",
+      "companyName": "RV Mattress"
+    },
+    {
+      "name": "Brand ambassador / sponsorship / affiliate program",
+      "content": "Thank you for your interest! The best way to discuss this is to contact us via this link: https://support.rvmattress.com/hc/en-us/requests/new Our team is happy to chat.",
+      "id": "36d5c33f-f3fc-4257-8b55-b41965cb6183",
+      "shortcut": "ams",
+      "companyName": "RV Mattress"
+    },
+    {
+      "name": "How do I set up my mattress?",
+      "content": "Setting up your mattress is easy! Simply take the mattress out of the box and lay it on the front of your bed frame. Carefully unwrap or carefully cut the plastic cover to allow for decompression of your mattress. This can take a few minutes to fully decompress.\n\nNote that while the majority of decompression occurs within the first few minutes of unboxing, decompression does continue for up to 24 hours after unwrapping.",
+      "id": "a3a97635-726c-4a03-9533-9ca9825305e6",
+      "companyName": "RV Mattress"
+    },
+    {
+      "name": "Social media",
+      "content": "Give us a follow on FB here: https://www.facebook.com/BrooklynBedding",
+      "id": "addd92a1-f098-4f5e-84c2-18854d96f254",
+      "shortcut": "smd",
+      "companyName": "RV Mattress"
+    },
+    {
+      "name": "How long does it take for my mattress to air out?",
+      "content": "For best results, we recommend allowing your mattress to sit between 3 to 5 hours before laying on it. Keep in mind the natural odor in your mattress may take up to 24 hours after unpacking to entirely dissipate.",
+      "id": "046a2af2-9fe1-40a5-b07e-054bb32ca02c",
+      "companyName": "RV Mattress"
+    },
+    {
+      "name": "Do I need a box foundation for your mattress?",
+      "content": "Any type of support system that provides minimal to no flex will work with our mattress. This includes most platform, slat, and box spring foundations. If you need a foundation for your new mattress, check out our foundations specifically designed for Brooklyn Bedding mattresses here: https://rvmattress.com/collections/foundations",
+      "id": "434ac834-262a-435b-afe0-19a9d97a5899",
+      "companyName": "RV Mattress"
+    },
+    {
+      "name": "Will your products have that \"factory\" smell?",
+      "content": "There is a natural scent when unpacking our mattress for the first time. This smell will dissipate within a few hours when well ventilated.",
+      "id": "f821fda6-d216-48d4-a19e-53d9604e6ae2",
+      "companyName": "RV Mattress"
+    },
+    {
+      "name": "What is your return policy for accessories?",
+      "content": "Sheets, mattress protectors, toppers, and pillows can be returned within 30 days from the date of delivery for a full refund. In this case, we ask that you package the merchandise, contact us at support@brooklynbedding.com with package dimensions so we can email over a prepaid shipping label to have the merchandise shipped back to our facility at no charge to you.",
+      "id": "7c026d99-368d-4ac7-bb67-f1b66ac9f34f",
+      "companyName": "RV Mattress"
+    },
+    {
+      "name": "How long does it take for my mattress to break in?",
+      "content": "It typically takes around 30 to 45 nights for your mattress to entirely break in, and the same amount of time for your body to adjust to the sensation of a new mattress. Over this period of time, your mattress will reach its optimal softness and allow full aeration.",
+      "id": "9d41becf-e5a1-4622-9c5f-fb2e6bed8568",
+      "companyName": "RV Mattress"
+    },
+    {
+      "name": "Do you ship to Canada?",
+      "content": "Yes, we now offer DHL shipping to Canada. Shipping starts at $250 for a single mattress. For a custom quote or a different quantity, please give us a call at \n1-623-624-1222.",
+      "id": "4ae467ee-e2da-4bbd-a911-80fcce9bf25f",
+      "companyName": "RV Mattress"
+    },
+    {
+      "name": "Can I use the box spring on top of the high rise platform foundation?",
+      "content": "This comes down to personal preference. While it is certainly possible to use a box spring on top of the High Rise Platform foundation, the platform can support either a mattress on its own or a mattress with a box spring.",
+      "id": "9d943371-48a0-4256-8037-310a5ab4ce1f",
+      "companyName": "RV Mattress"
+    },
+    {
+      "name": "Does the Bi-Fold foundation come with a frame?",
+      "content": "We do not currently sell the Bi-Fold foundation with a frame. The frame must be purchased separately.",
+      "id": "09b30c0a-cea9-4a4d-abec-31cbc2fa71fa",
+      "companyName": "RV Mattress"
+    },
+    {
+      "name": "Is the mattress protector a full encasement?",
+      "content": "The mattress protector fits like a fitted sheet and therefore is not a full encasement. Made from cotton terry, the mattress protector is designed to be easily machine washable and breathable, distinct from a mattress encasement.",
+      "id": "9e9079d8-a18a-4d2a-9753-ef192d9da2f7",
+      "companyName": "RV Mattress"
+    },
+    {
+      "name": "Will the mattress protector reduce breathability of the mattress?",
+      "content": "As with all mattress protectors, it will have a very small impact on the overall breathability of your mattress as a trade-off for its superior protection against allergens and fluids. That said, the mattress protector is designed with very breathable materials and will still sleep cool and comfortable.",
+      "id": "341596c5-57c2-4e49-b534-bb7535d6936c",
+      "companyName": "RV Mattress"
+    },
+    {
+      "name": "Free shipping",
+      "content": "We provide free FedEx Ground shipping to all contiguous U.S. States (48 states, excluding Alaska & Hawaii).",
+      "id": "871ca4e2-4bbc-4b43-8a0f-eb8461f4a463",
+      "shortcut": "fs",
+      "companyName": "RV Mattress"
+    },
+    {
+      "name": "What is your return policy for orders placed on Amazon.com?",
+      "content": "Any order placed through Amazon.com for any of our mattresses that is not fulfilled through Brooklyn Bedding or Amazon Prime is not covered under the Brooklyn Bedding Warranty or Trial Policy.",
+      "id": "f807fc0c-a410-49f7-88d1-fb3170854642",
+      "companyName": "RV Mattress"
+    },
+    {
+      "name": "Why am I unable to process financing at checkout?",
+      "content": "Due to recent developments regarding consumer loans in Iowa and West Virginia, financing may be restricted or unavailable to residents in those states.",
+      "id": "e8203c20-23e6-4814-a861-65260b02923b",
+      "companyName": "RV Mattress"
+    },
+    {
+      "name": "Can you ship internationally/overseas?",
+      "content": "At this time, we only ship within the U.S.A. and Canada. However, if you are located outside of these locations, we recommend looking into \"Freight Forwarding Services\". We can ship to any location in the U.S.A. and \"Freight Forwarding\" companies will ship it internationally for you.",
+      "id": "dda0e13d-b74b-462a-85df-11f91b5c1d68",
+      "companyName": "RV Mattress"
+    },
+    {
+      "name": "What colors do you offer for the cover of the Bi-Fold foundation?",
+      "content": "The easy zip-off cover for the Bi-Fold foundation is available in a combination of black and white as pictured on the product page. We currently do not offer the cover in any other colors.",
+      "id": "cb1507c5-4335-427b-b907-54b98abaa7b2",
+      "companyName": "RV Mattress"
+    },
+    {
+      "name": "Can I adjust the firmness of the premium shredded foam pillow?",
+      "content": "Yes, you can adjust the firmness by adding or removing the shredded stuffing. We ship the premium shredded foam pillow overstuffed, and by simply removing some of the stuffing, you can easily adjust to your preferred firmness.",
+      "id": "0536be77-bc1f-4fe8-8718-2b4926210287",
+      "companyName": "RV Mattress"
+    },
+    {
+      "name": "Do your sheets work on a mattress over 11\" thick?",
+      "content": "Yes, our sheets are designed to fit mattresses with a thickness from 11\" to 14\".",
+      "id": "16600524-b656-49ad-84f4-62ff73ec1014",
+      "companyName": "RV Mattress"
+    },
+    {
+      "name": "Is there anything I can do to help prolong the life of my mattress?",
+      "content": "We recommend rotating your mattress 180 degrees every 6 to 8 months. This rotation helps evenly distribute weight across the bed.",
+      "id": "29c0fefa-e9b3-4083-a232-d79670a97de3",
+      "companyName": "RV Mattress"
+    },
+    {
+      "name": "Do you offer student discounts?",
+      "content": "Yes! Simply look for the ID.me verification in your cart as you complete your order. Click the \"Verify\" button and follow the steps! You can also learn more about your discount here: https://rvmattress.com/pages/student-discount",
+      "id": "decb7d1e-c07c-4152-b928-1e04fcad8074",
+      "companyName": "RV Mattress"
+    },
+    {
+      "name": "Customer support",
+      "content": "The best way to handle this is to email us directly at support@brooklynbedding.com. Our team is happy to help!",
+      "id": "cc6c4fa2-0102-4957-b915-3b1e83e1c49e",
+      "shortcut": "cs",
+      "companyName": "RV Mattress"
+    },
+    {
+      "name": "Phone support",
+      "content": "You can give us a call at 1-623-624-1222 or let me know if I can help via text, it may be faster.",
+      "id": "d879186b-d5d5-419c-8843-19e6bdcea8dd",
+      "shortcut": "ps",
+      "companyName": "RV Mattress"
+    },
+    {
+      "name": "What is the size and weight of the mattress box?",
+      "content": "You can take a look at the average specifications of our mattress boxes here: https://prnt.sc/FEdAt75AiQvc Please note that these are general guidelines and, depending on the type of mattress you order, dimensions and weight may vary slightly.",
+      "id": "8af9ba95-fd01-49c0-80a9-cce673f17a76",
+      "companyName": "RV Mattress"
+    },
+    {
+      "name": "Will your mattresses develop body impressions?",
+      "content": "All mattresses develop minimal body impressions on contact. We have specifically chosen the most durable foams in the industry with the highest material integrity to minimize body impressions and maximize restorative properties.",
+      "id": "a1f20400-cd19-4d62-b8ae-d1d4b0385161",
+      "companyName": "RV Mattress"
+    },
+    {
+      "name": "Why am I being charged sales tax?",
+      "content": "Following the South Dakota vs. Wayfair, Inc. ruling, all online retailers that generate substantial economic activity in that state must now collect sales tax. If you are being charged sales tax by Brooklyn Bedding, but live outside of South Dakota, it means your select state now requires collection of the tax as well.",
+      "id": "21966cc0-7651-48e1-8475-5ad2caf09f71",
+      "companyName": "RV Mattress"
+    },
+    {
+      "name": "How does the Bi-Fold foundation support the mattress?",
+      "content": "The Bi-Fold Foundation is designed with both vertical and horizontal slats that provide all the needed support. Its design does not require any additional support for your mattress.",
+      "id": "88389a0f-64b9-42a6-ba93-bf11ba76a734",
+      "companyName": "RV Mattress"
+    },
+    {
+      "name": "Are your pillows washable?",
+      "content": "All of our pillow covers are washable. Simply remove the cover, machine wash on a gentle setting, tumble dry low or lay flat to dry. We recommend only spot- cleaning the pillow insert.",
+      "id": "82d970ef-ab5e-4baf-9db2-742a6826eb87",
+      "companyName": "RV Mattress"
+    },
+    {
+      "name": "How long can I keep my mattress in the box?",
+      "content": "We recommend keeping your mattress in the box for no longer than three weeks after it has arrived at your door. While your mattress is safe to keep rolled for up to three months, compression beyond three weeks does hold some risk for slowing the expansion of your mattress.",
+      "id": "a802760e-7942-4450-8e7e-20e509b39ef0",
+      "companyName": "RV Mattress"
+    },
+    {
+      "name": "Does your warranty cover accessories?",
+      "content": "Yes! Our pillow comes with a 3-year full replacement warranty that covers any defects in the material. Our sheets come with a 1-year full replacement warranty that covers any defects in the material. Platforms and adjustable bases are subject to a 3-year warranty.",
+      "id": "bc182263-faeb-449e-89a2-f0630016019a",
+      "companyName": "RV Mattress"
+    },
+    {
+      "name": "Can I delay a shipment?",
+      "content": "You can typically delay your shipment by calling our customer service team at 1-888-210-8751. We can generally ensure that your mattress will arrive within 2 days of your specific date request, but cannot guarantee delivery on a particular day.",
+      "id": "e1676bbd-b549-4d1c-9e19-46718e9f6bb8",
+      "companyName": "RV Mattress"
+    },
+    {
+      "name": "Are your products certified safe and healthy?",
+      "content": "We use the safest materials in the mattress industry, guaranteed. Our foam is CertiPUR-US Certified, which means it's toxin-free and meets the highest health standards in the industry.",
+      "id": "589e07a8-c732-40c6-b197-cd9eb5b3db1d",
+      "companyName": "RV Mattress"
+    },
+    {
+      "name": "Do I need a mattress protector?",
+      "content": "Mattress protectors are not required, but we highly recommend purchasing one to protect your investment. A mattress protector is great for added protection against dust mites, liquid spills, and extending the life of your mattress.",
+      "id": "12513de8-23b8-486a-95e3-f993c3538f39",
+      "companyName": "RV Mattress"
+    },
+    {
+      "name": "Are shipping fees refundable?",
+      "content": "Unfortunately, shipping fees and any additional shipping fees are not refundable.",
+      "id": "d6b8b453-9747-4ec1-abb6-1fa8738a326c",
+      "companyName": "RV Mattress"
+    },
+    {
+      "name": "Do you offer custom sizes?",
+      "content": "At this time we don't offer custom sizes.",
+      "id": "88662023-6819-4cad-85cd-4091a835228c",
+      "companyName": "RV Mattress"
+    },
+    {
+      "name": "Are your mattresses flippable?",
+      "content": "Our mattresses should be rotated every 6 to 8 months but never flipped (or inverted). Our mattresses are designed with comfort layers on top and support layers on the bottom. We also use higher quality materials that last much longer than traditional mattresses, eliminating the type of wear and tear that requires a mattress to be flipped.",
+      "id": "8b7ed6aa-a0cd-4a4b-a810-85fed6f65794",
+      "companyName": "RV Mattress"
+    },
+    {
+      "name": "Can you ship to Alaska or Hawaii?",
+      "content": "Yes, shipping to Hawaii or Alaska starts at $125 per mattress. For a custom quote, please contact us via this link: https://support.rvmattress.com/hc/en-us/requests/new",
+      "id": "a9342c83-fcd9-48c4-bbd5-b6398e944121",
+      "companyName": "RV Mattress"
+    },
+    {
+      "name": "Where are your items made / manufactured?",
+      "content": "All mattresses are assembled in our Phoenix, Arizona facility and shipped directly to your door. We use source materials both domestically and internationally and assemble each mattress in our facility to give us complete control over quality.",
+      "id": "c03dd0d9-4c1f-4f4d-b3d5-327a33a427bb",
+      "shortcut": "mfc",
+      "companyName": "RV Mattress"
+    },
+    {
+      "name": "Do you offer corner cut mattresses?",
+      "content": "Unfortunately, we do not carry any corner-cut mattresses and aren't able to build custom sizes.",
+      "id": "0b7d2b29-438a-4d60-825e-72dd891657b1",
+      "companyName": "RV Mattress"
+    },
+    {
+      "name": "Do you offer price matching?",
+      "content": "Unfortunately, we are not able to price match with other brands or other companies.",
+      "id": "65f85dce-8cf1-4627-91b2-17f926761318",
+      "shortcut": "pmc",
+      "companyName": "RV Mattress"
+    }
+  ]
+}

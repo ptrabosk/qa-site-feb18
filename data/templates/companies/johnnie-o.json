@@ -1,0 +1,247 @@
+{
+  "companyKey": "johnnie-o",
+  "templates": [
+    {
+      "name": "Restock? (esc)",
+      "content": "I'm sorry to hear that! Let me just check with the team regarding this!",
+      "id": "0d0cb5cf-58b1-4b30-9533-3e96c7c6495d",
+      "companyName": "johnnie-O"
+    },
+    {
+      "name": "Job/Employment Opportunities / I want to work for you!",
+      "content": "You can check out our current open positions here: https://www.johnnie-o.com/pages/careers",
+      "id": "267f6e8a-6ff5-4d02-981c-60c194579361",
+      "companyName": "johnnie-O"
+    },
+    {
+      "name": "When will I receive my refund?",
+      "content": "All refunds will be credited to your original form of payment or to a johnnie-O gift card. If you return an item to us by U.S. mail, we usually receive it within 10-14 business days. Once the item is received, we will process your refund within 1-2 weeks. Depending on your financial institution, you may see that refund on your credit card within 3-5 business days. If you're returning a gift, you'll receive a Gift Card with the credited amount. If you paid with a Gift Card, you'll receive an eGift Card via email with the credited amount.",
+      "id": "30759461-b01a-4d48-9278-a7096a63c82b",
+      "companyName": "johnnie-O"
+    },
+    {
+      "name": "Phone Support",
+      "content": "You can give us a call at 877-787-4703 Monday through Friday 6:30am to 5:00pm PST, or let me know if I can help via text, it may be faster.",
+      "id": "5437f75e-d930-4df0-9c0d-c9097513d00b",
+      "shortcut": "ps",
+      "companyName": "johnnie-O"
+    },
+    {
+      "name": "Brand ambassador / sponsorship / affiliate program",
+      "content": "Thank you for your interest! The best way to discuss this is to email us directly at wingman@johnnie-o.com. Our team is happy to chat.",
+      "id": "0222b7e6-1400-436d-bf6a-e26786f629b5",
+      "shortcut": "ams",
+      "companyName": "johnnie-O"
+    },
+    {
+      "name": "Can I have a catalogue?",
+      "content": "You can request a catalogue here: https://www.johnnie-o.com/pages/request-a-catalog And if you're interested in viewing it online, please check out this link: https://www.johnnie-o.com/pages/shop-the-catalog#catalog/february-2023/page/1",
+      "id": "45db84f8-ed73-48d1-bbdf-3c899b0502bf",
+      "companyName": "johnnie-O"
+    },
+    {
+      "name": "Tell me more about your Custom Corporate Collection",
+      "content": "You can work directly with a custom sales team member to shop a more exclusive assortment by contacting us via email at custom@johnnie-o.com or by phone at 877-787-4703! Please note that there is a 36 piece minimum and a 3 week lead time.",
+      "id": "5fee483d-a21e-4e3c-9687-920ac7d2d53f",
+      "companyName": "johnnie-O"
+    },
+    {
+      "name": "Social Media",
+      "content": "Give us a follow on IG: https://www.instagram.com/johnnieobrand and FB here: https://www.facebook.com/johnnieObrand/",
+      "id": "8c0b7d10-6936-4cfe-9521-9a8b68f9b568",
+      "shortcut": "smd",
+      "companyName": "johnnie-O"
+    },
+    {
+      "name": "Return Policy",
+      "content": "You can check out our detailed return policy here: https://www.johnnie-o.com/pages/returns-exchanges",
+      "id": "2a4c5493-039f-4fba-8a57-e3830759341b",
+      "shortcut": "rp",
+      "companyName": "johnnie-O"
+    },
+    {
+      "name": "I made a return, have you received it yet?",
+      "content": "You'll receive an email once your return has been delivered back to our warehouse, and you'll be notified when your card has been refunded or your exchange order has been shipped out.",
+      "id": "74d4efce-dda7-452b-aac9-dbe9f5ad7262",
+      "companyName": "johnnie-O"
+    },
+    {
+      "name": "Do you ship internationally?",
+      "content": "We do! Our mantra is to provide as many people as possible access to our products. You will find a list of countries we ship to at checkout.",
+      "id": "a4316d19-ce97-4e8a-b929-dfcf4311529b",
+      "companyName": "johnnie-O"
+    },
+    {
+      "name": "Do you sell gift cards?",
+      "content": "We do! Gift cards are delivered by email and contain instructions to redeem them at checkout. Please note that the email containing the gift card will be sent to the email address assigned at check-out. We suggest inputting your own email and simply forward the E-gift card onto the recipient. You can order one here: https://www.johnnie-o.com/products/giftwizard-giftcard-1?variant=31744690585669",
+      "id": "a59a4a0c-d174-4e08-9466-f45c05e57d3a",
+      "companyName": "johnnie-O"
+    },
+    {
+      "name": "Wholesale Inquiries",
+      "content": "The best way to discuss wholesale is to email us directly at wholesale@johnnie-o.com, or give us a call at 877-545-8885. We look forward to hearing from you and spreading the word!",
+      "id": "ca6e6970-6c91-4b20-aafc-659da9c38bad",
+      "shortcut": "wls",
+      "companyName": "johnnie-O"
+    },
+    {
+      "name": "Do you offer price adjustments?",
+      "content": "We honor a one-time price adjustment within one week of the purchase date. Promotions, flash-sales, friends & family, and end of season sale will be excluded from price adjustments.",
+      "id": "cfeb9349-7eeb-48e8-9dc8-a09d70cd62df",
+      "companyName": "johnnie-O"
+    },
+    {
+      "name": "How do I start a return?",
+      "content": "You can start your return or exchange via our Returns Portal here: https://johnnie-o.loopreturns.com/#/",
+      "id": "308b27c8-db1a-468a-8a19-3339bc68d321",
+      "companyName": "johnnie-O"
+    },
+    {
+      "name": "Do you have a size guide?",
+      "content": "You can check out our size and measurement guide at this link: https://www.johnnie-o.com/size-guide Let me know if you're still unsure.",
+      "id": "8c1fd0ba-1e68-42c5-be77-47637addea92",
+      "shortcut": "sz",
+      "companyName": "johnnie-O"
+    },
+    {
+      "name": "Where are your items made / manufactured?",
+      "content": "We manufacture and source our clothing from multiple countries.",
+      "id": "81a0049d-bdcb-4f51-af34-7fb85bfe71cc",
+      "shortcut": "mfc",
+      "companyName": "johnnie-O"
+    },
+    {
+      "name": "Shipping time",
+      "content": "We strive to process orders as quickly as possible, and they're usually shipped within 48 business hours. If you're located in the Midwest or on the East Coast, packages usually arrive within 2-3 business days. West Coast takes a bit longer, but should be at your door within 3-5 business days. We also offer expedited shipping if you need it faster.",
+      "id": "252f9425-46af-49f2-a425-efa50fdb65f9",
+      "shortcut": "shp",
+      "companyName": "johnnie-O"
+    },
+    {
+      "name": "Do you ship to P.O. Boxes?",
+      "content": "Unfortunately no, UPS doesn't ship to PO Boxes. I'll definitely pass this along to the team to consider in the future though.",
+      "id": "b64004da-eef4-4327-877c-4b403c8163ac",
+      "companyName": "johnnie-O"
+    },
+    {
+      "name": "Do I have to pay duties/taxes for international orders?",
+      "content": "Duties, taxes and fees are assessed by your local government as a source of revenue for ecommerce purchases. They're similar to taxes you pay upon purchasing a product in a local store within your own country. We fully guarantee the duties, taxes and import fees are presented at checkout. If you pay them at checkout your order will be expedited at customs and you won't be charged any additional fees upon delivery.",
+      "id": "be716b8b-580d-477e-904d-aa09fe480b8b",
+      "companyName": "johnnie-O"
+    },
+    {
+      "name": "Customer Support",
+      "content": "The best way to handle this is to email us directly at wingman@johnnie-o.com, or give us a call at 877-787-4703. Our customer service team is available Mon-Fri 6:30am to 5:00pm PST and will be happy to help!",
+      "id": "ed2d1239-0cb1-48bc-aeab-cf20a5c6d194",
+      "shortcut": "cs",
+      "companyName": "johnnie-O"
+    },
+    {
+      "name": "How long will processing take for my NCAA product?",
+      "content": "Please note that all collegiate products will take 2-3 weeks to process and ship out.",
+      "id": "d82a7014-42e8-4b5f-a49a-ca3e9a317175",
+      "companyName": "johnnie-O"
+    },
+    {
+      "name": "Store location / retailer",
+      "content": "You can find us at a store near you here: https://www.johnnie-o.com/our-stores",
+      "id": "af1fbb2e-5b63-46d7-91a1-49e1644d9567",
+      "shortcut": "sl",
+      "companyName": "johnnie-O"
+    },
+    {
+      "name": "Can I return a NCAA product?",
+      "content": "Yes! All collegiate products are returnable.",
+      "id": "f76ce372-97d0-4c5a-baa4-1a89d5d16604",
+      "companyName": "johnnie-O"
+    },
+    {
+      "name": "Cancel / edit order",
+      "content": "The best way to handle this is to email us directly at wingman@johnnie-o.com or give us a call at 877-787-4703 Monday-Friday 6:30am to 5pm PST. Our team will be happy to help!",
+      "id": "fb1f1f6e-82a1-4805-9aee-83f18859ef77",
+      "shortcut": "ced",
+      "companyName": "johnnie-O"
+    },
+    {
+      "name": "Why is an item not ShopRunner eligible?",
+      "content": "Some items are not ShopRunner eligible due to reasons such as the product's shape, size or weight, or hazmat restrictions. Look for \"not ShopRunner eligible\" copy next to a product listing to identify those items that are excluded.",
+      "id": "69a5ebee-f88d-4864-bebf-25b99e53afae",
+      "companyName": "johnnie-O"
+    },
+    {
+      "name": "What is ShopRunner?",
+      "content": "ShopRunner delivers a thriving community of discovery, expression, and commerce by powering extraordinary shopping experiences that connect customers to the brands they love. ShopRunner is a members-only shopping program that offers unlimited free 2-day shipping, and free returns at over 140 retailers.",
+      "id": "66950027-1d75-4ed8-87e0-8693ba9b9407",
+      "companyName": "johnnie-O"
+    },
+    {
+      "name": "What are my shipping options with ShopRunner?",
+      "content": "Eligible items will ship so they are delivered free within 2 business days via shipping partners like UPS and FedEx. ShopRunner only ships to physical addresses in the United States, including, in most cases, Alaska, Hawaii and Puerto Rico. Any shipment to a PO Box, APO/FPO/DPO or international address is excluded from the ShopRunner program.",
+      "id": "5b4aea29-e06c-4320-93e0-4a178e06d810",
+      "companyName": "johnnie-O"
+    },
+    {
+      "name": "Why doesn’t the NCAA collection include all schools?",
+      "content": "We do not have the licensing to create gear for all schools. However, we hope to add new schools throughout the next year so please be sure to check back on our website for when new schools are added.",
+      "id": "4a5bb537-d9b3-4a3b-837f-8343c0fbe045",
+      "companyName": "johnnie-O"
+    },
+    {
+      "name": "How do I know what items are ShopRunner eligible?",
+      "content": "Not all of our products are ShopRunner eligible, however those that are eligible will have a ShopRunner logo visible.",
+      "id": "ceea0f2c-9854-4c94-8283-99072c634b80",
+      "companyName": "johnnie-O"
+    },
+    {
+      "name": "Does ShopRunner actually ship my products?",
+      "content": "ShopRunner does not ship any of your orders. We ship the products fast and free from our johnnie-O warehouse directly to you.",
+      "id": "6da83a8b-ca13-4f2e-9b68-11ab6323d679",
+      "companyName": "johnnie-O"
+    },
+    {
+      "name": "Can I return an item I purchased on sale?",
+      "content": "All sale items are eligible for returns unless marked as \"final sale.\"",
+      "id": "238b9221-1b11-490f-aff0-d369ed7633c3",
+      "companyName": "johnnie-O"
+    },
+    {
+      "name": "Do you offer free tailoring services?",
+      "content": "I'm afraid we don't offer tailoring services anymore. Apologies for the inconvenience!",
+      "id": "a758f1d7-a58c-42cb-804b-e18a747963a1",
+      "companyName": "johnnie-O"
+    },
+    {
+      "name": "Sales Collection",
+      "content": "You can take a look at our sale collection here: https://www.johnnie-o.com/collections/sale",
+      "id": "5608c6eb-8c11-4765-90a6-63a898717a6f",
+      "shortcut": "spg",
+      "companyName": "johnnie-O"
+    },
+    {
+      "name": "I would like to return a gift I received",
+      "content": "I'll be glad to help! You will receive store credit when you return a gift, which can be used to place a new order on our site. The gift giver doesn't receive any notifications around this process. You'll be asked to verify the order number (in the enclosed packaging) and delivery address zip code. You can start the process here: https://johnnie-o.loopreturns.com/#/",
+      "id": "4e02d123-bea2-4866-849f-8fc905343cff",
+      "companyName": "johnnie-O"
+    },
+    {
+      "name": "What are your shipping charges?",
+      "content": "Standard shipping is $8, and free shipping applies to all orders over $125.",
+      "id": "a432901c-21b5-4629-bb88-18124c172614",
+      "companyName": "johnnie-O"
+    },
+    {
+      "name": "Military / First responder / Healthcare / Teacher discount",
+      "content": "Thank you for your service! You can learn more and apply for your discount here: https://www.johnnie-o.com/pages/govx-discount",
+      "id": "eebe2805-1839-49db-8c07-d27874745e23",
+      "shortcut": "ms",
+      "companyName": "johnnie-O"
+    },
+    {
+      "name": "Free Shipping",
+      "content": "We offer free shipping on domestic orders over $175. Maybe you can add something else to reach the minimum?",
+      "id": "fb911541-91d2-456f-ba11-5f07a506fd38",
+      "shortcut": "fs",
+      "companyName": "johnnie-O"
+    }
+  ]
+}

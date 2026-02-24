@@ -3,2449 +3,1471 @@
   "chunk": "chunk_0028",
   "scenarios": {
     "136": {
-      "id": "019c49ca-3aad-40ce-f000-0000f0a68933",
-      "companyName": "Bartesian",
-      "companyWebsite": "https://bartesian.com",
+      "id": "019c49d2-b1fc-4322-f000-0000f15ca0ce",
+      "companyName": "Naturalizer",
+      "companyWebsite": "https://naturalizer.com",
+      "agentName": "",
+      "messageTone": "Polished",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "Naturalizer: Already ON SALE + extra 25% off w/code LASTCALL? The math is mathing.\n\nFill your cart now: naturalizer.attn.tv/akecsNsBfYU4 ",
+          "message_type": "system",
+          "date_time": "2026-01-11 18:55:48.087"
+        },
+        {
+          "message_media": [],
+          "message_text": "Naturalizer: FLASH SALE! Boots starting at $74.99 when you take an extra 25% off w/code: LASTCALL.\n\nShop now: naturalizer.attn.tv/apQVx_RK5A-7 ",
+          "message_type": "system",
+          "date_time": "2026-01-14 13:55:15.231"
+        },
+        {
+          "message_media": [],
+          "message_text": "Naturalizer: Hey! Thanks for checking us out! ❄️ Our Winter Clearance Event has an extra 25% off sale styles with code: LASTCALL. SHOP NOW: https://naturalizer.attn.tv/aJ3la9WirJ5i .",
+          "message_type": "system",
+          "date_time": "2026-01-14 14:11:13.705"
+        },
+        {
+          "message_media": [],
+          "message_text": "Naturalizer: Those $74.99 & up boots aren't going to last forever. Code: LASTCALL.\n\nBoot up your cart: naturalizer.attn.tv/a1B9WRUgFKyv ",
+          "message_type": "system",
+          "date_time": "2026-01-14 19:10:08.832"
+        },
+        {
+          "message_media": [],
+          "message_text": "Naturalizer: Have you shopped our $74.99+ Boot Flash yet? The steals won't last forever. Enter code: LASTCALL\n\nGo now: naturalizer.attn.tv/atc3hFlXlOKR ",
+          "message_type": "system",
+          "date_time": "2026-01-16 20:05:24.619"
+        },
+        {
+          "message_media": [],
+          "message_text": "Naturalizer: Boot Flash ENDS TONIGHT! Warm up with $74.99+ boots w/code: LASTCALL.\n\nGo, go, go: naturalizer.attn.tv/aIiqvrfJCZLO ",
+          "message_type": "system",
+          "date_time": "2026-01-17 13:50:15.136"
+        },
+        {
+          "message_media": [],
+          "message_text": "Naturalizer: Here today, gone tomorrow: the $74.99+ boots you've been eyeing.\n\nShop the flash before it's too late: naturalizer.attn.tv/aOUhTkSlpS0j ",
+          "message_type": "system",
+          "date_time": "2026-01-17 20:35:14.359"
+        },
+        {
+          "message_media": [],
+          "message_text": "Naturalizer: Extra 25% off sale styles ends TONIGHT! Code: LASTCALL. Don't miss out.\n\nShop all clearance: naturalizer.attn.tv/a7ENvrebvDOG ",
+          "message_type": "system",
+          "date_time": "2026-01-20 12:45:16.559"
+        },
+        {
+          "message_media": [],
+          "message_text": "Naturalizer: LAST CALL for code LASTCALL! Extra 25% off sale code expires soon.\n\nShop NOW: naturalizer.attn.tv/anKwxGGB-Lxj ",
+          "message_type": "system",
+          "date_time": "2026-01-20 20:25:11.012"
+        },
+        {
+          "message_media": [],
+          "message_text": "Naturalizer: Snowstorm coming your way? Here's $30 off $150 to snag boots engineered for the elements.\n\nUse code: INBOX: naturalizer.attn.tv/a_0-Rw48_xwl ",
+          "message_type": "system",
+          "date_time": "2026-01-24 13:35:11.475"
+        },
+        {
+          "message_media": [],
+          "message_text": "Naturalizer: Use your super-secret INBOX code before word gets out & your faves are gone!\n\nGet $30 off $150 now: naturalizer.attn.tv/axn12E0izyaU ",
+          "message_type": "system",
+          "date_time": "2026-01-24 20:25:07.439"
+        },
+        {
+          "message_media": [],
+          "message_text": "Naturalizer: ICYMI: $30 off $150 with code: INBOX. Hurry, this exclusive deal ends soon!\n\nClaim your VIP savings: naturalizer.attn.tv/aQJU-ME8WtUy ",
+          "message_type": "system",
+          "date_time": "2026-01-26 16:00:13.216"
+        },
+        {
+          "message_media": [],
+          "message_text": "Naturalizer: How will you use your $30 off $150? It's decision time. Those shoes won't cart themselves.\n\nUse code: INBOX: naturalizer.attn.tv/a0TpcjD4oySc ",
+          "message_type": "system",
+          "date_time": "2026-01-27 19:10:08.639"
+        },
+        {
+          "message_media": [],
+          "message_text": "Naturalizer: Your $30 off $150 code: INBOX expires tonight! Use it on newness & need now styles.\n\nSHOP NOW: naturalizer.attn.tv/agiyvitEIoqK ",
+          "message_type": "system",
+          "date_time": "2026-01-28 13:45:11.453"
+        },
+        {
+          "message_media": [],
+          "message_text": "Naturalizer: Tonight: $30 off $150. Tomorrow: $0 off $150. Our advice? Use code: INBOX now.\n\nLike, shop RIGHT NOW: naturalizer.attn.tv/ahpJoGD2IowI ",
+          "message_type": "system",
+          "date_time": "2026-01-28 20:10:07.654"
+        },
+        {
+          "message_media": [],
+          "message_text": "Naturalizer: Spring just landed // New styles. Fab colors. \n\nShop now: naturalizer.attn.tv/aPes8v6utoN1 ",
+          "message_type": "system",
+          "date_time": "2026-01-31 13:35:36.540"
+        },
+        {
+          "message_media": [],
+          "message_text": "Naturalizer: The sale you've been waiting for: styles up to 70% OFF! Boots, sneaks, flats, heels.\n\nShop now: naturalizer.attn.tv/a5WC8qh9AKZn ",
+          "message_type": "system",
+          "date_time": "2026-02-01 14:10:15.442"
+        },
+        {
+          "message_media": [],
+          "message_text": "Naturalizer: At up to 70% off, our Last Call styles won't last. Don't let your faves disappear.\n\nFill your cart: naturalizer.attn.tv/a0aAW5Z3OOZs ",
+          "message_type": "system",
+          "date_time": "2026-02-02 19:30:05.826"
+        },
+        {
+          "message_media": [],
+          "message_text": "Naturalizer: THIS. IS. IT. Up to 70% off styles for every upcoming vacay, event, and celebration.\n\nShop your size NOW: naturalizer.attn.tv/a-Z5bMm_kefK ",
+          "message_type": "system",
+          "date_time": "2026-02-03 13:25:07.043"
+        },
+        {
+          "message_media": [],
+          "message_text": "Naturalizer: Going fast: the deepest price drops of the season. Styles up to 70% off.\n\nGet it or regret it: naturalizer.attn.tv/a6hQh-E1tJbs ",
+          "message_type": "system",
+          "date_time": "2026-02-03 20:05:19.690"
+        },
+        {
+          "message_media": [],
+          "message_text": "Naturalizer: JUST DROPPED // Style-Letics by June Ambrose. The exclusive capsule for Naturalizer. Don't miss this!\n\nShop Now: naturalizer.attn.tv/a8lbjMNFy4OH ",
+          "message_type": "system",
+          "date_time": "2026-02-04 13:15:17.277"
+        },
+        {
+          "message_media": [],
+          "message_text": "Naturalizer: Prediction: THIS WILL SELL OUT. Style-Letics by June Ambrose. Shop the exclusive collab. \n\nOnly at Naturalizer: naturalizer.attn.tv/aZvavraPxd_h ",
+          "message_type": "system",
+          "date_time": "2026-02-04 20:05:15.740"
+        },
+        {
+          "message_media": [],
+          "message_text": "Naturalizer: HERE NOW // SS26. New season. New scroll stoppers. Expect compliments.\n\nShop the spring drop: naturalizer.attn.tv/aTULI3j7KoNo ",
+          "message_type": "system",
+          "date_time": "2026-02-08 15:15:12.752"
+        },
+        {
+          "message_media": [],
+          "message_text": "Naturalizer: Hey, we noticed you checking us out. Have you seen our best sellers yet? https://naturalizer.attn.tv/a3N3C0oTQtTW . ",
+          "message_type": "system",
+          "date_time": "2026-02-09 11:53:40.761"
+        },
+        {
+          "message_media": [],
+          "message_text": "Naturalizer: Hey, this is Hannah. Thanks for checking out our site! 😊 https://naturalizer.attn.tv/aOdaBkpqPMpn \n\nAny questions I can answer for you?",
+          "message_type": "system",
+          "date_time": "2026-02-10 16:40:38.281"
+        },
+        {
+          "message_media": [],
+          "message_text": "Wondering what is happening with the order I placed on February 3rd???",
+          "message_type": "customer",
+          "date_time": "2026-02-10 17:55:30.675"
+        },
+        {
+          "message_media": [],
+          "message_text": "Naturalizer: Thanks for reaching out! Could you let me know if you received any tracking info? Sometimes our emails can end up in your spam or promo folder, so please check there as well. \n\nYou can also use our convenient online tool to see the latest updates on your order: https://naturalizer.attn.tv/aBLOhMJh5-tw",
+          "message_type": "agent",
+          "agent": "45474",
+          "message_id": "019c49c6-b9b3-4860-f000-0000f15ca0ce",
+          "date_time": "2026-02-10 17:58:06.439"
+        },
+        {
+          "message_media": [],
+          "message_text": "No tracking info and FYI absolutely NO information on your tool, so not at all convenient.",
+          "message_type": "customer",
+          "date_time": "2026-02-10 18:04:50.298"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"Escalation Template\"; last updated: 2024-07-22 20:24:34.907",
+          "message_type": "template",
+          "date_time": "2026-02-10 18:11:10.878"
+        },
+        {
+          "message_media": [],
+          "message_text": "Naturalizer: Thank you for getting back to me and providing that information! I sincerely apologize for the inconvenience. This definitely isn't the experience we wanted for you! I'd love to have our team look into this. Can I have your full name, email, order number, phone number, and zip code, please?",
+          "message_type": "agent",
+          "agent": "109840",
+          "message_id": "019c49d2-b1fc-4322-f000-0000f15ca0ce",
+          "date_time": "2026-02-10 18:11:10.881"
+        }
+      ],
+      "notes": {
+        "escalate": [
+          "Before you ESC use ESC shortcut",
+          "When ESC code issues, add the code to the escalation notes",
+          "Always add the customer's name in your esc notes"
+        ],
+        "tone": [
+          "Don't respond if the customer doesn't want to engage"
+        ],
+        "templates": [
+          "For inquiries regarding their order updates/status/tracking, use UPD shortcut"
+        ]
+      },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://naturalizer.com",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "committed lug loafer",
+            "link": "https://www.naturalizer.com/product/womens-committed-lug-loafer-3030512/black-faux-leather-and-fabric-ec0207657?icid=orderdetails_productdescription_90051_EC0207657",
+            "timeAgo": "2026-02-10"
+          },
+          {
+            "item": "lumos platform penny loafer",
+            "link": "https://www.naturalizer.com/product/womens-lumos-platform-penny-loafer-3031916/cappuccino-croco-leather-ec0208446",
+            "timeAgo": "2026-02-10"
+          },
+          {
+            "item": "lumos platform penny loafer",
+            "link": "https://www.naturalizer.com/product/womens-lumos-platform-penny-loafer-3031916/olive-plaid-suede-ec0208437",
+            "timeAgo": "2026-02-03"
+          },
+          {
+            "item": "committed lug loafer",
+            "link": "https://www.naturalizer.com/product/womens-committed-lug-loafer-3030512/pewter-faux-leather-ec0204348",
+            "timeAgo": "2026-02-03"
+          },
+          {
+            "item": "taylin loafer",
+            "link": "https://www.naturalizer.com/product/womens-taylin-loafer-3031185/black-leather-ec0206510",
+            "timeAgo": "2026-02-03"
+          }
+        ],
+        "orders": [
+          {
+            "orderNumber": "005029136635",
+            "orderDate": "2026-02-03",
+            "items": [
+              {
+                "name": "lumos platform penny loafer",
+                "price": 69.99,
+                "productLink": "https://www.naturalizer.com/product/womens-lumos-platform-penny-loafer-3031916/cappuccino-croco-leather-ec0208446"
+              },
+              {
+                "name": "committed lug loafer",
+                "price": 39.99,
+                "productLink": "https://www.naturalizer.com/product/womens-committed-lug-loafer-3030512/black-faux-leather-and-fabric-ec0207657"
+              }
+            ],
+            "total": 109.97,
+            "coupon": "aos 10 dollars off 50",
+            "date_time": "2026-02-03 13:27:46.044"
+          },
+          {
+            "orderNumber": "005028788602",
+            "orderDate": "2026-01-04",
+            "items": [
+              {
+                "name": "lumos platform penny loafer",
+                "price": 69.99,
+                "productLink": "https://www.naturalizer.com/product/womens-lumos-platform-penny-loafer-3031916/olive-plaid-suede-ec0208437"
+              }
+            ],
+            "total": 69.99,
+            "coupon": "nat10wel",
+            "date_time": "2026-01-04 15:36:48.242"
+          }
+        ]
+      },
+      "escalation_preferences": [],
+      "blocklisted_words": [],
+      "has_shopify": false
+    },
+    "137": {
+      "id": "019c6cbb-8191-4e41-f000-0000f4760fb0",
+      "companyName": "Faherty",
+      "companyWebsite": "https://fahertybrand.com",
+      "agentName": "",
+      "messageTone": "Polished",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "Faherty Brand: Grab the Short-Sleeve Breeze Shirt, Dennis, for effortless, vacation-ready comfort.\n\nThere are 12 left; don't wait.\n\nShop now: https://fahertybrand.attn.tv/apdxTqiyK4ox .",
+          "message_type": "system",
+          "date_time": "2026-01-18 13:04:49.133"
+        },
+        {
+          "message_media": [],
+          "message_text": "Faherty Brand: Dennis, these cozy, timeless pants blend stretch terry comfort with a slim-straight, five-pocket finish for easy, cool-weather wear.\n\nFree shipping on orders $150+ and free returns for 60 days.\n\nBuy here: https://fahertybrand.attn.tv/aesImDsDqXFX . ACT FAST",
+          "message_type": "system",
+          "date_time": "2026-01-18 14:11:30.311"
+        },
+        {
+          "message_media": [],
+          "message_text": "Faherty Brand: Our Stretch Terry 5-Pocket Pant blends rugged stretch terry with an authentic denim look, so you stay comfy and ready for everyday wear.\n\nUse code SMS3JBWVW9W for 15% off; free shipping over $150 and free returns for 60 days.\n\nShop now: https://fahertybrand.attn.tv/aJy8y1U9vHN0 . LIMITED",
+          "message_type": "system",
+          "date_time": "2026-01-19 12:03:55.548"
+        },
+        {
+          "message_media": [],
+          "message_text": "Faherty Brand: Complete your LegendTM Sweater Shirt in your cart, Dennis — cozy knit, classic fit, button details.\n\n12K people have recently viewed it.\n\nDon't miss out: https://fahertybrand.attn.tv/ao6oW3KqQ0Dx .",
+          "message_type": "system",
+          "date_time": "2026-01-20 03:37:23.284"
+        },
+        {
+          "message_media": [],
+          "message_text": "Faherty Brand: Dennis: outerwear and cozy sweaters made for cool, rainy days and timeless comfort.\n\nFree shipping on orders $150+ and free returns for 60 days.\n\nThis fit is waiting: https://fahertybrand.attn.tv/asXH1junRS1X .",
+          "message_type": "system",
+          "date_time": "2026-01-20 12:02:47.416"
+        },
+        {
+          "message_media": [],
+          "message_text": "Faherty Brand: Hey, Dennis. Thanks for stopping by.\n\nUse code SMS3JBWVW9W for 15% off.\n\nShop now: https://fahertybrand.attn.tv/adSd5btdl9ep .",
+          "message_type": "system",
+          "date_time": "2026-01-21 12:03:55.729"
+        },
+        {
+          "message_media": [],
+          "message_text": "Faherty Brand: Buy the Coastline Stretch Chino, Dennis — durable stretch chino with a slim-straight fit, cozy feel.\n\n8 left, act fast!\n\nShop now: https://fahertybrand.attn.tv/aPCLPDnbOTux .",
+          "message_type": "system",
+          "date_time": "2026-01-21 16:32:27.392"
+        },
+        {
+          "message_media": [],
+          "message_text": "Faherty Brand: Dennis, versatile pants built for cool weather and cozy comfort—made to layer and last.\n\nFree shipping on orders $150+ and free returns for 60 days.\n\nBuy here: https://fahertybrand.attn.tv/aNB3wZUv3z7N .",
+          "message_type": "system",
+          "date_time": "2026-01-21 17:32:35.115"
+        },
+        {
+          "message_media": [],
+          "message_text": "Faherty Brand: Soft knit Legend Sweater Shirt feels cozy and timeless, with a classic fit, spread collar, and buttoned patch pockets that work for your everyday cool-weather layer.\n\nUse code SMS3JBWVW9W to take 15% off eligible items; free shipping on orders $150+, free returns for 60 days.\n\nShop now: https://fahertybrand.attn.tv/aKo9R4eoY9k1 .",
+          "message_type": "system",
+          "date_time": "2026-01-21 19:32:00.045"
+        },
+        {
+          "message_media": [],
+          "message_text": "Faherty Brand: We rounded up our best shirts we can't keep in stock. Shop styles that are ready for anything: fahertybrand.attn.tv/aOZ0gmwMBKGv ",
+          "message_type": "system",
+          "date_time": "2026-01-22 12:01:47.075"
+        },
+        {
+          "message_media": [],
+          "message_text": "Faherty Brand: Hey Dennis, the \"Coastline Stretch Chino - Faded Black\" you've been eyeing is almost gone. Shop now! fahertybrand.attn.tv/apzD6dWSlgKx",
+          "message_type": "system",
+          "date_time": "2026-01-23 15:32:11.450"
+        },
+        {
+          "message_media": [],
+          "message_text": "Faherty Brand: This is how a blazer should feel. Easy, comfortable, and designed to move with you. Shop the Inlet Knit Blazer: fahertybrand.attn.tv/a_uhcXWQWkiH ",
+          "message_type": "system",
+          "date_time": "2026-01-24 12:01:40.404"
+        },
+        {
+          "message_media": [],
+          "message_text": "Faherty Brand: One pant. All day. From active mornings to refined evenings, this is the pair designed to move with you-no outfit change required. Shop Stretch Terry: fahertybrand.attn.tv/aL4dVSq1PAy6",
+          "message_type": "system",
+          "date_time": "2026-01-26 12:03:14.808"
+        },
+        {
+          "message_media": [],
+          "message_text": "Faherty Brand: Our Stretch Terry 5-Pocket Pant feels rugged yet soft and keeps you comfortable for everyday wear with a classic fit and denim look.\n\nFree shipping on orders $150 or more and free returns for 60 days.\n\nTry them on: https://fahertybrand.attn.tv/aExV8a9qqStD .",
+          "message_type": "system",
+          "date_time": "2026-01-26 16:01:49.608"
+        },
+        {
+          "message_media": [],
+          "message_text": "Faherty Brand: Hey Dennis, the \"LegendTM Sweater Shirt - Alaskan Blue Twill\" you've been eyeing is almost gone. Shop now! fahertybrand.attn.tv/aRKsTqAGV6gy",
+          "message_type": "system",
+          "date_time": "2026-01-27 15:07:29.739"
+        },
+        {
+          "message_media": [],
+          "message_text": "Faherty Brand: Spring starts in Charleston.\n\nOur latest collection is here...come get inspired:\nfahertybrand.attn.tv/attcUtFiuTeV ",
+          "message_type": "system",
+          "date_time": "2026-01-28 12:03:47.786"
+        },
+        {
+          "message_media": [],
+          "message_text": "Faherty Brand: Going fast! Snag the LegendTM Sweater Shirt - Alaskan Blue Twill before it's gone. Add to cart now to elevate your wardrobe. fahertybrand.attn.tv/a7_brrq2DugG",
+          "message_type": "system",
+          "date_time": "2026-01-29 15:41:16.624"
+        },
+        {
+          "message_media": [],
+          "message_text": "Faherty Brand: Going fast! Snag the LegendTM Sweater Shirt - Alaskan Blue Twill before it's gone. Add to cart now to elevate your wardrobe. fahertybrand.attn.tv/awqY27gdrlPw",
+          "message_type": "system",
+          "date_time": "2026-01-30 15:17:21.661"
+        },
+        {
+          "message_media": [],
+          "message_text": "Faherty Brand: Hey Dennis. Thanks for visiting.\n\nUse code SMS3JBWVW9W for 15% off your order.\n\nShop now: https://fahertybrand.attn.tv/ayXWlJxQUjx7 . URGENT",
+          "message_type": "system",
+          "date_time": "2026-01-30 19:07:06.256"
+        },
+        {
+          "message_media": [],
+          "message_text": "Faherty Brand: Dreaming of warmer days? Our newest dresses are here. Shop easy, packable styles made for long weekends and spring escapes: fahertybrand.attn.tv/aRBTBzHc0hQ4 ",
+          "message_type": "system",
+          "date_time": "2026-01-31 12:01:43.510"
+        },
+        {
+          "message_media": [],
+          "message_text": "Faherty Brand: The Stretch Terry Indigo 5-Pocket Pant is a rugged, structured mid-rise pant with a slim leg that keeps you comfortable and ready for everyday wear.\n\nFree shipping on orders $150+ and free returns for 60 days.\n\nThis fit awaits: https://fahertybrand.attn.tv/a2Ew7_tC_KRj . ACT FAST",
+          "message_type": "system",
+          "date_time": "2026-01-31 12:42:25.529"
+        },
+        {
+          "message_media": [],
+          "message_text": "Faherty Brand: Fresh arrivals are in, inspired by Charleston's oak-lined streets and a slower kind of style. Take a moment to check it out, you might find something special: fahertybrand.attn.tv/atIoda3MgVfm ",
+          "message_type": "system",
+          "date_time": "2026-02-01 12:03:52.752"
+        },
+        {
+          "message_media": [],
+          "message_text": "Faherty Brand: Grab the Stretch Terry 5-Pocket Pant, Dennis — cozy, rugged, mid-rise comfort with an authentic denim look.\n\n16K people have recently viewed them.\n\nShop now: https://fahertybrand.attn.tv/aE7YRckXyJ3n . NOW",
+          "message_type": "system",
+          "date_time": "2026-02-01 14:42:14.127"
+        },
+        {
+          "message_media": [],
+          "message_text": "Faherty Brand: Dennis, cozy, timeless pants built for cool, damp days — the Mens Stretch Terry Slim Straight 5-Pocket Pant is soft and weather-ready.\n\nThis look is for you: https://fahertybrand.attn.tv/aSSEZoDUc5lG . ACT FAST",
+          "message_type": "system",
+          "date_time": "2026-02-01 15:42:22.818"
+        },
+        {
+          "message_media": [],
+          "message_text": "Faherty Brand: The Stretch Terry 5-Pocket Pant feels like worn-in denim, with cozy stretch so you can move comfortably all day.\n\nFree shipping on orders $150+ and free returns for 60 days.\n\nExplore the fit: https://fahertybrand.attn.tv/a98RKc6wfYxK .",
+          "message_type": "system",
+          "date_time": "2026-02-02 14:44:33.379"
+        },
+        {
+          "message_media": [],
+          "message_text": "Faherty Brand: Grab the Coastline Stretch Chino you left in cart, Dennis — cozy, timeless fit.\n\nThis is almost gone! Only 4 left.\n\nShop now: https://fahertybrand.attn.tv/aUOKZ0XHqi57 .",
+          "message_type": "system",
+          "date_time": "2026-02-02 17:53:27.306"
+        },
+        {
+          "message_media": [],
+          "message_text": "Faherty Brand: Dennis, these pants blend all-weather warmth with timeless comfort — perfect for cozy, everyday wear.\n\nThis look is for you: https://fahertybrand.attn.tv/ahAXOBUfH0Hb . ACT FAST",
+          "message_type": "system",
+          "date_time": "2026-02-02 18:53:41.801"
+        },
+        {
+          "message_media": [],
+          "message_text": "Faherty Brand: Grab the Reversible Quilted Jacket — lightweight organic cotton with recycled insulation and an oversized, cozy fit, perfect for cool days.\n\nFree shipping on orders $150+ and free returns for 60 days.\n\nThis look is for you: https://fahertybrand.attn.tv/awSDyf3DVqSo .",
+          "message_type": "system",
+          "date_time": "2026-02-06 12:02:49.395"
+        },
+        {
+          "message_media": [],
+          "message_text": "Faherty Brand: Going fast! Snag the LegendTM Sweater Shirt - Alpine Grey Herringbone before it's gone. Add to cart now to elevate your wardrobe. fahertybrand.attn.tv/aN5f3fnj-TTo",
+          "message_type": "system",
+          "date_time": "2026-02-08 19:03:42.108"
+        },
+        {
+          "message_media": [],
+          "message_text": "Faherty Brand: Grab the LegendTM Sweater Shirt — cozy, timeless knit with classic fit and button details, perfect for cooler days, Dennis.\n\nFree shipping on orders $150+. Free returns for 60 days.\n\nThis look is for you: https://fahertybrand.attn.tv/a1qJkhwg0Og3 .",
+          "message_type": "system",
+          "date_time": "2026-02-08 22:18:22.249"
+        },
+        {
+          "message_media": [],
+          "message_text": "Faherty Brand: Headed somewhere warm? We pulled together the shirts, shorts, and layers that make packing simple: fahertybrand.attn.tv/a2L-8vXyUh0R ",
+          "message_type": "system",
+          "date_time": "2026-02-09 12:01:52.796"
+        },
+        {
+          "message_media": [],
+          "message_text": "Faherty Brand: Finish checking out the Stretch Terry 5-Pocket Pant, Dennis — rugged, cozy, classic fit.\n\nStock is running low; just 3 left!\n\nShop now: https://fahertybrand.attn.tv/aVyaKjJ3adBK .",
+          "message_type": "system",
+          "date_time": "2026-02-09 22:30:11.705"
+        },
+        {
+          "message_media": [],
+          "message_text": "Faherty Brand: Dennis, these slim, straight 5 Pocket Pant pieces feel cozy and timeless, ready for cool-weather wear.\n\nFree shipping on orders $150+. Free returns for 60 days.\n\nThis fit is waiting: https://fahertybrand.attn.tv/aRNaYe-ZPFof . ACT FAST",
+          "message_type": "system",
+          "date_time": "2026-02-10 12:02:46.695"
+        },
+        {
+          "message_media": [],
+          "message_text": "Faherty Brand: Your favorite Topanga Pant is back. Easy drape, airy feel, and a lived-in look that only gets better: fahertybrand.attn.tv/arNIy-k-Vylb",
+          "message_type": "system",
+          "date_time": "2026-02-11 12:02:06.479"
+        },
+        {
+          "message_media": [],
+          "message_text": "Faherty Brand: Buy the Sunwashed Canvas CPO Shirt Jacket, Dennis — relaxed fit with rugged texture and lived-in look.\n\n204 people have recently viewed that jacket.\n\nDon't miss out. Shop now: https://fahertybrand.attn.tv/aCGzZ2-DK7Uz .",
+          "message_type": "system",
+          "date_time": "2026-02-11 15:08:33.301"
+        },
+        {
+          "message_media": [],
+          "message_text": "Faherty Brand: Hey Dennis — thanks for visiting Faherty.\n\nUse code SMS86MSCWZJ for 15% off your purchase.\n\nShop now: https://fahertybrand.attn.tv/a9ECPBHY0Ak- .",
+          "message_type": "system",
+          "date_time": "2026-02-12 12:02:55.645"
+        },
+        {
+          "message_media": [],
+          "message_text": "Faherty Brand: Grab the Sunwashed Regenerative Cotton Tee in your cart, Dennis — cozy, timeless comfort with a lived-in feel.\n\nUse code SMS86MSCWZJ for 15% off at checkout.\n\nShop now: https://fahertybrand.attn.tv/aKPP2525od-z .",
+          "message_type": "system",
+          "date_time": "2026-02-12 18:01:20.943"
+        },
+        {
+          "message_media": [],
+          "message_text": "Faherty Brand: Dennis — versatile tees built for cool-weather comfort and easy layering.\n\nFree shipping on orders $150+ and free returns for 60 days.\n\nThis one's waiting: https://fahertybrand.attn.tv/alCvVuVCmdpf .",
+          "message_type": "system",
+          "date_time": "2026-02-12 19:01:30.988"
+        },
+        {
+          "message_media": [],
+          "message_text": "Faherty Brand: Big news: The Winter Event just started. Save up to 40% on our favorite sale styles before they're gone: fahertybrand.attn.tv/aQZ4VNi5HQfq ",
+          "message_type": "system",
+          "date_time": "2026-02-13 12:07:49.769"
+        },
+        {
+          "message_media": [],
+          "message_text": "Faherty Brand: Grab the Stretch Terry 5-Pocket Pant—rugged stretch with an authentic denim look, soft and comfy for cool weather, Dennis.\n\nUse code SMS86MSCWZJ for 15% off; free shipping on orders $150+, free returns for 60 days.\n\nShop now: https://fahertybrand.attn.tv/aw-feUzOiJiv .",
+          "message_type": "system",
+          "date_time": "2026-02-13 17:29:32.219"
+        },
+        {
+          "message_media": [],
+          "message_text": "Faherty Brand: Grab the Coastline Knit Shirt in your cart, Dennis — relaxed fit, soft stretch, perfect for cool days.\n\nUse code SMS86MSCWZJ for 15% off at checkout.\n\nShop now: https://fahertybrand.attn.tv/a9TSOJFzFqlW .",
+          "message_type": "system",
+          "date_time": "2026-02-13 18:52:42.940"
+        },
+        {
+          "message_media": [],
+          "message_text": "Faherty Brand: Dennis, versatile shirts built for cool, cozy weather and timeless comfort, await in the men's shirt guide.\n\nThis look is for you: https://fahertybrand.attn.tv/a0eFWQWI-zKS .",
+          "message_type": "system",
+          "date_time": "2026-02-13 19:52:49.247"
+        },
+        {
+          "message_media": [],
+          "message_text": "Faherty Brand: \"I wear these more than anything else I own.\" The Stretch Terry Patch Pocket Pant is back in a new spring shade: fahertybrand.attn.tv/abgGKktbehwF ",
+          "message_type": "system",
+          "date_time": "2026-02-14 12:02:15.637"
+        },
+        {
+          "message_media": [],
+          "message_text": "Faherty Brand: Not ready to pack away your layers? Good. These jackets are made for this exact stretch of weather: fahertybrand.attn.tv/anJuMiLS4zoN ",
+          "message_type": "system",
+          "date_time": "2026-02-15 12:02:13.806"
+        },
+        {
+          "message_media": [],
+          "message_text": "Faherty Brand: Grab the Coastline Stretch Chino — slim straight chino with organic cotton and stretch for all-day comfort, cozy and timeless, Dennis.\n\nUse code SMS86MSCWZJ for 15% off. Free shipping on orders $150+. Free returns for 60 days.\n\nShop now: https://fahertybrand.attn.tv/aB_A9qShO2vU .",
+          "message_type": "system",
+          "date_time": "2026-02-15 21:57:44.074"
+        },
+        {
+          "message_media": [],
+          "message_text": "Faherty Brand: Grab the Coastline Stretch Chino in your cart, Dennis — soft stretch fabric and a slim, comfortable fit.\n\nUse code SMS86MSCWZJ for 15% off at checkout.\n\nShop now: https://fahertybrand.attn.tv/aUd38zWUFx62 .",
+          "message_type": "system",
+          "date_time": "2026-02-16 13:42:24.745"
+        },
+        {
+          "message_media": [],
+          "message_text": "Faherty Brand: Dennis, these stretch terry pants pair casual comfort with clean, timeless lines, ready for cool-weather wear.\n\nFree shipping on orders $150+. Free returns for 60 days.\n\nBuy here: https://fahertybrand.attn.tv/aBkNTXZcw-oi .",
+          "message_type": "system",
+          "date_time": "2026-02-16 14:42:35.131"
+        },
+        {
+          "message_media": [],
+          "message_text": "Faherty Brand: Grab the Coastline Knit Shirt — soft, stretchy Supima Cotton and TENCEL Lyocell in a relaxed fit for cozy, timeless wear, Dennis.\n\nUse code SMS86MSCWZJ for 15% off; free shipping on orders $150+ and free returns for 60 days.\n\nShop now: https://fahertybrand.attn.tv/akrDwZOqJCnn .",
+          "message_type": "system",
+          "date_time": "2026-02-17 12:03:47.763"
+        },
+        {
+          "message_media": [],
+          "message_text": "This code cannot be used anymore",
+          "message_type": "customer",
+          "date_time": "2026-02-17 12:41:47.158"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"Code won't work - All brands\"; last updated: 2023-10-10 16:36:42.859",
+          "message_type": "template",
+          "date_time": "2026-02-17 12:52:33.702"
+        },
+        {
+          "message_media": [],
+          "message_text": "Faherty Brand: Thanks for reaching out, and I'm sorry to hear that. Have you encountered any error messages? Also, could you kindly share a screenshot of the items in your cart? I'll be happy to look into the issue!",
+          "message_type": "agent",
+          "agent": "109972",
+          "message_id": "019c6cbb-8191-4e41-f000-0000f4760fb0",
+          "date_time": "2026-02-17 12:52:33.703"
+        }
+      ],
+      "notes": {
+        "send_to_cs": [
+          "No ESC for this client, send everything to CS",
+          "For order status inquiries/issues send to CS immediately"
+        ],
+        "tone": [
+          "Close the convo once the client takes over!"
+        ]
+      },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://fahertybrand.com",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "The MovementTM Shirt - North Twilight Plaid - North Twilight Plaid / XL",
+            "link": "https://fahertybrand.com/products/the-movement-shirt-north-twilight-plaid?variant=43045434327109&glCountry=US&glCurrency=USD&gad_source=1&gad_campaignid=22730965149&gbraid=0AAAAADu3V2KNrW_7PH7aAWC_QN-Pj6KFJ&gclid=CjwKCAiAwNDMBhBfEiwAd7ti1GlWvM2a9GxsYEaAvHVmIItwbQcna2IdN_RsG1zrOjqJ314kLZ0rvRoCXsUQAvD_BwE",
+            "timeAgo": "2026-02-17"
+          },
+          {
+            "item": "Coastline Knit Shirt - Forest Heather Twill - Forest Heather Twill / XS",
+            "link": "https://fahertybrand.com/products/coastline-knit-shirt-summer-teal-plaid?variant=44157420470341",
+            "timeAgo": "2026-02-17"
+          },
+          {
+            "item": "Coastline Knit Shirt - Forest Heather Twill - Forest Heather Twill / XS",
+            "link": "https://fahertybrand.com/products/coastline-knit-shirt-dune-ash-plaid?variant=43712308445253",
+            "timeAgo": "2026-02-17"
+          },
+          {
+            "item": "Coastline Knit Shirt - Forest Heather Twill - Forest Heather Twill / XS",
+            "link": "https://fahertybrand.com/products/coastline-knit-shirt-clay-twilight-plaid?variant=43712307920965",
+            "timeAgo": "2026-02-17"
+          },
+          {
+            "item": "Coastline Knit Shirt - Forest Heather Twill - Forest Heather Twill / XS",
+            "link": "https://fahertybrand.com/products/coastline-knit-shirt-ocean-grey-check?variant=43712316735557",
+            "timeAgo": "2026-02-17"
+          }
+        ],
+        "orders": [
+          {
+            "orderNumber": "6432438026309",
+            "orderDate": "2026-02-12",
+            "items": [
+              {
+                "name": "Short-Sleeve Sunwashed Henley - Sage Creek",
+                "price": 39,
+                "productLink": "https://faherty.myshopify.com/products/ss-sunwashed-henley-sage-creek"
+              },
+              {
+                "name": "Sunwashed Canvas CPO - Washed Charcoal",
+                "price": 99,
+                "productLink": "https://faherty.myshopify.com/products/sunwashed-canvas-cpo-washed-charcoal"
+              },
+              {
+                "name": "Inlet Knit CPO - Hendricks Indigo Wash",
+                "price": 89,
+                "productLink": "https://faherty.myshopify.com/products/inlet-knit-cpo-hendricks-indigo-wash"
+              }
+            ],
+            "total": 206.62,
+            "coupon": "OX0TZK8P",
+            "date_time": "2026-02-12 02:11:22.709"
+          },
+          {
+            "orderNumber": "6430390353989",
+            "orderDate": "2026-02-10",
+            "items": [
+              {
+                "name": "Stretch Terry 5-Pocket Pant - Elk Brown",
+                "price": 99,
+                "productLink": "https://faherty.myshopify.com/products/stretch-terry-5pocket-elk-brown"
+              },
+              {
+                "name": "Coastline Stretch Chino - Alpine Brown",
+                "price": 84,
+                "productLink": "https://faherty.myshopify.com/products/coastline-chino-alpine-brown"
+              }
+            ],
+            "total": 171.88,
+            "coupon": "SMS3JBWVW9W",
+            "date_time": "2026-02-10 21:40:16.677"
+          },
+          {
+            "orderNumber": "6079122604101",
+            "orderDate": "2025-08-14",
+            "items": [
+              {
+                "name": "MovementTM Long-Sleeve T-Shirt - Great Falls Heather Great Falls Heather / S",
+                "price": 54,
+                "productLink": "https://faherty.myshopify.com/products/ls-movement-tshirt-great-falls-heather"
+              }
+            ],
+            "total": 41.77,
+            "coupon": "0QE7DWMEMMHD,FREESHIP2025",
+            "date_time": "2025-08-14 20:00:05.000"
+          },
+          {
+            "orderNumber": "6070528245829",
+            "orderDate": "2025-08-12",
+            "items": [
+              {
+                "name": "Long-Sleeve Field Knit Polo - Blue Nights Blue Nights / S",
+                "price": 54,
+                "productLink": "https://faherty.myshopify.com/products/ls-twill-knit-polo-blue-nights"
+              },
+              {
+                "name": "Corduroy Patch Hat - Phantom Phantom / OS",
+                "price": 24,
+                "productLink": "https://faherty.myshopify.com/products/corduroy-patch-hat-phantom-23"
+              },
+              {
+                "name": "MovementTM Long-Sleeve T-Shirt - Rainier Grey Heather Rainier Grey Heather / S",
+                "price": 44,
+                "productLink": "https://faherty.myshopify.com/products/ls-movement-tshirt-rainier-grey-heather"
+              },
+              {
+                "name": "MovementTM Long-Sleeve T-Shirt - Great Falls Heather Great Falls Heather / S",
+                "price": 54,
+                "productLink": "https://faherty.myshopify.com/products/ls-movement-tshirt-great-falls-heather"
+              },
+              {
+                "name": "MovementTM Quarter Zip - Charcoal Stream Stripe Charcoal Stream Stripe / S",
+                "price": 69,
+                "productLink": "https://faherty.myshopify.com/products/movement-quarter-zip-charcoal-stream-stripe"
+              }
+            ],
+            "total": 167.39,
+            "coupon": "SUMMER,MWLTMM1S",
+            "date_time": "2025-08-12 21:07:07.000"
+          },
+          {
+            "orderNumber": "6079122604101",
+            "orderDate": "2025-08-06",
+            "items": [
+              {
+                "name": "MovementTM Long-Sleeve T-Shirt - Great Falls Heather",
+                "price": 54,
+                "productLink": "https://faherty.myshopify.com/products/ls-movement-tshirt-great-falls-heather"
+              }
+            ],
+            "total": 41.77,
+            "date_time": "2025-08-06 20:26:32.850"
+          }
+        ]
+      },
+      "escalation_preferences": [],
+      "blocklisted_words": [],
+      "has_shopify": true
+    },
+    "138": {
+      "id": "019c4f4c-53d0-476c-f000-0000e5a63c31",
+      "companyName": "Kathy Kuo Home",
+      "companyWebsite": "https://kathykuohome.com",
       "agentName": "Sarah",
       "messageTone": "Polished",
       "conversation": [
         {
           "message_media": [],
-          "message_text": "Bartesian: Thanks for your recent purchase! Have you checked out our newest cocktail releases? Find your favorites: https://bartesian.attn.tv/aKnCKFY7LDO- ",
+          "message_text": "Kathy Kuo: Winter Sale starts now! Thoughtfully designed pieces to cozy up your home, on sale for a limited time only: kathykuohome.attn.tv/aX33eUHcUldh . ",
           "message_type": "system",
-          "date_time": "2026-01-14 18:23:30.085"
+          "date_time": "2026-01-13 12:06:42.493"
         },
         {
           "message_media": [],
-          "message_text": "Bartesian: Planning Valentine's at home? Cupid's Arrow makes date night cocktails easy in one click. Shop now: bartesian.attn.tv/aZb_akW2E7fK ",
+          "message_text": "Kathy Kuo: Hi, I'm Sarah, your personal shopper for Kathy Kuo Home. Do you need help finding that perfect piece? \n\nhttps://kathykuohome.attn.tv/anZ2uAg79hCK .",
           "message_type": "system",
-          "date_time": "2026-01-17 16:01:04.862"
+          "date_time": "2026-01-14 12:15:52.838"
         },
         {
           "message_media": [],
-          "message_text": "Bartesian: Hi! I'm Sarah, need help choosing a machine? See Bartesian in action and view comparisons here: https://bartesian.attn.tv/aQ58vN-Zl9HO ",
+          "message_text": "Kathy Kuo: Great news! We dropped the price on our Riona Coastal Beach Blue Striped Performance White Wood Bed - Queen! Get the look you love before it goes: kathykuohome.attn.tv/a-ilKs0QyEYq .",
           "message_type": "system",
-          "date_time": "2026-01-23 15:36:49.937"
+          "date_time": "2026-01-14 12:54:18.337"
         },
         {
           "message_media": [],
-          "message_text": "Bartesian: Need help choosing a Bartesian machine? See it in action and compare models here: https://bartesian.attn.tv/aJaTK5y-JgUr ",
+          "message_text": "Kathy Kuo: Our most-loved pieces are back in stock. Now part of the Winter Sale! Cozy upgrades, on sale, no waiting: kathykuohome.attn.tv/aH1efIf-LGhd . ",
           "message_type": "system",
-          "date_time": "2026-01-26 19:24:00.742"
+          "date_time": "2026-01-15 12:30:54.399"
         },
         {
           "message_media": [],
-          "message_text": "Bartesian: Save on every sip with a subscription! Up to 20% off cocktails, 50% off accessories & free shipping: https://bartesian.attn.tv/aKPkUwSxIVzs ",
+          "message_text": "Kathy Kuo: Don't forget our Riona Coastal Beach Blue Striped Performance White Wood Bed - Queen was lowered in price for a limited time only! Shop the savings: kathykuohome.attn.tv/atG79-yq5sGX",
           "message_type": "system",
-          "date_time": "2026-01-28 18:23:35.583"
+          "date_time": "2026-01-15 18:54:31.428"
         },
         {
           "message_media": [],
-          "message_text": "Bartesian: Final hours to upgrade game day. Order by midnight tonight for cocktails ready by kickoff. bartesian.attn.tv/aM_Ow8gAvKbQ ",
+          "message_text": "Kathy Kuo: Great news! We dropped the price on our Joy Rustic Lodge Natural Brown Ash Wood Rectangular Shelving Coffee Table! Get the look you love before it goes: kathykuohome.attn.tv/auniLY84POYB .",
           "message_type": "system",
-          "date_time": "2026-02-01 16:00:46.844"
+          "date_time": "2026-01-17 12:30:17.839"
         },
         {
           "message_media": [],
-          "message_text": "Bartesian: Need some help deciding? Reply now. Over 60+ premium cocktails are waiting to be enjoyed - check out now: bartesian.attn.tv/ahX6KA1asNtr \n\n",
+          "message_text": "Kathy Kuo: Amazing news! The Inari Updated Traditional Blue Wool Oriental Patterned Hand Knotted Rug - 2'x3' you were looking at is back in stock! \n\nShop now before this designer favorite sells out again: https://kathykuohome.attn.tv/anMELbuKhSRJ .",
           "message_type": "system",
-          "date_time": "2026-02-02 12:26:38.782"
+          "date_time": "2026-01-17 12:42:29.097"
         },
         {
           "message_media": [],
-          "message_text": "Bartesian: Hi! I'm Sarah, need help deciding? Reply here. \nSign up & save up to 20% OFF cocktails: https://bartesian.attn.tv/aYbVnU-UIEGd ",
+          "message_text": "Kathy Kuo: Thanks for stopping by! We hope you got the chance to check out our bestsellers, designed to elevate your home with everyday comfort and soulful style. \n\nShop Bestsellers: https://kathykuohome.attn.tv/abuEOYttTUtC . ",
           "message_type": "system",
-          "date_time": "2026-02-03 12:35:58.678"
+          "date_time": "2026-01-17 17:12:03.394"
         },
         {
           "message_media": [],
-          "message_text": "Bartesian: Check out now! https://bartesian.attn.tv/a5B5kGwoAV79 \nSign up for our cocktail subscription to save up to 35% now.",
+          "message_text": "Kathy Kuo: Don't forget our Joy Rustic Lodge Natural Brown Ash Wood Rectangular Shelving Coffee Table was lowered in price for a limited time only! Shop the savings: kathykuohome.attn.tv/aTuCz_jx61bi",
           "message_type": "system",
-          "date_time": "2026-02-05 18:04:47.591"
+          "date_time": "2026-01-18 18:30:38.357"
         },
         {
           "message_media": [],
-          "message_text": "Bartesian: Hi! I'm Sarah, need help deciding? Reply here. \nSign up & save up to 20% OFF cocktails: https://bartesian.attn.tv/aga5b6ugwt70 ",
+          "message_text": "Kathy Kuo: Our Winter Sale is officially here! 20% Off + Free Shipping on timeless pieces to refresh for the year ahead: kathykuohome.attn.tv/a4du14Vb-jVT . ",
           "message_type": "system",
-          "date_time": "2026-02-10 17:09:19.014"
+          "date_time": "2026-01-19 12:07:59.711"
         },
         {
           "message_media": [],
-          "message_text": "No.  I purchased the small one.  Used it for 9 consecutive days and the tequila started leaking out of the bottle onto the machine.  I haven't checked trouble shooting yet, but it wasted tequila.  Do you know of a reason this would happen?  I've removed the bottle, but haven't looked into the issue yet.",
+          "message_text": "Kathy Kuo: Hey there, this is Sarah. Thanks for checking out our site! https://kathykuohome.attn.tv/akMhzLXHflaF . Are you working on a home design project we can help you with?",
+          "message_type": "system",
+          "date_time": "2026-01-20 14:13:00.735"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Got your eye on this? We love it too! Shop the perfect piece for your home: kathykuohome.attn.tv/aOuxGioqvjfR .",
+          "message_type": "system",
+          "date_time": "2026-01-20 14:32:15.220"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Hey there, your great picks are waiting! Use code KKHSHIP15 for 15% off + free shipping. Finish your order here: kathykuohome.attn.tv/aGhYHsqTi5jS . ",
+          "message_type": "system",
+          "date_time": "2026-01-20 19:01:37.065"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Last day to shop the Winter Sale! Thoughtfully designed pieces, 20% Off, a beautiful way to refresh your home: kathykuohome.attn.tv/axPgwEo_BWeX . ",
+          "message_type": "system",
+          "date_time": "2026-01-21 12:05:50.705"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Hi, I'm Sarah, your personal shopper for Kathy Kuo Home. Do you need help finding that perfect piece? \n\nhttps://kathykuohome.attn.tv/aWqX2ukcWBs8 .",
+          "message_type": "system",
+          "date_time": "2026-01-22 12:19:05.693"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Amazing news! The Inari Updated Traditional Blue Wool Oriental Patterned Hand Knotted Rug - 2'x3' you were looking at is back in stock! \n\nShop now before this designer favorite sells out again: https://kathykuohome.attn.tv/a4dOdK9h08p6 .",
+          "message_type": "system",
+          "date_time": "2026-01-22 12:27:59.171"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: A room starts with walls. Our all-new wallpaper collection brings depth, history, and intention to every space: kathykuohome.attn.tv/aIrO3kdw4Ztg . ",
+          "message_type": "system",
+          "date_time": "2026-01-23 15:35:39.318"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Thanks for stopping by! We hope you got the chance to check out our bestsellers, designed to elevate your home with everyday comfort and soulful style. \n\nShop Bestsellers: https://kathykuohome.attn.tv/afI1omO2P_ul . ",
+          "message_type": "system",
+          "date_time": "2026-01-25 12:37:30.533"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Insiders only! Enjoy 20% Off + Free Standard Shipping on styles you love with code JAN26: kathykuohome.attn.tv/aHRFkTzxMQkT \n\nExclusions apply. ",
+          "message_type": "system",
+          "date_time": "2026-01-26 12:30:45.021"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Amazing news! The Inari Updated Traditional Blue Wool Oriental Patterned Hand Knotted Rug - 2'x3' you were looking at is back in stock! \n\nShop now before this designer favorite sells out again: https://kathykuohome.attn.tv/afw2YjnEs947 .",
+          "message_type": "system",
+          "date_time": "2026-01-27 12:27:30.957"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Reminder that today's the last day to take 20% off + enjoy FREE shipping with code JAN26. Shop the sale: kathykuohome.attn.tv/aYQbCRwyKQwG . ",
+          "message_type": "system",
+          "date_time": "2026-01-28 12:30:37.781"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Hey there, your great picks are waiting! Use code KKHSHIP15 for 15% off + free shipping. Finish your order here: kathykuohome.attn.tv/a6MsAfFRUQK3 . ",
+          "message_type": "system",
+          "date_time": "2026-01-28 16:16:51.699"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Amazing news! The Inari Updated Traditional Blue Wool Oriental Patterned Hand Knotted Rug - 2'x3' you were looking at is back in stock! \n\nShop now before this designer favorite sells out again: https://kathykuohome.attn.tv/aK1LEIutHV22 .",
+          "message_type": "system",
+          "date_time": "2026-01-30 12:32:25.900"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Reminder! Get our Inari Updated Traditional Blue Wool Oriental Patterned Hand Knotted Rug - 2'x3' while it's in stock! \n\nMake the design magic happen: https://kathykuohome.attn.tv/aO2vG_kxaOr2 .",
+          "message_type": "system",
+          "date_time": "2026-01-31 12:32:32.934"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Got your eye on this? We love it too! Shop the perfect piece for your home: kathykuohome.attn.tv/a4676UT1CoiW .",
+          "message_type": "system",
+          "date_time": "2026-02-03 12:51:48.859"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Great news! We dropped the price on our Sullie Updated Traditional Navy Velvet Scallop Throw Pillow - 20x20! Get the look you love before it goes: kathykuohome.attn.tv/a2guYB9awcr2 .",
+          "message_type": "system",
+          "date_time": "2026-02-04 12:11:56.837"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Amazing news! The Sullie Updated Traditional Light Beige Velvet Scallop Throw Pillow - 20x20 you were looking at is back in stock! \n\nShop now before this designer favorite sells out again: https://kathykuohome.attn.tv/atJj3rmeY569 .",
+          "message_type": "system",
+          "date_time": "2026-02-04 12:13:11.510"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Reminder! Get our Sullie Updated Traditional Light Beige Velvet Scallop Throw Pillow - 20x20 while it's in stock! \n\nMake the design magic happen: https://kathykuohome.attn.tv/aYQodbtnJ9KH .",
+          "message_type": "system",
+          "date_time": "2026-02-05 12:13:22.830"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Don't forget our Sullie Updated Traditional Navy Velvet Scallop Throw Pillow - 20x20 was lowered in price for a limited time only! Shop the savings: kathykuohome.attn.tv/avefErWtOPrt",
+          "message_type": "system",
+          "date_time": "2026-02-05 18:12:18.461"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Amazing news! The Lupe Industrial Loft Brass Aluminum Matchstick Pedestal Round Side End Table you were looking at is back in stock! \n\nShop now before this designer favorite sells out again: https://kathykuohome.attn.tv/atEE7ck-K_U4 .",
+          "message_type": "system",
+          "date_time": "2026-02-06 12:48:24.730"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Reminder! Get our Lupe Industrial Loft Brass Aluminum Matchstick Pedestal Round Side End Table while it's in stock! \n\nMake the design magic happen: https://kathykuohome.attn.tv/aCoobd2Ez_g7 .",
+          "message_type": "system",
+          "date_time": "2026-02-07 12:48:33.755"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Great news! We dropped the price on our Rex Modern Classic Natural Oak Rectangular Storage Coffee Table! Get the look you love before it goes: kathykuohome.attn.tv/aGp6bVW5mF7t .",
+          "message_type": "system",
+          "date_time": "2026-02-07 12:50:51.187"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Amazing news! The Stella French Country Dark Blue Cotton Scallop Throw Pillow - 18x18 you were looking at is back in stock! \n\nShop now before this designer favorite sells out again: https://kathykuohome.attn.tv/aRVXcfNIoqqm .",
+          "message_type": "system",
+          "date_time": "2026-02-08 12:54:26.378"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Don't forget our Rex Modern Classic Natural Oak Rectangular Storage Coffee Table was lowered in price for a limited time only! Shop the savings: kathykuohome.attn.tv/aH-3xRsDavu6",
+          "message_type": "system",
+          "date_time": "2026-02-08 18:51:05.600"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: President's Day deals are here early! Up to 25% Off + Free Shipping on statement styles for a spring refresh: kathykuohome.attn.tv/ayxT36gSxiGc . ",
+          "message_type": "system",
+          "date_time": "2026-02-09 12:15:34.183"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Hey there, this is Sarah. Thanks for checking out our site! https://kathykuohome.attn.tv/aq-vr3j6v3lw . Are you working on a home design project we can help you with?",
+          "message_type": "system",
+          "date_time": "2026-02-09 16:25:06.392"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Got your eye on this? We love it too! Shop the perfect piece for your home: kathykuohome.attn.tv/aUJrQHFJ5Krj .",
+          "message_type": "system",
+          "date_time": "2026-02-09 18:24:06.822"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Great news! We dropped the price on our Laura Modern Classic Charcoal Oak Wood Round Edge Oval Coffee Table! Get the look you love before it goes: kathykuohome.attn.tv/a-RSrywO7fzA .",
+          "message_type": "system",
+          "date_time": "2026-02-10 14:15:47.203"
+        },
+        {
+          "message_media": [],
+          "message_text": "Help. My furniture delivery is going to the wrong address.   I live in charlotte it's going to Connecticut. It's in Dallas today. Any way to stop and change. Ugh",
           "message_type": "customer",
-          "date_time": "2026-02-10 17:59:14.033"
+          "date_time": "2026-02-11 19:38:25.570"
         },
         {
           "message_media": [],
-          "message_text": "Bartesian: Thanks for getting in touch! I sincerely apologize for the inconvenience. This definitely isn't the experience we wanted for you! To ensure I provide the most accurate answer, I'll reach out to our team for more insights. We'll get back to you as soon as we have an update. Feel free to let me know if you need help with anything else in the meantime.",
+          "message_text": "Kathy Kuo: Thanks for getting in touch! I'm really sorry for the inconvenience. I would be happy to have our team look into this. Could you provide the order number and the email address you used when you placed the order?",
           "message_type": "agent",
           "agent": "109840",
-          "message_id": "019c49ca-3aad-40ce-f000-0000f0a68933",
-          "date_time": "2026-02-10 18:01:56.039"
-        }
-      ],
-      "notes": {
-        "send_to_cs": [
-          "For Hardware Damage/Troubleshooting:",
-          "➜ Use HDT shortcut",
-          "➜ If there are still issues send to CS"
-        ],
-        "tone": [
-          "Do not use \"pod(s)\" - language is \"capsules\""
-        ],
-        "drive_to_purchase": [
-          "Unless cx specifies, default to recommending \"The Bartesian Cocktail Maker\""
-        ],
-        "journey_replies_process": [
-          "The automated journey will ask the customer if they were satisfied with the product:",
-          "➜ If the customer answers \"No\" an automated message will ask them what went wrong - when they respond use temp \"Journey 1\" and ESC",
-          "➜ If the customer answers \"Yes\" an automated message will ask them what they liked - when they respond use temp \"Journey 2\" only",
-          "For the journey where customers are asked what is their preferred spirit:",
-          "➜ If they answer incorrectly/multiple answers - send the template for the spirit they select",
-          "➜If they answer with multiple options - edit/combine the templates"
-        ]
-      },
-      "rightPanel": {
-        "source": {
-          "label": "Website",
-          "value": "https://bartesian.com",
-          "date": ""
-        },
-        "browsingHistory": [
-          {
-            "item": "Cafécito Churro Capsules - 8 Capsules",
-            "link": "https://bartesian.com/products/cafecito-churro-capsules?variant=45626464338119",
-            "timeAgo": "2026-02-10"
-          }
-        ],
-        "orders": [
-          {
-            "orderNumber": "6712640798919",
-            "orderDate": "2026-02-03",
-            "items": [
-              {
-                "name": "Tequila Sunrise Capsules",
-                "price": 19.99,
-                "productLink": "https://bartesianshop.myshopify.com/products/tequila-sunrise-capsules"
-              },
-              {
-                "name": "Margarita Capsules",
-                "price": 19.99,
-                "productLink": "https://bartesianshop.myshopify.com/products/margarita-cocktails"
-              },
-              {
-                "name": "Spicy Margarita Capsules",
-                "price": 19.99,
-                "productLink": "https://bartesianshop.myshopify.com/products/spicy-margarita-cocktails"
-              },
-              {
-                "name": "Tropical Margarita Collection Variety Pack",
-                "price": 19.99,
-                "productLink": "https://bartesianshop.myshopify.com/products/tropical-margarita-collection"
-              },
-              {
-                "name": "Jalapeno Lime Shrub Capsules",
-                "price": 19.99,
-                "productLink": "https://bartesianshop.myshopify.com/products/jalapeno-lime-shrub-cocktails"
-              }
-            ],
-            "total": 90.95,
-            "date_time": "2026-02-03 02:53:32.283"
-          },
-          {
-            "orderNumber": "6657311801543",
-            "orderDate": "2025-12-31",
-            "items": [
-              {
-                "name": "Margarita Capsules",
-                "price": 19.6,
-                "productLink": "https://bartesianshop.myshopify.com/products/margarita-cocktails"
-              },
-              {
-                "name": "Amaretto Sour Capsules",
-                "price": 19.04,
-                "productLink": "https://bartesianshop.myshopify.com/products/amaretto-sour-cocktails"
-              },
-              {
-                "name": "Pink Himalayan Margarita Salt Rimmer",
-                "price": 9,
-                "productLink": "https://bartesianshop.myshopify.com/products/pink-himalayan-margarita-salt-rimmer"
-              },
-              {
-                "name": "Duet Cocktail Maker",
-                "price": 199,
-                "productLink": "https://bartesianshop.myshopify.com/products/bartesian-duet-cocktail-maker"
-              }
-            ],
-            "total": 263.27,
-            "date_time": "2025-12-31 23:23:14.768"
-          }
-        ]
-      },
-      "escalation_preferences": [
-        "upset/angry customer"
-      ],
-      "blocklisted_words": [
-        "pod"
-      ],
-      "has_shopify": true
-    },
-    "137": {
-      "id": "019c7c62-6b3b-4430-f000-00005efc6ec9",
-      "companyName": "Cecil and Lou",
-      "companyWebsite": "https://cecilandlou.com",
-      "agentName": "Emma",
-      "messageTone": "Polished",
-      "conversation": [
-        {
-          "message_media": [],
-          "message_text": "Cecil and Lou: Welcome! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
-          "message_type": "system",
-          "date_time": "2026-02-20 11:27:36.808"
-        },
-        {
-          "message_media": [],
-          "message_text": "Cecil and Lou: 🎀 Welcome to the Cecil and Lou family! We're so thrilled to have you with us! Here's a little gift-enjoy 15% off with your special code! TSRK0EUZ\nShop now: candl.attn.tv/a73z3v3unDwp ",
-          "message_type": "system",
-          "date_time": "2026-02-20 11:27:40.673"
-        },
-        {
-          "message_media": [],
-          "message_text": "Cecil and Lou: Life is busy! Save this to your contacts so you don't miss any exclusive offers from Cecil & Lou.",
-          "message_type": "system",
-          "date_time": "2026-02-20 13:14:11.050"
-        },
-        {
-          "message_media": [],
-          "message_text": "Cecil and Lou: 💗 Thanks for visiting Cecil and Lou! This is Emma, I'm happy to help you discover darling styles!\n\nWho are you shopping for today?",
-          "message_type": "system",
-          "date_time": "2026-02-20 13:26:50.510"
-        },
-        {
-          "message_media": [],
-          "message_text": "My code isnt working",
-          "message_type": "customer",
-          "date_time": "2026-02-20 13:46:06.824"
-        },
-        {
-          "message_media": [],
-          "message_text": "Cecil and Lou: Thank you for reaching out, and I'm sorry to hear that! Please note that the code is valid only for first-time purchases, and I can see on my end that you already made a purchase previously. That's why the code isn't working this time. I hope this clarifies everything! In the meantime, you can find our on-sale collection here: https://candl.attn.tv/aifIXDJa-sVv\n\nHope this helps! If you have any questions, feel free to text me.",
-          "message_type": "agent",
-          "agent": "87295",
-          "message_id": "019c7c62-6b3b-4430-f000-00005efc6ec9",
-          "date_time": "2026-02-20 13:49:10.735"
-        }
-      ],
-      "notes": {
-        "send_to_cs": [
-          "No ESC for this client, send everything to CS"
-        ],
-        "ai_instructions": [
-          "Do not escalate anything, if the customer question cannot be handled, send template titled Customer support",
-          "If inbound question references 'pre-order' or 'preorder' send template titled Customer Support"
-        ]
-      },
-      "rightPanel": {
-        "source": {
-          "label": "Website",
-          "value": "https://cecilandlou.com",
-          "date": ""
-        },
-        "orders": [
-          {
-            "orderNumber": "6415654912298",
-            "orderDate": "2024-12-11",
-            "items": [
-              {
-                "name": "Navidium Shipping Protection protection fee: 3",
-                "price": 2.25,
-                "productLink": "https://www.cecilandlou.com/products/navidium-shipping-protection-navidium-shipping-protection?variant=49469244047658"
-              },
-              {
-                "name": "Navidium Shipping Protection protection fee: 3",
-                "price": 2.25,
-                "productLink": "https://www.cecilandlou.com/products/navidium-shipping-protection-navidium-shipping-protection"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble Size: 12M, Want A Pink Fancy Monogram? No",
-                "price": 25.5,
-                "productLink": "https://www.cecilandlou.com/products/girls-pink-and-blue-heart-and-bow-bubble"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble Size: 12M, Want A Pink Cursive Hemstitch Font Monogram? No",
-                "price": 37,
-                "productLink": "https://www.cecilandlou.com/products/girls-pink-stripe-shadow-embroidered-bunny-bubble"
-              }
-            ],
-            "total": 69.71,
-            "date_time": "2024-12-11 00:13:54.000"
-          },
-          {
-            "orderNumber": "6415373599018",
-            "orderDate": "2024-12-11",
-            "items": [
-              {
-                "name": "Navidium Shipping Protection protection fee: min-price",
-                "price": 1.5,
-                "productLink": "https://www.cecilandlou.com/products/navidium-shipping-protection-navidium-shipping-protection-1"
-              },
-              {
-                "name": "White Geometric Smocked Rosebud Diaper Set Size: 12M",
-                "price": 43,
-                "productLink": "https://www.cecilandlou.com/products/girls-white-geometric-smocked-rosebud-diaper-set"
-              },
-              {
-                "name": "Navidium Shipping Protection protection fee: min-price",
-                "price": 1.5,
-                "productLink": "https://www.cecilandlou.com/products/navidium-shipping-protection-navidium-shipping-protection-1?variant=49469242638634"
-              }
-            ],
-            "total": 48.04,
-            "date_time": "2024-12-11 00:05:53.000"
-          },
-          {
-            "orderNumber": "838557",
-            "orderDate": "2024-02-02",
-            "items": [
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://www.gamenerdz.com/mystic-china-rpg"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://checkout.sportsshoes.com/vivobarefoot-esc-tempest-swimrun-shoes-viv756/"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://mcprod.petflow.com/victor-grain-free-countryside-canine-formula-with-chicken-sweet-potato-dry-dog-food/"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://www.antiquefarmhouse.com/cast-iron-frog-crown-decor.html"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://premierecollectibles.com/deathofme"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://www.thrivemarket.com/p/humangear-gotoob-large-3-pack-disco"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://www.eztestpools.com/maytronics-cover-plug-for-frame-2011-models-3390223/"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://www.luggagesuperstore.co.uk/brics-firenze-beauty-case/"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://superjeweler.com/14-karat-white-gold-0-80mm-24-inch-classic-white-box-chain-necklace-19108.html"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://www.steeda.com/fel-pro-2601720-mustang-5l-complete-engine-gasket-kit"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://www.teppermans.com/audrey-storage-bench-grey-audrey-grey"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://www.homeshoppingmalls.com/transitional-queen-full-metal-headboard-in-black-coaster-300182qf"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://eknives.com/benchmade-azeria-fixed-blade-knife-black-2-9-wharncliffe-black-125bk/"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://www.famousfootwear.com/product/bearpaw-womens-jasmine-water-resistant-winter-boot-5278406/cinder-19108"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://www.factorydirectjewelry.com/solid--gold-country-of-china-geography-pendant-necklace/"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://trendytransfers.com/shamrocks-cocktail-club-faux-glitter-dtf-heat-transfer/"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://cieleathletics.com/?post_type=product&p=19108"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://www.seriouspuzzles.com/boston-globe-city-of-champions-550pc-jigsaw-puzzle-by-white-mountain-discon/"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://cheapfood.co.uk/mojo-hair-pro-salon-luxury-beard-oil-30ml/"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://www.macofalltrades.com/shop/clearance-iphone-13-512gb-at-t-pink/"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://www.prioritytire.com/bridgestone-dueler-h-l-422-ecopia-245-60r18-104h-as-a-s-all-season-tire"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://www.designsbyjuju.com/xmas-barn-applique"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://artbeads.com/jewelry-supplies/rhodium-twist-clasp/"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://www.lafurniturestore.com/nova-domus-angela-italian-modern-white-eco-leather-bed.html"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://www.misfitsmarket.com/shop/aisle?addToCart=19108"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://acuatlanta.net/sun-ten-single-herbs/di-long-100-gm"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://macks-prairie-wings-inc-alb.mybigcommerce.com/drake-arkansas-flyweight-wingshooters-shirt-ss/"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://hotrodcameras.com/sony-xlr-h1-xlr-handle-unit/"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://supplementwarehouse.com/products/barln-borage-oil-1000mg-60sg"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://csd.shop/products/women/clothing/marni-floral-print-cotton-v-neck-dress.html"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://www.jysk.ca/kenneth-cole-luggage-set-red.html"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://www.bathroomsalesdirect.com.au/product/meir-round-bottle-trap-for-32mm-basin-waste-and-40mm-outlet-gold/"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://www.evo.com/outlet/krux-marblo-2-downlow-35?image=19108/183675/krux-marblo-2-downlow-3-5-truck-.jpg"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://mcstaging.oka.com/trade_uk/wen-emperor-vase-a15468-1"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://checkout.fascinatingdiamonds.com/loose-diamonds/0-6-carat-round-cut-diamond-468239/"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://www.cecilandlou.com/girls/pink-stripe-shadow-embroidered-bunny-bubble/"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://www.jackit.com/bds-1575fpe-a.html"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://livecarmodel.com/products/1-18-hh-rolls-royce-2nd-generation-ghost-black-badge-metallic-red-resin-car-model-limited-30-pieces.html"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://www.toolnut.com/dewalt-dw22838-3-8-10-pc-impact-ready-socket-set.html"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://s3powersports.com/fuel-d780-runner-utv/"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://medicalmega.com/elastic-catheter-strap-each"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://www.lovesac.com/cstm-24x24-pillow-cover-canary-micro-velvet.html"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://www.seriousshops.com/window-seat-1000pc-jigsaw-puzzle-by-re-marks/"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://staging.freedommunitions.com/barnes-vor-tx-223-rem-55gr-tsx.html"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://heritagebooks.org/products/used-herman-hoeksema-the-triple-knowledge-a-commentary-on-the-heidelberg-catechism-3-vls-hoeksema-used-rfpa.html"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://www.mysupplementstore.com/allmax-longjack-tongkat-ali-60-capsules/"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://www.myotcstore.com/store/p/9475-3M-Nexcare-Comfort-Strip-Ultra-Fabric-Bandages-For-Knee-And-Elbow-8-Bandages"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://www.versare.com/6-x-6-high-density-polyester-blue-silver/"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://knifeworks.com/copy-of-knifeworks-black-heather-t-shirt-stay-sharp-unisex-large/"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://www.brilliance.com/wedding-rings/mid-weight-milgrain-mens-band-yellow-gold-6-mm"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://www.prioritytire.com/en/mastercraft-strategy-225-55r16-95h-as-a-s-all-season-tire"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://echoparkwholesale.com/netsuite-imports/seashore-ahoy-there-anchor-and-wheel-small-die-set/"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://www.vitalitymedical.com/20100116-19108.html"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://gagediamonds.com/emma-14k-yellow-gold-princess-moissanite-solitaire-bridal-set-5-8-ct-dew/"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://www.judybluewholesale.com/88523reg-md-11-30.html"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://www.stringsandbeyond.com/daddario-electric-guitar-single-string-nys018-nyxl-plain-steel-018.html"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://blessedperformance.com/smeding-diesel-non-vgt-t4-s300-turbo-gen-2-kit-2003-to-2007-6-0l-powerstroke/"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://www.studio-m.com/ap50027.html"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://shop.loriwhitlock.com/class-of-2021-2/"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://www.cassart.co.uk/Lamy-T51-Ink-30ml-Blue/"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://www.lightopia.com/Details/KuzcoLighting/19108"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://tgmskateboards.com/altamont-shorts-norm-short-grey-heather/"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://rticoutdoors.com/Road-Trip-Rolling-Duffle-Bag"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://checkout.livesuper.com/products/chemistry-heart-globe-rose-bracelet-set-6-pieces/"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://francescas.com/product/DLBP396SEPT/jordiie-brushed-plaid-button-down-top"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://collectorstore.com/dragon-shield-turquoise-players-choice-matte-sleeves-standard-size-100ct/"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://www.evo.com/en-ca/outlet/krux-marblo-2-downlow-35?image=19108/183675/krux-marblo-2-downlow-3-5-truck-.jpg"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://grandviewmercantile.com/product/robert-martin-primitive-handcrafted-barn-wood-cut-out-santa/"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://touchupdirect.com/shop/touch-up-paint/pontiac-roman-red-72-1977p/"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://www.zennioptical.com/p/oval-eyeglass-frames/19108?skuId=1910815"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://shop.centralparkpuppies.com/puppy/f1-cavapoo-female-id4029-ab/"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://www.napacabs.com/cincoro-extra-anejo-tequila-750ml.html"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://www.cardkingdom.com/mtg/homelands/truce"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://www.enjukuracing.com/products/hks-universal-hks-universal-stainless-hi-power-muffler-universal-stainless-hi-power-muffler.html"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://www.gorgeousshop.com/yves-saint-laurent-baby-doll-mascara-5ml.html"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://www.montanasilversmiths.com/nc4726"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://www.oka.com/uk/wen-emperor-vase-a15468-1"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://www.beautyplussalon.com/ardell-brow-confidential-brow-duo-medium-brown"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://americancycle.com/avent-nine43-bike-bmx-racing/"
-              },
-              {
-                "name": "Pink Stripe Shadow Embroidered Bunny Bubble",
-                "price": 37,
-                "productLink": "https://www.bedfords.com/29144055424"
-              }
-            ],
-            "total": 75.7,
-            "date_time": "2024-02-02 02:09:28.812"
-          },
-          {
-            "orderNumber": "838557",
-            "orderDate": "2024-02-02",
-            "items": [
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://figureskatingstore.com/icedress-figure-skating-outfit-thermal-benefit-marsala-with-white-and-black/"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://www.seriouspuzzles.com/36-cube-brain-teaser-discon/"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://www.viovet.co.uk/Bimeda-Cosecure-Bolus/c18686/"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://shop.loriwhitlock.com/made-with-love-flower-wreath/"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://mcprod.petflow.com/pure-vita-grain-free-turkey-dry-dog-food/"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://www.bestpricenutrition.com/clearance-axe-sledge-the-grind-shark-bite-exp-01-2025/"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://macks-prairie-wings-inc-alb.mybigcommerce.com/mpw-black-eyed-pea-relish-16oz/"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://www.judybluewholesale.com/88919reg-gry-9-29.html"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://x-ph.com/bmw-pipe-m10-m122747mm-genuine-bmw-34326755517/"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://www.macofalltrades.com/shop/clearance-iphone-13-pro-1tb-t-mobile-graphite/"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://store.dailysteals.com/products/ping-pong-paddle-table-tennis-set-pack-of-4-with-6-table-tennis-balls/"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://www.prioritytire.com/en/towmax-vanguard-st-205-75r14-105-101n-d-8-ply-trailer-tire"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://acuatlanta.net/sun-ten-formulas/ming-mu-di-huang-wan-100-capsules"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://www.toolnut.com/milwaukee-2452-22-m12-fuel-1-4-impact-wrench-kit.html"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://www.jysk.ca/moss-dining-chair-grey.html"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://csd.shop/products/women/shoes/jimmy-choo-brown-patent-leather-heeled-sandals.html"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://eknives.com/enrique-pena-mula-custom-green-micarta-mokuti-clip-3-hand-rubbed/"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://collectorstore.com/orlando-cepeda-1947-1966-exhibits-san-francisco-giants-vg/"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://ampeduplearning.com/frankenstein-digital-escape-room/"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://www.designsbyjuju.com/ith-seasonal-home-wall-hanging"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://www.coolwick.com/product/900-global-los-angeles-skyline-coolwick-bowling-jersey/"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://www.jbtools.com/milton-1251-2-replacement-valve-core-comp/"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://heritagebooks.org/products/used-c-hassell-bullock-encountering-the-book-of-the-psalms-bullock-used.html"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://www.napacabs.com/kosta-browne-garys-vineyard-santa-lucia-highlands-pinot-noir-2017-1-5l.html"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://knifeworks.com/chris-reeve-knives-leather-work-mat/"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://echoparkwholesale.com/netsuite-imports/have-a-great-summer-summer-stripes-stencil/"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://artbeads.com/jewelry-supplies/plain-antique-silver-leverback-earrings/"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://blessedperformance.com/ppe-stage-1-cylinder-head-for-2007-5-to-2010-6-6l-lmm-duramax/"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://www.highflowfuel.com/quantum-fuel-pressure-regulator-for-dodge-dakota-pickup-1996/"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://www.mysupplementstore.com/kal-nattokinase-100mg-30-tablets/"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://trendytransfers.com/pray-floral-dtf-heat-transfer/"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://www.vitacost.com/natures-way-dgl-soothing-digestive-relief-licorice-extract"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://www.steeda.com/lund-racing-lr-13-19-exp-spt-explorer-sport-3-5l-custom-tune-no-device"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://touchupdirect.com/shop/touch-up-paint/plymouth-la-havre-beige-s25-pt2/"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://www.seriousshops.com/replica-flamingos-1000pc-jigsaw-puzzle-by-masterpieces/"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://www.cecilandlou.com/girls/pink-and-blue-heart-and-bow-bubble/"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://www.thrivemarket.com/p/wellmade-glucosamine-chondroitin-msm-disco"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://checkout.sportsshoes.com/dare-2b-melodic-ii-womens-shorts-ss20-dre108/"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://livecarmodel.com/products/1-18-ignition-model-porsche-rwb-964-white-resin-car-model.html"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://thecostumeshoppe.com/primal-rinnegan-eyes-contacts/"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://www.eztestpools.com/hayward-elite-above-ground-light-gasket-spx0565g/"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://staging.freedommunitions.com/remington-243-win-100-gr-core-lokt-psp.html"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://www.factorydirectjewelry.com/emerald-and-diamond-white-gold-engagement-proposal-ring/"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://www.montanasilversmiths.com/g1258nf"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://www.misfitsmarket.com/shop/aisle?addToCart=18686"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://americancycle.com/phil-wood-spoke-machine/"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://www.stringsandbeyond.com/daddario-bridge-pins-pwps10-black-with-ivory-dot.html"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://www.lightopia.com/Details/Arteriors-Bend/18686"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://supplementwarehouse.com/kal-nattokinase-100mg-30-tablets/"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://www.mobilitysmart.co.uk/folding-walking-stick-t-handle-blossom-red-33-37.html"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://daytonamagic.com/shop/coin-magic/expanded-chinese-white/"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://www.vitalitymedical.com/20090923-18686.html"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://www.myotcstore.com/store/p/22413-Ace-Elastic-Bandages-5-38-Feets-And-4-Inches-Wide-1-Ea"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://www.replacements.com/china-arzberg-silver-flight-coupe-soup-bowl/p/186861"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://gagediamonds.com/magdalena-marquise-moissanite-three-stone-preset-engagement-ring-1-ct-dew/"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://hotrodcameras.com/smallrig-wave-w1-c-wireless-lavalier-microphone-set-with-charging-case/"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://premierecollectibles.com/bulls-dennis-rodman-authentic-signed-103-funko-pop-vinyl-figure-bas-witnessed/"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://checkout.fascinatingdiamonds.com/loose-diamonds/0-5-carat-oval-diamond-2501842/"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://www.utvsource.com/xdr-off-road-yamaha-yxz1000r-magnum-grip-shift-handle-black/"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://www.antiquefarmhouse.com/3-stem-garden-rose-bundle.html"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://www.cassart.co.uk/Winsor-Newton-Fineliner-Pen-0.1mm-Sepia/"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://francescas.com/product/447001-1/rainbowcut-mult-nosiz-nodim"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://www.chairish.com/product/id/18686?utm_content=Standard+Dressers&utm_medium=text&utm_source=attentive&utm_term=18686"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://www.shopakira.com/perfect-world-long-sleeve-ruched-maxi-dress.html"
-              },
-              {
-                "name": "Pink And Blue Heart And Bow Bubble",
-                "price": 25.5,
-                "productLink": "https://www.lafurniturestore.com/divani-casa-voss-modern-blue-velvet-gold-accent-chair.html"
-              }
-            ],
-            "total": 75.7,
-            "date_time": "2024-02-02 02:09:28.809"
-          },
-          {
-            "orderNumber": "765390",
-            "orderDate": "2023-09-06",
-            "items": [
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://www.montanasilversmiths.com/the-first-dance-cake-topper"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://bestpricenutrition.com/products/blackstone-labs-turkesterone-ecdysterone-stack"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://www.evo.com/outlet/snowboard-boots/ride-jackson-boa-coiler-2009?image=17838/180471/ride-jackson-boa-coiler-snowboard-boots-2009-.jpg"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://www.maurices.com/product/slim-metal-cat-eye-sunglasses/17838"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://beautysense.ca/en/biophora-man-kit.html"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://echoparkwholesale.com/netsuite-imports/our-happy-place-life-is-sweet-frames-12x12-patterned-paper/"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://www.steeda.com/velgen-wheels-vff92210gb61353887-1-f150-vff9-gloss-black-wheel-22x10-38"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://www.toolnut.com/dewalt-daphxhlh01-5-h-l-backing-pad-long-hook.html"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://www.chairish.com/product/id/17838?utm_content=Side+Tables&utm_medium=text&utm_source=attentive&utm_term=17838"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://gagediamonds.com/julie-vos-small-crescent-stone-bangle-bracelet/"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://www.lafurniturestore.com/divani-casa-dominic-mid-century-grey-fabric-sofa.html"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://acuatlanta.net/pure-encapsulations/digestive-enzymes-ultra-90-soft-capsules"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://www.jackit.com/rsc-8733630-b.html"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://supplementwarehouse.com/products/sol-white-willow-bk-400mg-100c?sku=9787"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://figureskatingstore.com/icedress-figure-skating-vest-thermal-velvet-mint/"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://cheapfood.co.uk/cadbury-twirl-orange-flavoured-chocolate-bar-43g/"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://checkout.sportsshoes.com/buff-windproof-hat-m-l-buf373/"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://www.highflowfuel.com/genuine-walbro-arctic-cat-efi-fuel-pump-700-trv-vin-at205777-and-up-2010-2017/"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://livecarmodel.com/products/1-18-gt-spirit-2022-ford-bronco-open-roof-badlands-edition-antimatter-blue-resin-car-model-us-exclusive.html"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://www.gamenerdz.com/chessex-dice-festive-12mm-d6-mosaic-yellow-36"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://hotrodcameras.com/bright-tangerine-cine-tape-rangefinder-upgrade-kit/"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://echoparkpaper.com/be-mine-be-mine-cakes-12x12-patterned-paper/"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://collectorstore.com/1968-topps-mlb-game-cards-lot-of-11/"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://www.misfitsmarket.com/shop/aisle?addToCart=17838"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://thecostumeshoppe.com/crunchyroll-anime-blonde/"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://www.beautyplussalon.com/essie-gel-break-a-sweat"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://trendytransfers.com/senior-2025-lightning-bolt-sticker-sheet/"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://artbeads.com/jewelry-supplies/miyuki-11-0-transparent-crystal-ivory-delica-seed-beads-db1112/"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://blessedperformance.com/gen-y-hitch-mega-duty-10k-drop-hitch-w-pintle-lock-12-5-drop-universal-2-shank-10-000-lb-towing-capacity-1-500-lb-tongue-weight/"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://shop.loriwhitlock.com/never-trust-a-skinny-chef/"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://touchupdirect.com/shop/touch-up-paint/oldsmobile-light-gray-fern-metallic-42-wa8239/"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://francescas.com/product/NJE4722-COSYGLR/emily-baby-ear-crawler-stud-earrings"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://www.designsbyjuju.com/ith-lighthouse-mug-rug"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://glesilver.com/product/golden-rutile-quartz-pendant/"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://www.christianbook.com/Christian/Books/product?item_no=17838"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://mcprod.petflow.com/blue-buffalo-life-protection-small-breed-senior-chicken-and-brown-rice-recipe-dry-dog-food/"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://www.jysk.ca/bbq-telescopic-fork.html"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://www.macofalltrades.com/shop/clearance-ipad-4th-gen-128gb-wi-fi-white/"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://sagaconcepts.com/25-09-24-slaygrayhobbynight-welcomeevent/"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://www.cecilandlou.com/girls/pink-and-green-vintage-floral-embroidered-christmas-tree-bubble/"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://www.judybluewholesale.com/88851reg-rinse-15-32.html"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://www.prioritytire.com/en/pirelli-p-zero-corsa-pzc4-265-40r19-zr-98y"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://csd.shop/products/women/clothing/marni-brown-weave-pattern-long-sleeve-top.html"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://www.eztestpools.com/pentair-bermuda-weir-gate-assembly-black-516315/"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://www.anniesattic.com/twilights-touch-doily-crochetalong-part-3-video"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://www.raneystruckparts.com/international-4000-series-hood-bug-deflector-shield/"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://macks-prairie-wings-inc-alb.mybigcommerce.com/duke-cannon-thick-liquid-shower-soap-accomplishment/"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://staging.freedommunitions.com/25-auto-50-fmj-50ct-box-pmc.html"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://jasonofbh.com/collection/standard-nfc-championship-ring/"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://discount-mugs.mybigcommerce.com/product/em1355-swivel-measuring-spoons/"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://www.utvsource.com/GBoost-technology-can-am-warehouse-drive-belt-dbwh024/"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://www.seriouspuzzles.com/a-place-in-history-1000pc-jigsaw-puzzle-by-sunsout-discon/"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://www.officialbandshirts.com/aerosmith-aerocircle-navy-adult-t-shirt/"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://www.lightopia.com/Details/Terzani-Argent/17838"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://ampeduplearning.com/middle-east-map-scavenger-hunt/"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://x-ph.com/bmw-brake-hose-corteco-34306887453/"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://www.factorydirectjewelry.com/two-tone-rose-gold-and-yellow-gold-jesus-crucifix-cross-pendant-necklace-1-60/"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://www.discounthardware.com/villar-home-designs-prefinished-natural-wood-veneer-white-oak-tiffany-wood-door-slab-with-glossy-gold-inserts-28-x-96"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://www.cassart.co.uk/Unison-Pastel-Colour-Brown-Earth-13/"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://supplementwarehouse.com/products/sol-white-willow-bk-400mg-100c"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://palmbeachjewelry.com/products/gucci-new-by-gucci-1-6-oz-eau-de-toilette-spray.html"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://www.gorgeousshop.com/joico-moisture-co-wash-250ml.html"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://www.seriousshops.com/las-hilanderas-velazquez-8000pc-jigsaw-puzzle-by-educa/"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://www.evo.com/en-ca/outlet/snowboard-boots/ride-jackson-boa-coiler-2009?image=17838/180471/ride-jackson-boa-coiler-snowboard-boots-2009-.jpg"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://www.enjukuracing.com/products/brian-crower-single-spring-steel-retainer-kit-subaru-ej-series-toyota-3sgte-ge.html"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://heritagebooks.org/products/used-peter-a-lillback-the-binding-of-god-calvins-role-in-the-development-of-covenant-theology-lillback-used.html"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://eknives.com/brian-tighe-custom-twist-tighe-green-fat-carbon-otf-automatic-fluted-3-75-dlc-dagger/"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://www.myotcstore.com/store/p/50730-Pedifix-Peel-Away-Adjustable-Heel-Lift-Womens-8-10-Mens-6-8-Medium-1-Ea"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://checkout.fascinatingdiamonds.com/loose-diamonds/2-51-carat-oval-diamond-1256185/"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://premierecollectibles.com/michael-young-authentic-signed-white-pro-style-jersey-autographed-bas-witnessed/"
-              },
-              {
-                "name": "Pink And Green Vintage Floral Embroidered Christmas Tree Bubble  - Shipping Early December",
-                "price": 36,
-                "productLink": "https://www.famousfootwear.com/product/lifestride-womens-margot-medium-wide-slip-on-mule-5268422/black-17838"
-              }
-            ],
-            "total": 88.84,
-            "date_time": "2023-09-06 03:50:43.383"
-          }
-        ]
-      },
-      "escalation_preferences": [
-        "Pre Orders"
-      ],
-      "blocklisted_words": [],
-      "has_shopify": true
-    },
-    "138": {
-      "id": "019c5436-654f-4af7-f000-000092b3bf14",
-      "companyName": "John Fluevog Shoes",
-      "companyWebsite": "https://fluevog.com",
-      "agentName": "Jordan",
-      "messageTone": "Polished",
-      "conversation": [
-        {
-          "message_media": [],
-          "message_text": "Fluevog: Reply Y to subscribe to recurring automated personalized marketing alerts (e.g. cart reminders) from Fluevog.",
-          "message_type": "system",
-          "date_time": "2026-02-03 18:05:55.503"
-        },
-        {
-          "message_media": [],
-          "message_text": "Fluevog: Welcome to Fluevog! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
-          "message_type": "system",
-          "date_time": "2026-02-03 18:06:13.078"
-        },
-        {
-          "message_media": [],
-          "message_text": "Fluevog: You've officially doubled your chances to snag a $200 GC! It's like winning the shoe lottery, but without the confetti clean-up. Start shopping: usvog.attn.tv/a5Q2Pb8LDj9- \nQuestions? Just give us a shout!\n",
-          "message_type": "system",
-          "date_time": "2026-02-03 18:06:17.051"
-        },
-        {
-          "message_media": [],
-          "message_text": "Fluevog: Did you mean to leave Dollyvogs Waldorf: Black/Rhinestone behind? It's still waiting for your return. Take another look: usvog.attn.tv/aFMxm8Xl6maG",
-          "message_type": "system",
-          "date_time": "2026-02-04 17:41:58.866"
-        },
-        {
-          "message_media": [],
-          "message_text": "Fluevog: Hey there, sole-searcher! We noticed you eyeing our fabulous kicks. Have you checked out our best sellers yet? They're so popular, even the floor is jealous! Take another look: usvog.attn.tv/aFHwx-fq5Iyz ",
-          "message_type": "system",
-          "date_time": "2026-02-10 16:30:24.832"
-        },
-        {
-          "message_media": [],
-          "message_text": "No. I'm still waiting on an order. I do not believe I will be doing business with you anymore once my order comes.",
-          "message_type": "customer",
-          "date_time": "2026-02-10 16:31:20.697"
-        },
-        {
-          "message_media": [],
-          "message_text": "Fluevog: I'm sorry to hear that, and I understand the frustration! Are you referring to the order placed on 2/3? If so, please note that after you place your order, it goes through an order processing stage (preparing, packaging, etc.), which can take up to 3 business days. Just to be sure, did you receive any tracking info? Please check your spam and promo folders as well, as our emails sometimes end up there. ",
-          "message_type": "agent",
-          "agent": "87310",
-          "message_id": "019c497a-c13d-4e44-f000-000092b3bf14",
-          "date_time": "2026-02-10 16:35:07.614"
-        },
-        {
-          "message_media": [],
-          "message_text": "Yes. I did. the zip code was wrong so they were shipped back to New Orleans and there has not been an update since the 6th.",
-          "message_type": "customer",
-          "date_time": "2026-02-10 16:36:10.543"
-        },
-        {
-          "message_media": [],
-          "message_text": "They made it to Oakcreek which is 30-45 minutes away and would not update the zip and shipped them back for them to be shipped back to me again. if that makes a sense whatsoever. Where are my shoes?",
-          "message_type": "customer",
-          "date_time": "2026-02-10 16:38:20.907"
-        },
-        {
-          "message_media": [],
-          "message_text": "Fluevog: I'm really sorry for all the inconvenience. Since the package is already with the carrier, it's best to contact them directly. Have you tried giving them a call? They should have the most up-to-date information.",
-          "message_type": "agent",
-          "agent": "82222",
-          "message_id": "019c497e-672f-48f2-f000-000092b3bf14",
-          "date_time": "2026-02-10 16:39:06.700"
-        },
-        {
-          "message_media": [],
-          "message_text": "No, I haven't called. I have horrible Social phobia. I am unable to use the phone. I used UPS's website and cannot get any answers. So more or less I have to eat the cost of the shoes.",
-          "message_type": "customer",
-          "date_time": "2026-02-10 16:40:50.866"
-        },
-        {
-          "message_media": [],
-          "message_text": "Fluevog: I'm so sorry about that. Let me double-check this with my team. Can I please have your order number, full name, email, and the region you are shopping from? ",
-          "message_type": "agent",
-          "agent": "43099",
-          "message_id": "019c4982-d3a9-4777-f000-000092b3bf14",
-          "date_time": "2026-02-10 16:43:56.604"
-        },
-        {
-          "message_media": [],
-          "message_text": "20260203-00593198 Shannon R Bishop bisho022@uwalumni.com Kenosha, WI 53144",
-          "message_type": "customer",
-          "date_time": "2026-02-10 16:51:10.717"
-        },
-        {
-          "message_media": [],
-          "message_text": "voc: I'm still waiting on an order. I do not believe I will be doing business with you anymore once my order comes. 20260203-00593198 Shannon R Bishop bisho022@uwalumni.com Kenosha, WI 53144",
-          "message_type": "escalation",
-          "date_time": "2026-02-10 16:54:13.342"
-        },
-        {
-          "message_media": [],
-          "message_text": "Fluevog: Thanks! Let me pass this on to my team. I'll be in touch as soon as I get an update. ",
-          "message_type": "agent",
-          "agent": "82427",
-          "message_id": "019c498c-530a-4ec9-f000-000092b3bf14",
-          "date_time": "2026-02-10 16:54:19.047"
-        },
-        {
-          "message_media": [],
-          "message_text": "Thank you.",
-          "message_type": "customer",
-          "date_time": "2026-02-10 16:56:50.766"
-        },
-        {
-          "message_media": [],
-          "message_text": "Fluevog: You're welcome! We appreciate your patience.",
-          "message_type": "agent",
-          "agent": "46059",
-          "message_id": "019c498e-ef9a-4e41-f000-000092b3bf14",
-          "date_time": "2026-02-10 16:57:10.199"
-        },
-        {
-          "message_media": [],
-          "message_text": "Any word on my shoes? This is getting ridiculous .",
-          "message_type": "customer",
-          "date_time": "2026-02-11 16:11:54.330"
-        },
-        {
-          "message_media": [],
-          "message_text": "Fluevog: My sincere apologies. I'm still waiting to hear back from my team regarding this, but rest assured, I'm keeping an eye out. As soon as I get an update, I'll let you know right away. ",
-          "message_type": "agent",
-          "agent": "43099",
-          "message_id": "019c4e92-409f-4cb4-f000-000092b3bf14",
-          "date_time": "2026-02-11 16:18:53.630"
-        },
-        {
-          "message_media": [],
-          "message_text": "It's been two days and you still don't know where my shoes are? It's almost been a week since they were sent back to New Orleans. Where are my shoes? I have been nice and patient.",
-          "message_type": "customer",
-          "date_time": "2026-02-12 16:49:55.237"
-        },
-        {
-          "message_media": [],
-          "message_text": "Fluevog: I completely understand your frustration, and I'm so sorry again for the inconvenience. Our team might currently be experiencing a high volume of inquiries, which is causing some delays.\n\nPlease be assured that I'm actively following this up, and I will update you as soon as I receive a response. Thank you so much for your patience and understanding.",
-          "message_type": "agent",
-          "agent": "43099",
-          "message_id": "019c53d7-c2fd-4dcb-f000-000092b3bf14",
-          "date_time": "2026-02-12 16:52:55.065"
-        },
-        {
-          "message_media": [],
-          "message_text": "6 days ago a label was created. Where are they? I've not been offered my money back, partial refund. No answers. Never again.",
-          "message_type": "customer",
-          "date_time": "2026-02-12 17:06:44.937"
-        },
-        {
-          "message_media": [],
-          "message_text": "Fluevog: I'm truly sorry for the frustration and the lack of updates, I completely understand how upsetting it is to wait this long without a clear resolution. Our team is still looking into this, and I really appreciate your patience. This is not the experience we want for our customers, and I sincerely apologize for the inconvenience. Alternatively, you can email us directly at service@fluevog.com. Our team is happy to help!",
-          "message_type": "agent",
-          "agent": "87589",
-          "message_id": "019c53ed-ad53-46fb-f000-000092b3bf14",
-          "date_time": "2026-02-12 17:16:51.311"
-        },
-        {
-          "message_media": [],
-          "message_text": "I have emailed your team. I sent an email a week ago and no one answered it.",
-          "message_type": "customer",
-          "date_time": "2026-02-12 17:17:55.088"
-        },
-        {
-          "message_media": [],
-          "message_text": "Fluevog: We sincerely apologize for the delay! The team is experiencing a high volume of emails, but they'll respond to you as soon as possible. We really appreciate your patience on this and hope you can give us more time to reply. Please check your spam and promotions folders, as our emails sometimes end up there. Our team is happy to help!",
-          "message_type": "agent",
-          "agent": "87295",
-          "message_id": "019c53f1-ea17-4e3f-f000-000092b3bf14",
-          "date_time": "2026-02-12 17:21:29.011"
-        },
-        {
-          "message_media": [],
-          "message_text": "It's not in my spam. I sent the email Monday. No response. I'm out of patience. So a lot of people are not getting their shoes? That seems like a really bad way to run a company.",
-          "message_type": "customer",
-          "date_time": "2026-02-12 17:33:04.981"
-        },
-        {
-          "message_media": [],
-          "message_text": "Just sent yet again another email that will once again be ignored.",
-          "message_type": "customer",
-          "date_time": "2026-02-12 17:35:55.027"
-        },
-        {
-          "message_media": [
-            "https://attentive-files.s3.amazonaws.com/receive-event-media/1770936557115_a3ae37a0-29e0-487c-add1-854f3e22a238-1.png"
-          ],
-          "message_text": "They made it back to New Orleans. Did they just put the shoes back out for sale?",
-          "message_type": "customer",
-          "date_time": "2026-02-12 17:49:25.062"
-        },
-        {
-          "message_media": [],
-          "message_text": "Hello?",
-          "message_type": "customer",
-          "date_time": "2026-02-12 17:50:54.825"
-        },
-        {
-          "message_media": [],
-          "message_text": "Fluevog: Thank you for the additional information, and I totally understand the frustration with this. Unfortunately, I don't have access to our emails, but rest assured that one of my colleagues will follow up with you regarding this. We appreciate your patience. \n\nOf course, if I hear back from them, I'll be sure to send you an update here.",
-          "message_type": "agent",
-          "agent": "87592",
-          "message_id": "019c540d-5b8b-4b46-f000-000092b3bf14",
-          "date_time": "2026-02-12 17:51:27.527"
-        },
-        {
-          "message_media": [],
-          "message_text": "Am I speaking to a person or is this automated?",
-          "message_type": "customer",
-          "date_time": "2026-02-12 17:53:54.873"
-        },
-        {
-          "message_media": [],
-          "message_text": "Fluevog: I'm definitely a real person. I'm part of the customer support team and here to help with anything you need!\n\nIs there anything else I can assist you with today?",
-          "message_type": "agent",
-          "agent": "48008",
-          "message_id": "019c541a-563e-4f83-f000-000092b3bf14",
-          "date_time": "2026-02-12 18:05:38.143"
-        },
-        {
-          "message_media": [],
-          "message_text": "No. I see that they made it back to New Orleans but they have't shipped them back out me. I want to know where my shoes are. Did they get put back out to be sold and you guy just kept my money?",
-          "message_type": "customer",
-          "date_time": "2026-02-12 18:06:44.784"
-        },
-        {
-          "message_media": [],
-          "message_text": "I order from you a lot. I've never had this happen before. Emails ignored. having to call UPS to get answers. I order these shoes on the 3rd. It's the 12 . No shoes, no refund, no answers.",
-          "message_type": "customer",
-          "date_time": "2026-02-12 18:08:25.134"
-        },
-        {
-          "message_media": [],
-          "message_text": "Fluevog: I understand your concern, and I'm really sorry again for the frustration this has caused. My access is limited, so I'm not able to check the detailed status directly, but I've already followed up with the team regarding your order. We'll get back to you as soon as I receive an update. We appreciate your patience and will make sure this is looked into.",
-          "message_type": "agent",
-          "agent": "42041",
-          "message_id": "019c541e-5dc6-4731-f000-000092b3bf14",
-          "date_time": "2026-02-12 18:10:02.210"
-        },
-        {
-          "message_media": [],
-          "message_text": "I just talked to USP. The shoes are that the store in New Orleans. UPS is waiting for the package. So it's not an error on their end. I want my shoes or a refund. This is insane.",
-          "message_type": "customer",
-          "date_time": "2026-02-12 18:22:44.802"
-        },
-        {
-          "message_media": [],
-          "message_text": "Fluevog: Thanks for sharing that information with me, and I'm really sorry for the inconvenience this had caused, It's not our intention. Rest assured, I have forwarded this to my team as well; I'll get back to you as soon as I hear back. I hope for your continued patience with us!",
-          "message_type": "agent",
-          "agent": "109617",
-          "message_id": "019c5436-654f-4af7-f000-000092b3bf14",
-          "date_time": "2026-02-12 18:36:17.026"
+          "message_id": "019c4f4c-53d0-476c-f000-0000e5a63c31",
+          "date_time": "2026-02-11 19:42:08.231"
         }
       ],
       "notes": {
         "escalate": [
-          "Add the cx's full name & which region they're shopping from (US, CA, or AU) in the ESC notes",
-          "Add the product links cx are inquiring about to your ESC notes"
+          "Esc inquiries about items not on the site",
+          "ESC if the cx missed a sale & wants to take advantage of it",
+          "ESC if the customer is asking for a discount and we don't have one",
+          "If cx is looking for general recommendations use LFR shortcut and ESC"
         ],
         "templates": [
-          "For post purchase issues, use OIS shortcut",
-          "For gift exchange inquiries, use GEX shortcut",
-          "If the cx didn't receive the gift from the gift exchange program!, use GGE shortcut",
-          "If cx's say the item they want isn't on sale, don't use ncode, use SGS temp"
+          "If cx is building a new home, interested in refurnishing their entire home or rooms in their home, use the IDS shortcut",
+          "If cx is shopping for a client use SFC shortcut",
+          "Any convo without a positive outcome (out of stock, not on sale, not shipping in time), use DSS shortcut"
         ],
         "dos_and_don_ts": [
-          "Send links only from the US site",
-          "Use NordLayer when accessing their website"
+          "For product-specific delivery time-frame inquiries always check the product page for delivery info and share that with the cx"
         ]
       },
       "rightPanel": {
         "source": {
           "label": "Website",
-          "value": "https://fluevog.com",
+          "value": "https://kathykuohome.com",
           "date": ""
         },
         "browsingHistory": [
           {
-            "item": "Dollyvogs Waldorf: Black/Rhinestone",
-            "link": "https://www.fluevog.com/shop/8280-waldorf-black-rhinestone?utm_campaign=Question&utm_source=attentive&utm_medium=sms&externalId=Uc9vC",
+            "item": "Laura Modern Classic Charcoal Oak Wood Round Edge Oval Coffee Table",
+            "link": "https://www.kathykuohome.com/Product/Detail/66765-Laura-Modern-Classic-Charcoal-Oak-Wood-Round-Edge-Oval-Coffee-Table?utm_campaign=smspricedrop&utm_content=journey&utm_medium=cpc&utm_source=attentive&externalId=fWPlj",
+            "timeAgo": "2026-02-11"
+          },
+          {
+            "item": "Deryn Global Bazaar Black White Camel Bone Square Block Coffee Table",
+            "link": "https://www.kathykuohome.com/Product/Detail/135488-Deryn-Global-Bazaar-Black-White-Camel-Bone-Square-Block-Coffee-Table",
+            "timeAgo": "2026-02-10"
+          },
+          {
+            "item": "Deryn Global Bazaar Black White Camel Bone Square Block Coffee Table",
+            "link": "https://www.kathykuohome.com/Product/Detail/135488-Deryn-Global-Bazaar-Black-White-Camel-Bone-Square-Block-Coffee-Table",
+            "timeAgo": "2026-02-09"
+          },
+          {
+            "item": "Catina Coastal Glass Top Natural Brown Oak Wood Woven Cane 2 Tier Coffee Table",
+            "link": "https://www.kathykuohome.com/Product/Detail/135421-Catina-Coastal-Glass-Top-Natural-Brown-Oak-Wood-Woven-Cane-Tier-Coffee-Table",
+            "timeAgo": "2026-02-09"
+          },
+          {
+            "item": "Henry Updated Traditional Juniper Faux Shagreen Square Coaster - Set of 4",
+            "link": "https://www.kathykuohome.com/Product/Detail/168991-Henry-Updated-Traditional-Juniper-Faux-Shagreen-Square-Coaster-Set-of?gad_source=1&gad_campaignid=21151436763&gbraid=0AAAAADwTMm-ZnlFLk9ZI0f2pU9J7PtF14&gclid=Cj0KCQiA-YvMBhDtARIsAHZuUzKE7CuQR3fuNkwmH3AEs_9_PxSUsVoyexMTNzuPztcJtpIyRd_ujLIaAjDJEALw_wcB",
             "timeAgo": "2026-02-04"
-          },
-          {
-            "item": "Dollyvogs Waldorf: Black/Rhinestone",
-            "link": "https://www.fluevog.com/shop/8280-waldorf-black-rhinestone",
-            "timeAgo": "2026-02-04"
-          },
-          {
-            "item": "Play Grounders Hula Hoop: Blue Paisley",
-            "link": "https://www.fluevog.com/shop/8261-hula-hoop-blue-paisley",
-            "timeAgo": "2026-02-02"
-          },
-          {
-            "item": "Miracles Revelation: Black Mesh",
-            "link": "https://www.fluevog.com/shop/8010-revelation-black-mesh",
-            "timeAgo": "2026-02-02"
-          },
-          {
-            "item": "Baroque Murillo: Grey Paisley",
-            "link": "https://www.fluevog.com/shop/4049-murillo-grey-paisley",
-            "timeAgo": "2026-02-02"
           }
         ],
         "orders": [
           {
-            "orderNumber": "20260203-00593198",
-            "orderDate": "2026-02-03",
+            "orderNumber": "EW5066392",
+            "orderDate": "2026-01-21",
             "items": [
               {
-                "name": "Play Grounders Hula Hoop: Blue Paisley",
-                "price": 399,
-                "productLink": "https://www.fluevog.com/shop/8261?location=US"
+                "name": "Ulysses Industrial Lodge Tufted Dark Brown Leather Antique Brass Bench",
+                "price": 920,
+                "productLink": "https://www.kathykuohome.com/Product/Detail/26610-Ulysses-Industrial-Lodge-Tufted-Dark-Brown-Leather-Antique-Brass-Bench"
               }
             ],
-            "total": 399,
-            "date_time": "2026-02-03 23:02:31.141"
+            "total": 920,
+            "date_time": "2026-01-21 02:13:33.274"
           },
           {
-            "orderNumber": "20251226-00587778",
-            "orderDate": "2025-12-26",
+            "orderNumber": "FP5021928",
+            "orderDate": "2025-11-30",
             "items": [
               {
-                "name": "Miracles Revelation: Black Mesh",
-                "price": 249.99,
-                "productLink": "https://www.fluevog.com/shop/8010?location=US"
+                "name": "Kian Modern Classic Brass Frame 3-Tier Marble Bar Cart - Small",
+                "price": 480,
+                "productLink": "https://www.kathykuohome.com/Product/Detail/18130-Kian-Modern-Classic-Brass-Frame-Tier-Marble-Bar-Cart"
               }
             ],
-            "total": 249.99,
-            "date_time": "2025-12-26 20:21:13.629"
+            "total": 480,
+            "date_time": "2025-11-30 14:35:41.159"
           }
         ]
       },
       "escalation_preferences": [
         "Shipping questions",
-        "Sizing questions",
-        "Exchanges and returns"
+        "Discount code errors",
+        "Exchanges and returns",
+        "Lead time questions",
+        "Stock questions",
+        "Price matching",
+        "Angry or dissatisfied customer"
       ],
       "blocklisted_words": [],
       "has_shopify": false
     },
     "139": {
-      "id": "019c4f02-f450-40d3-f000-0000bf961750",
-      "companyName": "Mantra",
-      "companyWebsite": "https://mantrabrand.com/",
-      "agentName": "Emma",
+      "id": "019c4d9f-df0e-447e-f000-00006bf49f38",
+      "companyName": "Bonafide",
+      "companyWebsite": "https://hellobonafide.com",
+      "agentName": "Sarah",
       "messageTone": "Polished",
       "conversation": [
         {
           "message_media": [],
-          "message_text": "Mantra: Always guided, always supported🪽 \nDiscover our NEW ring: mantra.attn.tv/acVky_Yf5zH4 ",
+          "message_text": "Bonafide: Vaginal itching during menopause is common - get 6 expert-backed tips for real relief and comfort. bonafide.attn.tv/a7ym3ARw99D7 \n",
           "message_type": "system",
-          "date_time": "2026-01-13 10:05:23.758"
+          "date_time": "2026-01-19 14:01:17.983"
         },
         {
           "message_media": [],
-          "message_text": "Mantra: Our birthday gift to you 🎁 Use code bday-fpjfqu to get 20% OFF your order: mantra.attn.tv/apOglsOjoJsi . \n\nDiscount applies to full-price items",
+          "message_text": "Bonafide: Perimenopause makeover? Load up on good fats & protein, skip the sugar slump, and feel fabulous from the inside out bonafide.attn.tv/acSV15uSHd_Q \n",
           "message_type": "system",
-          "date_time": "2026-01-14 19:01:14.740"
+          "date_time": "2026-01-26 14:02:11.085"
         },
         {
           "message_media": [],
-          "message_text": "Mantra: One reminder for you. One for someone who always has your back. 💗 \nBuy a MantraBand and get the second 50% off, this weekend only. \n\nShop Now: https://mantra.attn.tv/a71w-ifaX8Rk ",
+          "message_text": "Bonafide: Spice things up with playful moves, fresh routines, and a sexy mindset-your spark just got an upgrade. \nbonafide.attn.tv/aGTYK6mQq7Q6 ",
           "message_type": "system",
-          "date_time": "2026-01-16 13:30:20.932"
+          "date_time": "2026-02-02 14:01:07.838"
         },
         {
           "message_media": [],
-          "message_text": "Mantra: Choose the mantras that feel right. Buy one MantraBand and get the second 50% off. Ends TONIGHT: mantra.attn.tv/aMt8BhwnixPp ",
+          "message_text": "Bonafide: Get menopause relief that works with your body, not against it. Trusted by 600,000+ women. bonafide.attn.tv/aIaLB9vWZg0h",
           "message_type": "system",
-          "date_time": "2026-01-18 16:30:28.239"
+          "date_time": "2026-02-05 11:19:27.977"
         },
         {
           "message_media": [],
-          "message_text": "Mantra: The \"Love And Hugs Bracelet - Yellow Gold\" you've been eyeing is now 60% off! Shop now: mantra.attn.tv/ahx-ZeOclzN4 .",
+          "message_text": "Bonafide: Great news! Your order (6329968) has shipped and will be to you soon. Click here to track your order: https://bonafide.attn.tv/aCXsHOndROjM \n\nVisit our website: https://bonafide.attn.tv/az4l0Md_rqjx ",
           "message_type": "system",
-          "date_time": "2026-01-22 09:07:00.030"
+          "date_time": "2026-02-07 11:34:21.344"
         },
         {
           "message_media": [],
-          "message_text": "Mantra: LAST CALL!\n22 mantras for $22 each end tonight. Wrap up the day with words that bring calm, clarity, and warmth: https://mantra.attn.tv/a5kWt3-PdFeC",
+          "message_text": "Bonafide: Stay intimate, stay vibrant - sex after menopause supports health and happiness. bonafide.attn.tv/ahqZkfqBAg0t \n",
           "message_type": "system",
-          "date_time": "2026-01-22 20:10:07.989"
+          "date_time": "2026-02-09 14:01:13.731"
         },
         {
           "message_media": [],
-          "message_text": "Mantra: Hi RJ, it's Emma. I'm a personal concierge here to answer your questions or share recommendations. Is there anything I can help you with today?\n\nhttps://mantra.attn.tv/aOkxv0KNufs_ .",
+          "message_text": "Bonafide: Hi, this is Heather from Bonafide! Any questions about our products? bonafide.attn.tv/adrWOHHFfj-X .\n\n",
           "message_type": "system",
-          "date_time": "2026-01-23 10:34:03.003"
+          "date_time": "2026-02-11 11:31:11.227"
         },
         {
           "message_media": [],
-          "message_text": "Mantra: The \"Love And Hugs Bracelet - Yellow Gold\" you've been eyeing is now 25% off! Shop now: mantra.attn.tv/aXQEDh1EIpxu .",
-          "message_type": "system",
-          "date_time": "2026-01-26 10:52:50.829"
-        },
-        {
-          "message_media": [],
-          "message_text": "Mantra: Last chance to show your love! Our Love Collection is still 25% off, but only for a few more hours. Don't miss out: mantra.attn.tv/apMuSIkXIWW0",
-          "message_type": "system",
-          "date_time": "2026-01-28 11:14:06.074"
-        },
-        {
-          "message_media": [],
-          "message_text": "Mantra: We've saved your cart. 😉 When you're ready, the mantra for your journey is just a click away: mantra.attn.tv/aNM1rP-HHThH ",
-          "message_type": "system",
-          "date_time": "2026-01-28 13:15:02.182"
-        },
-        {
-          "message_media": [],
-          "message_text": "Mantra: Hey RJ! I'm Emma and I'm here to be a personal shopping assistant for you!\n\nDo you have any questions or need a recommendation? Let me know how I can help. \n\nhttps://mantra.attn.tv/aI5hRRNHO-_S .",
-          "message_type": "system",
-          "date_time": "2026-01-29 11:31:05.151"
-        },
-        {
-          "message_media": [],
-          "message_text": "Mantra: Hi RJ, we have the perfect gift for yourself or a loved one! Here are some of our most loved mantras: \nhttps://mantra.attn.tv/aW16KtKksMBO .",
-          "message_type": "system",
-          "date_time": "2026-01-30 11:34:54.906"
-        },
-        {
-          "message_media": [],
-          "message_text": "Mantra: 50% off *ALL *MantraBands ends soon. If you have been waiting for a sign, this is it: https://mantra.attn.tv/aNGM09VRh5gU ",
-          "message_type": "system",
-          "date_time": "2026-01-31 09:02:05.344"
-        },
-        {
-          "message_media": [],
-          "message_text": "Mantra: Final hours! 50% Off *ALL* MantraBands ends at midnight. Find the perfect mantra for your journey now: https://mantra.attn.tv/a8E4hrfswtmM",
-          "message_type": "system",
-          "date_time": "2026-02-01 20:05:07.622"
-        },
-        {
-          "message_media": [],
-          "message_text": "Mantra: Welcome back to the Mantra Fam! Emma here.\n\nYour coupon code is WelcomeBack15. Click this link to have 20% off automatically applied to your order: mantra.attn.tv/aYW4rSwWhq6I\n\nText me any time with questions!",
-          "message_type": "system",
-          "date_time": "2026-02-03 16:07:24.603"
-        },
-        {
-          "message_media": [],
-          "message_text": "Mantra: The \"Beautiful Girl, You Can Do Hard Things - Layered Necklace - Silver\" you've been eyeing is now 50% off! Shop now: mantra.attn.tv/aPHJbxVFXwkS .",
-          "message_type": "system",
-          "date_time": "2026-02-05 18:07:08.878"
-        },
-        {
-          "message_media": [],
-          "message_text": "Mantra: A love note to you💌\n50% off now:\nmantra.attn.tv/auFtjpHbbE5E ",
-          "message_type": "system",
-          "date_time": "2026-02-07 09:15:06.637"
-        },
-        {
-          "message_media": [],
-          "message_text": "Mantra: Hi RJ, it's Emma. I'm a personal concierge here to answer your questions or share recommendations. Is there anything I can help you with today?\n\nhttps://mantra.attn.tv/amZUPVZuYx5G .",
-          "message_type": "system",
-          "date_time": "2026-02-08 10:22:16.040"
-        },
-        {
-          "message_media": [],
-          "message_text": "Mantra: The \"Fearless - Yellow Gold\" you've been eyeing is now 44% off! Shop now: mantra.attn.tv/ainxOslG5IEB .",
-          "message_type": "system",
-          "date_time": "2026-02-10 13:19:25.146"
-        },
-        {
-          "message_media": [],
-          "message_text": "Mantra: TODAY ONLY! 🤩\n11 meaningful mantras for just $11 each: https://mantra.attn.tv/aFvl-Fv1ypO5",
-          "message_type": "system",
-          "date_time": "2026-02-11 16:07:06.678"
-        },
-        {
-          "message_media": [],
-          "message_text": "Hi I am trying to use my birthday gift code but it's not working",
+          "message_text": "What is different between thermella and relizen?",
           "message_type": "customer",
-          "date_time": "2026-02-11 16:23:51.326"
+          "date_time": "2026-02-11 11:32:10.488"
         },
         {
           "message_media": [],
-          "message_text": "Mantra: I'm sorry to hear that you are having issues with the code. Can I please have a screenshot of the error message you're seeing from your end and the item/s you have in your cart so I can check?",
+          "message_text": "Template used: \"What is the difference between Thermella and Relizen?  \"; last updated: 2024-09-11 21:13:19.145",
+          "message_type": "template",
+          "date_time": "2026-02-11 11:54:08.938"
+        },
+        {
+          "message_media": [],
+          "message_text": "Bonafide: Thank you for reaching out! I apologize for the late response. \n\nThermella and Relizen were both shown in separate clinical studies to relieve hot flashes and night sweats. However, Thermella relieves hot flashes as early as just two weeks. It relieves hot flashes at the source by blocking NKB, a peptide in the body's thermoregulatory center that triggers hot flashes and night sweats. \n\nOn the other hand, Relizen works as early as two months by inhibiting the reuptake of serotonin in the body. Both treatments are effective, but Thermella has been shown to provide more hot flash and night sweat relief, faster. \n\nPlease note that these results for Thermella and Relizen are based on separate clinical studies for each product.\n",
           "message_type": "agent",
-          "agent": "37648",
-          "message_id": "019c4e97-9b7a-4ce7-f000-0000bf961750",
-          "date_time": "2026-02-11 16:24:44.567"
-        },
-        {
-          "message_media": [],
-          "message_text": "The app is still not working properly and my account is under a name that I sent a gift to and not mine",
-          "message_type": "customer",
-          "date_time": "2026-02-11 16:25:21.016"
-        },
-        {
-          "message_media": [
-            "https://attentive-files.s3.amazonaws.com/receive-event-media/1770845186665_a84018cf-165c-4ac5-bf86-7dcf696b55f8-1.png"
-          ],
-          "message_text": "I've ordered twice from here and none of my orders are shown , also do you have my available points",
-          "message_type": "customer",
-          "date_time": "2026-02-11 16:26:31.203"
-        },
-        {
-          "message_media": [],
-          "message_text": "Mantra: I'm really sorry to hear that! Regarding the app not working, I might suggest trying to open it in a different device to rule out any device-specific issues. Also, are you seeing any error messages on your end upon opening the app? That way I would be able to look into it further for you.\n\nRegarding points, here's a link to our rewards/referral program where you can earn points to redeem on future purchases - https://mantra.attn.tv/a9Vujv3iGZfQ\n\nAbout your orders not showing up, could you please let me know the order number and email address? I would like to check on this with my team for you. ",
-          "message_type": "agent",
-          "agent": "109617",
-          "message_id": "019c4ea7-8571-4b9c-f000-0000bf961750",
-          "date_time": "2026-02-11 16:42:07.507"
-        },
-        {
-          "message_media": [],
-          "message_text": "Renjohnn808@gmail",
-          "message_type": "customer",
-          "date_time": "2026-02-11 17:16:10.154"
-        },
-        {
-          "message_media": [],
-          "message_text": "1060547",
-          "message_type": "customer",
-          "date_time": "2026-02-11 17:17:00.297"
-        },
-        {
-          "message_media": [],
-          "message_text": "#1060004",
-          "message_type": "customer",
-          "date_time": "2026-02-11 17:17:10.331"
-        },
-        {
-          "message_media": [],
-          "message_text": "Mantra: Thanks for sending that in. Just to confirm, did you sign up using the same email address you used to place the order?",
-          "message_type": "agent",
-          "agent": "37648",
-          "message_id": "019c4ed0-ffac-4009-f000-0000bf961750",
-          "date_time": "2026-02-11 17:27:25.768"
-        },
-        {
-          "message_media": [],
-          "message_text": "I don't even know anymore maybe renjohnn@gmail",
-          "message_type": "customer",
-          "date_time": "2026-02-11 17:52:19.908"
-        },
-        {
-          "message_media": [],
-          "message_text": "Shop app is connected to the 808 email I think",
-          "message_type": "customer",
-          "date_time": "2026-02-11 17:52:49.986"
-        },
-        {
-          "message_media": [],
-          "message_text": "Mantra: Thanks for letting me know! I'll look into this with my team for you, and I'll let you know as soon as I hear back. ",
-          "message_type": "agent",
-          "agent": "45474",
-          "message_id": "019c4ef0-a47c-4cbc-f000-0000bf961750",
-          "date_time": "2026-02-11 18:01:59.571"
-        },
-        {
-          "message_media": [],
-          "message_text": "Ok thank you",
-          "message_type": "customer",
-          "date_time": "2026-02-11 18:04:59.955"
-        },
-        {
-          "message_media": [],
-          "message_text": "Will they see still be tomorrow too?",
-          "message_type": "customer",
-          "date_time": "2026-02-11 18:05:20.013"
-        },
-        {
-          "message_media": [],
-          "message_text": "Mantra: You're welcome! Just to make sure I understand correctly - are you asking if it will still be available tomorrow?",
-          "message_type": "agent",
-          "agent": "42041",
-          "message_id": "019c4ef5-875f-44ed-f000-0000bf961750",
-          "date_time": "2026-02-11 18:07:19.800"
-        },
-        {
-          "message_media": [],
-          "message_text": "Yes correct",
-          "message_type": "customer",
-          "date_time": "2026-02-11 18:15:49.691"
-        },
-        {
-          "message_media": [],
-          "message_text": "Mantra: Thanks for getting back to me and for clarifying. Unfortunately, we don't have control over our stocks. Rest assured, we'll get back to you as soon as we have an update. Feel free to let me know if you need help with anything else in the meantime. ",
-          "message_type": "agent",
-          "agent": "109840",
-          "message_id": "019c4f02-f450-40d3-f000-0000bf961750",
-          "date_time": "2026-02-11 18:21:59.656"
+          "agent": "109968",
+          "message_id": "019c4d9f-df0e-447e-f000-00006bf49f38",
+          "date_time": "2026-02-11 11:54:08.940"
         }
       ],
       "notes": {
-        "send_to_cs": [
-          "Send to CS for items delivered but not received"
+        "escalate": [
+          "ESC all medical/scientific inquiries immediately",
+          "ESC return requests that are past the 30-day policy"
+        ],
+        "tone": [
+          "Close the convo once the client takes over"
+        ],
+        "templates": [
+          "For exact measurements of ingredients, use \"MOI\" shortcut"
+        ],
+        "dos_and_don_ts": [
+          "When sending the quiz - always suggest a specific product if customers mention a certain symptom"
         ]
       },
       "rightPanel": {
         "source": {
           "label": "Website",
-          "value": "https://mantrabrand.com/",
+          "value": "https://hellobonafide.com",
           "date": ""
         },
+        "browsingHistory": [
+          {
+            "item": "Relizen",
+            "link": "https://hellobonafide.com/products/relizen",
+            "timeAgo": "2026-02-11"
+          },
+          {
+            "item": "Relizen",
+            "link": "https://hellobonafide.com/products/relizen",
+            "timeAgo": "2026-02-11"
+          },
+          {
+            "item": "Thermella",
+            "link": "https://hellobonafide.com/products/thermella",
+            "timeAgo": "2026-02-11"
+          },
+          {
+            "item": "Silvessa System",
+            "link": "https://hellobonafide.com/products/silvessa?_pos=9&_fid=915a95fa8&_ss=c",
+            "timeAgo": "2025-12-21"
+          },
+          {
+            "item": "Silvessa Oral Capsule",
+            "link": "https://hellobonafide.com/products/silvessa-oral-capsule?variant=39630236254271&vslyvid=917c095d-b140-4d9d-9c92-cd7e5d498cc3&vslywgid=4120b0aef951499c8b1d3bd0fbd75912&vslysid=_loomi_addon_1755094638342_dup1757434986_dup1757435364_dup1758116578",
+            "timeAgo": "2025-12-18"
+          }
+        ],
         "orders": [
           {
-            "orderNumber": "6995334856759",
-            "orderDate": "2025-12-19",
+            "orderNumber": "6329968",
+            "orderDate": "2025-10-30",
             "items": [
               {
-                "name": "Hope Is The Thing With Feathers That Perches In The Soul",
-                "price": 11.7,
-                "productLink": "https://positively.myshopify.com/products/hope-is-the-thing-with-feathers-that-perches-in-the-soul"
-              },
-              {
-                "name": "Carpe Diem",
-                "price": 11,
-                "productLink": "https://positively.myshopify.com/products/carpe-diem"
-              },
-              {
-                "name": "La Vita È Bella",
-                "price": 11.7,
-                "productLink": "https://positively.myshopify.com/products/la-vita-e-bella"
-              },
-              {
-                "name": "Enjoy the Journey",
-                "price": 11,
-                "productLink": "https://positively.myshopify.com/products/enjoy-the-journey-bracelets"
-              },
-              {
-                "name": "Though She Be But Little, She Is Fierce",
-                "price": 11,
-                "productLink": "https://positively.myshopify.com/products/though-she-be-but-little-she-is-fierce-rosegold"
+                "name": "Free Thermella Sample",
+                "price": 0,
+                "productLink": "https://jds-therapeutics.myshopify.com/products/free-thermella-sample"
               }
             ],
-            "total": 61.22,
-            "date_time": "2025-12-19 16:33:46.616"
+            "link": "https://hellobonafide.com/1185906751/orders/5629aa4bff6b00225a080fa770d216a4/authenticate?key=edf3bc784e9565c24d4f620990efaaa3",
+            "total": 0,
+            "date_time": "2025-10-30 13:58:10.462"
+          },
+          {
+            "orderNumber": "6073813",
+            "orderDate": "2025-10-30",
+            "items": [
+              {
+                "name": "Free Thermella Sample",
+                "price": 0,
+                "productLink": "https://jds-therapeutics.myshopify.com/products/free-thermella-sample"
+              }
+            ],
+            "link": "https://hellobonafide.com/1185906751/orders/fcf672f3ad53f4d8a7891722b8c5887c/authenticate?key=8624974a3f1da16a48b2deb68990da42",
+            "trackingLink": "https://webtrack.dhlglobalmail.com/orders?trackingNumber=9261290357488566096088",
+            "order_tracking_link": "https://webtrack.dhlglobalmail.com/orders?trackingNumber=9261290357488566096088",
+            "total": 5,
+            "date_time": "2025-10-30 13:54:19.876"
+          },
+          {
+            "orderNumber": "6329968",
+            "orderDate": "2025-10-24",
+            "items": [
+              {
+                "name": "Clairvee gift with purchase",
+                "price": 0,
+                "productLink": "https://jds-therapeutics.myshopify.com/products/clairvee-sample-1"
+              },
+              {
+                "name": "Ristela",
+                "price": 58,
+                "productLink": "https://jds-therapeutics.myshopify.com/products/ristela"
+              },
+              {
+                "name": "Revaree",
+                "price": 63,
+                "productLink": "https://jds-therapeutics.myshopify.com/products/revaree"
+              },
+              {
+                "name": "Clairvee Probiotic",
+                "price": 55,
+                "productLink": "https://jds-therapeutics.myshopify.com/products/clairvee"
+              },
+              {
+                "name": "Serenol",
+                "price": 63,
+                "productLink": "https://jds-therapeutics.myshopify.com/products/serenol"
+              }
+            ],
+            "link": "https://hellobonafide.com/1185906751/orders/5629aa4bff6b00225a080fa770d216a4/authenticate?key=edf3bc784e9565c24d4f620990efaaa3",
+            "total": 239,
+            "date_time": "2025-10-24 01:51:11.053"
+          },
+          {
+            "orderNumber": "6055401",
+            "orderDate": "2025-10-24",
+            "items": [
+              {
+                "name": "Clairvee Probiotic",
+                "price": 55,
+                "productLink": "https://jds-therapeutics.myshopify.com/products/clairvee"
+              },
+              {
+                "name": "Ristela",
+                "price": 58,
+                "productLink": "https://jds-therapeutics.myshopify.com/products/ristela"
+              },
+              {
+                "name": "Clairvee gift with purchase",
+                "price": 0,
+                "productLink": "https://jds-therapeutics.myshopify.com/products/clairvee-sample-1"
+              },
+              {
+                "name": "Revaree",
+                "price": 63,
+                "productLink": "https://jds-therapeutics.myshopify.com/products/revaree"
+              },
+              {
+                "name": "Serenol",
+                "price": 63,
+                "productLink": "https://jds-therapeutics.myshopify.com/products/serenol"
+              }
+            ],
+            "link": "https://hellobonafide.com/1185906751/orders/88852ec7fc94773b7c9087ac05c52755/authenticate?key=efa6c94d3785921fcf54fed272f04b32",
+            "trackingLink": "https://webtrack.dhlglobalmail.com/orders?trackingNumber=9261290357488564338081",
+            "order_tracking_link": "https://webtrack.dhlglobalmail.com/orders?trackingNumber=9261290357488564338081",
+            "total": 72.42,
+            "coupon": "RESTORE",
+            "date_time": "2025-10-24 01:48:22.816"
+          },
+          {
+            "orderNumber": "6329968",
+            "orderDate": "2024-06-30",
+            "items": [
+              {
+                "name": "Free Revaree Sample",
+                "price": 0,
+                "productLink": "https://jds-therapeutics.myshopify.com/products/free-revaree-sample"
+              }
+            ],
+            "link": "https://hellobonafide.com/1185906751/orders/5629aa4bff6b00225a080fa770d216a4/authenticate?key=edf3bc784e9565c24d4f620990efaaa3",
+            "total": 0,
+            "date_time": "2024-06-30 04:09:16.711"
+          }
+        ]
+      },
+      "escalation_preferences": [
+        "Exchanges and returns"
+      ],
+      "blocklisted_words": [],
+      "has_shopify": true
+    },
+    "140": {
+      "id": "019c5860-9165-4455-f000-0000b502d96c",
+      "companyName": "Boston Scally",
+      "companyWebsite": "https://bostonscally.com/",
+      "agentName": "Jordan",
+      "messageTone": "Polished",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "Boston Scally: Welcome! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
+          "message_type": "system",
+          "date_time": "2026-02-13 11:07:04.704"
+        },
+        {
+          "message_media": [],
+          "message_text": "Boston Scally: You're in! Welcome to the family. Your coupon code is SMS10. Tap here to automatically apply it and shop now: bostonscally.attn.tv/a17KxiCd_jw8",
+          "message_type": "system",
+          "date_time": "2026-02-13 11:07:09.107"
+        },
+        {
+          "message_media": [],
+          "message_text": "Boston Scally: Don't forget to save our contact for exclusive updates and offers! ",
+          "message_type": "system",
+          "date_time": "2026-02-13 11:07:10.268"
+        },
+        {
+          "message_media": [],
+          "message_text": "Boston Scally: Lovely day for a Guinness! NEW: The 'Guinness Gilroy' Patchwork cap is NOW AVAILABLE! \n\nSHOP NOW: bostonscally.attn.tv/aZTBwdPxy5bw ",
+          "message_type": "system",
+          "date_time": "2026-02-13 13:55:17.309"
+        },
+        {
+          "message_media": [],
+          "message_text": "Boston Scally: Hi! If you need additional help please reach us at info@bostonscally.com. Text STOP to opt out.",
+          "message_type": "system",
+          "date_time": "2026-02-13 13:56:01.096"
+        },
+        {
+          "message_media": [],
+          "message_text": "I ordered it and accidentally put wrong address what can I do ",
+          "message_type": "customer",
+          "date_time": "2026-02-13 13:56:05.871"
+        },
+        {
+          "message_media": [],
+          "message_text": "Boston Scally: Thank you for reaching out. I'm sorry to hear that. The best way to check if you can cancel or edit your order is to email our support team directly at info@bostonscally.com. ",
+          "message_type": "agent",
+          "agent": "48804",
+          "message_id": "019c585d-8a4c-4965-f000-0000b502d96c",
+          "date_time": "2026-02-13 13:57:31.248"
+        },
+        {
+          "message_media": [],
+          "message_text": "I've done that haven't gotten a reply",
+          "message_type": "customer",
+          "date_time": "2026-02-13 13:58:25.724"
+        },
+        {
+          "message_media": [],
+          "message_text": "Boston Scally: Thanks for letting me know, and sorry about that. Our team is dealing with a high volume of emails, which can sometimes slow response times. Rest assured, our team is reviewing your message and will get back to you as soon as possible. We appreciate your continued patience!",
+          "message_type": "agent",
+          "agent": "87310",
+          "message_id": "019c5860-9165-4455-f000-0000b502d96c",
+          "date_time": "2026-02-13 14:00:49.663"
+        }
+      ],
+      "notes": {
+        "send_to_cs": [
+          "Send to CS for post purchase issues, use PPI shortcut"
+        ]
+      },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://bostonscally.com/",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "The Guinness Gilroy Boston Scally Cap - Patchwork - X-Small [54cm]",
+            "link": "https://www.bostonscally.com/products/the-guinness-gilroy-boston-scally-cap",
+            "timeAgo": "2026-02-13"
+          },
+          {
+            "item": "The Guinness Gilroy Boston Scally Cap - Patchwork - X-Large [60cm]",
+            "link": "https://www.bostonscally.com/products/the-guinness-gilroy-boston-scally-cap",
+            "timeAgo": "2026-02-13"
+          },
+          {
+            "item": "The Guinness Gilroy Boston Scally Cap - Patchwork - X-Small [54cm]",
+            "link": "https://www.bostonscally.com/products/the-guinness-gilroy-boston-scally-cap",
+            "timeAgo": "2026-02-13"
+          },
+          {
+            "item": "The Baker Boy Boston Scally Cap - Patriot Blue Herringbone - X-Small [54cm]",
+            "link": "https://www.bostonscally.com/products/the-baker-boy-boston-scally-cap-blue-herringbone",
+            "timeAgo": "2026-02-13"
+          },
+          {
+            "item": "The Baker Boy Boston Scally Cap - Grey Herringbone - X-Small [54cm]",
+            "link": "https://www.bostonscally.com/products/the-baker-boy-boston-scally-cap-herringbone",
+            "timeAgo": "2026-02-13"
+          }
+        ],
+        "orders": [
+          {
+            "orderNumber": "7750465323095",
+            "orderDate": "2026-02-13",
+            "items": [
+              {
+                "name": "The Guinness Gilroy Boston Scally Cap - Patchwork",
+                "price": 55,
+                "productLink": "https://boston-scally-co.myshopify.com/products/the-guinness-gilroy-boston-scally-cap"
+              }
+            ],
+            "total": 62.32,
+            "coupon": "SMS10",
+            "date_time": "2026-02-13 18:03:33.121"
+          },
+          {
+            "orderNumber": "7733993111639",
+            "orderDate": "2026-02-06",
+            "items": [
+              {
+                "name": "The Irish Boston Scally Cap - White Herringbone",
+                "price": 52,
+                "productLink": "https://boston-scally-co.myshopify.com/products/the-irish-boston-scally-cap-white-herringbone"
+              }
+            ],
+            "total": 76.27,
+            "date_time": "2026-02-06 14:23:40.341"
           }
         ]
       },
       "escalation_preferences": [],
       "blocklisted_words": [],
       "has_shopify": true
-    },
-    "140": {
-      "id": "019c49bb-05e2-4826-f000-0000f5237a71",
-      "companyName": "Wolford",
-      "companyWebsite": "https://wolford.com/",
-      "agentName": "Annie",
-      "messageTone": "Polished",
-      "conversation": [
-        {
-          "message_media": [],
-          "message_text": "Wolford: Reply Y to subscribe to recurring automated personalized marketing alerts (e.g. cart reminders) from Wolford.",
-          "message_type": "system",
-          "date_time": "2026-01-20 17:26:14.165"
-        },
-        {
-          "message_media": [],
-          "message_text": "Wolford: Reply Y to subscribe to recurring automated personalized marketing alerts (e.g. cart reminders) from Wolford.",
-          "message_type": "system",
-          "date_time": "2026-01-27 17:49:18.124"
-        },
-        {
-          "message_media": [],
-          "message_text": "Wolford: Welcome to Wolford! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
-          "message_type": "system",
-          "date_time": "2026-01-27 17:49:32.688"
-        },
-        {
-          "message_media": [],
-          "message_text": "Wolford: Welcome! Use the code WOLFORD10 at checkout to save 10% on your next purchase. https://wolford.attn.tv/aI22sHvkWwFQ .",
-          "message_type": "system",
-          "date_time": "2026-01-27 17:49:36.711"
-        },
-        {
-          "message_media": [],
-          "message_text": "Wolford: Don't forget to save our contact to get exclusive updates!",
-          "message_type": "system",
-          "date_time": "2026-01-27 17:49:37.714"
-        },
-        {
-          "message_media": [],
-          "message_text": "Wolford: Hey, this is Annie. Thanks for checking out our site! \nhttps://wolford.attn.tv/aT-GPY-aIk98 \n\nAre you looking for anything in particular today? ",
-          "message_type": "system",
-          "date_time": "2026-01-27 17:52:58.743"
-        },
-        {
-          "message_media": [],
-          "message_text": "Wolford: You're still thinking about it, aren't you? Complete your order now & enjoy this exclusive offer of 10% off your order with code CART10 at checkout. https://wolford.attn.tv/a3WmUmLYl83k \n\nWas there anything else we can help with before you place your order?",
-          "message_type": "system",
-          "date_time": "2026-01-29 18:14:02.926"
-        },
-        {
-          "message_media": [],
-          "message_text": "Wolford: Slip into confidence this Valentine's Day with our timelessly crafted lingerie styles that celebrate passion. wolford.attn.tv/a3gU7y1wqPs6 ",
-          "message_type": "system",
-          "date_time": "2026-01-30 18:30:23.356"
-        },
-        {
-          "message_media": [],
-          "message_text": "Wolford: For 48 hours only enjoy 4 for 3 promo in our Outlet: get the lowest-priced item for free and free standard shipping wolford.attn.tv/alQE0I2YqTLB",
-          "message_type": "system",
-          "date_time": "2026-01-31 11:30:28.348"
-        },
-        {
-          "message_media": [],
-          "message_text": "Wolford: Celebrate the Lunar New Year in style with our luxurious tights, designed to make your legs the star of every celebration. wolford.attn.tv/avJzdifBbGVL",
-          "message_type": "system",
-          "date_time": "2026-02-02 18:30:22.653"
-        },
-        {
-          "message_media": [],
-          "message_text": "Wolford: Explore our latest eye-catching tights, where bold and intricate patterns redefine your look and enhance any outfit: wolford.attn.tv/aXSGn0Fw6jhB",
-          "message_type": "system",
-          "date_time": "2026-02-03 12:30:25.453"
-        },
-        {
-          "message_media": [],
-          "message_text": "Wolford: Meet our best-selling Winter Icons: breathable base layers & luxurious merino wool sweaters to keep you irresistibly warm. wolford.attn.tv/aEbjQ4x9cY4e",
-          "message_type": "system",
-          "date_time": "2026-02-06 11:30:23.616"
-        },
-        {
-          "message_media": [],
-          "message_text": "Wolford: Romance is in the air this Valentine's Day: from Feb 7 to 14 receive a complimentary Wolford foulard on orders above $400. wolford.attn.tv/aIJCncmeaafA",
-          "message_type": "system",
-          "date_time": "2026-02-07 11:30:18.865"
-        },
-        {
-          "message_media": [],
-          "message_text": "Wolford: Hey, this is Annie. Thanks for checking out our site! \nhttps://wolford.attn.tv/aHOdkjHe7y4z \n\nAre you looking for anything in particular today? ",
-          "message_type": "system",
-          "date_time": "2026-02-08 15:02:57.407"
-        },
-        {
-          "message_media": [],
-          "message_text": "What if an item doesn't fit",
-          "message_type": "customer",
-          "date_time": "2026-02-08 15:23:39.771"
-        },
-        {
-          "message_media": [],
-          "message_text": "Tights in particular?",
-          "message_type": "customer",
-          "date_time": "2026-02-08 15:23:49.720"
-        },
-        {
-          "message_media": [],
-          "message_text": "Wolford: I appreciate your inquiry! You may return undamaged/unworn items purchased online. Such items must be in salable condition, in the original packaging. No items may be returned if they are missing original tags, labels or hygiene stickers. No returned merchandise will be accepted without the original sales receipt. You can check out our detailed return policy here: https://wolford.attn.tv/aUMw9KwkQQU2 ",
-          "message_type": "agent",
-          "agent": "31385",
-          "message_id": "019c3f01-f616-4144-f000-0000f5237a71",
-          "date_time": "2026-02-08 15:46:59.122"
-        },
-        {
-          "message_media": [],
-          "message_text": "I wanted to enter my welcome code for my first order but was not given the chance . How can I get that 10 percent code applied? There was no prompt. I find your site super hard to navigate and finicky",
-          "message_type": "customer",
-          "date_time": "2026-02-08 16:39:28.373"
-        },
-        {
-          "message_media": [],
-          "message_text": "It's really a pain",
-          "message_type": "customer",
-          "date_time": "2026-02-08 16:39:38.365"
-        },
-        {
-          "message_media": [],
-          "message_text": "Wolford: Sorry for the long wait and for any inconvenience! Please apply the code to a full-priced item in your cart. The code is entered in the \"Redeem a voucher\" box. Here's a screenshot for reference- https://wolford.attn.tv/aNyJDxWtmApn_\n",
-          "message_type": "agent",
-          "agent": "87474",
-          "message_id": "019c3f56-a1b5-4ad8-f000-0000f5237a71",
-          "date_time": "2026-02-08 17:19:28.087"
-        },
-        {
-          "message_media": [],
-          "message_text": "It's too late. I just want customer service to apply it. And refund the cash. Last time I waited if was a disaster. Your guys site is really unstable",
-          "message_type": "customer",
-          "date_time": "2026-02-08 18:18:44.852"
-        },
-        {
-          "message_media": [],
-          "message_text": "Wolford: I understand, and sorry for the inconvenience. Have you already placed your order? If so, I can check with my team to see if we can apply the code to your order. Could you please send me your order number, email address, and the code you wish to apply?",
-          "message_type": "agent",
-          "agent": "30890",
-          "message_id": "019c3f9f-dd2d-4f9d-f000-0000f5237a71",
-          "date_time": "2026-02-08 18:39:27.430"
-        },
-        {
-          "message_media": [],
-          "message_text": "Wolford: Step into Lunar New Year with our stunning tights featuring gold threads and crystal details for your statement look: wolford.attn.tv/aa4Lmq3Pw_PM",
-          "message_type": "system",
-          "date_time": "2026-02-09 18:30:20.603"
-        },
-        {
-          "message_media": [],
-          "message_text": "Yes! I have placed the order and would love the discount code to apply",
-          "message_type": "customer",
-          "date_time": "2026-02-09 19:04:56.880"
-        },
-        {
-          "message_media": [],
-          "message_text": "My email is kittygreenwald@gmail.com",
-          "message_type": "customer",
-          "date_time": "2026-02-09 19:05:06.902"
-        },
-        {
-          "message_media": [],
-          "message_text": "Wolford: Thank you for the support, and I understand. Can I have your order number as well?",
-          "message_type": "agent",
-          "agent": "46059",
-          "message_id": "019c44df-7cac-49a0-f000-0000f5237a71",
-          "date_time": "2026-02-09 19:07:03.116"
-        },
-        {
-          "message_media": [],
-          "message_text": "Sure",
-          "message_type": "customer",
-          "date_time": "2026-02-09 19:07:36.811"
-        },
-        {
-          "message_media": [],
-          "message_text": "Let me check",
-          "message_type": "customer",
-          "date_time": "2026-02-09 19:07:42.798"
-        },
-        {
-          "message_media": [],
-          "message_text": "One sec",
-          "message_type": "customer",
-          "date_time": "2026-02-09 19:07:49.730"
-        },
-        {
-          "message_media": [],
-          "message_text": "Wolford: Take your time! I'll wait for your update. 😊",
-          "message_type": "agent",
-          "agent": "87595",
-          "message_id": "019c44e0-d081-4f1a-f000-0000f5237a71",
-          "date_time": "2026-02-09 19:08:30.101"
-        },
-        {
-          "message_media": [],
-          "message_text": "Order number US0001106358",
-          "message_type": "customer",
-          "date_time": "2026-02-09 19:25:46.709"
-        },
-        {
-          "message_media": [],
-          "message_text": "Wolford: Thank you for the information. I have already sent your concern to our team. Make sure to check your SMS for updates. I'll be in touch!",
-          "message_type": "agent",
-          "agent": "48804",
-          "message_id": "019c44f3-fd4e-4e3b-f000-0000f5237a71",
-          "date_time": "2026-02-09 19:29:26.774"
-        },
-        {
-          "message_media": [],
-          "message_text": "Thank you. I appreciate it",
-          "message_type": "customer",
-          "date_time": "2026-02-09 19:30:07.249"
-        },
-        {
-          "message_media": [],
-          "message_text": "Wolford: Thanks for your patience! I just heard from the team, and one of my colleagues will reach out to you and will be assisting you directly from here on out. Make sure to check your spam and promo folders, as sometimes our emails end up there. Rest assured, you're in excellent hands. ",
-          "message_type": "agent",
-          "agent": "32937",
-          "message_id": "019c4857-6dce-4b2d-f000-0000f5237a71",
-          "date_time": "2026-02-10 11:16:55.284"
-        },
-        {
-          "message_media": [],
-          "message_text": "Wolford: It's time for tights! Experience the unmatched craftsmanship of our legwear, designed to elevate your winter wardrobe wolford.attn.tv/aIWvF6-Wm7W9 ",
-          "message_type": "system",
-          "date_time": "2026-02-10 11:30:22.516"
-        },
-        {
-          "message_media": [],
-          "message_text": "No one has reached out to me",
-          "message_type": "customer",
-          "date_time": "2026-02-10 16:15:10.752"
-        },
-        {
-          "message_media": [],
-          "message_text": "And it's absurd",
-          "message_type": "customer",
-          "date_time": "2026-02-10 16:15:20.756"
-        },
-        {
-          "message_media": [],
-          "message_text": "Wolford: I'm so sorry about that. Just to be sure, have you checked your spam and promo folders? If so, please know our team will follow up with you in no time. We appreciate your patience.",
-          "message_type": "agent",
-          "agent": "87592",
-          "message_id": "019c496a-c824-4b2e-f000-0000f5237a71",
-          "date_time": "2026-02-10 16:17:40.797"
-        },
-        {
-          "message_media": [],
-          "message_text": "All I've gotten are promotional emails",
-          "message_type": "customer",
-          "date_time": "2026-02-10 16:18:40.852"
-        },
-        {
-          "message_media": [],
-          "message_text": "Wolford: Thank you for getting back to me and providing that information! I'm really sorry for the inconvenience. Our team is doing everything to respond to each inquiry in a timely manner. They should follow up with you as soon as they have an update!",
-          "message_type": "agent",
-          "agent": "109840",
-          "message_id": "019c496d-f8f1-4f9b-f000-0000f5237a71",
-          "date_time": "2026-02-10 16:21:09.892"
-        },
-        {
-          "message_media": [],
-          "message_text": "The website is awful. Your customer service over cell is great. Online - awful. I've been screwed and not taken care of three times once it comes to addressing issues",
-          "message_type": "customer",
-          "date_time": "2026-02-10 16:25:20.547"
-        },
-        {
-          "message_media": [],
-          "message_text": "I appreciate your diligence but it's not what the rest of the team does and it's left a bad taste in jh mouth. The website is dysfunctional",
-          "message_type": "customer",
-          "date_time": "2026-02-10 16:25:50.639"
-        },
-        {
-          "message_media": [],
-          "message_text": "Wolford: I'm very sorry about that. If you're having trouble with the website, I might suggest opening it in an incognito or private window to rule out any browser cache or extension issues. Let me know how that goes. ",
-          "message_type": "agent",
-          "agent": "43099",
-          "message_id": "019c4974-94b8-48ba-f000-0000f5237a71",
-          "date_time": "2026-02-10 16:28:22.997"
-        },
-        {
-          "message_media": [],
-          "message_text": "It's not in my end",
-          "message_type": "customer",
-          "date_time": "2026-02-10 16:32:40.883"
-        },
-        {
-          "message_media": [],
-          "message_text": "Pls see history of these message s",
-          "message_type": "customer",
-          "date_time": "2026-02-10 16:32:46.168"
-        },
-        {
-          "message_media": [],
-          "message_text": "I shop a lot online",
-          "message_type": "customer",
-          "date_time": "2026-02-10 16:32:50.919"
-        },
-        {
-          "message_media": [],
-          "message_text": "This is the worst experience I've had from any 'luxury brand'recently",
-          "message_type": "customer",
-          "date_time": "2026-02-10 16:33:10.480"
-        },
-        {
-          "message_media": [],
-          "message_text": "Wolford: I completely understand, and my sincere apologies for the inconvenience! Can you please send me a screenshot of what you're seeing on your end? I'll be more than happy to look into this for you! ",
-          "message_type": "agent",
-          "agent": "82427",
-          "message_id": "019c497b-0268-4fa8-f000-0000f5237a71",
-          "date_time": "2026-02-10 16:35:24.301"
-        },
-        {
-          "message_media": [],
-          "message_text": "I'm seeing nothing. I couldn't apply the discount code because there was no prompt or place to put it in",
-          "message_type": "customer",
-          "date_time": "2026-02-10 17:39:10.729"
-        },
-        {
-          "message_media": [],
-          "message_text": "Please see prior texts",
-          "message_type": "customer",
-          "date_time": "2026-02-10 17:39:30.757"
-        },
-        {
-          "message_media": [],
-          "message_text": "Template used: \"No response from customer support 2\"; last updated: 2023-10-16 22:00:00.972",
-          "message_type": "template",
-          "date_time": "2026-02-10 17:45:19.485"
-        },
-        {
-          "message_media": [],
-          "message_text": "Wolford: Thank you for getting back to me and providing that information! Regarding your already placed order, I'm so sorry for the delay in our team's response! We are dealing with an influx of support messages, but this does not make your concern any less important. The team is working as hard as possible to address each issue promptly and as soon as I hear back, I will message you immediately. I know my apologies won't help in this situation but rest assured, I understand how frustrating this can be and I'm very sorry I can't provide you with an immediate solution. I'm thankful for your patience and understanding and as soon as I get word about this, I will contact you!\n\nAs for the code, be advised that an option to \"Redeem a voucher\" is available in the cart prior to checking out. Hope this helps clarify things! Feel free to let me know if there's anything else I can help you with in the meantime!",
-          "message_type": "agent",
-          "agent": "109840",
-          "message_id": "019c49bb-05e2-4826-f000-0000f5237a71",
-          "date_time": "2026-02-10 17:45:19.487"
-        }
-      ],
-      "notes": {
-        "tone": [
-          "Avoid slang"
-        ],
-        "drive_to_purchase": [
-          "When suggesting something, add the name of the product next to the link"
-        ],
-        "promo_and_promo_exclusions": [
-          "Don't share the code SMS20"
-        ]
-      },
-      "rightPanel": {
-        "source": {
-          "label": "Website",
-          "value": "https://wolford.com/",
-          "date": ""
-        },
-        "browsingHistory": [
-          {
-            "item": "Tulle Control Panty High Waist",
-            "link": "https://www.wolford.com/en-us/tulle-control-panty-high-waist-69955.7005.html",
-            "timeAgo": "2026-02-10"
-          },
-          {
-            "item": "3W Control Panty High Waist",
-            "link": "https://www.wolford.com/en-us/3w-control-panty-high-waist-69832.4752.38.html",
-            "timeAgo": "2026-02-10"
-          },
-          {
-            "item": "Mosaic Net Tights",
-            "link": "https://www.wolford.com/en-us/mosaic-net-tights-19460.1300.M.html",
-            "timeAgo": "2026-02-08"
-          },
-          {
-            "item": "Merino Blend Tights",
-            "link": "https://www.wolford.com/en-us/merino-blend-tights-11335.7005.M.html",
-            "timeAgo": "2026-02-08"
-          },
-          {
-            "item": "Snake Net Tights",
-            "link": "https://www.wolford.com/en-us/snake-net-tights-19456.4850.M.html",
-            "timeAgo": "2026-02-08"
-          }
-        ]
-      },
-      "escalation_preferences": [],
-      "blocklisted_words": [],
-      "has_shopify": false
     }
   }
 }

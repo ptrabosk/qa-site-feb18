@@ -3,83 +3,504 @@
   "chunk": "chunk_0033",
   "scenarios": {
     "161": {
-      "id": "019c7220-f05c-421a-f000-0000fc4542f1",
-      "companyName": "Luminox",
-      "companyWebsite": "https://luminox.com",
-      "agentName": "Taylor",
+      "id": "019c49f9-88c2-4d42-f000-0000b7c1eed3",
+      "companyName": "Backcountry",
+      "companyWebsite": "https://backcountry.com",
+      "agentName": "Sarah",
       "messageTone": "Polished",
       "conversation": [
         {
           "message_media": [],
-          "message_text": "Luminox Watches: Welcome to Luminox Watches! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
+          "message_text": "Backcountry: Welcome to Backcountry! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel. Privacy: attnl.tv/p/iVG",
           "message_type": "system",
-          "date_time": "2026-02-18 13:30:03.856"
+          "date_time": "2026-02-09 18:21:54.306"
         },
         {
           "message_media": [],
-          "message_text": "Luminox Watches: Hi there, this is Taylor. How can I help you? Stop to stop",
+          "message_text": "Backcountry: Welcome to the Herd! Our Winter Semi-Annual Sale just dropped. Get up to 50% off this years' best: http://bctxt.co/aTud-R46SsNF ",
           "message_type": "system",
-          "date_time": "2026-02-18 13:30:08.863"
+          "date_time": "2026-02-09 18:22:25.853"
         },
         {
           "message_media": [],
-          "message_text": "Looking for dealers in New Orleans , Metairie ,Kenner la.  \n\nI ordered a turtle but the hour and minute hand was too thin to see well. Can you make a recommendation",
+          "message_text": "Backcountry: Oh, also, a lot of people like getting personal recs from us. Over the next few days we'll try to help you find something that you will love.\n\nSome of our favorite gear just went on sale! Get the best deals on our top brands before they're gone: http://bctxt.co/aqdVQQjOZvmo .",
+          "message_type": "system",
+          "date_time": "2026-02-09 18:23:33.940"
+        },
+        {
+          "message_media": [],
+          "message_text": "Backcountry: Find reliable climbing ropes and technical hardware built for durability and performance you can trust.\n\nUse code BCNTFSMS25MDPTVPY for 15% off full-priced items; exclusions apply: http://bctxt.co/aqUCmZsYQTiV .",
+          "message_type": "system",
+          "date_time": "2026-02-09 18:33:39.239"
+        },
+        {
+          "message_media": [],
+          "message_text": "Backcountry: Use code BCNTFSMS25MDPTVPY for 15% off full-priced items; exclusions apply. Free shipping on orders $69+.\n\nDiscover gear and save: http://bctxt.co/aArPHR3EnHRm .",
+          "message_type": "system",
+          "date_time": "2026-02-10 18:33:53.439"
+        },
+        {
+          "message_media": [],
+          "message_text": "That code is not working",
           "message_type": "customer",
-          "date_time": "2026-02-18 13:32:19.915"
+          "date_time": "2026-02-10 18:40:03.827"
         },
         {
           "message_media": [],
-          "message_text": "Luminox Watches: I'm sorry to hear that. You can send in a Repair Request through this link: https://luminox.attn.tv/aVsjqDAC-Kn2 For further assistance, you may contact our service center directly:\n\nSaltzman Watches \n(401) 946-0930\ncustomerservice@saltzmans-watches.com\n\nOur team is happy to help! ",
+          "message_text": "Backcountry: Thank you so much for reaching out, and sorry to hear that you're having issues with your code. Could you send a screenshot of your cart and the error message that you're getting? Be advised that the code BCNTFSMS25MDPTVPY is valid for 15% off full-priced items; exclusions apply.",
           "message_type": "agent",
-          "agent": "35256",
-          "message_id": "019c720b-fe28-4152-f000-0000fc4542f1",
-          "date_time": "2026-02-18 13:38:34.561"
+          "agent": "109840",
+          "message_id": "019c49f2-7612-4625-f000-0000b7c1eed3",
+          "date_time": "2026-02-10 18:45:52.681"
         },
         {
           "message_media": [],
-          "message_text": "I have a 30 day return guarantee.  I am looking for a different model . One with bolder hour and minute hands . A rubber band",
-          "message_type": "customer",
-          "date_time": "2026-02-18 13:50:20.095"
+          "message_text": "Template used: \"Customer support\"; last updated: 2024-03-15 19:22:47.507",
+          "message_type": "template",
+          "date_time": "2026-02-10 18:53:36.221"
         },
         {
           "message_media": [],
-          "message_text": "Can you make a suggestion",
-          "message_type": "customer",
-          "date_time": "2026-02-18 13:56:30.202"
+          "message_text": "Template used: \"Discount exclusions\"; last updated: 2024-03-15 19:13:38.344",
+          "message_type": "template",
+          "date_time": "2026-02-10 18:53:36.221"
         },
         {
           "message_media": [],
-          "message_text": "Luminox Watches: Thank you for sharing that! Since you're within the 30-day return guarantee, you can absolutely exchange your current watch for a different model. Based on what you're looking for - bolder hour and minute hands with a rubber strap - I'd recommend checking out the Navy SEAL 3500 Series https://luminox.attn.tv/aMsBbfej6-TJ or the Pacific Diver 3120 Series https://luminox.attn.tv/auZchNBaVPSh. Both feature bold, highly legible hands and durable rubber bands, designed for comfort and performance.",
+          "message_text": "Backcountry: Thanks for sending that screenshot over, and I'm sorry for the inconvenience! Please note that some items are not eligible for discounts depending on the manufacturer or if they are special orders, package discounts, gift certificates, passes and lift tickets. You can find more exclusion details here: http://bctxt.co/aZKoyiEvAFAl\n\nAlso, you could contact our team via our website or submit the email form here: http://bctxt.co/a05uOLha74BK \n\nThey would be happy to assist you further! ",
           "message_type": "agent",
-          "agent": "109972",
-          "message_id": "019c7220-f05c-421a-f000-0000fc4542f1",
-          "date_time": "2026-02-18 14:01:27.293"
+          "agent": "109617",
+          "message_id": "019c49f9-88c2-4d42-f000-0000b7c1eed3",
+          "date_time": "2026-02-10 18:53:36.224"
         }
       ],
       "notes": {
-        "send_to_cs": [
-          "Send to CS for post purchase inquiries, use PPI shortcut",
-          "Send to CS immediately for Authorized Retailers"
+        "escalate": [
+          "No escalations for this client, send everything to CS"
         ],
-        "templates": [
-          "For wrong/damaged items use WDI shortcut",
-          "For cxs reaching out from the UK, use UKD shortcut"
+        "tone": [
+          "Close the convo once the client takes over"
+        ],
+        "promo_and_promo_exclusions": [
+          "Welcome offer page:   https://www.backcountry.com/sc/new-customer-coupon-rules"
         ]
       },
       "rightPanel": {
         "source": {
           "label": "Website",
-          "value": "https://luminox.com",
+          "value": "https://backcountry.com",
           "date": ""
-        }
+        },
+        "browsingHistory": [
+          {
+            "item": "ESN Fly Reel",
+            "link": "https://www.backcountry.com/sage-esn-fly-reel",
+            "timeAgo": "2026-02-10"
+          },
+          {
+            "item": "Click Fly Reel",
+            "link": "https://www.backcountry.com/b/sage-click-series-fly-reel?CMP_SKU=SAG000Y&MER=0406&skid=SAG000Y-STE-S46WEI&utm_source=Facebook&utm_medium=Paid_Social_Prospecting&utm_campaign=PSP_FB_ASC_ALL_CAR_OVE_LOGO_PRICEOVERLAY%7C120230863960950186&utm_id=120230863960930186_v2_s04_e390_i20260210&utm_content=120230863960950186&utm_term=120230863960930186&fbclid=IwZXh0bgNhZW0BMABhZGlkAassWDAFLjpzcnRjBmFwcF9pZAo2NjI4NTY4Mzc5AAEed1XePTrYY6_jxO269SW_Odr4mJk5sbEFeA0eCw8suPR6NREatkkTjXw6O1A_aem_8j-hodUmp1kURcHjO6XQVw&campaign_id=120230863960940186&ad_id=120230863960950186",
+            "timeAgo": "2026-02-10"
+          },
+          {
+            "item": "Click Fly Reel",
+            "link": "https://www.backcountry.com/b/sage-click-series-fly-reel?CMP_SKU=SAG000Y&MER=0406&skid=SAG000Y-STE-S46WEI&utm_source=Facebook&utm_medium=Paid_Social_Prospecting&utm_campaign=PSP_FB_ASC_ALL_CAR_OVE_LOGO_PRICEOVERLAY%7C120230863960950186&utm_id=120230863960930186_v2_s04_e390_i20260210&utm_content=120230863960950186&utm_term=120230863960930186&fbclid=IwZXh0bgNhZW0BMABhZGlkAassWDAFLjpzcnRjBmFwcF9pZAo2NjI4NTY4Mzc5AAEed1XePTrYY6_jxO269SW_Odr4mJk5sbEFeA0eCw8suPR6NREatkkTjXw6O1A_aem_8j-hodUmp1kURcHjO6XQVw&campaign_id=120230863960940186&ad_id=120230863960950186",
+            "timeAgo": "2026-02-10"
+          },
+          {
+            "item": "Click Fly Reel",
+            "link": "https://www.backcountry.com/sage-click-series-fly-reel",
+            "timeAgo": "2026-02-10"
+          },
+          {
+            "item": "Click Fly Reel",
+            "link": "https://www.backcountry.com/sage-click-series-fly-reel",
+            "timeAgo": "2026-02-10"
+          }
+        ]
       },
-      "escalation_preferences": [
-        "Sizing questions"
+      "escalation_preferences": [],
+      "blocklisted_words": [],
+      "has_shopify": false
+    },
+    "162": {
+      "id": "019c7347-b6ab-472c-f000-000037de167e",
+      "companyName": "Beis Travel",
+      "companyWebsite": "https://beistravel.com",
+      "agentName": "Annie",
+      "messageTone": "Casual",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "BÉIS Travel: Welcome to BÉIS Travel! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
+          "message_type": "system",
+          "date_time": "2026-02-18 19:14:29.450"
+        },
+        {
+          "message_media": [],
+          "message_text": "BÉIS Travel: Hey there, newbie! First time shopping with us? We've handpicked some essentials to get you started: https://beistravel.attn.tv/aTwF-M-YQ_YW . \n\nEnjoy 20% OFF with code WELCOMEhuEJzE \nbeistravel.attn.tv/aAqwuTJJRxQC .",
+          "message_type": "system",
+          "date_time": "2026-02-18 19:14:42.596"
+        },
+        {
+          "message_media": [],
+          "message_text": "BÉIS Travel: Bags designed to make your every day easier. Save our contact to make getting all of our latest updates easy.",
+          "message_type": "system",
+          "date_time": "2026-02-18 19:14:43.800"
+        },
+        {
+          "message_media": [],
+          "message_text": "BÉIS Travel: Good news, it looks like you're already subscribed! Click here to shop now: https://beistravel.attn.tv/cl/txE.",
+          "message_type": "system",
+          "date_time": "2026-02-18 19:20:21.176"
+        },
+        {
+          "message_media": [],
+          "message_text": "Code does not work",
+          "message_type": "customer",
+          "date_time": "2026-02-18 19:22:50.786"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"Code won't work - All brands\"; last updated: 2023-10-10 16:36:42.859",
+          "message_type": "template",
+          "date_time": "2026-02-18 19:23:25.639"
+        },
+        {
+          "message_media": [],
+          "message_text": "BÉIS Travel: I'm sorry to hear that. Have you encountered any error messages? Also, could you kindly share a screenshot of the items in your cart? I'll be happy to look into the issue! ",
+          "message_type": "agent",
+          "agent": "87310",
+          "message_id": "019c7347-b6ab-472c-f000-000037de167e",
+          "date_time": "2026-02-18 19:23:25.641"
+        }
       ],
+      "notes": {
+        "escalate": [
+          "We don't ESC for this client, use ESC shortcut",
+          "If cx ask how to get/redeem the discount for downloading the app use ESC shortcut"
+        ],
+        "templates": [
+          "For Limited edition items don't use restock temps, they will not be restocked"
+        ],
+        "dos_and_don_ts": [
+          "Don't share the duration of the sale/sale dates with customers!"
+        ]
+      },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://beistravel.com",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "The Commuter Duffle in Black",
+            "link": "https://beistravel.com/products/the-commuter-duffle-in-black?variant=41217961033864",
+            "timeAgo": "2026-02-19"
+          },
+          {
+            "item": "The Commuter Duffle in Black",
+            "link": "https://beistravel.com/products/the-commuter-duffle-in-black?variant=41217961033864",
+            "timeAgo": "2026-02-19"
+          },
+          {
+            "item": "The Commuter Duffle in Black",
+            "link": "https://beistravel.com/products/the-commuter-duffle-in-black",
+            "timeAgo": "2026-02-19"
+          },
+          {
+            "item": "The Sport Duffle Backpack in Atlas Pink",
+            "link": "https://beistravel.com/products/the-sport-duffle-backpack-in-atlas-pink",
+            "timeAgo": "2026-02-18"
+          }
+        ]
+      },
+      "escalation_preferences": [],
       "blocklisted_words": [],
       "has_shopify": true
     },
-    "162": {
+    "163": {
+      "id": "019c6345-fe76-466d-f000-0000f52ffb2a",
+      "companyName": "Boston Scally",
+      "companyWebsite": "https://bostonscally.com/",
+      "agentName": "Jordan",
+      "messageTone": "Polished",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "Boston Scally: Welcome! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
+          "message_type": "system",
+          "date_time": "2026-01-21 05:15:13.637"
+        },
+        {
+          "message_media": [],
+          "message_text": "Boston Scally: You're in! Welcome to the family. Your coupon code is SMS10. Tap here to automatically apply it and shop now: bostonscally.attn.tv/a9AJKF6UVI5e",
+          "message_type": "system",
+          "date_time": "2026-01-21 05:15:17.692"
+        },
+        {
+          "message_media": [],
+          "message_text": "Boston Scally: Don't forget to save our contact for exclusive updates and offers! ",
+          "message_type": "system",
+          "date_time": "2026-01-21 11:36:37.965"
+        },
+        {
+          "message_media": [],
+          "message_text": "Boston Scally: Not sure where to start? We've got you covered. Our crowd-favorite, the 'Boondock' has over 3,000 reviews. See what all the hype is about: bostonscally.attn.tv/a4sJmjTgyFCZ ",
+          "message_type": "system",
+          "date_time": "2026-01-22 11:36:43.803"
+        },
+        {
+          "message_media": [],
+          "message_text": "Boston Scally: Psst...our caps can sell out in less than 24 hours. See what all the hype is about and grab yours today. Use code: SMS10. Don't wait too long! bostonscally.attn.tv/agRDu81NtxdH",
+          "message_type": "system",
+          "date_time": "2026-01-23 11:36:50.343"
+        },
+        {
+          "message_media": [],
+          "message_text": "Boston Scally: The 'Scot' is HERE! 10% OFF with code: SCOT. Grab yours quick before it's gone!\n\nSHOP NOW: bostonscally.attn.tv/a1tyJ-vn12kA ",
+          "message_type": "system",
+          "date_time": "2026-01-23 13:55:08.465"
+        },
+        {
+          "message_media": [],
+          "message_text": "Boston Scally: NEW! In case you missed it, the 'Scot' has arrived! \n\nGrab yours today and get 10% OFF with code SCOT: bostonscally.attn.tv/aBAfC0Le6Bvp ",
+          "message_type": "system",
+          "date_time": "2026-01-26 12:04:51.683"
+        },
+        {
+          "message_media": [],
+          "message_text": "Boston Scally: NEW: The 'Cloverland' is here! Plus, The 'Bareknuckle Irish Edition' is back in stock! Don't miss this!\n\nSHOP NOW: bostonscally.attn.tv/aiyd5SOUaK3L ",
+          "message_type": "system",
+          "date_time": "2026-01-30 14:07:06.777"
+        },
+        {
+          "message_media": [],
+          "message_text": "Boston Scally: Take 10% off the NEW 'Cloverland' and this season's best selling scally caps with code: CLOVERLAND\n\nSHOP NOW: bostonscally.attn.tv/aJ6hPiQ4pVWa ",
+          "message_type": "system",
+          "date_time": "2026-02-02 18:07:22.934"
+        },
+        {
+          "message_media": [],
+          "message_text": "Boston Scally: The 'Kilkenny' is HERE! Plus, our favorite 'Irish Baker Boy' is back! Limited quantities available, don't let these get away! \n\nSHOP NOW: bostonscally.attn.tv/aO_EkAZbpE98 ",
+          "message_type": "system",
+          "date_time": "2026-02-06 14:07:27.164"
+        },
+        {
+          "message_media": [],
+          "message_text": "Boston Scally: Did you see? The 'Kilkenny' and 'Irish Baker Boy' dropped and they're going FAST! Grab these St. Pat's favorites before they're gone!\n\nSHOP NOW: bostonscally.attn.tv/aqK8sk7Xf5kO ",
+          "message_type": "system",
+          "date_time": "2026-02-07 15:01:29.927"
+        },
+        {
+          "message_media": [],
+          "message_text": "Boston Scally: The highly anticipated St. Patrick's Day Collection is BACK! Here's your chance to grab the season's best sellers before they sell out again! \n\nSHOP NOW: bostonscally.attn.tv/acm1qDKLl8QW ",
+          "message_type": "system",
+          "date_time": "2026-02-09 12:02:57.619"
+        },
+        {
+          "message_media": [],
+          "message_text": "Boston Scally: Lovely day for a Guinness! NEW: The 'Guinness Gilroy' Patchwork cap is NOW AVAILABLE! \n\nSHOP NOW: bostonscally.attn.tv/aq0AYxSUnvmG ",
+          "message_type": "system",
+          "date_time": "2026-02-13 14:04:16.359"
+        },
+        {
+          "message_media": [],
+          "message_text": "Boston Scally: Your new cap's looking sharp. Want another? Tune in every Friday at noon for our weekly drop.\nCheck out the latest: bostonscally.attn.tv/aGtTYC3B3--K ",
+          "message_type": "system",
+          "date_time": "2026-02-15 16:17:12.212"
+        },
+        {
+          "message_media": [],
+          "message_text": "Boston Scally: Hi! If you need additional help please reach us at info@bostonscally.com. Text STOP to opt out.",
+          "message_type": "system",
+          "date_time": "2026-02-15 16:45:23.093"
+        },
+        {
+          "message_media": [],
+          "message_text": "IDK yet cause I still haven't received my order ",
+          "message_type": "customer",
+          "date_time": "2026-02-15 16:45:29.357"
+        },
+        {
+          "message_media": [],
+          "message_text": "Boston Scally: Thanks for reaching out! Are you referring to Order #2441396? If so, our records show it's already on its way and expected to be delivered on February 17. You may track it here:https://bostonscally.attn.tv/aEGlohjgwMmO",
+          "message_type": "agent",
+          "agent": "109972",
+          "message_id": "019c6345-fe76-466d-f000-0000f52ffb2a",
+          "date_time": "2026-02-15 16:47:37.488"
+        }
+      ],
+      "notes": {
+        "send_to_cs": [
+          "Send to CS for post purchase issues, use PPI shortcut"
+        ]
+      },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://bostonscally.com/",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "The Kilkenny Baker Boy Boston Scally Cap - Medieval Plaid - X-Small [54cm]",
+            "link": "https://www.bostonscally.com/products/the-kilkenny-baker-boy-boston-scally-cap",
+            "timeAgo": "2026-02-13"
+          },
+          {
+            "item": "The Kilkenny Baker Boy Boston Scally Cap - Medieval Plaid - X-Small [54cm]",
+            "link": "https://www.bostonscally.com/products/the-kilkenny-baker-boy-boston-scally-cap",
+            "timeAgo": "2026-02-13"
+          },
+          {
+            "item": "The Guinness Gilroy Boston Scally Cap - Patchwork - XXX-Large [64cm]",
+            "link": "https://www.bostonscally.com/products/the-guinness-gilroy-boston-scally-cap?utm_campaign=021326_Guinness%20Gilroy%20is%20HERE%20%2801KH4PYAVNS02M4EP1VHSZQC2E%29&utm_medium=campaign-email&utm_source=Klaviyo&_kx=7ieqSeifAvGcN5Vrkyw7pACExlIVL2S3IMiMUtu5PFE.PjyXWv",
+            "timeAgo": "2026-02-13"
+          },
+          {
+            "item": "The Guinness Gilroy Boston Scally Cap - Patchwork - X-Small [54cm]",
+            "link": "https://www.bostonscally.com/products/the-guinness-gilroy-boston-scally-cap?utm_campaign=021326_Guinness%20Gilroy%20is%20HERE%20%2801KH4PYAVNS02M4EP1VHSZQC2E%29&utm_medium=campaign-email&utm_source=Klaviyo&_kx=7ieqSeifAvGcN5Vrkyw7pACExlIVL2S3IMiMUtu5PFE.PjyXWv",
+            "timeAgo": "2026-02-13"
+          },
+          {
+            "item": "Boston Scally The Guinness Cap Pin Set",
+            "link": "https://www.bostonscally.com/products/boston-scally-guinness-pin-set",
+            "timeAgo": "2026-02-12"
+          }
+        ],
+        "orders": [
+          {
+            "orderNumber": "7732672364631",
+            "orderDate": "2026-02-05",
+            "items": [
+              {
+                "name": "The Bareknuckle Boston Scally Cap - Black",
+                "price": 52,
+                "productLink": "https://boston-scally-co.myshopify.com/products/bareknuckle-black-boston-scally-cap"
+              }
+            ],
+            "total": 56.09,
+            "coupon": "SMS10",
+            "date_time": "2026-02-05 21:16:52.379"
+          }
+        ]
+      },
+      "escalation_preferences": [],
+      "blocklisted_words": [],
+      "has_shopify": true
+    },
+    "164": {
+      "id": "019c62f8-d416-41f5-f000-0000fb9e7b83",
+      "companyName": "Bonobos",
+      "companyWebsite": "https://bonobos.com",
+      "agentName": "Miles",
+      "messageTone": "Polished",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "Bonobos: Reply Y to subscribe to recurring automated personalized marketing alerts (e.g. cart reminders) from Bonobos.",
+          "message_type": "system",
+          "date_time": "2026-02-15 14:57:03.426"
+        },
+        {
+          "message_media": [],
+          "message_text": "Bonobos: Welcome! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
+          "message_type": "system",
+          "date_time": "2026-02-15 14:57:22.250"
+        },
+        {
+          "message_media": [],
+          "message_text": "Bonobos: Congratulations! We might be biased, but we think you just signed up for the best text alerts in the game 😎 To put money where our mouth is, here's a coupon code for 20% off your first order - hello20_lfegrf ! Welcome to Bonobos! \n\nGet Your 20% Off Now: bonobos.attn.tv/aZoHXOfOaNWV \n\nTerms apply. ",
+          "message_type": "system",
+          "date_time": "2026-02-15 14:57:27.267"
+        },
+        {
+          "message_media": [],
+          "message_text": "Bonobos: Be sure to add us to your contacts so you don't miss out on VIP Early Access to sales and other promotions!",
+          "message_type": "system",
+          "date_time": "2026-02-15 14:57:28.824"
+        },
+        {
+          "message_media": [],
+          "message_text": "Bonobos: I'm sorry about that, and thanks for sending that over. Can you also share a screenshot of the items in your cart so I can check for you?\n",
+          "message_type": "agent",
+          "agent": "33953",
+          "message_id": "019c62ed-6022-4f55-f000-0000fb9e7b83",
+          "date_time": "2026-02-15 15:10:49.796"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"Automatic discount - All brands\"; last updated: 2023-10-10 16:40:19.306",
+          "message_type": "template",
+          "date_time": "2026-02-15 15:23:20.372"
+        },
+        {
+          "message_media": [],
+          "message_text": "Bonobos: I'm sorry for any inconvenience. I just checked, and it looks like the item you're trying to buy already has a discount applied. That's likely why the code isn't working, as our system can't stack multiple promos at checkout.",
+          "message_type": "agent",
+          "agent": "109964",
+          "message_id": "019c62f8-d416-41f5-f000-0000fb9e7b83",
+          "date_time": "2026-02-15 15:23:20.374"
+        }
+      ],
+      "notes": {
+        "tone": [
+          "Close journey replies asking customers to text in their birthday to receive a gift"
+        ],
+        "dos_and_don_ts": [
+          "Offer help if the customer replies back to the automated message with number 0"
+        ],
+        "templates": [
+          "For checkout issues use COI shortcut",
+          "If the site doesn't accept the customers payment method use PME shortcut"
+        ],
+        "promo_and_promo_exclusions": [
+          "The welcome code can be applied to discounted items",
+          "For issues with the code GETSTARTED15 use GSE shortcut",
+          "The 20% off welcome offer will automatically be added at checkout for their first order"
+        ]
+      },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://bonobos.com",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "https://bonobos.com/cart",
+            "link": "https://bonobos.com/cart",
+            "timeAgo": "2026-02-15"
+          },
+          {
+            "item": "Travel Jeans",
+            "link": "https://bonobos.com/products/extra-stretch-travel-jeans?color=greensville%20gray",
+            "timeAgo": "2026-02-15"
+          },
+          {
+            "item": "Travel Jeans",
+            "link": "https://bonobos.com/products/extra-stretch-travel-jeans?color=mojave%20desert%20taupe",
+            "timeAgo": "2026-02-15"
+          },
+          {
+            "item": "Travel Jeans",
+            "link": "https://bonobos.com/products/extra-stretch-travel-jeans?color=seattle%20java%20brown",
+            "timeAgo": "2026-02-15"
+          },
+          {
+            "item": "Travel Jeans",
+            "link": "https://bonobos.com/products/extra-stretch-travel-jeans?color=greensville%20gray",
+            "timeAgo": "2026-02-15"
+          }
+        ]
+      },
+      "escalation_preferences": [],
+      "blocklisted_words": [],
+      "has_shopify": false
+    },
+    "165": {
       "id": "019c53f6-7a4e-47c5-f000-000088cc1270",
       "companyName": "Gardner-White",
       "companyWebsite": "https://gardner-white.com",
@@ -311,6 +732,33 @@
           "value": "https://gardner-white.com",
           "date": ""
         },
+        "browsingHistory": [
+          {
+            "item": "Palmer Brown Twin Stair Bunk Bed",
+            "link": "https://www.gardner-white.com/product/198845-palmer-brown-twin-stair-bunk-bed?utm_source=google&utm_medium=cpc&utm_campaign=23524582484&utm_content=&utm_term=&gad_source=1&gad_campaignid=23524585877&gbraid=0AAAAAobuC9eZStruU41zVfd1Wl37HohHJ&gclid=CjwKCAiAkbbMBhB2EiwANbxtbRFiAem9pDBsbj8lek5W2si7cGmoDkB7vumVSxl43XxOXU17dm-KYhoCBZkQAvD_BwE",
+            "timeAgo": "2026-02-12"
+          },
+          {
+            "item": "Palmer Brown Twin Stair Bunk Bed",
+            "link": "https://www.gardner-white.com/product/198845-palmer-brown-twin-stair-bunk-bed",
+            "timeAgo": "2026-02-12"
+          },
+          {
+            "item": "Serta iComfort Eco F30LTX Plush Queen Mattress",
+            "link": "https://www.gardner-white.com/collection/7456-serta-icomfort-eco-f30ltx-mattress?product_id=182459&variant_id=42591",
+            "timeAgo": "2026-02-12"
+          },
+          {
+            "item": "Palmer Grey Twin/Full Bunk Bed",
+            "link": "https://www.gardner-white.com/product/198848-palmer-grey-twin-full-bunk-bed",
+            "timeAgo": "2026-02-12"
+          },
+          {
+            "item": "Portage Extendable Dining Table (66\"-94\")",
+            "link": "https://www.gardner-white.com/product/186158-portage-extendable-dining-table-66-94",
+            "timeAgo": "2026-02-12"
+          }
+        ],
         "orders": [
           {
             "orderNumber": "243193",
@@ -319,12 +767,17 @@
               {
                 "name": "Portage Extendable Table + 6 Chairs",
                 "price": 1879.99,
-                "productLink": "https://www.plumbersstock.com/grundfos-30lpe545-91136592-5-hp-230v-inline-e-circulator-cast-iron-with-pressure-sensor.html"
+                "productLink": "https://www.replacements.com/china-johnson-brothers-the-old-mill-pink-salad-plate/p/2821111"
               },
               {
                 "name": "Portage Extendable Table + 6 Chairs",
                 "price": 1879.99,
-                "productLink": "https://www.homeshoppingmalls.com/barbados-6-piece-outdoor-wicker-patio-furniture-set-06p-in-aruba-tk-classics-barbados-06p-aruba"
+                "productLink": "https://www.vince.com/product/houndstooth-bias-slip-skirt-282111.html"
+              },
+              {
+                "name": "Portage Extendable Table + 6 Chairs",
+                "price": 1879.99,
+                "productLink": "https://lightingandsupplies.com/oracle-lighting-2606-022-kawasaki-zx-6r-2007-2009-led-motorcycle-halo-kit/"
               },
               {
                 "name": "Portage Extendable Table + 6 Chairs",
@@ -339,27 +792,22 @@
               {
                 "name": "Portage Extendable Table + 6 Chairs",
                 "price": 1879.99,
-                "productLink": "https://www.coolwick.com/product/stefanie-johnson-this-is-my-practice-shirt-coolwick-bowling-t-shirt/?attribute_pa_color-options=heather-grey&attribute_pa_size=2x"
-              },
-              {
-                "name": "Portage Extendable Table + 6 Chairs",
-                "price": 1879.99,
-                "productLink": "https://lightingandsupplies.com/oracle-lighting-2606-022-kawasaki-zx-6r-2007-2009-led-motorcycle-halo-kit/"
-              },
-              {
-                "name": "Portage Extendable Table + 6 Chairs",
-                "price": 1879.99,
                 "productLink": "https://checkout.fascinatingdiamonds.com/1-23-carat-cushion-diamond-phk-0281/"
               },
               {
                 "name": "Portage Extendable Table + 6 Chairs",
                 "price": 1879.99,
-                "productLink": "https://www.vince.com/product/houndstooth-bias-slip-skirt-282111.html"
+                "productLink": "https://www.homeshoppingmalls.com/barbados-6-piece-outdoor-wicker-patio-furniture-set-06p-in-aruba-tk-classics-barbados-06p-aruba"
               },
               {
                 "name": "Portage Extendable Table + 6 Chairs",
                 "price": 1879.99,
-                "productLink": "https://www.replacements.com/china-johnson-brothers-the-old-mill-pink-salad-plate/p/2821111"
+                "productLink": "https://www.plumbersstock.com/grundfos-30lpe545-91136592-5-hp-230v-inline-e-circulator-cast-iron-with-pressure-sensor.html"
+              },
+              {
+                "name": "Portage Extendable Table + 6 Chairs",
+                "price": 1879.99,
+                "productLink": "https://www.coolwick.com/product/stefanie-johnson-this-is-my-practice-shirt-coolwick-bowling-t-shirt/?attribute_pa_color-options=heather-grey&attribute_pa_size=2x"
               },
               {
                 "name": "Portage Extendable Table + 6 Chairs",
@@ -379,393 +827,6 @@
       ],
       "blocklisted_words": [],
       "has_shopify": false
-    },
-    "163": {
-      "id": "019c530d-a12f-4c7a-f000-000059b19537",
-      "companyName": "Snipes",
-      "companyWebsite": "https://snipesusa.com",
-      "agentName": "Avery",
-      "messageTone": "Formal",
-      "conversation": [
-        {
-          "message_media": [],
-          "message_text": "SNIPES: We saw you checking out this item. Don't let a 🔥 style pass you by: snipes.attn.tv/aibFi6LVsalc .",
-          "message_type": "system",
-          "date_time": "2026-01-13 13:48:33.489"
-        },
-        {
-          "message_media": [],
-          "message_text": "SNIPES: Last chance for up to 75% off select styles. Hundreds of new styles added. Shop now before you miss it: snipes.attn.tv/aClM7ufQVb1d ",
-          "message_type": "system",
-          "date_time": "2026-01-16 12:04:43.964"
-        },
-        {
-          "message_media": [],
-          "message_text": "SNIPES: The AJ4 Retro \"Flight Club\" is available now. Don't miss your chance to grab a pair before they sell out. Shop now: snipes.attn.tv/aFluIXmKiMY9 .",
-          "message_type": "system",
-          "date_time": "2026-01-17 12:03:47.895"
-        },
-        {
-          "message_media": [],
-          "message_text": "SNIPES: Missed it? Nike LeBron XXIII \"Best in Class\", Book 2, & more dropped at SNIPES this week. Shop now: snipes.attn.tv/acMVB_mcRteY ",
-          "message_type": "system",
-          "date_time": "2026-01-18 17:01:16.722"
-        },
-        {
-          "message_media": [],
-          "message_text": "SNIPES: The AJ9 Retro \"Flint Grey\" is available now. Don't miss your chance to grab a pair before they sell out. Shop now: snipes.attn.tv/ahroqmrDbpYI .",
-          "message_type": "system",
-          "date_time": "2026-01-24 12:02:57.711"
-        },
-        {
-          "message_media": [],
-          "message_text": "SNIPES: Looking for something specific? Check out our hottest new styles from your favorite brands: https://snipes.attn.tv/aIT_og22M7qc ",
-          "message_type": "system",
-          "date_time": "2026-01-26 13:56:02.268"
-        },
-        {
-          "message_media": [],
-          "message_text": "SNIPES: New arrivals just landed! Fresh styles from Nike, Jordan, UGG, adidas, New Balance, and more. Shop what's new now: snipes.attn.tv/arkxFcbZjl8S ",
-          "message_type": "system",
-          "date_time": "2026-01-27 13:14:09.441"
-        },
-        {
-          "message_media": [],
-          "message_text": "SNIPES: Final call. End of Season Sale with up to 70% off select styles from Nike, Jordan, UGG, New Balance, & more. Shop now: snipes.attn.tv/aks_y1iOCCmX ",
-          "message_type": "system",
-          "date_time": "2026-02-02 15:01:17.158"
-        },
-        {
-          "message_media": [],
-          "message_text": "SNIPES: Skip the shipping and get 10% OFF when you buy online and pick up in store with code SNIPESLOVE. Exclusions apply: snipes.attn.tv/atG-pzho2dWw ",
-          "message_type": "system",
-          "date_time": "2026-02-07 14:02:14.001"
-        },
-        {
-          "message_media": [],
-          "message_text": "SNIPES: Extra AJ6 Retro \"Infrared Salesman\" just dropped! Early access is live. Join the VIP queue with your Reserve email: snipes.attn.tv/a6kPE0xeKWQ9 ",
-          "message_type": "system",
-          "date_time": "2026-02-12 12:35:20.126"
-        },
-        {
-          "message_media": [],
-          "message_text": "Help",
-          "message_type": "customer",
-          "date_time": "2026-02-12 13:02:29.753"
-        },
-        {
-          "message_media": [],
-          "message_text": "Took my money but I don't see order",
-          "message_type": "customer",
-          "date_time": "2026-02-12 13:02:45.744"
-        },
-        {
-          "message_media": [],
-          "message_text": "SNIPES: Thank you for reaching out, and I am sorry to hear that! I can see that the charge is still showing as pending, which means the payment has not been completed yet. It should either be refunded within 24 to 48 hours or go through successfully. If it is refunded, you can try placing the order again. If it processes, you will receive a confirmation email shortly.",
-          "message_type": "agent",
-          "agent": "87295",
-          "message_id": "019c530d-a12f-4c7a-f000-000059b19537",
-          "date_time": "2026-02-12 13:12:08.132"
-        }
-      ],
-      "notes": {
-        "send_to_cs": [
-          "Send to CS immediately for post-purchase issues",
-          "Send to CS for payment processing issues"
-        ],
-        "tone": [
-          "Don't use the term restock",
-          "Don't tell customers that we'll be restocking",
-          "Don't respond to blank messages",
-          "Don't use formal language",
-          "Close the conversation when a customer responds 'no'"
-        ],
-        "templates": [
-          "If a cx reaches out regarding the Early Access event, use EAE shortcut",
-          "For cx reaching out in Spanish use SSC shortcut",
-          "For checkout issues use the \"Check out Issues\" temp",
-          "For store item availability, use SPA shortcut",
-          "If cx's email doesn't work for early access, use EEA shortcut"
-        ],
-        "dos_and_don_ts": [
-          "They occasionally run sign-up campaigns where cx text certain keywords (“releases,” “early access”) to join a list. If a customer sends a similar keyword:",
-          "➜ Check the website banner or landing page to confirm if it's a current keyword trigger",
-          "➜ If confirmed, close the convo, if not you can respond",
-          "All clothing is true to size unless otherwise stated on the product page",
-          "You can use these sizing charts for reference (for internal use only): https://docs.google.com/spreadsheets/d/1kmra_vOwCJuHoAx9D4L4Qx95rxafHcrqn-ZGutfzLgg/edit?usp=sharing",
-          "🅿️ If customers say they want to purchase in store - encourage them to buy online & pick up in-store",
-          "For store info q's (phone number/additional info) - use the store locator with your VPN turned on!"
-        ],
-        "drive_to_purchase": [
-          "🅿️ If customers are looking for an outfit recommendation/item pairing - direct them to the \"shop the look\" section on each product page or use the LK shortcut"
-        ]
-      },
-      "rightPanel": {
-        "source": {
-          "label": "Website",
-          "value": "https://snipesusa.com",
-          "date": ""
-        },
-        "browsingHistory": [
-          {
-            "item": "9Fifty Chicago White Sox A-Frame Snapback Hat",
-            "link": "https://www.snipesusa.com/9fifty-chicago-white-sox-a-frame-snapback-hat-new-era-scarlet---black-70939076-16091200005.html?queryID=a32866b4d4db041a43d93dc11276ca0e&objectID=16091200005&indexName=production_na01_snipes_demandware_net__snipesusa__products__en_US",
-            "timeAgo": "2025-06-20"
-          },
-          {
-            "item": "Air Jordan 3 Retro",
-            "link": "https://www.snipesusa.com/air-jordan-3-retro-jordan-off-noir---black-ct8532-001-1000121250.html",
-            "timeAgo": "2025-01-18"
-          },
-          {
-            "item": "Air Jordan 3 Retro",
-            "link": "https://www.snipesusa.com/air-jordan-3-retro-jordan-off-noir---black-ct8532-001-1000121250.html",
-            "timeAgo": "2025-01-14"
-          },
-          {
-            "item": "Air Jordan 3 Retro",
-            "link": "https://www.snipesusa.com/air-jordan-3-retro-jordan-off-noir---black-ct8532-001-1000121250.html",
-            "timeAgo": "2025-01-14"
-          },
-          {
-            "item": "Air Jordan 3 Retro",
-            "link": "https://www.snipesusa.com/air-jordan-3-retro-jordan-off-noir---black-ct8532-001-1000121250.html",
-            "timeAgo": "2025-01-14"
-          }
-        ]
-      },
-      "escalation_preferences": [
-        "Exchanges and returns"
-      ],
-      "blocklisted_words": [
-        "restock"
-      ],
-      "has_shopify": false
-    },
-    "164": {
-      "id": "019c7d73-af69-41d6-f000-00004fc03762",
-      "companyName": "FaithGateway",
-      "companyWebsite": "https://faithgateway.com",
-      "agentName": "Rebecca",
-      "messageTone": "Polished",
-      "conversation": [
-        {
-          "message_media": [],
-          "message_text": "FaithGateway: Reply Y to subscribe to recurring automated personalized marketing alerts (e.g. cart reminders) from FaithGateway.",
-          "message_type": "system",
-          "date_time": "2026-02-20 18:32:56.501"
-        },
-        {
-          "message_media": [],
-          "message_text": "FaithGateway: Welcome to FaithGateway! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
-          "message_type": "system",
-          "date_time": "2026-02-20 18:36:31.291"
-        },
-        {
-          "message_media": [],
-          "message_text": "FaithGateway: We're so glad you're back! Save on your next order with code F-xoo5lF. Shop now: fg.attn.tv/afbxXS-g2H4i\n\nText back with any questions! - Rebecca",
-          "message_type": "system",
-          "date_time": "2026-02-20 18:36:34.721"
-        },
-        {
-          "message_media": [],
-          "message_text": "Discount code isn't working",
-          "message_type": "customer",
-          "date_time": "2026-02-20 18:39:08.634"
-        },
-        {
-          "message_media": [],
-          "message_text": "FaithGateway: I'm sorry to hear you're having trouble applying the discount code F-xoo5lF. Please note that our codes do have some exclusions and may not work with certain deals or existing sales.\n\nCould you let me know which items are currently in your cart? If it's easier, you can also share a screenshot, and I'll be glad to take a closer look and assist further. ",
-          "message_type": "agent",
-          "agent": "31385",
-          "message_id": "019c7d6c-c484-4f0a-f000-00004fc03762",
-          "date_time": "2026-02-20 18:40:06.177"
-        },
-        {
-          "message_media": [],
-          "message_text": "The Way of the Wildflower",
-          "message_type": "customer",
-          "date_time": "2026-02-20 18:40:58.915"
-        },
-        {
-          "message_media": [],
-          "message_text": "It's okay. Ordering.",
-          "message_type": "customer",
-          "date_time": "2026-02-20 18:45:43.337"
-        },
-        {
-          "message_media": [],
-          "message_text": "FaithGateway: Thanks for the info. Sorry, it looks like the item you want is not eligible. The one you're interested in already benefits from a pre-applied discount, and our system generally doesn't allow multiple promotions to be used at checkout. Rest assured, you're already getting the best available deal. If you prefer, you can reserve the promo code for a future order. Thank you for your understanding! ",
-          "message_type": "agent",
-          "agent": "31385",
-          "message_id": "019c7d71-f0ec-48b4-f000-00004fc03762",
-          "date_time": "2026-02-20 18:45:45.452"
-        },
-        {
-          "message_media": [],
-          "message_text": "No problem",
-          "message_type": "customer",
-          "date_time": "2026-02-20 18:46:19.947"
-        },
-        {
-          "message_media": [],
-          "message_text": "FaithGateway: Thank you for your time. You may also want to check our sale collection to get ideas for your next purchase here: https://fg.attn.tv/a3FpOcsKKQnB\nIf you have any other questions in the future, don't hesitate to reach out. ",
-          "message_type": "agent",
-          "agent": "82260",
-          "message_id": "019c7d73-af69-41d6-f000-00004fc03762",
-          "date_time": "2026-02-20 18:47:39.525"
-        }
-      ],
-      "notes": {
-        "send_to_cs": [
-          "Send to CS for post purchase inquiries, use PPI shortcut",
-          "Send to CS if the customer doesn't receive the free printables with his purchase"
-        ]
-      },
-      "rightPanel": {
-        "source": {
-          "label": "Website",
-          "value": "https://faithgateway.com",
-          "date": ""
-        },
-        "browsingHistory": [
-          {
-            "item": "Cliques, Hicks, and Ugly Sticks - Softcover",
-            "link": "https://faithgateway.com/products/cliques-hicks-and-ugly-sticks?variant=13752974180463",
-            "timeAgo": "2026-02-20"
-          },
-          {
-            "item": "Playing in the Dirt: 90 Devos for Crazy Plant Ladies - Hardcover",
-            "link": "https://faithgateway.com/products/playing-in-the-dirt-90-devos-for-crazy-plant-ladies?utm_content=Facebook_UA&utm_source=facebook&variant=44688733667464&utm_medium=paid&utm_id=52577170923730_v2_s05_e7465&utm_term=52577170923730&utm_campaign=6758352967926&fbclid=IwY2xjawQF0GxleHRuA2FlbQEwAGFkaWQAAC_R9dse0nNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR4PCycb8U_M6OkprsShpP1pVSZ0F1d4SPGPr2fu_XetLMNZoa8x3o4E4tVG3g_aem_gGCNU-u9I00oPViU6lKmRQ&campaign_id=6758352967926&ad_id=52578543856730",
-            "timeAgo": "2026-02-20"
-          },
-          {
-            "item": "NKJV, Journal the Word Bible, Large Print, Red Letter Edition: Reflect, Journal, or Create Art Next to Your Favorite Verses - Hardcover Large Print / Black / No",
-            "link": "https://faithgateway.com/products/nkjv-journal-the-word-bible-large-print-red-letter-edition-reflect-journal-or-create-art-next-to-your-favorite-verses?utm_campaign=concierge&utm_medium=sms&utm_source=attentive&variant=34351615934600&externalId=KJc_G",
-            "timeAgo": "2024-07-28"
-          },
-          {
-            "item": "NKJV, Journal the Word Bible, Large Print, Red Letter Edition: Reflect, Journal, or Create Art Next to Your Favorite Verses - Hardcover Large Print / Black / No",
-            "link": "https://faithgateway.com/products/nkjv-journal-the-word-bible-large-print-red-letter-edition-reflect-journal-or-create-art-next-to-your-favorite-verses?utm_campaign=concierge&utm_medium=sms&utm_source=attentive&variant=34351615934600&externalId=KJc_G",
-            "timeAgo": "2024-07-26"
-          },
-          {
-            "item": "NKJV, Journal the Word Bible, Large Print, Red Letter Edition: Reflect, Journal, or Create Art Next to Your Favorite Verses - Hardcover Large Print / Black / No",
-            "link": "https://faithgateway.com/products/nkjv-journal-the-word-bible-large-print-red-letter-edition-reflect-journal-or-create-art-next-to-your-favorite-verses?utm_campaign=concierge&utm_medium=sms&utm_source=attentive&variant=34351615934600&externalId=KJc_G",
-            "timeAgo": "2024-07-26"
-          }
-        ]
-      },
-      "escalation_preferences": [
-        "Exchanges and returns",
-        "Discount code errors",
-        "Shipping questions"
-      ],
-      "blocklisted_words": [],
-      "has_shopify": true
-    },
-    "165": {
-      "id": "019c77f6-df89-4200-f000-0000296662a8",
-      "companyName": "R + Co",
-      "companyWebsite": "https://randco.com",
-      "agentName": "Lesley",
-      "messageTone": "Polished",
-      "conversation": [
-        {
-          "message_media": [],
-          "message_text": "R+Co: Reply Y to subscribe to recurring automated personalized marketing alerts (e.g. cart reminders) from R+Co.",
-          "message_type": "system",
-          "date_time": "2026-02-19 17:02:44.517"
-        },
-        {
-          "message_media": [],
-          "message_text": "R+Co: Welcome to R+Co! Msg & data rates may apply. Msg frequency varies. Reply STOP to cancel.",
-          "message_type": "system",
-          "date_time": "2026-02-19 17:02:59.567"
-        },
-        {
-          "message_media": [],
-          "message_text": "R+Co: Thanks for joining! Your code for 15% OFF is HELLO15. Click here to shop now: rco.attn.tv/aE_WPp6A1wHn \n\nYou also now have access to our text concierge Lesley! You can message them here anytime with questions while you shop.",
-          "message_type": "system",
-          "date_time": "2026-02-19 17:03:03.645"
-        },
-        {
-          "message_media": [],
-          "message_text": "R+Co: Add us to your contacts and never miss out on our latest news, offers and style tips.",
-          "message_type": "system",
-          "date_time": "2026-02-19 17:03:04.802"
-        },
-        {
-          "message_media": [],
-          "message_text": "I entered the 15% off but the code is saying invalid",
-          "message_type": "customer",
-          "date_time": "2026-02-19 17:04:20.844"
-        },
-        {
-          "message_media": [],
-          "message_text": "R+Co: I'm sorry about that! Are you getting any error messages, do you mind sending a screenshot? ",
-          "message_type": "agent",
-          "agent": "33953",
-          "message_id": "019c77f3-65cf-4804-f000-0000296662a8",
-          "date_time": "2026-02-19 17:09:25.999"
-        },
-        {
-          "message_media": [],
-          "message_text": "Template used: \"Code won't work - All brands\"; last updated: 2023-10-10 16:36:42.859",
-          "message_type": "template",
-          "date_time": "2026-02-19 17:13:13.756"
-        },
-        {
-          "message_media": [],
-          "message_text": "R+Co: Thank you for sharing the error message! Could you kindly share a screenshot of the items in your cart? I'll be happy to look into this further.",
-          "message_type": "agent",
-          "agent": "109964",
-          "message_id": "019c77f6-df89-4200-f000-0000296662a8",
-          "date_time": "2026-02-19 17:13:13.757"
-        }
-      ],
-      "notes": {
-        "escalate": [
-          "ESC retroactive discount/price adjustment inquiries immediately",
-          "ESC discount code issues",
-          "ESC if stylists/salons want to carry the products"
-        ],
-        "templates": [
-          "For any q's about affiliate links, commissions, or salon referral links, use AFQ shortcut",
-          "All of the products are unisex, use USX shortcut"
-        ],
-        "drive_to_purchase": [
-          "Ask the cx what their hair concerns are before making a recommendation!",
-          "Make recommendations when cx has specific inquiry, don't send the quiz!",
-          "For full haircare regimen inquiries, recommend shampoo, conditioner, and at least one or two other products recommended that align with their need"
-        ],
-        "promo_and_promo_exclusions": [
-          "When sending a code provide more detail about what the code is valid for!",
-          "When sending the promo/code end date, include the time the offer expires as well!"
-        ]
-      },
-      "rightPanel": {
-        "source": {
-          "label": "Website",
-          "value": "https://randco.com",
-          "date": ""
-        },
-        "browsingHistory": [
-          {
-            "item": "RETROACTIVE DRY SHAMPOO - 6.5 OZ",
-            "link": "https://www.randco.com/collections/dry-shampoo/products/retroactive-dry-shampoo",
-            "timeAgo": "2026-02-19"
-          },
-          {
-            "item": "DART Pomade Stick - 0.5 OZ",
-            "link": "https://www.randco.com/products/dart-pomade-stick?utm_source=Klaviyo&utm_medium=email&utm_campaign=111622%20BACK%20IN%20STOCK%3A%20DART%20%28Engaged%20Audience%20excl.%20those%20who%20already%20received%29%20%2801GJ1011H7N91JZ6VW5DZEEWVP%29&utm_id=01GJ1011H7N91JZ6VW5DZEEWVP&utm_content=Dart&utm_klaviyo_id=Tuq5dk&_kx=mdUELQoP0ly5QAEvr998_iCOZTXBi1lmfFGd_xlRrjY%3D.HQBua5",
-            "timeAgo": "2022-11-16"
-          }
-        ]
-      },
-      "escalation_preferences": [],
-      "blocklisted_words": [],
-      "has_shopify": true
     }
   }
 }

@@ -1,0 +1,206 @@
+{
+  "companyKey": "faherty",
+  "templates": [
+    {
+      "name": "Free shipping",
+      "content": "We offer free shipping on domestic orders over $150. Maybe you can add something else to reach the minimum?",
+      "id": "2dcb080a-b49a-453c-bf49-6750245a2421",
+      "shortcut": "fs",
+      "companyName": "Faherty"
+    },
+    {
+      "name": "Social media",
+      "content": "Give us a follow on IG: https://www.instagram.com/fahertybrand/?hl=en and FB here: https://www.facebook.com/FahertyBrand/",
+      "id": "6b4b4c46-9432-422d-be84-89bbf8c36607",
+      "shortcut": "smd",
+      "companyName": "Faherty"
+    },
+    {
+      "name": "Order status/order tracking",
+      "content": "You can use our convenient online tool to see the latest updates on your order: https://fahertybrand.com/pages/check-order",
+      "id": "7c7210c4-1608-43e8-aa82-a027fe0cba2b",
+      "companyName": "Faherty"
+    },
+    {
+      "name": "Can I request changes or cancel a pre-order?",
+      "content": "Yes, you may request a pre-order cancellation for a full refund if your item has not yet processed for shipping. Please reach out to hello@fahertybrand.com for any pre-order changes.",
+      "id": "6b855122-e6c1-4e1e-a48c-f848dc55e06b",
+      "companyName": "Faherty"
+    },
+    {
+      "name": "Brand ambassador / sponsorship / affiliate program",
+      "content": "We do currently offer an Affiliate program which can be found at the following link: https://fahertybrand.com/pages/faherty-affiliate-program For any collaborations please reach out to press@fahertybrand.com as we would love to hear from you!",
+      "id": "c8d2043d-6c8c-4aa7-9fe4-124602fa98fb",
+      "shortcut": "ams",
+      "companyName": "Faherty"
+    },
+    {
+      "name": "Customer support",
+      "content": "The best way to handle this is to email us directly at hello@fahertybrand.com. Our team is happy to help!",
+      "id": "fd1a5952-13c4-46ca-9c35-04ed63c6c6f8",
+      "shortcut": "cs",
+      "companyName": "Faherty"
+    },
+    {
+      "name": "Wholesale inquiries",
+      "content": "Thank you for your interest! Please fill out the following form and a member of our Wholesale Team will reach out to you: https://docs.google.com/forms/d/e/1FAIpQLSfa4ldUAClXf4JNux3Piu7iMIWCBgixmsalKeDjcBBLn-KIVg/viewform",
+      "id": "e29bff3b-c23f-4761-a478-483a4472b516",
+      "shortcut": "wls",
+      "companyName": "Faherty"
+    },
+    {
+      "name": "Store location / retailer",
+      "content": "You can find us at a store near you here: https://fahertybrand.com/pages/store-locator",
+      "id": "990f8c8a-44e9-4898-968a-75c6d5f43e94",
+      "shortcut": "sl",
+      "companyName": "Faherty"
+    },
+    {
+      "name": "Cancel / edit order",
+      "content": "Unfortunately, we are unable to make changes to an order once it has been placed. I apologize for any inconvenience. If you need to change your shipping address, please email hello@fahertybrand.com as soon as possible. We cannot guarantee a carrier's ability to change a delivery address once an item has shipped, but we will do our best to accommodate your request.",
+      "id": "384be77a-6c64-4401-9d3e-ea6beb55ffd4",
+      "shortcut": "ced",
+      "companyName": "Faherty"
+    },
+    {
+      "name": "Where are your items made / manufactured?",
+      "content": "Our garments are manufactured all over the world as certain factories and regions have different specialties. Currently we produce most of our products in Peru, India, China, and Turkey, and a few are made in the United States. Ethical manufacturing is important to us and when possible, our design and production teams visit our factories to be fully involved in the production process. Over the years, we have worked to develop close relationships with these factories to ensure our garments are made with a high degree of quality that we can guarantee.",
+      "id": "d684e40e-9eb8-4daf-82ad-5d7dc674d843",
+      "shortcut": "mfc",
+      "companyName": "Faherty"
+    },
+    {
+      "name": "Do you ship to PO boxes/APO bases?",
+      "content": "Yes, we currently ship to P.O. Boxes and APO bases. If you are shipping in either of these two scenarios the shipping carrier options will automatically adjust to USPS at checkout.",
+      "id": "93b20644-958e-4402-9178-669e4b141864",
+      "companyName": "Faherty"
+    },
+    {
+      "name": "Return policy",
+      "content": "You can check out our detailed return policy here: https://fahertybrand.com/pages/returns",
+      "id": "1c248f9f-d7dd-4df9-899b-f6d439260f86",
+      "shortcut": "rp",
+      "companyName": "Faherty"
+    },
+    {
+      "name": "Military / First responder / Healthcare / Teacher discount",
+      "content": "Thank you for your service! We don't have any specific discounts like that, but our deals will always be shared with our SMS subscribers or on our website, so keep an eye out!",
+      "id": "f642b1cc-965c-4530-8d6f-99cad9c9e8f2",
+      "shortcut": "ms",
+      "companyName": "Faherty"
+    },
+    {
+      "name": "Can I use a discount code at the store?",
+      "content": "Yes! Discount codes provided by us or one of our official marketing partners can be redeemed in store. Please present a screenshot of the discount code to the store associate to redeem.",
+      "id": "1a9a4c62-8854-4d9d-a84f-cf3f56de1ae8",
+      "companyName": "Faherty"
+    },
+    {
+      "name": "Rewards / referral",
+      "content": "We have a rewards program where you can earn points to redeem on future purchases. Check it out here: https://fahertybrand.com/pages/rewards",
+      "id": "8c30f18b-ecd9-4d54-a23b-a66d5199b3ac",
+      "shortcut": "rwd",
+      "companyName": "Faherty"
+    },
+    {
+      "name": "Phone support",
+      "content": "You can give us a call at (877) 745-8994 or let me know if I can help via text, it may be faster.",
+      "id": "5adf79df-f1f8-496b-8e40-02fe8f1d1280",
+      "shortcut": "ps",
+      "companyName": "Faherty"
+    },
+    {
+      "name": "Shipping time",
+      "content": "Our processing time takes 1-2 business days and we usually ship via FedEx. Once shipped, it will take 1-5 business days for domestic orders and 5-8 business days for international orders.",
+      "id": "adbd9771-5842-485a-a92e-d829793d4f0c",
+      "shortcut": "shp",
+      "companyName": "Faherty"
+    },
+    {
+      "name": "Sizing (clothes)",
+      "content": "Happy to help you find the right size! Our products should run true to size (unless noted otherwise on the respective product page) and we recommend that you choose your normal size when purchasing. You can find the size guide for an item on each product description page. Just select \"Size Guide\" and it will show you that item's relevant measurements. Would you mind sharing your usual size?",
+      "id": "de18b2da-ed72-4497-98ab-fd0402de566d",
+      "shortcut": "sz",
+      "companyName": "Faherty"
+    },
+    {
+      "name": "Warranty policy",
+      "content": "You can take a look at our full quality guarantee here: https://fahertybrand.com/pages/quality-guarantee-form",
+      "id": "73ab6c34-2def-4cf9-a47c-334ec4db1d7a",
+      "shortcut": "wp",
+      "companyName": "Faherty"
+    },
+    {
+      "name": "Will my clothes shrink?",
+      "content": "All our garments are prewashed. However, all dryers heat differently and high temperatures can sometimes constrict fibers. We recommend avoiding drying your garments on high temperatures for any extended period of time.",
+      "id": "228a033e-4ea1-4069-bdae-02b240019dab",
+      "companyName": "Faherty"
+    },
+    {
+      "name": "Retroactive discount",
+      "content": "If you forgot to apply your discount during checkout, please contact hello@fahertybrand.com at your earliest convenience and we will retroactively apply your discount. You can expect to receive your partial refund within 3-5 business days. Please note, discount codes cannot be combined through retroactive application.",
+      "id": "df936b57-a442-4ea2-963f-003a6547dc17",
+      "companyName": "Faherty"
+    },
+    {
+      "name": "Gift wrapping / gift messages",
+      "content": "Currently, we are not able to provide gift-wrapping or gift notes for orders placed through our website. Our packing slips do not show prices of individual items, sales, or the order total, though original prices are shown on the small hangtags attached to the merchandise which cannot be removed before shipping.\n\nHowever, we do offer gift-wrapping and notes for purchases made inside our store locations. Wrapping paper is also available for purchase on our website and can be sent directly to you for any gifting needs.",
+      "id": "530cb578-7a25-4a10-84fa-9bd633936d1b",
+      "companyName": "Faherty"
+    },
+    {
+      "name": "What is a pre-order item?",
+      "content": "Pre-order items are made in limited quantities based on demand. If your item is pre-order, it means we are still awaiting its arrival from our factory to the warehouse. We try our best to forecast arrival dates for pre-order items, however dates may be subject to change.",
+      "id": "1ea76c12-db8c-4ce7-a3d1-a2919e47ae88",
+      "companyName": "Faherty"
+    },
+    {
+      "name": "Price adjustments",
+      "content": "We may honor one-time price adjustments on items with further markdowns within 7 days of receiving the item. Please note that flash sales or auto-applied discount codes are not included in this policy. Reach out to us at hello@fahertybrand.com for any questions or assistance regarding price adjustments!",
+      "id": "0e086124-f1bd-4b13-82cf-042a04d21611",
+      "companyName": "Faherty"
+    },
+    {
+      "name": "How do I redeem rewards points?",
+      "content": "You can redeem points in increments of 100 (equivalent to $10) with a maximum of 500 points (equivalent to $50) per transaction. Faherty Perks rewards are valid for one-time use only, in-stores or online until expiration. Rewards are single-use and cannot be retroactively applied to previous purchases. Redemption of rewards cannot be combined with other offers and may not be applicable to select third-party products.",
+      "id": "9cf076cd-1bfd-4d93-aa82-e1c03f2b0cb2",
+      "companyName": "Faherty"
+    },
+    {
+      "name": "Why was my order sent in multiple packages?",
+      "content": "If you purchased more than one item, your order may arrive in separate packages depending on product availability within our warehouse. If an item is not available there, we'll try our best to fulfill the remainder of your order through one of our retail locations. You should receive separate notifications with tracking for each shipment.",
+      "id": "1a29b883-1d19-4fe1-abee-b8e401da416a",
+      "companyName": "Faherty"
+    },
+    {
+      "name": "Do you have pre-loved/secondhand items?",
+      "content": "If you wish to sell or buy pre-loved items, have a look at our Second Wave page: https://secondwave.fahertybrand.com/?utm_source=faherty&utm_medium=referral&utm_campaign=footer",
+      "id": "84df297a-1fc4-44d6-bca9-f0f8a091ab3b",
+      "companyName": "Faherty"
+    },
+    {
+      "name": "How long does a pre-order take to process?",
+      "content": "We try our best to forecast arrival dates for all pre-order items, however these dates are subject to change due to external circumstances. Once an item has arrived in the warehouse it takes 1-3 business days to process and send out. If you have already purchased a pre-order item, we will ship it to you as soon as possible upon the item's arrival to our warehouse.",
+      "id": "5f423db2-cc28-42bf-adfd-2fa44f773200",
+      "companyName": "Faherty"
+    },
+    {
+      "name": "How do I return non-Faherty brand items?",
+      "content": "When you purchase a non-Faherty brand item from our site, you will receive a separate email from that providing retail partner. Should you need to make a return, please follow that retailer's instructions.",
+      "id": "0cafce48-59d7-4589-a3ef-ba3040289d4b",
+      "companyName": "Faherty"
+    },
+    {
+      "name": "How do I return a cash purchase?",
+      "content": "Cash purchases must be returned to an official Faherty Brand store location. If an email address was not provided at the time of purchase, a receipt will be required. Cash purchases cannot be returned through our online portal.",
+      "id": "c81efdf5-fe80-458f-b7b8-36bfacbea17b",
+      "companyName": "Faherty"
+    },
+    {
+      "name": "Where can I find my reward points?",
+      "content": "You can check your reward points by logging in at https://fahertybrand.attn.tv/aGQcPkqe4phN , then clicking \"Faherty Perks & Loyalty\" under Customer Care to view your points and history. Points expire 6 months after your order date, and you'll get email reminders before they expire. Hope this helps! Let me know if you need anything else.",
+      "id": "5a43fa05-c820-40aa-9d46-c98b94b8c61d",
+      "companyName": "Faherty"
+    }
+  ]
+}

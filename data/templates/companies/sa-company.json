@@ -1,0 +1,231 @@
+{
+  "companyKey": "sa company",
+  "templates": [
+    {
+      "name": "How do I start a return?",
+      "content": "You can start your return here: https://safishing.com/apps/returns",
+      "id": "14f913c5-6946-4f99-b208-eed4f67ccab7",
+      "companyName": "SA Company"
+    },
+    {
+      "name": "Do you ship to PO boxes?",
+      "content": "We don't currently ship to P.O. boxes.",
+      "id": "8ec3ddb0-5c28-42c1-b07b-9d31a692d602",
+      "companyName": "SA Company"
+    },
+    {
+      "name": "Store location",
+      "content": "You can visit our warehouse at 2045 High Ridge Road, Suite A, Boynton Beach, FL, 33426.",
+      "id": "d04e0a7d-8953-4770-8fca-bb7312f407a3",
+      "shortcut": "sl",
+      "companyName": "SA Company"
+    },
+    {
+      "name": "Can you make a pack that's not on the site?",
+      "content": "I'm afraid we don't have that option available. You can take a look at our pack deals here: https://safishing.com/collections/pack-deals-1",
+      "id": "99bd17dd-61fe-473f-85f2-812ca185ddb3",
+      "companyName": "SA Company"
+    },
+    {
+      "name": "What are the measurements for the arm shield?",
+      "content": "You can take a look at the measurements here: https://safishing.attn.tv/sl/gw472SAs",
+      "id": "c3b81a67-da86-4680-9638-9249ec184e43",
+      "companyName": "SA Company"
+    },
+    {
+      "name": "Where are your straw hats made?",
+      "content": "Some of the raw materials are imported but the manufacturing and the final touch are made by us, in our facility in Boca Raton.",
+      "id": "2777f36d-d109-41ea-bd30-ce02c483a522",
+      "companyName": "SA Company"
+    },
+    {
+      "name": "Do you have a discount?",
+      "content": "Sure! You can use CS15 for a 15% off incentive!",
+      "id": "e3f22422-db35-4ed3-b1d7-a621c6063b87",
+      "companyName": "SA Company"
+    },
+    {
+      "name": "Warranty policy",
+      "content": "You can take a look at our full warranty policy here - https://safishing.com/pages/warranty",
+      "id": "40af9714-f326-4743-bdd7-bed7f7b9503d",
+      "shortcut": "wp",
+      "companyName": "SA Company"
+    },
+    {
+      "name": "What are the measurements of your straw hats?",
+      "content": "You can take a look at the measurements of our straw hats here: https://prnt.sc/78LeoT9PrJ1z",
+      "id": "a7380766-7af5-4a14-9804-4aa72299d88d",
+      "companyName": "SA Company"
+    },
+    {
+      "name": "What kind of fur do your trapper hats use?",
+      "content": "The fur used in our trapper hats is faux fur.",
+      "id": "860a1755-6171-4320-8dfd-9eeddef214a4",
+      "companyName": "SA Company"
+    },
+    {
+      "name": "How do I send back a return?",
+      "content": "Please ship back the items you'd like to return to our facility at: 2045 High Ridge Rd, Suite A, Boynton Beach, FL 33426, with a note explaining what you would like (full refund or exchange).",
+      "id": "9673a3c1-23ed-4b72-9321-b01c6727b437",
+      "companyName": "SA Company"
+    },
+    {
+      "name": "Return policy",
+      "content": "You can check out our detailed return policy here - https://safishing.com/pages/returns-and-exchanges",
+      "id": "ae13d2a0-5df8-4f03-8552-416cbb9ed430",
+      "shortcut": "rp",
+      "companyName": "SA Company"
+    },
+    {
+      "name": "Do you offer custom sizes for regular shirts & other apparel?",
+      "content": "Custom gear is only for custom designs. We work with the same sizes as for our normal apparel.",
+      "id": "fe333f62-81b0-45ae-a7d1-03b6a09d4314",
+      "companyName": "SA Company"
+    },
+    {
+      "name": "Social media",
+      "content": "Give us a follow on IG: https://www.instagram.com/sa_company/, FB: https://www.facebook.com/SAFISHINGCO, YouTube: https://www.youtube.com/c/SACompanyTVOfficial, and Twitter: https://twitter.com/OfficialSATeam",
+      "id": "c0bb2454-ac70-4186-93b0-4026615e8ab4",
+      "shortcut": "smd",
+      "companyName": "SA Company"
+    },
+    {
+      "name": "Cancel / edit order",
+      "content": "We don't handle post-purchase requests via text. Please email your request to  help@sateam.company or feel free to call this number +1 (888) 704-0358, Monday-Friday 9:30am-5:30pm, and Saturday-Sunday 10am-6pm EST. Please let me know if you have any questions about our products, I'm more than happy to help you here!",
+      "id": "7edd0a12-5a96-4b18-b53e-4ceaaf1c979b",
+      "shortcut": "ced",
+      "companyName": "SA Company"
+    },
+    {
+      "name": "Military discount",
+      "content": "Thank you for your service! Please use MILITARY15 for 15% off!",
+      "id": "e0cad274-b693-47e4-8b24-0df6e7c22aa7",
+      "shortcut": "ms",
+      "companyName": "SA Company"
+    },
+    {
+      "name": "Where are the board shorts made?",
+      "content": "The board shorts are designed in the US and manufactured in China. They're made of feather-light performance 4-way stretch durable woven moisture-wicking material, built with a drawstring waistband and three pockets with zippers for all your needs.",
+      "id": "844dd54c-a8a6-40df-b913-cd24098143c2",
+      "companyName": "SA Company"
+    },
+    {
+      "name": "Wholesale inquiries",
+      "content": "Thank you for your interest in us! Please fill out this form and our team will contact you as soon as possible: https://resellsa.com/pages/dealer-application",
+      "id": "74225363-d4a1-40a8-8615-12b27f7f869c",
+      "shortcut": "wls",
+      "companyName": "SA Company"
+    },
+    {
+      "name": "Can you retroactively apply the code to my order?",
+      "content": "I'm afraid promo codes can only be placed during the checkout process, apologies for the inconvenience!",
+      "id": "882e20a1-b307-40b9-af6f-4957065cfd68",
+      "companyName": "SA Company"
+    },
+    {
+      "name": "Where do you ship from?",
+      "content": "We ship from our warehouse located in Boynton Beach, FL.",
+      "id": "1bf1cc80-1899-4860-b903-5eb4f07c7951",
+      "companyName": "SA Company"
+    },
+    {
+      "name": "Sponsorship inquiries",
+      "content": "Please fill out the form at the following link: https://safishing.com/pages/sponsorship Someone from the team will contact you as soon as possible.",
+      "id": "6f7185fa-39a5-4a6c-b679-7d17c05d348b",
+      "companyName": "SA Company"
+    },
+    {
+      "name": "Size chart for swim trunks/board shorts",
+      "content": "Happy to help! Our clothes generally run true to size.  Would you mind sharing your usual size? If it helps, here's the size guide for our swim trunks/board shorts: https://prnt.sc/OLhwIkO66XnB and for our performance shirts: https://safishing.attn.tv/sl/r4IP-_Ud",
+      "id": "84e555a7-a51c-4709-844c-27b8b21032db",
+      "companyName": "SA Company"
+    },
+    {
+      "name": "Brand ambassador",
+      "content": "Thank you for your interest! You can learn more and apply for our Ambassador Program here: https://safishing.com/pages/ambassador-program/",
+      "id": "985ae2d0-cdd2-4992-8d68-7a91bc6092c6",
+      "shortcut": "ams",
+      "companyName": "SA Company"
+    },
+    {
+      "name": "Customer support",
+      "content": "The best way to handle this is to email us directly at help@sateam.company or live chat with one of our representatives via the website: https://safishing.com/pages/customer-service Our team is happy to help!",
+      "id": "32aa8c33-0841-411d-84d7-a28f825da9e7",
+      "shortcut": "cs",
+      "companyName": "SA Company"
+    },
+    {
+      "name": "What kind of lining is in the swim trunks?",
+      "content": "The swim trunks are made with a lightweight performance mesh inner short.",
+      "id": "45a2c20f-a952-4a2e-993c-31791277e205",
+      "companyName": "SA Company"
+    },
+    {
+      "name": "What material are the arm shields made of?",
+      "content": "Arm Shields® are made of breathable, UPF 30 Mmicrofiber, and are the ideal form of protection from sun, dust, and bugs.",
+      "id": "4d8a18cb-b751-4413-8d05-b5d7fa99758b",
+      "companyName": "SA Company"
+    },
+    {
+      "name": "Restock button (autosend enabled)",
+      "content": "I currently don't have the exact date of a possible restock, but I recommend checking our website and social media frequently.",
+      "id": "f1d02b3c-2dff-11ed-a261-0242ac120002",
+      "shortcut": "stok",
+      "companyName": "SA Company"
+    },
+    {
+      "name": "Ring size chart",
+      "content": "You can check out our ring size chart here - https://prnt.sc/XC2bUI7FhvYv",
+      "id": "7898828f-ac94-48d5-8e14-4b2971299dd3",
+      "companyName": "SA Company"
+    },
+    {
+      "name": "Phone support",
+      "content": "You can give us a call at (561) 210-5475, Monday-Friday 9:30am-5:30pm EST. Let me know if I can help via text as well, it may be faster.",
+      "id": "e8f1f876-60fb-422a-99df-f849ce4d70b0",
+      "shortcut": "ps",
+      "companyName": "SA Company"
+    },
+    {
+      "name": "What does SA stand for?",
+      "content": "SA stands for Soul of Adventure.",
+      "id": "a8153f02-9cab-4a19-b342-20af82135ba9",
+      "companyName": "SA Company"
+    },
+    {
+      "name": "Post Purchase Inquiries",
+      "content": "We don't handle post-purchase requests via text. Please email your request to help@sateam.company, live chat with one of our representatives via the website: https://safishing.com/pages/customer-service or feel free to call this number (561) 210-5475, Monday-Friday 9:30am-5:30pm EST. Please let me know if you have any questions about our products, I'm more than happy to help you here!",
+      "id": "3425a7fc-2795-433d-9663-0ad90d3dc7bd",
+      "shortcut": "ppi",
+      "companyName": "SA Company"
+    },
+    {
+      "name": "Order Lookup/Tracking",
+      "content": "For order tracking, please feel free to use our convenient online tool to see the latest updates on your order: \n\nhttps://safishing.com/pages/track-your-order\n\nLet me know if you have any questions!",
+      "id": "01abe1a7-be50-4aaf-b63d-ec56f9fc437f",
+      "shortcut": "trck",
+      "companyName": "SA Company"
+    },
+    {
+      "name": "Sales Collection",
+      "content": "You can take a look at our sale collection here: https://safishing.com/collections/daily-deals",
+      "id": "be922a03-0264-4d4a-bb0d-e97145e81541",
+      "shortcut": "spg",
+      "companyName": "SA Company"
+    },
+    {
+      "name": "Shipping time",
+      "content": "Our processing time is 2-3 business days and we usually ship via USPS or DHL. Once shipped it will take 10-14 business days domestically and 12-25 business days internationally.",
+      "id": "daee33b6-33e0-4d39-bfef-9a7f9120f930",
+      "shortcut": "shp",
+      "companyName": "SA Company"
+    },
+    {
+      "name": "Free shipping",
+      "content": "We offer free shipping on domestic orders over $75. Maybe you can add something else to reach the minimum?",
+      "id": "e8278f7c-1735-45db-9576-d600e4f9432f",
+      "shortcut": "fs",
+      "companyName": "SA Company"
+    }
+  ]
+}

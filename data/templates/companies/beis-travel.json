@@ -1,0 +1,313 @@
+{
+  "companyKey": "beis travel",
+  "templates": [
+    {
+      "name": "This would be my first order. Would I be able to redeem the points from my first order on the same one?",
+      "content": "Please note that you won't be able to use your reward points on your first order. The voucher can only be redeemed on future purchases.",
+      "id": "ac464aad-1b4b-42da-90d9-d19802a3db7f",
+      "companyName": "Beis Travel"
+    },
+    {
+      "name": "Flash Sale Limitations",
+      "content": "Thanks for reaching out! As noted in our message, the flash sale only applied to the first 1000 customers who were able to make a purchase. As a Beis text message subscriber you'll be the first to know when we have future sales!",
+      "id": "15bad7c7-a9ac-4f5b-bdd5-ba5dce226dad",
+      "companyName": "Beis Travel"
+    },
+    {
+      "name": "What payment methods do you accept?",
+      "content": "We accept all major credit cards - Visa, MasterCard, American Express, PayPal, Amazon Pay, Discover, JCB, Diner's Club, Shopify Pay, Apple Pay, Google Pay, and Afterpay (Afterpay is available for our customers with a valid US billing and shipping address).",
+      "id": "e5535ffd-ea3d-49d4-a945-36bd2604d8f8",
+      "companyName": "Beis Travel"
+    },
+    {
+      "name": "The item I want to exchange to is out of stock",
+      "content": "Oh, I'm so sorry to hear that however, I would definitely suggest returning the item for store credit so that when the item you want is back in stock, you can use the store credit to place a new order.",
+      "id": "cbd06e14-ab3d-4073-91e6-d15d45190f0e",
+      "companyName": "Beis Travel"
+    },
+    {
+      "name": "Can I return a product that has been personalized with a monogram?",
+      "content": "At this time we do not accept returns of monogrammed products.",
+      "id": "86fcae88-6cac-41f0-a8a7-d485e30b9705",
+      "companyName": "Beis Travel"
+    },
+    {
+      "name": "When will I see my points in my account?",
+      "content": "Points will be credited to your account once your order has shipped.",
+      "id": "66d0fa16-d890-443a-9664-3d7128eaf356",
+      "companyName": "Beis Travel"
+    },
+    {
+      "name": "Social media",
+      "content": "Give us a follow on IG: https://www.instagram.com/beis/ and FB here: https://www.facebook.com/Beis",
+      "id": "184d2562-945d-4bb8-98f3-030af2b36517",
+      "shortcut": "smd",
+      "companyName": "Beis Travel"
+    },
+    {
+      "name": "How can I check my gift card balance?",
+      "content": "You can check your Gift Card balance here: https://beistravel.com/pages/check-gift-card-balance",
+      "id": "531ed7d7-f389-44a0-a6fa-4d25ba367471",
+      "companyName": "Beis Travel"
+    },
+    {
+      "name": "How long does it take to process a refund?",
+      "content": "Refunds will be issued back to your original method of payment and may take up to 10 business days to process.",
+      "id": "4baeb358-5395-4f2f-8fed-360f581a33dd",
+      "companyName": "Beis Travel"
+    },
+    {
+      "name": "Can the Weekender/ Mini Weekender/ Convertible be considered as a personal item?",
+      "content": "Our Weekenders typically can be used as a personal item - but it's important to bear in mind each airline is different, so the available under-seat storage space can differ from airline to airline. Also, the ability to store could be impacted by how the item is packed as well, in which case you may need to lay it on its side. We would suggest referring to both dimensions and the airline's information on the under-seat space availability prior to flying to avoid any complications.",
+      "id": "280bb2d8-6e52-498f-9c5e-f97ce28b8b4b",
+      "companyName": "Beis Travel"
+    },
+    {
+      "name": "Are returns or exchanges free?",
+      "content": "If you want to exchange your product, we will take care of the shipping and handling for you.",
+      "id": "736e6ae2-4db8-4d98-85fc-a81a375da981",
+      "companyName": "Beis Travel"
+    },
+    {
+      "name": "Do you have phone support?",
+      "content": "We don't have phone support right now, but I'd be more than happy to help via text, let me know what I can do.",
+      "id": "2743cf26-a32e-4611-a792-958fdf71071a",
+      "shortcut": "ps",
+      "companyName": "Beis Travel"
+    },
+    {
+      "name": "Is there pet limit for your pet bag?",
+      "content": "Good question! Our pet tote supports up to 25lbs.",
+      "id": "698cadc2-7ba2-43f0-80be-d45f59d01004",
+      "companyName": "Beis Travel"
+    },
+    {
+      "name": "Where are you guys located?",
+      "content": "Our global headquarters are in El Segundo, California.",
+      "id": "6aaae3e5-d7a5-4ed0-a1f5-9b13383fefb9",
+      "companyName": "Beis Travel"
+    },
+    {
+      "name": "Warranty policy",
+      "content": "You can take a look at our full warranty policy here: https://beistravel.com/pages/lifetime-luggage-warranty",
+      "id": "610498f1-3d48-406b-bc16-305029c1dfb6",
+      "shortcut": "wp",
+      "companyName": "Beis Travel"
+    },
+    {
+      "name": "Are your bags water resistant? What is pet lining?",
+      "content": "Most of our bags are lined with a water-resistant lining that helps protect your belongings from liquid.",
+      "id": "f1271c62-8a51-40b0-8b52-570631c62061",
+      "companyName": "Beis Travel"
+    },
+    {
+      "name": "Are your bags TSA friendly?",
+      "content": "Check our fit guide by clicking view product size on any product. You'll see an airline guide there. There are also airport friendly details like a trolley sleeve that slips over your luggage handle and easily accessible padded laptop pockets, so you can fly through security check points.",
+      "id": "213b2065-ecc7-4976-bddc-6dad6e4f5061",
+      "companyName": "Beis Travel"
+    },
+    {
+      "name": "Size difference - The Weekender and The Mini Weekender",
+      "content": "The weekender measures at 19\"W x 10\"D x 16\"H while the mini is 16\"W x 16\"H x 8\"D.",
+      "id": "3c75e319-9ebd-4a4d-915b-29ec51d5337e",
+      "companyName": "Beis Travel"
+    },
+    {
+      "name": "Free shipping",
+      "content": "We offer free shipping on domestic orders over $150 (excluding Alaska, Hawaii, & Puerto Rico). Maybe you can add something else to reach the minimum?",
+      "id": "fe6d97ec-f2a6-4334-8f0d-c39ef808c2dc",
+      "shortcut": "fs",
+      "companyName": "Beis Travel"
+    },
+    {
+      "name": "Return policy",
+      "content": "You can check out our detailed return policy here: https://beistravel.com/pages/returns-exchanges",
+      "id": "5fba7af9-b380-48f6-8310-3578b95647c5",
+      "shortcut": "rp",
+      "companyName": "Beis Travel"
+    },
+    {
+      "name": "Customer support",
+      "content": "The best way to handle this is to email us directly at hello@beistravel.com. Our team is happy to help!",
+      "id": "ccb4ebe2-1513-416c-b9f7-4f213bbd988d",
+      "shortcut": "cs",
+      "companyName": "Beis Travel"
+    },
+    {
+      "name": "Shipping time",
+      "content": "Our processing time takes 1-2 business days and we usually ship via UPS and DHL. Once shipped, it will take 3-5 business days domestically, and 4-8 business days internationally.",
+      "id": "beaa68c2-0e58-4c58-8c14-38dff2974c11",
+      "shortcut": "shp",
+      "companyName": "Beis Travel"
+    },
+    {
+      "name": "Do points expire?",
+      "content": "Yes, they expire after 6 months of inactivity. In this context, inactivity refers to customers who have not earned or redeemed any points within the selected time frame.",
+      "id": "098ac083-0d46-4aa1-9fa0-fb9cae220ab3",
+      "companyName": "Beis Travel"
+    },
+    {
+      "name": "How do I initiate a return/exchange",
+      "content": "You can start your exchange/return here: https://beistravel.com/apps/returns?externalId=egz7q",
+      "id": "e30c394e-25cd-4a6e-95d6-00227ffc12ad",
+      "companyName": "Beis Travel"
+    },
+    {
+      "name": "Mini weekender vs Mini convertible weekender",
+      "content": "The convertible one has a bottom compartment that zips off completely so this bag can go from carry-on to cocktails with just a little zip zip zip! :)",
+      "id": "7ad5d303-87ca-4730-9593-f2a696e69312",
+      "companyName": "Beis Travel"
+    },
+    {
+      "name": "How should I care for my Béis product?",
+      "content": "We recommend that you protect any light-colored product with fabric and faux leather protector before use. Light spot cleaning with a clean damp cloth is suggested as well.",
+      "id": "42e126c2-0166-4a17-a551-80a51768abdc",
+      "companyName": "Beis Travel"
+    },
+    {
+      "name": "Do your photos on the site match the product exactly?",
+      "content": "Due to various minor improvements made to the construction of the product, digital photography, and dye lot variations, we can't  guarantee that the color you see on your screen is an exact replica of the product. We strive to show our products as accurately as possible, but screen images are intended as a guide only and shouldn't be regarded as absolutely correct. For best results, set your color depth to 16-bit or higher.",
+      "id": "b7ac6c30-62fc-4ada-9756-51c1bb40a67b",
+      "companyName": "Beis Travel"
+    },
+    {
+      "name": "How do I set my TSA approved locks?",
+      "content": "Check out our instructions here: https://beistravel.com/pages/tsa-lock-instructions",
+      "id": "3cda60f9-19a2-4ebc-a814-564fda3c7e2c",
+      "companyName": "Beis Travel"
+    },
+    {
+      "name": "Brand ambassador / sponsorship",
+      "content": "Thank you for your interest! The best way to discuss this is to email us directly at hello@beistravel.com. Our team is happy to chat.",
+      "id": "75645c1d-7732-43d2-b070-8d3acb0dafb8",
+      "shortcut": "ams",
+      "companyName": "Beis Travel"
+    },
+    {
+      "name": "Store location / retailer",
+      "content": "You can find us at a store near you here: https://beistravel.com/apps/store-locator",
+      "id": "42646854-3e5a-4ea7-b74e-59c32b139193",
+      "shortcut": "sl",
+      "companyName": "Beis Travel"
+    },
+    {
+      "name": "Birthday reward/discounts",
+      "content": "We actually offer birthday reward points, where you get 100 points on your birthday. You can check it out here: https://beistravel.attn.tv/sl/qLo0Y6oR",
+      "id": "2eee782f-0f51-493b-83ca-5208d33b99e4",
+      "companyName": "Beis Travel"
+    },
+    {
+      "name": "Is the tote machine washable?",
+      "content": "Our terry tote is not machine washable, but our towel tote is machine washable.",
+      "id": "de981c81-429c-4e7d-bdc1-f265677e173a",
+      "companyName": "Beis Travel"
+    },
+    {
+      "name": "Can I travel with the Weekender without checking it in?",
+      "content": "The weekender bag is a carry-on and it would fit under the seat of the airplane. We always recommend that you adhere to airline guidelines, and please check with your airline for weight limits and other restrictions.",
+      "id": "17a0371d-8f6e-4a6a-8667-e40946a5992f",
+      "companyName": "Beis Travel"
+    },
+    {
+      "name": "Cancel / edit order",
+      "content": "Hi there, thank you for reaching out! For a quick turnaround to your question, please complete the following form and our team will be in touch shortly with assistance: https://beistravel.com/pages/contact-us?al_pg_id=78b3f557-7874-4c5d-924c-bd0fb5ba0fc4",
+      "id": "e550a9d2-5c95-453d-ade0-ed10ccc1af47",
+      "shortcut": "ced",
+      "companyName": "Beis Travel"
+    },
+    {
+      "name": "Is the Travel Mirror magnified?",
+      "content": "The travel mirror doesn't contain a magnifying mirror.",
+      "id": "65a095ca-dcf4-4b3c-aa7d-e1b6242dfd31",
+      "companyName": "Beis Travel"
+    },
+    {
+      "name": "Do you offer gift wrapping?",
+      "content": "Our bags are an awesome gift for any amazing friend or family member, but unfortunately at this time, we don't offer gift packaging or gift receipts.",
+      "id": "21738820-7263-445c-b393-33bdca0d48c3",
+      "companyName": "Beis Travel"
+    },
+    {
+      "name": "Difference between the weekender and convertible weekender?",
+      "content": "The convertible weekender has a removable bottom compartment that doubles as a packing cube, and then the top can be used as a compact daytime excursion bag. It also includes a removable padded laptop sleeve with exterior pockets.",
+      "id": "435f9d99-20b4-4366-904b-5f02d8d5de70",
+      "companyName": "Beis Travel"
+    },
+    {
+      "name": "Rewards / referral",
+      "content": "We have a rewards and referral program where you can earn points to redeem on future purchases. Check it out here: https://beistravel.com/pages/rewards",
+      "id": "ca772714-299d-4450-8cd1-d033b912e34c",
+      "shortcut": "rwd",
+      "companyName": "Beis Travel"
+    },
+    {
+      "name": "Military / First responder / Healthcare / Teacher discount",
+      "content": "Thank you for your service! We don't have any specific discounts like that, but our deals will always be shared with our SMS subscribers or on our website, so keep an eye out!",
+      "id": "455b696e-abe4-4380-83f4-669475023dd0",
+      "shortcut": "ms",
+      "companyName": "Beis Travel"
+    },
+    {
+      "name": "Wholesale inquiries",
+      "content": "Thank you for your interest! The best way to discuss wholesale is to email us directly at hello@beistravel.com. Our team is happy to chat.",
+      "id": "383e65bd-66ac-4b43-b892-089b3d0dcac5",
+      "shortcut": "wls",
+      "companyName": "Beis Travel"
+    },
+    {
+      "name": "Escalation",
+      "content": "For a quick turnaround to your question, please complete the following form and our team will be in touch shortly with assistance: https://beistravel.com/pages/contact-us?al_pg_id=78b3f557-7874-4c5d-924c-bd0fb5ba0fc4",
+      "id": "cb8552dc-b275-45dc-9395-d62b45b3a637",
+      "shortcut": "esc",
+      "companyName": "Beis Travel"
+    },
+    {
+      "name": "Do you offer price adjustments?",
+      "content": "Please note that discounts cannot be applied to orders placed before or after the promotional period. Apologies for the inconvenience!",
+      "id": "9e73f99c-e95f-49bd-bc61-ac669253916e",
+      "companyName": "Beis Travel"
+    },
+    {
+      "name": "Expedited shipping",
+      "content": "We offer the following expedited shipping options: UPS 2 Day (2 Business Days) and UPS Overnight (1 Business Day).",
+      "id": "cba732fe-8d59-4a28-9fdf-2106500f4afa",
+      "companyName": "Beis Travel"
+    },
+    {
+      "name": "What's the best way to decide between the 26 and 29\" roller?",
+      "content": "When choosing between a 26\" and 29\" case, consider what you plan to pack and how long your trip will be. If you're taking a shorter trip or are a light packer, a 26\" case may be sufficient. However, if you plan to pack more or are going on a longer trip, a 29\" case may be better suited for your needs. It's also important to consider your mode of transportation and any weight restrictions that may apply. Additionally, some people may find a larger case more cumbersome to handle, so that's something to consider as well. Ultimately, it comes down to personal preference and what you feel will work best for your specific travel needs.",
+      "id": "dfdd7929-9f09-48ea-856c-ebbb2fc28e6a",
+      "companyName": "Beis Travel"
+    },
+    {
+      "name": "Size Chart: All - Clothes",
+      "content": "You can take a look at our size chart here: https://beistravel.com/blogs/news/the-ultimate-guide-to-choosing-the-right-luggage-size-for-you",
+      "id": "d5414cd7-f49b-4591-83fa-c6d16652ee21",
+      "companyName": "Beis Travel"
+    },
+    {
+      "name": "How do I redeem a free product with my points?",
+      "content": "Using your points for a free product is only redeemable with a purchase. You must be on our site to do this, I'm afraid our app only allows vouchers to be redeemed at this moment in time. \n\nYou must spend a minimum of $75 (before taxes and shipping) in order to redeem any points for discounts or redeem points for products. To proceed, please follow the below steps: \n\n1. Make sure you are logged into your rewards account. \n2. Add the item you want to purchase in your cart. \n3. Go to your rewards page and select the item you want to redeem for points. \n4. The redeemed rewards item should appear in your cart. \n5. Checkout as you normally would.",
+      "id": "b9700b29-3be2-4797-b127-081c1dfd9975",
+      "companyName": "Beis Travel"
+    },
+    {
+      "name": "How do I redeem my points?",
+      "content": "Redeem points for discounts ($10-$40, depending on your tier) or select products at beistravel.com. Redemptions require a minimum purchase of $75 before tax and shipping. Product redemptions are final sale and limited to 5 items per month.",
+      "id": "d6bfdf0d-f094-4cd4-baec-30efda3146fa",
+      "companyName": "Beis Travel"
+    },
+    {
+      "name": "Do I need to make a minimum purchase to use my points?",
+      "content": "Yes, you must spend a minimum of $75 (before taxes and shipping) in order to redeem any points for discounts or redeem points for products.",
+      "id": "6e10c274-5eed-4903-80d4-f1134031ffbc",
+      "companyName": "Beis Travel"
+    },
+    {
+      "name": "When will I see points on my account after placing an order?",
+      "content": "Points will be credited to your account after a 14-day pending period once you place your order.",
+      "id": "79cce1b2-b6d6-404a-b6db-5556f3f1e9b9",
+      "companyName": "Beis Travel"
+    }
+  ]
+}

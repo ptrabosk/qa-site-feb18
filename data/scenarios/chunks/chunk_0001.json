@@ -3,654 +3,151 @@
   "chunk": "chunk_0001",
   "scenarios": {
     "1": {
-      "id": "019c7c6b-a0b1-4e3d-f000-0000f12bc851",
-      "companyName": "D.S. & Durga",
-      "companyWebsite": "https://dsanddurga.com",
-      "agentName": "Sarah",
-      "messageTone": "Casual",
-      "conversation": [
-        {
-          "message_media": [],
-          "message_text": "D.S. & DURGA: Come sniff us again. Take 10% off your next order with code DYFAU1YR 💫 https://dsanddurga.attn.tv/aCUf4n8Q8vYN . ",
-          "message_type": "system",
-          "date_time": "2026-02-16 13:24:52.955"
-        },
-        {
-          "message_media": [],
-          "message_text": "D.S. & DURGA: Hey there! We noticed you sniffing around. Anything you liked? Shop now: dsanddurga.attn.tv/aFuQXfogKioB \n\n\nAre there any questions I can answer for you?",
-          "message_type": "system",
-          "date_time": "2026-02-17 13:34:41.222"
-        },
-        {
-          "message_media": [],
-          "message_text": "I never received a order",
-          "message_type": "customer",
-          "date_time": "2026-02-17 13:35:59.816"
-        },
-        {
-          "message_media": [],
-          "message_text": "D.S. & DURGA: I'm so sorry to hear that! Could you let me know when you placed your order and if you received any tracking info? Sometimes our emails can end up in your spam or promo folder, so please check there as well! ",
-          "message_type": "agent",
-          "agent": "82427",
-          "message_id": "019c6ce5-328d-4584-f000-0000f12bc851",
-          "date_time": "2026-02-17 13:38:05.997"
-        },
-        {
-          "message_media": [],
-          "message_text": "Yes, I have tracking",
-          "message_type": "customer",
-          "date_time": "2026-02-17 13:38:39.797"
-        },
-        {
-          "message_media": [],
-          "message_text": "Yes, but it's been a long time so I just let it go, but I won't you know what can I do? I don't think that's the way I wanna go.",
-          "message_type": "customer",
-          "date_time": "2026-02-17 13:38:49.802"
-        },
-        {
-          "message_media": [],
-          "message_text": "No, it was a I have already ordered for you guys on a different my other phone. I have gotten a new phone in the promo. I have isn't the big deal. What was the big deal as I paid for a order and it never got here all it was\nIt was a candle",
-          "message_type": "customer",
-          "date_time": "2026-02-17 13:39:49.976"
-        },
-        {
-          "message_media": [],
-          "message_text": "I've ordered it before I threw you guys and I love the sun",
-          "message_type": "customer",
-          "date_time": "2026-02-17 13:40:20.068"
-        },
-        {
-          "message_media": [],
-          "message_text": "Lychees or something",
-          "message_type": "customer",
-          "date_time": "2026-02-17 13:40:30.097"
-        },
-        {
-          "message_media": [],
-          "message_text": "Scent \nAnd I gave you a good review",
-          "message_type": "customer",
-          "date_time": "2026-02-17 13:40:39.624"
-        },
-        {
-          "message_media": [],
-          "message_text": "But I am I moved so I have a new address so I had to make it to my new address which is you know just my sister's house and it shows I don't know what happens if it was stolen. I really don't know what happened. I just never was there to me.",
-          "message_type": "customer",
-          "date_time": "2026-02-17 13:41:09.746"
-        },
-        {
-          "message_media": [],
-          "message_text": "I had just left my husband from Louisiana and moved to Illinois and to reach out and take care of a candle, not coming at that time was just more than I could do",
-          "message_type": "customer",
-          "date_time": "2026-02-17 13:41:29.772"
-        },
-        {
-          "message_media": [],
-          "message_text": "But at the same time I paid $75 +2 there was no promo on this\n\nI just outright paid for it because I missed that sense and I was going to my new place and I wanted to have it smell nice",
-          "message_type": "customer",
-          "date_time": "2026-02-17 13:42:02.945"
-        },
-        {
-          "message_media": [],
-          "message_text": "The good part of all this is now I know I can't trust to have anything sent here",
-          "message_type": "customer",
-          "date_time": "2026-02-17 13:42:19.946"
-        },
-        {
-          "message_media": [],
-          "message_text": "Thank you for reaching out",
-          "message_type": "customer",
-          "date_time": "2026-02-17 13:42:39.989"
-        },
-        {
-          "message_media": [],
-          "message_text": "D.S. & DURGA: I am so sorry to hear that you never received your order. It is completely understandable to be frustrated, especially when you were looking forward to a scent you love to make your new place feel like home.\n\nThank you for explaining what happened. To help me look into this for you, could you please provide the order number and email address you used for that order? I will do my best to see what options we have to make this right.",
-          "message_type": "agent",
-          "agent": "87578",
-          "message_id": "019c6cee-e0ac-48ea-f000-0000f12bc851",
-          "date_time": "2026-02-17 13:48:40.396"
-        },
-        {
-          "message_media": [],
-          "message_text": "Give me some time if you if you wanna do that I am willing to let it go at the same time because I'm just not thank you for understanding. Thank you for being patient. It's been a tough transition and I little things like the candle. I looked forward to you, and I have had it before. I'm sorry I can't remember the first name of it. It's just I know it's lychee cause yeah I used to live in South Africa and we ate those...smell so nice",
-          "message_type": "customer",
-          "date_time": "2026-02-17 13:50:19.879"
-        },
-        {
-          "message_media": [],
-          "message_text": "It has to be my email \nrain.dance32@gmail.com",
-          "message_type": "customer",
-          "date_time": "2026-02-17 13:51:20.061"
-        },
-        {
-          "message_media": [],
-          "message_text": "Do you want the tracking number?",
-          "message_type": "customer",
-          "date_time": "2026-02-17 13:52:49.835"
-        },
-        {
-          "message_media": [],
-          "message_text": "https://ctrk.klclick.com/l/01KFEVG1NPAFW9RF5PF3Z4HGPC_2",
-          "message_type": "customer",
-          "date_time": "2026-02-17 13:52:57.541"
-        },
-        {
-          "message_media": [],
-          "message_text": "Hang on",
-          "message_type": "customer",
-          "date_time": "2026-02-17 13:53:00.271"
-        },
-        {
-          "message_media": [],
-          "message_text": "I never found it",
-          "message_type": "customer",
-          "date_time": "2026-02-17 13:54:00.052"
-        },
-        {
-          "message_media": [],
-          "message_text": "And then we found out neighbors were having problems too, so it just becomes frustrating",
-          "message_type": "customer",
-          "date_time": "2026-02-17 13:54:10.080"
-        },
-        {
-          "message_media": [],
-          "message_text": "But in the end, I'm really not sure",
-          "message_type": "customer",
-          "date_time": "2026-02-17 13:54:49.711"
-        },
-        {
-          "message_media": [],
-          "message_text": "D.S. & DURGA: Thanks for the info! I understand how frustrating this must be, and please know this is not the experience we strive to provide for our customers. To confirm, have you already checked around your home and with nearby houses in case it was misdelivered. It can also help to ask anyone you live with, such as family, roommates, or a landlord, since they may have accepted it. Some packages are held by property managers, an apartment office, or even your local post office, so it may be worth checking with them as well. \n\nIf you're still unable to locate it, just let me know and I'll help you with the next steps. ",
-          "message_type": "agent",
-          "agent": "87595",
-          "message_id": "019c6d02-e0bc-42d1-f000-0000f12bc851",
-          "date_time": "2026-02-17 14:10:31.229"
-        },
-        {
-          "message_media": [],
-          "message_text": "Liked “Thanks for the info! I understand how frustrating this must be, and please know this is not the experience we strive to provide for our customers. To confirm, have you already checked around your home and with nearby houses in case it was misdelivered. It can also help to ask anyone you live with, such as family, roommates, or a landlord, since they may have accepted it. Some packages are held by property managers, an apartment office, or even your local post office, so it may be worth checking with them as well. \r\n\r\nIf you're still unable to locate it, just let me know and I'll help you with the next steps.”",
-          "message_type": "customer",
-          "date_time": "2026-02-17 14:11:29.282"
-        },
-        {
-          "message_media": [],
-          "message_text": "Oh I have",
-          "message_type": "customer",
-          "date_time": "2026-02-17 14:11:38.813"
-        },
-        {
-          "message_media": [],
-          "message_text": "That was my thought too, but there's not just putting in any place with the house. My neighbors hadn't seen anything, but they had had some problems with their boxes disappearing and so I have to be careful now.",
-          "message_type": "customer",
-          "date_time": "2026-02-17 14:11:59.375"
-        },
-        {
-          "message_media": [],
-          "message_text": "Actually, they never said boxes. I can't remember, but I don't think it was that.",
-          "message_type": "customer",
-          "date_time": "2026-02-17 14:12:09.416"
-        },
-        {
-          "message_media": [],
-          "message_text": "D.S. & DURGA: Thanks for your efforts in locating the package and I apologize for the inconvenience. Since the package was tagged as delivered by the carrier, it's best to reach out to them. Have you tried giving them a call? They should have the most up-to-date information. ",
-          "message_type": "agent",
-          "agent": "35256",
-          "message_id": "019c6d05-8869-470c-f000-0000f12bc851",
-          "date_time": "2026-02-17 14:13:25.120"
-        },
-        {
-          "message_media": [],
-          "message_text": "Oh I did",
-          "message_type": "customer",
-          "date_time": "2026-02-17 14:17:09.331"
-        },
-        {
-          "message_media": [],
-          "message_text": "I can only do so much",
-          "message_type": "customer",
-          "date_time": "2026-02-17 14:17:29.388"
-        },
-        {
-          "message_media": [],
-          "message_text": "Should not be this hard that's why I gave up",
-          "message_type": "customer",
-          "date_time": "2026-02-17 14:17:35.014"
-        },
-        {
-          "message_media": [],
-          "message_text": "They neglected to take a picture or if one was taken I didn't see it",
-          "message_type": "customer",
-          "date_time": "2026-02-17 14:18:09.007"
-        },
-        {
-          "message_media": [],
-          "message_text": "It's ok",
-          "message_type": "customer",
-          "date_time": "2026-02-17 14:18:15.121"
-        },
-        {
-          "message_media": [],
-          "message_text": "D.S. & DURGA: Thanks for letting us know, and I sincerely apologize for the inconvenience caused! Surely, this isn't the experience I want you to have! I can't guarantee anything, but let me check with my team to see what we might be able to do. Can you please confirm the order number? \n\nYou can find your order details in your order confirmation email. Be sure to check your spam and promo folders. Sometimes the emails can end up there. ",
-          "message_type": "agent",
-          "agent": "46498",
-          "message_id": "019c6d0f-b420-4fdd-f000-0000f12bc851",
-          "date_time": "2026-02-17 14:24:31.671"
-        },
-        {
-          "message_media": [],
-          "message_text": "Hey things happen",
-          "message_type": "customer",
-          "date_time": "2026-02-17 18:35:18.715"
-        },
-        {
-          "message_media": [],
-          "message_text": "But I still never got it",
-          "message_type": "customer",
-          "date_time": "2026-02-17 18:37:38.611"
-        },
-        {
-          "message_media": [],
-          "message_text": "I was changing addresses. I wonder if there was a mess up",
-          "message_type": "customer",
-          "date_time": "2026-02-17 18:37:58.681"
-        },
-        {
-          "message_media": [],
-          "message_text": "D.S. & DURGA: Thanks for getting back to me with that screenshot! I'm really sorry for the inconvenience. Could you please share your email address and confirm the order number from that same email? I'll be happy to look into this with my team!",
-          "message_type": "agent",
-          "agent": "109840",
-          "message_id": "019c6df9-5997-438d-f000-0000f12bc851",
-          "date_time": "2026-02-17 18:39:43.941"
-        },
-        {
-          "message_media": [],
-          "message_text": "D.S. & DURGA: The enhancer of all enhancers. Wear it alone or over anything. \n\nhttps://dsanddurga.attn.tv/aErVxPeJNt1M \n\nText back if you have any questions!",
-          "message_type": "system",
-          "date_time": "2026-02-19 14:01:38.610"
-        },
-        {
-          "message_media": [],
-          "message_text": "Since I did not receive my previous order, although I've always loved your candles and your perfumes, but I did not receive it. I spoke to the customer service and I just personally just kept saying sorry sorry sorry you know so I'm kind of put off by it.",
-          "message_type": "customer",
-          "date_time": "2026-02-19 15:05:11.986"
-        },
-        {
-          "message_media": [],
-          "message_text": "D.S. & DURGA: Hello, Gayne. We apologize once again! I was going to check on this with the team, but I'm afraid I didn't get a response for the order number confirmation. It's from Order #353020, is that right? Also, your email address is rain.dance32@gmail.com?",
-          "message_type": "agent",
-          "agent": "33482",
-          "message_id": "019c7791-64db-4b20-f000-0000f12bc851",
-          "date_time": "2026-02-19 15:22:23.233"
-        },
-        {
-          "message_media": [
-            "https://attentive-files.s3.amazonaws.com/receive-event-media/1771532602231_2024580581425180672.jpeg",
-            "https://attentive-files.s3.amazonaws.com/receive-event-media/1771532602186_2024580581425180672.application/smil"
-          ],
-          "message_text": "Yes",
-          "message_type": "customer",
-          "date_time": "2026-02-19 15:23:29.274"
-        },
-        {
-          "message_media": [],
-          "message_text": "Do about it is changing so I don't know what to do. I know I really didn't think much about it until someone reached out about how I was doing and talking about it. I've realized I'm really angry, but I didn't think that was. It's just so much I had hoped for that candl.\nI tend to put too much emotions into an inanimate object and I know isn't that terrible so I'm OK but I'm sad",
-          "message_type": "customer",
-          "date_time": "2026-02-19 15:24:49.503"
-        },
-        {
-          "message_media": [],
-          "message_text": "D.S. & DURGA: Thanks for sending that in and I'm truly sorry for the frustration. I completely understand how upsetting it can be when something you care about brings up unexpected emotions. Your feelings are valid, and it's okay to feel sad and frustrated.\n\nI'll check on this with the team right now and get back to you as soon as I have a response. Please hang tight!\n",
-          "message_type": "agent",
-          "agent": "37648",
-          "message_id": "019c7794-c870-429b-f000-0000f12bc851",
-          "date_time": "2026-02-19 15:26:05.321"
-        },
-        {
-          "message_media": [],
-          "message_text": "No, just absolutely no I'm tired of the continuation of. I'm sorry I'm sorry just drop it will drop it. Let's go on with our lives. Thank you very much. I do appreciate your patience. You've had a very you've been very patient with me and I appreciate your your attempts to help me, but I am tired of this. I have never experience this with any order from any company where you have to. The thing is I've already been to this before so when I didn't get it I just dropped the whole issue..",
-          "message_type": "customer",
-          "date_time": "2026-02-19 15:56:09.171"
-        },
-        {
-          "message_media": [],
-          "message_text": "I find almost traumatizing to have to fight or argue with with a customer care. I just don't do that. I won't do that so I stay away from return as usually and this isn't even a return. This is where you didn't see where you sent it yes so it's not your fault in the and the post office will not take any responsibility so I don't know how this is handled. The only other time this was handled they gave it to me again.",
-          "message_type": "customer",
-          "date_time": "2026-02-19 15:57:29.414"
-        },
-        {
-          "message_media": [],
-          "message_text": "D.S. & DURGA: I sincerely apologize for the inconvenience. I'm truly sorry this has been your experience, as that's never what we want for you. I genuinely wish I could resolve this for you right away, but my system isn't equipped to handle this type of issue directly.\n\nI'm still waiting for an update from the team, and I completely understand how frustrating the wait can be. Please know I'm keeping an eye on this, and I'll reach out to you as soon as I have any news.",
-          "message_type": "agent",
-          "agent": "82427",
-          "message_id": "019c77be-c4d0-4274-f000-0000f12bc851",
-          "date_time": "2026-02-19 16:11:56.907"
-        },
-        {
-          "message_media": [],
-          "message_text": "It's ok",
-          "message_type": "customer",
-          "date_time": "2026-02-19 17:37:28.677"
-        },
-        {
-          "message_media": [],
-          "message_text": "D.S. & DURGA: Thanks for your patience! I just heard from the team, and we understand how important this is. We're sorry to hear that you did not receive your order, but we do advise customers to inform us within a week if the order was not received. Unfortunately, you've passed that window.\n\nIf you have any further questions or need assistance, please don't hesitate to contact me. We're here to help!",
-          "message_type": "agent",
-          "agent": "32937",
-          "message_id": "019c7c60-ae2d-4654-f000-0000f12bc851",
-          "date_time": "2026-02-20 13:47:16.810"
-        },
-        {
-          "message_media": [],
-          "message_text": "I did",
-          "message_type": "customer",
-          "date_time": "2026-02-20 13:50:07.016"
-        },
-        {
-          "message_media": [],
-          "message_text": "I already told you guys I've gone through all of this before with you already about the same candle. I've already said all that.",
-          "message_type": "customer",
-          "date_time": "2026-02-20 13:50:17.024"
-        },
-        {
-          "message_media": [],
-          "message_text": "I've never seen a company so reluctant just to help a customer, but you will see it in my new review",
-          "message_type": "customer",
-          "date_time": "2026-02-20 13:50:30.106"
-        },
-        {
-          "message_media": [],
-          "message_text": "Why do you think one of my very Comments was that it's OK never mind because I've already tried this and I already talked to you guys and I already went through the process and I didn't get anywhere",
-          "message_type": "customer",
-          "date_time": "2026-02-20 13:51:06.677"
-        },
-        {
-          "message_media": [],
-          "message_text": "Reviews matter😘",
-          "message_type": "customer",
-          "date_time": "2026-02-20 13:51:36.760"
-        },
-        {
-          "message_media": [],
-          "message_text": "Template used: \"Feedback 1 - All brands\"; last updated: 2023-10-10 18:03:27.339",
-          "message_type": "template",
-          "date_time": "2026-02-20 13:59:14.253"
-        },
-        {
-          "message_media": [],
-          "message_text": "D.S. & DURGA: I understand how frustrating this must be, and I'm truly sorry for the inconvenience. Customer feedback means a lot to us and helps us keep improving. I truly appreciate you sharing this, and I'll be sure to pass it along to our team for future consideration.",
-          "message_type": "agent",
-          "agent": "109968",
-          "message_id": "019c7c6b-a0b1-4e3d-f000-0000f12bc851",
-          "date_time": "2026-02-20 13:59:14.256"
-        }
-      ],
-      "notes": {},
-      "rightPanel": {
-        "source": {
-          "label": "Website",
-          "value": "https://dsanddurga.com",
-          "date": ""
-        },
-        "browsingHistory": [
-          {
-            "item": "Italian Citrus Eau de Parfum 50 mL",
-            "link": "https://www.dsanddurga.com/products/italian-citrus?product=6752170704969&variant=39924032667721",
-            "timeAgo": "2026-02-17"
-          },
-          {
-            "item": "Radio Bombay Pocket Perfume",
-            "link": "https://www.dsanddurga.com/products/radio-bombay?product=8256521011491&variant=44778490134819",
-            "timeAgo": "2026-01-04"
-          },
-          {
-            "item": "Radio Bombay Pocket Perfume",
-            "link": "https://www.dsanddurga.com/products/radio-bombay-pocket-perfume?product=8256521011491&variant=44778490134819",
-            "timeAgo": "2026-01-04"
-          }
-        ],
-        "orders": [
-          {
-            "orderNumber": "353020",
-            "orderDate": "2026-01-02",
-            "items": [
-              {
-                "name": "Dream Lychee",
-                "price": 70,
-                "productLink": "https://dsanddurga.myshopify.com/products/dream-lychee"
-              }
-            ],
-            "link": "https://store.dsanddurga.com/3797669/orders/9d59c6fe071cea252ae8535c70639665/authenticate?key=84ff05b98ca912bc13796fb1de2a34ba",
-            "trackingLink": "https://tools.usps.com/go/TrackConfirmAction?qtc_tLabels1=9481750105798000101637",
-            "order_tracking_link": "https://tools.usps.com/go/TrackConfirmAction?qtc_tLabels1=9481750105798000101637",
-            "total": 70,
-            "date_time": "2026-01-02 18:37:42.439"
-          }
-        ]
-      },
-      "escalation_preferences": [
-        "Exchanges and returns",
-        "Discount code errors"
-      ],
-      "blocklisted_words": [],
-      "has_shopify": true
-    },
-    "2": {
-      "id": "019c6ced-c790-44e4-f000-0000fbdd1035",
-      "companyName": "Covercraft",
-      "companyWebsite": "https://covercraft.com",
-      "agentName": "Sarah",
-      "messageTone": "Casual",
-      "conversation": [
-        {
-          "message_media": [],
-          "message_text": "Covercraft: Welcome to Covercraft! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
-          "message_type": "system",
-          "date_time": "2026-02-17 11:42:31.767"
-        },
-        {
-          "message_media": [],
-          "message_text": "Covercraft: Enjoy $10 Off with code SAVE10. Find Your Custom Cover Today!\n\nView Active Deals: https://covercraft.attn.tv/aJqNu5dbh9oR ",
-          "message_type": "system",
-          "date_time": "2026-02-17 11:42:35.795"
-        },
-        {
-          "message_media": [],
-          "message_text": "Covercraft: Hey there, this is Sarah. Thanks for checking out our site! 😊 https://covercraft.attn.tv/aa7J36khrk0T \n\nAre you looking for anything in particular today? ",
-          "message_type": "system",
-          "date_time": "2026-02-17 12:20:58.968"
-        },
-        {
-          "message_media": [],
-          "message_text": "Tire covers for our newly purchased 2026 Allegro Bay 38AB",
-          "message_type": "customer",
-          "date_time": "2026-02-17 13:18:00.989"
-        },
-        {
-          "message_media": [],
-          "message_text": "Covercraft: Thanks for reaching out! Can you check the tire size? This is usually printed on the sidewall, e.g., 275/80R22.5. You may also check this link for our tire covers: https://covercraft.attn.tv/a0IIpbN3qwNk",
-          "message_type": "agent",
-          "agent": "109972",
-          "message_id": "019c6ced-c790-44e4-f000-0000fbdd1035",
-          "date_time": "2026-02-17 13:47:28.427"
-        }
-      ],
-      "notes": {
-        "templates": [
-          "For custom full vehicle covers use FVC shortcut",
-          "For cx that can't see the cover pattern/images of their vehicle use CPI shortcut",
-          "If we don't have a pattern/color the cx is looking for use PRR shortcut"
-        ],
-        "dos_and_don_ts": [
-          "Do not tell customers that the base price is the final price! The cost changes by the fitment and depends on the vehicle",
-          "Rebates are discounts for this brand!",
-          "Custom dim pattern sheets are only available for Vehicle Covers (Car, Truck, Van,RV)",
-          "➜https://www.covercraft.com/us/en/covercrafter"
-        ],
-        "drive_to_purchase": [
-          "Before sharing any product links, confirm the vehicle’s Year, Make, and Model"
-        ]
-      },
-      "rightPanel": {
-        "source": {
-          "label": "Website",
-          "value": "https://covercraft.com",
-          "date": ""
-        }
-      },
-      "escalation_preferences": [
-        "Discount code errors"
-      ],
-      "blocklisted_words": [],
-      "has_shopify": false
-    },
-    "3": {
-      "id": "019c687b-8309-4bc7-f000-0000fbc07c05",
-      "companyName": "BulbHead",
-      "companyWebsite": "https://bulbhead.com",
-      "agentName": "",
-      "messageTone": "Polished",
-      "conversation": [
-        {
-          "message_media": [],
-          "message_text": "BulbHead: Welcome! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel. Privacy: attnl.tv/p/mTF Stop to stop",
-          "message_type": "system",
-          "date_time": "2026-02-16 16:57:51.958"
-        },
-        {
-          "message_media": [],
-          "message_text": "BulbHead: Welcome! Enjoy 12% OFF your first order with code TEXT12. Tap here to unlock now >> https://bulbhead.attn.tv/auytAjlrp2Mw  Stop to stop",
-          "message_type": "system",
-          "date_time": "2026-02-16 16:57:55.955"
-        },
-        {
-          "message_media": [],
-          "message_text": "BulbHead: Oh, also, a lot of people like getting personal recs from us. Over the next few days we'll try to help you find something that you will love.\n\nReady to upgrade your space? See what's trending and pick your favorites here: https://bulbhead.attn.tv/a5GYQVmwOJOQ . Stop to stop",
-          "message_type": "system",
-          "date_time": "2026-02-16 16:59:03.665"
-        },
-        {
-          "message_media": [],
-          "message_text": "I bought a wallet from this company about five years ago, so I was wondering if you still had them",
-          "message_type": "customer",
-          "date_time": "2026-02-16 16:59:47.365"
-        },
-        {
-          "message_media": [],
-          "message_text": "BulbHead: Thank you for reaching out! I'd be happy to look into this for you. Do you still recall the specific name of the wallet? Currently, we only have the Slim Mint Wallet available here: https://bulbhead.attn.tv/atM8LZCcbpsc",
-          "message_type": "agent",
-          "agent": "87310",
-          "message_id": "019c687b-8309-4bc7-f000-0000fbc07c05",
-          "date_time": "2026-02-16 17:04:10.921"
-        }
-      ],
-      "notes": {
-        "send_to_cs": [
-          "No ESC for this client, send everything to CS"
-        ],
-        "tone": [
-          "Close the convo once the client takes over"
-        ]
-      },
-      "rightPanel": {
-        "source": {
-          "label": "Website",
-          "value": "https://bulbhead.com",
-          "date": ""
-        }
-      },
-      "escalation_preferences": [],
-      "blocklisted_words": [],
-      "has_shopify": true
-    },
-    "4": {
-      "id": "019c4993-0c1a-4693-f000-00006870f4fe",
-      "companyName": "GBNY",
-      "companyWebsite": "https://gbny.com",
-      "agentName": "Sarah",
+      "id": "019c6796-a65f-4e7c-f000-0000fbb89d7f",
+      "companyName": "Custom Gold Grillz",
+      "companyWebsite": "https://customgoldgrillz.com",
+      "agentName": "Jordan",
       "messageTone": "Formal",
       "conversation": [
         {
           "message_media": [],
-          "message_text": "GBNY: The Hottest Air Jordan 4 Retro \"Flight Club\"- Family Collection has Just dropped, Limited stock available, don't miss out on these must-have kicks! \n gbny.attn.tv/a-B5bfvxh-Mp \n\nShop the best sale ever: Up to 40% OFF + Free Shipping\ngbny.attn.tv/abXolb1awQfz ",
+          "message_text": "Custom Gold Grillz: Welcome to Custom Gold Grillz! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
           "message_type": "system",
-          "date_time": "2026-01-17 12:20:29.621"
+          "date_time": "2026-02-16 12:28:04.315"
         },
         {
           "message_media": [],
-          "message_text": "GBNY: Just dropped: Air Jordan 9 Retro \"Flint Grey.\" Full family sizes + free shipping. \nShop Now: gbny.attn.tv/am22YKVzpXxj \n\nSale: gbny.attn.tv/aDiqba1qMwMD ",
+          "message_text": "Custom Gold Grillz: Welcome! Your 20% BACK offer is below!\n\nClick here to auto-apply it when you shop: https://customgoldgrillz.attn.tv/a4paWRpoAiKR \n\nText back with any questions!\n- Jordan \n",
           "message_type": "system",
-          "date_time": "2026-01-24 12:05:45.612"
+          "date_time": "2026-02-16 12:28:07.268"
         },
         {
           "message_media": [],
-          "message_text": "GBNY: AJ 4 \"Sierra Red\" has arrived in family sizes! Also, check out Nike Diamond Turf 2 \"Red Gold\" with Free Shipping.\n\nShop now: gbny.attn.tv/adM2rPzbMdFK ",
+          "message_text": "Custom Gold Grillz: Don't miss out: Add us as a contact to your phone to access exclusive content first!",
           "message_type": "system",
-          "date_time": "2026-02-07 12:05:27.510"
+          "date_time": "2026-02-16 12:28:10.370"
         },
         {
           "message_media": [],
-          "message_text": "GBNY: Hey , this is Sarah. Thanks for stopping by! 😊 https://gbny.attn.tv/amQu4eNJ55Yf \n\nAre you looking for a Nike Air Diamond Turf 2 Deion Sanders - Men's - 12.5 / Red today? \n\nTake $15 off with code VIP15 *select styles only",
+          "message_text": "Custom Gold Grillz: Hey , this is Jordan. Appreciate you stopping by! customgoldgrillz.attn.tv/alMpF2_YcX6U \n\nAnything you got your eye on? ",
           "message_type": "system",
-          "date_time": "2026-02-10 16:20:51.680"
+          "date_time": "2026-02-16 12:29:38.177"
         },
         {
           "message_media": [],
-          "message_text": "Need in a 12.5",
+          "message_text": "Yes a single gold tooth I just need to know does the dentist shape it and put it in your mouth ?",
           "message_type": "customer",
-          "date_time": "2026-02-10 16:33:04.277"
+          "date_time": "2026-02-16 12:40:21.249"
         },
         {
           "message_media": [],
-          "message_text": "GBNY: I'm sorry about that! This size is sold out. I currently don't have the exact date of a possible restock, but I recommend checking our website and social media frequently. In the meantime, what do you think about this instead? - https://gbny.attn.tv/aNFKImF-cLvm ",
+          "message_text": "Custom Gold Grillz: We provide a free molding kit with your order to take your teeth impression at home. You can also visit a dentist for a professional impression if preferred.",
           "message_type": "agent",
-          "agent": "50269",
-          "message_id": "019c497a-0872-4239-f000-00006870f4fe",
-          "date_time": "2026-02-10 16:34:20.302"
+          "agent": "62551",
+          "message_id": "019c678a-459e-4b71-f000-0000fbb89d7f",
+          "date_time": "2026-02-16 12:40:41.018"
         },
         {
           "message_media": [],
-          "message_text": "Ok just send a text when they are back in stock",
+          "message_text": "Ok ! Wonderful 😊 so I can just place my order and you'll ship out my tooth with a seal of its 100 percent gold 🪙",
           "message_type": "customer",
-          "date_time": "2026-02-10 16:59:23.923"
+          "date_time": "2026-02-16 12:48:42.868"
         },
         {
           "message_media": [],
-          "message_text": "GBNY: Thanks for getting back to me! We frequently send updates via our website and social media pages - make sure to stay tuned so you won't miss out! Feel free to let me know if there's anything else I can help you with in the meantime!",
+          "message_text": "Custom Gold Grillz: Yes, you can place your order for the Solid Gold Single Tooth Grillz here: https://customgoldgrillz.attn.tv/at_eSim8zwd0. It includes a quality guarantee.",
           "message_type": "agent",
-          "agent": "109840",
-          "message_id": "019c4993-0c1a-4693-f000-00006870f4fe",
-          "date_time": "2026-02-10 17:01:39.637"
+          "agent": "62551",
+          "message_id": "019c6792-1519-4987-f000-0000fbb89d7f",
+          "date_time": "2026-02-16 12:49:12.885"
+        },
+        {
+          "message_media": [],
+          "message_text": "Ok ! Thank you will do how long does it take to come in",
+          "message_type": "customer",
+          "date_time": "2026-02-16 12:50:21.215"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"Shipping time\"; last updated: 2024-07-29 22:43:19.025",
+          "message_type": "template",
+          "date_time": "2026-02-16 12:54:12.217"
+        },
+        {
+          "message_media": [],
+          "message_text": "Custom Gold Grillz: We usually ship via USPS every business day at 2 pm PST. For our custom-made grillz, the production time is 2-3 weeks for Solid Style Grillz and 3-4 weeks for Iced Out Grillz, not including the shipping of the molding kits (back and forth) and finished piece. Overall, the timeframe could vary but should be around 3-4 weeks. For our pre-made grillz, once they're shipped, it'll take 3-5 business days domestically.",
+          "message_type": "agent",
+          "agent": "109968",
+          "message_id": "019c6796-a65f-4e7c-f000-0000fbb89d7f",
+          "date_time": "2026-02-16 12:54:12.219"
         }
       ],
       "notes": {
         "send_to_cs": [
-          "No ESC for this client, send everything to CS"
+          "Send to CS immediately if cx did not receive their order",
+          "Send to CS immediately for post purchase inquiries about the status of the mold, or issues with the molds",
+          "Send to CS for pricing inquiries",
+          "Send to CS if cx is looking for a more specific piece not available on the website",
+          "Send to CS if cx is asking for a code and we don't have one"
         ],
-        "promo_and_promo_exclusions": [
-          "Discount codes are for selected styles only.",
-          "Discount codes can't be combined with the other sales and discounts on-site."
+        "escalate": [
+          "No escalations for this client, send everything to CS"
+        ],
+        "tone": [
+          "Use Teeth instead of Pieces (e.g 8 teeth at the top)"
+        ],
+        "templates": [
+          "If the image is not coming through a second time, send Broken Image temp",
+          "For CUSTOM GRILLZ & ACCESSORIES INQUIRIES for models not available on the website use PS shortcut",
+          "For urgent concerns/delayed escalation response use PS shortcut",
+          "For delayed orders and the customer is frustrated use PS shortcut",
+          "For customer service use shortcut CS which has both the direct email/number"
+        ],
+        "dos_and_don_ts": [
+          "Do not use the order history as a reference to order status",
+          "If customers want to cancel their order always ask for the reason for cancellation"
+        ],
+        "drive_to_purchase": [
+          "Don't recommend pre-made grillz! Upsell to fitted and custom grillz",
+          "When recommending an item, let the cx know they can customize their order on the product page",
+          "When recommending an item, ask the cx if they are working with a budget",
+          "Use LFG shortcut to gather information and provide recommendations when cx ask about:",
+          "➜ Grillz/Chain recommendation",
+          "➜ Grillz/Chain in general",
+          "➜ Grillz/Chains pricing"
         ]
       },
       "rightPanel": {
         "source": {
           "label": "Website",
-          "value": "https://gbny.com",
+          "value": "https://customgoldgrillz.com",
           "date": ""
         },
         "browsingHistory": [
           {
-            "item": "Nike Air Diamond Turf 2 Deion Sanders - Men's - 12.5 / Red",
-            "link": "https://gbny.com/collections/new-arrival/products/nike-air-diamond-turf-2-deion-sanders-mens?variant=42561479016544&utm_campaign=Concierge-Site-Visitor-1&utm_source=attentive&utm_medium=text&externalId=Q7quO",
-            "timeAgo": "2026-02-10"
+            "item": "Solid Gold Single Tooth Grillz - 14K Gold / L3",
+            "link": "https://www.customgoldgrillz.com/products/custom-fit-solid-gold-single-bottom-tooth-grillz?variant=12785469849623",
+            "timeAgo": "2026-02-16"
           },
           {
-            "item": "Nike Air Max TL - Men's - 12.5 / Red",
-            "link": "https://gbny.com/collections/nike/products/nike-air-max-tl-mens?variant=42567461830752&utm_campaign=Concierge&utm_medium=sms&utm_source=attentive&externalId=Q7quO",
-            "timeAgo": "2026-02-10"
+            "item": "Solid Gold Single Tooth Grillz - 14K Gold / R1",
+            "link": "https://www.customgoldgrillz.com/products/custom-fit-solid-gold-single-bottom-tooth-grillz?variant=12785408835607",
+            "timeAgo": "2026-02-16"
           },
           {
-            "item": "Nike Air Diamond Turf 2 Deion Sanders - Men's - 12.5 / Red",
-            "link": "https://gbny.com/collections/new-arrival/products/nike-air-diamond-turf-2-deion-sanders-mens?variant=42561479016544",
-            "timeAgo": "2026-02-10"
+            "item": "Solid Gold Single Tooth Grillz - 10K Gold / R1",
+            "link": "https://www.customgoldgrillz.com/products/custom-fit-solid-gold-single-bottom-tooth-grillz",
+            "timeAgo": "2026-02-16"
+          },
+          {
+            "item": "Solid Gold Single Tooth Grillz - 14K Gold / L3",
+            "link": "https://www.customgoldgrillz.com/products/custom-fit-solid-gold-single-bottom-tooth-grillz?variant=12785469849623",
+            "timeAgo": "2026-02-16"
+          },
+          {
+            "item": "Solid Gold Single Tooth Grillz - 14K Gold / R1",
+            "link": "https://www.customgoldgrillz.com/products/custom-fit-solid-gold-single-bottom-tooth-grillz?variant=12785408835607",
+            "timeAgo": "2026-02-16"
           }
         ]
       },
@@ -658,249 +155,1969 @@
       "blocklisted_words": [],
       "has_shopify": true
     },
-    "5": {
-      "id": "019c6ccc-d574-49ef-f000-0000ee07dd74",
-      "companyName": "Naturalizer",
-      "companyWebsite": "https://naturalizer.com",
-      "agentName": "",
+    "2": {
+      "id": "019c6e1f-4f22-4780-f000-0000ee0e7616",
+      "companyName": "Backcountry",
+      "companyWebsite": "https://backcountry.com",
+      "agentName": "Sarah",
       "messageTone": "Polished",
       "conversation": [
         {
           "message_media": [],
-          "message_text": "Naturalizer: Extra 25% off sale styles ends TONIGHT! Code: LASTCALL. Don't miss out.\n\nShop all clearance: naturalizer.attn.tv/aubwMwa2TxOg ",
+          "message_text": "Backcountry: FINAL HOURS. Up to 70% off Flash Sale wraps tonight! Last chance to grab adventure-changing gear for less: http://bctxt.co/aTGbYhWhdX1c ",
           "message_type": "system",
-          "date_time": "2026-01-20 12:45:15.699"
+          "date_time": "2026-01-19 20:00:33.323"
         },
         {
           "message_media": [],
-          "message_text": "Naturalizer: Your Maxwell Ballet Flat is back in stock and they WILL sell out again. Shop to it: https://naturalizer.attn.tv/aUBVLNx18QcH .",
+          "message_text": "Backcountry: Check out the Nano Puff Insulated Jacket—lightweight warmth with PrimaLoft Gold insulation and durable ripstop fabric.\n\n1K people recently added it to their cart.\n\nThis one's for you: http://bctxt.co/a9jfByzZ7_Fd .",
           "message_type": "system",
-          "date_time": "2026-01-20 13:55:24.924"
+          "date_time": "2026-01-21 13:43:20.457"
         },
         {
           "message_media": [],
-          "message_text": "Naturalizer: LAST CALL for code LASTCALL! Extra 25% off sale code expires soon.\n\nShop NOW: naturalizer.attn.tv/a29d9LgeXbMV ",
+          "message_text": "Backcountry: 20% off full-price goggles & sunnies from top brands ends tomorrow. Lock in clearer views: http://bctxt.co/aesbBxNkvLZv \n\nDiscount applies in cart.",
           "message_type": "system",
-          "date_time": "2026-01-20 20:25:12.611"
+          "date_time": "2026-01-21 21:04:20.462"
         },
         {
           "message_media": [],
-          "message_text": "Naturalizer: Snowstorm coming your way? Here's $30 off $150 to snag boots engineered for the elements.\n\nUse code: INBOX: naturalizer.attn.tv/an_ETSdfHtQI ",
+          "message_text": "Backcountry: Grab the McMurdo Down Parka in your cart; it keeps you warm and dry.\n\nJust 5 left!\n\nShop now: http://bctxt.co/asLtfr4qqB44 .",
           "message_type": "system",
-          "date_time": "2026-01-24 13:35:15.703"
+          "date_time": "2026-01-22 13:43:20.126"
         },
         {
           "message_media": [],
-          "message_text": "Naturalizer: Use your super-secret INBOX code before word gets out & your faves are gone!\n\nGet $30 off $150 now: naturalizer.attn.tv/aw78dbpT_4Wo ",
+          "message_text": "Backcountry: Hey—seeing jackets built for cold and wet days: lightweight warmth with insulated panels and packed convenience.\n\nThis pick looks right for you: http://bctxt.co/a3-Owsbq6At0 .",
           "message_type": "system",
-          "date_time": "2026-01-24 20:25:07.733"
+          "date_time": "2026-01-22 14:43:30.879"
         },
         {
           "message_media": [],
-          "message_text": "Naturalizer: ICYMI: $30 off $150 with code: INBOX. Hurry, this exclusive deal ends soon!\n\nClaim your VIP savings: naturalizer.attn.tv/aj5URo2bF3jQ ",
+          "message_text": "Backcountry: Check the Apex Bionic 3 Jacket—wind-blocking, stretchy softshell that moves with you.\n\n52 people recently added this to their cart.\n\nTry it here: http://bctxt.co/a8eepXAmXGnm .",
           "message_type": "system",
-          "date_time": "2026-01-26 16:00:12.437"
+          "date_time": "2026-01-22 22:12:46.508"
         },
         {
           "message_media": [],
-          "message_text": "Naturalizer: How will you use your $30 off $150? It's decision time. Those shoes won't cart themselves.\n\nUse code: INBOX: naturalizer.attn.tv/atmH54Tk0QU- ",
+          "message_text": "Backcountry: 20% off full-price items just landed! Now thru 1/26. Save on all those warm weather must haves now: http://bctxt.co/a4prkBBDMGLx ",
           "message_type": "system",
-          "date_time": "2026-01-27 19:10:08.563"
+          "date_time": "2026-01-23 21:11:12.902"
         },
         {
           "message_media": [],
-          "message_text": "Naturalizer: Your $30 off $150 code: INBOX expires tonight! Use it on newness & need now styles.\n\nSHOP NOW: naturalizer.attn.tv/aPBnzS-Uk2uX ",
+          "message_text": "Backcountry: Gear up with Nuuk Lite Parka — synthetic insulation, waterproof protection, and secure pockets keep you warm and dry.\n\n33 people added this to their cart.\n\nCheck it out here: http://bctxt.co/anePWUYzDnli .",
           "message_type": "system",
-          "date_time": "2026-01-28 13:45:19.043"
+          "date_time": "2026-01-24 12:21:24.944"
         },
         {
           "message_media": [],
-          "message_text": "Naturalizer: Tonight: $30 off $150. Tomorrow: $0 off $150. Our advice? Use code: INBOX now.\n\nLike, shop RIGHT NOW: naturalizer.attn.tv/anEa6bbMMZwH ",
+          "message_text": "Backcountry: Grab the Junction Insulated Jacket — lightweight warmth, Heatseeker insulation, fleece-lined collar, made from 70% recycled materials.\n\n90 people recently added it to their cart.\n\nSee it here: http://bctxt.co/aEobMp81EfNM .",
           "message_type": "system",
-          "date_time": "2026-01-28 20:10:06.751"
+          "date_time": "2026-01-25 13:49:38.576"
         },
         {
           "message_media": [],
-          "message_text": "Naturalizer: Spring just landed // New styles. Fab colors. \n\nShop now: naturalizer.attn.tv/a5NbFiAyWrbZ ",
+          "message_text": "Backcountry: Grab the Lodge Jacket in your cart — lightweight, packable warmth with a cozy collar.\n\n7 people recently purchased Lodge Jacket; complete your order before it disappears!\n\nShop now: http://bctxt.co/aBY1w2-58R2l .",
           "message_type": "system",
-          "date_time": "2026-01-31 13:35:46.892"
+          "date_time": "2026-01-26 17:16:53.397"
         },
         {
           "message_media": [],
-          "message_text": "Naturalizer: The sale you've been waiting for: styles up to 70% OFF! Boots, sneaks, flats, heels.\n\nShop now: naturalizer.attn.tv/aB-ooWxfx66T ",
+          "message_text": "Backcountry: Nice pick — those insulated jackets are made for cold days and easy layering.\n\nBuy here: http://bctxt.co/aWhNmWctNw3q .",
           "message_type": "system",
-          "date_time": "2026-02-01 16:10:10.435"
+          "date_time": "2026-01-26 18:16:57.720"
         },
         {
           "message_media": [],
-          "message_text": "Naturalizer: At up to 70% off, our Last Call styles won't last. Don't let your faves disappear.\n\nFill your cart: naturalizer.attn.tv/aYmkmgiMn6Pu ",
+          "message_text": "Backcountry: Imagine cozy days outside with the Antora Triclimate Jacket keeping you warm and flexible for whatever you do.\n\nYour next layer is here: http://bctxt.co/a25VIPqMU87u .",
           "message_type": "system",
-          "date_time": "2026-02-02 21:30:06.427"
+          "date_time": "2026-01-27 13:43:24.020"
         },
         {
           "message_media": [],
-          "message_text": "Naturalizer: THIS. IS. IT. Up to 70% off styles for every upcoming vacay, event, and celebration.\n\nShop your size NOW: naturalizer.attn.tv/aVYyy8xE7VM1 ",
+          "message_text": "Backcountry: Grab the Infinity Windstopper Hoodie in your cart — warm, helmet-ready comfort you'll want now.\n\n13 people recently purchased Infinity Windstopper Hoodie; complete your order before it disappears!\n\nShop now: http://bctxt.co/aDqss6CuFC9Z .",
           "message_type": "system",
-          "date_time": "2026-02-03 15:25:06.520"
+          "date_time": "2026-01-29 13:43:26.503"
         },
         {
           "message_media": [],
-          "message_text": "Naturalizer: Going fast: the deepest price drops of the season. Styles up to 70% off.\n\nGet it or regret it: naturalizer.attn.tv/aPad2E8rmnTt ",
+          "message_text": "Backcountry: Ready to warm up your cold days? Check out the men's insulated jackets built for lightweight warmth and weather protection.\n\nThis pick's waiting: http://bctxt.co/aMJfr2UbQdIS .",
           "message_type": "system",
-          "date_time": "2026-02-03 22:05:16.831"
+          "date_time": "2026-01-29 14:43:37.614"
         },
         {
           "message_media": [],
-          "message_text": "Naturalizer: JUST DROPPED // Style-Letics by June Ambrose. The exclusive capsule for Naturalizer. Don't miss this!\n\nShop Now: naturalizer.attn.tv/aL0kr3Tri7FC ",
+          "message_text": "Backcountry: 48 hrs only! Take 20% off full-price picks from The North Face, Osprey & more top brands. Sign in to gear up: http://bctxt.co/aGOwuVoreF-w ",
           "message_type": "system",
-          "date_time": "2026-02-04 15:15:15.044"
+          "date_time": "2026-01-30 15:04:31.749"
         },
         {
           "message_media": [],
-          "message_text": "Naturalizer: Prediction: THIS WILL SELL OUT. Style-Letics by June Ambrose. Shop the exclusive collab. \n\nOnly at Naturalizer: naturalizer.attn.tv/aD-CXJe8wfky ",
+          "message_text": "Backcountry: Extra 20% off clearance just dropped! Stack deeper deals on already-marked-down gear for a limited time only: http://bctxt.co/at8PPFdIJj2L ",
           "message_type": "system",
-          "date_time": "2026-02-04 22:05:13.170"
+          "date_time": "2026-01-31 13:04:20.699"
         },
         {
           "message_media": [],
-          "message_text": "Naturalizer: HERE NOW // SS26. New season. New scroll stoppers. Expect compliments.\n\nShop the spring drop: naturalizer.attn.tv/aECG__WeqelO ",
+          "message_text": "Backcountry: Wrap yourself in the Skogso Padded Jacket and feel cozy confidence on every winter outing, keeping you warm and ready for adventure.\n\nThis look is for you: http://bctxt.co/aFzws3h0OmHA .",
           "message_type": "system",
-          "date_time": "2026-02-08 17:15:10.651"
+          "date_time": "2026-01-31 13:42:25.454"
         },
         {
           "message_media": [],
-          "message_text": "Naturalizer: Hey, we noticed you checking us out. Have you seen our best sellers yet? https://naturalizer.attn.tv/aEooi9XCgXGK . ",
+          "message_text": "Backcountry: Final hours! Last chance to score 20% off full-price favorites for all your upcoming adventures: http://bctxt.co/aN-mrmCJJgsz ",
           "message_type": "system",
-          "date_time": "2026-02-10 18:18:48.258"
+          "date_time": "2026-01-31 17:32:36.333"
         },
         {
           "message_media": [],
-          "message_text": "Naturalizer: NEW looks you'll love ON SALE! Haute heels, fab flats, & crush-worthy colors <3\n\nShop your heart out: naturalizer.attn.tv/a0tIZ6KBlOXy ",
+          "message_text": "Backcountry: Extra 20% off clearance ends tonight! Who doesn't love savings on top of savings? Get it while you can:http://bctxt.co/aRzv3lJmRWsG ",
           "message_type": "system",
-          "date_time": "2026-02-11 13:35:15.003"
+          "date_time": "2026-02-02 16:02:19.144"
         },
         {
           "message_media": [],
-          "message_text": "Naturalizer: Valentine's & Galentine's is almost here. Snag our hottest new arrivals ON SALE. \n\nShop the new and now: naturalizer.attn.tv/aUkh1hSH7Y3G ",
+          "message_text": "Backcountry: Imagine crisp alpine mornings with the Xenair Alpine Light Jacket keeping you comfortably warm on every trail.\n\nOur Winter Semi-Annual Sale has up to 50% off through Sunday.\n\nGear up here: http://bctxt.co/aYz2TSPP1DMv .",
           "message_type": "system",
-          "date_time": "2026-02-11 20:10:10.477"
+          "date_time": "2026-02-04 13:39:10.630"
         },
         {
           "message_media": [],
-          "message_text": "Naturalizer: Happy Galentine's Day! Check out the NEW styles on SALE to celebrate! \n\nShop your <3 out: naturalizer.attn.tv/aQlFEC3WVIKz ",
+          "message_text": "Backcountry: Our Semi-Annual Sale is heating up! Snag new to sale styles up to 50% off, while supplies last: http://bctxt.co/abT1BAJ0WRIn ",
           "message_type": "system",
-          "date_time": "2026-02-13 19:41:10.891"
+          "date_time": "2026-02-05 17:32:20.165"
         },
         {
           "message_media": [],
-          "message_text": "Naturalizer: Love at first wear: our curated sale styles. Chic colors. Comfort you crave.\n\nSwoon & shop: naturalizer.attn.tv/agUMN1tYGDKa ",
+          "message_text": "Backcountry: Feel ready for crisp winter mornings in the Skogso Padded Jacket, keeping your adventures cozy and confident.\n\nOur Winter Semi-Annual Sale is offering up to 50% off through the season.\n\nGet yours here: http://bctxt.co/a8UVfMBVo-4z .",
           "message_type": "system",
-          "date_time": "2026-02-14 20:05:08.144"
+          "date_time": "2026-02-06 13:43:21.662"
         },
         {
           "message_media": [],
-          "message_text": "Naturalizer: We miss you! Here's $10 off just for you SMS10OFFNUXKLSQS \n\nShop newness now: https://naturalizer.attn.tv/aD_MSp5UhKg1 .",
+          "message_text": "Backcountry: VIP early access is here! Take an extra 20% off clearance now. 24 hours only to shop early: http://bctxt.co/aQjd2Mw79vjL ",
           "message_type": "system",
-          "date_time": "2026-02-15 13:59:27.137"
+          "date_time": "2026-02-06 16:30:55.097"
         },
         {
           "message_media": [],
-          "message_text": "Naturalizer: LAST CHANCE! Price drops on most-loved styles & shades end today. Get those Spring fits ready!\n\nDon't miss out: naturalizer.attn.tv/aF7apJDtIvga ",
+          "message_text": "Backcountry: Feel the warmth and breathability the R2 TechFace Fleece Jacket brings to your active, cold days, keeping you comfortable on trails.\n\nWinter Semi-Annual Sale is offering up to 50% off through Sunday.\n\nCozy up in this fleece: http://bctxt.co/adEeNDZyEs5p .",
           "message_type": "system",
-          "date_time": "2026-02-16 13:05:20.718"
+          "date_time": "2026-02-07 18:42:11.876"
         },
         {
           "message_media": [],
-          "message_text": "Naturalizer: Those shoes you're crushing on? It's time to commit. Our special sale ends TONIGHT!\n\nShop now: naturalizer.attn.tv/a1SAA76xMSlo ",
+          "message_text": "Backcountry: Hey, that was some great gear you were checking out! Go on, have another look: http://bctxt.co/acTakrbaE50- ",
           "message_type": "system",
-          "date_time": "2026-02-16 20:25:07.733"
+          "date_time": "2026-02-09 15:24:58.609"
         },
         {
           "message_media": [],
-          "message_text": "Naturalizer: Hey, this is Hannah. Thanks for checking out our site! 😊 https://naturalizer.attn.tv/aqvjMFULrTxg \n\nAre you looking for anything in particular today? https://naturalizer.attn.tv/aqvjMFULrTxg .",
+          "message_text": "Backcountry: Feel the freedom our Houdini Full-Zip Jacket brings to your outdoor days, light enough for easy adventures you'll love.\n\nWinter Semi-Annual Sale is on, with up to 50% off through Sunday.\n\nExplore it here: http://bctxt.co/adH57ols5gQu .",
           "message_type": "system",
-          "date_time": "2026-02-17 13:05:46.763"
+          "date_time": "2026-02-10 13:43:26.945"
         },
         {
           "message_media": [],
-          "message_text": "Looking for narrow shoes/ heels, which I can't find on your site. And stores don't carry narrow.",
+          "message_text": "Backcountry: Grab the Xenair Alpine Light Jacket — lightweight PrimaLoft Gold insulation and Pertex Quantum Air for alpine warmth.\n\nOur Winter Semi-Annual Sale is offering up to 50% off on select gear.\n\nBuy here: http://bctxt.co/a7fNop4y6CoI .",
+          "message_type": "system",
+          "date_time": "2026-02-11 14:11:18.659"
+        },
+        {
+          "message_media": [],
+          "message_text": "Backcountry: Looking for the latest price drops? Score new savings from The North Face, Mammut & more! Shop Semi-Annual Sale: http://bctxt.co/a09Enhqh8sjI ",
+          "message_type": "system",
+          "date_time": "2026-02-12 15:52:18.310"
+        },
+        {
+          "message_media": [],
+          "message_text": "Backcountry: Gear up with the R2 TechFace Fleece Jacket—weather-resistant, with a high-loft grid interior for breathable warmth.\n\nThe Winter Semi-Annual Sale is now up to 60% off.\n\nBuy here: http://bctxt.co/a0pnb25HYY6- .",
+          "message_type": "system",
+          "date_time": "2026-02-13 13:43:21.439"
+        },
+        {
+          "message_media": [],
+          "message_text": "Backcountry: Hey, thanks again for shopping Backcountry. Here's a little boost for your next day outside. Use your exclusive code BCPPXSSMS26DHN0DJF for 20% off full-price items: http://bctxt.co/a1bD-27b_znl \n\n*Exclusions apply. One-time use only.",
+          "message_type": "system",
+          "date_time": "2026-02-13 15:23:23.064"
+        },
+        {
+          "message_media": [],
+          "message_text": "Backcountry: The price of Lightweight Stormshadow Jacket - Men's has dropped! Don't miss this chance to grab it at a great price:http://bctxt.co/aHGiP2N3qNdk .",
+          "message_type": "system",
+          "date_time": "2026-02-14 15:14:41.745"
+        },
+        {
+          "message_media": [],
+          "message_text": "Backcountry: Check out the Glidewheel GORE-TEX Jacket, a lightweight, waterproof shell with a high collar and dropped tail built for wet rides.\n\nOur Winter Semi-Annual Sale is now up to 60% off.\n\nTry it on for your next wet day: http://bctxt.co/as_t4KAX0p7T .",
+          "message_type": "system",
+          "date_time": "2026-02-14 15:52:24.424"
+        },
+        {
+          "message_media": [],
+          "message_text": "Backcountry: Don't forget, Lightweight Stormshadow Jacket - Men's is 30% off! Grab it while you can:http://bctxt.co/aynSTqgwQgls",
+          "message_type": "system",
+          "date_time": "2026-02-15 15:14:53.910"
+        },
+        {
+          "message_media": [],
+          "message_text": "Backcountry: Final hours! Up to 70% off Closeout Sale wraps tonight. Find last-chance deals here: http://bctxt.co/aYEAPJ3KebKR ",
+          "message_type": "system",
+          "date_time": "2026-02-16 15:02:51.931"
+        },
+        {
+          "message_media": [],
+          "message_text": "Backcountry: Check out the Triolet Jacket—rugged GORE-TEX protection with breathable alpine performance.\n\nOur Winter Semi-Annual Sale is now up to 60% off.\n\nGear up here: http://bctxt.co/aFHtOTHa7vWo .",
+          "message_type": "system",
+          "date_time": "2026-02-16 22:25:56.903"
+        },
+        {
+          "message_media": [],
+          "message_text": "Backcountry: Grab the Triolet Jacket you left in your cart—rugged GORE-TEX protection built for alpine weather.\n\nOur Winter Semi-Annual Sale is now up to 60% off.\n\nShop now: http://bctxt.co/akfCF9sNlgOe .",
+          "message_type": "system",
+          "date_time": "2026-02-17 18:39:40.611"
+        },
+        {
+          "message_media": [],
+          "message_text": "20% doesnt apply",
           "message_type": "customer",
-          "date_time": "2026-02-17 13:08:32.744"
+          "date_time": "2026-02-17 19:09:17.767"
         },
         {
           "message_media": [],
-          "message_text": "Template used: \"Do you offer wide sizes/widths?\"; last updated: 2023-02-03 16:51:18.185",
-          "message_type": "template",
-          "date_time": "2026-02-17 13:11:29.296"
-        },
-        {
-          "message_media": [],
-          "message_text": "Naturalizer: Thanks for reaching out! Yes, we offer sizes from 4-12 and widths Medium, Narrow, and Wide in some styles, depending on availability. You can find the list of sizes in our mega menu to shop by size or width. You may check our narrow calf kitten heel collection here: https://naturalizer.attn.tv/aZ9hvwpBNQ78",
+          "message_text": "Backcountry: Thanks for getting in touch! I'm really sorry for the inconvenience. To confirm, are you using the code BCPPXSSMS26DHN0DJF for 20% off? If so, upon checking, the code is only applicable for your first order. Since our system shows that you already ordered in the past, I'm afraid you're no longer eligible for the code. No worries! Our deals will always be shared with our SMS subscribers or on our website, so keep an eye out! In the meantime, you can check out our sales collection here: http://bctxt.co/a27i1rPfuvKJ",
           "message_type": "agent",
-          "agent": "109972",
-          "message_id": "019c6ccc-d574-49ef-f000-0000ee07dd74",
-          "date_time": "2026-02-17 13:11:29.303"
+          "agent": "109840",
+          "message_id": "019c6e1f-4f22-4780-f000-0000ee0e7616",
+          "date_time": "2026-02-17 19:21:11.613"
         }
       ],
       "notes": {
         "escalate": [
-          "Before you ESC use ESC shortcut",
-          "When ESC code issues, add the code to the escalation notes",
-          "Always add the customer's name in your esc notes"
+          "No escalations for this client, send everything to CS"
         ],
         "tone": [
-          "Don't respond if the customer doesn't want to engage"
+          "Close the convo once the client takes over"
         ],
-        "templates": [
-          "For inquiries regarding their order updates/status/tracking, use UPD shortcut"
+        "promo_and_promo_exclusions": [
+          "Welcome offer page:   https://www.backcountry.com/sc/new-customer-coupon-rules"
         ]
       },
       "rightPanel": {
         "source": {
           "label": "Website",
-          "value": "https://naturalizer.com",
+          "value": "https://backcountry.com",
           "date": ""
         },
         "browsingHistory": [
           {
-            "item": "27 edit carla ballet flat",
-            "link": "https://www.naturalizer.com/product/womens-27-edit-carla-ballet-flat-3029603/walnut-brown-faux-raffia-ec0209560",
+            "item": "Storm Shift Jacket - Men's",
+            "link": "https://www.backcountry.com/patagonia-storm-shift-jacket-mens",
             "timeAgo": "2026-02-17"
           },
           {
-            "item": "everly pump",
-            "link": "https://www.naturalizer.com/product/womens-everly-pump-3020003/silver-leather-ec0235811",
-            "timeAgo": "2026-01-28"
+            "item": "3-in-1 Powder Town Jacket - Men's",
+            "link": "https://www.backcountry.com/patagonia-3-in-1-powder-town-jacket-mens",
+            "timeAgo": "2026-02-17"
           },
           {
-            "item": "everly pump",
-            "link": "https://www.naturalizer.com/product/womens-everly-pump-3020003/silver-leather-ec0235811",
-            "timeAgo": "2026-01-25"
+            "item": "Tres 3-in-1 Parka - Men's",
+            "link": "https://www.backcountry.com/patagonia-tres-3-in-1-parka-mens",
+            "timeAgo": "2026-02-17"
           },
           {
-            "item": "huntley block heel pump",
-            "link": "https://www.naturalizer.com/product/womens-huntley-block-heel-pump-3031181/navy-faux-leather-ec0207583",
-            "timeAgo": "2026-01-14"
+            "item": "Tres 3-in-1 Parka - Men's",
+            "link": "https://www.backcountry.com/b/patagonia-tres-3-in-1-parka-mens?CMP_SKU=PATZAFM&MER=0406&skid=PATZAFM-OLDGROGRE-M&mr:device=m&mr:adType=plaonline&utm_source=google&utm_medium=pla&utm_campaign=20576138872__p:G%7Cs:BC%7Cct:Shopping%7Cct2:pmax%7Cg:xx%7Cc1:Apparel%7Cc2:xx%7Cb:xx%7Cmt:xx&utm_content=&utm_id=go_cmp-20576138872_adg-_ad-__dev-m_ext-_prd-PATZAFM-OLDGROGRE-M_mca-7811_sig-CjwKCAiAwNDMBhBfEiwAd7ti1INTRSexqv9O7FcwxKAPqrC7jkx2OAXz4pXUv5xUmLAEFPoFvIaAZxoCe30QAvD_BwE&gclsrc=aw.ds&gad_source=1&gad_campaignid=20566427190&gbraid=0AAAAAD_Jw0ZAoWVP3XXLgOJpCddho6-hN&gclid=CjwKCAiAwNDMBhBfEiwAd7ti1INTRSexqv9O7FcwxKAPqrC7jkx2OAXz4pXUv5xUmLAEFPoFvIaAZxoCe30QAvD_BwE",
+            "timeAgo": "2026-02-17"
+          },
+          {
+            "item": "Tres 3-in-1 Parka - Men's",
+            "link": "https://www.backcountry.com/b/patagonia-tres-3-in-1-parka-mens?CMP_SKU=PATZAFM&MER=0406&skid=PATZAFM-OLDGROGRE-M&mr:device=m&mr:adType=plaonline&utm_source=google&utm_medium=pla&utm_campaign=20576138872__p:G%7Cs:BC%7Cct:Shopping%7Cct2:pmax%7Cg:xx%7Cc1:Apparel%7Cc2:xx%7Cb:xx%7Cmt:xx&utm_content=&utm_id=go_cmp-20576138872_adg-_ad-__dev-m_ext-_prd-PATZAFM-OLDGROGRE-M_mca-7811_sig-CjwKCAiAwNDMBhBfEiwAd7ti1INTRSexqv9O7FcwxKAPqrC7jkx2OAXz4pXUv5xUmLAEFPoFvIaAZxoCe30QAvD_BwE&gclsrc=aw.ds&gad_source=1&gad_campaignid=20566427190&gbraid=0AAAAAD_Jw0ZAoWVP3XXLgOJpCddho6-hN&gclid=CjwKCAiAwNDMBhBfEiwAd7ti1INTRSexqv9O7FcwxKAPqrC7jkx2OAXz4pXUv5xUmLAEFPoFvIaAZxoCe30QAvD_BwE",
+            "timeAgo": "2026-02-17"
           }
         ],
         "orders": [
           {
-            "orderNumber": "005028514833",
-            "orderDate": "2025-12-17",
+            "orderNumber": "b4910779673",
+            "orderDate": "2026-01-30",
             "items": [
               {
-                "name": "maxwell ballet flat",
-                "price": 89.99,
-                "productLink": "https://www.naturalizer.com/product/womens-maxwell-ballet-flat-3021216/black-tumbled-leather-ec0239481"
+                "name": "Skogso Padded Jacket - Men's",
+                "price": 291.96,
+                "productLink": "https://www.steepandcheap.com/fjallraven-skogso-padded-jacket-mens"
+              },
+              {
+                "name": "Skogso Padded Jacket - Men's",
+                "price": 291.96,
+                "productLink": "https://www.backcountry.com/b/fjallraven-skogso-padded-jacket-mens?CMP_SKU=FJR00AK&MER=0406&skid=FJR00AK-DARGRE-S"
+              },
+              {
+                "name": "Skogso Padded Jacket - Men's",
+                "price": 291.96,
+                "productLink": "https://www.levelninesports.com/b/fjallraven-skogso-padded-jacket-mens?CMP_SKU=FJR00AK&MER=0406&skid=FJR00AK-LAUGRE-XXL"
               }
             ],
-            "total": 89.99,
-            "coupon": "save10nat",
-            "date_time": "2025-12-17 23:14:38.519"
+            "total": 583.92,
+            "date_time": "2026-01-30 16:12:03.195"
+          },
+          {
+            "orderNumber": "b4907431320",
+            "orderDate": "2025-12-13",
+            "items": [
+              {
+                "name": "Nano Puff Vest - Women's",
+                "price": 160.65,
+                "productLink": "https://www.steepandcheap.com/patagonia-nano-puff-vest-womens"
+              },
+              {
+                "name": "Nano Puff Insulated Jacket - Men's",
+                "price": 183.2,
+                "productLink": "https://www.backcountry.com/b/patagonia-nano-puff-insulated-jacket-mens?CMP_SKU=PATZAY1&MER=0406&skid=PATZAY1-MARBRO-XL"
+              },
+              {
+                "name": "Nano Puff Insulated Jacket - Men's",
+                "price": 183.2,
+                "productLink": "https://www.steepandcheap.com/patagonia-nano-puff-insulated-jacket-mens"
+              },
+              {
+                "name": "Nano Puff Vest - Women's",
+                "price": 160.65,
+                "productLink": "https://www.backcountry.com/b/patagonia-nano-puff-vest-womens?CMP_SKU=PATZB0E&MER=0406&skid=PATZB0E-BLA-S"
+              }
+            ],
+            "total": 343.85,
+            "coupon": "BCNTFSMS25Q4EDAG14D",
+            "date_time": "2025-12-13 23:31:24.480"
+          },
+          {
+            "orderNumber": "b3588484561",
+            "orderDate": "2025-11-30",
+            "items": [
+              {
+                "name": "Hi-Loft Nano Puff Hooded Jacket - Men's",
+                "price": 263.2,
+                "productLink": "https://www.backcountry.com/b/patagonia-hi-loft-nano-puff-hooded-jacket-mens?CMP_SKU=PATZAXJ&MER=0406&skid=PATZAXJ-BLA-M"
+              },
+              {
+                "name": "Hi-Loft Nano Puff Hooded Jacket - Men's",
+                "price": 263.2,
+                "productLink": "https://www.steepandcheap.com/patagonia-hi-loft-nano-puff-hooded-jacket-mens"
+              }
+            ],
+            "total": 263.2,
+            "date_time": "2025-11-30 16:38:04.258"
           }
         ]
       },
       "escalation_preferences": [],
+      "blocklisted_words": [],
+      "has_shopify": false
+    },
+    "3": {
+      "id": "019c68ac-0c92-4df3-f000-0000a59545b1",
+      "companyName": "Mac of All Trades",
+      "companyWebsite": "https://macofalltrades.com",
+      "agentName": "Jordan",
+      "messageTone": "Polished",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "(attn) Hey, I need help with something: i was given a coupon code yesterday, but it’s not working? Please advice.",
+          "message_type": "customer",
+          "date_time": "2026-02-16 17:52:40.951"
+        },
+        {
+          "message_media": [],
+          "message_text": "mac of all trades: I'm sorry to hear that. Have you encountered any error messages? Also, could you kindly share the code and a screenshot of the items in your cart? I'll be happy to look into the issue! ",
+          "message_type": "agent",
+          "agent": "82447",
+          "message_id": "019c68a8-7f88-45e2-f000-0000a59545b1",
+          "date_time": "2026-02-16 17:53:19.136"
+        },
+        {
+          "message_media": [],
+          "message_text": "I thought it was more off. It's only $10 off. I may need to wait to purchase.",
+          "message_type": "customer",
+          "date_time": "2026-02-16 17:56:11.037"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"Screenshot - All brands\"; last updated: 2023-10-10 18:09:41.020",
+          "message_type": "template",
+          "date_time": "2026-02-16 17:57:11.859"
+        },
+        {
+          "message_media": [],
+          "message_text": "mac of all trades: Thanks for the screenshot! Could you also share the code you received so I can check what seems to be the issue?",
+          "message_type": "agent",
+          "agent": "87310",
+          "message_id": "019c68ac-0c92-4df3-f000-0000a59545b1",
+          "date_time": "2026-02-16 17:57:11.862"
+        }
+      ],
+      "notes": {
+        "send_to_cs": [
+          "Send to CS for post-purchase/specific warranty inquiries",
+          "Send to CS for discount code issues immediatley",
+          "Send to CS for Affirm or financing issues (don't ask for screenshots)",
+          "Send to CS if cx card is declined",
+          "Send to CS if a customer accuses us of being misleading, illegal activity etc.",
+          "Send to CS If a customer insults us/is angry",
+          "Send to CS if cx has additional q's about tax exemption not included in our template",
+          "For software support direct customers to contact Apple Support directly"
+        ],
+        "tone": [
+          "Let the cx have the last word",
+          "Don't respond when the cx says they purchased elsewhere"
+        ],
+        "drive_to_purchase": [
+          "Don't recommend vintage products at all unless cx are specifically looking for a model"
+        ],
+        "promo_and_promo_exclusions": [
+          "WELCOME CODE:",
+          "➜ For $10 off orders $49+",
+          "➜ Doesn't have an expiration date",
+          "➜ New subscribers only",
+          "➜ Sent automatically"
+        ]
+      },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://macofalltrades.com",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "Apple iMac Retina 5K 27-inch 3.8GHz Quad-core i5 (Mid 2017)",
+            "link": "https://www.macofalltrades.com/apple-imac-retina-5k-27-inch-3-8ghz-quad-core-i5-mid-2017/#",
+            "timeAgo": "2024-12-17"
+          },
+          {
+            "item": "Apple iMac Retina 5K 27-inch 3.8GHz Quad-core i5 (Mid 2017)",
+            "link": "https://www.macofalltrades.com/apple-imac-retina-5k-27-inch-3-8ghz-quad-core-i5-mid-2017/",
+            "timeAgo": "2024-12-17"
+          },
+          {
+            "item": "*WARRANTY SERVICE ONLY* Large Desktop/Display RMA Box (Fees Applied at Checkout)",
+            "link": "https://www.macofalltrades.com/warranty-service-only-large-desktop-display-rma-box-fees-applied-at-checkout/",
+            "timeAgo": "2024-12-17"
+          },
+          {
+            "item": "Return Label (Accessories, iOS, Laptops, Mac minis) (Fees Applied at Checkout)",
+            "link": "https://www.macofalltrades.com/return-label-accessories-ios-laptops-mac-minis-fees-applied-at-checkout/",
+            "timeAgo": "2024-12-16"
+          },
+          {
+            "item": "*WARRANTY SERVICE ONLY* Large Desktop/Display RMA Box (Fees Applied at Checkout)",
+            "link": "https://www.macofalltrades.com/warranty-service-only-large-desktop-display-rma-box-fees-applied-at-checkout/",
+            "timeAgo": "2024-12-16"
+          }
+        ],
+        "orders": [
+          {
+            "orderNumber": "703867",
+            "orderDate": "2024-12-04",
+            "items": [
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://plantly.io/shop/rare-plants/oncidium-cholita-cuencana/"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://csd.shop/products/women/clothing/etro-black-floral-pattern-straight-leg-trousers.html"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://carewell.com/product/jobst-opaque-womens-thigh-high-open-toe-medical-compression-stockings-30-40-mmhg/"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://gagediamonds.com/1-03ct-princess-h-si2-natural-diamond-6653/"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://www.dormco.com/Neutral_Dorm_Room_Bedding_Twin_XL_Beige_Comforter_p/jg-comf-oat-marz-txl.htm"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://liquorama.net/clos-du-bois-california-cabernet-2018.html"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://www.mysupplementstore.com/products/le-optimized-resveratrol-60vc"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://bullionsharks.com/2015-w-5-gold-eagle-ngc-pf70-ucam-early-releases/"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://collectorstore.com/sarah-sanderson-disney-hocus-pocus-funko-pop-558/"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://www.eztestpools.com/merlin-smartmesh-18-x-36-4x8-rt-1or-2off-rect-green-safety-pool-cover/"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://hotrodcameras.com/upgrade-innovations-rudy-arm-articulating-arm-with-kipp-wing-single/"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://echoparkpaper.com/winterland-frames-tags/"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://www.modainpelle.com/boots-c4/ankle-boots-c45/fanntine-taupe-leather-p12832"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://www.factorydirectjewelry.com/father-s-day-men-s-ring-collection/white-gold-black-diamond-horseshoe-lucky-mens-ring/"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://edeninlove.com/single-waffle-towel-allkinesnacksblack"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://www.seriouspuzzles.com/electronic-catch-phrase-music-edition-travel-game-discon/"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://shop.loriwhitlock.com/camera-shaped-box/"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://replacebase1.evdpl.com/pub/default/biodegradable-case-for-iphone-x-xs-100-natural-material-high-impact-protection-red.html"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://dailysteals.com/products/down-alternative-hollow-fiber-bed-pillows-2-pack.html"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://mcstaging.oka.com/trade_uk/pinecone-candle-holder-vld075"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://watchwarehouse.com/citizen-lobella-crystal-flower-link-bracelet-womens-watch-eg2322-53d/"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://www.keylessentryremotefob.com/cadillac-xt6-oem-5-button-key-fob-hyq2es/"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://thecostumeshoppe.com/vintage-black-sequin-and-lace-flapper-dress/"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://www.batteriesinaflash.com/emergency-lighting-battery-fits-lithonia-277elnf-elb-4865n-elb4865n"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://www.macofalltrades.com/incase-hardshell-case-for-macbook-pro-16-factory-sealed/"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://www.evo.com/en-ca/outlet/snowboard-bindings/head-p4-binding?image=12832/171345/head-p4-snowboard-binding-2008-.jpg"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://www.famousfootwear.com/product/jambu-womens-erin-slip-on-sneaker-5266734/taupe-solid-12832"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://www.cravenspeed.com/the-gemini-phone-mount-for-hummer-h3t-magsafe/"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://www.officialbandshirts.com/tom-petty-and-the-heartbreakers-live-fitted-t-shirt/"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://ampeduplearning.com/transnational-corporations-multinationals-toyota/"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://www.homeshoppingmalls.com/mozart-demilune-console-table-butler-specialty-0667272"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://daytonamagic.com/shop/general-magic/spikes-through-glass/"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://livecarmodel.com/products/2017-ford-gt-yellow-with-black-stripe-hyper-spec-series-1-24-diecast-model-car-by-jada.html"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://www.teppermans.com/amana-30-inch-gas-range-with-self-clean-option-co-agr6603sfw"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://www.seriousshops.com/canal-cafe-venice-1500pc-jigsaw-puzzle-by-anatolian/"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://store.franklinplanner.com/century-ii-pen/"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://www.highflowfuel.com/quantum-intank-fuel-pump-for-polaris-sportsman-500-efi-2008-2014-replaces-2204308/"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://artbeads.com/jewelry-supplies/12mm-antique-copper-rivoli-cup-chain-by-foot-btf-1029/"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://www.alamomusic.com/yamaha-53-c1-grand-piano-polished-ebony/"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://www.lafurniturestore.com/1311-modern-fabric-sectional-sofa.html"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://checkout.sportsshoes.com/adidas-terrex-swift-r2-gore-tex-walking-shoes-aw20-adi12521/"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://www.dayspring.com/live-the-adventure-water-bottle-plaque-gift-set"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://palmbeachjewelry.com/products/pink-sugar-by-aquolina-for-women-eau-de-toilette-spray-3-4-oz.html"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://decoratorswarehouse.com/8-glitter-gingerbread-house-ornament/"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://www.viovet.co.uk/Supreme-Products-Stain-Remover-for-Horses/c12832/"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://www.replacements.com/china-ancestral-am-hostess-wedding-band-platinum-band-sugar-bowl-lid/p/128321"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://www.filtersfast.com/P-Swift-Green-SGF-8812x-S-Water-Filter.asp"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://thereelshot.com/a-tom-mik-captains-unrigged-trolling-flies-mirage-4-pack/"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://www.gorgeousshop.com/goldwell-dual-senses-curly-twist-detangling-conditioner-150ml.html"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://www.lightopia.com/Details/CapitalLighting-Morgan/12832"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://www.antiquefarmhouse.com/repurposed-bucket-wall-planter-set-of-2.html"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://heritagebooks.org/products/theologies-of-the-american-revivalists-from-whitefield-to-finney-caldwell.html"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://x-ph.com/bmw-additional-heater-electric-left-genuine-bmw-64116954487/"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://www.beercartel.com.au/sobremesa-no-frills-table-saison-750ml-bottle/"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://www.rcsuperstore.com/traxxas-ford-raptor-slash-xl-5-2wd-rtr-rc-truck-w-id-battery-usb-c-charger/"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://store.philamuseum.org/napkin-navy-ikat/"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://www.napacabs.com/celler-can-blau-mas-de-can-blau-montsant-red-2014-spain.html"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://eknives.com/linos-kydex-tek-lok-sheath-microtech-halo-6-vi-otf/"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://www.cassart.co.uk/daler-rowney-aquafine-round-30--c/"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://industrialladder.com/weatherguard-model-96320-3-01-composite-bulkhead-high-roof-ford-transit-header-panel-only/"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://discount-mugs.mybigcommerce.com/product/il555ds-custom-printed-12-oz-govino-dishwasher-safe-plastic-wine-cocktail-glasses/"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://www.mindgames.ca/comment-below-adult-party-game/"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://www.versare.com/wall-mounted-room-divider-360-folding-partition-14-x-610-blue-spruce-fabric/"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://beautysense.ca/en/gehwol-balance-foot-cream.html"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://www.bwear.com/b-wear-easter-grid-premium-baseball-tee-white-scuba/"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://macks-prairie-wings-inc-alb.mybigcommerce.com/pmc-556k-x-tac-5-56-nato-62-gr-lap-20-rd/"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://www.superbselection.com/doctor-who-glowing-tardis-union-jack-adult-t-shirt/"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://www.myotcstore.com/store/p/5546-Revlon-Illuminance-Creme-Quad-Eye-Shadow-Wild-Orchids-0-12-Oz-2-Ea"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://www.catwalk.com.au/keratin-cure-gold-and-honey-conditioner-post-treatment-1litre"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://supplementwarehouse.com/products/le-optimized-resveratrol-60vc"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://premierecollectibles.com/kevin-garnett-signed-big-ticket-inscription-authentic-minnesota-timberwolves-blue-throwback-mitchell-ness-basketball-jersey-beckett/"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://www.judybluewholesale.com/7851pl-emrld.html"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://cheapfood.co.uk/dolmio-creamy-sauce-for-lasagne-470g-1/"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://www.cecilandlou.com/boys/gingham-smocked-turkey-pant-set/"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://marystack.com/vespucci-fancy-raised-padded-hunter-bridle-with-reins/"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://www.coldwatercreek.com/eversoft-knit-top/23060/"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://trendytransfers.com/hotel-california-screen-print-heat-transfer/"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://www.modainpelle.com/boots-c4/mid-calf-boots-c31/fanntine-taupe-leather-p12832"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://www.pierrefabreconnect.com/p0007873-do-not-use-av-2023-solaire-beach-tote-bag"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://www.toolnut.com/dewalt-dc825ka-1-4-6-4mm-18v-cordless-xrp-impact-driver-kit.html"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://touchupdirect.com/shop/touch-up-paint/jeep-deep-beryl-green-metallic-gv-cgv/"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://www.evo.com/outlet/snowboard-bindings/head-p4-binding?image=12832/171345/head-p4-snowboard-binding-2008-.jpg"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://armament.com/mark-5-hd-7-35x56-flip-cover-with-adapter-ring-56FCR-016BK1/"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://www.seymourshome.com/boss-home-almond-flowers-flat-sheet-p12832/"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://sagaconcepts.com/upi-38510/"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://figureskatingstore.com/zuca-sport-bag-ice-dreamz-with-gift-black-pink-seat-cover-black-non-flashing-wheels-Frame/"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://mcstaging.pierrefabreconnect.com/p0007873-do-not-use-av-2023-solaire-beach-tote-bag?___store=pierrefabreconnect"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://francescas.com/product/A83916855F/franki-sleeveless-smocked-jumpsuit-for-girls"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://checkout.livesuper.com/products/mission-hydroactive-fitness-multi-cool-neck-gaiter-and-headband-one-size/"
+              },
+              {
+                "name": "Incase Hardshell Case for MacBook Pro 16” (Factory Sealed)",
+                "price": 24.99,
+                "productLink": "https://www.prioritytire.com/en/continental-sportcontact-6-305-30r19-zr-102y-xl-2018"
+              }
+            ],
+            "total": 633.73,
+            "coupon": "WTGE1VE8Y3",
+            "date_time": "2024-12-04 18:33:22.781"
+          },
+          {
+            "orderNumber": "703867",
+            "orderDate": "2024-12-04",
+            "items": [
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://www.catbirdnyc.com/ritual-solitaire-ring-diamond.html"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://www.bwear.com/plaid-leopard-sunflower-womens-short-sleeve-premium-v-neck-tee-military-green-heather/"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://www.factorydirectjewelry.com/14k-gold-scorpio-zodiac-sign-diamond-necklace/"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://apelectric.com/briggs-stratton-80022-150kw-3ph-120-240v-ng-generator/"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://www.cravenspeed.com/the-stubby-antenna-for-gmc-savana-1st-gen-bullet/"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://marystack.com/q-baby-ultimate-riding-jean-by-wrangler-dark-wash/"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://www.batteriesinaflash.com/airsoft-battery-9-6v-nimh-1600mah-butterfly-pack-mini-tamiya-retail"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://mallmusic.com.au/the-best-piano-solos-ever-2nd-edition/242928"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://premierecollectibles.com/janes-addiction-signed-drumhead-lh-ff51777/"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://www.highflowfuel.com/quantum-intank-fuel-pump-w-tank-seal-fuel-filter-kit-for-harley-davidson-flstc-heritage-softail-classic-efi-2008-2017-replaces-75284-08a/"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://strathfieldcarradios.com.au/aerpro-fp8410-d-din-facia-kit-for-holden-acadia/"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://macks-prairie-wings-inc-alb.mybigcommerce.com/yankee-hill-thread-protectors-5-8-24-720-od-silver/"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://www.homeshoppingmalls.com/boss-office-products-b330-rd-modern-office-chair-in-red"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://www.greengaskets.com/bally-gasket-61-5-8-x-83-1-2/"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://www.steeda.com/kyb-344413-superduty-excel-g-suspension"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://www.evo.com/en-ca/outlet/skis/salomon-jade-z10-ti-bindings-womens?image=11511/169889/salomon-jade-skis-salomon-z10-ti-bindings-women-s-2008-.jpg"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://ampeduplearning.com/present-simple-tense-statements-spanish-board-game/"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://jellycat-us-sandbox-1.mybigcommerce.com/bashful-luxe-bunny-pine-with-personalised-red-jumper/"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://www.utvsource.com/bell-helmets-moto-9-flex-large-husqvarna-gotland-gloss-matte-gloss-blue-hi-viz/"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://shop.naturallycurly.com/sheamoisture-jamaican-black-castor-oil-strengthen-restore-shampoo-13-oz/"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://www.misfitsmarket.com/shop/aisle?addToCart=11511"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://www.prioritytire.com/en/kumho-wintercraft-ice-wi31-185-65r15-88t-winter-tire"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://www.discounthardware.com/villar-home-designs-prefinished-natural-wood-veneer-sandy-oak-secret-wood-door-slab-with-matte-gold-inserts-30-x-92"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://www.seriouspuzzles.com/four-of-a-kind-discon-1000pc-jigsaw-puzzle-by-cobble-hill-discon/"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://www.chairish.com/product/id/11511?utm_content=Daybeds&utm_medium=text&utm_source=attentive&utm_term=11511"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://trutechtools.com/jb-ccle-a2l-60-kobra-refrigerant-hose-set/"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://dev-cart.avery.com/blank-roll-ij-matte-white-paper-2-5-w-x-3-core-x-8-od.html"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://edeninlove.com/1222"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://www.lightopia.com/Details/MadeGoods/11511"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://x-ph.com/bmw-a-c-compressor-genuine-bmw-64509174805/"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://www.dormco.com/Basic_College_Backpack_Cheap_College_Essentials_p/cc2-0-3-bp102sml-0002.htm"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://hotrodcameras.com/camera-movement/shape-vct-universal-baseplate-arri-rosette/"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://artbeads.com/jewelry-supplies/dakota-stones-matte-dog-teeth-amethyst-8mm-round-beads-r1248/"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://echoparkwholesale.com/md226005-tag-youre-it/"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://store.franklinplanner.com/fc-signature-nappa-leather-zipper-binder/"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://touchupdirect.com/shop/touch-up-paint/hummer-imperial-blue-metallic-37u-wa403p/"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://www.rcsuperstore.com/pro-line-icon-sc-tires/"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://cheapfood.co.uk/bahlsen-pick-up-milk-chocolate-4-x-28g/"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://www.zennioptical.com/p/womens-square-eyeglass-frames/11511?skuId=1151118"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://www.alamomusic.com/fender-american-ultra-jazz-bass-cobra-blue/"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://z-gallerie-home-llc-store-1.mybigcommerce.com/p-avena-burl-Wood-17-square-end-table-natural-fet16252-nat"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://thecostumeshoppe.com/elegant-moustache-mustache-3-colours/"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://discount-mugs.mybigcommerce.com/product/x10027-custom-neoprene-eyeglass-sunglass-cases/"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://bullionsharks.com/1904-20-gold-liberty-ngc-ms64-ed-moy-signed/"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://shopstarbeauty.com/sheamoisture-coconut-hibiscus-illuminating-bath-body-and-massage-oil-8oz/"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://www.judybluewholesale.com/82453reg-md-15-32.html"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://www.vitalitymedical.com/20090314-11511.html"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://www.modainpelle.com/bags-c5/tote-bags-c6/fedelebag-off-white-raffia-p11511"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://banneroftruth.org/us/store/christian-living/heaven-2/"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://www.cassart.co.uk/winsor-newton-liquin-original-medium-1-litre--c/"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://superjeweler.com/1-4ct-oval-created-ruby-mens-ring-crafted-in-solid-yellow-gold-11511.html"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://palmbeachjewelry.com/products/2-piece-3-19-tcw-round-cubic-zirconia-bridal-ring-set-in-platinum-over-sterling-silver.html"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://dailysteals.com/products/18k-gold-plated-round-and-princess-cut-stud-earring-set-2-pair-1.html"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://thereelshot.com/proking-spoons-magnum-roadkill-4-3-4/"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://cart.avery.com/blank-roll-ij-matte-white-paper-2-5-w-x-3-core-x-8-od.html"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://www.seriousshops.com/monin-classic-flavored-syrups-750-ml-glass-bottle-chocolate-white/"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://www.filtersfast.com/P-Viskon-Aire-477-014-Booth-Prefilter-Cube.asp"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://sagaconcepts.com/bas65369/"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://carewell.com/product/mustela-baby-mineral-sunscreen-spray/"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://beautysense.ca/en/olaplex-no-3-4-5-bundle.html"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://www.northernreflections.com/long-sleeve-full-zip-sweater-451451399/"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://csd.shop/products/women/clothing/james-perse-khaki-long-sleeves-boilersuit.html"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://checkout.sportsshoes.com/deuter-speed-lite-20-backpack-ss20-deu188/"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://watchwarehouse.com/longines-bella-arti-19mm-diamond-bezel-mop-dial-womens-watch-l2-501-0-83-3/"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://www.azfauxbeams.com/band-sawn-faux-wood-arched-beam/"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://francescas.com/product/U00319/spill-the-tea-cedarwood-fig-candle-12oz"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://www.famousfootwear.com/product/impo-womens-renata-wedge-sandal-5270717/black-11511"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://www.officialbandshirts.com/the-beatles-george-harrison-all-things-must-pass-t-shirt/"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://www.catwalk.com.au/bathefex-epsom-salt-soap-bar-lime-and-lemongrass"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://www.seymourshome.com/cath-kidston-paper-birds-bedding-p11511/"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://shop.loriwhitlock.com/merry-christmas-8/"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://finlandiahealthstore.com/lily-of-the-desert-aloe-vera-gelly-99-114g/"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://gagediamonds.com/bulova-42mm-phantom-crystal-black-mens-watch/"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://www.superbselection.com/family-guy-stupid-ways-to-die-t-shirt/"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://www.mindgames.ca/ty-olaf-frozen-the-snowman-medium/"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://www.macofalltrades.com/apple-macbook-pro-16-inch-2-6ghz-six-core-i7-retina-late-2019/"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://trendytransfers.com/baseball-vibes-screen-print-sample/"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://www.evo.com/outlet/skis/salomon-jade-z10-ti-bindings-womens?image=11511/169889/salomon-jade-skis-salomon-z10-ti-bindings-women-s-2008-.jpg"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://echoparkpaper.com/summer-market-tiny-flowers/"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://checkout.fascinatingdiamonds.com/loose-diamonds/0-74-carat-round-cut-diamond-1159686/"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://livecarmodel.com/products/1-43-lotus-102-no-12-belgium-gp-1990-martin-donnelly-model-car-by-spark.html"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://www.toolnut.com/stanley-bostitch-bcs1516-7-728-qty-2-leg-15-1-2-gauge-1-2-crown-hardwood-flooring-staples.html"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://decoratorswarehouse.com/22-mixed-flower-wreath-red-white-blue/"
+              },
+              {
+                "name": "Apple MacBook Pro 16-inch 2.6GHz Six-core i7 (Retina, Late 2019)",
+                "price": 618.74,
+                "productLink": "https://www.beercartel.com.au/hope-passionfruit-sour-375ml-can/"
+              }
+            ],
+            "total": 633.73,
+            "coupon": "WTGE1VE8Y3",
+            "date_time": "2024-12-04 18:33:22.779"
+          }
+        ]
+      },
+      "escalation_preferences": [
+        "Esc if cm threatens with bad review/legal"
+      ],
+      "blocklisted_words": [],
+      "has_shopify": false
+    },
+    "4": {
+      "id": "019c595f-8c60-47fe-f000-0000faa650bf",
+      "companyName": "The Art of Shaving",
+      "companyWebsite": "https://theartofshaving.com",
+      "agentName": "John",
+      "messageTone": "Polished",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "The Art of Shaving: Welcome! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
+          "message_type": "system",
+          "date_time": "2026-02-12 08:28:57.858"
+        },
+        {
+          "message_media": [],
+          "message_text": "The Art of Shaving: Welcome to the ultimate grooming experience! Use code A6E2I3O6 for 50% off Perfect Shave Sampler. Shop Now: ",
+          "message_type": "system",
+          "date_time": "2026-02-12 08:29:01.919"
+        },
+        {
+          "message_media": [],
+          "message_text": "The Art of Shaving: Don't forget to save our contact for exclusive deals and updates!",
+          "message_type": "system",
+          "date_time": "2026-02-12 08:29:04.161"
+        },
+        {
+          "message_media": [],
+          "message_text": "The Art of Shaving: Hey I'm John! Get a personalized shave consultation and discover products just for you: https://aos.attn.tv/a3QB1vPZUj5Y .\n\nText me with questions!",
+          "message_type": "system",
+          "date_time": "2026-02-13 16:29:08.979"
+        },
+        {
+          "message_media": [],
+          "message_text": "Hello Jon, I do have a I signed up on the art of shaving and they sent me a code and said it was good for 50% off some kind of an introductory offer website, put it in my cart put in the code and it says it's invalid so it's just just a gimmick or am I doing something wrong?",
+          "message_type": "customer",
+          "date_time": "2026-02-13 16:31:44.907"
+        },
+        {
+          "message_media": [],
+          "message_text": "The Art of Shaving: I'm sorry about that! Can you please share a screenshot of the items in your cart so I can check for you?",
+          "message_type": "agent",
+          "agent": "33953",
+          "message_id": "019c590c-2e11-484b-f000-0000faa650bf",
+          "date_time": "2026-02-13 17:08:16.431"
+        },
+        {
+          "message_media": [],
+          "message_text": "The Art of Shaving: Thanks for sharing the code. Can you also send a screenshot of your cart so I can check? Please note that discounts can't be combined with other promotions.",
+          "message_type": "agent",
+          "agent": "109972",
+          "message_id": "019c595f-8c60-47fe-f000-0000faa650bf",
+          "date_time": "2026-02-13 18:39:20.073"
+        }
+      ],
+      "notes": {
+        "send_to_cs": [
+          "Send to CS if cx wants us to place order for them, use CS shortcut"
+        ],
+        "templates": [
+          "For adverse events or product quality complaints, use PS shortcut"
+        ],
+        "tone": [
+          "Ensure the word \"staging\" isn't in any link you send"
+        ]
+      },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://theartofshaving.com",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "Essential Starter Set Sandalwood",
+            "link": "https://www.theartofshaving.com/products/all/essential-starter-set-sandalwood/",
+            "timeAgo": "2026-02-13"
+          },
+          {
+            "item": "Sandalwood Full Size Kit",
+            "link": "https://www.theartofshaving.com/products/gifts-kits/sandalwood-full-size-kit/",
+            "timeAgo": "2026-02-12"
+          },
+          {
+            "item": "Sandalwood Full Size Kit",
+            "link": "https://www.theartofshaving.com/products/gifts-kits/sandalwood-full-size-kit/",
+            "timeAgo": "2026-02-12"
+          },
+          {
+            "item": "The Perfect Shave Sampler - Sandalwood",
+            "link": "https://www.theartofshaving.com/products/gifts-kits/the-perfect-shave-sampler-sandalwood-1/?utm_campaign=Welcome!%20Enjoy%2050%25%20off%20your%20Perfect%20Shave%20Sampler!%20&utm_source=50-off-sampler-1&utm_medium=email",
+            "timeAgo": "2026-02-12"
+          },
+          {
+            "item": "The Perfect Shave Sampler - Sandalwood",
+            "link": "https://www.theartofshaving.com/products/gifts-kits/the-perfect-shave-sampler-sandalwood-1/?utm_campaign=Welcome!%20Enjoy%2050%25%20off%20your%20Perfect%20Shave%20Sampler!%20&utm_source=50-off-sampler-1&utm_medium=email",
+            "timeAgo": "2026-02-12"
+          }
+        ]
+      },
+      "escalation_preferences": [
+        "Adverse Events",
+        "Product Quality Complaints"
+      ],
+      "blocklisted_words": [],
+      "has_shopify": false
+    },
+    "5": {
+      "id": "019c49b9-b21a-4b23-f000-00000b6a5a4c",
+      "companyName": "Kathy Kuo Home",
+      "companyWebsite": "https://kathykuohome.com",
+      "agentName": "Sarah",
+      "messageTone": "Polished",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Reminder! Get our Amaris Updated Traditional White Curved Glass 13 Light Chandelier while it's in stock! \n\nMake the design magic happen: https://kathykuohome.attn.tv/aJNlPVEeD_-- .",
+          "message_type": "system",
+          "date_time": "2026-01-12 08:43:12.315"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Don't forget our Dresden French Country Antique White Fir Wood Arched Wall Mirror was lowered in price for a limited time only! Shop the savings: kathykuohome.attn.tv/aAmTp2bXgGD6",
+          "message_type": "system",
+          "date_time": "2026-01-12 14:41:51.454"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Winter Sale starts now! Thoughtfully designed pieces to cozy up your home, on sale for a limited time only: kathykuohome.attn.tv/aC6F3gDpA1yd . ",
+          "message_type": "system",
+          "date_time": "2026-01-13 12:06:32.061"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Got your eye on this? We love it too! Shop the perfect piece for your home: kathykuohome.attn.tv/a_YQL8C4fmsT .",
+          "message_type": "system",
+          "date_time": "2026-01-13 13:57:14.156"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Great news! We dropped the price on our Huxley Turmeric Velvet Eyelash Trim Throw Pillow - 22x22! Get the look you love before it goes: kathykuohome.attn.tv/aD84gUEYRkxN .",
+          "message_type": "system",
+          "date_time": "2026-01-14 08:23:35.874"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Amazing news! The Frost White Bird Chandelier - 30.75D you were looking at is back in stock! \n\nShop now before this designer favorite sells out again: https://kathykuohome.attn.tv/aa_d51-gve-4 .",
+          "message_type": "system",
+          "date_time": "2026-01-14 08:29:44.032"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Hey there, your great picks are waiting! Use code KKHSHIP15 for 15% off + free shipping. Finish your order here: kathykuohome.attn.tv/aKWSmCMBxflp . ",
+          "message_type": "system",
+          "date_time": "2026-01-14 10:42:03.861"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Reminder! Get our Frost White Bird Chandelier - 30.75D while it's in stock! \n\nMake the design magic happen: https://kathykuohome.attn.tv/azoHVVuirXFI .",
+          "message_type": "system",
+          "date_time": "2026-01-15 08:29:46.553"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Don't forget our Huxley Turmeric Velvet Eyelash Trim Throw Pillow - 22x22 was lowered in price for a limited time only! Shop the savings: kathykuohome.attn.tv/a-Q-YxFPhYTg",
+          "message_type": "system",
+          "date_time": "2026-01-15 15:24:21.604"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Cozy in and save! Our Winter Sale is on all weekend with your favorite furniture, lighting and decor: kathykuohome.attn.tv/aLZcEc6cyk10 . ",
+          "message_type": "system",
+          "date_time": "2026-01-17 14:01:49.591"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Got your eye on this? We love it too! Shop the perfect piece for your home: kathykuohome.attn.tv/aLxoXeMwsAml .",
+          "message_type": "system",
+          "date_time": "2026-01-17 19:21:20.523"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Our Winter Sale is officially here! 20% Off + Free Shipping on timeless pieces to refresh for the year ahead: kathykuohome.attn.tv/aHT_3AfKSRL_ . ",
+          "message_type": "system",
+          "date_time": "2026-01-19 12:07:23.751"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Still looking? Our Winter Sale ends soon. Don't miss out on 20% Off furniture, decor and more: kathykuohome.attn.tv/atwSLsLdGYcW . ",
+          "message_type": "system",
+          "date_time": "2026-01-19 19:00:42.976"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: You still have time to save! 20% Off in-stock styles, custom pieces, and more cozy designer looks for your home: kathykuohome.attn.tv/axUxq4VGmj9W . ",
+          "message_type": "system",
+          "date_time": "2026-01-20 13:01:21.595"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Got your eye on this? We love it too! Shop the perfect piece for your home: kathykuohome.attn.tv/aN2MZWFJlCHA .",
+          "message_type": "system",
+          "date_time": "2026-01-20 17:42:16.488"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Amazing news! The Ari Frost White Resin End Table you were looking at is back in stock! \n\nShop now before this designer favorite sells out again: https://kathykuohome.attn.tv/aDLBddQOlOmw .",
+          "message_type": "system",
+          "date_time": "2026-01-21 08:15:20.445"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Hi, I'm Sarah, your personal shopper for Kathy Kuo Home. Do you need help finding that perfect piece? \n\nhttps://kathykuohome.attn.tv/aZ4gxcjq1mQZ .",
+          "message_type": "system",
+          "date_time": "2026-01-21 16:19:48.443"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Shopping our Winter Sale? Final hours end tonight! Don't miss special savings on timeless furniture and decor: kathykuohome.attn.tv/a25lCkaf8gr3 ",
+          "message_type": "system",
+          "date_time": "2026-01-21 19:00:51.616"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Reminder! Get our Ari Frost White Resin End Table while it's in stock! \n\nMake the design magic happen: https://kathykuohome.attn.tv/ad8StRZjlC2i .",
+          "message_type": "system",
+          "date_time": "2026-01-22 08:15:26.785"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: We wanted to let you know that the Xavier Modern Cream Fleece Bronze Metal Canopy Bed - King you were looking at is almost sold out! Grab it before it is too late: kathykuohome.attn.tv/aKPe57CHqXLd .",
+          "message_type": "system",
+          "date_time": "2026-01-22 08:29:12.546"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Hey there, this is Sarah. Thanks for checking out our site! https://kathykuohome.attn.tv/ajkkhRBN4jWc . Are you working on a home design project we can help you with?",
+          "message_type": "system",
+          "date_time": "2026-01-22 15:55:46.353"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Thank you for shopping with us again! Remember our team is here for anything you may need, from shipping updates to interior design services. Just text us!\n\nVisit us again to explore our latest looks: https://kathykuohome.attn.tv/aiP6oPaoPBp4 .",
+          "message_type": "system",
+          "date_time": "2026-01-22 16:50:34.905"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: A room starts with walls. Our all-new wallpaper collection brings depth, history, and intention to every space: kathykuohome.attn.tv/a4M4hLLgT8ZK . ",
+          "message_type": "system",
+          "date_time": "2026-01-23 15:35:29.310"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Hey there! Just letting you know we offer interior design services guaranteed to bring your dream home to life with comfort, grace and style.\n\nSchedule a FREE consult today: https://kathykuohome.attn.tv/arPtyRkgYlTp .",
+          "message_type": "system",
+          "date_time": "2026-01-23 16:50:41.349"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Amazing news! The Ailani French Country Blue Reclaimed Pine Wood 3 Drawer Dresser you were looking at is back in stock! \n\nShop now before this designer favorite sells out again: https://kathykuohome.attn.tv/aCcqFmmuceLt .",
+          "message_type": "system",
+          "date_time": "2026-01-24 08:19:41.529"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Need that finishing touch? Enjoy $100 OFF most items of $500 or more with code TAKE100: https://kathykuohome.attn.tv/amCpnCBu0s_3 .\nExclusions apply.",
+          "message_type": "system",
+          "date_time": "2026-01-24 16:50:43.803"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Reminder! Get our Ailani French Country Blue Reclaimed Pine Wood 3 Drawer Dresser while it's in stock! \n\nMake the design magic happen: https://kathykuohome.attn.tv/aUMtUZFQcESe .",
+          "message_type": "system",
+          "date_time": "2026-01-25 08:19:46.133"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: We wanted to let you know that the Sian Coastal Beach Natural Solid Jute Rug - 5'x8' you were looking at is almost sold out! Grab it before it is too late: kathykuohome.attn.tv/a56OplmkmqGF .",
+          "message_type": "system",
+          "date_time": "2026-01-25 08:30:49.464"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Got your eye on this? We love it too! Shop the perfect piece for your home: kathykuohome.attn.tv/aMtL9Up3L0pD .",
+          "message_type": "system",
+          "date_time": "2026-01-25 12:16:02.049"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Reminder! Only a few of our Sian Coastal Beach Natural Solid Jute Rug - 5'x8' are left! Shop before it's gone: kathykuohome.attn.tv/awlHNLbZEzem . ",
+          "message_type": "system",
+          "date_time": "2026-01-26 08:53:37.328"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Hey there, your great picks are waiting! Use code KKHSHIP15 for 15% off + free shipping. Finish your order here: kathykuohome.attn.tv/aojZBf6knDMC . ",
+          "message_type": "system",
+          "date_time": "2026-01-26 09:43:56.587"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Insiders only! Enjoy 20% Off + Free Standard Shipping on styles you love with code JAN26: kathykuohome.attn.tv/am3TZoJv_N21 \n\nExclusions apply. ",
+          "message_type": "system",
+          "date_time": "2026-01-26 12:30:43.825"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Great news! We dropped the price on our Palecek Selita Coastal Beach Cream Coco Beads Oval Chandelier! Get the look you love before it goes: kathykuohome.attn.tv/aKOnW2Nbu3El .",
+          "message_type": "system",
+          "date_time": "2026-01-27 10:02:17.247"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Amazing news! The Palecek Virginia Coastal Beach White Fiberglass Floral 3 Tier Chandelier you were looking at is back in stock! \n\nShop now before this designer favorite sells out again: https://kathykuohome.attn.tv/a1PwpAUIdv2o .",
+          "message_type": "system",
+          "date_time": "2026-01-27 10:03:44.602"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Got your eye on this? We love it too! Shop the perfect piece for your home: kathykuohome.attn.tv/aF2VfVDju4LW .",
+          "message_type": "system",
+          "date_time": "2026-01-27 14:27:34.295"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: We wanted to let you know that the Sian Coastal Beach Natural Solid Jute Rug - 5'x8' you were looking at is almost sold out! Grab it before it is too late: kathykuohome.attn.tv/aoxJZOli88sx .",
+          "message_type": "system",
+          "date_time": "2026-01-28 08:33:59.545"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Don't forget our Palecek Selita Coastal Beach Cream Coco Beads Oval Chandelier was lowered in price for a limited time only! Shop the savings: kathykuohome.attn.tv/afWiVu3Wl4ZY",
+          "message_type": "system",
+          "date_time": "2026-01-28 16:02:30.603"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Final hours! 20% off + FREE shipping with code JAN26 ends tonight. Last chance to make it yours: kathykuohome.attn.tv/aGUCkx9PPdAS . ",
+          "message_type": "system",
+          "date_time": "2026-01-28 19:00:36.681"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Reminder! Only a few of our Sian Coastal Beach Natural Solid Jute Rug - 5'x8' are left! Shop before it's gone: kathykuohome.attn.tv/akPbi-tYgIfW . ",
+          "message_type": "system",
+          "date_time": "2026-01-29 08:57:29.649"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Got your eye on this? We love it too! Shop the perfect piece for your home: kathykuohome.attn.tv/aK43Y1xlbTJl .",
+          "message_type": "system",
+          "date_time": "2026-01-29 14:28:05.707"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Hey, this is Sarah! I wanted to thank you for your recent order. If there's anything else you have your eye on, text me back for 15% OFF!",
+          "message_type": "system",
+          "date_time": "2026-01-31 16:50:48.544"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Hey there, this is Sarah. Thanks for checking out our site! https://kathykuohome.attn.tv/a5eWfbIuaGpT . Are you working on a home design project we can help you with?",
+          "message_type": "system",
+          "date_time": "2026-02-02 12:24:19.265"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Got your eye on this? We love it too! Shop the perfect piece for your home: kathykuohome.attn.tv/ase6boKuAOOt .",
+          "message_type": "system",
+          "date_time": "2026-02-02 14:23:04.637"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Amazing news! The Matthew Modern Classic Brown Oak Media Console - 94\" you were looking at is back in stock! \n\nShop now before this designer favorite sells out again: https://kathykuohome.attn.tv/a9U6vHLxf_AW .",
+          "message_type": "system",
+          "date_time": "2026-02-03 08:31:09.224"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Hi, I'm Sarah, your personal shopper for Kathy Kuo Home. Do you need help finding that perfect piece? \n\nhttps://kathykuohome.attn.tv/a3tuAjkEQPoG .",
+          "message_type": "system",
+          "date_time": "2026-02-03 16:56:31.976"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Great news! We dropped the price on our Lottie French Country Blue Floral Patterned Rug - 4'x5'2\"! Get the look you love before it goes: kathykuohome.attn.tv/awjYG4wWW4i_ .",
+          "message_type": "system",
+          "date_time": "2026-02-04 08:24:09.786"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Hey there, the piece you loved is waiting! Use code ALMOSTHOME for 15% Off + Free Shipping when you finish your order: kathykuohome.attn.tv/a1cQovcXQo4f . ",
+          "message_type": "system",
+          "date_time": "2026-02-04 14:45:10.236"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Don't forget our Lottie French Country Blue Floral Patterned Rug - 4'x5'2\" was lowered in price for a limited time only! Shop the savings: kathykuohome.attn.tv/aEgqWCdtyF6j",
+          "message_type": "system",
+          "date_time": "2026-02-05 14:57:55.659"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Great news! We dropped the price on our Cameron Modern Classic Off White Performance Metal Canopy Bed - King! Get the look you love before it goes: kathykuohome.attn.tv/ahTFAfFNrlmy .",
+          "message_type": "system",
+          "date_time": "2026-02-06 08:31:54.036"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Amazing news! The Stella Coastal Beach Natural Teak Wood Root Console Table - 98\" you were looking at is back in stock! \n\nShop now before this designer favorite sells out again: https://kathykuohome.attn.tv/arTl9a3mgZoW .",
+          "message_type": "system",
+          "date_time": "2026-02-06 08:47:04.095"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Reminder! Get our Stella Coastal Beach Natural Teak Wood Root Console Table - 98\" while it's in stock! \n\nMake the design magic happen: https://kathykuohome.attn.tv/aV9M7Iz5NzM4 .",
+          "message_type": "system",
+          "date_time": "2026-02-07 08:47:08.287"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Got your eye on this? We love it too! Shop the perfect piece for your home: kathykuohome.attn.tv/aLbXZNVQyf4k .",
+          "message_type": "system",
+          "date_time": "2026-02-07 12:30:39.190"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Don't forget our Cameron Modern Classic Off White Performance Metal Canopy Bed - King was lowered in price for a limited time only! Shop the savings: kathykuohome.attn.tv/ayN44brvRcDA",
+          "message_type": "system",
+          "date_time": "2026-02-07 14:32:10.700"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Great news! We dropped the price on our Rumi Coastal Beach Cream Performance Beige Wood Frame Rope Bedroom Bench! Get the look you love before it goes: kathykuohome.attn.tv/afwQ1TZyuE61 .",
+          "message_type": "system",
+          "date_time": "2026-02-08 08:52:14.469"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: President's Day deals are here early! Up to 25% Off + Free Shipping on statement styles for a spring refresh: kathykuohome.attn.tv/adYbw9Pmag3x . ",
+          "message_type": "system",
+          "date_time": "2026-02-09 12:15:32.391"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Don't forget our Rumi Coastal Beach Cream Performance Beige Wood Frame Rope Bedroom Bench was lowered in price for a limited time only! Shop the savings: kathykuohome.attn.tv/abqwI-oeFTXB",
+          "message_type": "system",
+          "date_time": "2026-02-09 14:52:29.896"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Hey there, this is Sarah. Thanks for checking out our site! https://kathykuohome.attn.tv/aBOpri45QAWr . Are you working on a home design project we can help you with?",
+          "message_type": "system",
+          "date_time": "2026-02-09 15:28:51.673"
+        },
+        {
+          "message_media": [],
+          "message_text": "Thank you,This is Nancy Ciralsky and I am a Trade member.I just received 2 Henri cloud slipcovered sofas and the slipcover seems too large for the frame.  There is overlap across the front.It's not rightOne is worse than the otherWhat should I do to correct?",
+          "message_type": "customer",
+          "date_time": "2026-02-09 16:42:43.209"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: I'm sorry to hear that! Let me raise this with the team. Can you please send me a photo of the items that you received, along with your order number and email address? ",
+          "message_type": "agent",
+          "agent": "50269",
+          "message_id": "019c4461-08c2-41d4-f000-00000b6a5a4c",
+          "date_time": "2026-02-09 16:48:55.911"
+        },
+        {
+          "message_media": [],
+          "message_text": "Of course I'll be home sometime tomorrow so I'll send pics etc then Thank youNancy Ciralsky",
+          "message_type": "customer",
+          "date_time": "2026-02-09 17:14:29.959"
+        },
+        {
+          "message_media": [
+            "https://attentive-files.s3.amazonaws.com/receive-event-media/1770745178715_5161a2f8-6d8a-43cf-8f7b-d62a35da38f5-1.jpeg",
+            "https://attentive-files.s3.amazonaws.com/receive-event-media/1770745178715_5161a2f8-6d8a-43cf-8f7b-d62a35da38f5-1.jpeg"
+          ],
+          "message_text": "I included picture of what I ordered and then rest are what I received.\r\nThere's even a small spot on none of the skirts.",
+          "message_type": "customer",
+          "date_time": "2026-02-10 12:39:45.316"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Thank you for sending that over. May I please have your order number and email address as well so that I can check this with the team? Please let me know, I'm here to assist you. ",
+          "message_type": "agent",
+          "agent": "87300",
+          "message_id": "019c48a3-f6e2-4c03-f000-00000b6a5a4c",
+          "date_time": "2026-02-10 12:40:31.098"
+        },
+        {
+          "message_media": [],
+          "message_text": "Thank youI'll send right away",
+          "message_type": "customer",
+          "date_time": "2026-02-10 12:41:15.104"
+        },
+        {
+          "message_media": [
+            "https://attentive-files.s3.amazonaws.com/receive-event-media/1770745518549_7d7f362e-6577-4f79-8e43-80ef5a2f8839-1.png"
+          ],
+          "message_text": "nciralsky@gmail.com",
+          "message_type": "customer",
+          "date_time": "2026-02-10 12:45:25.409"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: Thanks for sending that in! May I please have the order number as well? I'm here to help you. ",
+          "message_type": "agent",
+          "agent": "87300",
+          "message_id": "019c48ac-358f-4f9d-f000-00000b6a5a4c",
+          "date_time": "2026-02-10 12:49:31.434"
+        },
+        {
+          "message_media": [],
+          "message_text": "Sorry",
+          "message_type": "customer",
+          "date_time": "2026-02-10 13:01:52.057"
+        },
+        {
+          "message_media": [],
+          "message_text": "I just saw that this never came through Sorry",
+          "message_type": "customer",
+          "date_time": "2026-02-10 17:41:11.891"
+        },
+        {
+          "message_media": [],
+          "message_text": "voc: This is Nancy Ciralsky and I am a Trade member.I just received 2 Henri cloud slipcovered sofas and the slipcover seems too large for the frame. There is overlap across the front.It's not rightOne is worse than the otherWhat should I do to correct? | nciralsky@gmail.com, SR5023079",
+          "message_type": "escalation",
+          "date_time": "2026-02-10 17:43:49.658"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"Pass to the team - All brands\"; last updated: 2023-10-10 17:46:43.559",
+          "message_type": "template",
+          "date_time": "2026-02-10 17:43:52.504"
+        },
+        {
+          "message_media": [],
+          "message_text": "Kathy Kuo: No worries, I got you! Thanks for the info. I will pass this along to my team and get back to you as soon as possible.",
+          "message_type": "agent",
+          "agent": "109630",
+          "message_id": "019c49b9-b21a-4b23-f000-00000b6a5a4c",
+          "date_time": "2026-02-10 17:43:52.506"
+        }
+      ],
+      "notes": {
+        "escalate": [
+          "Esc inquiries about items not on the site",
+          "ESC if the cx missed a sale & wants to take advantage of it",
+          "ESC if the customer is asking for a discount and we don't have one",
+          "If cx is looking for general recommendations use LFR shortcut and ESC"
+        ],
+        "templates": [
+          "If cx is building a new home, interested in refurnishing their entire home or rooms in their home, use the IDS shortcut",
+          "If cx is shopping for a client use SFC shortcut",
+          "Any convo without a positive outcome (out of stock, not on sale, not shipping in time), use DSS shortcut"
+        ],
+        "dos_and_don_ts": [
+          "For product-specific delivery time-frame inquiries always check the product page for delivery info and share that with the cx"
+        ]
+      },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://kathykuohome.com",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "Henri Cloud Slipcovered Sofa - 90",
+            "link": "https://www.kathykuohome.com/Product/Upholstery/152895-Henri-Cloud-Slipcovered-Sofa",
+            "timeAgo": "2026-02-09"
+          },
+          {
+            "item": "Henri Cloud Slipcovered Loveseat - 72",
+            "link": "https://www.kathykuohome.com/Product/Upholstery/152864-Henri-Cloud-Slipcovered-Loveseat",
+            "timeAgo": "2026-02-09"
+          },
+          {
+            "item": "Frost White Bird Chandelier - 30.75D",
+            "link": "https://www.kathykuohome.com/Product/Detail/23185-Frost-White-Bird-Chandelier-D",
+            "timeAgo": "2026-02-09"
+          },
+          {
+            "item": "Muriel Clear Resin Bubbled Chandelier",
+            "link": "https://www.kathykuohome.com/Product/Detail/26672-Muriel-Clear-Resin-Bubbled-Chandelier",
+            "timeAgo": "2026-02-09"
+          },
+          {
+            "item": "Mixer Industrial White Glass Polished Nickel Steel Flush Mount",
+            "link": "https://www.kathykuohome.com/Product/Detail/110430-Mixer-Industrial-White-Glass-Polished-Nickel-Steel-Flush-Mount",
+            "timeAgo": "2026-02-09"
+          }
+        ]
+      },
+      "escalation_preferences": [
+        "Shipping questions",
+        "Discount code errors",
+        "Exchanges and returns",
+        "Lead time questions",
+        "Stock questions",
+        "Price matching",
+        "Angry or dissatisfied customer"
+      ],
       "blocklisted_words": [],
       "has_shopify": false
     }

@@ -3,583 +3,975 @@
   "chunk": "chunk_0019",
   "scenarios": {
     "91": {
-      "id": "019c53ec-a14f-494a-f000-0000f4643d34",
-      "companyName": "Steve Madden",
-      "companyWebsite": "https://stevemadden.com",
-      "agentName": "Allie",
+      "id": "019c4eea-b7b2-4346-f000-0000eb570d58",
+      "companyName": "Comfrt",
+      "companyWebsite": "https://comfrt.com",
+      "agentName": "Samantha",
       "messageTone": "Polished",
       "conversation": [
         {
           "message_media": [],
-          "message_text": "Steve Madden: Welcome! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel. Privacy: attnl.tv/p/EyJ",
+          "message_text": "Comfrt: First look: Petal Pink Camo Collection\n\nWe're so excited to share this NEW standout pattern in 5 styles.\n\nEnjoy first access: comfrt.attn.tv/aFrfCslVaroA",
           "message_type": "system",
-          "date_time": "2026-01-16 16:23:04.775"
+          "date_time": "2026-01-13 12:16:31.557"
         },
         {
           "message_media": [],
-          "message_text": "Steve Madden: Welcome to Steve Madden! The holiday season is here, and it's not too late to get ready.\n\nEnjoy an exclusive 20% off ANY style, no exclusions, when you click here: http://stevemadden.io/aV4q6PKqumNJ \n\nWe love a justified purchase.",
+          "message_text": "Comfrt: Welcome offer expires tonight! Our top-sellers are almost gone... \n\nDon't miss out: comfrt.attn.tv/absxtUVTcL_d",
           "message_type": "system",
-          "date_time": "2026-01-16 16:23:09.247"
+          "date_time": "2026-01-14 15:32:02.923"
         },
         {
           "message_media": [],
-          "message_text": "Steve Madden: Oh, also, a lot of people like getting personal recs from us. Over the next few days we'll try to help you find something that you will love.\n\nNeed help finding your sole-mate? Check out what's new this month to find the perfect style for this season > http://stevemadden.io/apddtsrABshi .",
+          "message_text": "Comfrt: You are already subscribed. Click here to shop now: comfrt.com.",
           "message_type": "system",
-          "date_time": "2026-01-16 16:24:12.851"
+          "date_time": "2026-01-16 00:52:43.977"
         },
         {
           "message_media": [],
-          "message_text": "Steve Madden: Larina Red Satin and Berkleigh Black are waiting in your cart.\n\nUse code SMSYSeqQc for 20% off your items.\n\nDiscover more: http://stevemadden.io/aB2dBlj0oTgZ .",
+          "message_text": "Comfrt: Something sweet is in the air.\n\nOur Valentine's Day Gift Guide is live, and it's made for every kind of love.\n\nShop now:\ncomfrt.attn.tv/a4ObHN-d7GVu ",
           "message_type": "system",
-          "date_time": "2026-01-16 16:43:09.389"
+          "date_time": "2026-01-16 15:25:44.902"
         },
         {
           "message_media": [],
-          "message_text": "Steve Madden: 465 people recently purchased Larina Satin Pump Heel; complete your order before it disappears! 🔥\n\nUSE code SMSYSeqQc for 20% off, plus free shipping on orders $50+ and hassle-free returns within 30 days: http://stevemadden.io/aC71X-auEWvb .",
+          "message_text": "Comfrt: Winter storm? We've got you covered.\n\nShop up to 70% off sitewide on the coziest essentials.\n\nShop now: comfrt.attn.tv/a8i1qpThOOqr ",
           "message_type": "system",
-          "date_time": "2026-01-17 16:43:21.870"
+          "date_time": "2026-01-23 16:36:50.597"
         },
         {
           "message_media": [],
-          "message_text": "Steve Madden: Almost Gone: Up To 70% Off! Hurry, before it's too late: http://stevemadden.io/a0zEJgq5PXyE .",
+          "message_text": "Comfrt: You've got great taste and your pick is going fast.\n\nMake it yours before it's gone: comfrt.attn.tv/a6GMQ3blXa0R\n",
           "message_type": "system",
-          "date_time": "2026-01-19 09:21:54.627"
+          "date_time": "2026-01-25 16:29:08.385"
         },
         {
           "message_media": [],
-          "message_text": "Steve Madden: LAST CALL: Up To 70% Off. Don't miss your moment. http://stevemadden.io/a_Jc2AlMNWg3 .",
+          "message_text": "Comfrt: Made to move with you.\n\nComing 1.28. \n\nShop your favorites while you wait: comfrt.attn.tv/aXsgJ-2yrZrI ",
           "message_type": "system",
-          "date_time": "2026-01-19 19:25:19.037"
+          "date_time": "2026-01-26 19:29:53.637"
         },
         {
           "message_media": [],
-          "message_text": "Steve Madden: Being your own valentine is sooo in. Take it from JaNa Craig. Her Valentine's Day collection is out now: http://stevemadden.io/a3jRyrReXFUV .",
+          "message_text": "Comfrt: JUST DROPPED\n\nDesigned to move with you. Made to feel like you.\n\nIntroducing ComfrtCoreTM. Created for your body and mind.\n\nMove your way:\ncomfrt.attn.tv/akVyxWWp-f_n",
           "message_type": "system",
-          "date_time": "2026-01-20 19:37:08.532"
+          "date_time": "2026-01-28 15:16:35.409"
         },
         {
           "message_media": [],
-          "message_text": "Steve Madden: Avoid the FOMO...LARINA RED SATIN - RED SATIN / 7.5 / 728 is almost sold out.\nGet yours now before it's gone for good!\nhttp://stevemadden.io/astPF2PLUSom ",
+          "message_text": "Comfrt: The finishing touch. \n\nThe NEW Basic Crop Zip Hoodie is the perfect layer for your ComfrtCoreTM sets. \n\nLightweight, cropped, and ready for your life in motion.\n\nComplete the look:\ncomfrt.attn.tv/azOykHl36gQ2",
           "message_type": "system",
-          "date_time": "2026-01-22 13:55:51.327"
+          "date_time": "2026-01-30 17:03:16.459"
         },
         {
           "message_media": [],
-          "message_text": "Steve Madden: Turn it up this V-Day (or any day for that matter). Hot heels incoming... http://stevemadden.io/a0l2529GnCIk .",
+          "message_text": "Comfrt: You reached the finish line. January is over and the weekend is here!\n\nReward yourself with the NEW Basic Quarter Zip.\n\nGrab your go-to:\ncomfrt.attn.tv/agtrZd92buvW",
           "message_type": "system",
-          "date_time": "2026-01-22 19:10:59.033"
+          "date_time": "2026-01-31 21:08:12.236"
         },
         {
           "message_media": [],
-          "message_text": "Steve Madden: These just-dropped styles might be our favorite yet. \nWe picked out a few for you in your size. >\nhttp://stevemadden.io/abjW5vml6Kdo ",
+          "message_text": "Comfrt: Whether your team wins or loses, your outfit shouldn't. \n\nFinal score: You look great.\n\nGrab your game day set:\ncomfrt.attn.tv/aFNbMM6rmNf0",
           "message_type": "system",
-          "date_time": "2026-01-24 19:35:16.390"
+          "date_time": "2026-02-01 15:02:44.359"
         },
         {
           "message_media": [],
-          "message_text": "Steve Madden: Today's forecast: dramatic. And we've got just the thing...\nhttp://stevemadden.io/aiesYZpBPH48 .",
+          "message_text": "Comfrt: Hi Denise, saw you stopped by!\n\nWe have a feeling you'll love more Comfrt. \n\nCome back and see all of our latest arrivals: comfrt.attn.tv/ah0ItCtigSjv ",
           "message_type": "system",
-          "date_time": "2026-01-25 08:13:30.277"
+          "date_time": "2026-02-11 15:20:43.210"
         },
         {
           "message_media": [],
-          "message_text": "Steve Madden: Trapped inside? Perfect. You've got time to see what's new. http://stevemadden.io/aPS8nBS5Dq1e .",
-          "message_type": "system",
-          "date_time": "2026-01-26 08:09:26.245"
-        },
-        {
-          "message_media": [],
-          "message_text": "Steve Madden: Shoveling through the week? These styles bring the heat... http://stevemadden.io/aOFbq-d2tpqa .",
-          "message_type": "system",
-          "date_time": "2026-01-27 08:07:00.570"
-        },
-        {
-          "message_media": [],
-          "message_text": "Steve Madden: Hey — thanks for stopping by!\n\nYour next pair is here: http://stevemadden.io/aUSkfT72CVPc . 🔥 BUY NOW",
-          "message_type": "system",
-          "date_time": "2026-01-29 10:15:23.633"
-        },
-        {
-          "message_media": [],
-          "message_text": "Steve Madden: Roses are red...so are these shoes. We're bringing the heat just in time for Valentine's day. http://stevemadden.io/auV0Qf1Poe4O .",
-          "message_type": "system",
-          "date_time": "2026-01-30 12:16:11.858"
-        },
-        {
-          "message_media": [],
-          "message_text": "Steve Madden: Ballet is back! It's time to channel your inner prima. Take these styles for a twirl... http://stevemadden.io/apBmkXA4fzJJ .",
-          "message_type": "system",
-          "date_time": "2026-02-01 08:06:13.490"
-        },
-        {
-          "message_media": [],
-          "message_text": "Steve Madden: Your split-toe moment is here. The new silhouette you've been seeing all over your feed. Discover tabi now: http://stevemadden.io/a4XeJD7x3uZV .",
-          "message_type": "system",
-          "date_time": "2026-02-05 19:25:46.630"
-        },
-        {
-          "message_media": [],
-          "message_text": "Steve Madden: Spring is closer than it feels. Consider this your warm-up... http://stevemadden.io/axQ_VIA1wmXc .",
-          "message_type": "system",
-          "date_time": "2026-02-07 12:06:48.011"
-        },
-        {
-          "message_media": [],
-          "message_text": "Steve Madden: Warm weather? Ready when you are! Check out what just dropped. http://stevemadden.io/a8W38LvCZd-3 .",
-          "message_type": "system",
-          "date_time": "2026-02-09 19:41:33.854"
-        },
-        {
-          "message_media": [],
-          "message_text": "Steve Madden: You are already subscribed. Click here to shop now: stevemadden.com.",
-          "message_type": "system",
-          "date_time": "2026-02-10 05:05:40.255"
-        },
-        {
-          "message_media": [],
-          "message_text": "Steve Madden: Grab the Berkleigh Square Toe Knee Boot — sleek square toe and platform block heel ready for fall.\n\nOver 20K people have recently viewed this boot.\n\nShop now: http://stevemadden.io/aPbFfRN3jLk8 .",
-          "message_type": "system",
-          "date_time": "2026-02-10 10:16:15.548"
-        },
-        {
-          "message_media": [],
-          "message_text": "Steve Madden: Hello — boots and booties made for comfy, polished looks you'll wear now and later. LIMITED.\n\nFree shipping on orders $50+ and hassle-free returns within 30 days.\n\nTry them on: http://stevemadden.io/aEQhV5SHn8vl . 👢",
-          "message_type": "system",
-          "date_time": "2026-02-10 11:16:35.328"
-        },
-        {
-          "message_media": [],
-          "message_text": "Steve Madden: As the world competes on ice, we're dreaming of sunnier days - shop our new sandals. http://stevemadden.io/aAuAO243dcnP .",
-          "message_type": "system",
-          "date_time": "2026-02-10 13:08:21.609"
-        },
-        {
-          "message_media": [],
-          "message_text": "Steve Madden: Long weekend agenda: this sale. 25% off select styles are live now http://stevemadden.io/anaqZcCN7w6p .",
-          "message_type": "system",
-          "date_time": "2026-02-11 08:13:19.434"
-        },
-        {
-          "message_media": [],
-          "message_text": "Steve Madden: You clearly have great taste. The item you are eyeing is popular!! Get it before it sells out:\n\nhttp://stevemadden.io/ayNvbrsGkkYV ",
-          "message_type": "system",
-          "date_time": "2026-02-12 12:20:50.015"
-        },
-        {
-          "message_media": [],
-          "message_text": "Steve Madden: Don't overthink it. If you like it, get it now. Take 25% OFF while you can: http://stevemadden.io/a0bM8CnVrwAq .",
-          "message_type": "system",
-          "date_time": "2026-02-12 16:01:20.450"
-        },
-        {
-          "message_media": [],
-          "message_text": "Steve Madden: Grab the Berkleigh Square Toe Knee Boot—stretch fabric and a platform block heel for a sleek silhouette.\n\nOver 20K people have recently viewed them.\n\nShop now: http://stevemadden.io/avZbtg-5TH2A .",
-          "message_type": "system",
-          "date_time": "2026-02-12 16:29:14.037"
-        },
-        {
-          "message_media": [],
-          "message_text": "Steve Madden: You are already subscribed. Click here to shop now: stevemadden.com.",
-          "message_type": "system",
-          "date_time": "2026-02-12 17:09:03.289"
-        },
-        {
-          "message_media": [],
-          "message_text": "how can i get my 20% off",
+          "message_text": "When does my order come??",
           "message_type": "customer",
-          "date_time": "2026-02-12 17:09:24.090"
+          "date_time": "2026-02-11 17:52:19.955"
         },
         {
           "message_media": [],
-          "message_text": "Steve Madden: Thanks for reaching out! Could you please let me know about the 20% off that you have mentioned? I would like to check on it for you. In the meantime, you can check out our sale here:\n\nhttp://stevemadden.io/aKlbpaQjt-47\n\nLet me know how that goes. ",
+          "message_text": "Comfrt: You can check the status of your order #257700245 here: https://comfrt.attn.tv/atXVgjzNOUQG",
           "message_type": "agent",
-          "agent": "109617",
-          "message_id": "019c53ec-a14f-494a-f000-0000f4643d34",
-          "date_time": "2026-02-12 17:15:42.705"
+          "agent": "62551",
+          "message_id": "019c4ee7-fb46-42b0-f000-0000eb570d58",
+          "date_time": "2026-02-11 17:52:31.959"
+        },
+        {
+          "message_media": [],
+          "message_text": "It does not tell me when it's coming",
+          "message_type": "customer",
+          "date_time": "2026-02-11 17:53:50.150"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"Pre-order shipping, when will my pre-order arrive?\"; last updated: 2025-05-07 18:45:20.495",
+          "message_type": "template",
+          "date_time": "2026-02-11 17:55:31.276"
+        },
+        {
+          "message_media": [],
+          "message_text": "Comfrt: I'm so sorry about that! The estimated shipping date for pre-ordered items will be displayed on the product page and in your order confirmation email. Please note that this date is an estimate, and is not a guaranteed date of delivery or receipt. The estimated delivery date that you receive in your confirmation email is subject to change based on production, supplier availability, or other unforeseen circumstances. ",
+          "message_type": "agent",
+          "agent": "109964",
+          "message_id": "019c4eea-b7b2-4346-f000-0000eb570d58",
+          "date_time": "2026-02-11 17:55:31.278"
         }
       ],
       "notes": {
         "send_to_cs": [
-          "No ESC for this client, send everything to CS"
+          "Send to CS for post-purchase issues"
         ],
-        "tone": [
-          "Close the convo once the client takes over!"
+        "escalate": [
+          "ESC if the discount % is not the same as indicated in the automated message"
+        ],
+        "templates": [
+          "If cx asks if Comfrt was formerly another brand, use CFB shortcut"
         ]
       },
       "rightPanel": {
         "source": {
           "label": "Website",
-          "value": "https://stevemadden.com",
+          "value": "https://comfrt.com",
           "date": ""
         },
         "browsingHistory": [
           {
-            "item": "BERKLEIGH BLACK - BLACK / 6 / 1",
-            "link": "https://www.stevemadden.com/products/berkleigh-black",
-            "timeAgo": "2026-02-12"
+            "item": "Pastel Kids Crew",
+            "link": "https://comfrt.com/products/pastel-kids-crew?variant=44253845291052",
+            "timeAgo": "2026-01-29"
           },
           {
-            "item": "BERKLEIGH BLACK - BLACK / 5 / 1",
-            "link": "https://www.stevemadden.com/collections/buy-with-prime/products/berkleigh-black",
-            "timeAgo": "2026-02-12"
+            "item": "Pastel Kids Crew",
+            "link": "https://comfrt.com/products/pastel-kids-crew?variant=44253843980332",
+            "timeAgo": "2026-01-29"
           },
           {
-            "item": "BERKLEIGH BLACK - BLACK / 7.5 / 1",
-            "link": "https://www.stevemadden.com/collections/buy-with-prime/products/berkleigh-black",
-            "timeAgo": "2026-02-12"
+            "item": "Affirmation Straight Leg Sweatpants",
+            "link": "https://comfrt.com/products/affirmation-sweatpants?variant=44842424205356",
+            "timeAgo": "2026-01-29"
           },
           {
-            "item": "BERKLEIGH BLACK - BLACK / 7.5 / 1",
-            "link": "https://www.stevemadden.com/products/berkleigh-black",
-            "timeAgo": "2026-02-12"
+            "item": "Affirmation Hoodie",
+            "link": "https://comfrt.com/products/affirmation-hoodie?variant=44842424401964",
+            "timeAgo": "2026-01-29"
           },
           {
-            "item": "BERKLEIGH BLACK - BLACK / 6 / 1",
-            "link": "https://www.stevemadden.com/products/berkleigh-black",
-            "timeAgo": "2026-02-12"
+            "item": "Affirmation Hoodie",
+            "link": "https://comfrt.com/products/affirmation-hoodie?variant=44842424369196",
+            "timeAgo": "2026-01-29"
+          }
+        ],
+        "orders": [
+          {
+            "orderNumber": "7700245",
+            "orderDate": "2025-12-06",
+            "items": [
+              {
+                "name": "Airplane Mode Travel Sweatpants - Pre-Order",
+                "price": 31.2,
+                "productLink": "https://comfrtclothing.myshopify.com/products/dnd-travel-sweatpants-copy"
+              },
+              {
+                "name": "Pastel Straight Leg Sweatpants - Pre-Order",
+                "price": 23.2,
+                "productLink": "https://comfrtclothing.myshopify.com/products/pastel-straight-leg-sweatpants-pre-order"
+              },
+              {
+                "name": "Pastel Hoodie Pre-Order",
+                "price": 31.2,
+                "productLink": "https://comfrtclothing.myshopify.com/products/pastel-hoodie-copy"
+              },
+              {
+                "name": "Airplane Mode Travel Hoodie - Pre-Order",
+                "price": 47.2,
+                "productLink": "https://comfrtclothing.myshopify.com/products/dnd-travel-hoodie-copy"
+              }
+            ],
+            "link": "https://comfrt.com/56940298284/orders/69d04ec0e37b49ea258ee5b1a4669a2d/authenticate?key=fe4675b8dab7bce15251a880a326cdf4",
+            "total": 132.8,
+            "date_time": "2025-12-06 07:10:24.719"
+          },
+          {
+            "orderNumber": "7700245",
+            "orderDate": "2025-12-06",
+            "items": [
+              {
+                "name": "Airplane Mode Travel Bundle",
+                "price": 78.4,
+                "productLink": "https://comfrtclothing.myshopify.com/products/pack-parent"
+              },
+              {
+                "name": "Pastel Bundle",
+                "price": 54.4,
+                "productLink": "https://comfrtclothing.myshopify.com/products/pack-parent"
+              }
+            ],
+            "link": "https://comfrt.com/56940298284/orders/69d04ec0e37b49ea258ee5b1a4669a2d/authenticate?key=fe4675b8dab7bce15251a880a326cdf4",
+            "trackingLink": "https://track.flexport.com/UUS62J6610113794444",
+            "order_tracking_link": "https://track.flexport.com/UUS62J6610113794444",
+            "total": 112.88,
+            "coupon": "WELCOME15",
+            "date_time": "2025-12-06 07:06:26.191"
           }
         ]
       },
       "escalation_preferences": [
-        "Discount code errors",
         "Exchanges and returns",
-        "Shipping questions"
+        "Sizing questions",
+        "Discount code errors"
       ],
-      "blocklisted_words": [
-        "ma'am",
-        "maam",
-        "knock-off",
-        "Gucci",
-        "Prada",
-        "Bottega",
-        "Versace",
-        "dupe"
-      ],
+      "blocklisted_words": [],
       "has_shopify": true
     },
     "92": {
-      "id": "019c5da0-3a86-40b5-f000-0000fb5d6c5a",
-      "companyName": "TotalDiabetesSupply",
-      "companyWebsite": "https://totaldiabetessupply.com",
-      "agentName": "Sarah",
-      "messageTone": "Polished",
-      "conversation": [
-        {
-          "message_media": [],
-          "message_text": "Total Diabetes Supply: Welcome! Msg&DataRatesApply. Msg frequency varies. Reply HELP for help, STOP to cancel. Privacy: attnl.tv/p/4Qz",
-          "message_type": "system",
-          "date_time": "2026-02-13 17:58:26.040"
-        },
-        {
-          "message_media": [],
-          "message_text": "Total Diabetes Supply: Your coupon code is POP15Y43TLV. Copy & paste or click to apply & shop now tds.attn.tv/aexZGT6fDUwH Reply HELP for help, STOP to cancel",
-          "message_type": "system",
-          "date_time": "2026-02-13 17:58:30.050"
-        },
-        {
-          "message_media": [],
-          "message_text": "Total Diabetes Supply: Save our contact to make sure you get all of the latest updates from Total Diabetes Supply! Reply HELP for help, STOP to cancel.",
-          "message_type": "system",
-          "date_time": "2026-02-13 17:58:31.124"
-        },
-        {
-          "message_media": [],
-          "message_text": "Total Diabetes Supply: Hi Thelma, remember to wrap up your purchase of the SureComfort U-100 Insulin Syringes - 31G 3/10cc 6mm (1/4\") - 100 BX before it disappears! tds.attn.tv/aYG19qdeVPFK\n\nReply back if you have any questions, or STOP to cancel",
-          "message_type": "system",
-          "date_time": "2026-02-14 12:56:49.166"
-        },
-        {
-          "message_media": [],
-          "message_text": "I recently ordered 4 boxes of these size syringes from Amazon and the product received had a Proposition 65 Cancer risk warning on the boxes. I want to make sure this will not occur if I begin ordering from your company.  Can you assure that this will not happen? If so I'll order my 6 boxes today.",
-          "message_type": "customer",
-          "date_time": "2026-02-14 13:49:08.394"
-        },
-        {
-          "message_media": [],
-          "message_text": "Total Diabetes Supply: Great question! I want to make sure I give you the most accurate information, so I'll check in with my team. Since it's the weekend, I may not hear back until Monday, but I'll be sure to follow up with you as soon as I do!",
-          "message_type": "agent",
-          "agent": "82222",
-          "message_id": "019c5d7d-0b49-4422-f000-0000fb5d6c5a",
-          "date_time": "2026-02-14 13:50:01.957"
-        },
-        {
-          "message_media": [],
-          "message_text": "Thank you so much! I couldn't believe it when I saw that warning on the box. All this after I found 90 out of 300 brand-new syringes to be contaminated. This was from 3 different companies as well. I don't know what's going on but I plan to be much more thorough and cautious moving forward. I look forward to hearing from you!",
-          "message_type": "customer",
-          "date_time": "2026-02-14 13:54:58.437"
-        },
-        {
-          "message_media": [],
-          "message_text": "Total Diabetes Supply: You're welcome, and I completely understand your concern! I'm very sorry to hear about the issues you've experienced. Your safety is our top priority, and I'll keep you posted as soon as I have more information available. ",
-          "message_type": "agent",
-          "agent": "87310",
-          "message_id": "019c5da0-3a86-40b5-f000-0000fb5d6c5a",
-          "date_time": "2026-02-14 14:28:27.812"
-        }
-      ],
-      "notes": {
-        "escalate": [
-          "ESC restock inquiries"
-        ],
-        "drive_to_purchase": [
-          "Recommend True Metrix products when customers request recommendations for Meters or Strips"
-        ]
-      },
-      "rightPanel": {
-        "source": {
-          "label": "Website",
-          "value": "https://totaldiabetessupply.com",
-          "date": ""
-        }
-      },
-      "escalation_preferences": [
-        "Questions related to product availability (when either out of stock or not listed at all). If product is available on website",
-        "no need to escalate.",
-        "Questions related to product pricing and/or discounts."
-      ],
-      "blocklisted_words": [],
-      "has_shopify": true
-    },
-    "93": {
-      "id": "019c5990-b15b-4dd9-f000-00001735f315",
-      "companyName": "The Art of Shaving",
-      "companyWebsite": "https://theartofshaving.com",
-      "agentName": "John",
-      "messageTone": "Polished",
-      "conversation": [
-        {
-          "message_media": [],
-          "message_text": "The Art of Shaving: Up to 30% Off for our Valentine's Sale!\n10% off $50\n20% off $100\n30% off $150. \nNo code required\naos.attn.tv/aqRsZG56j4qE ",
-          "message_type": "system",
-          "date_time": "2026-02-02 19:00:28.688"
-        },
-        {
-          "message_media": [],
-          "message_text": "The Art of Shaving: You are already subscribed. Click here to shop now: theartofshaving.com.",
-          "message_type": "system",
-          "date_time": "2026-02-13 18:55:53.148"
-        },
-        {
-          "message_media": [],
-          "message_text": "The Art of Shaving: Hey, this is John. Thanks for checking us out! https://aos.attn.tv/aMypGqMjncZ- \n\nAny specific shaving questions I can help with?",
-          "message_type": "system",
-          "date_time": "2026-02-13 19:07:04.817"
-        },
-        {
-          "message_media": [],
-          "message_text": "John I'm trying to log into my old account but not having any luck.  I like to look at razor s, can you help?",
-          "message_type": "customer",
-          "date_time": "2026-02-13 19:18:17.561"
-        },
-        {
-          "message_media": [],
-          "message_text": "Template used: \"Is the site secure? - All brands\"; last updated: 2023-10-10 17:49:13.114",
-          "message_type": "template",
-          "date_time": "2026-02-13 19:33:00.801"
-        },
-        {
-          "message_media": [],
-          "message_text": "Template used: \"Site won't work - All brands\"; last updated: 2025-07-16 17:54:02.115",
-          "message_type": "template",
-          "date_time": "2026-02-13 19:33:00.801"
-        },
-        {
-          "message_media": [],
-          "message_text": "The Art of Shaving: Hi, thanks for reaching out. I'm so sorry to hear that. First, I might suggest trying to open the site in an incognito or private window to rule out any browser cache or extension issues. Let me know how that goes.",
-          "message_type": "agent",
-          "agent": "109630",
-          "message_id": "019c5990-b15b-4dd9-f000-00001735f315",
-          "date_time": "2026-02-13 19:33:00.805"
-        }
-      ],
-      "notes": {
-        "send_to_cs": [
-          "Send to CS if cx wants us to place order for them, use CS shortcut"
-        ],
-        "templates": [
-          "For adverse events or product quality complaints, use PS shortcut"
-        ],
-        "tone": [
-          "Ensure the word \"staging\" isn't in any link you send"
-        ]
-      },
-      "rightPanel": {
-        "source": {
-          "label": "Website",
-          "value": "https://theartofshaving.com",
-          "date": ""
-        }
-      },
-      "escalation_preferences": [
-        "Adverse Events",
-        "Product Quality Complaints"
-      ],
-      "blocklisted_words": [],
-      "has_shopify": false
-    },
-    "94": {
-      "id": "019c5eda-3134-49d1-f000-0000fb7c9a80",
-      "companyName": "HalloweenCostumes.com",
-      "companyWebsite": "https://halloweencostumes.com",
-      "agentName": "Sarah",
+      "id": "019c77d7-bf24-424c-f000-0000ee1089ae",
+      "companyName": "Brilliant Earth",
+      "companyWebsite": "https://brilliantearth.com",
+      "agentName": "Ava",
       "messageTone": "Casual",
       "conversation": [
         {
           "message_media": [],
-          "message_text": "Halloween Costumes: Welcome to Halloween Costumes! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
+          "message_text": "Brilliant Earth: We're calling it: Nature rings are THE move for V-Day engagements. See for yourself: brilliantearth.attn.tv/aDbuUoYEtSnc .",
           "message_type": "system",
-          "date_time": "2026-02-14 19:17:42.941"
+          "date_time": "2026-01-20 17:14:14.272"
         },
         {
           "message_media": [],
-          "message_text": "Halloween Costumes: \nThanks for subscribing! Shop this link to claim your 15% off. halloweencostumes.attn.tv/asKqTqWyvnJh",
+          "message_text": "Brilliant Earth: IT'S HERE: Our limited edition Lunar New Year medallion. Shop the drop: brilliantearth.attn.tv/azKcHFGqlihV .",
           "message_type": "system",
-          "date_time": "2026-02-14 19:17:46.503"
+          "date_time": "2026-01-22 16:04:08.013"
         },
         {
           "message_media": [],
-          "message_text": "Halloween Costumes: \nHi there! Need help finding something? Let me know how I can make your shopping easier. halloweencostumes.attn.tv/amR8MI-RXqql",
+          "message_text": "Brilliant Earth: The Valentine's gifts everyone's obsessed with? They're all under $500: brilliantearth.attn.tv/aLIyi3C84Yb9 .",
           "message_type": "system",
-          "date_time": "2026-02-14 19:19:03.915"
+          "date_time": "2026-01-23 14:07:06.779"
         },
         {
           "message_media": [],
-          "message_text": "Trying to find a military custom for a historical play",
+          "message_text": "Brilliant Earth: Our fastest-selling collab EVER just restocked. Styles this sweet won't stick around long: brilliantearth.attn.tv/atgSXjmYHjye .",
+          "message_type": "system",
+          "date_time": "2026-01-27 10:10:11.500"
+        },
+        {
+          "message_media": [],
+          "message_text": "Brilliant Earth: CATCH FEELINGS. Our heart-shaped jewelry gifts make it easy: brilliantearth.attn.tv/aUIYsp6qqQpi .",
+          "message_type": "system",
+          "date_time": "2026-01-28 10:01:12.711"
+        },
+        {
+          "message_media": [],
+          "message_text": "Brilliant Earth: TIMING IS EVERYTHING! Order a wedding ring by 2PM PT tomorrow, 1/30, to get it by Valentine's Day. brilliantearth.attn.tv/aJZF47dKGoAA .",
+          "message_type": "system",
+          "date_time": "2026-01-29 17:15:27.624"
+        },
+        {
+          "message_media": [],
+          "message_text": "Brilliant Earth: Use code GIVEAWAY to unlock your Valentine's surprise. See what it is: brilliantearth.attn.tv/awwEl76W4Pjq .",
+          "message_type": "system",
+          "date_time": "2026-02-01 20:01:04.219"
+        },
+        {
+          "message_media": [],
+          "message_text": "Brilliant Earth: This February, treat yourself to purple perfection. Shop this month's must-have birthstone: brilliantearth.attn.tv/ashy8fGBq-15 .",
+          "message_type": "system",
+          "date_time": "2026-02-02 10:09:07.400"
+        },
+        {
+          "message_media": [],
+          "message_text": "Brilliant Earth: PERFECT TMING. Order an engagement ring by 2PM PT tomorrow to get it by Valentine's Day: brilliantearth.attn.tv/aLhQridOyRNZ .",
+          "message_type": "system",
+          "date_time": "2026-02-03 18:03:15.036"
+        },
+        {
+          "message_media": [],
+          "message_text": "Brilliant Earth: Her love language? Jewelry. Shop top Valentine's Day gifts: brilliantearth.attn.tv/aO27eD7rMQy9 .",
+          "message_type": "system",
+          "date_time": "2026-02-06 18:07:07.025"
+        },
+        {
+          "message_media": [],
+          "message_text": "Brilliant Earth: You'll never believe these Valentine's Day gifts are under $250... brilliantearth.attn.tv/aYlVx8Mi00O5 .",
+          "message_type": "system",
+          "date_time": "2026-02-09 15:07:07.154"
+        },
+        {
+          "message_media": [],
+          "message_text": "Brilliant Earth: FINAL CALL for Valentine's gifts! Order by 9AM PT tomorrow, free overnight shipping included: brilliantearth.attn.tv/at86gRTe0jtJ .",
+          "message_type": "system",
+          "date_time": "2026-02-12 11:15:21.011"
+        },
+        {
+          "message_media": [],
+          "message_text": "Brilliant Earth: SECRET SPARKLE. Diamonds hiding in plain sight. Shop our hidden accent engagement rings: brilliantearth.attn.tv/aJsNKPeQ1Amj .",
+          "message_type": "system",
+          "date_time": "2026-02-17 16:10:56.268"
+        },
+        {
+          "message_media": [],
+          "message_text": "Brilliant Earth: Once it's gone, it's gone. Our #1 style is... brilliantearth.attn.tv/a98co7GQeyEt .",
+          "message_type": "system",
+          "date_time": "2026-02-19 15:40:39.075"
+        },
+        {
+          "message_media": [],
+          "message_text": "I want this",
           "message_type": "customer",
-          "date_time": "2026-02-14 19:36:58.434"
+          "date_time": "2026-02-19 16:27:28.931"
         },
         {
           "message_media": [],
-          "message_text": "Halloween Costumes: Thanks for your interest! Let me know what size you'd like and if you're shopping for men, women, or kids. In the meantime, have a look at these: https://halloweencostumes.attn.tv/aISJd1CV_0hU",
+          "message_text": "Brilliant Earth: To assist you better, can you please let me know which specific item you are referring to? I'll be happy to help!\nIn the meantime, you may browse our available jewelry here: https://brilliantearth.attn.tv/aNLqaIMuRDxO/",
           "message_type": "agent",
-          "agent": "87359",
-          "message_id": "019c5ed6-ad54-47cd-f000-0000fb7c9a80",
-          "date_time": "2026-02-14 20:07:33.367"
-        },
-        {
-          "message_media": [],
-          "message_text": "Size L for a woman",
-          "message_type": "customer",
-          "date_time": "2026-02-14 20:08:17.857"
-        },
-        {
-          "message_media": [],
-          "message_text": "Halloween Costumes: Thank you for sharing your preferences. You may check our current collection here: https://halloweencostumes.attn.tv/aWEsbchsKFqB\nMay I know if you are looking for a specific style or color? I would be happy to check your options further. ",
-          "message_type": "agent",
-          "agent": "82260",
-          "message_id": "019c5eda-3134-49d1-f000-0000fb7c9a80",
-          "date_time": "2026-02-14 20:11:23.720"
+          "agent": "109964",
+          "message_id": "019c77d7-bf24-424c-f000-0000ee1089ae",
+          "date_time": "2026-02-19 16:39:13.862"
         }
       ],
       "notes": {
+        "send_to_cs": [
+          "Inquiries regarding orders",
+          "Shipping inquiries on a current order",
+          "Post-purchase issues",
+          "For product or general inquiries you can't find the answer to, use PGI shortcut"
+        ],
         "escalate": [
-          "ESC expired codes/discount code issues, ask for cart ID and add it in esc notes",
-          "Don't send to CS for this client, ESC if needed",
-          "For retroactive discount requests add discount % in ESC note",
-          "ESC if a customer requests a different resolution, after their escalation was resolved"
+          "No escalations for this client, send everything to CS"
+        ],
+        "tone": [
+          "Don't use the word \"unfortunately\" to discuss our appointment structure",
+          "Don't use the word \"best\" to reference a product (e.g., best ring, etc.)"
+        ],
+        "templates": [
+          "If cx are looking for an engagement ring and don't provide specifics, use LER shortcut"
         ],
         "dos_and_don_ts": [
-          "Fun Bucks AREN'T rewards points, those are given during exchanges"
+          "If the customer responds incorrectly to the journey, don't send jny temp, recommend items based on their selection instead",
+          "Cx can create their own engagement ring on the webiste by choosing a setting, stone and size",
+          "Cx can customize rings by working with designers who will use their ideas, drawings, images to create the ring they want",
+          "Don't disclose the locations of their labs/production facilities"
+        ],
+        "drive_to_purchase": [
+          "Be MORE SALESY, if the customer is showing intent to purchase then:",
+          "➜ Ask open-ended general questions such as style & material",
+          "➜ After asking open-ended questions, transition to specific questions such as center stone, etc.",
+          "➜ If the customer liked our recommendation, push for the sale by asking about payment options or when they hope to have the item"
         ],
         "promo_and_promo_exclusions": [
-          "This brand does not use coupon codes or promotions. All of their discounts are exclusively link-based and are applied automatically to the shopping cart upon checkout when the appropriate conditions are met",
-          "Please do not advise customers to use promotional codes, do not provide them with any codes, and do not direct them to look on the website for additional codes",
-          "They do not have any promotional code text fields on site to facilitate use"
+          "Please see here for current offer details: https://www.brilliantearth.com/promo-codes-and-offers/",
+          "Codes can be used in-store"
         ]
       },
       "rightPanel": {
         "source": {
           "label": "Website",
-          "value": "https://halloweencostumes.com",
+          "value": "https://brilliantearth.com",
           "date": ""
         },
         "browsingHistory": [
           {
-            "item": "Plus Size Military General Women's Costume",
-            "link": "https://www.halloweencostumes.com/women-s-plus-size-military-general-costume.html",
-            "timeAgo": "2026-02-15"
+            "item": "18K Yellow Gold Luna 2mm Bezel with 2ct Emerald Certified Lab Diamond",
+            "link": "https://www.brilliantearth.com/Luna-2mm-Bezel-with-2ct-Emerald-Certified-Lab-Diamond-Gold-BE1PB1PSEM2CTLC/",
+            "timeAgo": "2025-12-30"
           },
           {
-            "item": "Women's Vintage Combat Cutie Costume",
-            "link": "https://www.halloweencostumes.com/womens-vintage-combat-cutie.html",
-            "timeAgo": "2026-02-15"
+            "item": "Tacori Lunetta Crescent Eternity Diamond Ring (1/2 ct. tw.) in 18K Yellow Gold",
+            "link": "https://www.brilliantearth.com/Tacori-Lunetta-Crescent-Eternity-Diamond-Ring-(1/2-ct.-tw.)-Gold-BE2DT2720E/?",
+            "timeAgo": "2025-12-26"
+          },
+          {
+            "item": "18K Yellow Gold Premium Akoya Cultured Pearl Stud Earrings (7mm)",
+            "link": "https://www.brilliantearth.com/Premium-Akoya-Cultured-Pearl-Stud-Earrings-(7mm)-Gold-BE3AP70/?",
+            "timeAgo": "2025-12-25"
+          },
+          {
+            "item": "Audrey Perfect Fit 3mm Solitaire Ring in 18K Yellow Gold",
+            "link": "https://www.brilliantearth.com/en-ca/Audrey-Perfect-Fit-3mm-Solitaire-Ring-Gold-BE15698-42616016/?first=diamond&did=53528121&is_tab=1",
+            "timeAgo": "2025-12-23"
+          }
+        ]
+      },
+      "escalation_preferences": [
+        "Shipping questions",
+        "Exchanges and returns",
+        "For questions regarding order",
+        "service",
+        "shipping questions on a current order",
+        "post-purchase will go to cssupport@brilliantearth.com",
+        "For product or general inquiry questions",
+        "please contact info@brilliantearth.com"
+      ],
+      "blocklisted_words": [
+        "bestsellers",
+        "sale",
+        "sales",
+        "budget"
+      ],
+      "has_shopify": true
+    },
+    "93": {
+      "id": "019c72be-e5f2-44b4-f000-000001a2f2d4",
+      "companyName": "Fashion Nova",
+      "companyWebsite": "https://fashionnova.com",
+      "agentName": "Alexa",
+      "messageTone": "Polished",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "Fashion Nova: HURRY! The price dropped! Get the Santa's Workshop Bra And Skirt Short 2 Piece Set - Red/White - 1X NOW before it sells out! -> http://sms.fashionnova.com/aG-u59pCJXwD .",
+          "message_type": "system",
+          "date_time": "2026-01-20 13:27:37.207"
+        },
+        {
+          "message_media": [],
+          "message_text": "Fashion Nova: FREE 1-Day Shipping + Up to 70% OFF Sitewide!!\n\nThis One's Too Good To Miss! Shop NOW, Get It TMRW! ->\nhttp://sms.fashionnova.com/aYj7GqAigev1 .",
+          "message_type": "system",
+          "date_time": "2026-01-21 10:27:17.541"
+        },
+        {
+          "message_media": [],
+          "message_text": "Fashion Nova: Last Chance!! Sarah Knit Dress Set - Black is almost sold out. Grab it before someone else does! -> http://sms.fashionnova.com/aW6QG8Z35l7t .",
+          "message_type": "system",
+          "date_time": "2026-01-24 19:30:32.883"
+        },
+        {
+          "message_media": [],
+          "message_text": "Fashion Nova: ⚠️SNOW STORM WARNING⚠️40% OFF EVERYTHING Starts NOW!!\n\nStay Inside & SHOP! →\nhttp://sms.fashionnova.com/a3UjCvB7OEU7 .",
+          "message_type": "system",
+          "date_time": "2026-01-25 10:24:45.529"
+        },
+        {
+          "message_media": [],
+          "message_text": "Fashion Nova: Congrats! Your order #177657307 is confirmed.\n\nCheck the status of your order here: http://sms.fashionnova.com/axpxV8RFAvRL .",
+          "message_type": "system",
+          "date_time": "2026-01-27 00:41:39.350"
+        },
+        {
+          "message_media": [],
+          "message_text": "Fashion Nova: Your wishlist fave is selling fast! Grab it before it's gone & take 40% off sitewide with code: LOVE40 ->\nhttp://sms.fashionnova.com/aSMKkwcBoBhZ .",
+          "message_type": "system",
+          "date_time": "2026-01-27 12:30:28.390"
+        },
+        {
+          "message_media": [],
+          "message_text": "Fashion Nova: Great news! Your order #177657307 has been picked up by the carrier!\n\nTrack it here: http://sms.fashionnova.com/a8KqmtWfqsCO .",
+          "message_type": "system",
+          "date_time": "2026-01-27 17:49:08.703"
+        },
+        {
+          "message_media": [],
+          "message_text": "Fashion Nova: 40% Off EVERYTHING + FREE 1-Day Shipping?!\n\nThe Math Is Mathing! T&C Apply, Shop NOW, Get It TMRW!! ->\nhttp://sms.fashionnova.com/aaotLn0m1zn2 .",
+          "message_type": "system",
+          "date_time": "2026-01-28 10:26:58.878"
+        },
+        {
+          "message_media": [],
+          "message_text": "Fashion Nova: Baby, come back! Shop new styles and get 10% OFF with code: TAKE10 .\n\nHurry, it won't last!\n\nhttp://sms.fashionnova.com/aSNttscRymEw .",
+          "message_type": "system",
+          "date_time": "2026-01-31 14:58:08.970"
+        },
+        {
+          "message_media": [],
+          "message_text": "Fashion Nova: 40% OFF EVERYTHING Ends TONIGHT!!\n\nUse Code: LOVE40 | T&Cs Apply, Hurry B4 Code Expires! ->\nhttp://sms.fashionnova.com/aneAZiPQOJFW .",
+          "message_type": "system",
+          "date_time": "2026-02-01 18:17:19.529"
+        },
+        {
+          "message_media": [],
+          "message_text": "Fashion Nova: Yve, what happened? You may have missed something! Check out our New Arrivals before they sell out... you won't regret it: http://sms.fashionnova.com/av4iguWkSluu . ",
+          "message_type": "system",
+          "date_time": "2026-02-03 14:31:09.494"
+        },
+        {
+          "message_media": [],
+          "message_text": "Fashion Nova: FREE 1-Day Shipping! Get It TMRW!\n\n+ JUST LAUNCHED: NOVA Activewear. Hurry, Limited Quantity ->\nhttp://sms.fashionnova.com/aDc6nT9_f5dT .",
+          "message_type": "system",
+          "date_time": "2026-02-04 10:24:23.933"
+        },
+        {
+          "message_media": [],
+          "message_text": "Fashion Nova: Your order #177657307 is out for delivery and should arrive TODAY!\n\nTrack it here: http://sms.fashionnova.com/aROhtyGJunCd .",
+          "message_type": "system",
+          "date_time": "2026-02-04 12:54:14.541"
+        },
+        {
+          "message_media": [],
+          "message_text": "Fashion Nova: It's here! Order #177657307 has been delivered!\n \nCheck delivery details here: http://sms.fashionnova.com/aU9DOeIYkIXP .",
+          "message_type": "system",
+          "date_time": "2026-02-04 13:43:09.888"
+        },
+        {
+          "message_media": [],
+          "message_text": "Fashion Nova: Baby, come back! Shop new styles and get 10% OFF with code: TAKE10 .\n\nHurry, it won't last!\n\nhttp://sms.fashionnova.com/aD4IeFjjqbmN .",
+          "message_type": "system",
+          "date_time": "2026-02-05 15:00:20.264"
+        },
+        {
+          "message_media": [],
+          "message_text": "Fashion Nova: Let's F#CKING GO! 50% OFF EVERYTHING Starts NOW!\n\n+Next 6HRS Only: $10 SETS!\n\nIt's GAMEDAY! Shop NOW! ->\nhttp://sms.fashionnova.com/a8Y71I58c04t .",
+          "message_type": "system",
+          "date_time": "2026-02-08 10:24:11.294"
+        },
+        {
+          "message_media": [],
+          "message_text": "Fashion Nova: Yve, what happened? Don't miss the Super Sunday Sale! Shop 50% Off EVERYTHING! -> http://sms.fashionnova.com/aG9kK05FkSD3 .",
+          "message_type": "system",
+          "date_time": "2026-02-08 12:33:24.077"
+        },
+        {
+          "message_media": [],
+          "message_text": "Fashion Nova: 🚨We're REFUNDING The NEXT 2,000 Orders Up To $100!!!🚨\n\n+ 50% OFF EVERYTHING!\n\nHURRY! Ur Chance To Score Is... NOW! See T&Cs. HURRY!! ->\nhttp://sms.fashionnova.com/alGV-Lq41Nks .",
+          "message_type": "system",
+          "date_time": "2026-02-08 18:55:35.799"
+        },
+        {
+          "message_media": [],
+          "message_text": "Fashion Nova: WTF?!🚨$5 JEANS Starts NOW!!🚨\n\n+ 50% OFF EVERYTHING ENDS Tonight!\n\nHurry, Don't Fumble This Deal! Shop Now! ->\nhttp://sms.fashionnova.com/aiRWFcFAI2Lk .",
+          "message_type": "system",
+          "date_time": "2026-02-08 20:49:27.511"
+        },
+        {
+          "message_media": [],
+          "message_text": "Fashion Nova: 2HRS LEFT! 50% OFF EVERYTHING Ending + Xtra 10% OFF! Code: WIN10\n\nHurry, Shop B4 Game Day Is OVER! ->\nhttp://sms.fashionnova.com/aML7pW2Cjy6m .",
+          "message_type": "system",
+          "date_time": "2026-02-08 23:04:36.395"
+        },
+        {
+          "message_media": [],
+          "message_text": "Fashion Nova: Hi Yve! Curious about a product or want to make a purchase? We're happy to provide more details or make recommendations!\n\nReply with any questions you have!",
+          "message_type": "system",
+          "date_time": "2026-02-09 12:13:07.620"
+        },
+        {
+          "message_media": [],
+          "message_text": "Fashion Nova: EXTENDED! 50% OFF EVERYTHING Is Still Going!!\n\nT&Cs Apply, Hurry & Shop B4 This SALE Is OVER! ->\nhttp://sms.fashionnova.com/aP5WabUiuC7J .",
+          "message_type": "system",
+          "date_time": "2026-02-09 19:27:41.731"
+        },
+        {
+          "message_media": [],
+          "message_text": "Fashion Nova: FREE 1-Day Shipping! Get It B4 V-DAY!\n\n+The Semi-Annual SALE Is NOW! 40-80% OFF SITEWIDE!\n\nT&C Apply ->\nhttp://sms.fashionnova.com/a-DJ0I_ld6aX .",
+          "message_type": "system",
+          "date_time": "2026-02-11 10:27:48.927"
+        },
+        {
+          "message_media": [],
+          "message_text": "Fashion Nova: Don't forget this! Take 40-80% OFF EVERYTHING during the Semi Annual Sale! Use code: SAVE40 -> http://sms.fashionnova.com/a6Evj6H_Uvda .",
+          "message_type": "system",
+          "date_time": "2026-02-11 12:48:21.787"
+        },
+        {
+          "message_media": [],
+          "message_text": "Fashion Nova: LAST CALL B4 VDAY! FREE 1-Day Shipping...\n\n+40-80% OFF SITEWIDE!\n\nT&C Apply, Order NOW, Get It TMRW!->\nhttp://sms.fashionnova.com/aG5lLP7pscbO .",
+          "message_type": "system",
+          "date_time": "2026-02-12 10:21:28.092"
+        },
+        {
+          "message_media": [],
+          "message_text": "Fashion Nova: Don't forget this dress! Get 40-80% OFF EVERYTHING NOW with code: SAVE40 -> http://sms.fashionnova.com/aifeKgfr3usj .",
+          "message_type": "system",
+          "date_time": "2026-02-12 12:17:39.586"
+        },
+        {
+          "message_media": [],
+          "message_text": "Fashion Nova: Don't forget this! Take 40-80% OFF EVERYTHING during the Semi Annual Sale! Use code: SAVE40 -> http://sms.fashionnova.com/a9YmoWS9U3ps .",
+          "message_type": "system",
+          "date_time": "2026-02-14 19:33:31.793"
+        },
+        {
+          "message_media": [],
+          "message_text": "Fashion Nova: FINAL 6HRS! 40-80% OFF EVERYTHING Is ENDING!!\n\nHURRY, Shop B4 Code: SAVE40 Expires!! ->\nhttp://sms.fashionnova.com/aff2Zh_Kl5yt .",
+          "message_type": "system",
+          "date_time": "2026-02-15 18:32:50.794"
+        },
+        {
+          "message_media": [],
+          "message_text": "Fashion Nova: Want It TMRW?! FREE 1-Day Shipping + An XTRA $20 OFF UR $99+ Order!\n\nT&C Apply, Don't Wait! Order NOW!->\nhttp://sms.fashionnova.com/aWEBNCek5e_O .",
+          "message_type": "system",
+          "date_time": "2026-02-18 10:24:58.338"
+        },
+        {
+          "message_media": [],
+          "message_text": "Fashion Nova: Yve, what happened? You may have missed something! Check out our New Arrivals before they sell out... you won't regret it: http://sms.fashionnova.com/amwD--cs6Szz . ",
+          "message_type": "system",
+          "date_time": "2026-02-18 13:16:39.940"
+        },
+        {
+          "message_media": [],
+          "message_text": "My last item arrived ripped and no one has contacted me about the ticket I submitted.  That's what's wrong",
+          "message_type": "customer",
+          "date_time": "2026-02-18 16:51:46.026"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"No response from customer support 2\"; last updated: 2023-10-16 22:00:00.972",
+          "message_type": "template",
+          "date_time": "2026-02-18 16:53:59.308"
+        },
+        {
+          "message_media": [],
+          "message_text": "Fashion Nova: Thanks for reaching out, and I'm sorry to hear that! It's not the experience we wanted you to have with us. We are dealing with an influx of support messages but this does not make your concern any less important. The team is working as hard as possible to address each issue promptly.\n\nPlease let me know if there's anything else that I could assist you with today, I'm just here. ",
+          "message_type": "agent",
+          "agent": "109617",
+          "message_id": "019c72be-e5f2-44b4-f000-000001a2f2d4",
+          "date_time": "2026-02-18 16:53:59.309"
+        }
+      ],
+      "notes": {
+        "send_to_cs": [
+          "No escalations for this client, send to CS using the Support templates",
+          "For post-purchase inquiries send to CS using the Support template (shortcut: ESC)",
+          "➜ If the cx is having difficulties sending an email to CS via the link in the ESC temp - use Support 2 template (shortcut: TESC)",
+          "➜ If the cx is facing technical website issues while accessing the link, do NOT immediately send the TESC shortcut, troubleshoot first instead",
+          "For pre-purchase inquiries send to CS using the Support 2 template (shortcut: TESC)"
+        ],
+        "tone": [
+          "🅿️ Use wording that is in line with the brand's voice and terminology found on the website",
+          "➜ e.g. Nova Kids, Nova Babes, Insta-worthy, slays, snatched, baddie, etc.",
+          "➜ Always look up the term's meaning before using it!"
+        ],
+        "templates": [
+          "For expired discounts use EXP shortcut",
+          "For login issues use LGI shortcut"
+        ],
+        "promo_and_promo_exclusions": [
+          "If cx are looking for their 30% welcome code, ask to check their email (spam & promo)",
+          "Gift cards can be used on discounted items"
+        ]
+      },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://fashionnova.com",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "Be My Teddy Plush Hooded PJ Jumpsuit Onesie - Beige",
+            "link": "https://www.fashionnova.com/products/be-my-teddy-plush-hooded-pj-jumpsuit-onesie-beige",
+            "timeAgo": "2024-12-11"
+          },
+          {
+            "item": "Be My Teddy Plush Hooded PJ Jumpsuit Onesie - Beige",
+            "link": "https://www.fashionnova.com/products/be-my-teddy-plush-hooded-pj-jumpsuit-onesie-beige",
+            "timeAgo": "2024-12-11"
+          },
+          {
+            "item": "Ace Striped Bubble Mini Dress - Black/Brown",
+            "link": "https://www.fashionnova.com/products/ace-striped-bubble-mini-dress-black-brown",
+            "timeAgo": "2024-12-11"
+          },
+          {
+            "item": "Be My Teddy Plush Hooded PJ Jumpsuit Onesie - Beige",
+            "link": "https://www.fashionnova.com/products/be-my-teddy-plush-hooded-pj-jumpsuit-onesie-beige",
+            "timeAgo": "2024-12-11"
+          },
+          {
+            "item": "Baby It's Cold Outside PJ Onesie - Red/combo",
+            "link": "https://www.fashionnova.com/products/baby-its-cold-outside-pj-onesie-red-combo",
+            "timeAgo": "2024-12-11"
           }
         ]
       },
       "escalation_preferences": [],
       "blocklisted_words": [],
-      "has_shopify": false
+      "has_shopify": true
     },
-    "95": {
-      "id": "019c49aa-2f16-499d-f000-0000fa6f1635",
-      "companyName": "FaithGateway",
-      "companyWebsite": "https://faithgateway.com",
-      "agentName": "Rebecca",
+    "94": {
+      "id": "019c6d37-a847-4598-f000-0000f34de269",
+      "companyName": "RV Mattress",
+      "companyWebsite": "https://rvmattress.com",
+      "agentName": "",
       "messageTone": "Polished",
       "conversation": [
         {
           "message_media": [],
-          "message_text": "FaithGateway: Welcome to FaithGateway! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
+          "message_text": "RV Mattress: Last chance for 30% off your new RV Mattress! These deals are driving away, catch them before they're gone: rvmattress.attn.tv/a7prZoGHy-8g ",
           "message_type": "system",
-          "date_time": "2026-02-10 16:45:14.712"
+          "date_time": "2026-01-19 15:00:22.707"
         },
         {
           "message_media": [],
-          "message_text": "FaithGateway: We're so glad you're here to embark on this journey of growing deeper in your faith. Save on your next order with code F-8VpcbQ Shop now: fg.attn.tv/aKDR3tC5Vb8o .\n\nText back with any questions! - Rebecca",
+          "message_text": "RV Mattress: Don't miss out on your discount! Shop our Winter Clearance event and take 25% off your entire order: rvmattress.attn.tv/aPbOSasEMwO7 ",
           "message_type": "system",
-          "date_time": "2026-02-10 16:45:18.635"
+          "date_time": "2026-01-23 14:45:07.465"
         },
         {
           "message_media": [],
-          "message_text": "FaithGateway: Let's stay in touch! Save our contact card now so you never miss important updates, deals, and uplifting content.\n\nStart shopping now and don't forget to use code F-8VpcbQ at checkout: fg.attn.tv/aHkcFlQwvIM7",
+          "message_text": "RV Mattress: 25% off EARLY ACCESS sale! Save on your entire order when you shop the link: rvmattress.attn.tv/albjVQXFzMFj ",
           "message_type": "system",
-          "date_time": "2026-02-10 16:50:25.704"
+          "date_time": "2026-01-29 15:05:11.360"
         },
         {
           "message_media": [],
-          "message_text": "FaithGateway: Hey , this is Rebecca. Thanks for checking out our site! https://fg.attn.tv/aeUcu0y4STNW \n\nAre you looking for anything in particular today? ",
+          "message_text": "RV Mattress: From boondocking to glamping, sleep better with 25% OFF! You won't want to miss these deals: rvmattress.attn.tv/aT06uRRlBxQJ ",
           "message_type": "system",
-          "date_time": "2026-02-10 17:20:00.092"
+          "date_time": "2026-02-01 14:05:04.889"
         },
         {
           "message_media": [],
-          "message_text": "Yes I need 25 louie Giglio don't give the enemy a seat at your table books for a workshop at our church- is it possible to get a group discount?",
+          "message_text": "RV Mattress: Your rig's next upgrade? A comfier mattress! Get 30% OFF during our Presidents Day sale: rvmattress.attn.tv/aEdb_yNRlf51 ",
+          "message_type": "system",
+          "date_time": "2026-02-04 12:50:09.715"
+        },
+        {
+          "message_media": [],
+          "message_text": "RV Mattress: INCREASED savings just for you ⭐ 30% OFF your entire mattress order! Save now: rvmattress.attn.tv/auCuoZkkZQJJ ",
+          "message_type": "system",
+          "date_time": "2026-02-08 14:25:08.789"
+        },
+        {
+          "message_media": [],
+          "message_text": "RV Mattress: 🚨 Savings Alert 🚨 Everything is now 30% OFF for a limited time! Ready to save? → rvmattress.attn.tv/aGbWEYEAWGoZ ",
+          "message_type": "system",
+          "date_time": "2026-02-11 15:25:07.535"
+        },
+        {
+          "message_media": [],
+          "message_text": "RV Mattress: Save 30% before it's too late! Time is ticking away on our Presidents Day Sale... Shop now: rvmattress.attn.tv/axhQJzMY2XKG ",
+          "message_type": "system",
+          "date_time": "2026-02-14 13:10:06.459"
+        },
+        {
+          "message_media": [],
+          "message_text": "RV Mattress: 30% OFF is getting toad away! 🐸 Save on mattresses, pillows, and more before the offer ends TONIGHT: rvmattress.attn.tv/aocvvkNMi8Ha ",
+          "message_type": "system",
+          "date_time": "2026-02-16 12:50:06.506"
+        },
+        {
+          "message_media": [],
+          "message_text": "RV Mattress: Only HOURS left to save 30% OFF! Shop now before it's too late: rvmattress.attn.tv/adj5QBkr-Val ",
+          "message_type": "system",
+          "date_time": "2026-02-16 19:25:06.378"
+        },
+        {
+          "message_media": [],
+          "message_text": "RV Mattress: Hey, we noticed you checking us out. Have you seen our best sellers yet? https://rvmattress.attn.tv/a0KtZQh2AMJK",
+          "message_type": "system",
+          "date_time": "2026-02-17 13:23:23.283"
+        },
+        {
+          "message_media": [],
+          "message_text": "O think I ordered?",
           "message_type": "customer",
-          "date_time": "2026-02-10 17:23:33.862"
+          "date_time": "2026-02-17 14:04:29.375"
         },
         {
           "message_media": [],
-          "message_text": "FaithGateway: Thanks for reaching out, and I appreciate your interest! While I don't have a specific group discount available, you can use the code F-8VpcbQ at checkout to get a 15% discount on your purchase. In case you missed it, you can also check out the new releases here: https://fg.attn.tv/afGFq_5TJgVe",
+          "message_text": "I",
+          "message_type": "customer",
+          "date_time": "2026-02-17 14:04:43.292"
+        },
+        {
+          "message_media": [],
+          "message_text": "RV Mattress: Could you please check if you received a confirmation email or if there's a charge on your account? Sometimes the email might arrive in your spam or promo folder, so be sure to take a look there too! ",
           "message_type": "agent",
-          "agent": "87310",
-          "message_id": "019c49aa-2f16-499d-f000-0000fa6f1635",
-          "date_time": "2026-02-10 17:26:55.914"
+          "agent": "82427",
+          "message_id": "019c6d0d-81e9-4fea-f000-0000f34de269",
+          "date_time": "2026-02-17 14:22:07.746"
+        },
+        {
+          "message_media": [],
+          "message_text": "You are right.  It didn't go through, but I missed the 30% off.  Can you help me",
+          "message_type": "customer",
+          "date_time": "2026-02-17 15:05:53.163"
+        },
+        {
+          "message_media": [],
+          "message_text": "RV Mattress: I'm so sorry to hear that! Can you please let me know which item/s you are looking to purchase? Our Presidents Day Sale has been extended sitewide, too! Feel free to check it here: https://rvmattress.attn.tv/aEMJ3Cn1yQPp",
+          "message_type": "agent",
+          "agent": "109964",
+          "message_id": "019c6d37-a847-4598-f000-0000f34de269",
+          "date_time": "2026-02-17 15:08:10.087"
+        }
+      ],
+      "notes": {},
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://rvmattress.com",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "Dreamfoam® Hybrid",
+            "link": "https://rvmattress.com/products/brooklyn-arctic/short-queen-60x75?g_keywordid=&g_keyword=&g_campaignid=19784284964&g_adgroupid=&g_network=x&g_acctid=750-533-6035&g_campaign=US%7CRV%7CPMAX%7CPMAX%7CPMAX%7CGeneral&g_adtype=none&g_adid=&gad_source=1&gad_campaignid=19776267570&gbraid=0AAAAABRxbhgsvCtTmuYqI885omWHL61Yq&gclid=Cj0KCQiAyP3KBhD9ARIsAAJLnnb451S3M5jeXSBHzMu5V-Ci89FOIQrS1f9-rX5VbiGvg8U6ckOvqOwaAhSIEALw_wcB",
+            "timeAgo": "2026-01-09"
+          },
+          {
+            "item": "Signature Hybrid",
+            "link": "https://rvmattress.com/products/brooklyn-signature?Size=Short+Queen+-+60x75",
+            "timeAgo": "2026-01-09"
+          },
+          {
+            "item": "Aurora Luxe",
+            "link": "https://rvmattress.com/products/brooklyn-aurora/rv-king-72x80-medium",
+            "timeAgo": "2026-01-09"
+          },
+          {
+            "item": "Aurora Luxe",
+            "link": "https://rvmattress.com/products/brooklyn-aurora/split-cal-king-half-36x84-medium",
+            "timeAgo": "2026-01-09"
+          },
+          {
+            "item": "Aurora Luxe",
+            "link": "https://rvmattress.com/products/brooklyn-aurora?Size=RV+King+-+70x80&Firmness=Soft&Add+Cloud+Pillow+Top=No",
+            "timeAgo": "2026-01-09"
+          }
+        ]
+      },
+      "escalation_preferences": [],
+      "blocklisted_words": [
+        "AI"
+      ],
+      "has_shopify": true
+    },
+    "95": {
+      "id": "019c4a2e-f8aa-415a-f000-0000d9f78ef3",
+      "companyName": "Dorado Fashion",
+      "companyWebsite": "https://dorado.com",
+      "agentName": "Kiara",
+      "messageTone": "Casual",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "DORADO: Roses are red.\nJewelry is better.\n\nGet up to 75% OFF with code: LOVELY\n\nGifts for her, the girls, \nor yourself (obviously).\n \nShop Now: \nhttps://dorado.attn.tv/aaXqSTjddRYK . \n\nValentine's Delivery Cutoff:\nOrder by 01/30 @ 11:59 PM EST",
+          "message_type": "system",
+          "date_time": "2026-01-23 13:33:09.650"
+        },
+        {
+          "message_media": [],
+          "message_text": "DORADO: Hi Jemeka I personally want to thank you for shopping with us!\n\nTo show my appreciation, I'm giving you $25 OFF your next order of Custom Jewelry!\n\nJust use code: GIVE25 at checkout or click the link below! https://dorado.attn.tv/akyPAPz6_jXm \n\nThis is simply my way of saying THANK YOU for becoming a part of the Dorado Family.",
+          "message_type": "system",
+          "date_time": "2026-01-24 15:11:56.364"
+        },
+        {
+          "message_media": [],
+          "message_text": "DORADO: Group chat-approved gifts only.\n\nUse code: LOVELY for up to 75% OFF!\n \nShop Now: \nhttps://dorado.attn.tv/aMbc-VE5UBQv \n\nGalentine's secured if you order by 01/30",
+          "message_type": "system",
+          "date_time": "2026-01-25 18:16:14.064"
+        },
+        {
+          "message_media": [],
+          "message_text": "DORADO: last chance\n\npersonalized Valentine's gifts\n\nget up to 75% off with code: LOVELY \n \nonly 12 hours left: \nhttps://dorado.attn.tv/ax0NQf-A6qnJ .",
+          "message_type": "system",
+          "date_time": "2026-01-30 12:04:51.854"
+        },
+        {
+          "message_media": [],
+          "message_text": "DORADO: Hey, this is Kiara. Thanks for checking out our site! https://dorado.attn.tv/a2BBQS4nwApb \n\nLet me know if you have any questions or if you want me to get you a discount :)",
+          "message_type": "system",
+          "date_time": "2026-02-10 19:39:02.271"
+        },
+        {
+          "message_media": [],
+          "message_text": "Hello Kiara. 😇 I just received my order# D1822193 - Diamond Cut Heart Name Necklaces18K Gold Plated / 18\" Chain (45cm)I would like to order a smaller cm chain instead of 45cm. Which chains will fit my name Plated? Thank you and yes I wound love. Discount. 😇",
+          "message_type": "customer",
+          "date_time": "2026-02-10 19:43:33.467"
+        },
+        {
+          "message_media": [],
+          "message_text": "I like the chain that you sent in this text",
+          "message_type": "customer",
+          "date_time": "2026-02-10 19:46:03.370"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"Cancel / edit order \"; last updated: 2023-01-13 16:14:36.868",
+          "message_type": "template",
+          "date_time": "2026-02-10 19:51:58.283"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"Cancel / edit order \"; last updated: 2023-01-13 16:14:36.868",
+          "message_type": "template",
+          "date_time": "2026-02-10 19:51:58.283"
+        },
+        {
+          "message_media": [],
+          "message_text": "DORADO: Thanks for getting in touch! Glad to know you received your order. The best way to handle this is to email us directly at support@doradofashion.com. Our team is happy to help!",
+          "message_type": "agent",
+          "agent": "109840",
+          "message_id": "019c4a2e-f8aa-415a-f000-0000d9f78ef3",
+          "date_time": "2026-02-10 19:51:58.290"
         }
       ],
       "notes": {
         "send_to_cs": [
-          "Send to CS for post purchase inquiries, use PPI shortcut",
-          "Send to CS if the customer doesn't receive the free printables with his purchase"
+          "Send to CS for post purchase issues"
         ]
       },
       "rightPanel": {
         "source": {
           "label": "Website",
-          "value": "https://faithgateway.com",
+          "value": "https://dorado.com",
           "date": ""
         },
         "browsingHistory": [
           {
-            "item": "Don't Give the Enemy a Seat at Your Table: It's Time to Win the Battle of Your Mind... - Hardcover",
-            "link": "https://faithgateway.com/products/dont-give-the-enemy-a-seat-at-your-table-its-time-to-win-the-battle-of-your-mind?currency=USD&variant=34592014729352&stkn=b597b94c71f8&gad_source=1&gad_campaignid=12795518605&gbraid=0AAAAADuZX-rJ8SLVdAAHcLx2Jh8DxY0pi&gclid=Cj0KCQiAy6vMBhDCARIsAK8rOgltB_b5BZ0Fg0Pq76hB2aOUadTSyuYj_rApL9b4ckjN6eXHcGvkKr8aAhIaEALw_wcB",
-            "timeAgo": "2026-02-10"
+            "item": "Iced Heart Name Necklace",
+            "link": "https://dorado.com/collections/bestsellers/products/iced-heart-name-necklace",
+            "timeAgo": "2026-02-11"
+          },
+          {
+            "item": "Iced Heart Name Necklace - 18K Gold Plated / Standard - 18” (45cm)",
+            "link": "https://dorado.com/collections/bestsellers/products/iced-heart-name-necklace",
+            "timeAgo": "2026-02-11"
+          },
+          {
+            "item": "Twisted Ring - 18K Gold Plated / 5",
+            "link": "https://dorado.com/collections/ready-to-ship-rings-1/products/twisted-ring-1?_pos=1&_fid=d8baac83a&_ss=c",
+            "timeAgo": "2026-01-24"
+          },
+          {
+            "item": "DORADO Gold Timeless Watch - Olive - Olive / 36mm",
+            "link": "https://dorado.com/collections/womens-watches/products/36mm-dorado-gold-timeless-watch-olive-dial?_pos=3&_fid=93399b476&_ss=c",
+            "timeAgo": "2026-01-24"
+          },
+          {
+            "item": "DORADO Gold Timeless Watch - Olive - Olive / 36mm",
+            "link": "https://dorado.com/collections/womens-watches/products/36mm-dorado-gold-timeless-watch-olive-dial",
+            "timeAgo": "2026-01-24"
+          }
+        ],
+        "orders": [
+          {
+            "orderNumber": "822193",
+            "orderDate": "2026-01-24",
+            "items": [
+              {
+                "name": "Diamond Cut Heart Name Necklace",
+                "price": 59,
+                "productLink": "https://sk-custom-concepts.myshopify.com/products/diamond-cut-heart-name-necklace"
+              }
+            ],
+            "link": "https://dorado.com/23078837/orders/9bb4533f079a03acbb62505857fc9905/authenticate?key=7eeaaa50460b71a6e438ef9a40d5a194",
+            "trackingLink": "https://t.17track.net/#nums=9214490358940003792205",
+            "order_tracking_link": "https://t.17track.net/#nums=9214490358940003792205",
+            "total": 118,
+            "date_time": "2026-01-24 20:15:41.463"
+          },
+          {
+            "orderNumber": "822193",
+            "orderDate": "2026-01-24",
+            "items": [
+              {
+                "name": "Diamond Cut Heart Name Necklace",
+                "price": 59,
+                "productLink": "https://sk-custom-concepts.myshopify.com/products/diamond-cut-heart-name-necklace"
+              }
+            ],
+            "link": "https://dorado.com/23078837/orders/9bb4533f079a03acbb62505857fc9905/authenticate?key=7eeaaa50460b71a6e438ef9a40d5a194",
+            "trackingLink": "https://t.17track.net/#nums=9214490358940003792205",
+            "order_tracking_link": "https://t.17track.net/#nums=9214490358940003792205",
+            "total": 82.06,
+            "coupon": "LOVELY",
+            "date_time": "2026-01-24 20:11:42.100"
           }
         ]
       },
       "escalation_preferences": [
-        "Exchanges and returns",
-        "Discount code errors",
-        "Shipping questions"
+        "Shipping Issues: Where's my order? Any order issues, direct to customer service"
       ],
       "blocklisted_words": [],
       "has_shopify": true

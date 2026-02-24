@@ -3,260 +3,529 @@
   "chunk": "chunk_0029",
   "scenarios": {
     "141": {
-      "id": "019c43ee-295c-4772-f000-00009c9a3c2f",
-      "companyName": "Stately",
-      "companyWebsite": "https://statelymen.com",
-      "agentName": "Jordan",
-      "messageTone": "Polished",
+      "id": "019c7830-3bf9-4ea2-f000-0000b46ed3a0",
+      "companyName": "Fazoli's",
+      "companyWebsite": "https://fazolis.com/",
+      "agentName": "Maria",
+      "messageTone": "Casual",
       "conversation": [
         {
           "message_media": [],
-          "message_text": "Stately: What you wear to work matters more than you think. Look sharp, feel confident, show up ready. Stately makes it easy. Use 5BONUSFITS for bonus outfits in your first FIVE boxes + free styling/shipping, easy exchanges, no commitments - statelymen.attn.tv/aKAAjrLpT9x2 ",
+          "message_text": "Fazoli's: Craving Breadsticks? We got you covered with $5 off $20 when you order now at fazolis.attn.tv/aKcoUcQQLedE Use code QA3455 valid until 1/26.",
           "message_type": "system",
-          "date_time": "2026-01-11 15:05:42.823"
+          "date_time": "2026-01-21 11:02:07.541"
         },
         {
           "message_media": [],
-          "message_text": "Stately: Ready to get started on your style journey? \n\nGet a bonus 2-piece outfit in your first 5 boxes with code 5BONUSFITS: statelymen.attn.tv/aimC0Ng4MWk- \n\nStill have questions? Text us back and we'll help you out! ",
+          "message_text": "Fazoli's: Kick off February with an Italian feast! Enjoy $3 off $15 when you order online at fazolis.attn.tv/aBeXXOfv9L2S and use code: BK4492. Valid until 2/8.",
           "message_type": "system",
-          "date_time": "2026-01-13 14:32:35.598"
+          "date_time": "2026-02-02 11:02:55.564"
         },
         {
           "message_media": [],
-          "message_text": "Stately: Your 5 bonus outfits are about to expire. Use code 5BONUSFITS now to lock them in before it's too late - statelymen.attn.tv/aPyT-0DH145z ",
+          "message_text": "Fazoli's: Hey, this is Jordan from Fazoli's. Thanks for checking out our online ordering site! https://fazolis.attn.tv/ahzI3Q2kCefv \n\nIs there anything I can help you with today?",
           "message_type": "system",
-          "date_time": "2026-01-14 15:15:52.026"
+          "date_time": "2026-02-02 13:47:25.755"
         },
         {
           "message_media": [],
-          "message_text": "Stately: Look and feel your best with Stately. No commitments, no retail markups, no styling/shipping fees. Ready to get started?\n\nTake our style quiz today and use code BONUS100 for $100 FREE bonus apparel in your first box: statelymen.attn.tv/azV0sPsX9199 \n\nText us back if you have any questions!",
+          "message_text": "Fazoli's: Alfredo Fest is here! Enjoy $8.99 Loaded Fettuccine Alfredo. Order now at fazolis.attn.tv/aOmZnbPt2W6R use code: FA6798. Valid until 2/22.",
           "message_type": "system",
-          "date_time": "2026-01-18 12:13:28.812"
+          "date_time": "2026-02-16 11:02:43.918"
         },
         {
           "message_media": [],
-          "message_text": "Stately: Time's almost up-your 5 bonus outfits disappear soon. Use 5BONUSFITS to lock them in today - statelymen.attn.tv/ao7D8U5HfOqZ ",
+          "message_text": "Fazoli's: It looks like you forgot Baked Lasagna in your cart...complete your checkout today: Take $3 off when you spend $10 add B29KC3B at checkout visit: fazolis.attn.tv/a8Y1NcYJgxYs ",
           "message_type": "system",
-          "date_time": "2026-01-18 15:15:50.052"
+          "date_time": "2026-02-19 18:03:20.181"
         },
         {
           "message_media": [],
-          "message_text": "Stately: First impressions still matter. How you dress shapes trust, connection, and opportunity.\n\nStately styles outfits that reflect your look-while projecting confidence at work.\n\nEnds soon: Get a 2-piece bonus outfit in your first 5 boxes with code 5BONUSFITS - statelymen.attn.tv/asRB3BVpinDf ",
-          "message_type": "system",
-          "date_time": "2026-01-21 15:15:48.715"
-        },
-        {
-          "message_media": [],
-          "message_text": "Stately: How's Stately different?\n\nYou get complete outfits personalized to you-NOT random pieces. A real stylist (no AI) curates looks that fit YOUR style. Getting dressed becomes effortless.\n\nGet 5 bonus outfits in first 5 boxes w/code 5BONUSFITS. Offer ends soon - statelymen.attn.tv/a_GdAZee5OTS ",
-          "message_type": "system",
-          "date_time": "2026-01-25 15:05:28.478"
-        },
-        {
-          "message_media": [],
-          "message_text": "Stately: Your 5 bonus outfits are about to expire...\n\nStately members save up to 50% off premium brands, & we curate personalized outfits with the best pieces of the season - delivered.\n\nPlus, enjoy free shipping/styling & easy exchanges. Use code 5BONUSFITS - statelymen.attn.tv/av1W8d3p79XP ",
-          "message_type": "system",
-          "date_time": "2026-01-28 15:05:24.921"
-        },
-        {
-          "message_media": [],
-          "message_text": "Stately: Final call on your 5 bonus outfits...\n\nOur best pieces of the season are reserved for new members and going straight into your box - curated for your style and fit.\n\nBest part? No commitments - skip, pause, change, or cancel anytime.\n\nUse code 5BONUSFITS - statelymen.attn.tv/aq-qtASDaK6u ",
-          "message_type": "system",
-          "date_time": "2026-01-31 15:20:25.204"
-        },
-        {
-          "message_media": [],
-          "message_text": "Stately: Important! Your 5 bonus outfits (10 extra pcs) are still unclaimed & will expire soon. Claim now w/code 5BONUSFITS: statelymen.attn.tv/aZpG6CP7XnpN ",
-          "message_type": "system",
-          "date_time": "2026-02-01 15:05:27.464"
-        },
-        {
-          "message_media": [],
-          "message_text": "Stately: We're going to give you a 2 piece bonus outfit in each of your first 5 boxes. Yes, that's 10 extra pieces - on us! Use code 5BONUSFITS. But hurry, this code will officially expire in 24-hrs - statelymen.attn.tv/aLexlS5FPnuu ",
-          "message_type": "system",
-          "date_time": "2026-02-04 15:10:28.197"
-        },
-        {
-          "message_media": [],
-          "message_text": "Stately: Final Hours... the code 5BONUSFITS expires at midnight! Claim your bonus outfit in first 5 boxes now - statelymen.attn.tv/aZ5YJxl-tqMK ",
-          "message_type": "system",
-          "date_time": "2026-02-08 15:10:29.681"
-        },
-        {
-          "message_media": [],
-          "message_text": "Stately: Thanks for your order 884232!\nView your order status: https://statelymen.attn.tv/aGnTfTbvzQEs ",
-          "message_type": "system",
-          "date_time": "2026-02-09 13:13:02.930"
-        },
-        {
-          "message_media": [],
-          "message_text": "Stately: Welcome to Stately! Get excited, your Luxe Plan Stately box is being curated by your stylist now. Don't forget to visit the Stately Member dashboard and fill out your Additional Style Preferences: https://statelymen.attn.tv/a_fGgiyWk7rQ ",
-          "message_type": "system",
-          "date_time": "2026-02-09 14:13:04.896"
-        },
-        {
-          "message_media": [],
-          "message_text": "Stately: If you need help, please reply with SERVICE. Text STOP to opt-out.",
-          "message_type": "system",
-          "date_time": "2026-02-09 14:39:09.293"
-        },
-        {
-          "message_media": [],
-          "message_text": "According to the text i should still be available for the bonus pieces for the next few months",
+          "message_text": "Hey thank you got that code 🙏",
           "message_type": "customer",
-          "date_time": "2026-02-09 14:39:17.804"
+          "date_time": "2026-02-19 18:15:12.203"
         },
         {
           "message_media": [],
-          "message_text": "Stately: Can you please provide more information about the concern?\nBy any chance, are you referring to the promotion through the code 5BONUSFITS? If so, you will need to apply this code upon purchase to activate the bonus outfits in your first five boxes.",
+          "message_text": "Fazoli's: No worries. I got you! Is there anything else I can help with?",
           "message_type": "agent",
-          "agent": "109964",
-          "message_id": "019c43ee-295c-4772-f000-00009c9a3c2f",
-          "date_time": "2026-02-09 14:43:27.600"
+          "agent": "109630",
+          "message_id": "019c7830-3bf9-4ea2-f000-0000b46ed3a0",
+          "date_time": "2026-02-19 18:15:53.008"
         }
       ],
       "notes": {
-        "send_to_cs": [
-          "Send to CS for post purchase issues, use PPI shortcut"
+        "escalate": [
+          "If cx's want to change their order, direct them to contact the location, use CED shortcut"
         ],
-        "dos_and_don_ts": [
-          "When sharing links to their plans, always direct the cx to the homepage (https://statelymen.com/) rather than specific plan pages"
+        "promo_and_promo_exclusions": [
+          "Coupon codes can be used at stores",
+          "If cx's ask for a discount code & we don't have one (Concierge or in automated messages):",
+          "➜ Send the 'dhd' shortcut"
         ]
       },
       "rightPanel": {
         "source": {
           "label": "Website",
-          "value": "https://statelymen.com",
+          "value": "https://fazolis.com/",
           "date": ""
         },
+        "browsingHistory": [
+          {
+            "item": "Baked Fettuccine Alfredo",
+            "link": "https://order.fazolis.com/menu/westerville-oh/products/101956104?source=vendor-menu",
+            "timeAgo": "2026-02-19"
+          },
+          {
+            "item": "Baked Lasagna",
+            "link": "https://order.fazolis.com/menu/westerville-oh/products/16235061?source=local-favorite-product",
+            "timeAgo": "2026-02-19"
+          },
+          {
+            "item": "Baked Spaghetti with Meatballs",
+            "link": "https://order.fazolis.com/menu/westerville-oh/products/16234857?source=vendor-menu",
+            "timeAgo": "2026-02-03"
+          },
+          {
+            "item": "Baked Spaghetti with Meatballs",
+            "link": "https://order.fazolis.com/menu/westerville-oh/products/16234857?source=vendor-menu",
+            "timeAgo": "2026-02-03"
+          },
+          {
+            "item": "Oven-Baked Classic Sampler",
+            "link": "https://order.fazolis.com/menu/westerville-oh/products/16238121?source=vendor-menu",
+            "timeAgo": "2026-02-03"
+          }
+        ],
         "orders": [
           {
-            "orderNumber": "884232",
-            "orderDate": "2026-02-09",
+            "orderNumber": "36180711454015488",
+            "orderDate": "2025-06-23",
             "items": [
               {
-                "name": "Luxe Plan",
-                "price": 179,
-                "productLink": "https://statelymen.myshopify.com/products/new-luxe-1"
+                "name": "",
+                "price": 0,
+                "productLink": "https://lightingandsupplies.com/qysd-offshr-boots-blk-gr-45-qy19045/"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://www.evo.com/shorts/dakine-vectra?image=216139/901175/dakine-vectra-shorts-.jpg"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://www.shopakira.com/lotus-flower-bomb-faux-leather-flare-pant"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://venue.com/product/hee-haw-pfft-you-was-gone-2-discs-dvd/"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://leadersrpmshop.com/sea-doo-new-oem-12v-power-outlet-snap-mount-710005374/"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://checkout.fascinatingdiamonds.com/0-50-carat-round-cut-diamond-xsher024/"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://www.maurices.com/product/girls-lemon-ruffle-bikini-swimsuit/216139"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://www.everest.com/hella-marine-module-70-gen-4-led-floodlight-white-housing-long-range-2100-lumens.html"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://homedone.co.uk/set-of-2-storage-pouffes-pink-wichita.html"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://www.cardkingdom.com/mtg/promotional/glory-seeker-welcome-2017"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://mcprod.petflow.com/conairpro-grooming-kit-for-dogs-cats/"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://www.thesocietees.com/product/nasa-earth-from-space-mens-t-shirt/"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://www.chairish.com/product/id/918109?utm_content=Console+Tables&utm_medium=text&utm_source=attentive&utm_term=918109"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://www.sportsworldchicago.com/arkansas-state-red-wolves-cardinal-red-big-tall-forge-polo-multi-stripe-by-cutter-buck/"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://www.vitalitymedical.com/20250703-bnd305970-cs.html"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://www.sanity.com.au/products/2786386/Batin"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://www.staples.com/nahanco-display-it-hook-black-500-pack-500-pack/product_216139"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://www.sportsmansguide.com/product/index/easton-g-nock-tool?a=1585393"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://www.modaoperandi.com/women/p/area/poplin-scallop-mini-dress/552986"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://www.plumbersstock.com/pfister-hhl-089tbbg-tisbury.html"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://www.coolwick.com/product/ebonite-apex-mens-deviate-bowling-pullover/?attribute_pa_color-options=scarlet&attribute_pa_size=medium"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://lamsonproducts.com/product/bb-vintage-precision-block-16-group-4-3/"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://www.evo.com/en-ca/shorts/dakine-vectra?image=216139/901175/dakine-vectra-shorts-.jpg"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://lightingandsupplies.com/rab-lighting-ffled26sfnb44-pc-future-flood-26w-4x4-120v-pc-neutral-led-slipfitter-on-bnz/"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://www.jbtools.com/arb-old-man-emu-nitrocharger-sport-rear-shock-for-toyota-hilux-vigo-arb60006/"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://www.raneystruckparts.com/angled-conspicuity-reflective-tape-strips/"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://www.replacements.com/crystal-dorothy-thorpe-hydrangea-lilac-water-goblet/p/9181091"
               }
             ],
-            "link": "https://statelymen.com/42791403673/orders/2c38eefa1f7abf3bb8b29611c108ca1a/authenticate?key=d581ab3a311a239b9d2e1cdfe59f31f7",
-            "trackingLink": "http://wwwapps.ups.com/WebTracking/track?track=yes&trackNums=1Z37X0A80304059749",
-            "order_tracking_link": "http://wwwapps.ups.com/WebTracking/track?track=yes&trackNums=1Z37X0A80304059749",
-            "total": 161.28,
-            "coupon": "GETLUXE",
-            "date_time": "2026-02-09 18:12:46.616"
+            "total": 14.48,
+            "coupon": "HKQ2U22",
+            "date_time": "2025-06-23 23:54:00.000"
+          },
+          {
+            "orderNumber": "33303641118998529",
+            "orderDate": "2025-02-19",
+            "items": [
+              {
+                "name": "Creamy Linguine Bake",
+                "price": 5.99
+              }
+            ],
+            "total": 14.48,
+            "date_time": "2025-02-19 22:49:14.779"
+          },
+          {
+            "orderNumber": "33303641118998529",
+            "orderDate": "2025-02-19",
+            "items": [
+              {
+                "name": "Baked Lasagna",
+                "price": 11.49
+              }
+            ],
+            "total": 14.48,
+            "date_time": "2025-02-19 22:49:14.776"
+          },
+          {
+            "orderNumber": "33303641118998529",
+            "orderDate": "2025-02-19",
+            "items": [
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://www.shopakira.com/lotus-flower-bomb-faux-leather-flare-pant"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://www.vitalitymedical.com/20250703-bnd305970-cs.html"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://www.sportsmansguide.com/product/index/easton-g-nock-tool?a=1585393"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://mcprod.petflow.com/conairpro-grooming-kit-for-dogs-cats/"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://www.jbtools.com/arb-old-man-emu-nitrocharger-sport-rear-shock-for-toyota-hilux-vigo-arb60006/"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://www.evo.com/shorts/dakine-vectra?image=216139/901175/dakine-vectra-shorts-.jpg"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://lightingandsupplies.com/rab-lighting-ffled26sfnb44-pc-future-flood-26w-4x4-120v-pc-neutral-led-slipfitter-on-bnz/"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://venue.com/product/hee-haw-pfft-you-was-gone-2-discs-dvd/"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://www.sportsworldchicago.com/arkansas-state-red-wolves-cardinal-red-big-tall-forge-polo-multi-stripe-by-cutter-buck/"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://www.homeshoppingmalls.com/starlight-round-glass-top-dining-table-clear-and-brass-coaster-192641bg"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://www.sanity.com.au/products/2747527/Lexicon"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://www.evo.com/en-ca/shorts/dakine-vectra?image=216139/901175/dakine-vectra-shorts-.jpg"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://lightingandsupplies.com/pont-top-only-sunbrella-96x56-84005ar/"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://homedone.co.uk/set-of-2-storage-pouffes-pink-wichita.html"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://www.raneystruckparts.com/angled-conspicuity-reflective-tape-strips/"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://images.fun.com/avatar-the-last-airbender-aang-360-character-socks.html"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://www.thesocietees.com/product/nasa-earth-from-space-mens-t-shirt/"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://www.cardkingdom.com/mtg/promotional/glory-seeker-welcome-2017"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://www.staples.com/nahanco-display-it-hook-black-500-pack-500-pack/product_216139"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://www.maurices.com/product/girls-lemon-ruffle-bikini-swimsuit/216139"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://www.everest.com/hella-marine-module-70-gen-4-led-floodlight-white-housing-long-range-2100-lumens.html"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://lamsonproducts.com/product/bb-vintage-precision-block-16-group-4-3/"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://checkout.fascinatingdiamonds.com/0-50-carat-round-cut-diamond-xsher024/"
+              },
+              {
+                "name": "",
+                "price": 0,
+                "productLink": "https://www.coolwick.com/product/ebonite-apex-mens-deviate-bowling-pullover/?attribute_pa_color-options=scarlet&attribute_pa_size=medium"
+              }
+            ],
+            "total": 14.48,
+            "coupon": "GTWNQ1C",
+            "date_time": "2025-02-19 22:42:00.000"
           }
         ]
       },
       "escalation_preferences": [],
       "blocklisted_words": [],
-      "has_shopify": true
+      "has_shopify": false
     },
     "142": {
-      "id": "019c4fb7-87a5-4495-f000-0000fa82573b",
-      "companyName": "Greenpan",
-      "companyWebsite": "https://greenpan.us",
+      "id": "019c7737-1feb-468c-f000-0000fb34b991",
+      "companyName": "Modern Gents Trading Co",
+      "companyWebsite": "https://modgents.com",
       "agentName": "Sarah",
       "messageTone": "Polished",
       "conversation": [
         {
           "message_media": [],
-          "message_text": "GreenPan: Reply Y to subscribe to recurring automated personalized marketing alerts (e.g. cart reminders) from GreenPan.",
+          "message_text": "Modern Gents: Reply Y to subscribe to recurring automated personalized marketing alerts (e.g. cart reminders) from Modern Gents.",
           "message_type": "system",
-          "date_time": "2026-02-11 09:54:22.706"
+          "date_time": "2026-02-13 11:10:03.660"
         },
         {
           "message_media": [],
-          "message_text": "GreenPan: Welcome to GreenPan! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
+          "message_text": "Modern Gents: Welcome! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel. Privacy: attnl.tv/p/Rnh",
           "message_type": "system",
-          "date_time": "2026-02-11 09:54:42.708"
+          "date_time": "2026-02-13 11:12:52.021"
         },
         {
           "message_media": [],
-          "message_text": "GreenPan: Welcome to the GreenPan Kitchen! This is Sarah, your personal concierge! Feel free to text me with any questions.\n\nWe revolutionized home cooking in 2007 when we introduced the world to healthy ceramic nonstick, the first and best PFAS-free alternative to conventional coatings. With over 60,000 5-Star Reviews, we offer high quality cookware to make your whole kitchen PFAS-free.\n\nJust for you: $25 Off Your Order of $150 or more + Free Shipping with code QCY38YS6PXEC.\n\nDiscover the Original. Shop Now: greenpan.attn.tv/aFwfmhVSbfEe ",
+          "message_text": "Modern Gents: Yay! You're in!\n\nGet 60% off a single item! \nCode: MG60\n\n*Must have 2 items in cart\n\nShop Now: modgents.attn.tv/a6HKIMQidiPy ",
           "message_type": "system",
-          "date_time": "2026-02-11 09:54:46.659"
+          "date_time": "2026-02-13 11:12:54.946"
         },
         {
           "message_media": [],
-          "message_text": "GreenPan: Save our contact card so you'll always see our offers, launches & rewards texts first.",
+          "message_text": "Modern Gents: Oh, also, a lot of people like getting personal recs from us. Over the next few days we'll try to help you find something that you will love.\n\nExplore our latest additions! Don't miss out: https://modgents.attn.tv/aAJ-DkCrUMLR .",
           "message_type": "system",
-          "date_time": "2026-02-11 09:54:47.991"
+          "date_time": "2026-02-13 11:23:02.104"
         },
         {
           "message_media": [],
-          "message_text": "Discount code not working",
+          "message_text": "Modern Gents: Steve, You're a VIP now! Here's $10 credit on your next order >$50. Code: 2pUs1o Expires in 72 hrs! https://modgents.attn.tv/aQ43R-Puu3_c .",
+          "message_type": "system",
+          "date_time": "2026-02-13 15:43:22.925"
+        },
+        {
+          "message_media": [],
+          "message_text": "Modern Gents: Just a heads up. Your $10 credit expires in 24 hours! If you wanted something, now's the time! code: 2pUs1o https://modgents.attn.tv/as5-KqEAOu46 ",
+          "message_type": "system",
+          "date_time": "2026-02-15 15:43:29.583"
+        },
+        {
+          "message_media": [],
+          "message_text": "Modern Gents: OMG our new ring is STUNNING!\n\nmodgents.attn.tv/ayYGj0U0oqJ6\n\nPS: You unlocked Store Credit!\n\nUse Your VIP Code: NR21767 @checkout (EXPIRES SOON!)",
+          "message_type": "system",
+          "date_time": "2026-02-17 18:35:19.833"
+        },
+        {
+          "message_media": [],
+          "message_text": "Modern Gents: Something exciting is here, Steve — thanks for stopping by!\n\nUse code SA2A5s for 25% off your order.\n\nFind your next ring: https://modgents.attn.tv/aHcob8vzKLhV .",
+          "message_type": "system",
+          "date_time": "2026-02-19 13:34:20.517"
+        },
+        {
+          "message_media": [],
+          "message_text": "Never received one of the rings",
           "message_type": "customer",
-          "date_time": "2026-02-11 20:55:52.182"
+          "date_time": "2026-02-19 13:35:07.715"
         },
         {
           "message_media": [],
-          "message_text": "Template used: \"Code won't work\"; last updated: 2025-08-08 18:43:46.937",
-          "message_type": "template",
-          "date_time": "2026-02-11 21:39:13.853"
-        },
-        {
-          "message_media": [],
-          "message_text": "Template used: \"Code won't work - All brands\"; last updated: 2023-10-10 16:36:42.859",
-          "message_type": "template",
-          "date_time": "2026-02-11 21:39:13.853"
-        },
-        {
-          "message_media": [],
-          "message_text": "GreenPan: Hi, thanks for reaching out. I'm sorry to hear that. Have you encountered any error messages? Also, could you kindly share a screenshot of the items in your cart? I'll be happy to look into the issue! \n\nPlease note that sale items, cookbooks, gift cards, the recycling kit, shipping protection, and the Frost Ice Cream & Frozen Drink Maker are excluded from discount codes. You can find more info about that here: https://greenpan.attn.tv/aZLAkzzGgqoz ",
+          "message_text": "Modern Gents: I'm sorry to hear that! Can you please send me a photo of the items that you received, along with your email address? This is for Order #1787578, is that right?",
           "message_type": "agent",
-          "agent": "109630",
-          "message_id": "019c4fb7-87a5-4495-f000-0000fa82573b",
-          "date_time": "2026-02-11 21:39:13.857"
+          "agent": "33482",
+          "message_id": "019c7730-e772-4caf-f000-0000fb34b991",
+          "date_time": "2026-02-19 13:36:59.659"
+        },
+        {
+          "message_media": [],
+          "message_text": "Missing the Chelsea, I put it on original order but the now shows I ordered 2 of the heathers",
+          "message_type": "customer",
+          "date_time": "2026-02-19 13:38:36.318"
+        },
+        {
+          "message_media": [],
+          "message_text": "Modern Gents: That appears to be the case. You may need to place a new order. I apologize for the inconvenience.",
+          "message_type": "agent",
+          "agent": "109968",
+          "message_id": "019c7737-1feb-468c-f000-0000fb34b991",
+          "date_time": "2026-02-19 13:43:47.332"
         }
       ],
       "notes": {
         "send_to_cs": [
-          "For the following inbound message types use PPI shortcut:",
-          "➜ Post-purchase issues",
-          "➜ Product-specific questions & any q's about materials/heating/temperature-based q's etc.",
-          "➜ Damaged orders",
-          "➜ Any q's regarding aluminum or aluminium issues",
-          "➜ Voltage / Wattage inquiries",
-          "➜ Complaints about the quality of the products",
-          "➜ Q's about product differences/comparison",
-          "➜ Warranty issues",
-          "➜ Any q's or comments about the lawsuit"
+          "No ESC for this client, send everything to CS"
         ],
         "tone": [
-          "Close the convo once the client takes over",
-          "Don't say words like \"I'm not sure, or certain\"",
-          "Add \"Happy cooking!\" when closing a convo!",
-          "Let the cx have the last word"
-        ],
-        "templates": [
-          "For product recommendations, use DHR shortcut"
-        ],
-        "drive_to_purchase": [
-          "Send links to collections if customers aren't looking for a specific product!"
+          "Close the convo once the client takes over!"
         ]
       },
       "rightPanel": {
         "source": {
           "label": "Website",
-          "value": "https://greenpan.us",
+          "value": "https://modgents.com",
           "date": ""
         },
-        "browsingHistory": [
+        "orders": [
           {
-            "item": "Kyoto Carbon Steel 14\" Wok",
-            "link": "https://www.greenpan.us/products/kyoto-by-greenpan-black-carbon-steel-14-wok",
-            "timeAgo": "2026-02-12"
-          },
-          {
-            "item": "Kyoto Carbon Steel 14\" Wok",
-            "link": "https://www.greenpan.us/products/kyoto-by-greenpan-black-carbon-steel-14-wok",
-            "timeAgo": "2026-02-12"
-          },
-          {
-            "item": "Kyoto Carbon Steel 14\" Wok",
-            "link": "https://www.greenpan.us/products/kyoto-carbon-steel-12-wok-black",
-            "timeAgo": "2026-02-12"
+            "orderNumber": "1787578",
+            "orderDate": "2026-02-13",
+            "items": [
+              {
+                "name": "Modern Ring Box",
+                "price": 10,
+                "productLink": "https://modern-bro.myshopify.com/products/modern-ring-box"
+              },
+              {
+                "name": "Mini Princess Studs",
+                "price": 70,
+                "productLink": "https://modern-bro.myshopify.com/products/mini-princess-studs-1"
+              },
+              {
+                "name": "The Heather",
+                "price": 130,
+                "productLink": "https://modern-bro.myshopify.com/products/the-heather"
+              }
+            ],
+            "link": "https://checkout.modgents.com/21933013/orders/1c3dd2566ac346431521a155c2556d55/authenticate?key=beb993cf2a8ca9bb54fcd12ce918522f",
+            "trackingLink": "https://tools.usps.com/go/TrackConfirmAction.action?tLabels=9400150899563303279117",
+            "order_tracking_link": "https://tools.usps.com/go/TrackConfirmAction.action?tLabels=9400150899563303279117",
+            "total": 196.02,
+            "coupon": "MY70",
+            "date_time": "2026-02-13 16:27:02.602"
           }
         ]
       },
@@ -265,1096 +534,397 @@
       "has_shopify": true
     },
     "143": {
-      "id": "019c4e11-bc69-42f0-f000-000073ce7b47",
-      "companyName": "Mathis Home",
-      "companyWebsite": "https://mathishome.com/mathis-home",
-      "agentName": "Mia",
-      "messageTone": "Polished",
+      "id": "019c4de3-f9ef-4476-f000-0000fa74f446",
+      "companyName": "Loverboy",
+      "companyWebsite": "https://drinkloverboy.com",
+      "agentName": "Amanda, Kyle, Carl, Emily, Kayla, Dylan",
+      "messageTone": "Super Casual",
       "conversation": [
         {
           "message_media": [],
-          "message_text": "Mathis Home: Welcome to Mathis Home! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
+          "message_text": "Loverboy: Welcome to Loverboy! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
           "message_type": "system",
-          "date_time": "2026-02-11 13:39:13.257"
+          "date_time": "2026-02-10 21:01:32.872"
         },
         {
           "message_media": [],
-          "message_text": "Mathis Home: We're so glad you're here! Enjoy $25 off your first purchase with code: WELCOME25. \n\n✨Start creating a space you love during our Presidential Savings Event happening NOW: mathishome.attn.tv/aEbigZIxPBD- .",
+          "message_text": "Loverboy: Hey it's Loverboy! We'll text you about fresh flavors, new arrivals & special offers. Take 10% OFF your first order with code CRUSH10. Shop our latest and greatest: loverboy.attn.tv/asUYgnBd78Ru \n\n💖",
           "message_type": "system",
-          "date_time": "2026-02-11 13:39:18.169"
+          "date_time": "2026-02-10 21:01:37.786"
         },
         {
           "message_media": [],
-          "message_text": "Help",
+          "message_text": "Loverboy: Don't forget to save our contact to get exclusive updates!",
+          "message_type": "system",
+          "date_time": "2026-02-10 21:01:39.158"
+        },
+        {
+          "message_media": [],
+          "message_text": "Loverboy: Hey, we noticed you checking us out. Have you seen our latest merch drop yet? https://loverboy.attn.tv/a-34iTu2-_vt ",
+          "message_type": "system",
+          "date_time": "2026-02-11 12:29:41.875"
+        },
+        {
+          "message_media": [],
+          "message_text": "Loverboy: Hey , this is Jordan. Thanks for checking out our site! 😊 https://loverboy.attn.tv/aa0N1F0ABm-D \n\nAny questions I can answer for you? ",
+          "message_type": "system",
+          "date_time": "2026-02-11 12:35:08.570"
+        },
+        {
+          "message_media": [],
+          "message_text": "I have not been ableTo find loverboy in any locations near me.  Can it only be ordered online and shipped?   Any restrictions delivering to Pennsylvania?",
           "message_type": "customer",
-          "date_time": "2026-02-11 13:39:34.980"
+          "date_time": "2026-02-11 13:01:50.199"
         },
         {
           "message_media": [],
-          "message_text": "Throw pillows",
-          "message_type": "customer",
-          "date_time": "2026-02-11 13:39:44.932"
-        },
-        {
-          "message_media": [],
-          "message_text": "Mathis Home: Here to help! Mind sharing the specific design that you're looking for? Please feel free to check out your options here: https://mathishome.attn.tv/aUo2aWYE37Ol ",
-          "message_type": "agent",
-          "agent": "50271",
-          "message_id": "019c4e06-39c0-4ccc-f000-000073ce7b47",
-          "date_time": "2026-02-11 13:45:56.823"
-        },
-        {
-          "message_media": [],
-          "message_text": "Approx 20x20. White or ivory with a graphic designBlack gray brown",
-          "message_type": "customer",
-          "date_time": "2026-02-11 13:48:34.892"
-        },
-        {
-          "message_media": [],
-          "message_text": "Mathis Home: Thank you for the details! What do you think of this collection? https://mathishome.attn.tv/aODQUSO2EfXA",
+          "message_text": "Loverboy: Thank you for reaching out, and I'm sorry to hear that! I'll pass your feedback to our team for future improvement.\n\nYes, Loverboy drinks can be ordered online and shipped directly to you. Delivery requires a signature from someone 21 or older at a residential address, we cannot ship to pickup locations, P.O. boxes, or business addresses. We do not have specific shipping restrictions for Pennsylvania. Hope this helps! If you have any questions, feel free to text me.",
           "message_type": "agent",
           "agent": "87295",
-          "message_id": "019c4e11-bc69-42f0-f000-000073ce7b47",
-          "date_time": "2026-02-11 13:58:31.176"
+          "message_id": "019c4de3-f9ef-4476-f000-0000fa74f446",
+          "date_time": "2026-02-11 13:08:32.270"
         }
       ],
       "notes": {
+        "escalate": [
+          "ESC if the customer is asking for the App code"
+        ],
         "send_to_cs": [
-          "🤖 If a customer needs help locating a product, escalate to the brand using the customer support template!"
+          "Send to CS for post purchase issues, use CS shortcut"
         ],
         "tone": [
-          "Don't use \"Enjoy if you decide to go for it\""
-        ],
-        "templates": [
-          "For REWARDS issues/questions, use RIQ shortcut",
-          "For order updates inquiries use OUI shortcut",
-          "For all sales inquiries use PMC shortcut"
+          "If customers reply negatively to the pride merchandise, close the convo"
         ]
       },
       "rightPanel": {
         "source": {
           "label": "Website",
-          "value": "https://mathishome.com/mathis-home",
+          "value": "https://drinkloverboy.com",
           "date": ""
         },
         "browsingHistory": [
           {
-            "item": "T05808 Pillow",
-            "link": "https://www.mathishome.com/t05808-pillow/RIZDS-T05808-PILLOW.html",
+            "item": "Naughty Nightcap Pack - 12 Pack",
+            "link": "https://drinkloverboy.com/products/the-naughty-nightcap-pack?variant=48180243726560",
             "timeAgo": "2026-02-11"
-          },
-          {
-            "item": "Tika Jade Accent Pillow",
-            "link": "https://www.mathishome.com/mathis-home/home-decor/pillows-and-throws/throw-pillows/tika-jade-accent-pillow/FDI-P0047.html",
-            "timeAgo": "2026-02-11"
-          },
-          {
-            "item": "Tika Jade Accent Pillow",
-            "link": "https://www.mathishome.com/mathis-home/home-decor/pillows-and-throws/throw-pillows/tika-jade-accent-pillow/FDI-P0047.html",
-            "timeAgo": "2026-02-11"
-          },
-          {
-            "item": "Belachime Nightstand",
-            "link": "https://www.mathishome.com/mathis-outlet/mo-bedroom-furniture/mo-nightstands/belachime-nightstand/ASH-B2589-92.html",
-            "timeAgo": "2024-05-15"
           }
         ]
       },
-      "escalation_preferences": [],
+      "escalation_preferences": [
+        "Shipping questions",
+        "Discount code errors",
+        "Sizing questions",
+        "Exchanges and returns"
+      ],
       "blocklisted_words": [],
-      "has_shopify": false
+      "has_shopify": true
     },
     "144": {
-      "id": "019c730d-de9f-4cbb-f000-0000f4bf0801",
-      "companyName": "Stately",
-      "companyWebsite": "https://statelymen.com",
+      "id": "019c3f86-19a6-470a-f000-0000cfc3ff8e",
+      "companyName": "Gardner-White",
+      "companyWebsite": "https://gardner-white.com",
       "agentName": "Jordan",
-      "messageTone": "Polished",
+      "messageTone": "Casual",
       "conversation": [
         {
           "message_media": [],
-          "message_text": "Stately: Welcome! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
+          "message_text": "Gardner White: ONE DAY SALE!\nShop Monday 10a-9pm.\nSave up to 50% off sale prices! Shop Now: https://gw.attn.tv/a-sisreU8zBK .",
           "message_type": "system",
-          "date_time": "2026-02-18 18:08:25.984"
+          "date_time": "2026-01-19 10:47:03.142"
         },
         {
           "message_media": [],
-          "message_text": "Stately: Hi, I'm Jenny - Lead Stylist at Stately. \n\nReady to elevate your wardrobe and get a bonus 2-piece outfit in your first 5 boxes? Use code 5BONUSFITS at checkout - statelymen.attn.tv/ao2rFfMnbRqH \n\nNeed help? I'd love to find the perfect plan for your style needs. Text me back with any questions!",
+          "message_text": "Gardner White: Have you seen the newest arrivals in the Clearance Center inside Gardner White? Shop Now: gw.attn.tv/av07uHAEHiM3 .",
           "message_type": "system",
-          "date_time": "2026-02-18 18:08:29.675"
+          "date_time": "2026-01-21 16:50:47.432"
         },
         {
           "message_media": [],
-          "message_text": "Stately: Don't forget to save our contact info for exclusive updates! ",
+          "message_text": "Gardner White: Presidents Day savings are here! Enjoy an extra 30% off sale prices storewide. Don't wait, shop now: gw.attn.tv/aX4erRN9q9OZ .",
           "message_type": "system",
-          "date_time": "2026-02-18 18:08:33.171"
+          "date_time": "2026-01-29 09:55:23.158"
         },
         {
           "message_media": [],
-          "message_text": "I checked out and wanted to make sure I received the bonus 2 piece items with the code 5BONUSFITS. Thank you!!!",
+          "message_text": "Gardner White: CLEARANCE DEAL OF THE DAY! The comfy Sparta Sofa with 2 Built-In Recliners is now only $595! Shop Now: gw.attn.tv/aADPoKwNbsi5 .",
+          "message_type": "system",
+          "date_time": "2026-02-04 14:07:07.160"
+        },
+        {
+          "message_media": [],
+          "message_text": "Gardner White: Hey, this is Jordan. Thanks for checking out our site! https://gw.attn.tv/a_qZcDEkfEUD \n\nAny questions I can answer for you? ",
+          "message_type": "system",
+          "date_time": "2026-02-08 17:18:23.437"
+        },
+        {
+          "message_media": [],
+          "message_text": "Looking at a couch but I am curious if the cushions are removable or not",
           "message_type": "customer",
-          "date_time": "2026-02-18 18:18:01.444"
+          "date_time": "2026-02-08 17:25:25.109"
         },
         {
           "message_media": [],
-          "message_text": "Template used: \"Post Purchase Inquiries \"; last updated: 2024-02-12 23:00:33.323",
-          "message_type": "template",
-          "date_time": "2026-02-18 18:20:14.777"
-        },
-        {
-          "message_media": [],
-          "message_text": "Stately: Hi, thanks for reaching out. We don't handle post-purchase requests via text. Please submit your request at concierge@statelymen.com or feel free to call this number 323-948-8852, Monday - Thursday 9:00am - 3:30pm PST. Please let me know if you have any questions about our products, I'm more than happy to help out! \n",
+          "message_text": "Gardner White: Could you please provide the name or model of the couch you're interested in? I'll be happy to check the details for you!",
           "message_type": "agent",
-          "agent": "109630",
-          "message_id": "019c730d-de9f-4cbb-f000-0000f4bf0801",
-          "date_time": "2026-02-18 18:20:14.779"
+          "agent": "62551",
+          "message_id": "019c3f5c-4c04-4801-f000-0000cfc3ff8e",
+          "date_time": "2026-02-08 17:25:39.353"
+        },
+        {
+          "message_media": [],
+          "message_text": "Thank you",
+          "message_type": "customer",
+          "date_time": "2026-02-08 17:26:25.204"
+        },
+        {
+          "message_media": [],
+          "message_text": "Haven-dove-4p-skt",
+          "message_type": "customer",
+          "date_time": "2026-02-08 17:41:55.142"
+        },
+        {
+          "message_media": [],
+          "message_text": "Gardner White: Great question! I want to make sure I give you the most accurate information, so I'll check in with my team. Since it's the weekend, I may not hear back until Monday, but I'll be sure to follow up with you as soon as I do!",
+          "message_type": "agent",
+          "agent": "82222",
+          "message_id": "019c3f71-3d02-4458-f000-0000cfc3ff8e",
+          "date_time": "2026-02-08 17:48:31.781"
+        },
+        {
+          "message_media": [],
+          "message_text": "Okay sounds good",
+          "message_type": "customer",
+          "date_time": "2026-02-08 17:49:34.833"
+        },
+        {
+          "message_media": [],
+          "message_text": "Gardner White: Thank you for your time. Should you have any further concerns, please don't hesitate to reach out. ",
+          "message_type": "agent",
+          "agent": "82260",
+          "message_id": "019c3f86-19a6-470a-f000-0000cfc3ff8e",
+          "date_time": "2026-02-08 18:11:18.985"
         }
       ],
       "notes": {
         "send_to_cs": [
           "Send to CS for post purchase issues, use PPI shortcut"
         ],
-        "dos_and_don_ts": [
-          "When sharing links to their plans, always direct the cx to the homepage (https://statelymen.com/) rather than specific plan pages"
-        ]
-      },
-      "rightPanel": {
-        "source": {
-          "label": "Website",
-          "value": "https://statelymen.com",
-          "date": ""
-        }
-      },
-      "escalation_preferences": [],
-      "blocklisted_words": [],
-      "has_shopify": true
-    },
-    "145": {
-      "id": "019c6801-22c4-4b20-f000-0000aa5c95cf",
-      "companyName": "Oral-B and Crest",
-      "companyWebsite": "https://oralb.com",
-      "agentName": "Sam",
-      "messageTone": "Polished",
-      "conversation": [
-        {
-          "message_media": [],
-          "message_text": "Oral-B: Resolution Check-In! Keep up with your smile goals with a partner and save $50 on the Genius X Twin Pack! oral-b.attn.tv/aMJsNWKptDgG ",
-          "message_type": "system",
-          "date_time": "2026-01-24 19:04:11.907"
-        },
-        {
-          "message_media": [],
-          "message_text": "Oral-B: Valentine's Day is Closer Than You Think - You Ready? Make the first move with $50 Off the Oral-B + Crest iO Whitening Bundle: oral-b.attn.tv/ajP0BPOe348H ",
-          "message_type": "system",
-          "date_time": "2026-01-26 18:09:11.030"
-        },
-        {
-          "message_media": [],
-          "message_text": "Oral-B: Save on 2X the Clean and Share! Get the Smart Clean 360 Twin Pack for $20 off while supplies last: oral-b.attn.tv/a4wsLFwTV2-k ",
-          "message_type": "system",
-          "date_time": "2026-01-28 17:45:46.631"
-        },
-        {
-          "message_media": [],
-          "message_text": "Oral-B: Hey I'm Sam your personal Oral-B + Crest shopping assistant. Thank you for your purchase! We've added you to our exclusive VIP list!\n\nYou can text me anytime for support! Is there anything I can assist you with today?\n\nhttps://oral-b.attn.tv/aKGniL_n0Ffh .",
-          "message_type": "system",
-          "date_time": "2026-02-02 14:34:49.031"
-        },
-        {
-          "message_media": [],
-          "message_text": "Oral-B: Save $10 on the Oral-B Family Pack during Kids Dental Health Month. Get your iO2 and kids electric toothbrush bundle today! oral-b.attn.tv/aY7KuCeZYvpZ",
-          "message_type": "system",
-          "date_time": "2026-02-05 16:11:09.247"
-        },
-        {
-          "message_media": [],
-          "message_text": "Oral-B: 🏈 Become an Oral-B Champion with the iO4 Gum Care Bundle & Score $25 Savings: oral-b.attn.tv/aeYwvjrVbcqW ",
-          "message_type": "system",
-          "date_time": "2026-02-08 15:30:41.029"
-        },
-        {
-          "message_media": [],
-          "message_text": "Oral-B: Show 'em How It's Done! The NEW Family Pack has everything you need to keep a healthy smile on you and your little one: oral-b.attn.tv/a7_p7DfoXuhj ",
-          "message_type": "system",
-          "date_time": "2026-02-12 19:02:14.011"
-        },
-        {
-          "message_media": [],
-          "message_text": "Oral-B: Valentine's Day Sale: Love your gums with the iO4 Gum Care Bundle - Now $25 off: oral-b.attn.tv/akg5bvXeG74U ",
-          "message_type": "system",
-          "date_time": "2026-02-14 20:15:23.680"
-        },
-        {
-          "message_media": [],
-          "message_text": "Oral-B: Discover your perfect match! Explore our range of brushes to find the one that suits you best: https://oral-b.attn.tv/aY2f7bvIp9TB \n\nText us if you need assistance!",
-          "message_type": "system",
-          "date_time": "2026-02-16 14:25:07.387"
-        },
-        {
-          "message_media": [],
-          "message_text": "My order has not been delivered",
-          "message_type": "customer",
-          "date_time": "2026-02-16 14:25:35.433"
-        },
-        {
-          "message_media": [],
-          "message_text": "Oral-B: I'm sorry to hear that! Let me raise this with our team. Could you please provide your order number and email address? ",
-          "message_type": "agent",
-          "agent": "50269",
-          "message_id": "019c67fc-ae13-4463-f000-0000aa5c95cf",
-          "date_time": "2026-02-16 14:45:38.867"
-        },
-        {
-          "message_media": [],
-          "message_text": "Missb.edwards@gmail.com1280399",
-          "message_type": "customer",
-          "date_time": "2026-02-16 14:48:02.044"
-        },
-        {
-          "message_media": [],
-          "message_text": "Oral-B: Thank you for sharing that. I'm truly sorry for the inconvenience. I will pass this along to my team and get back to you as soon as possible. Please stand by!",
-          "message_type": "agent",
-          "agent": "109968",
-          "message_id": "019c6801-22c4-4b20-f000-0000aa5c95cf",
-          "date_time": "2026-02-16 14:50:30.874"
-        }
-      ],
-      "notes": {
-        "important": [
-          "When sending a link, if you see a \"/\" at the end of the URL, remove it"
-        ],
-        "send_to_cs": [
-          "Send to CS for damaged items that aren't available on the website"
-        ],
-        "escalate": [
-          "ESC immediately if the order is delivered, but cx did not receive it",
-          "ESC if cx wants to use an expired code",
-          "ESC sales end date questions",
-          "ESC invalid codes / expired code issues",
-          "Before ESC for retroactive discount requests, check if the item is on sale or if they met the minimum",
-          "Don't make suggestions of replacements - if unsure, ESC",
-          "ESC false advertising complaints",
-          "ESC if cx state they regret placing the order after the CANCEL/ORDER temp has been sent",
-          "Before ESC products not functioning properly",
-          "→ Inquire what exact brush/product they have",
-          "→ Provide any user guides available",
-          "Don't ask for the cx's shipping address as secondary info, include their phone number instead"
-        ],
-        "tone": [
-          "Keep messages shorter and more direct",
-          "Don't use the term \"cart tracking\", or let cxs know we can see what they have in their cart"
-        ],
         "templates": [
-          "If the cx asks where there order is, and it's a confirmed order within the standard processing and shipping time, only share the \"Order status/order tracking\" temp",
-          "If the cx reaches out saying they're having issue with their code, first use CWW temp",
-          "If cx needs assistance with brush function/operations use FOQ shortcut",
-          "For product complaints/bad experiences use PBE shortcut",
-          "If cx says they're dentists/hygienists & want to shop use RDH shortcut",
-          "If cx is a short amount away from reaching the $100 threshold for the welcome discount to apply use SRT shortcut",
-          "If cx ask why their order was canceled, use MOC shortcut",
-          "If cx purchased from their dentist and looking for rebate ($30, $20, $10 back) use RBT shortcut",
-          "For post-purchase issues with Amazon orders, use PS shortcut",
-          "For post-purchase issues where cxs are dental professionals, dentists, hygienists, use DPS shortcut"
+          "If Cx texts in GIFT:",
+          "➜ Use CTO shortcut",
+          "➜ When they answer \"yes\", use CTT shortcut"
         ],
         "dos_and_don_ts": [
-          "If customers are looking for brush heads always confirm what type of brush they have, iO or non iO",
-          "If you can't find the products on the website, refer to this one https://crest.com/en-us",
-          "Hold to policy and do not offer to check if deviation from policy is acceptable",
-          "If customers ask about the warranty registration code OR say it's not accepting theirs (they might refer to it as a promo code for registration)- send them this one OB59185 (it's always the same)"
-        ],
-        "drive_to_purchase": [
-          "For general recommendations use CFR shortcut",
-          "Always refer cxs to iO series products, when possible"
+          "The stock in-store and online are the same; all in-stock items are here: https://www.gardner-white.com/promo/on-sale-now/in-stock",
+          "Don't push for AFFIRM; offer their white label card, then Fortiva, and then Affirm"
         ],
         "promo_and_promo_exclusions": [
-          "The $85 welcome promo code isn't for % off, once applied a free item is added to the cart",
-          "Please check the last letters of a code to determine when they were sent",
-          "→ I.e. WCOBDC means it is a December code (DC) and will likely expire in Jan",
-          "Discount codes do not work on Amazon",
-          "If cx is looking for a discount on replacement brush heads, encourage to subscribe for savings on the product page"
+          "Clearance center items do not qualify for additional discounts",
+          "Items priced with .95 do not qualify for promotions"
         ]
       },
       "rightPanel": {
         "source": {
           "label": "Website",
-          "value": "https://oralb.com",
+          "value": "https://gardner-white.com",
           "date": ""
         },
         "browsingHistory": [
           {
-            "item": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-            "link": "https://oralb.com/en-us/products/replacement-brush-heads/oral-b-io-whitening-care-replacement-brush-heads-2-count-white/",
-            "timeAgo": "2026-02-01"
+            "item": "Haven Dove 4-Piece Sectional with Right- Arm Facing Chaise",
+            "link": "https://www.gardner-white.com/product/198064-haven-dove-4-piece-sectional-with-right-arm-facing-chaise",
+            "timeAgo": "2026-02-08"
           },
           {
-            "item": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-            "link": "https://oralb.com/en-us/products/replacement-brush-heads/oral-b-io-whitening-care-replacement-brush-heads-2-count-white/",
-            "timeAgo": "2026-02-01"
+            "item": "Haven Dove 4-Piece Sectional with Right- Arm Facing Chaise",
+            "link": "https://www.gardner-white.com/product/198064-haven-dove-4-piece-sectional-with-right-arm-facing-chaise",
+            "timeAgo": "2026-02-08"
           },
           {
-            "item": "iO Series 10 Rechargeable Electric Toothbrush, Stardust White",
-            "link": "https://oralb.com/en-us/products/electric-toothbrushes/io-series-10-rechargeable-electric-toothbrush-stardust-white/?utm_source=attentive&utm_medium=text&utm_campaign=prospecting&utm_content=oralb-july-4th-1-062725-va&utm_term=sms-io10sms-io10&ai_audience=oralb-july-4th-1-062725-va_base&externalId=SRjWp",
-            "timeAgo": "2025-06-28"
+            "item": "Haven Cocoa 3-Piece Sectional with Right Arm Facing Chaise",
+            "link": "https://www.gardner-white.com/product/198060-haven-cocoa-3-piece-sectional-with-right-arm-facing-chaise",
+            "timeAgo": "2026-02-08"
           },
           {
-            "item": "iO Series 10 Rechargeable Electric Toothbrush, Stardust White",
-            "link": "https://oralb.com/en-us/products/electric-toothbrushes/io-series-10-rechargeable-electric-toothbrush-stardust-white/?utm_source=attentive&utm_medium=text&utm_campaign=prospecting&utm_content=oralb-july-4th-1-062725-va&utm_term=sms-io10sms-io10&ai_audience=oralb-july-4th-1-062725-va_base&externalId=SRjWp",
-            "timeAgo": "2025-06-28"
+            "item": "Overnight Blue 3-Piece Sleeper Sectional with Dual Chaises",
+            "link": "https://www.gardner-white.com/package/193297-overnight-blue-3-piece-sleeper-sectional-with-dual-chaises",
+            "timeAgo": "2026-02-08"
           },
           {
-            "item": "iO Series 10 Rechargeable Electric Toothbrush, Stardust White",
-            "link": "https://oralb.com/en-us/products/electric-toothbrushes/io-series-10-rechargeable-electric-toothbrush-stardust-white/?utm_source=attentive&utm_medium=text&utm_campaign=prospecting&utm_content=oralb-july-4th-1-062725-va&utm_term=sms-io10sms-io10&ai_audience=oralb-july-4th-1-062725-va_base&externalId=SRjWp",
-            "timeAgo": "2025-06-28"
-          }
-        ],
-        "orders": [
-          {
-            "orderNumber": "1280399",
-            "orderDate": "2026-02-01",
-            "items": [
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://shop.loriwhitlock.com/valentine-tags-1/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://kdmtuners.com/product/kn-hyundai-veloster-turbo-1-6l-typhoon-performance-intake/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://www.enjukuracing.com/products/srp-racing-pedal-set-for-89-98-nissan-240sx-manual-trans.html"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://www.oklahomajoes.com/longhorn-offset-smoker-cover"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://dailysteals.com/products/mobile-height-adjustable-sit-to-stand-desk.html"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://tartecosmetics.com/shop/limited-edition-wink-wardrobe-tarteist-pro-lash-binder-951.html"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://us.elemis.com/pro-radiance-illuminating-eye-balm-1ml.html"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://macks-prairie-wings-inc-alb.mybigcommerce.com/work-sharp-diamond-belt-kit-for-ceramic-knives/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://coco-republic-us-store-1-b2b.mybigcommerce.com/products/panama-ii-outdoor-cover.html"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://checkout.super.com/products/snow-white-american-allium-flower-bulbs/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://shopstarbeauty.com/hot-hotter-electric-pressing-comb/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://www.misfitsmarket.com/shop/aisle?addToCart=951"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://creole.net/poches-duck-chicken-sausage-1lb/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://www.lifeaidbevco.com/fitaid-kids-t-shirt-yellow-xl"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://www.designsbyjuju.com/zdbjj355-10-spring-fling-applique-single"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://leonardusa.com/product/curt-class-3-trailer-hitch-2-receiver-select-honda-passport-13421/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://merrystockings.com/let-it-snow-bucilla-felt-stocking-kit.html"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://barndoorag.com/banjo-camlever-1-female-coupler-x-1-female-npt-poly-coupling-100d/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://knifeworks.com/knotty-boys-fire-survival-bracelet-fat-boy-style-size-medium/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://www.uswatersystems.com/polaris10-14-watt-uv-ballast-110-volt.html"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://warriorpoetsupplyco.com/wps-multitasker-twist/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://ampeduplearning.com/australia-and-oceania-map-scavenger-hunt-bundle/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://us.jellycat.com/little-chick/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://genright.com/shop-by-vehicle/jeep-cj-76-86/cj-trail-stinger-front-bumper-steel/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://wilton-industries-inc.mybigcommerce.com/wilton-foodwriter-fine-tip-edible-color-markers-5-pack/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://watchwarehouse.com/hamilton-jazzmaster-open-heart-black-leather-automatic-watch-h32565735/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://www.dormco.com/Tension_Rod_for_Blackout_Curtains_p/f3-2-3-5900-5901-0002.htm"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://www.lafurniturestore.com/contemporary-entertainment-center-sma-step-13.html"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://barberco.com.au/babylisspro-clipper-comb-attachment-8pc/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://www.thermoworks.com/therma-k-metal-probe-kit/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://dixiebellepaint.com/trim-tr716-set-of-2/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://www.ascolour.com.au/mens-staple-tank/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://rafflex.io/product/bowmore-15-year-old-auto-draw-2"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://dunsterhouse.co.uk/garden-structures/wooden-pergolas/leviathan-half-wall-pergola-w6-0m-x-d3-0m"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://www.theproteinworks.com/whey-protein-90-isolate-coconut-500g"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://hyva.odindev.com/11701-mercedes-e350.html"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://romencegardens.com/heuchera-fire-alarm/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://new.serioussips.com/numi-tea-box-of-100-single-serve-packets-gunpowder-green/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://www.replacements.com/china-acsons-serina-9-round-vegetable-bowl/p/9511"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://christmasfromgermany.com/santa-with-sleigh-of-toys/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://www.cravenspeed.com/the-original-stubby-antenna-for-2012-2015-mini-roadster/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://www.spartanarmorsystems.com/titan-triple-kangaroo-mag-pouch/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://www.naplessoap.com/coconut-shower-must-haves/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://groomerschoice.com/bio-groom-groom-n-fresh-cologne-32oz/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://www.luckyduck.com/blaze-orange-hat-w-leather-patch/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://gtfoitsvegan.com/?post_type=product&p=951"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://oralb.com/en-us/products/replacement-brush-heads/oral-b-io-whitening-care-replacement-brush-heads-2-count-white/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://simply-nutrients.mybigcommerce.com/Vitamin-D3-Gummies-120-ct-p4200.html"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://www.mysupplementstore.com/products/barlean-s-omega-swirl-omega-3-flax-oil-supplement-strawberry-banana-16-fl-oz-1"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://www.swissgear.com/swissgear-7850-checklite-liteweight-underseat-luggage"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://www.glycinestore.eu/glycine-combat-sub-36-gl0396/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://checkout.burrow.com/outdoor/seating/relay-outdoor-4-piece-sectional"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://www.carpro-us.com/brushes-bottles-applicator/carpro-empty-spray-bottle-w-trigger-500ml-17oz/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://glesilver.com/product/sterling-silver-smooth-rectangular-tree-of-life-pendant/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://staging.boatoutfitters.com/innovative-4-tray-tackle-center.html"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://monumentmetals.com/2018-tokelau-1-oz-silver-leopard-shark.html"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://www.toolnut.com/clc-custom-leathercraft-e4521-2-embossed-leather-work-belt.html"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://www.anniesattic.com/annies-signature-designs-freesia-throw-blanket-crochet-pattern-digital-download"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://www.theshoemart.com/carolina-mens-ca5821-8-steel-toe-waterproof-insulated-logger/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://getbitoutdoors.com/batson-fawc"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://nourishsavannah.com/reggae-sunsplash-olive-oil-and-shea-butter-soap/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://francescas.com/product/26P58-FQ52/harlowe-paisley-flippy-mini-skirt"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://www.alamomusic.com/luna-henna-sahara-spruce/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://www.lightopia.com/Details/Palecek-Everly/951"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://www.krakendice.com/mystic-fairy-tale-naked-14pc-dice-set-with-kraken-logo/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://www.rcsuperstore.com/traxxas-e-maxx-two-speed-conversion-kit-w-shift-servo/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://bullionsharks.com/roman-billon-ant-of-numerian-ce283-284-ngc-vf/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://finlandiahealthstore.com/new-roots-alpha-lipoic-r-150mg-60vcaps/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://livecarmodel.com/products/1-18-dealer-edition-mazda-3-axela-hatchback-red-diecast-car-model.html"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://www.nothingbundtcakes.com/product/200000000995324581-200000016617546334/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://www.sportsworldchicago.com/chicago-cubs-wrigley-field-vintage-stadium-collection-banner-by-winning-streak/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://shop.lacrawfish.com/duck-camp-x-lcc-midweight-field-shirt/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://healthypets.com/fastbalancegi/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://developer-staging-m2.stage.iseeme.com/en-us/my-very-own-pirate-tale-personalized-puzzle.html"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://www.vitalitymedical.com/hoyer-elevate-professional-patient-lift.html"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://mcstaging.charlesbentley.com/charles-bentley-horse-grooming-brush-rug-blanket-bag-black-and-blue-available.html"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://www.utvsource.com/rigid-industries-sr-series-led-light-bar-6-flood/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://csd.shop/products/women/bags/white-leather-rainbow-crossbody-bag.html"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://museumreplicas.com/feasting-dagger/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://store.philamuseum.org/traveler-s-company-brass-pencil/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://energyartistjulia.com/products/the-wave-the-energy-of-rebirth-and-spiritual-transformation.html"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://renegadegamestudios.com/werewolf-the-apocalypse-5th-edition-roleplaying-game-free-bonus-content/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://global-medical-solutions.com/Schiller-Rubber-Adapter-Syringe-Cone-for-Mouthpiece-SP-100-SP-110-_p_2219.html"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://www.fabspeed.com/fabspeed-porsche-987-boxster-cayman-tracktec-conversion-kit-2005-2008/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://ca.eccotemp.com/diamond-3-year-protection-plan-for-sh22-and-sh22i-tankless-water-heaters/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://www.rpgshow.com/18-honey-blonde-highlight-straight-human-hair-lace-front-wig-gw484-6.html"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://cheapfood.co.uk/sanpellegrino-orange-sparkling-330ml/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://secure.solostove.com/pizza-docker/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://tulster.com/profileplus-iwb-holster-in-left-hand-for-springfield-armory-hellcat-rdp/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://www.myotcstore.com/store/p/69104-Sada-Pack-Elegance-Triple-Action-Hair-Gel-Strong-Hold-17-15-Oz"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://www.badgleymischka.com/paisley-texture-wrap/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://northern-reflections-store-2.mybigcommerce.com/relaxed-dusty-blue-ditsy-v-neck-t-shirt-4000011837/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://checkout.platformart.com/orange-bat/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://ruby-rd-store-2.mybigcommerce.com/plus-womens-eyelash-metallic-sweater/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://burjushoes.com/namalia-lace-up-closed-toe-heel-dress-pump-black-vegan-leather/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://bodyjewelry.com/beburisustbu.html"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://www.tulipworld.com/Spring-Planted-Bulbs/Gladiolus/Fidelio-Gladiolus.aspx"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://secure.theartofshaving.com/the-4-elements-heated-razor-kit-lavender-old/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://artbeads.com/jewelry-supplies/tierracast-antique-copper-hammertone-bail/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://www.namcopool.com/hayward-18-pro-series-sand-filter"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://superjeweler.com/1-2-carat-princess-shape-diamond-solitaire-ring-in-14k-white-gold-951.html"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://www.modani.com/belle-epoque-dining-chair-purple.html"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://www.longfield-gardens.com/plantname/Dahlia-Decorative-Karma-Prospero"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://www.wrightlife.com/disc-golf/golf-discs/distance-driver/latitude-64-opto-fury/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://comainducer.com/longer-than-long-coma-inducer-plush-blanket-black/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://lifeaidbevco.com.au/fitaid-kids-t-shirt-yellow-xl"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://testing.eastwood.com/powder-semi-gloss-clear-2-lb-nv.html"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://www.bltdirect.com/pygmy-25-watt-sbc"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://www.clearbags.com/4-7-8-x-1-x-6-5-8-hanging-soft-fold-box.html"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://www.keylessentryremotefob.com/autostart-asrf-1510-factory-oem-key-fob-keyless-entry-remote-alarm-replace/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://www.alekoproducts.com/outdoor-living/awnings/motorized-led-luxury-awnings/half-cassette-motorized-retractable-led-luxury-patio-awning-12-x-10-feet-multi-striped-yellow/awcl12x10msy315-ap/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://www.thrivemarket.com/p/jem-raw-organics-superberry-maqui-camu-almond-butter"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://www.judybluewholesale.com/82103pl14w24w-md-18w.html"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://www.ams-samplers.com/gvp-base-section-only/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://checkout.nordicware.com/verde-20-qt-stock-pot-with-lid/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://vandamwarehouse.com/big-johns-ol-west-bbq-dippin-sauce-by-james-valley-scents/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://secure.selkent.com/m10-spring-washers-s-coil-sq-sec-galv-type-a"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://mbrpexhauststore.com/s7260304-mbrp-exhaust-3-cat-back-dual-split-rear-race-version-4-5-tips-t304-ford-shelby-gt-500-2011/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://www.steeda.com/ford-racing-8.8-3.55-1-irs-mustang-ring-gear-and-pinion-set-2015-161-m-4209-88355a.html"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://checkout.gillfishing.com/quest-hoody/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://heritagebooks.org/products/a-call-to-united-extraordinary-prayer-edwards.html"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://www.sollenaturals.com/product/951"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://mechanicsuperstore.com/ergochair-wall-hanger-wall-mount-for-ergo-rs-creeper-seat/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://www.macofalltrades.com/apple-imac-21-5-inch-2-7ghz-quad-core-i5-late-2013-me086ll-a-7-excellent-condition/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://www.customconnectorkits.com/12124587-r/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://zogics.com/cleaning-supplies/procter-gamble-comet-disinfecting-bathroom-cleaner-8-bottles-case"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://www.filtersfast.com/filters-fast-ffc16253-air-filters.asp"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://www.barefrigeration.com/refrigeration/thermostats/continental-refrigeration-thermostat-cont-4-748/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://mcstaging-us.elemis.com/pro-radiance-illuminating-eye-balm-1ml.html"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://www.bestpricenutrition.com/products/universal-nutrition-animal-pump-1"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://www.flowerstation.co.uk/sweet-16/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://www.seriouspuzzles.com/leslie-anne-ivorys-ivory-cats-agneathea-and-the-greek-vase-300pc-oversized-jigsaw-puzzle-by-ceaco/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://mauipineapplestore.com/3-d-wood-pineapple-ornament/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://yonidapunani.com/dollar-sign-2-0-nose-studz/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://crowdershop.com/more-responsibility-tumbler/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://www.lacrosseunlimited.com/lacrosse-unlimited-laxgirl-pinnie-green.html"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://www.wilsonamplifiers.com/weboost-home-room-signal-booster-kit-renewed-472120r-formerly-home-4g-470101r/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://checkout.springbok-puzzles.com/product-p/41-07106.htm"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://checkout.fascinatingdiamonds.com/products/shared-prong-thin-engagement-ring/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://store.ancientfaith.com/christ-mandylion-large-icon/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://store.spiceology.com/flake-sea-salt/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://sagaconcepts.com/rpr-77526/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://www.coolergaskets.com/star-metal-gasket-25-1-4-x-25-1-2-sp-691-21/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://mountaincrestgardens.com/sempervivum-purple-passion-/"
-              },
-              {
-                "name": "Oral-B iO Whitening Care Replacement Brush Heads, 2-Count, White",
-                "price": 23.99,
-                "productLink": "https://shopabbyrose.com/eye-see-you-iphone-case/"
-              }
-            ],
-            "total": 23.99,
-            "date_time": "2026-02-01 15:26:15.169"
+            "item": "Overnight Grey 4-Piece Sleeper Sectional with Right Arm Facing Chaise",
+            "link": "https://www.gardner-white.com/package/193304-overnight-grey-4-piece-sleeper-sectional-with-right-arm-facing-chaise",
+            "timeAgo": "2026-02-08"
           }
         ]
       },
       "escalation_preferences": [
-        "All product complaints or bad experiences with a product"
+        "Exchanges and returns",
+        "Discount code errors",
+        "Shipping questions"
       ],
-      "blocklisted_words": [
-        "seems",
-        "shoot",
-        "worries"
+      "blocklisted_words": [],
+      "has_shopify": false
+    },
+    "145": {
+      "id": "019c7366-9858-482d-f000-0000c90f3b28",
+      "companyName": "Lovesac",
+      "companyWebsite": "https://lovesac.com",
+      "agentName": "",
+      "messageTone": "Polished",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "Lovesac: This Is That Sale. 40% Off Ends Tonight! Don't miss your chance to get what you've always wanted.\n\nShop now: lovesac.attn.tv/ajtmU7KSTpox .",
+          "message_type": "system",
+          "date_time": "2026-01-25 15:05:19.044"
+        },
+        {
+          "message_media": [],
+          "message_text": "Lovesac: Sending a little love made for your home - 40% off everything for 4 days during our Friends & Family Event.\n\nShop now: lovesac.attn.tv/aREg511rrVAA .",
+          "message_type": "system",
+          "date_time": "2026-01-28 13:05:28.844"
+        },
+        {
+          "message_media": [],
+          "message_text": "Lovesac: Last chance for a little love and LOTS of comfort. Our Friends & Family get 40% off for one last day.\n\nDon't miss it: lovesac.attn.tv/ahcEZPwShplG .",
+          "message_type": "system",
+          "date_time": "2026-01-31 13:05:36.184"
+        },
+        {
+          "message_media": [],
+          "message_text": "Lovesac: Hey there! We noticed you stopped by. Need some help? Just let us know which products you're interested in below. \n\nA. Sactionals\nB. Sacs\nC. StealthTech\nD. Snugg\n\nReply back \"A\", \"B\", \"C\", or \"D\"\n\nOr shop them all with 40% off: lovesac.attn.tv/av27Nw8gucCj .",
+          "message_type": "system",
+          "date_time": "2026-01-31 16:45:24.913"
+        },
+        {
+          "message_media": [],
+          "message_text": "Lovesac: Deep discounts on Total Comfort - Shop Clearance for up to 70% off: lovesac.attn.tv/aVBlnZyDmmDh .",
+          "message_type": "system",
+          "date_time": "2026-02-02 16:45:30.739"
+        },
+        {
+          "message_media": [],
+          "message_text": "Lovesac: It's time to end your uncomfortable SIT-uationship - Get 40% off with Presidents' Day savings.\n\nShop now: lovesac.attn.tv/a14AIj-3YkGX .",
+          "message_type": "system",
+          "date_time": "2026-02-06 13:06:00.706"
+        },
+        {
+          "message_media": [],
+          "message_text": "Lovesac: If sitting down feels like settling, choose better comfort with a PillowSac Chair. \n\nBig comfort in two sizes: lovesac.attn.tv/axLr4DP4gKxY .",
+          "message_type": "system",
+          "date_time": "2026-02-07 15:00:25.446"
+        },
+        {
+          "message_media": [],
+          "message_text": "Lovesac: 40% off everything continues. Shop our Presidents' Day Sale for furniture that adapts to you.\n\nShop now: lovesac.attn.tv/abalMP21e7mv .",
+          "message_type": "system",
+          "date_time": "2026-02-11 15:15:09.307"
+        },
+        {
+          "message_media": [],
+          "message_text": "Lovesac: Just two days left to shop the Presidents' Day Sale and save 40% on everything.\n\nShop now: lovesac.attn.tv/adXvt_jr6S1f .",
+          "message_type": "system",
+          "date_time": "2026-02-15 15:05:52.920"
+        },
+        {
+          "message_media": [],
+          "message_text": "Lovesac: Presidents' Day Sale ends tonight - take 40% off before it's gone.\n\nLast call to save on the styles you've been eyeing: lovesac.attn.tv/aykB75GC5ta9 .",
+          "message_type": "system",
+          "date_time": "2026-02-16 13:15:32.979"
+        },
+        {
+          "message_media": [],
+          "message_text": "Lovesac: Hey there! We noticed you eyeing something on our site...come back and get 40% off: lovesac.attn.tv/aQWBCVzRh6BH .",
+          "message_type": "system",
+          "date_time": "2026-02-18 13:28:16.228"
+        },
+        {
+          "message_media": [],
+          "message_text": "Need help",
+          "message_type": "customer",
+          "date_time": "2026-02-18 19:42:05.176"
+        },
+        {
+          "message_media": [],
+          "message_text": "Lovesac: Hi, how can I help you today?",
+          "message_type": "agent",
+          "agent": "109630",
+          "message_id": "019c7359-3399-40e6-f000-0000c90f3b28",
+          "date_time": "2026-02-18 19:42:31.735"
+        },
+        {
+          "message_media": [],
+          "message_text": "Need help ordering",
+          "message_type": "customer",
+          "date_time": "2026-02-18 19:43:05.283"
+        },
+        {
+          "message_media": [],
+          "message_text": "Lovesac: I'm here to help. Could you please send me the items you would like?\n",
+          "message_type": "agent",
+          "agent": "39001",
+          "message_id": "019c735c-0cd8-4cf6-f000-0000c90f3b28",
+          "date_time": "2026-02-18 19:45:38.422"
+        },
+        {
+          "message_media": [],
+          "message_text": "I'm looking at sectional, the soft, with speakers",
+          "message_type": "customer",
+          "date_time": "2026-02-18 19:53:55.262"
+        },
+        {
+          "message_media": [],
+          "message_text": "Lovesac: Thank you for getting back to me and providing that information! We have a wide selection available for you to choose from: https://lovesac.attn.tv/aDVR59RXCkPB How many seats are you interested in?",
+          "message_type": "agent",
+          "agent": "109840",
+          "message_id": "019c7366-9858-482d-f000-0000c90f3b28",
+          "date_time": "2026-02-18 19:57:09.499"
+        }
       ],
+      "notes": {
+        "send_to_cs": [
+          "No ESC for this client, send everything to CS"
+        ],
+        "tone": [
+          "Close the convo once the client takes over!"
+        ]
+      },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://lovesac.com",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "2 Standard Seats + 4 Deep Seats + 1 Storage Seat + 8 Standard Sides",
+            "link": "https://www.lovesac.com/sactionals/build/2-seats-4-deep-seats-1-storage-seat-8-sides-sky-grey-corded-velvet?utm_campaign=Browse-Abandonment-Message&utm_medium=sms&utm_source=attentive&externalId=D4jbP",
+            "timeAgo": "2026-02-19"
+          },
+          {
+            "item": "2 Standard Seats + 4 Deep Seats + 1 Storage Seat + 8 Standard Sides",
+            "link": "https://www.lovesac.com/sactionals/build/2-seats-4-deep-seats-1-storage-seat-8-sides-sky-grey-corded-velvet?utm_campaign=Browse-Abandonment-Message&utm_medium=sms&utm_source=attentive&externalId=D4jbP",
+            "timeAgo": "2026-02-19"
+          },
+          {
+            "item": "6 Standard Seats + 2 Deep Seats + 7 Standard Sides + 2 Deep Sides",
+            "link": "https://www.lovesac.com/sactionals/build/6-seats-2-deep-seats-7-sides-2-deep-sides-abyss-ultra-velvet?fabric=5367",
+            "timeAgo": "2026-02-18"
+          },
+          {
+            "item": "2 Standard Seats + 4 Deep Seats + 1 Storage Seat + 8 Standard Sides",
+            "link": "https://www.lovesac.com/sactionals/build/2-seats-4-deep-seats-1-storage-seat-8-sides-sky-grey-corded-velvet",
+            "timeAgo": "2026-02-18"
+          },
+          {
+            "item": "Sactionals StealthTech Sound + Charge Angled Side Pillow Insert",
+            "link": "https://www.lovesac.com/products/sactionals-stealthtech-sound-charge-angled-side-pillow-insert",
+            "timeAgo": "2025-10-31"
+          }
+        ]
+      },
+      "escalation_preferences": [],
+      "blocklisted_words": [],
       "has_shopify": false
     }
   }

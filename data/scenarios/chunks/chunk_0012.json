@@ -3,181 +3,672 @@
   "chunk": "chunk_0012",
   "scenarios": {
     "56": {
-      "id": "019c7237-4b0b-4c43-f000-0000c83a1bcd",
-      "companyName": "Hot Topic",
-      "companyWebsite": "https://hottopic.com",
-      "agentName": "Sarah",
+      "id": "019c49b2-c863-44f7-f000-0000fa3fc7ed",
+      "companyName": "johnnie-O",
+      "companyWebsite": "https://johnnie-o.com/",
+      "agentName": "Darby",
       "messageTone": "Polished",
       "conversation": [
         {
           "message_media": [],
-          "message_text": "Hot Topic: Today ONLY! Up to 50% off + an extra 50% off already reduced merch w/ code HTEXTRA. Shop now. hottopic.attn.tv/aclV_bM_R4lx .",
+          "message_text": "Johnnie-O: Welcome to johnnie-O! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel. Privacy: https://johnnie-o.attn.tv/a1oPbFoM6l7P .",
           "message_type": "system",
-          "date_time": "2026-01-27 10:53:11.957"
+          "date_time": "2026-02-09 13:25:41.039"
         },
         {
           "message_media": [],
-          "message_text": "Hot Topic: Just for our SMS subscribers: 35% OFF YOUR order w/ code HT35OFF...everyone else gets 30% off. Use your deal today! hottopic.attn.tv/arzZLzM1U-Ww .",
+          "message_text": "Johnnie-O: Welcome to the Family! Your 10% off coupon code is SMS10Jdv898 . Click here to shop now: https://johnnie-o.attn.tv/aKrUXulmnKOf .",
           "message_type": "system",
-          "date_time": "2026-01-29 10:22:52.404"
+          "date_time": "2026-02-09 13:25:45.035"
         },
         {
           "message_media": [],
-          "message_text": "Hot Topic: Tees = 2 for $25 TODAY! Pick your faves & lock it in. Shop now. hottopic.attn.tv/aM6pxmPJq883 .",
+          "message_text": "Johnnie-O: Don't forget to save our contact!",
           "message_type": "system",
-          "date_time": "2026-02-02 17:20:03.334"
+          "date_time": "2026-02-09 13:25:46.290"
         },
         {
           "message_media": [],
-          "message_text": "Hot Topic: Starting now: The hottest pop culture picks are up to 50% Off. What are you waiting for? Shop now. hottopic.attn.tv/aWihPIjKgAm6 .",
+          "message_text": "Johnnie-O: Thank you for your purchase! Your order number is 1852565. View more information about your order here: https://johnnie-o.attn.tv/aQu8ThnHr--g .",
           "message_type": "system",
-          "date_time": "2026-02-11 15:07:45.826"
+          "date_time": "2026-02-09 13:27:30.475"
         },
         {
           "message_media": [],
-          "message_text": "Hot Topic: Unlucky? Not today! Grab $13 Deals on tees, jewelry, accessories & more. Now thru 4PM PT/7PM ET. Shop now. hottopic.attn.tv/aeItXwPS_Nvr .",
+          "message_text": "Johnnie-O: Thank you for shopping at johnnie-O! We hope you love your purchase. Any questions, don't hesitate to contact us, we are always here to help wingman@johnnie-o.com \njohnnie-o.attn.tv/aQAE8Du2TqIv \n\n",
           "message_type": "system",
-          "date_time": "2026-02-13 13:35:57.832"
+          "date_time": "2026-02-09 13:57:48.855"
         },
         {
           "message_media": [],
-          "message_text": "Hot Topic: Big deal energy is ON! Up to 70% OFF almost everything for a limited time. Shop now. hottopic.attn.tv/a-Waq2h3bwnw .",
+          "message_text": "Johnnie-O: Hey Nick , this is Darby . Thanks for stopping by! 😊 johnnie-o.attn.tv/aWPicNWY1wpp \n\nAny questions I can answer for you? ",
           "message_type": "system",
-          "date_time": "2026-02-15 16:11:50.980"
+          "date_time": "2026-02-10 13:46:22.657"
         },
         {
           "message_media": [],
-          "message_text": "Hot Topic: This is your nudge: Up to 70% off tons of styles ends SOON. Don't let it pass you by. Shop now. hottopic.attn.tv/a5oJtQn4pyhb .",
+          "message_text": "Johnnie-O: Thank you for your purchase! Your order number is 1853267. View more information about your order here: https://johnnie-o.attn.tv/ae1vE5TxNc4H .",
           "message_type": "system",
-          "date_time": "2026-02-17 13:36:20.482"
+          "date_time": "2026-02-10 14:02:37.325"
         },
         {
           "message_media": [],
-          "message_text": "Toothless dragon hoodie?",
+          "message_text": "Johnnie-O: Hi, if you need additional help please reach out to wingman@johnnie-o.com. Text STOP to opt out.",
+          "message_type": "system",
+          "date_time": "2026-02-10 17:35:22.034"
+        },
+        {
+          "message_media": [],
+          "message_text": "Hi Darby, is there any chance I could pay for overnight shipping or 2-3 day? Didn't see the option on the website",
           "message_type": "customer",
-          "date_time": "2026-02-18 14:05:38.423"
+          "date_time": "2026-02-10 17:35:31.066"
         },
         {
           "message_media": [],
-          "message_text": "Hot Topic: I'd be happy to help! You can find them here: https://hottopic.attn.tv/aFa-fN05IMqO What size do you need? ",
+          "message_text": "Johnnie-O: Thanks for getting in touch and for your interest! To ensure I provide the most accurate answer, I'll reach out to our team for more insights. We'll get back to you as soon as we have an update. Feel free to let me know if you need help with anything else in the meantime.",
           "message_type": "agent",
-          "agent": "50269",
-          "message_id": "019c7227-c5d4-46c9-f000-0000c83a1bcd",
-          "date_time": "2026-02-18 14:08:55.146"
-        },
-        {
-          "message_media": [],
-          "message_text": "I know this is probably too late, but do you have the one that you released when the new how to train your Dragon movie came out",
-          "message_type": "customer",
-          "date_time": "2026-02-18 14:09:58.162"
-        },
-        {
-          "message_media": [],
-          "message_text": "Hot Topic: Is there a way you can send a photo or a screenshot of it so I can check if it's something we still have? ",
-          "message_type": "agent",
-          "agent": "43099",
-          "message_id": "019c7229-f2ba-471a-f000-0000c83a1bcd",
-          "date_time": "2026-02-18 14:11:17.710"
-        },
-        {
-          "message_media": [],
-          "message_text": "Hot Topic: Thanks for the screenshot! At this time, it's only available in size XL: https://hottopic.attn.tv/aJkAZfrhfRQe",
-          "message_type": "agent",
-          "agent": "45474",
-          "message_id": "019c722f-23c0-479b-f000-0000c83a1bcd",
-          "date_time": "2026-02-18 14:16:57.948"
-        },
-        {
-          "message_media": [],
-          "message_text": "Thank you so much",
-          "message_type": "customer",
-          "date_time": "2026-02-18 14:17:58.077"
-        },
-        {
-          "message_media": [],
-          "message_text": "Hot Topic: You're most welcome! Anything else I can help you with while I still have you? ",
-          "message_type": "agent",
-          "agent": "35256",
-          "message_id": "019c7233-79f9-4b77-f000-0000c83a1bcd",
-          "date_time": "2026-02-18 14:21:42.163"
-        },
-        {
-          "message_media": [],
-          "message_text": "Do you know how many they have left?",
-          "message_type": "customer",
-          "date_time": "2026-02-18 14:22:57.949"
-        },
-        {
-          "message_media": [],
-          "message_text": "Template used: \"Pre purchase support - All brands\"; last updated: 2023-10-10 17:44:34.578",
-          "message_type": "template",
-          "date_time": "2026-02-18 14:25:52.299"
-        },
-        {
-          "message_media": [],
-          "message_text": "Template used: \"Customer support\"; last updated: 2023-10-05 20:07:03.894",
-          "message_type": "template",
-          "date_time": "2026-02-18 14:25:52.299"
-        },
-        {
-          "message_media": [],
-          "message_text": "Hot Topic: I'm so sorry that I can't help with this directly, since my system access is limited. I recommend reaching out to our team through this link https://hottopic.attn.tv/aE8jBJuWh8O8 for the inventory information of the item. Our team will be happy to assist!",
-          "message_type": "agent",
-          "agent": "109964",
-          "message_id": "019c7237-4b0b-4c43-f000-0000c83a1bcd",
-          "date_time": "2026-02-18 14:25:52.303"
+          "agent": "109840",
+          "message_id": "019c49b2-c863-44f7-f000-0000fa3fc7ed",
+          "date_time": "2026-02-10 17:36:19.448"
         }
       ],
       "notes": {
-        "send_to_cs": [
-          "No ESC for this client, send everything to CS!"
-        ],
-        "dos_and_don_ts": [
-          "Close the convo once the client takes over!"
-        ],
-        "promo_and_promo_exclusions": [
-          "Welcome code & promotion terms and conditions: https://www.hottopic.com/details/?viewType=desktop"
+        "escalate": [
+          "ESC restock inquiries",
+          "ESC shipping/order inquiries",
+          "ESC cxs looking for a discount code"
         ]
       },
       "rightPanel": {
         "source": {
           "label": "Website",
-          "value": "https://hottopic.com",
+          "value": "https://johnnie-o.com/",
           "date": ""
         },
         "browsingHistory": [
           {
-            "item": "Mofusand Sushi Girls Cardigan | Hot Topic",
-            "link": "https://www.hottopic.com/product/mofusand-sushi-girls-cardigan/35515922.html",
-            "timeAgo": "2026-01-05"
+            "item": "Juliett Floral Cinch Waist Dress",
+            "link": "https://www.johnnie-o.com/collections/womens-new-arrivals/products/jwld100130_juliett_25fa?color=Ash%2520Rose",
+            "timeAgo": "2026-02-10"
           },
           {
-            "item": "Thorn & Fable Mushroom & Frog Cable Knit Girls Cardigan | Hot Topic",
-            "link": "https://www.hottopic.com/product/thorn-fable-mushroom-frog-cable-knit-girls-cardigan/34852542.html?cm_src=Homepage-_-DPG2-_-girls-hoodies-sweaters-34852542",
-            "timeAgo": "2025-10-21"
+            "item": "Juliett Floral Cinch Waist Dress",
+            "link": "https://www.johnnie-o.com/collections/womens-new-arrivals/products/jwld100130_juliett_25fa?color=Ash%2520Rose",
+            "timeAgo": "2026-02-10"
+          }
+        ],
+        "orders": [
+          {
+            "orderNumber": "1853267",
+            "orderDate": "2026-02-10",
+            "items": [
+              {
+                "name": "Juliett Floral Cinch Waist Dress",
+                "price": 228,
+                "productLink": "https://johnnie-oadmin.myshopify.com/products/jwld100130_juliett_25fa"
+              }
+            ],
+            "link": "https://checkout.johnnie-o.com/22750137/orders/2f9b7c62ea2691474b85f587a945e5d0/authenticate?key=200c7fc152e3c785aec54fcfaa523a14",
+            "trackingLink": "https://www.fedex.com/fedextrack/?trknbr=496863882705",
+            "order_tracking_link": "https://www.fedex.com/fedextrack/?trknbr=496863882705",
+            "total": 237.97,
+            "date_time": "2026-02-10 19:02:21.845"
           },
           {
-            "item": "Her Universe How To Train Your Dragon Toothless Winged Girls Hoodie | Hot Topic",
-            "link": "https://www.hottopic.com/product/her-universe-how-to-train-your-dragon-toothless-winged-girls-hoodie/33814239.html",
-            "timeAgo": "2025-07-26"
+            "orderNumber": "1852565",
+            "orderDate": "2026-02-09",
+            "items": [
+              {
+                "name": "Pepperdine Hoppin Performance Hoodie",
+                "price": 188,
+                "productLink": "https://johnnie-oadmin.myshopify.com/products/jmhd100071pd_hoppin_pepperdine_ncaa"
+              }
+            ],
+            "link": "https://checkout.johnnie-o.com/22750137/orders/91c0aa6913e5398256de02578171935e/authenticate?key=d926ea5f620950ada89765da517844c9",
+            "trackingLink": "https://www.fedex.com/fedextrack/?trknbr=496863883572",
+            "order_tracking_link": "https://www.fedex.com/fedextrack/?trknbr=496863883572",
+            "total": 353.06,
+            "coupon": "SMS10Jdv898",
+            "date_time": "2026-02-09 18:27:16.881"
+          }
+        ]
+      },
+      "escalation_preferences": [
+        "Restock questions",
+        "shipping",
+        "site issues",
+        "out of stock issues"
+      ],
+      "blocklisted_words": [
+        "Untuck-it"
+      ],
+      "has_shopify": true
+    },
+    "57": {
+      "id": "019c533a-e2f7-45c4-f000-0000ef3c25f9",
+      "companyName": "Dorado Fashion",
+      "companyWebsite": "https://dorado.com",
+      "agentName": "Kiara",
+      "messageTone": "Casual",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "DORADO: Roses are red.\nJewelry is better.\n\nGet up to 75% OFF with code: LOVELY\n\nGifts for her, the girls, \nor yourself (obviously).\n \nShop Now: \nhttps://dorado.attn.tv/avgNcK5-mlQ8 . \n\nValentine's Delivery Cutoff:\nOrder by 01/30 @ 11:59 PM EST",
+          "message_type": "system",
+          "date_time": "2026-01-23 13:33:37.037"
+        },
+        {
+          "message_media": [],
+          "message_text": "DORADO: Hello Melissa, it's Kiara! I noticed you haven't completed your order yet. \n\nClick below to recover your cart and use code D20 for an extra 20% OFF! (72 hours only):\n \nhttps://dorado.attn.tv/al909uWp_oJm \n\nPlease let me know if there's anything I can help with :)",
+          "message_type": "system",
+          "date_time": "2026-01-23 19:49:53.247"
+        },
+        {
+          "message_media": [],
+          "message_text": "DORADO: Group chat-approved gifts only.\n\nUse code: LOVELY for up to 75% OFF!\n \nShop Now: \nhttps://dorado.attn.tv/av4K9OzkI9ac \n\nGalentine's secured if you order by 01/30",
+          "message_type": "system",
+          "date_time": "2026-01-25 18:15:58.131"
+        },
+        {
+          "message_media": [],
+          "message_text": "DORADO: last chance\n\npersonalized Valentine's gifts\n\nget up to 75% off with code: LOVELY \n \nonly 12 hours left: \nhttps://dorado.attn.tv/aKvQnELEdR8R .",
+          "message_type": "system",
+          "date_time": "2026-01-30 12:07:05.833"
+        },
+        {
+          "message_media": [],
+          "message_text": "DORADO: Hey, this is Kiara. Thanks for checking out our site! https://dorado.attn.tv/ahCRuMZ_IWXY \n\nLet me know if you have any questions or if you want me to get you a discount :)",
+          "message_type": "system",
+          "date_time": "2026-02-01 12:53:55.213"
+        },
+        {
+          "message_media": [],
+          "message_text": "DORADO: In-stock. Ships fast. Valentine's Day ready. \n\nUp to 75% OFF | Code: LOVELY \n \nDon't overthink it:\nhttps://dorado.attn.tv/arHSMPktuhle .",
+          "message_type": "system",
+          "date_time": "2026-02-03 12:04:33.711"
+        },
+        {
+          "message_media": [],
+          "message_text": "DORADO: Hi Melissa I personally want to thank you for shopping with us!\n\nTo show my appreciation, I'm giving you $25 OFF your next order of Custom Jewelry!\n\nJust use code: GIVE25 at checkout or click the link below! https://dorado.attn.tv/a_riq9XlR8fa \n\nThis is simply my way of saying THANK YOU for becoming a part of the Dorado Family.",
+          "message_type": "system",
+          "date_time": "2026-02-03 12:14:12.020"
+        },
+        {
+          "message_media": [],
+          "message_text": "DORADO: Hey, this is Kiara. Thanks for checking out our custom jewelry! https://dorado.attn.tv/aaXGwAQw0FTn \n\nDo you have any questions or need any help?",
+          "message_type": "system",
+          "date_time": "2026-02-12 12:58:18.710"
+        },
+        {
+          "message_media": [],
+          "message_text": "When will my order arrive?",
+          "message_type": "customer",
+          "date_time": "2026-02-12 13:51:51.838"
+        },
+        {
+          "message_media": [],
+          "message_text": "DORADO: Thank you for reaching out! I can see that your order includes personalized items. These items are made to order and require 2 to 3 weeks for production. We will send you updates via email throughout the process.\n\nYour items are currently in production. You can also check the status of your personalized items at any time by visiting our tracking page here: https://dorado.attn.tv/ao_znUvxchWu\n\nThe estimated delivery date is February 24 to March 8.\n\nI hope this helps! If you have any questions, feel free to text me.",
+          "message_type": "agent",
+          "agent": "87295",
+          "message_id": "019c533a-e2f7-45c4-f000-0000ef3c25f9",
+          "date_time": "2026-02-12 14:01:34.099"
+        }
+      ],
+      "notes": {
+        "send_to_cs": [
+          "Send to CS for post purchase issues"
+        ]
+      },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://dorado.com",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "Double Plated Pop Out Heart Name Necklace w/ Figaro Chain - 18K Gold Plated / Standard - 18\" (45cm)",
+            "link": "https://dorado.com/collections/name-necklaces/products/double-plated-pop-out-heart-name-necklace-w-figaro-chain?externalId=7HGkG",
+            "timeAgo": "2026-02-12"
           },
           {
-            "item": "Pokemon Sylveon Metal Crop T-Shirt | Hot Topic",
-            "link": "https://www.hottopic.com/product/pokemon-sylveon-metal-crop-t-shirt/33558868.html",
-            "timeAgo": "2025-07-01"
+            "item": "Double Plated Pop Out Heart Name Necklace w/ Figaro Chain",
+            "link": "https://dorado.com/collections/name-necklaces/products/double-plated-pop-out-heart-name-necklace-w-figaro-chain?variant=39715429449799",
+            "timeAgo": "2026-02-12"
           },
           {
-            "item": "Her Universe How To Train Your Dragon Toothless Winged Girls Hoodie | Hot Topic",
-            "link": "https://www.hottopic.com/product/her-universe-how-to-train-your-dragon-toothless-winged-girls-hoodie/33814239.html",
-            "timeAgo": "2025-07-01"
+            "item": "Double Plated Pop Out Heart Name Necklace w/ Figaro Chain - 18K Gold Plated / 20\" (50cm)",
+            "link": "https://dorado.com/collections/name-necklaces/products/double-plated-pop-out-heart-name-necklace-w-figaro-chain?variant=39715429449799",
+            "timeAgo": "2026-02-12"
+          },
+          {
+            "item": "Double Plated Pop Out Heart Name Necklace w/ Figaro Chain",
+            "link": "https://dorado.com/collections/name-necklaces/products/double-plated-pop-out-heart-name-necklace-w-figaro-chain?variant=39715429417031",
+            "timeAgo": "2026-02-12"
+          },
+          {
+            "item": "Double Plated Pop Out Heart Name Necklace w/ Figaro Chain - 18K Gold Plated / 16\" (40cm)",
+            "link": "https://dorado.com/collections/name-necklaces/products/double-plated-pop-out-heart-name-necklace-w-figaro-chain?variant=39715429417031",
+            "timeAgo": "2026-02-12"
+          }
+        ],
+        "orders": [
+          {
+            "orderNumber": "6479620571207",
+            "orderDate": "2026-02-03",
+            "items": [
+              {
+                "name": "Infinity Name Necklace",
+                "price": 49,
+                "productLink": "https://sk-custom-concepts.myshopify.com/products/infinity-name-necklace-1"
+              },
+              {
+                "name": "Letter Choker w/ XL Cuban Chain",
+                "price": 79,
+                "productLink": "https://sk-custom-concepts.myshopify.com/products/letter-choker-w-xl-cuban-chain"
+              },
+              {
+                "name": "XOXO Name Hoop Earrings",
+                "price": 79,
+                "productLink": "https://sk-custom-concepts.myshopify.com/products/xo-bamboo-name-hoop-earrings"
+              }
+            ],
+            "total": 207,
+            "date_time": "2026-02-03 17:16:26.778"
+          },
+          {
+            "orderNumber": "6479620571207",
+            "orderDate": "2026-02-03",
+            "items": [
+              {
+                "name": "Infinity Name Necklace",
+                "price": 49,
+                "productLink": "https://sk-custom-concepts.myshopify.com/products/infinity-name-necklace-1"
+              },
+              {
+                "name": "Letter Choker w/ XL Cuban Chain",
+                "price": 79,
+                "productLink": "https://sk-custom-concepts.myshopify.com/products/letter-choker-w-xl-cuban-chain"
+              },
+              {
+                "name": "XOXO Name Hoop Earrings",
+                "price": 79,
+                "productLink": "https://sk-custom-concepts.myshopify.com/products/xo-bamboo-name-hoop-earrings"
+              }
+            ],
+            "total": 143.46,
+            "coupon": "LOVELY",
+            "date_time": "2026-02-03 17:12:24.167"
+          }
+        ]
+      },
+      "escalation_preferences": [
+        "Shipping Issues: Where's my order? Any order issues, direct to customer service"
+      ],
+      "blocklisted_words": [],
+      "has_shopify": true
+    },
+    "58": {
+      "id": "019c71df-8f0e-4fa5-f000-0000fa93619e",
+      "companyName": "Beis Travel",
+      "companyWebsite": "https://beistravel.com",
+      "agentName": "Annie",
+      "messageTone": "Casual",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "BÉIS Travel: Reply Y to subscribe to recurring automated personalized marketing alerts (e.g. cart reminders) from BÉIS Travel.",
+          "message_type": "system",
+          "date_time": "2026-02-11 18:20:46.339"
+        },
+        {
+          "message_media": [],
+          "message_text": "BÉIS Travel: Welcome to BÉIS Travel! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
+          "message_type": "system",
+          "date_time": "2026-02-11 18:21:26.739"
+        },
+        {
+          "message_media": [],
+          "message_text": "BÉIS Travel: Hey there, newbie! First time shopping with us? We've handpicked some essentials to get you started: https://beistravel.attn.tv/arKwd4bgWZOb . \n\nEnjoy 20% OFF with code WELCOMEp4YMe9 \nbeistravel.attn.tv/aqqtsLVONWRO .",
+          "message_type": "system",
+          "date_time": "2026-02-11 18:21:30.697"
+        },
+        {
+          "message_media": [],
+          "message_text": "BÉIS Travel: Bags designed to make your every day easier. Save our contact to make getting all of our latest updates easy.",
+          "message_type": "system",
+          "date_time": "2026-02-11 18:21:31.953"
+        },
+        {
+          "message_media": [],
+          "message_text": "BÉIS Travel: This friendship is forever... but your 20% OFF code isn't. Don't forget to use code WELCOMEp4YMe9 to save on our bestsellers. \n\nhttps://beistravel.attn.tv/a88qo_sJjXYH .",
+          "message_type": "system",
+          "date_time": "2026-02-12 18:21:40.865"
+        },
+        {
+          "message_media": [],
+          "message_text": "BÉIS Travel: Save up to 50% off select styles! Limited time only: beistravel.attn.tv/apfZ7RUpqTVC .",
+          "message_type": "system",
+          "date_time": "2026-02-14 09:35:52.036"
+        },
+        {
+          "message_media": [],
+          "message_text": "BÉIS Travel: Still thinking about The Medium Check-In Roller in Atlas Pink? Great taste - Take another look before it's gone!\nbeistravel.attn.tv/a-ehtpNVX99y .",
+          "message_type": "system",
+          "date_time": "2026-02-15 12:17:31.585"
+        },
+        {
+          "message_media": [],
+          "message_text": "BÉIS Travel: Hi there. If you need additional help please reach us at hello@beistravel.com. Text STOP to opt out.",
+          "message_type": "system",
+          "date_time": "2026-02-15 13:38:45.954"
+        },
+        {
+          "message_media": [],
+          "message_text": "Can I call you? I did a return on line, where is my label for ups? Also I want to order the medium check in roller in Atlas Pink",
+          "message_type": "customer",
+          "date_time": "2026-02-18 12:43:18.841"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"Can't take calls - All brands\"; last updated: 2023-10-10 18:11:21.727",
+          "message_type": "template",
+          "date_time": "2026-02-18 12:50:02.550"
+        },
+        {
+          "message_media": [],
+          "message_text": "BÉIS Travel: Thanks for reaching out! This number is for SMS only, so I'm not able to make or receive calls. Is it okay if we continue chatting by text? \n\nWhen you complete a return request online, your UPS return label is generated through our returns portal and sent to you via email. If you haven't received it, please check your spam or promotions folder.\n\nYou may check our The Medium Check-in Roller in Atlas Pink here: https://beistravel.attn.tv/agoruswDo7qF",
+          "message_type": "agent",
+          "agent": "109972",
+          "message_id": "019c71df-8f0e-4fa5-f000-0000fa93619e",
+          "date_time": "2026-02-18 12:50:02.552"
+        }
+      ],
+      "notes": {
+        "escalate": [
+          "We don't ESC for this client, use ESC shortcut",
+          "If cx ask how to get/redeem the discount for downloading the app use ESC shortcut"
+        ],
+        "templates": [
+          "For Limited edition items don't use restock temps, they will not be restocked"
+        ],
+        "dos_and_don_ts": [
+          "Don't share the duration of the sale/sale dates with customers!"
+        ]
+      },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://beistravel.com",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "The Large Check-In Roller in Maple",
+            "link": "https://beistravel.com/products/the-29-large-check-in-roller-in-maple",
+            "timeAgo": "2026-02-15"
+          },
+          {
+            "item": "The Large Check-In Roller in Atlas Pink",
+            "link": "https://beistravel.com/products/the-29-large-check-in-roller-in-atlas-pink",
+            "timeAgo": "2026-02-15"
+          },
+          {
+            "item": "The Medium Check-In Roller in Atlas Pink",
+            "link": "https://beistravel.com/products/the-26-check-in-roller-in-atlas-pink?variant=40703321964680&utm_source=2024%20US%20-%20Abandoned%20Cart&utm_medium=email&utm_campaign=Email%20%233%20US%20-%20Abandon%20Cart%20-%20Never%20Purchased%20%28V6pCUW%29&utm_id=WzJfa2&utm_term=Klaviyo&utm_klaviyo_id=01KB6H4KY6MSD44Y926HB73103&tw_source=klaviyo&tw_profile_id=01KB6H4KY6MSD44Y926HB73103&tw_medium=flow&_kx=9aek3M7QerGnhstIMfaEWVhBfDSZZFhWYvvQaLfhn-E.LZSJR7",
+            "timeAgo": "2026-02-15"
+          },
+          {
+            "item": "The Carry-On Roller in Atlas Pink",
+            "link": "https://beistravel.com/products/the-carry-on-roller-in-atlas-pink?utm_source=Espresso%20Shot&utm_medium=email&utm_campaign=1.7.25%20US%20-%20New%20Year%20Trips%20%28Retarget%29%20%2801KEDWWWYA9R2KJRF2K6QTGJ0F%29&utm_id=01KEDWWWYA9R2KJRF2K6QTGJ0F&utm_term=Klaviyo&utm_klaviyo_id=01KB6H4KY6MSD44Y926HB73103&tw_source=klaviyo&tw_profile_id=01KB6H4KY6MSD44Y926HB73103&tw_medium=campaign&_kx=9aek3M7QerGnhstIMfaEWVhBfDSZZFhWYvvQaLfhn-E.LZSJR7",
+            "timeAgo": "2026-01-08"
+          }
+        ],
+        "orders": [
+          {
+            "orderNumber": "3997428",
+            "orderDate": "2026-02-15",
+            "items": [
+              {
+                "name": "The Large Check-In Roller in Atlas Pink",
+                "price": 368,
+                "productLink": "https://beistravel.myshopify.com/products/the-29-large-check-in-roller-in-atlas-pink"
+              }
+            ],
+            "link": "https://beistravel.com/3234234479/orders/a6c69381313f547c5f6129e75f05bbb4/authenticate?key=68e5f46275579882f14489f33a1a821d",
+            "total": 312.06,
+            "coupon": "DXG5PZ2D",
+            "date_time": "2026-02-15 01:01:36.890"
           }
         ]
       },
       "escalation_preferences": [],
       "blocklisted_words": [],
-      "has_shopify": false
+      "has_shopify": true
     },
-    "57": {
+    "59": {
+      "id": "019c5cb9-6704-48ac-f000-00004ae2b0b3",
+      "companyName": "The Frye Company",
+      "companyWebsite": "https://thefryecompany.com",
+      "agentName": "Sarah",
+      "messageTone": "Polished",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "FRYE: Welcome! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel. Privacy: attnl.tv/p/ePe",
+          "message_type": "system",
+          "date_time": "2026-02-14 08:20:43.729"
+        },
+        {
+          "message_media": [],
+          "message_text": "FRYE: Welcome! Your code to save $30 off your next $275+ order is WF30XF25 . Click here to auto-apply it and shop now: frye.attn.tv/axbwEL6vJ5d4 .",
+          "message_type": "system",
+          "date_time": "2026-02-14 08:20:45.997"
+        },
+        {
+          "message_media": [],
+          "message_text": "FRYE: Oh, also, a lot of people like getting personal recs from us. Over the next few days we'll try to help you find something that you will love.\n\nCheck out our newest arrivals and get ready for the season: https://frye.attn.tv/awgd1qO2POV3 .",
+          "message_type": "system",
+          "date_time": "2026-02-14 08:21:52.360"
+        },
+        {
+          "message_media": [],
+          "message_text": "FRYE: Your cart: OLIVIA BUCKLE TALL, CARSON 2 PIPING TALL, MELISSA BELTED RIDING\n\nUse code WF30XF25 to take $30 off with a minimum purchase of $275: https://frye.attn.tv/awSkaF4DgJfD .",
+          "message_type": "system",
+          "date_time": "2026-02-14 08:32:26.619"
+        },
+        {
+          "message_media": [],
+          "message_text": "Why is the code not working",
+          "message_type": "customer",
+          "date_time": "2026-02-14 08:46:32.724"
+        },
+        {
+          "message_media": [],
+          "message_text": "FRYE: Thank you for reaching out. I'm sorry to hear that your code is not working. Can you please send me a screenshot of the items in your cart? This will help me troubleshoot the possible problem of why the code didn't work.\n\nAlso, please note that discount codes do not work on items that are on sale and your cart should be at least $275. I hope this helps.",
+          "message_type": "agent",
+          "agent": "48804",
+          "message_id": "019c5c91-3a92-49d1-f000-00004ae2b0b3",
+          "date_time": "2026-02-14 09:32:27.572"
+        },
+        {
+          "message_media": [
+            "https://attentive-files.s3.amazonaws.com/receive-event-media/1771079820554_7a5b4077-edd3-4313-b608-dc472d4c2317-1.png"
+          ],
+          "message_text": "My cart",
+          "message_type": "customer",
+          "date_time": "2026-02-14 09:37:12.338"
+        },
+        {
+          "message_media": [],
+          "message_text": "I'm a long time customer. Why can't they make a one time exception even though the boots are on sale.",
+          "message_type": "customer",
+          "date_time": "2026-02-14 09:37:32.385"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"Can I use two discounts? - All brands\"; last updated: 2023-10-10 16:38:40.074",
+          "message_type": "template",
+          "date_time": "2026-02-14 10:16:20.385"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"Automatic discount - All brands\"; last updated: 2023-10-10 16:40:19.306",
+          "message_type": "template",
+          "date_time": "2026-02-14 10:16:20.385"
+        },
+        {
+          "message_media": [],
+          "message_text": "FRYE: Thank you for sharing that. I apologize for the delayed response. I also understand how frustrating this must be, especially as a long-time customer. Unfortunately, our system can't stack multiple promos at checkout. Even so, please feel free to use the one that gives you the best value! I'm truly sorry for the inconvenience.",
+          "message_type": "agent",
+          "agent": "109968",
+          "message_id": "019c5cb9-6704-48ac-f000-00004ae2b0b3",
+          "date_time": "2026-02-14 10:16:20.389"
+        }
+      ],
+      "notes": {
+        "send_to_cs": [
+          "No ESC for this client, send everything to CS"
+        ],
+        "tone": [
+          "Close the convo once the client takes over"
+        ]
+      },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://thefryecompany.com",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "Melissa Belted Riding - Merlot / 5.5",
+            "link": "https://www.thefryecompany.com/products/melissa-belted-riding-merlot?externalId=ipvz9",
+            "timeAgo": "2026-02-14"
+          },
+          {
+            "item": "Melissa Belted Riding - Merlot / 5.5",
+            "link": "https://www.thefryecompany.com/products/melissa-belted-riding-merlot?utm_campaign=welcome-ai&utm_medium=sms-auto&utm_source=attentive&externalId=ipvz9",
+            "timeAgo": "2026-02-14"
+          },
+          {
+            "item": "Carson 2 Piping Tall - Black / 5.5",
+            "link": "https://www.thefryecompany.com/products/carson-2-piping-tall-black",
+            "timeAgo": "2026-02-14"
+          },
+          {
+            "item": "Carson 2 Piping Tall - Saddle / 5.5",
+            "link": "https://www.thefryecompany.com/products/carson-2-piping-tall-saddle",
+            "timeAgo": "2026-02-14"
+          },
+          {
+            "item": "Carson 2 Piping Tall - Dark Brown / 6",
+            "link": "https://www.thefryecompany.com/products/carson-2-piping-tall-dark-brown",
+            "timeAgo": "2026-02-14"
+          }
+        ],
+        "orders": [
+          {
+            "orderNumber": "1070453",
+            "orderDate": "2025-09-26",
+            "items": [
+              {
+                "name": "AfterShip Protection 3.00",
+                "price": 3,
+                "productLink": "https://thefryecompany.myshopify.com/products/aftership-protection"
+              },
+              {
+                "name": "Kenzie Venetian Cognac / 9.5",
+                "price": 99.98,
+                "productLink": "https://thefryecompany.myshopify.com/products/kenzie-venetian-cognac-old"
+              },
+              {
+                "name": "Kenzie Venetian Black Floral / 9.5",
+                "price": 99.98,
+                "productLink": "https://thefryecompany.myshopify.com/products/kenzie-venetian-black-floral-old"
+              }
+            ],
+            "link": "https://www.thefryecompany.com/14033715254/orders/89b9339bb32f1684dc520a6a2db8146e/authenticate?key=b3d3002129a02e803fe2e2ac9d838d8f",
+            "total": 134.98,
+            "coupon": "REFRESH40",
+            "date_time": "2025-09-26 19:15:42.000"
+          },
+          {
+            "orderNumber": "1070453",
+            "orderDate": "2025-09-22",
+            "items": [
+              {
+                "name": "AfterShip Protection",
+                "price": 3,
+                "productLink": "https://thefryecompany.myshopify.com/products/aftership-protection"
+              }
+            ],
+            "link": "https://www.thefryecompany.com/14033715254/orders/89b9339bb32f1684dc520a6a2db8146e/authenticate?key=b3d3002129a02e803fe2e2ac9d838d8f",
+            "total": 134.98,
+            "coupon": "REFRESH40",
+            "date_time": "2025-09-22 23:16:13.955"
+          },
+          {
+            "orderNumber": "1070453",
+            "orderDate": "2025-09-22",
+            "items": [
+              {
+                "name": "Kenzie Venetian",
+                "price": 99.98,
+                "productLink": "https://thefryecompany.myshopify.com/products/kenzie-venetian-cognac-old"
+              }
+            ],
+            "link": "https://www.thefryecompany.com/14033715254/orders/89b9339bb32f1684dc520a6a2db8146e/authenticate?key=b3d3002129a02e803fe2e2ac9d838d8f",
+            "total": 134.98,
+            "coupon": "REFRESH40",
+            "date_time": "2025-09-22 23:16:13.935"
+          },
+          {
+            "orderNumber": "1070453",
+            "orderDate": "2025-09-22",
+            "items": [
+              {
+                "name": "Kenzie Venetian",
+                "price": 99.98,
+                "productLink": "https://thefryecompany.myshopify.com/products/kenzie-venetian-black-floral-old"
+              }
+            ],
+            "link": "https://www.thefryecompany.com/14033715254/orders/89b9339bb32f1684dc520a6a2db8146e/authenticate?key=b3d3002129a02e803fe2e2ac9d838d8f",
+            "total": 134.98,
+            "coupon": "REFRESH40",
+            "date_time": "2025-09-22 23:16:13.928"
+          },
+          {
+            "orderNumber": "1070453",
+            "orderDate": "2025-09-22",
+            "items": [
+              {
+                "name": "Kenzie Venetian - Cognac / 9.5",
+                "price": 99.98,
+                "productLink": "https://thefryecompany.myshopify.com/products/kenzie-venetian-cognac-old"
+              },
+              {
+                "name": "AfterShip Protection - 3.00",
+                "price": 3,
+                "productLink": "https://thefryecompany.myshopify.com/products/aftership-protection"
+              },
+              {
+                "name": "Kenzie Venetian - Black Floral / 9.5",
+                "price": 99.98,
+                "productLink": "https://thefryecompany.myshopify.com/products/kenzie-venetian-black-floral-old"
+              }
+            ],
+            "link": "https://www.thefryecompany.com/14033715254/orders/89b9339bb32f1684dc520a6a2db8146e/authenticate?key=b3d3002129a02e803fe2e2ac9d838d8f",
+            "total": 134.98,
+            "date_time": "2025-09-22 23:16:13.836"
+          }
+        ]
+      },
+      "escalation_preferences": [],
+      "blocklisted_words": [],
+      "has_shopify": true
+    },
+    "60": {
       "id": "019c5f39-ad64-4d02-f000-0000fb817cd8",
       "companyName": "Covercraft",
       "companyWebsite": "https://covercraft.com",
@@ -312,518 +803,6 @@
       ],
       "blocklisted_words": [],
       "has_shopify": false
-    },
-    "58": {
-      "id": "019c4f4b-c056-4ab1-f000-00001f60fb15",
-      "companyName": "SHEEX",
-      "companyWebsite": "https://sheex.com",
-      "agentName": "Jordan",
-      "messageTone": "Casual",
-      "conversation": [
-        {
-          "message_media": [],
-          "message_text": "SHEEX: It's official: Our BIGGEST flash sale EVER is live!\n\nSave up to 50% on customer-favorites.\n\nBetter sleep starts now: sheex.attn.tv/aM0ci1vHWdEo ",
-          "message_type": "system",
-          "date_time": "2026-01-14 17:15:17.522"
-        },
-        {
-          "message_media": [],
-          "message_text": "SHEEX: This is not a drill. Save up to 50% on sleepwear, pillows, sheet sets & more.\n\nOur biggest flash sale EVER won't last long: sheex.attn.tv/a50aosS8ui1U ",
-          "message_type": "system",
-          "date_time": "2026-01-15 15:09:13.770"
-        },
-        {
-          "message_media": [],
-          "message_text": "SHEEX: Hey Stella, we have successfully refunded you $21.30 for order #606651. View the status of it here: https://sheex.attn.tv/aN_6Z-XTAvqX .",
-          "message_type": "system",
-          "date_time": "2026-01-16 09:33:41.794"
-        },
-        {
-          "message_media": [],
-          "message_text": "SHEEX: Save 50% on the NEWEST Original Performance Sheet colors.\n\nHurry - shop our biggest flash sale EVER: sheex.attn.tv/aSkJVwws5Um4 ",
-          "message_type": "system",
-          "date_time": "2026-01-16 10:05:15.204"
-        },
-        {
-          "message_media": [],
-          "message_text": "SHEEX: Time is ticking! Sheet sets, pillows, & sleepwear are selling fast.\n\nSave up to 50% before this Flash Sale is gone: sheex.attn.tv/aobXfAWzYHai",
-          "message_type": "system",
-          "date_time": "2026-01-17 17:08:12.734"
-        },
-        {
-          "message_media": [],
-          "message_text": "SHEEX: Last chance to upgrade your sleep for less. Our biggest flash sale EVER is almost over!\n\nDon't miss up to 50% off sitewide: sheex.attn.tv/ayqNp8l82Say ",
-          "message_type": "system",
-          "date_time": "2026-01-18 18:09:12.146"
-        },
-        {
-          "message_media": [],
-          "message_text": "SHEEX: Our bestselling Original Performance Sheets are up to 50% off!\n\nThis flash sale wraps up soon, so don't miss your chance: sheex.attn.tv/aWrIimKDnWlM",
-          "message_type": "system",
-          "date_time": "2026-01-19 18:15:22.158"
-        },
-        {
-          "message_media": [],
-          "message_text": "SHEEX: FINAL HOURS! This is your last chance to shop our biggest flash sale EVER.\n\nUp to 50% off better sleep - ends tonight: sheex.attn.tv/aby0y0ERQOGu ",
-          "message_type": "system",
-          "date_time": "2026-01-20 12:15:37.799"
-        },
-        {
-          "message_media": [],
-          "message_text": "SHEEX: Our Winter Clearance Event is live!\n\nEnjoy up to 75% off select styles and 20% off sitewide.\n\nShop now: sheex.attn.tv/aUH7gHF9kenS ",
-          "message_type": "system",
-          "date_time": "2026-01-22 12:15:24.498"
-        },
-        {
-          "message_media": [],
-          "message_text": "SHEEX: Your best sleep just got more affordable.\n\n20% off everything + select customer favorites are up to 75% off!\n\nDon't wait: sheex.attn.tv/agIzPhZK2Vyg ",
-          "message_type": "system",
-          "date_time": "2026-01-24 14:10:07.476"
-        },
-        {
-          "message_media": [],
-          "message_text": "SHEEX: Over $400,000 in new markdowns taken!\n\nEnjoy 20% off sitewide with tons of clearance deals up to 75% off.\n\nShop now: sheex.attn.tv/aJUcQ0w6_PvR ",
-          "message_type": "system",
-          "date_time": "2026-01-26 16:08:06.568"
-        },
-        {
-          "message_media": [],
-          "message_text": "SHEEX: Winter favorites are going fast! Enjoy 20% off sitewide & select styles up to 75% off while supplies last.\n\nHurry! Shop now: sheex.attn.tv/amIIHlkAcvtx",
-          "message_type": "system",
-          "date_time": "2026-01-28 10:15:09.210"
-        },
-        {
-          "message_media": [],
-          "message_text": "SHEEX: Surprise stackable savings! Save 20% - 75% off sitewide + take an additional 10% off with code: BONUS10.\n\nLimited-Time Offer: sheex.attn.tv/aBHB2iOt_R-J",
-          "message_type": "system",
-          "date_time": "2026-01-30 12:06:13.328"
-        },
-        {
-          "message_media": [],
-          "message_text": "SHEEX: Sweaty in bed for all the wrong reasons? Come back and shop our most popular cooling sheets today: https://sheex.attn.tv/aQKzEg-m4wsJ . ",
-          "message_type": "system",
-          "date_time": "2026-01-30 13:11:37.264"
-        },
-        {
-          "message_media": [],
-          "message_text": "SHEEX: Last chance to stack your savings! Save up to 75% off sitewide plus an additional 10% off with code: BONUS10.\n\nEnds tonight: sheex.attn.tv/aOlAem_oVoqD ",
-          "message_type": "system",
-          "date_time": "2026-02-01 12:15:20.297"
-        },
-        {
-          "message_media": [],
-          "message_text": "SHEEX: Enjoy Presidents' Day savings with 30-75% off sitewide.\n\nPlus, save 50% on all sleepwear for a limited time. \n\nShop now: sheex.attn.tv/a3juTNsOp9o5",
-          "message_type": "system",
-          "date_time": "2026-02-03 09:12:04.018"
-        },
-        {
-          "message_media": [],
-          "message_text": "SHEEX: Don't forget to shop this bonus deal! Save 50% on all sleepwear and enjoy up to 75% off sitewide.\n\nShop Now: sheex.attn.tv/a7Yg1YhQIM4g ",
-          "message_type": "system",
-          "date_time": "2026-02-05 18:15:42.382"
-        },
-        {
-          "message_media": [],
-          "message_text": "SHEEX: NEW Bonus Deal: 50% off ALL Pillows!\n\nPlus, 30 - 75% off everything you need for the perfect, cozy bedroom.\n\nShop now: sheex.attn.tv/a5Njo1BR2uIP ",
-          "message_type": "system",
-          "date_time": "2026-02-07 15:14:06.144"
-        },
-        {
-          "message_media": [],
-          "message_text": "SHEEX: Now's the perfect time: Take 50% off ALL pillows & 30%-75% off cozy bedroom essentials.\n\nShop the Presidents' Day Sale now: sheex.attn.tv/a2ijnJUWE0jv ",
-          "message_type": "system",
-          "date_time": "2026-02-09 12:15:17.681"
-        },
-        {
-          "message_media": [],
-          "message_text": "SHEEX: BONUS CODE ALERT!\n\nSave 30% + an extral 10% on bestselling sheet sets!\n\nUse code: SHEET10 at checkout for stackable savings: sheex.attn.tv/aADEx_6N_wRw ",
-          "message_type": "system",
-          "date_time": "2026-02-11 09:02:13.353"
-        },
-        {
-          "message_media": [],
-          "message_text": "SHEEX: Hi, if you need additional help please reach us at customerservice@sheex.com or call (856) 334-3021. Text STOP to opt out.",
-          "message_type": "system",
-          "date_time": "2026-02-11 09:33:57.760"
-        },
-        {
-          "message_media": [],
-          "message_text": "I am a Past Customer, several Orders in the past! Each of which we're between $200-$300. However in my Last order in December, I Paid $20.00 Extra to receive my order *GUARANTEEED BEFORE Christmas*, which I finally received in January! I have sent several texts to Your Customer Service. I  received a text telling me that it would be given attention and taken care.  Sadly I still have NOT received the $20,00 refund. I'm 83 years old and am So Disappointed that this has Still NOT been credited back to my Account as I was AssuredSincerelyStella Dooley 513-218-2251",
-          "message_type": "customer",
-          "date_time": "2026-02-11 09:34:03.050"
-        },
-        {
-          "message_media": [],
-          "message_text": "SHEEX: Sorry for the slow reply and the inconvenience this has caused! Unfortunately, I haven't received any texts from you on this thread for the past month. However, let me raise this with the team. By the way, while we can't guarantee delivery dates, I can provide an estimate. Orders placed after 11 am EST will ship the next business day. Once shipped, your chosen shipping method takes effect. Could you please provide your order number and email address? ",
-          "message_type": "agent",
-          "agent": "50269",
-          "message_id": "019c4d3f-c32a-48c9-f000-00001f60fb15",
-          "date_time": "2026-02-11 10:09:10.349"
-        },
-        {
-          "message_media": [],
-          "message_text": "I sent My Order# with my Correspondence to You the first week in January. I thought my Patience with Your company would be Appreciated and I would Not have to send Repeated Reminders. Stella.dooley@yahoo.comPH.# 513-218-2251",
-          "message_type": "customer",
-          "date_time": "2026-02-11 10:28:22.543"
-        },
-        {
-          "message_media": [],
-          "message_text": "SHEEX: I get where you're coming from because I'm a consumer, too and I'm sorry this didn't go as expected. I'll now have the team look into this. As soon as I hear back, I will send you a message right away! ",
-          "message_type": "agent",
-          "agent": "35256",
-          "message_id": "019c4d55-e17b-41b4-f000-00001f60fb15",
-          "date_time": "2026-02-11 10:33:19.893"
-        },
-        {
-          "message_media": [],
-          "message_text": "Thank You So Very Much for Your Responce.",
-          "message_type": "customer",
-          "date_time": "2026-02-11 10:34:54.359"
-        },
-        {
-          "message_media": [],
-          "message_text": "SHEEX: You're welcome! Is there anything else I can help you with? ",
-          "message_type": "agent",
-          "agent": "87473",
-          "message_id": "019c4d57-d5ef-4507-f000-00001f60fb15",
-          "date_time": "2026-02-11 10:35:28.019"
-        },
-        {
-          "message_media": [],
-          "message_text": "No, just a $20.00 CREDIT Back to My Credit Card. Thank You",
-          "message_type": "customer",
-          "date_time": "2026-02-11 10:53:32.584"
-        },
-        {
-          "message_media": [],
-          "message_text": "SHEEX: Thanks for your patience! I just heard from the team, and we understand how important this is. We apologize for the inconvenience this has caused. Upon checking, we can see that we emailed you back in Jan. You were also refunded back in Jan.\n\nIf you have any further questions or need assistance, please don't hesitate to contact me. We're here to help! ",
-          "message_type": "agent",
-          "agent": "32937",
-          "message_id": "019c4e51-fa36-413a-f000-00001f60fb15",
-          "date_time": "2026-02-11 15:08:41.305"
-        },
-        {
-          "message_media": [],
-          "message_text": "I have NEVER RECEIVED A RECEIVED A REFUND! How abd when was that mailed to me? Because I NEVER RECEIVED IT.",
-          "message_type": "customer",
-          "date_time": "2026-02-11 18:33:06.450"
-        },
-        {
-          "message_media": [],
-          "message_text": "SHEEX: I understand your concern. I see the refund was processed on the 16th for $21.30. I recommend checking with your bank. ",
-          "message_type": "agent",
-          "agent": "27727",
-          "message_id": "019c4f15-19cd-472b-f000-00001f60fb15",
-          "date_time": "2026-02-11 18:41:48.905"
-        },
-        {
-          "message_media": [],
-          "message_text": "Thank You So Very Much. I will check with my Bank in the Morning.",
-          "message_type": "customer",
-          "date_time": "2026-02-11 19:23:02.441"
-        },
-        {
-          "message_media": [],
-          "message_text": "I cannot find an EMAIL. But I rarely use EMail, and it must have gone to a spam!",
-          "message_type": "customer",
-          "date_time": "2026-02-11 19:28:12.252"
-        },
-        {
-          "message_media": [],
-          "message_text": "Which BANK did it go to, because I used a Credit Card to Pay for it.",
-          "message_type": "customer",
-          "date_time": "2026-02-11 19:30:12.568"
-        },
-        {
-          "message_media": [],
-          "message_text": "Why would You send it to a Bank instead of Crediting it to my Credit Card that was used to Pay for the Sheets?",
-          "message_type": "customer",
-          "date_time": "2026-02-11 19:37:12.695"
-        },
-        {
-          "message_media": [],
-          "message_text": "SHEEX: I'm really sorry to hear that, it's not the experience we wanted you to have. Unfortunately, due to the limited access I have on the system, I might not have information as to which bank it might have went to. Let me check on this with my team again. I hope for your continued patience with us. ",
-          "message_type": "agent",
-          "agent": "109617",
-          "message_id": "019c4f4b-c056-4ab1-f000-00001f60fb15",
-          "date_time": "2026-02-11 19:41:30.480"
-        }
-      ],
-      "notes": {
-        "templates": [
-          "If cx received products with stains use PWS shortcut",
-          "For pilling issues use PLS shortcut",
-          "If cx text in about the code THANKS25 use TCE shortcut"
-        ],
-        "dos_and_don_ts": [
-          "Always use VPN when accessing their website",
-          "🤖 If asked about an item's price, ONLY provide the link to the item and state that the website will provide the current pricing"
-        ],
-        "promo_and_promo_exclusions": [
-          "Currently, multiple promo codes CAN NOT be used at check out",
-          "Discounts can be used on sale items, unless otherwise noted in disclaimer. Sales exclude gift cards",
-          "If cx ask if they won the gift card, use CRD shortcut"
-        ]
-      },
-      "rightPanel": {
-        "source": {
-          "label": "Website",
-          "value": "https://sheex.com",
-          "date": ""
-        },
-        "browsingHistory": [
-          {
-            "item": "Nightfall Sheet Set - Silver Dusk / Full",
-            "link": "https://www.sheex.com/products/nightfall-sheet-set?variant=47224997871754&utm_source=google&utm_medium=cpc&utm_term=&adgroupid=&utm_campaign=pmax-shopping-full-assets-np-pmax-pr&absrc=Google&abid=&abcampid=16518378863&abgroupid=&gclid=CjwKCAiA3fnJBhAgEiwAyqmY5Yjk3SEUU7H0fLe-SIhDCKNyF3jarVGiSgxxCkw5Jj6DZJJmCVTSqRoCoMoQAvD_BwE&abkwdid=&tw_source=google&tw_adid=&tw_campaign=16518378863&tw_kwdid=&gad_source=1&gad_campaignid=16510353811",
-            "timeAgo": "2025-12-14"
-          },
-          {
-            "item": "Nightfall Sheet Set - Silver Dusk / King/Cal King",
-            "link": "https://www.sheex.com/products/nightfall-sheet-set?variant=47224997937290",
-            "timeAgo": "2025-12-14"
-          },
-          {
-            "item": "Nightfall Sheet Set - Silver Dusk / Full",
-            "link": "https://www.sheex.com/products/nightfall-sheet-set?variant=47224997871754&utm_source=google&utm_medium=cpc&utm_term=&adgroupid=&utm_campaign=pmax-shopping-full-assets-np-pmax-pr&absrc=Google&abid=&abcampid=16518378863&abgroupid=&gclid=CjwKCAiA3fnJBhAgEiwAyqmY5Yjk3SEUU7H0fLe-SIhDCKNyF3jarVGiSgxxCkw5Jj6DZJJmCVTSqRoCoMoQAvD_BwE&abkwdid=&tw_source=google&tw_adid=&tw_campaign=16518378863&tw_kwdid=&gad_source=1&gad_campaignid=16510353811",
-            "timeAgo": "2025-12-14"
-          },
-          {
-            "item": "Nightfall Sheet Set - Silver Dusk / King/Cal King",
-            "link": "https://www.sheex.com/products/nightfall-sheet-set?variant=47224997937290",
-            "timeAgo": "2025-12-14"
-          },
-          {
-            "item": "Nightfall Sheet Set - Silver Dusk / Full",
-            "link": "https://www.sheex.com/products/nightfall-sheet-set?variant=47224997871754&utm_source=google&utm_medium=cpc&utm_term=&adgroupid=&utm_campaign=pmax-shopping-full-assets-np-pmax-pr&absrc=Google&abid=&abcampid=16518378863&abgroupid=&gclid=CjwKCAiA3fnJBhAgEiwAyqmY5Yjk3SEUU7H0fLe-SIhDCKNyF3jarVGiSgxxCkw5Jj6DZJJmCVTSqRoCoMoQAvD_BwE&abkwdid=&tw_source=google&tw_adid=&tw_campaign=16518378863&tw_kwdid=&gad_source=1&gad_campaignid=16510353811",
-            "timeAgo": "2025-12-14"
-          }
-        ],
-        "orders": [
-          {
-            "orderNumber": "606651",
-            "orderDate": "2025-12-18",
-            "items": [
-              {
-                "name": "Original Performance Sheet Set",
-                "price": 329,
-                "productLink": "https://sheex2008.myshopify.com/products/original-performance-sheet-set"
-              }
-            ],
-            "link": "https://www.sheex.com/7360610375/orders/f490272f2fd93c00c57d8902624ac8ba/authenticate?key=deb3188a50ac1bb387642526c792e686",
-            "trackingLink": "https://www.ups.com/WebTracking?loc=en_US&requester=ST&trackNums=1ZE9J5870321562120",
-            "order_tracking_link": "https://www.ups.com/WebTracking?loc=en_US&requester=ST&trackNums=1ZE9J5870321562120",
-            "total": 266.57,
-            "date_time": "2025-12-18 20:12:11.524"
-          }
-        ]
-      },
-      "escalation_preferences": [],
-      "blocklisted_words": [],
-      "has_shopify": true
-    },
-    "59": {
-      "id": "019c7d90-e81c-4bc6-f000-0000fdab1552",
-      "companyName": "Ryka",
-      "companyWebsite": "https://ryka.com",
-      "agentName": "",
-      "messageTone": "Polished",
-      "conversation": [
-        {
-          "message_media": [],
-          "message_text": "Rykä: Reply Y to subscribe to recurring automated personalized marketing alerts (e.g. cart reminders) from Rykä.",
-          "message_type": "system",
-          "date_time": "2026-02-20 17:38:58.072"
-        },
-        {
-          "message_media": [],
-          "message_text": "Rykä: Welcome to Rykä! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel. Privacy: attnl.tv/p/keI",
-          "message_type": "system",
-          "date_time": "2026-02-20 19:14:10.003"
-        },
-        {
-          "message_media": [],
-          "message_text": "Rykä: Hey! I'm Jordan with Ryka! \n\nStep into a world Made Just for Women and enjoy $10 off $65+ ryka.attn.tv/al1q5m8_cRpv .",
-          "message_type": "system",
-          "date_time": "2026-02-20 19:14:14.401"
-        },
-        {
-          "message_media": [],
-          "message_text": "Rykä: Oh, also, a lot of people like getting personal recs from us. Over the next few days we'll try to help you find something that you will love.\n\nFrom daily walks to hitting the gym, we're all about finding joy in our strength, every workout, every day: https://ryka.attn.tv/a17z7ekWY8JV .",
-          "message_type": "system",
-          "date_time": "2026-02-20 19:15:15.202"
-        },
-        {
-          "message_media": [],
-          "message_text": "I have long flexor tendinitis in both feet, and I'm looking for walking shoes that will help this condition. This is very different than plantar fasciitis, which is more common.",
-          "message_type": "customer",
-          "date_time": "2026-02-20 19:15:34.447"
-        },
-        {
-          "message_media": [],
-          "message_text": "Rykä: Thank you for reaching out. Regarding your concern, let me go ahead and check with my team for possible recommendations and options. To help with this, may I also ask for your full name, phone number, and zip code, please?",
-          "message_type": "agent",
-          "agent": "82260",
-          "message_id": "019c7d90-e81c-4bc6-f000-0000fdab1552",
-          "date_time": "2026-02-20 19:19:34.584"
-        }
-      ],
-      "notes": {
-        "escalate": [
-          "When ESC always use ESC shortcut",
-          "When ESC discount/promotion inquiries always include the exact offer/discount/promo code in your escalation notes",
-          "Include details of the cx's issue in your ESC notes & any relevant cx information"
-        ]
-      },
-      "rightPanel": {
-        "source": {
-          "label": "Website",
-          "value": "https://ryka.com",
-          "date": ""
-        }
-      },
-      "escalation_preferences": [],
-      "blocklisted_words": [],
-      "has_shopify": false
-    },
-    "60": {
-      "id": "019c68b1-9930-4c08-f000-0000fa795c22",
-      "companyName": "Blenders Eyewear",
-      "companyWebsite": "https://blenderseyewear.com",
-      "agentName": "Kai",
-      "messageTone": "Casual",
-      "conversation": [
-        {
-          "message_media": [],
-          "message_text": "Blenders: Reply Y to subscribe to recurring automated personalized marketing alerts (e.g. cart reminders) from Blenders Eyewear",
-          "message_type": "system",
-          "date_time": "2026-02-16 17:27:18.560"
-        },
-        {
-          "message_media": [],
-          "message_text": "Blenders: Welcome to Blenders! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
-          "message_type": "system",
-          "date_time": "2026-02-16 17:27:33.432"
-        },
-        {
-          "message_media": [],
-          "message_text": "Blenders: Get Blended! Your welcome code is WELCOME-n4hdtB. Shop now and automatically apply 15% off your order: https://blenderseyewear.attn.tv/afM6_kfRDWlT .\n\nReply back anytime for help! ",
-          "message_type": "system",
-          "date_time": "2026-02-16 17:27:36.935"
-        },
-        {
-          "message_media": [],
-          "message_text": "Blenders: Plus save our contact to receive exclusive updates!",
-          "message_type": "system",
-          "date_time": "2026-02-16 17:27:38.781"
-        },
-        {
-          "message_media": [],
-          "message_text": "Help",
-          "message_type": "customer",
-          "date_time": "2026-02-16 17:37:45.282"
-        },
-        {
-          "message_media": [],
-          "message_text": "Blenders: I would be more than happy to help out, ask away!",
-          "message_type": "agent",
-          "agent": "62551",
-          "message_id": "019c689a-755b-411b-f000-0000fa795c22",
-          "date_time": "2026-02-16 17:37:59.025"
-        },
-        {
-          "message_media": [],
-          "message_text": "!",
-          "message_type": "customer",
-          "date_time": "2026-02-16 17:38:05.323"
-        },
-        {
-          "message_media": [],
-          "message_text": "I'm buying a pair of glasses I have a gift card and I have the 15% off you gave me but the price is not correct on the initial price of the glasses they were on sale for 2990 they're marked at 2999 and then I'm trying to be charged 59+ my $30 discount makes it down to not much at all I got a $30 gift card from Nift and IFT and your 15% off and they're trying to charge me $31 that's not even right the initial price was less than that they're charging me $30 more than the initial price from the beginning",
-          "message_type": "customer",
-          "date_time": "2026-02-16 17:39:05.471"
-        },
-        {
-          "message_media": [],
-          "message_text": "Blenders: I'm sorry to hear that. Could you kindly share a screenshot of the items in your cart? I'll be happy to look into the issue! ",
-          "message_type": "agent",
-          "agent": "39001",
-          "message_id": "019c68a6-8bcb-4c67-f000-0000fa795c22",
-          "date_time": "2026-02-16 17:51:11.202"
-        },
-        {
-          "message_media": [
-            "https://attentive-files.s3.amazonaws.com/receive-event-media/1771282533201_fb3e42d0-b306-4a43-9046-a72c642c2cbe-1.png",
-            "https://attentive-files.s3.amazonaws.com/receive-event-media/1771282533201_fb3e42d0-b306-4a43-9046-a72c642c2cbe-1.png"
-          ],
-          "message_text": "Hrllog",
-          "message_type": "customer",
-          "date_time": "2026-02-16 17:55:45.462"
-        },
-        {
-          "message_media": [],
-          "message_text": "You can see it's 2999 and it doesn't state that on the first photo the price is that's not even it's not right it's there's they're not even taking the $30 off for my Nift gift which I was given $30 and then you guys gave me 15 so it should be free and chipping free",
-          "message_type": "customer",
-          "date_time": "2026-02-16 17:56:55.177"
-        },
-        {
-          "message_media": [],
-          "message_text": "Blenders: Thank you for sending that over! Could you also provide a screenshot of the item(s) in your cart so I can take a closer look and assist you further?",
-          "message_type": "agent",
-          "agent": "37648",
-          "message_id": "019c68ae-3a1c-41aa-f000-0000fa795c22",
-          "date_time": "2026-02-16 17:59:34.575"
-        },
-        {
-          "message_media": [],
-          "message_text": "The second photo is from my cart",
-          "message_type": "customer",
-          "date_time": "2026-02-16 18:00:05.266"
-        },
-        {
-          "message_media": [],
-          "message_text": "Template used: \"Can I use two discounts? - All brands\"; last updated: 2023-10-10 16:38:40.074",
-          "message_type": "template",
-          "date_time": "2026-02-16 18:03:15.525"
-        },
-        {
-          "message_media": [],
-          "message_text": "Template used: \"Free shipping\"; last updated: 2023-05-12 22:33:17.665",
-          "message_type": "template",
-          "date_time": "2026-02-16 18:03:15.525"
-        },
-        {
-          "message_media": [],
-          "message_text": "Blenders: Thank you for getting back to me and providing that information! Unfortunately, you won't be able to use multiple deals at checkout, but feel free to use the one that gives you the best value! We offer free shipping on domestic orders over $50. Maybe you can add something else to reach the minimum?",
-          "message_type": "agent",
-          "agent": "109840",
-          "message_id": "019c68b1-9930-4c08-f000-0000fa795c22",
-          "date_time": "2026-02-16 18:03:15.527"
-        }
-      ],
-      "notes": {
-        "templates": [
-          "When closing the conversation use CC shortcut",
-          "For all inqiuries about refunds/replacement orders use RRO shortcut"
-        ],
-        "promo_and_promo_exclusions": [
-          "Discount codes or rewards points can be used with a gift card",
-          "Discount codes and rewards points can not be used together",
-          "Discount codes can not be used on sale items"
-        ]
-      },
-      "rightPanel": {
-        "source": {
-          "label": "Website",
-          "value": "https://blenderseyewear.com",
-          "date": ""
-        }
-      },
-      "escalation_preferences": [
-        "Exchanges and returns",
-        "Refund"
-      ],
-      "blocklisted_words": [],
-      "has_shopify": true
     }
   }
 }

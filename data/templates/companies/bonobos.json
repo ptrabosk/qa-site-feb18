@@ -1,0 +1,403 @@
+{
+  "companyKey": "bonobos",
+  "templates": [
+    {
+      "name": "Can I return/exchange for a different color?",
+      "content": "Per policy, our system is only able to process exchanges for a different size/fit of the same item, and not for a different color or a different item altogether. For that, you would need to send back the original using your prepaid UPS return label for a full refund and place a new order of the preferred color!",
+      "id": "6c5033a4-2010-4c40-84a0-4d08bd237957",
+      "companyName": "Bonobos"
+    },
+    {
+      "name": "How long does the return process take?",
+      "content": "We'll send an email confirmation once we've processed your return. Please allow up to 14 days after we receive your return or exchange, including time for processing and time for your bank to post your refund. If your refund is for a store credit, it will be available as soon as your return is received and processed. Hope this helps!",
+      "id": "faa8ddd2-ae02-46cf-afd7-385fad8a60e1",
+      "companyName": "Bonobos"
+    },
+    {
+      "name": "Phone support",
+      "content": "We don't offer phone support right now but I'd be happy to help you over text, let me know what I can do for you!",
+      "id": "005a8270-1b0d-44b3-8ad0-26ab79f53cea",
+      "shortcut": "ps",
+      "companyName": "Bonobos"
+    },
+    {
+      "name": "Birthday discount",
+      "content": "Unfortunately, there are no birthday discounts at this time.",
+      "id": "73e0c530-90af-4909-a370-f05cfc82a908",
+      "companyName": "Bonobos"
+    },
+    {
+      "name": "Can I initiate an exchange on the Bonobos App?",
+      "content": "Please note that exchanges can only be made on a desktop or mobile version of the site but not on the Bonobos app at the moment.",
+      "id": "3040daf6-d7eb-4640-999e-fc26af070d85",
+      "companyName": "Bonobos"
+    },
+    {
+      "name": "Can I use my discount code in stores?",
+      "content": "Any promotional code that can be used online can also be redeemed in-store.",
+      "id": "947008aa-b3d2-4d9d-a731-b4f04e5cf0d4",
+      "companyName": "Bonobos"
+    },
+    {
+      "name": "Sales Collection",
+      "content": "You can take a look at our sale collection here: https://bonobos.com/shop/sale",
+      "id": "ae3bdc4d-028f-4332-8721-057d8e99e5f7",
+      "shortcut": "spg",
+      "companyName": "Bonobos"
+    },
+    {
+      "name": "Feedback - brand specific",
+      "content": "I'm really sorry! Rest assured that this wasn't our intention and I will definitely pass this on to my team for future improvement.",
+      "id": "d75d4a16-530a-4157-96e6-99eb3cd85f3d",
+      "shortcut": "fdb",
+      "companyName": "Bonobos"
+    },
+    {
+      "name": "Wholesale inquiries",
+      "content": "The best way to discuss wholesale is to email us directly at wholesaleinquiry@bonobos.com. Please provide the following information when sending an inquiry: name of the store, buyer contact information, special outings, number of years in business and photos of store (interior & exterior).",
+      "id": "2c3b5350-dc82-46b2-b997-e784661c0e79",
+      "shortcut": "wls",
+      "companyName": "Bonobos"
+    },
+    {
+      "name": "Difference between Long, Short and Regular length blazers",
+      "content": "Long (\"L\") and Short (\"S\") blazers will measure 1.5 inches longer or shorter in body length and 1 inch longer or shorter on the sleeves than a Regular (\"R\") blazer.",
+      "id": "71eed016-544a-4d51-aa5b-87f242861f01",
+      "companyName": "Bonobos"
+    },
+    {
+      "name": "Do you ship internationally?",
+      "content": "Yes! Outside of the U.S., we currently ship to the following countries: Australia, Canada, Japan, Madagascar, Mexico, New Zealand, and Peru. You can find more information on international shipping and returns here: https://bonobos.force.com/ninjasupport/s/topic/0TO6A000000HHUjWAO/international-shipping-returns",
+      "id": "b8355112-e5f1-4144-83e9-8bcc9cb8bdfd",
+      "companyName": "Bonobos"
+    },
+    {
+      "name": "Free shipping",
+      "content": "We offer free ground shipping on all domestic orders!",
+      "id": "2eebcee6-9981-4130-b496-151d349146cc",
+      "shortcut": "fs",
+      "companyName": "Bonobos"
+    },
+    {
+      "name": "How do I exchange an item if I don't have an account?",
+      "content": "Unfortunately, we're not able to process exchanges for orders that were not placed with a bonobos.com account. If you need a new size or fit, please return your order for a refund, and then place a new order.",
+      "id": "850ae2f0-f65e-4853-93dc-acf9fe38508a",
+      "companyName": "Bonobos"
+    },
+    {
+      "name": "Rewards / referral",
+      "content": "We have a referral program where you can share Bonobos with friends, and we'll give any new customer you refer 25% off their first purchase and you'll get 25% off once they've ordered. Check it out here - https://bonobos.com/refer-a-friend",
+      "id": "89fc3b46-d3f0-4b7d-b67e-b7fea227763b",
+      "shortcut": "rwd",
+      "companyName": "Bonobos"
+    },
+    {
+      "name": "If I send someone a gift, will they see the prices?",
+      "content": "If you send someone a gift, they will not see the prices! Our packing slips never include prices and always include a free return shipping label, so they won't see the prices of any of the items in the box. Plus, they can make returns for free if anything doesn't work out. For a physical gift card, the value will be stated on the front.",
+      "id": "d229184f-5ca9-48a9-b4d0-bd73571af070",
+      "companyName": "Bonobos"
+    },
+    {
+      "name": "Can I change the shipping address on my order?",
+      "content": "Changing a shipping address post-purchase is time sensitive, we recommend getting in-touch with us ASAP. You may contact us here: https://bonobos.com/contact-us or use the Live Chat feature on our website.",
+      "id": "2dfba325-0420-4b9e-8668-65399e95b3e3",
+      "companyName": "Bonobos"
+    },
+    {
+      "name": "Can I have a refund if I missed the sale or the price of an item dropped?",
+      "content": "If the price of an item you have purchased drops (or qualifies for a promotion) within 14 days of your order and the item you ordered is still in stock in the size and fit you ordered, we can adjust the price for you. To receive a price adjustment, contact us via this link: https://bonobos.com/contact-us within 14 days of your order date, and we'll refund the difference to your original form of payment or store credit.\n\nPlease note that Stretch Washed Chinos 2.0 and Stretch Washed Chinos Originals are not eligible for any promotions or price adjustments.",
+      "id": "eb7b563f-4481-42c4-a174-d0e211b352a5",
+      "companyName": "Bonobos"
+    },
+    {
+      "name": "Sizing",
+      "content": "Happy to help! I'd recommend taking a look at our fit and in-depth sizing charts on each item's specific product page. If you're still not sure, just let me know!",
+      "id": "c7241694-dc0b-4210-9939-ce86c3683d04",
+      "shortcut": "sz",
+      "companyName": "Bonobos"
+    },
+    {
+      "name": "How do I subscribe to your catalog?",
+      "content": "Just fill out the form here: https://bonobos.wufoo.com/embed/z1g2x1o51k48fyr/#public You should receive your first catalog within 1-2 months of subscribing!",
+      "id": "436eeb27-ece1-4a9a-a721-961c98fdcef4",
+      "companyName": "Bonobos"
+    },
+    {
+      "name": "Can I return/exchange final sale items?",
+      "content": "I'm afraid that we're unable to accept items that are purchased on Final Sale for return or exchange. You can check out our Final Sale policy here: https://help.bonobos.com/s/article/what-is-final-sale",
+      "id": "dda1a277-c8a4-48cc-9268-40f1f9f16f0a",
+      "companyName": "Bonobos"
+    },
+    {
+      "name": "Social Media",
+      "content": "Give us a follow on IG: https://www.instagram.com/bonobos/ and FB here: https://www.facebook.com/bonobos",
+      "id": "1a23ecfa-fd25-4d5a-b69a-48b628d76ed6",
+      "shortcut": "smd",
+      "companyName": "Bonobos"
+    },
+    {
+      "name": "Cancel / edit order",
+      "content": "I'm afraid we're unable to change the contents of your order once it has been placed. We can cancel the order and edit the shipping address however this change is time sensitive and we recommend getting in touch with us ASAP. You may contact us here: https://bonobos.com/contact-us or use the\nLive Chat feature on our website.",
+      "id": "cb3a17eb-2b47-4947-9397-7466d43e662d",
+      "shortcut": "ced",
+      "companyName": "Bonobos"
+    },
+    {
+      "name": "What is the \"Closet\" tab on your app?",
+      "content": "The closet feature of the App allows you to quickly scroll through everything you've ever purchased from us, with the ability to remove things that you no longer have or gave as gifts. You can filter your search by category (Tops, Bottoms, Outerwear, and Accessories), and each item will include size and fit details. Additionally, your closet will contain any saved items that you've flagged to come back to. Also, using our Outfitter feature, you'll be able to use the closet to build new outfits based on the products you already own!",
+      "id": "a01dc5b7-211f-4a02-baac-eb93a0bb7ca1",
+      "companyName": "Bonobos"
+    },
+    {
+      "name": "Summer Weight Jean specs",
+      "content": "Summer Weight Jean is a lightweight American Cone Denim that stays cool and comfortable in warmer weather. Like the Blue and Travel Jeans, the Summer Weight Jean is woven with a bit of stretch to feel comfortable and broken-in right out of the box!",
+      "id": "b7862336-137d-445b-a1e7-7102ff2cfeb7",
+      "companyName": "Bonobos"
+    },
+    {
+      "name": "How does the Premium stretch jean fit?",
+      "content": "The Premium Stretch Jean is a classic construction and weave, making it ideal for those looking for the feel and finish of a more traditional pair of jeans. They do have a tendency to expand up to a full size with wear because of the type of denim utilized. We generally recommend you sizing down from your normal Bonobos size when purchasing the Premium Stretch Jean.",
+      "id": "2b22839c-04ab-4c21-92ad-374119186045",
+      "companyName": "Bonobos"
+    },
+    {
+      "name": "Difference between blue and travel jeans",
+      "content": "The Blue Jean and Travel Jeans are a great option for a denim that will feel broken-in right out of the box. Both are woven with a tiny bit of stretch to accommodate your fit immediately. They are cut exactly the same so your sizing will be consistent between the two. The biggest difference between the Blue Jean and the Travel Jeans is the types of washes and rinses used on them to give them their finished colors.",
+      "id": "30131795-4197-430e-9fb2-ebec67445a4d",
+      "companyName": "Bonobos"
+    },
+    {
+      "name": "Do you offer tax exemption?",
+      "content": "Yes! Eligible governmental, non-profit, charitable, and similar organizations should email all tax-exempt requests to guides@bonobos.com. Include a copy of applicable state or federal exemption certificates. Your eligible tax exemptions will be processed and tax will not be charged on future purchases made by eligible tax-exempt accounts. You will be eligible to receive a tax refund on any purchase made within 14 days of your request.",
+      "id": "190cb9ee-1020-4150-abb4-eba0ba7e214b",
+      "companyName": "Bonobos"
+    },
+    {
+      "name": "Brand ambassador / sponsorship / affiliate program",
+      "content": "Thank you for your interest! The best way to discuss this is to contact us via this link: https://bonobos.com/contact-us Our team is happy to chat!",
+      "id": "37a621f7-a664-48a3-a969-024b87c95b4d",
+      "shortcut": "ams",
+      "companyName": "Bonobos"
+    },
+    {
+      "name": "Store location / retailer",
+      "content": "You can find a Guideshop near you here: https://bonobos.com/locations You can visit us anytime, walk-ins are always welcome and once you've found your fit, we'll send everything you choose right to your door.",
+      "id": "6c764e3f-69e4-4731-8857-a7792c2ace7f",
+      "shortcut": "sl",
+      "companyName": "Bonobos"
+    },
+    {
+      "name": "Difference between Standard, Slim and Athletic fit for blazer and suit jackets",
+      "content": "Our Slim fit is narrower through the chest and waist with a noticeable taper, and a smaller armhole and shoulder width. Our Standard fit is a classic fit: trim but not tight, with a slight taper toward the waist, and our Athletic fit is tailored with extra room for defined builds. The V-shaped silhouette matches the body's shape with a broader top and slight taper.",
+      "id": "a4f49ecc-a4c2-4122-ae3c-67150f5c6581",
+      "companyName": "Bonobos"
+    },
+    {
+      "name": "Can I change my default dress code in the app?",
+      "content": "Yes! The dress code is what we use to create your Daily Outfit, and you can update it at any time - just head into your Account section and choose from any of the eight options.",
+      "id": "1c2d71d1-56de-44e2-b96c-5c6184960c27",
+      "companyName": "Bonobos"
+    },
+    {
+      "name": "Is it possible to choose when my digital gift card is emailed?",
+      "content": "If you choose to send the Digital Gift Card directly to the recipient's email address, you can select any future date on which to have the gift card sent. Emails will hit their inbox at 9 am ET on your chosen date.",
+      "id": "26001fe6-cd07-41c3-a479-263d342b71be",
+      "companyName": "Bonobos"
+    },
+    {
+      "name": "Customer support",
+      "content": "The best way to handle this is to contact us via this link https://bonobos.com/contact-us or live chat with one of our agents via the website. Our team is happy to help!",
+      "id": "9801fb35-8d67-4048-8b4e-33b703d64f14",
+      "shortcut": "cs",
+      "companyName": "Bonobos"
+    },
+    {
+      "name": "Are your suit jackets fused or canvased?",
+      "content": "Our suit jackets are half-canvased. The layers of canvas lining extend down beyond the pecs and stop at the first button on the jacket - which makes it a somewhat longer half-canvasing than you'd find with other brands. The machine that lightly stitches these layers into place is ultra sensitive and imitates the handwork traditionally performed by a tailor. The only fusing used is to reinforce sensitive, high stress areas such as where the pockets are attached to the jacket's body.",
+      "id": "32b0cefe-f40b-43c7-83ba-e4c4b2cc9475",
+      "companyName": "Bonobos"
+    },
+    {
+      "name": "Return policy",
+      "content": "You can check out our detailed return policy here: https://help.bonobos.com/s/article/What-s-your-return-policy",
+      "id": "3d2e44d4-2a92-4f4d-ad96-5b8accdc607c",
+      "shortcut": "rp",
+      "companyName": "Bonobos"
+    },
+    {
+      "name": "What's your exchange policy?",
+      "content": "You have 90 days from the date of purchase to exchange any unworn, unwashed, and unaltered items. Please note that exchanges may only be made for a different size and/or fit of the same item. Exchanges may not be made for a different color or for different items, even if they're the same price. If you'd like to purchase a different color or item, you may return the original item in accordance with our return policy and place a new order.",
+      "id": "8665dd57-8727-4618-aecb-454e1b27b9af",
+      "companyName": "Bonobos"
+    },
+    {
+      "name": "Military discount",
+      "content": "Thank you for your service! You can apply for your discount here: services.sheerid.com/verify/63d15496f119b4029b0280fa/",
+      "id": "fb314b5a-7d47-461d-9e7b-ea0316d09b43",
+      "companyName": "Bonobos"
+    },
+    {
+      "name": "Your site won’t accept my payment method",
+      "content": "Please get in touch with your bank to verify that everything is running smoothly on their end and if you're still having trouble with your payment method feel free to contact us here: https://bonobos.com/contact-us or use the Live Chat feature on our website.",
+      "id": "b419aa6b-c372-4e80-bcbe-665f71bda1d8",
+      "shortcut": "pme",
+      "companyName": "Bonobos"
+    },
+    {
+      "name": "I’m having trouble checking out!",
+      "content": "We can definitely help you troubleshoot here! First, if you could double-check that you're using the web browsers \"Google Chrome\" or \"Mozilla Firefox\", that would be great. We find that our website works best on these browsers, as\nopposed to others like \"Safari\" which may result in a less-than-smooth user experience.\n\nSecond, if you could manually remove your items from the cart - and then manually re-add them. If you've received an email from a Guideshop, please ignore the \"Yes, view items in cart\" button, as that can be a bit finicky and could be causing the checkout issue. Lastly, if the first two haven't resolved your checkout issue, you may need to clear your browser's cache and cookies. This can help keep applications running at their optimal speed, and if your issue is related to being stuck on an old form - this should clear it right up.",
+      "id": "88a3d07e-fd71-4ebe-92f8-8a64ed570147",
+      "shortcut": "coi",
+      "companyName": "Bonobos"
+    },
+    {
+      "name": "My referral link isn't working / I can't find my referral code",
+      "content": "So sorry to hear that! Could you please give me your referrer's email address as well as yours? Once we have both, we can look further into this.",
+      "id": "83003b83-0b7d-426a-a0a8-bae4f64093c2",
+      "shortcut": "ri",
+      "companyName": "Bonobos"
+    },
+    {
+      "name": "What types of fit to you offer for your pants?",
+      "content": "Overall, we offer five different fits in our pants: Tailored, Slim Taper, Slim, Straight, and Athletic. Please note that not all pants are available in all fits.",
+      "id": "ac234c8f-80f2-4f5c-935f-a43d31946b03",
+      "companyName": "Bonobos"
+    },
+    {
+      "name": "How do I get a return label?",
+      "content": "If you have an account with us, you can log into your account, go to your order history, hit the \"Returns/Exchanges\" button, and then print a return label from there! If you ordered under Guest you can request a return label be emailed to you through our Contact page here: https://bonobos.com/contact-us or use the Live Chat feature on our website.",
+      "id": "e3e77698-6bff-45ca-ba77-4638cbb39813",
+      "companyName": "Bonobos"
+    },
+    {
+      "name": "How do I wash your clothes?",
+      "content": "Each product has an inside label with detailed washing instructions. Please pay careful attention to these instructions as they are specifically written to ensure the lasting quality of your Bonobos clothing. For most of our products made from cotton, the washing instructions are straightforward: wash with like colors in cold water and tumble dry on low, or air dry. Certain products may require more specific care so please check the label inside first before washing.",
+      "id": "320df7f8-b5f3-4bea-8fbd-e6b4ebe6374f",
+      "companyName": "Bonobos"
+    },
+    {
+      "name": "Teacher discount",
+      "content": "Thank you for your service! You can apply for your discount here: services.sheerid.com/verify/63d154baf119b4029b028369/?layout=landing",
+      "id": "6d4e48e7-7d9a-46f2-9b81-d06e4b4dce5b",
+      "companyName": "Bonobos"
+    },
+    {
+      "name": "I received a damaged/defective item",
+      "content": "Oh no, we're so sorry about that! If you could take a photo of the damage/defect, the front and back of the inner QR code tag, and have your order number on hand - we can see what necessary steps need to be taken. Please contact us here: https://bonobos.com/contact-us or use the Live Chat feature on our website.",
+      "id": "af49102e-0b51-428c-a3b5-8fa17f344b28",
+      "shortcut": "dmi",
+      "companyName": "Bonobos"
+    },
+    {
+      "name": "Why isn’t my new customer discount working?/ welcome code errors/issues",
+      "content": "Apologies for the trouble! GETSTARTED15 takes 15% off the first order on a new Bonobos account. Please be sure to sign in before checking out, or if you haven't created a new account yet, do so by heading to https://bonobos.com/sign-in then clicking on Create an Account.",
+      "id": "2e39000d-a7f5-42ea-9132-53ada1fd5da4",
+      "shortcut": "gse",
+      "companyName": "Bonobos"
+    },
+    {
+      "name": "Can I exchange an item for a different one/for a different color?",
+      "content": "Please note that exchanges may only be made for a different size and/or fit of the same item. Exchanges may not be made for a different color or for different items, even if they're the same price. If you'd like to purchase a different color or item, you may return the original item in accordance with our return policy and place a new order. If you need further assistance with this, please contact us via this link https://bonobos.com/contact-us or live chat with one of our agents via the website. Our team is happy to help!",
+      "id": "eba1bd22-f4ce-4adf-905d-c6c7132a8ee0",
+      "companyName": "Bonobos"
+    },
+    {
+      "name": "No promotions available brand specific",
+      "content": "I don't have any codes available at the moment, but our deals will always be shared with our SMS subscribers or on our website, so keep an eye out! In the meantime, you can check out our current promotions here - https://bonobos.attn.tv/sl/VR9COU86",
+      "id": "3f22a47f-b064-402d-973f-7f7ae4533651",
+      "shortcut": "ncode",
+      "companyName": "Bonobos"
+    },
+    {
+      "name": "Letter Responses to Trivia/Yeti Keyword",
+      "content": "We're sorry, the deadline to participate in our Cyber Monday Surprise has passed.\n\nNote: If you need help, please reach out directly at bonobos.com/contactsupport",
+      "id": "0fd498ff-03e7-442d-b6c2-e2fefd9b04d3",
+      "companyName": "Bonobos"
+    },
+    {
+      "name": "Size Chart: Men - Clothes",
+      "content": "You can take a look at our men's size chart here: https://bonobos.com/fitting-room",
+      "id": "993f54b6-40b4-4732-a2e7-5f3fcd00e0cb",
+      "companyName": "Bonobos"
+    },
+    {
+      "name": "Referral Discount Exclusions",
+      "content": "There are limitations to the referral discount. Items that are ineligible for these types of discount codes are: Icon Status styles of The Original Chino, The Chino 2.0, Weekday Warrior Dress Pants, Jetsetter Wool Suits and Suit Separates.",
+      "id": "4d705f71-a99b-4465-a3dc-663ac6bce2ca",
+      "companyName": "Bonobos"
+    },
+    {
+      "name": "Can I return/exchanges items to a store?",
+      "content": "You can absolutely return your items directly to a Guideshop location. For Guideshop locations, please click here: https://bonobos.com/guideshop\n\nBecause our Guideshop locations don't actually carry any inventory, you are unfortunately not able to directly exchange items there. However, our Guides can absolutely help you initiate the exchange process through our website and get the right size and fit combo on its way to you ASAP!",
+      "id": "120b1572-ac1e-467b-8ac9-c3bcc3b8d3b9",
+      "companyName": "Bonobos"
+    },
+    {
+      "name": "Do you have a teacher discount?",
+      "content": "We appreciate your service! We're happy to offer college and K-12 teachers a 20% discount for five orders over the course of a year. You can apply for your discount here: https://bonobos.attn.tv/a-OTp6QpKTw5",
+      "id": "807bbaaf-e12c-4b05-bc7e-330c63c2b4eb",
+      "companyName": "Bonobos"
+    },
+    {
+      "name": "Do you have a student discount?",
+      "content": "We are happy to offer a discount to U.S. college students looking to improve their campus style. You can receive a 20% discount for five orders over the course of a year. All you have to do is verify that you are an active student by heading to this link: https://bonobos.com/promotional-offers",
+      "id": "c02fda7e-4c8f-4f20-a41f-60edd1512aee",
+      "companyName": "Bonobos"
+    },
+    {
+      "name": "How long does it take for the referral link to become active?",
+      "content": "If no returns are made, your referral links become active post 30 days from completion of checkout.",
+      "id": "9fe493fa-f103-4c9a-991c-cd947619cc0e",
+      "companyName": "Bonobos"
+    },
+    {
+      "name": "Shipping to PO Boxes",
+      "content": "The process for delivery to a PO Box is that UPS ships the package majority of the way and then has to hand it over to a third party carrier to make the actual delivery at the post office. Good news is that you can use a physical address like home, office, or even one of our local Guideshops and the process will go much quicker, (1-6 business days).",
+      "id": "5aa1256e-8172-4dfa-84e1-01eaf3782843",
+      "companyName": "Bonobos"
+    },
+    {
+      "name": "Can I delay/schedule my order?",
+      "content": "Once an order is placed, we are unable to hold an order for a later time. The order will ship out shortly after an order is made. If you will be out of town, it would be best to either ship the item to your destination or wait until you return to place the order.",
+      "id": "9ed2e847-8ab5-43e9-bb63-fb95aa5c8c1c",
+      "companyName": "Bonobos"
+    },
+    {
+      "name": "Can I hem my trousers?",
+      "content": "You should be able to easily have the suit pants hemmed if you opt to purchase a suit pant slightly longer. If you have a local Guideshop, you should be able to reach out for a referral to a trusted tailor in your area if you do not already have one. If you don't have a local Guideshop, we always take our items to Nordstrom (even for non-Nordstrom items).",
+      "id": "e9d644ae-f6d6-4d07-83fb-3702a7e4a8b4",
+      "companyName": "Bonobos"
+    },
+    {
+      "name": "How do I exchange an item?",
+      "content": "To request an exchange, please log into your account and, under \"Orders\", find the order number for the item you'd like to exchange. Select \"Exchange\" next to the order number and follow the step-by-step instructions to complete your exchange. Exchanges are shipped as soon as possible following receipt of your exchange request. Place the items you're returning or exchanging in the package, attach the prepaid UPS return label to the outside of the package, and drop it off at your local UPS store. We'll take care of the rest.",
+      "id": "5b7b925d-0d56-4f00-a073-e9952387fb30",
+      "companyName": "Bonobos"
+    },
+    {
+      "name": "How do I send the items back?",
+      "content": "To return an item, you may generate a prepaid UPS return shipping label at bonobos.com/return-label using the order or shipping number, and enter the email address you'd like the label sent to. You may also drop returns off right at any Guideshop - for your nearest Guideshop location, you can see them here - https://bonobos.com/guideshop",
+      "id": "b2d1ab81-de84-450b-a753-43954e36e9d9",
+      "companyName": "Bonobos"
+    },
+    {
+      "name": "Shipping time",
+      "content": "We usually ship via UPS. Delivery times vary depending on where you're shipping to, ranging anywhere from 1-4 business days on the East Coast to 3-6 business days on the West. We may have paid expedited shipping options depending on where you're shipping to - you can see what options are available to you when you're checking out, under the \"Delivery Details\" section.",
+      "id": "516584d1-3080-41da-85dd-61d9f5c31c57",
+      "shortcut": "shp",
+      "companyName": "Bonobos"
+    },
+    {
+      "name": "How to delete account?",
+      "content": "Please note that the process of deleting an account would have to be on your end. Once this process is completed, you (and us) will no longer be able to access prior purchase information from our website, and we won't be able to assist with past purchases, refunds, replacement products, etc.. as the information will be gone from our system. After going through the steps below, if you'd like to shop again with this same email, you will have to create a new account.\n\n1. Go to the Bonobos Information Management Center: https://bonobos.attn.tv/a6X8mudgVQrV\n2. Enter your state of residence\n - Note: The privacy options offered are laid out according to the specific privacy laws that each state enforces. If choosing your home state does not give you the option to \"Delete My Information,\" then you may input California. Our Privacy Team has assured us it is okay to do so even if you do not live in California\n3. From the available options choose \"Delete My Personal Information\"\n4. Fill out the form and click \"Submit\"\n5. An identity authentication message will be sent to your email (You must complete this in order to finish submitting your request)\n6. Once you've done all of the above, a ticket will have been submitted to the Bonobos Privacy Team via the program \"One Trust.\" You will receive a confirmation email via this ticket from Bonobos Privacy Team <noreply@m.onetrust.com> once your request has been completed.",
+      "id": "b6978d45-eb51-4767-b0d4-7a822dd3b9bd",
+      "companyName": "Bonobos"
+    },
+    {
+      "name": "What should I expect in terms of shrinkage when washing your jeans?",
+      "content": "All our items are prewashed and preshrunk so you shouldn't experience a lot of shrinkage.",
+      "id": "aa7b3f22-a7c2-439f-907a-59db4d70ecc4",
+      "companyName": "Bonobos"
+    }
+  ]
+}

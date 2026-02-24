@@ -3,529 +3,123 @@
   "chunk": "chunk_0004",
   "scenarios": {
     "16": {
-      "id": "019c76f8-5cf1-4915-f000-0000f4ac4809",
-      "companyName": "Howitzer Clothing",
-      "companyWebsite": "https://howitzerclothing.com",
-      "agentName": "Kim",
+      "id": "019c53a3-632f-4d74-f000-00004d3134de",
+      "companyName": "NIRA",
+      "companyWebsite": "https://niraskin.com",
+      "agentName": "Sarah",
       "messageTone": "Polished",
       "conversation": [
         {
           "message_media": [],
-          "message_text": "Howitzer Clothing: Hey Kaleb, we noticed you checking us out. Have you seen our best sellers yet? https://howitzerclothing.attn.tv/adH7dxzhIMrj \n\nText back with any questions!",
+          "message_text": "NIRA: Hey Melanie,\n\nDon't forget to take \"before\" photos of your skin when your NIRA collection arrives! Then, capture a photo update every 30 days to track your progress. \n\nSee B&A photo examples: https://niraskin.attn.tv/aeNqd7ntXVey ",
           "message_type": "system",
-          "date_time": "2026-02-19 11:12:03.228"
+          "date_time": "2026-01-20 14:23:52.715"
         },
         {
           "message_media": [],
-          "message_text": "Order was placed and I need to cancel",
+          "message_text": "NIRA: Hi Melanie, did you know that applying our science-backed topicals after your treatment will maximize your NIRA Laser results!?\n\nSubscribe & save 50% on our deeply nourishing & skin-renewing skincare bundle->\n https://niraskin.attn.tv/aEbY0XNUvY34 ",
+          "message_type": "system",
+          "date_time": "2026-02-12 14:23:56.216"
+        },
+        {
+          "message_media": [],
+          "message_text": "Hin I want to know if I will get confirmation when you receive my nira that I mailed back to you to get the upgrade?",
           "message_type": "customer",
-          "date_time": "2026-02-19 11:12:38.583"
+          "date_time": "2026-02-12 15:43:15.380"
         },
         {
           "message_media": [],
-          "message_text": "Howitzer Clothing: I understand! The best way to check if you can cancel or edit your order is to email our support team directly at customerservice@howitzerclothing.com ",
+          "message_text": "Template used: \"Order number and email - All brands\"; last updated: 2023-10-10 18:06:34.663",
+          "message_type": "template",
+          "date_time": "2026-02-12 15:55:42.672"
+        },
+        {
+          "message_media": [],
+          "message_text": "NIRA: Thanks for reaching out! Could you please share your email address and confirm the order number? I'll be happy to look into this with my team!",
           "message_type": "agent",
-          "agent": "50271",
-          "message_id": "019c76b0-1327-47a0-f000-0000f4ac4809",
-          "date_time": "2026-02-19 11:16:16.714"
-        },
-        {
-          "message_media": [],
-          "message_text": "Already did no answer",
-          "message_type": "customer",
-          "date_time": "2026-02-19 11:16:58.824"
-        },
-        {
-          "message_media": [],
-          "message_text": "Howitzer Clothing: Sorry to hear that! Rest assured, our team is doing everything to respond to each inquiry in a timely manner. They should follow up with you in no time! If you don't see the team's response in your inbox, be sure to check your spam and promo folders, sometimes our emails end up there as well. ",
-          "message_type": "agent",
-          "agent": "50271",
-          "message_id": "019c76b4-5521-4b8d-f000-0000f4ac4809",
-          "date_time": "2026-02-19 11:20:55.741"
-        },
-        {
-          "message_media": [],
-          "message_text": "Can you get me in contact with someone to call me please?",
-          "message_type": "customer",
-          "date_time": "2026-02-19 11:29:38.550"
-        },
-        {
-          "message_media": [],
-          "message_text": "I need to talk to a customer support agent",
-          "message_type": "customer",
-          "date_time": "2026-02-19 11:51:38.484"
-        },
-        {
-          "message_media": [],
-          "message_text": "Howitzer Clothing: I'm sorry about that! This number is for SMS only, so I'm not able to make or receive calls. You can give us a call at 1-855-717-3963, Monday - Friday from 9:00 am - 5:00 pm PST. ",
-          "message_type": "agent",
-          "agent": "50269",
-          "message_id": "019c76d1-71b8-40d6-f000-0000f4ac4809",
-          "date_time": "2026-02-19 11:52:43.608"
-        },
-        {
-          "message_media": [],
-          "message_text": "I am but nobody is answering my calls or my emails",
-          "message_type": "customer",
-          "date_time": "2026-02-19 11:53:28.794"
-        },
-        {
-          "message_media": [],
-          "message_text": "Howitzer Clothing: We sincerely apologize for the wait! As much as I would love to help out directly, I'm afraid my access is limited, and the team is better equipped to assist you. They are experiencing a high volume of emails, but they'll respond to you as soon as possible. Please check your spam and promo folders, as sometimes our emails end up there. We appreciate your patience on this!",
-          "message_type": "agent",
-          "agent": "33482",
-          "message_id": "019c76d4-226a-493b-f000-0000f4ac4809",
-          "date_time": "2026-02-19 11:55:39.910"
-        },
-        {
-          "message_media": [],
-          "message_text": "Still no answer from phone call or email please connect me with someone",
-          "message_type": "customer",
-          "date_time": "2026-02-19 12:20:50.580"
-        },
-        {
-          "message_media": [],
-          "message_text": "Howitzer Clothing: As mentioned earlier, I truly apologize that I'm unable to assist with this directly, as my system isn't equipped to handle this type of issue. Our team is working hard to respond to all inquiries as quickly as possible, and you should hear back from them very soon.",
-          "message_type": "agent",
-          "agent": "82427",
-          "message_id": "019c76ee-86d9-44eb-f000-0000f4ac4809",
-          "date_time": "2026-02-19 12:24:29.555"
-        },
-        {
-          "message_media": [],
-          "message_text": "I just want to return it and get my money back in my account ASAP",
-          "message_type": "customer",
-          "date_time": "2026-02-19 12:32:11.197"
-        },
-        {
-          "message_media": [],
-          "message_text": "Howitzer Clothing: I truly apologize that I'm not able to resolve this directly. Our team is actively working through inquiries and will get back to you as soon as possible.",
-          "message_type": "agent",
-          "agent": "109972",
-          "message_id": "019c76f8-5cf1-4915-f000-0000f4ac4809",
-          "date_time": "2026-02-19 12:35:14.187"
+          "agent": "109964",
+          "message_id": "019c53a3-632f-4d74-f000-00004d3134de",
+          "date_time": "2026-02-12 15:55:42.673"
         }
       ],
       "notes": {
-        "send_to_cs": [
-          "No ESC for this client, send everything to CS"
+        "escalate": [
+          "ESC post-purchase inquiries immediately",
+          "ESC shipping delay inquiries",
+          "ESC technical-specific inquiries",
+          "ESC inquiries regarding specific Influencer/Affiliates code",
+          "ESC if cx wants to return their order, don't send RP template!"
+        ],
+        "tone": [
+          "Don't use slang (ex: gotcha)",
+          "Refer to Bundles as Collections",
+          "Close the convo once the brand's customer service team takes over"
         ]
       },
       "rightPanel": {
         "source": {
           "label": "Website",
-          "value": "https://howitzerclothing.com",
+          "value": "https://niraskin.com",
           "date": ""
         },
         "browsingHistory": [
           {
-            "item": "Battle Ram - ANTIQUE WHITE / S",
-            "link": "https://howitzerclothing.com/collections/born-to-hunt/products/battle-ram-1",
-            "timeAgo": "2026-01-19"
+            "item": "NIRA Laser Bundle+ - White",
+            "link": "https://www.niraskin.com/products/nira-plus-laser-bundle",
+            "timeAgo": "2025-12-09"
           },
           {
-            "item": "Hunting Stand Hood - OATMEAL / S",
-            "link": "https://howitzerclothing.com/collections/born-to-hunt/products/hunting-stand-po-hood",
-            "timeAgo": "2026-01-19"
+            "item": "NIRA Laser Bundle+ - White",
+            "link": "https://www.niraskin.com/products/nira-plus-laser-bundle",
+            "timeAgo": "2025-12-08"
           },
           {
-            "item": "Outdoor Ops Hood - ARMY HEATHER / S",
-            "link": "https://howitzerclothing.com/collections/born-to-hunt/products/outdoor-ops-po-hood",
-            "timeAgo": "2026-01-19"
+            "item": "NIRA Laser Bundle+ - White",
+            "link": "https://www.niraskin.com/products/nira-plus-laser-bundle",
+            "timeAgo": "2025-12-08"
           },
           {
-            "item": "Miami Tiger Boardshort - ASSORTED / S",
-            "link": "https://howitzerclothing.com/collections/mens-shorts/products/miami-tiger-boardshort",
-            "timeAgo": "2026-01-19"
+            "item": "NIRA Pro+ Laser",
+            "link": "https://www.niraskin.com/products/nira-pro-plus-laser?utm_campaign=7%2F30%20MMS:%20Neck%20Wrinkles&utm_medium=sms&utm_source=attentive&externalId=XpJ66",
+            "timeAgo": "2025-07-31"
           },
           {
-            "item": "Miami Tiger Boardshort - ASSORTED / S",
-            "link": "https://howitzerclothing.com/collections/mens-shorts/products/miami-tiger-boardshort",
-            "timeAgo": "2026-01-19"
+            "item": "NIRA Pro+ Laser",
+            "link": "https://www.niraskin.com/products/nira-pro-plus-laser?utm_campaign=20250313+Pro++Announcement+%28Pro+Purchasers%29&utm_medium=sms&utm_source=attentive&externalId=XpJ66",
+            "timeAgo": "2025-03-13"
           }
         ],
         "orders": [
           {
-            "orderNumber": "5851860074631",
-            "orderDate": "2026-02-19",
+            "orderNumber": "5164770033700",
+            "orderDate": "2023-11-25",
             "items": [
               {
-                "name": "Camo Tote",
-                "price": 24.95,
-                "productLink": "https://howitzer-clothing.myshopify.com/products/camo-tote"
-              },
-              {
-                "name": "Scout Pant",
-                "price": 109.95,
-                "productLink": "https://howitzer-clothing.myshopify.com/products/scout-pant"
-              },
-              {
-                "name": "Tiger Camo Scout Pants",
-                "price": 109.95,
-                "productLink": "https://howitzer-clothing.myshopify.com/products/tiger-camo-scout-pants"
+                "name": "NIRA Pro Laser",
+                "price": 599,
+                "productLink": "https://nira-retail.myshopify.com/products/nira-pro-laser"
               }
             ],
-            "total": 266.07,
-            "date_time": "2026-02-19 15:50:12.144"
+            "total": 486.32,
+            "coupon": "BFCM",
+            "date_time": "2023-11-25 05:50:45.940"
           }
         ]
       },
-      "escalation_preferences": [],
+      "escalation_preferences": [
+        "Shipping questions",
+        "Discount code errors",
+        "Exchanges and returns",
+        "ESC post purchase questions right away",
+        "technical-specific questions",
+        "NIRA Pro Laser questions",
+        "questions comparing NIRA against other skincare device technologies",
+        "troubleshooting the device questions"
+      ],
       "blocklisted_words": [],
       "has_shopify": true
     },
     "17": {
-      "id": "019c6da6-6c08-4da2-f000-0000d1566d24",
-      "companyName": "Comfrt",
-      "companyWebsite": "https://comfrt.com",
-      "agentName": "Samantha",
-      "messageTone": "Polished",
-      "conversation": [
-        {
-          "message_media": [],
-          "message_text": "Comfrt: Winter storm? We've got you covered.\n\nShop up to 70% off sitewide on the coziest essentials.\n\nShop now: comfrt.attn.tv/aB-FDyVpNpeQ ",
-          "message_type": "system",
-          "date_time": "2026-01-23 16:36:40.322"
-        },
-        {
-          "message_media": [],
-          "message_text": "Comfrt: Made to move with you.\n\nComing 1.28. \n\nShop your favorites while you wait: comfrt.attn.tv/aFpvDUj9hIFS ",
-          "message_type": "system",
-          "date_time": "2026-01-26 19:29:27.472"
-        },
-        {
-          "message_media": [],
-          "message_text": "Comfrt: JUST DROPPED\n\nDesigned to move with you. Made to feel like you.\n\nIntroducing ComfrtCoreTM. Created for your body and mind.\n\nMove your way:\ncomfrt.attn.tv/aa0hvsMauYGc",
-          "message_type": "system",
-          "date_time": "2026-01-28 15:16:29.646"
-        },
-        {
-          "message_media": [],
-          "message_text": "Comfrt: The finishing touch. \n\nThe NEW Basic Crop Zip Hoodie is the perfect layer for your ComfrtCoreTM sets. \n\nLightweight, cropped, and ready for your life in motion.\n\nComplete the look:\ncomfrt.attn.tv/abytnBzjxEXG",
-          "message_type": "system",
-          "date_time": "2026-01-30 16:03:18.210"
-        },
-        {
-          "message_media": [],
-          "message_text": "Comfrt: You reached the finish line. January is over and the weekend is here!\n\nReward yourself with the NEW Basic Quarter Zip.\n\nGrab your go-to:\ncomfrt.attn.tv/aSWA5v5z8gK0",
-          "message_type": "system",
-          "date_time": "2026-01-31 22:08:13.889"
-        },
-        {
-          "message_media": [],
-          "message_text": "Comfrt: Whether your team wins or loses, your outfit shouldn't. \n\nFinal score: You look great.\n\nGrab your game day set:\ncomfrt.attn.tv/aAKm1xGvchLI",
-          "message_type": "system",
-          "date_time": "2026-02-01 16:02:01.521"
-        },
-        {
-          "message_media": [],
-          "message_text": "Comfrt: Your winter remedy is here.\n\nMeet the Ember Heated Blanket. Perfectly warm, irresistibly soft, and made to feel like a dream you never want to wake up from.\n\nGet cozy: comfrt.attn.tv/aURHf6MPvABv",
-          "message_type": "system",
-          "date_time": "2026-02-11 21:15:19.234"
-        },
-        {
-          "message_media": [],
-          "message_text": "Comfrt: Upgrade to first class.\n\nThe VIP Airplane Mode Hoodie with a satin-lined hood and eye mask has officially landed! \n\nAlso, four new limited shades just got added to our original collection.\n\nGet it while you can: comfrt.attn.tv/aTeKoxSE3bn2 \n",
-          "message_type": "system",
-          "date_time": "2026-02-13 18:31:19.824"
-        },
-        {
-          "message_media": [],
-          "message_text": "Comfrt: You are already subscribed. Click here to shop now: comfrt.com.",
-          "message_type": "system",
-          "date_time": "2026-02-13 23:11:36.102"
-        },
-        {
-          "message_media": [],
-          "message_text": "Comfrt: Forgot Valentine's Day is today? Your secret is safe with us.\n\nSend a Comfrt E-Gift Card and let them pick their new favorite set. Delivered instantly.\n\nNo shipping, no stress: comfrt.attn.tv/aVVY0JYs2Feh \n",
-          "message_type": "system",
-          "date_time": "2026-02-14 14:16:07.179"
-        },
-        {
-          "message_media": [],
-          "message_text": "Comfrt: Hi Jeremiah, saw you stopped by!\n\nWe have a feeling you'll love more Comfrt. \n\nCome back and see all of our latest arrivals: comfrt.attn.tv/ar3Kt0zV-vPD ",
-          "message_type": "system",
-          "date_time": "2026-02-17 15:26:37.978"
-        },
-        {
-          "message_media": [],
-          "message_text": "Checking on preorder ugh!!😩",
-          "message_type": "customer",
-          "date_time": "2026-02-17 17:07:57.071"
-        },
-        {
-          "message_media": [],
-          "message_text": "Template used: \"Pre-order shipping, when will my pre-order arrive?\"; last updated: 2025-05-07 18:45:20.495",
-          "message_type": "template",
-          "date_time": "2026-02-17 17:09:09.152"
-        },
-        {
-          "message_media": [],
-          "message_text": "Comfrt: Thanks for reaching out! Are you referring to Order #7851928? If so, I can confirm that the items in your order are pre-orders.\n\nThe estimated shipping date for pre-ordered items will be displayed on the product page and in your order confirmation email. Please note that this date is an estimate, and is not a guaranteed date of delivery or receipt. The estimated delivery date that you receive in your confirmation email is subject to change based on production, supplier availability, or other unforeseen circumstances. \n\nLet me know how that goes. ",
-          "message_type": "agent",
-          "agent": "109617",
-          "message_id": "019c6da6-6c08-4da2-f000-0000d1566d24",
-          "date_time": "2026-02-17 17:09:09.153"
-        }
-      ],
-      "notes": {
-        "send_to_cs": [
-          "Send to CS for post-purchase issues"
-        ],
-        "escalate": [
-          "ESC if the discount % is not the same as indicated in the automated message"
-        ],
-        "templates": [
-          "If cx asks if Comfrt was formerly another brand, use CFB shortcut"
-        ]
-      },
-      "rightPanel": {
-        "source": {
-          "label": "Website",
-          "value": "https://comfrt.com",
-          "date": ""
-        },
-        "browsingHistory": [
-          {
-            "item": "Travel Essentials Hoodie",
-            "link": "https://comfrt.com/products/cozy-city-hoodie?variant=42116974182444",
-            "timeAgo": "2026-02-01"
-          },
-          {
-            "item": "Travel Essentials Hoodie",
-            "link": "https://comfrt.com/products/cozy-city-hoodie?variant=44126975655980",
-            "timeAgo": "2026-02-01"
-          },
-          {
-            "item": "Airplane Mode Travel Hoodie",
-            "link": "https://comfrt.com/products/travel-hoodie?variant=44347028766764",
-            "timeAgo": "2025-12-08"
-          },
-          {
-            "item": "Airplane Mode Travel Hoodie",
-            "link": "https://comfrt.com/products/travel-hoodie?variant=44347028766764",
-            "timeAgo": "2025-12-08"
-          },
-          {
-            "item": "Airplane Mode Travel Hoodie",
-            "link": "https://comfrt.com/products/travel-hoodie?variant=44347028766764",
-            "timeAgo": "2025-12-08"
-          }
-        ]
-      },
-      "escalation_preferences": [
-        "Exchanges and returns",
-        "Sizing questions",
-        "Discount code errors"
-      ],
-      "blocklisted_words": [],
-      "has_shopify": true
-    },
-    "18": {
-      "id": "019c777d-e316-4454-f000-00002cf05b37",
-      "companyName": "Gary's Wine & Marketplace",
-      "companyWebsite": "https://garyswine.com",
-      "agentName": "Jordan",
-      "messageTone": "Polished",
-      "conversation": [
-        {
-          "message_media": [],
-          "message_text": "Gary's Wine: Reply to this text with the # of half-bottles you would like to purchase!\n\n63% off Silky 92pt Italian Barbera\n\n375ml Half-Bottles ONLY $6.28!\n\nBlackberry, Spice, Perfect for Pizza!\n\nLAST BOTTLES at Madison, Bernardsville or Online Stores! garyswine.attn.tv/aQ2V0DHzuh6e ",
-          "message_type": "system",
-          "date_time": "2026-01-27 14:20:11.649"
-        },
-        {
-          "message_media": [],
-          "message_text": "Gary's Wine: Up to 74% off Over 3,000 Wines!\n\nGary's Inventory Reduction Sale\n\nEvery Palate. Every Price Point. HUGE DEALS\n\nOnly @ Gary's Until February 2nd!\n\nIn-Store + Online! garyswine.attn.tv/aGa-Jgjfwlaz ",
-          "message_type": "system",
-          "date_time": "2026-01-30 14:01:19.384"
-        },
-        {
-          "message_media": [],
-          "message_text": "Gary's Wine: Hey, this is Jordan. Thanks for checking out our site! 😊 https://garyswine.attn.tv/aYxyoB_Tfhxd \n\nAny questions I can answer for you? ",
-          "message_type": "system",
-          "date_time": "2026-02-01 16:45:26.410"
-        },
-        {
-          "message_media": [],
-          "message_text": "Gary's Wine: 47% off 94PT Châteauneuf-du-Pape!\n\nORGANIC Rhône Grenache blend\n\nBlack fruit, Savory herbs - Collectible!\n\nU.S. LOWEST Price - 48hrs ONLY! garyswine.attn.tv/aF9PUPoU25Nr ",
-          "message_type": "system",
-          "date_time": "2026-02-03 13:05:19.653"
-        },
-        {
-          "message_media": [],
-          "message_text": "Gary's Wine: It looks like you forgot something in your cart - complete your checkout today: \ngaryswine.attn.tv/aFgofnddQlrC ",
-          "message_type": "system",
-          "date_time": "2026-02-05 12:10:10.554"
-        },
-        {
-          "message_media": [],
-          "message_text": "Gary's Wine: Sip with a SUPERMODEL! Meet Ashley Graham at Gary's Madison for the first in-store launch of Lucci Lambrusco on Fri, Feb 13 from 5:30-6:30pm. Bubbles, bites & bottle signings - arrive early! garyswine.attn.tv/a0X8703wLRjW ",
-          "message_type": "system",
-          "date_time": "2026-02-07 13:05:44.703"
-        },
-        {
-          "message_media": [],
-          "message_text": "Gary's Wine: Reply to this text with the # of bottles you would like to purchase!\n\nUNDER $8 - Red Bordeaux Beauty!\n\nClassic Merlot/Cabernet Blend\n\nRipe, Savory, Dry + Smooth\n\nUp to 45% OFF - 48hrs ONLY!\ngaryswine.attn.tv/ajwen6U_UanA ",
-          "message_type": "system",
-          "date_time": "2026-02-10 13:40:21.250"
-        },
-        {
-          "message_media": [],
-          "message_text": "Gary's Wine: Meet supermodel Ashley Graham tomorrow at Gary's Madison for the exclusive Lucci Lambrusco launch, 5:30-6:30pm. Signed bottles + bites. Don't miss it. garyswine.attn.tv/aUcgZICN3Agh ",
-          "message_type": "system",
-          "date_time": "2026-02-12 13:05:30.675"
-        },
-        {
-          "message_media": [],
-          "message_text": "Gary's Wine: Reply to this text with the # of bottles you would like to purchase! \n\n36% OFF French Sun in a Bottle\n\n90pt BEST BUY Rosé - NOW $8.97!\n\nFresh. Zesty. Berry Bursts!\n\n48 HOURS ONLY at Gary's! garyswine.attn.tv/anwEqDTUVWSI ",
-          "message_type": "system",
-          "date_time": "2026-02-17 13:05:21.668"
-        },
-        {
-          "message_media": [],
-          "message_text": "Gary's Wine: Hey, this is Jordan. Thanks for checking out our site! 😊 https://garyswine.attn.tv/a3cC7B6j2X7x \n\nAre you looking for anything in particular today? ",
-          "message_type": "system",
-          "date_time": "2026-02-19 12:58:08.146"
-        },
-        {
-          "message_media": [
-            "https://attentive-files.s3.amazonaws.com/receive-event-media/1771529844465_2024569012981100544.png",
-            "https://attentive-files.s3.amazonaws.com/receive-event-media/1771529844159_2024569012981100544.application/smil"
-          ],
-          "message_text": "Six bottles",
-          "message_type": "customer",
-          "date_time": "2026-02-19 14:37:36.504"
-        },
-        {
-          "message_media": [],
-          "message_text": "Gary's Wine: Thank you for sharing that. You can find the Palazzo Brunello di Montalcino DOCG here: https://garyswine.attn.tv/aWxh-DPAwYWc\n\nIf you'd like for us to place the order for you, I will kindly refer you to our chat support on the website. The team there will be better equipped to handle this for you.\n\nPlease don't hesitate to reach out if you have any questions. I'm happy to help.",
-          "message_type": "agent",
-          "agent": "109968",
-          "message_id": "019c777d-e316-4454-f000-00002cf05b37",
-          "date_time": "2026-02-19 15:01:04.820"
-        }
-      ],
-      "notes": {
-        "escalate": [
-          "ESC post purchase local delivery inquiries immediately",
-          "ESC inventory inquiries",
-          "ESC product recommendations",
-          "ESC NAPA wines campaign responses (when the subscriber replies with the number of bottles they want)"
-        ],
-        "text_to_buy_reply_to_buy_campaign": [
-          "The client sends out a campaign featuring a bottle of wine and asking customers how many they would like to order. When a subscriber replies with a number of bottles:",
-          "➜ Use CPN shortcut",
-          "➜ ESC the convo & include if the cx wants to do pickup or delivery in your ESC notes",
-          "➜ Close the convo after ESC, the client will reply"
-        ],
-        "dos_and_don_ts": [
-          "Shipping zones (agent use only): bit.ly/3qiYcb7",
-          "If customers want us to place a order for them, refer them to chat support on the website",
-          "If a customer asks for a driver's personal information, let them know we can't provide it for privacy reasons"
-        ]
-      },
-      "rightPanel": {
-        "source": {
-          "label": "Website",
-          "value": "https://garyswine.com",
-          "date": ""
-        },
-        "browsingHistory": [
-          {
-            "item": "Palazzo Brunello di Montalcino DOCG",
-            "link": "https://garyswine.com/shop/product/palazzo-brunello-di-montalcino-docg/66b42546e084ac781b8ef7eb?option-id=3299153fce6317ef76344b3c7ffcb0efaf536771b5da7bb09805010ab1ecb4b3",
-            "timeAgo": "2026-02-19"
-          },
-          {
-            "item": "Macauley Vineyard Cabernet Sauvignon 'Oakville Ranch'",
-            "link": "https://garyswine.com/shop/product/macauley-vineyard-cabernet-sauvignon-oakville-ranch/69011ae0f78b743616871168?option-id=68133bfd95500a42e20bf9fabb5bd2d53020a2f1c56ad88036ef977b1eb7c5af",
-            "timeAgo": "2026-02-08"
-          },
-          {
-            "item": "Domaine de Beaurenard Châteauneuf-du-Pape",
-            "link": "https://garyswine.com/shop/product/domaine-de-beaurenard-ch-teauneuf-du-pape/5a1a8e9361df8817a4ed9bed?option-id=3760e3cda6cf80baa878c4b18244ad4f778da0bd43b1b2ce248eafda0e590feb&utm_campaign=REPLY+TO+BUY+SMS+02032026_2021+Domaine+de+Beaurenard+Ch%C3%A2teauneuf-du-Pape&utm_medium=sms&utm_source=attentive&externalId=A7bU6&assigned_merchant_id=true",
-            "timeAgo": "2026-02-05"
-          },
-          {
-            "item": "Domaine de Beaurenard Châteauneuf-du-Pape",
-            "link": "https://garyswine.com/shop/product/domaine-de-beaurenard-ch-teauneuf-du-pape/5a1a8e9361df8817a4ed9bed?option-id=3760e3cda6cf80baa878c4b18244ad4f778da0bd43b1b2ce248eafda0e590feb&utm_campaign=REPLY+TO+BUY+SMS+02032026_2021+Domaine+de+Beaurenard+Ch%C3%A2teauneuf-du-Pape&utm_medium=sms&utm_source=attentive&externalId=A7bU6&assigned_merchant_id=true",
-            "timeAgo": "2026-02-05"
-          }
-        ],
-        "orders": [
-          {
-            "orderNumber": "68938dfa833b650e6880f490",
-            "orderDate": "2025-08-06",
-            "items": [
-              {
-                "name": "Villa Antinori Toscana Rosso IGT",
-                "price": 16.99
-              }
-            ],
-            "total": 416.87,
-            "date_time": "2025-08-06 17:16:48.588"
-          },
-          {
-            "orderNumber": "68938dfa833b650e6880f490",
-            "orderDate": "2025-08-06",
-            "items": [
-              {
-                "name": "Marchesi Di Barolo Barbera D'alba Peiragal Single Vineyard",
-                "price": 28.99
-              }
-            ],
-            "total": 416.87,
-            "date_time": "2025-08-06 17:16:48.568"
-          },
-          {
-            "orderNumber": "68938dfa833b650e6880f490",
-            "orderDate": "2025-08-06",
-            "items": [
-              {
-                "name": "Ramirez De La Piscina Seleccion Rioja Reserva",
-                "price": 24.99
-              }
-            ],
-            "total": 416.87,
-            "date_time": "2025-08-06 17:16:48.564"
-          },
-          {
-            "orderNumber": "68938dfa833b650e6880f490",
-            "orderDate": "2025-08-06",
-            "items": [
-              {
-                "name": "Marques De Caceres Rioja Crianza",
-                "price": 14.99
-              }
-            ],
-            "total": 416.87,
-            "date_time": "2025-08-06 17:16:48.545"
-          },
-          {
-            "orderNumber": "68938dfa833b650e6880f490",
-            "orderDate": "2025-08-06",
-            "items": [
-              {
-                "name": "Bruna Grimaldi Barolo Camilla Piedmont Italy",
-                "price": 49.99
-              }
-            ],
-            "total": 416.87,
-            "date_time": "2025-08-06 17:16:48.535"
-          }
-        ]
-      },
-      "escalation_preferences": [
-        "product recommendations",
-        "inventory",
-        "login issues",
-        "delayed orders"
-      ],
-      "blocklisted_words": [],
-      "has_shopify": false
-    },
-    "19": {
       "id": "019c4367-8c88-49ac-f000-000066dc3764",
       "companyName": "Wooden Ships",
       "companyWebsite": "https://wooden-ships.com",
@@ -833,7 +427,186 @@
       ],
       "has_shopify": true
     },
-    "20": {
+    "18": {
+      "id": "019c44db-21ea-4ea4-f000-0000f7d6f81f",
+      "companyName": "Cozy Earth",
+      "companyWebsite": "https://cozyearth.com",
+      "agentName": "Sarah",
+      "messageTone": "Polished",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "Cozy Earth: Welcome! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel. Privacy: attnl.tv/p/S4E",
+          "message_type": "system",
+          "date_time": "2026-02-04 11:12:55.759"
+        },
+        {
+          "message_media": [],
+          "message_text": "Cozy Earth: Congrats on $50 Off! Use code GETCOZY50 at checkout.\n*only on orders over $100.\n\nHurry...offer expires in 48 hours!\ncozyearth.attn.tv/aNtEkVgdQ3GU",
+          "message_type": "system",
+          "date_time": "2026-02-04 11:13:02.446"
+        },
+        {
+          "message_media": [],
+          "message_text": "Cozy Earth: Oh, also, a lot of people like getting personal recs from us. Over the next few days we'll try to help you find something that you will love.\n\nYour ultimate coziness awaits! Luxuriate in our best-sellers: https://cozyearth.attn.tv/ah-otXoRYxW7 .",
+          "message_type": "system",
+          "date_time": "2026-02-04 11:14:07.338"
+        },
+        {
+          "message_media": [],
+          "message_text": "Cozy Earth: Thank you for your purchase! Your order number is #3345939. View more information about your order here: cozyearth.attn.tv/akbMJHpaw4rk",
+          "message_type": "system",
+          "date_time": "2026-02-04 11:20:26.433"
+        },
+        {
+          "message_media": [],
+          "message_text": "Cozy Earth: Hurry! Last call for on-time Valentine's gift delivery with ground shipping!\n\nSave Up To 20% Off: cozyearth.attn.tv/aDApJufx-e3D",
+          "message_type": "system",
+          "date_time": "2026-02-05 18:11:08.250"
+        },
+        {
+          "message_media": [],
+          "message_text": "Cozy Earth: Hi! We can't wait for you to try your new Cozy Earth Package Protection - Optional - 14.81!\n\nFind answers to common questions below or respond to this text & we'll be here to help right away!\ncozyearth.attn.tv/a_nfmUmGmvOE ",
+          "message_type": "system",
+          "date_time": "2026-02-07 13:36:42.996"
+        },
+        {
+          "message_media": [],
+          "message_text": "Cozy Earth: Your order #3345939 is out for delivery! \nTrack your order here: cozyearth.attn.tv/ajwKa_ta2gwA",
+          "message_type": "system",
+          "date_time": "2026-02-07 13:55:04.041"
+        },
+        {
+          "message_media": [],
+          "message_text": "Cozy Earth: Your order #3345939 is out for delivery! \nTrack your order here: cozyearth.attn.tv/aoxhLT6zxtbt",
+          "message_type": "system",
+          "date_time": "2026-02-07 17:39:51.380"
+        },
+        {
+          "message_media": [],
+          "message_text": "Cozy Earth: Your order #3345939 is out for delivery! \nTrack your order here: cozyearth.attn.tv/aEelUzqRhe-q",
+          "message_type": "system",
+          "date_time": "2026-02-09 13:47:35.312"
+        },
+        {
+          "message_media": [],
+          "message_text": "Cozy Earth: Your order #3345939 has been delivered! \nCheck in on your order: cozyearth.attn.tv/aci92ZULTmCf\n",
+          "message_type": "system",
+          "date_time": "2026-02-09 17:40:15.320"
+        },
+        {
+          "message_media": [],
+          "message_text": "What should I do if they are too big",
+          "message_type": "customer",
+          "date_time": "2026-02-09 18:52:26.952"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"Return policy\"; last updated: 2022-10-21 22:52:19.174",
+          "message_type": "template",
+          "date_time": "2026-02-09 19:02:17.733"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"Return policy\"; last updated: 2022-10-21 22:52:19.174",
+          "message_type": "template",
+          "date_time": "2026-02-09 19:02:17.733"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"How do I start a return?\"; last updated: 2025-05-14 17:18:15.708",
+          "message_type": "template",
+          "date_time": "2026-02-09 19:02:17.733"
+        },
+        {
+          "message_media": [],
+          "message_text": "Cozy Earth: Thanks for reaching out, and I'm sorry to hear that! For more information, you can check out our detailed return policy here: https://cozyearth.attn.tv/axrHJMgbnnoR\n\nThen, you can start your return here: https://cozyearth.attn.tv/adQiqRTlCop2\n\nLet me know how that goes.",
+          "message_type": "agent",
+          "agent": "109617",
+          "message_id": "019c44db-21ea-4ea4-f000-0000f7d6f81f",
+          "date_time": "2026-02-09 19:02:17.738"
+        }
+      ],
+      "notes": {
+        "escalate": [
+          "ESC all MyFitness pall App inquiries"
+        ],
+        "dos_and_don_ts": [
+          "Don't share sale end dates with customers"
+        ]
+      },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://cozyearth.com",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "Women's Bamboo Stretch-Knit Short Sleeve Pajama Set",
+            "link": "https://cozyearth.com/products/womens-bamboo-stretch-knit-short-sleeve-pajama-set?variant=43627872026804#dialog-cart",
+            "timeAgo": "2026-02-04"
+          },
+          {
+            "item": "Women's Bamboo Stretch-Knit Short Sleeve Pajama Set",
+            "link": "https://cozyearth.com/products/womens-bamboo-stretch-knit-short-sleeve-pajama-set?variant=43627872026804",
+            "timeAgo": "2026-02-04"
+          },
+          {
+            "item": "Women's Bamboo Stretch-Knit Short Sleeve Pajama Set",
+            "link": "https://cozyearth.com/products/womens-bamboo-stretch-knit-short-sleeve-pajama-set?variant=43627872026804#dialog-cart",
+            "timeAgo": "2026-02-04"
+          },
+          {
+            "item": "Women's Bamboo Stretch-Knit Short Sleeve Pajama Set",
+            "link": "https://cozyearth.com/products/womens-bamboo-stretch-knit-short-sleeve-pajama-set?variant=43627872026804#dialog-cart",
+            "timeAgo": "2026-02-04"
+          },
+          {
+            "item": "Women's Bamboo Stretch-Knit Short Sleeve Pajama Set",
+            "link": "https://cozyearth.com/products/womens-bamboo-stretch-knit-short-sleeve-pajama-set?variant=43627872026804",
+            "timeAgo": "2026-02-04"
+          }
+        ],
+        "orders": [
+          {
+            "orderNumber": "3345939",
+            "orderDate": "2026-02-04",
+            "items": [
+              {
+                "name": "Women's Bamboo Stretch-Knit Long Sleeve Pajama Set",
+                "price": 148,
+                "productLink": "https://cozyearth2.myshopify.com/products/womens-bamboo-stretch-knit-long-sleeve-pajama-set"
+              },
+              {
+                "name": "Women's Bamboo Stretch-Knit Short Sleeve Pajama Set",
+                "price": 128,
+                "productLink": "https://cozyearth2.myshopify.com/products/womens-bamboo-stretch-knit-short-sleeve-pajama-set"
+              },
+              {
+                "name": "Bamboo Sheet Set",
+                "price": 328,
+                "productLink": "https://cozyearth2.myshopify.com/products/bamboo-sheet-set"
+              },
+              {
+                "name": "Cozy Earth Package Protection - Optional",
+                "price": 14.81,
+                "productLink": "https://cozyearth2.myshopify.com/products/package-protection"
+              }
+            ],
+            "link": "https://cozyearth.com/21143697/orders/e8e502daa14e2b6ca236a16897c30a8c/authenticate?key=a10972e73dbc4dd5847c3b263b5b1c43",
+            "trackingLink": "https://track.amazon.com/tracking/9361289768760667797213",
+            "order_tracking_link": "https://track.amazon.com/tracking/9361289768760667797213",
+            "total": 524.58,
+            "date_time": "2026-02-04 16:20:02.958"
+          }
+        ]
+      },
+      "escalation_preferences": [],
+      "blocklisted_words": [],
+      "has_shopify": true
+    },
+    "19": {
       "id": "019c48af-6381-4f9e-f000-0000f801fba4",
       "companyName": "Venus ET Fleur",
       "companyWebsite": "https://venusetfleur.com",
@@ -986,7 +759,19 @@
           "label": "Website",
           "value": "https://venusetfleur.com",
           "date": ""
-        }
+        },
+        "browsingHistory": [
+          {
+            "item": "Le Grand Letter - A - A / Red",
+            "link": "https://www.venusetfleur.com/products/le-grand-letter-a?variant=40624118399020",
+            "timeAgo": "2026-02-10"
+          },
+          {
+            "item": "Small Round - Black Classic / Red",
+            "link": "https://www.venusetfleur.com/products/small-round-black-classic?rSid=fd5d0688-405c-468f-b133-a231b532eec6&rCid=364bffaf-5a07-4cc1-bdca-1f9d4ee6c232",
+            "timeAgo": "2026-02-08"
+          }
+        ]
       },
       "escalation_preferences": [
         "Exchanges and returns",
@@ -1001,6 +786,164 @@
         "cant"
       ],
       "has_shopify": true
+    },
+    "20": {
+      "id": "019c6d55-9123-4b9a-f000-0000a16fd718",
+      "companyName": "Lovesac",
+      "companyWebsite": "https://lovesac.com",
+      "agentName": "",
+      "messageTone": "Polished",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "Lovesac: Furniture that lasts, a sale that won't - This Is That Sale with 40% off everything ends tonight.\n\nShop now: lovesac.attn.tv/aADtXLBVfFZe .",
+          "message_type": "system",
+          "date_time": "2026-01-19 12:07:47.798"
+        },
+        {
+          "message_media": [],
+          "message_text": "Lovesac: Hey there! We noticed you eyeing something on our site...come back and save 40%: lovesac.attn.tv/aJrcEiGOcm_O .",
+          "message_type": "system",
+          "date_time": "2026-01-19 14:44:02.085"
+        },
+        {
+          "message_media": [],
+          "message_text": "Lovesac: This Is That Sale. 40% Off Ends Tonight! Don't miss your chance to get what you've always wanted.\n\nShop now: lovesac.attn.tv/awd7a2Lg5NKu .",
+          "message_type": "system",
+          "date_time": "2026-01-25 14:05:20.803"
+        },
+        {
+          "message_media": [],
+          "message_text": "Lovesac: Sending a little love made for your home - 40% off everything for 4 days during our Friends & Family Event.\n\nShop now: lovesac.attn.tv/agX9unATnpUz .",
+          "message_type": "system",
+          "date_time": "2026-01-28 12:05:34.084"
+        },
+        {
+          "message_media": [],
+          "message_text": "Lovesac: Hey there! We noticed you stopped by. Need some help? Just let us know which products you're interested in below. \n\nA. Sactionals\nB. Sacs\nC. StealthTech\nD. Snugg\n\nReply back \"A\", \"B\", \"C\", or \"D\"\n\nOr shop them all with 40% off: lovesac.attn.tv/aOji4wyBmdzX .",
+          "message_type": "system",
+          "date_time": "2026-01-28 14:02:47.675"
+        },
+        {
+          "message_media": [],
+          "message_text": "Lovesac: Deep discounts on Total Comfort - Shop Clearance for up to 70% off: lovesac.attn.tv/aiJbbdpgFXuG .",
+          "message_type": "system",
+          "date_time": "2026-01-30 14:03:03.508"
+        },
+        {
+          "message_media": [],
+          "message_text": "Lovesac: Last chance for a little love and LOTS of comfort. Our Friends & Family get 40% off for one last day.\n\nDon't miss it: lovesac.attn.tv/aoEWvZBfwAeI .",
+          "message_type": "system",
+          "date_time": "2026-01-31 12:05:34.751"
+        },
+        {
+          "message_media": [],
+          "message_text": "Lovesac: It's time to end your uncomfortable SIT-uationship - Get 40% off with Presidents' Day savings.\n\nShop now: lovesac.attn.tv/a8716bPJ2dxX .",
+          "message_type": "system",
+          "date_time": "2026-02-06 12:06:50.976"
+        },
+        {
+          "message_media": [],
+          "message_text": "Lovesac: If sitting down feels like settling, choose better comfort with a PillowSac Chair. \n\nBig comfort in two sizes: lovesac.attn.tv/aIGySSCoJiQc .",
+          "message_type": "system",
+          "date_time": "2026-02-07 14:00:31.963"
+        },
+        {
+          "message_media": [],
+          "message_text": "Lovesac: 40% off everything continues. Shop our Presidents' Day Sale for furniture that adapts to you.\n\nShop now: lovesac.attn.tv/apy_d_9Wut-N .",
+          "message_type": "system",
+          "date_time": "2026-02-11 09:15:15.664"
+        },
+        {
+          "message_media": [],
+          "message_text": "Lovesac: Just two days left to shop the Presidents' Day Sale and save 40% on everything.\n\nShop now: lovesac.attn.tv/acc6SDEfWFtk .",
+          "message_type": "system",
+          "date_time": "2026-02-15 14:06:11.720"
+        },
+        {
+          "message_media": [],
+          "message_text": "Lovesac: Presidents' Day Sale ends tonight - take 40% off before it's gone.\n\nLast call to save on the styles you've been eyeing: lovesac.attn.tv/ac9CmPy3ZjEX .",
+          "message_type": "system",
+          "date_time": "2026-02-16 12:16:28.866"
+        },
+        {
+          "message_media": [],
+          "message_text": "Lovesac: Hey there! We noticed you stopped by. Need some help? Just let us know which products you're interested in below. \n\nA. Sactionals\nB. Sacs\nC. StealthTech\nD. Snugg\n\nReply back \"A\", \"B\", \"C\", or \"D\"\n\nOr shop them all at 40% off: lovesac.attn.tv/au_LuXPFw6vG .",
+          "message_type": "system",
+          "date_time": "2026-02-16 14:04:52.467"
+        },
+        {
+          "message_media": [],
+          "message_text": "Lovesac: Hey there! We noticed you eyeing something on our site...come back and get 40% off: lovesac.attn.tv/a_-3pmhNRpNi .",
+          "message_type": "system",
+          "date_time": "2026-02-17 15:22:40.237"
+        },
+        {
+          "message_media": [],
+          "message_text": "I was going to purchase , but you guys inflated the price by more than 50 percent",
+          "message_type": "customer",
+          "date_time": "2026-02-17 15:40:07.078"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"Screenshot 2 - All brands\"; last updated: 2023-10-10 18:10:03.294",
+          "message_type": "template",
+          "date_time": "2026-02-17 15:40:50.246"
+        },
+        {
+          "message_media": [],
+          "message_text": "Lovesac: I'm so sorry to hear that! Can you please send me a screenshot of what you're seeing on your end? I'll be more than happy to look into this for you!",
+          "message_type": "agent",
+          "agent": "109964",
+          "message_id": "019c6d55-9123-4b9a-f000-0000a16fd718",
+          "date_time": "2026-02-17 15:40:50.248"
+        }
+      ],
+      "notes": {
+        "send_to_cs": [
+          "No ESC for this client, send everything to CS"
+        ],
+        "tone": [
+          "Close the convo once the client takes over!"
+        ]
+      },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://lovesac.com",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "3 Standard Seats + 2 Deep Seats + 1 Storage Seat + 4 Standard Sides + 2 Deep Sides",
+            "link": "https://www.lovesac.com/sactionals/build/3-seats-2-deep-seats-1-storage-seat-4-sides-2-deep-sides-sky-grey-corded-velvet",
+            "timeAgo": "2026-02-17"
+          },
+          {
+            "item": "3 Standard Seats + 1 Storage Seat + 5 Standard Sides",
+            "link": "https://www.lovesac.com/sactionals/build/3-seats-1-storage-seat-5-sides-beachwood-rained-chenille",
+            "timeAgo": "2026-02-17"
+          },
+          {
+            "item": "3 Standard Seats + 1 Deep Seat + 1 Storage Seat + 4 Standard Sides + 1 Deep Side",
+            "link": "https://www.lovesac.com/sactionals/build/3-seats-1-deep-seat-1-storage-seat-4-sides-1-deep-side-beachwood-rained-chenille",
+            "timeAgo": "2026-02-17"
+          },
+          {
+            "item": "SuperSac",
+            "link": "https://www.lovesac.com/sacs/build/edit/f131c90ca8f5dec35721d9a944ba2552",
+            "timeAgo": "2026-01-19"
+          },
+          {
+            "item": "SuperSac",
+            "link": "https://www.lovesac.com/sacs/build/supersac-insert-and-cover-dove-channeled-phur",
+            "timeAgo": "2026-01-12"
+          }
+        ]
+      },
+      "escalation_preferences": [],
+      "blocklisted_words": [],
+      "has_shopify": false
     }
   }
 }

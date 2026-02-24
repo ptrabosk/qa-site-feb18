@@ -1817,47 +1817,56 @@ document.addEventListener('DOMContentLoaded', async () => {
 
     function renderAssignmentQueue(assignments) {
         const rawQueue = Array.isArray(assignments) ? assignments : [];
-        const seenAssignmentIds = new Set();
-        const seenSendIds = new Set();
-        let dedupedCount = 0;
-        assignmentQueue = rawQueue.filter((item) => {
-            const entry = item || {};
-            const assignmentId = String(entry.assignment_id || '').trim();
-            const sendId = String(entry.send_id || '').trim();
-            if (assignmentId && isAssignmentPendingDone(assignmentId)) {
-                return false;
-            }
-            if (assignmentId && seenAssignmentIds.has(assignmentId)) {
-                dedupedCount++;
-                return false;
-            }
-            if (sendId && seenSendIds.has(sendId)) {
-                dedupedCount++;
-                return false;
-            }
-            if (IGNORED_SEND_IDS.has(sendId)) {
-                markAssignmentLocallySkipped(assignmentId, 'ignored_send_id');
-                return false;
-            }
-            if (runtimeScenariosIndex && sendId && !hasRuntimeScenarioForSendId(sendId)) {
-                if (!isAssignmentLocallySkipped(assignmentId)) {
-                    markAssignmentLocallySkipped(assignmentId, 'missing_scenario_queue_filter');
-                    const params = getAssignmentParamsFromHref(entry.edit_url || entry.view_url || '');
-                    if (params) {
-                        queueBackgroundSkipInvalidAssignment(entry, params, 'missing_scenario_queue_filter');
-                    }
+        const buildQueue = (applyLocalSkipFilter) => {
+            const seenAssignmentIds = new Set();
+            const seenSendIds = new Set();
+            let dedupedCountLocal = 0;
+            const nextQueue = rawQueue.filter((item) => {
+                const entry = item || {};
+                const assignmentId = String(entry.assignment_id || '').trim();
+                const sendId = String(entry.send_id || '').trim();
+                if (assignmentId && isAssignmentPendingDone(assignmentId)) {
+                    return false;
                 }
-                return false;
-            }
-            if (assignmentId) seenAssignmentIds.add(assignmentId);
-            if (sendId) seenSendIds.add(sendId);
-            return !isAssignmentLocallySkipped(assignmentId);
-        });
+                if (assignmentId && seenAssignmentIds.has(assignmentId)) {
+                    dedupedCountLocal++;
+                    return false;
+                }
+                if (sendId && seenSendIds.has(sendId)) {
+                    dedupedCountLocal++;
+                    return false;
+                }
+                if (IGNORED_SEND_IDS.has(sendId)) {
+                    markAssignmentLocallySkipped(assignmentId, 'ignored_send_id');
+                    return false;
+                }
+                if (assignmentId) seenAssignmentIds.add(assignmentId);
+                if (sendId) seenSendIds.add(sendId);
+                if (applyLocalSkipFilter) {
+                    return !isAssignmentLocallySkipped(assignmentId);
+                }
+                return true;
+            });
+            return { nextQueue, dedupedCountLocal };
+        };
+
+        let { nextQueue, dedupedCountLocal } = buildQueue(true);
+        if (!nextQueue.length && rawQueue.length && locallySkippedAssignmentIds.size) {
+            debugLog('Recovered assignment queue after clearing local skips', {
+                rawTotal: rawQueue.length,
+                locallySkipped: locallySkippedAssignmentIds.size
+            });
+            locallySkippedAssignmentIds.clear();
+            const rebuilt = buildQueue(false);
+            nextQueue = rebuilt.nextQueue;
+            dedupedCountLocal = rebuilt.dedupedCountLocal;
+        }
+        assignmentQueue = nextQueue;
         debugLog('Rendered assignment queue', {
             total: rawQueue.length,
             active: assignmentQueue.length,
             locallySkipped: locallySkippedAssignmentIds.size,
-            deduped: dedupedCount
+            deduped: dedupedCountLocal
         });
         pruneAssignmentResponseCacheToQueue(assignmentQueue);
         prefetchAssignmentDetailsInBackground(assignmentQueue);
@@ -2176,25 +2185,6 @@ document.addEventListener('DOMContentLoaded', async () => {
             for (let attempt = 0; attempt < maxAttempts; attempt++) {
                 const sessionId = getAssignmentSessionId({ createIfMissing: true });
                 if (!sessionId) throw new Error('Missing assignment session id.');
-                const queuedItem = (Array.isArray(assignmentQueue) ? assignmentQueue : [])
-                    .find(item => String((item && item.assignment_id) || '').trim() === String(currentParams.aid || '').trim());
-                if (queuedItem && runtimeScenariosIndex && !hasRuntimeScenarioForSendId(queuedItem.send_id)) {
-                    const fastQueue = await skipInvalidAssignmentAndRefresh(
-                        queuedItem,
-                        currentParams,
-                        'missing_scenario_queue_precheck'
-                    );
-                    const nextParams = getNextAssignmentParamsFromQueue(fastQueue, {
-                        excludeAssignmentIds: [queuedItem.assignment_id],
-                        prefersView: currentParams.mode === 'view'
-                    });
-                    if (!nextParams) {
-                        setAssignmentsStatus('Assigned items are out of sync with scenarios. No valid conversation found.', true);
-                        return false;
-                    }
-                    currentParams = nextParams;
-                    continue;
-                }
                 let response = null;
                 try {
                     response = await fetchAssignmentResponseForParams(currentParams, sessionId, { useCache: true });
@@ -2263,7 +2253,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                 const scenarioKey = await resolveScenarioKeyForSendId(
                     assignment.send_id,
                     allScenariosData,
-                    { allowMonolithFallback: false }
+                    { allowMonolithFallback: true }
                 );
                 if (!scenarioKey) {
                     const missingScenarioMessage = `Scenario for send_id ${assignment.send_id} was not found in runtime chunks.`;

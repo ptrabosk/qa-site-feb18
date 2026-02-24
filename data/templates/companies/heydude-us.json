@@ -1,0 +1,276 @@
+{
+  "companyKey": "heydude us",
+  "templates": [
+    {
+      "name": "Payment Options",
+      "content": "You can check our payment options here: https://heydudeshoes.attn.tv/aHXr1u_FSW4h",
+      "id": "3e1bc062-54aa-4f3e-8ed7-e1d8bc61d9ce",
+      "companyName": "HEYDUDE US"
+    },
+    {
+      "name": "I'm not getting a reset password email",
+      "content": "We strongly recommend you clear your cache. After doing so, click forgot password through the home page of HEYDUDE, and you will receive a link for resetting your password. Make sure to check your spam and junk inbox to see the email verification. Let me know how that goes!",
+      "id": "460c1444-16e7-45f5-b597-4047f9749e5b",
+      "companyName": "HEYDUDE US"
+    },
+    {
+      "name": "Is the offer real ( By fake websites )",
+      "content": "It looks like this is a fraudulent advertisement created by a different website claiming to be Heydude. Please rely on the deals and offers shared by us to our SMS subscribers.",
+      "id": "4c3cf861-b896-4ca2-b043-2e7aed5f0c7e",
+      "companyName": "HEYDUDE US"
+    },
+    {
+      "name": "Post Purchase Inquiries",
+      "content": "We don't handle post-purchase requests via text and the fastest way to get help with your order is to email us at customerservice@heydude.com. Please let me know if you have any questions about our products, I'm more than happy to help you here!",
+      "id": "c4108e7c-b012-4ece-978c-3401168cca81",
+      "shortcut": "ppi",
+      "companyName": "HEYDUDE US"
+    },
+    {
+      "name": "How do I clean my suede shoes?",
+      "content": "I'd recommend following the cleaning instructions at the following link: https://www.heydude.com/pages/clean-suede",
+      "id": "fa2d3e17-6c62-4efa-9646-ef65b81bb01f",
+      "companyName": "HEYDUDE US"
+    },
+    {
+      "name": "Return policy",
+      "content": "You can check out our detailed return policy here: https://www.heydude.com/pages/return-policy",
+      "id": "621438a2-d143-4ddd-8c93-8206a1b1581c",
+      "shortcut": "rp",
+      "companyName": "HEYDUDE US"
+    },
+    {
+      "name": "Social media",
+      "content": "Give us a follow on IG: https://www.instagram.com/heydude/ and FB here: https://www.facebook.com/HeyDudeShoesUSA",
+      "id": "e3168fae-7858-4489-a3e6-dd72290b13a7",
+      "shortcut": "smd",
+      "companyName": "HEYDUDE US"
+    },
+    {
+      "name": "Do you offer price adjustments?",
+      "content": "We are committed to offering you exclusive offers and promotions, which may change daily. Due to these constantly changing offers and promotions, we do not offer post-purchase price adjustments on any items purchased.\n\nPlease note that exclusive offers and promotion sale codes are only applicable during the time displayed for the sale. We do not offer rain checks on items that are out of stock during any sale or promotional period.",
+      "id": "37fc2811-ba66-45d4-a447-deadceaef22c",
+      "companyName": "HEYDUDE US"
+    },
+    {
+      "name": "Do your shoes come in half sizes?",
+      "content": "Currently, all HEYDUDE shoes are only offered in full sizes. I'd recommended reading the suggested sizing tips on each product page as well as taking a look at our size guide here: https://www.heydude.com/pages/size-guide",
+      "id": "028ef56d-4a51-4443-8029-824da8f6944c",
+      "companyName": "HEYDUDE US"
+    },
+    {
+      "name": "How do I clean my canvas shoes?",
+      "content": "I'd recommend following the cleaning instructions at the following link: https://www.heydude.com/pages/cleaning-your-hey-dude-shoes",
+      "id": "2127fb23-3be4-434c-8949-8245dba9479d",
+      "companyName": "HEYDUDE US"
+    },
+    {
+      "name": "Do you ship internationally?",
+      "content": "I'm afraid we don't offer international shipping at the moment.",
+      "id": "e39ffd01-6f8a-44c1-b148-44b1c5507b2a",
+      "companyName": "HEYDUDE US"
+    },
+    {
+      "name": "How do I start a return?",
+      "content": "You can start your return here: https://returns.heydude.com/",
+      "id": "c1d13d69-f610-49d7-9ca6-994f52f52972",
+      "companyName": "HEYDUDE US"
+    },
+    {
+      "name": "Shipping time",
+      "content": "Our processing time takes 2 business days and once shipped it will take 3-7 business days for domestic orders.",
+      "id": "d1c59b89-e7fa-4205-ac5b-c09e7226c581",
+      "shortcut": "shp",
+      "companyName": "HEYDUDE US"
+    },
+    {
+      "name": "What happens if I don’t use my “Instant Credit”?",
+      "content": "Instant Credit comes with no strings attached. Any unused portion of the Credit will be refunded back to your original payment method.",
+      "id": "22433159-1b01-47eb-ac10-be4fcea5754b",
+      "companyName": "HEYDUDE US"
+    },
+    {
+      "name": "Do you have a student discount?",
+      "content": "Yes! You can learn more and apply for your discount here: https://connect.studentbeans.com/v4/hosted/heydude/us",
+      "id": "0b8d2a19-113a-4af8-914b-2f3cbb4126e4",
+      "companyName": "HEYDUDE US"
+    },
+    {
+      "name": "What is the Colorado retail delivery fee?",
+      "content": "As of July 1, 2022, The Colorado Department of Revenue implemented a new non-refundable $0.27 delivery fee that we're required to collect on shipments to an address in Colorado. The fee is collected once per order and will be reflected on your order confirmation email. Qualifying requests for refunds will be processed minus the non-refundable delivery fee.",
+      "id": "32225d74-522f-4309-8421-7c6c5d7a6284",
+      "companyName": "HEYDUDE US"
+    },
+    {
+      "name": "How do I use “Instant Credit”?",
+      "content": "You'll use your Instant Credit code at checkout, similar to a gift card. The Credit amount will be for the amount of the items being returned. If you use Credit and the price of the new order is less than your Credit amount, you will be refunded the remaining amount to your original payment method.",
+      "id": "c5a489dd-eaed-46af-9148-87476e08b7ee",
+      "companyName": "HEYDUDE US"
+    },
+    {
+      "name": "How much do the shoes weigh?",
+      "content": "Our shoes weight starts at only 5oz (150 grams), so about the same as a couple of pairs of socks!",
+      "id": "7e4d572d-96e3-4021-a27d-0daa65c78a13",
+      "companyName": "HEYDUDE US"
+    },
+    {
+      "name": "I received my order as a gift and I would like to return it",
+      "content": "Please visit our return center: https://heydude.returnly.com/ You will need to select 'Returning a Gift' and follow the prompts. You may exchange for a different item, but if requesting a refund, please note that it will be returned on original payment.",
+      "id": "f7bb4d80-888d-42f6-9982-771509780ab5",
+      "companyName": "HEYDUDE US"
+    },
+    {
+      "name": "Brand ambassador / sponsorship / affiliate program",
+      "content": "Thank you for your interest! You can learn more and apply for our affiliate program here: https://www.heydude.com/pages/affiliate-program For other collaboration inquiries please email us at social@heydudeshoes.com. Our team is happy to chat!",
+      "id": "dd67f0ef-ed02-4760-aa2d-7fe9c39226aa",
+      "shortcut": "ams",
+      "companyName": "HEYDUDE US"
+    },
+    {
+      "name": "What is an “Instant Credit”?",
+      "content": "While processing a return via the Returns Center, you may be offered an Instant Credit code along with a prepaid shipping label. If you do receive a code, you can use this Credit to buy something new without having to wait for your return refund. Once we receive your original item(s), we'll deactivate any unused Credit and refund the outstanding balance back to your original payment method.",
+      "id": "c320b9d7-0b6f-41cc-9bb2-6fc1e34102da",
+      "companyName": "HEYDUDE US"
+    },
+    {
+      "name": "Military / First responder / Healthcare / Teacher discount",
+      "content": "Thank you for your service! You can apply for your discount here: https://discountify.id.me/oauth/groups/heydudeshoes",
+      "id": "662aca72-a609-4e94-8ff1-650d51e0080a",
+      "shortcut": "ms",
+      "companyName": "HEYDUDE US"
+    },
+    {
+      "name": "Warranty policy",
+      "content": "You can take a look at our full warranty policy here: https://www.heydude.com/pages/warranty-policy",
+      "id": "79877ea1-d443-4727-925b-d2dfde0fad0f",
+      "shortcut": "wp",
+      "companyName": "HEYDUDE US"
+    },
+    {
+      "name": "I purchased my shoes at an authorized retailer. Can I return them online?",
+      "content": "I'm afraid not. We cannot issue refunds for in-store purchases. Please contact the retailer you purchased from for any returns or exchanges.",
+      "id": "455a6109-c24d-4ed4-98bc-e612947b9a90",
+      "companyName": "HEYDUDE US"
+    },
+    {
+      "name": "Sizing",
+      "content": "Happy to help! Some of the HEYDUDE Shoes styles may run smaller or larger than others in our collections. I'd recommend checking out the size chart on each product page as well as the suggested sizing tips in order to find the best fit for you. If you're still unsure, just let me know!",
+      "id": "11038874-c5e0-4ecb-8bd8-3d3858eb369e",
+      "shortcut": "sz",
+      "companyName": "HEYDUDE US"
+    },
+    {
+      "name": "Store location / retailer",
+      "content": "You can find us at a store near you here: https://www.heydude.com/pages/stores?gad_source=1&gclid=CjwKCAjwnqK1BhBvEiwAi7o0X6rKQL9Pj9B0FcqV4UzZE2hWpL61uLlkxzEpYz0bq-b4UGGCrxuB0RoCbskQAvD_BwE",
+      "id": "bdd98372-bf6a-4b5f-9eb6-cfcd004fa897",
+      "shortcut": "sl",
+      "companyName": "HEYDUDE US"
+    },
+    {
+      "name": "Wholesale inquiries",
+      "content": "Thank you for your interest! The best way to discuss wholesale is to email us directly at customerservice@heydude.com. Our team is happy to chat.",
+      "id": "b1165e79-8413-4d27-b75c-e47693e7c4fd",
+      "shortcut": "wls",
+      "companyName": "HEYDUDE US"
+    },
+    {
+      "name": "Customer support",
+      "content": "The best way to handle this is to email us directly at customerservice@heydude.com. Our team is happy to help!",
+      "id": "cbcfc366-fbd2-4a2f-b829-ff7a8512649d",
+      "shortcut": "cs",
+      "companyName": "HEYDUDE US"
+    },
+    {
+      "name": "Phone support",
+      "content": "You can give us a call at 1-866-863-4709, 9am - 9pm EST, or let me know if I can help via text, it may be faster.",
+      "id": "97adf79d-4a92-45c7-bc0c-5eaddfefa8f0",
+      "shortcut": "ps",
+      "companyName": "HEYDUDE US"
+    },
+    {
+      "name": "How soon will I get my refund?",
+      "content": "If eligible, you'll get your refund typically in 10-14 business days. Please note that it may take additional time to post your account depending on your bank or financial institution.",
+      "id": "b4e03251-917a-443a-aaf1-2565c66a7d51",
+      "companyName": "HEYDUDE US"
+    },
+    {
+      "name": "Order Status requests",
+      "content": "First of all, thanks for your order! Second, you can actually track your order whenever you want by visiting https://www.heydude.com/pages/track-your-order In case you have an issue with an existing order, the fastest way to get help is by emailing us at customerservice@heydude.com!",
+      "id": "c945bcfb-516f-4211-b22d-5e72cb3081a1",
+      "shortcut": "osr",
+      "companyName": "HEYDUDE US"
+    },
+    {
+      "name": "What if I was shipped the wrong merchandise/products?",
+      "content": "You can easily initiate an exchange through the portal here: https://returns.heydude.com/ Please select the \"received wrong item\" option and we will immediately send you a return label and process your exchange. If your item was marked final sale, please contact us at customerservice@heydude.com.",
+      "id": "d0c23d96-49c0-4049-a182-d9196061a063",
+      "shortcut": "wmp",
+      "companyName": "HEYDUDE US"
+    },
+    {
+      "name": "Cancel / edit order",
+      "content": "Thanks for reaching out! Unfortunately, we are not able to cancel or modify orders once they are placed. If any adjustments need to be made once you receive your order we are happy to help with any returns or exchanges!",
+      "id": "30ae7313-aa7d-4cfa-9d9b-fac615c8167c",
+      "shortcut": "ced",
+      "companyName": "HEYDUDE US"
+    },
+    {
+      "name": "Free shipping",
+      "content": "We offer free shipping on domestic orders over $50 (excluding Hawaii and Alaska). Maybe you can add something else to reach the minimum?",
+      "id": "f80e3160-3367-4d42-a96f-598d7d1bfe24",
+      "shortcut": "fs",
+      "companyName": "HEYDUDE US"
+    },
+    {
+      "name": "My code won't apply to the Back in Stock item in my cart",
+      "content": "I'm afraid discount codes cannot be applied to items marked as Back in Stock.",
+      "id": "b6e8665e-35a2-4581-bf4e-1ab507b3ba62",
+      "companyName": "HEYDUDE US"
+    },
+    {
+      "name": "Can I return or exchange a gift card?",
+      "content": "The purchaser can make the request for the purchased value or unused balance. Refunds can only be returned to the original payment method. Please contact customer service at customerservice@heydude.com for assistance.",
+      "id": "57cc94b7-43d0-47ec-8993-1b74f074d49e",
+      "companyName": "HEYDUDE US"
+    },
+    {
+      "name": "What is not accepted as a return?",
+      "content": "Items we do not accept back:\n\n- Anything worn, altered or washed\n- Shoes that are dirty and more specifically to the outsole, scuffed, worn or returned with missing pieces (This includes any dirt on the outsole)\n- Items purchased in store or authorized retailers\n- Free gifts or promotional items with retail value \n- Accessories such as Insoles or laces\n- Items marked final sale\n\nPlease note that if your return comes back to us in any of the stated conditions, it will be considered ineligible for return.",
+      "id": "c9a43cff-fd77-4d2a-981d-9202b215848d",
+      "companyName": "HEYDUDE US"
+    },
+    {
+      "name": "Why didn't I get the shoes in box?",
+      "content": "We believe that packaging is the most wasteful thing in the retail industry. Because we love our environment and believe in doing our part, a large percentage of our packaging is made from cornstarch. Our 100% Cornstarch Polybags are biodegradable and will disintegrate over time. Currently, we are in the process of transitioning into having all our shoes packaged in these Eco-friendly Polybags, which is why some of our shoes do not come in boxes. We truly appreciate your support in our decision to be environmentally friendly.",
+      "id": "e8a08bbd-5a15-4d50-b242-af3a7de72a7c",
+      "companyName": "HEYDUDE US"
+    },
+    {
+      "name": "What if my item arrived damaged or defective?",
+      "content": "We stand behind all of our shoes.  If your item has arrived defective or flawed, and it's been less than 60 days since your purchase, please contact our customer service team at customerservice@heydude.com. \n\nYou can also check out our warranty policy for additional details: https://www.heydude.com/pages/warranty-policy",
+      "id": "aaa2b2a4-cd3c-461a-9474-1363615c023f",
+      "shortcut": "dmi",
+      "companyName": "HEYDUDE US"
+    },
+    {
+      "name": "Code won't work",
+      "content": "Please note that discount codes are valid for items available on this link: https://www.heydude.com/collections/code-eligible-styles They cannot be combined with any other offer or promotion, including sale styles. Please note that additional exclusions may apply.",
+      "id": "e85886a8-ddb1-4222-a80e-3f18d6bc95f7",
+      "shortcut": "cww",
+      "companyName": "HEYDUDE US"
+    },
+    {
+      "name": "Sales Collection",
+      "content": "You can take a look at our sale collection here: https://www.heydude.com/collections/all-sale",
+      "id": "08fc6fab-4b00-4fef-b183-a183c2c77d0d",
+      "shortcut": "spg",
+      "companyName": "HEYDUDE US"
+    },
+    {
+      "name": "Size Chart: All - Clothes",
+      "content": "You can take a look at our size chart here: https://www.heydude.com/pages/size-guide",
+      "id": "c7472ce6-6cee-4462-aa7f-b573cc9dd2bc",
+      "companyName": "HEYDUDE US"
+    }
+  ]
+}

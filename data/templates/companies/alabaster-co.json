@@ -1,0 +1,222 @@
+{
+  "companyKey": "alabaster co",
+  "templates": [
+    {
+      "name": "Physical Store",
+      "content": "Currently, we don't have an Alabaster store. However, our book is available through various distributors.",
+      "id": "30eba742-6922-4b26-a4cb-a7464b89c6a9",
+      "companyName": "Alabaster Co"
+    },
+    {
+      "name": "Do you still offer subscriptions?",
+      "content": "Yes, we do offer a monthly subscription but for the new Prayer Journal only. You can check it out here: https://www.alabasterco.com/products/the-prayer-journal",
+      "id": "2a0968da-4b09-49d5-8b5e-1d3a1e460737",
+      "companyName": "Alabaster Co"
+    },
+    {
+      "name": "Do you have all the books of the Bible?",
+      "content": "We do not have all the books of the Bible complete yet. As a small team, it takes us about 4-6 months to create each book. If you have any requests for our next book, please contact us at help@alabasterco.com.",
+      "id": "9873a042-a779-4b5d-b4fa-25132d8509f9",
+      "companyName": "Alabaster Co"
+    },
+    {
+      "name": "What does the Inspiration Collection include?",
+      "content": "The Inspiration Collection includes Psalms, Proverbs, Job, Song of Songs, Ecclesiastes, and our Notecard Collection.",
+      "id": "fcc10477-15a4-4acf-b7ef-9e104ef185af",
+      "companyName": "Alabaster Co"
+    },
+    {
+      "name": "What does the Evergreen Collection include?",
+      "content": "The Evergreen Collection includes Psalms, Proverbs, Matthew, Mark, Luke, John, and our brand new Matte Sage Bookmark.",
+      "id": "6cdc4133-a861-44d2-a572-7644178e635a",
+      "companyName": "Alabaster Co"
+    },
+    {
+      "name": "Do you have new or gently used books?",
+      "content": "Our Made New sustainability event (selling gently read books) has concluded for now but we hope to offer it again in the future.",
+      "id": "8ff3093a-92dd-4948-a74d-f4a5e10898fc",
+      "companyName": "Alabaster Co"
+    },
+    {
+      "name": "I'm looking at your set, why is there a particular book missing?",
+      "content": "We hope to release all 66 books eventually but because our team is small and we want to make sure each book is as beautiful as it can be, our new releases take time. We appreciate your patience on this!",
+      "id": "fdb3d0e6-ad6b-4c4b-9420-631057294406",
+      "companyName": "Alabaster Co"
+    },
+    {
+      "name": "Do you have the book of Joshua in hardcover?",
+      "content": "Currently, we only have the Book of Joshua in softcover. You can check it out here: https://www.alabasterco.com/products/the-book-of-joshua?utm_campaign=&utm_medium=sms&utm_source=attentive&externalId=pYAhs",
+      "id": "11f10e06-aa9c-4509-852f-8aed075cc5f6",
+      "companyName": "Alabaster Co"
+    },
+    {
+      "name": "Store location / retailer",
+      "content": "You can find us at a store near you here: https://www.alabasterco.com/pages/stockists-stores",
+      "id": "08de5eb1-b777-48f6-8cdd-4611ed0a3d4e",
+      "shortcut": "sl",
+      "companyName": "Alabaster Co"
+    },
+    {
+      "name": "Retroactive discount",
+      "content": "You can email us at help@alabasterco.com to check if it will be possible to add the discount retroactively.",
+      "id": "0ef27def-6ee8-4a07-a17c-60d42472fa42",
+      "companyName": "Alabaster Co"
+    },
+    {
+      "name": "Social media",
+      "content": "Give us a follow on IG: https://www.instagram.com/alabaster_co/ and FB here: https://www.facebook.com/alabasterco",
+      "id": "5a64633b-0917-4139-93e8-801bccd0a4b3",
+      "shortcut": "smd",
+      "companyName": "Alabaster Co"
+    },
+    {
+      "name": "Return policy",
+      "content": "You can check out our detailed return policy here: https://www.alabasterco.com/pages/returns",
+      "id": "5ab1dfc4-ba43-4672-8885-e609a825a458",
+      "shortcut": "rp",
+      "companyName": "Alabaster Co"
+    },
+    {
+      "name": "Wholesale inquiries",
+      "content": "Thank you for your interest in bulk ordering with Alabaster. Please fill out the interest form - https://docs.google.com/forms/d/e/1FAIpQLSeFiV5wIhdcj7lT7iSE5e4Uy9Gm1Od5FNxhkwrVkds8iqeUxg/viewform and we will respond to your request within one business day. Also note that a Google account is required to apply.",
+      "id": "5ceff2eb-4ff5-45a5-be6b-594ae320b88f",
+      "shortcut": "wls",
+      "companyName": "Alabaster Co"
+    },
+    {
+      "name": "Shipping costs",
+      "content": "Standard shipping is $6 or free for US orders of $80 or more. There are faster shipping options that are calculated at checkout.",
+      "id": "5f4a8f3c-2751-4051-aa2f-a7219b8a0426",
+      "companyName": "Alabaster Co"
+    },
+    {
+      "name": "Customer support",
+      "content": "The best way to handle this is to email us directly at help@alabasterco.com. Our team is happy to help!",
+      "id": "474654a1-1138-4613-ab3a-82dfdf2f25d5",
+      "shortcut": "cs",
+      "companyName": "Alabaster Co"
+    },
+    {
+      "name": "Shipping time",
+      "content": "Our processing time takes 2-3 business days and we usually ship via USPS, UPS, and FedEx. Our Standard Shipping takes 4-7 business days transit time for $7.00 or free over $80. For Faster Shipping, it takes 2-3 business days transit time. This starts at $15 and is calculated based on weight of order.",
+      "id": "7c2b6970-6569-49af-8c57-6630169e2b41",
+      "shortcut": "shp",
+      "companyName": "Alabaster Co"
+    },
+    {
+      "name": "Do you include receipts in your packages?",
+      "content": "We never include receipts in our boxes precisely because people gift our books so often.",
+      "id": "ca919f29-eb4c-4a38-92ef-73fb9735cbd9",
+      "companyName": "Alabaster Co"
+    },
+    {
+      "name": "Brand ambassador / sponsorship",
+      "content": "Thank you for your interest! The best way to discuss this is to email us directly at help@alabasterco.com. Our team is happy to chat.",
+      "id": "b6b4bb1d-5195-4442-81e2-7f90fa65d25d",
+      "shortcut": "ams",
+      "companyName": "Alabaster Co"
+    },
+    {
+      "name": "Phone support",
+      "content": "We don't offer phone support right now but I'd be happy to help you over text, let me know what I can do for you!",
+      "id": "dc2826f9-0b0b-4c00-afdd-721319a856b9",
+      "shortcut": "ps",
+      "companyName": "Alabaster Co"
+    },
+    {
+      "name": "Customer replies with 2+ numbers/letters for Concierge journeys",
+      "content": "Thanks for your message. Please respond with a single number/letter to get your personalized exclusive content.",
+      "id": "443562a9-50c2-4f5c-93d8-3d2d2029b925",
+      "shortcut": "jny",
+      "companyName": "Alabaster Co"
+    },
+    {
+      "name": "Cancel / edit order",
+      "content": "The best way to check if you can cancel or edit your order is to email our support team directly at help@alabasterco.com with your order number. Someone from our team will be happy to help you with this.",
+      "id": "6ce8ca96-8384-444f-bf35-dab8fd42e754",
+      "shortcut": "ced",
+      "companyName": "Alabaster Co"
+    },
+    {
+      "name": "Free shipping",
+      "content": "We do offer free shipping on US orders over $80! Maybe you can add something else to reach the minimum?",
+      "id": "c1c6d2ae-9cc1-4299-8945-c4cd8cfde2c3",
+      "shortcut": "fs",
+      "companyName": "Alabaster Co"
+    },
+    {
+      "name": "Post purchase issues",
+      "content": "Great question! Please email us directly at help@alabasterco.com with your order number. Someone from our team will be happy to help you with this.",
+      "id": "a7a29f53-eff5-4ac0-b0bf-e59eee90ea22",
+      "shortcut": "ppi",
+      "companyName": "Alabaster Co"
+    },
+    {
+      "name": "Do you offer gift wrap/packaging?",
+      "content": "I'm afraid we don't offer gift packaging but if it helps to know, we don't include receipts in our packages as people gift our books so often and you'll have the option to add a gift message when you view your cart!",
+      "id": "9716ac47-2dcc-4637-94b2-87a0e5fb395e",
+      "companyName": "Alabaster Co"
+    },
+    {
+      "name": "How do I start a return?",
+      "content": "You can start your return here: https://alabaster-co.happyreturns.com/",
+      "id": "16babaec-d50e-4fb8-a48b-6781e3577727",
+      "companyName": "Alabaster Co"
+    },
+    {
+      "name": "Can I add a gift message to my order?",
+      "content": "Yes! Once you add an item to your cart you will see the option to add a gift message.",
+      "id": "fa24e430-704a-4c26-a99b-6a7423967ec4",
+      "companyName": "Alabaster Co"
+    },
+    {
+      "name": "When will I receive my refund?",
+      "content": "Please allow 10-14 business days for your refund to be processed after the return shipment has been received. Refunds will be issued to the original payment method on the order.",
+      "id": "67b70959-9e1a-46bf-b638-b5edd2af86ac",
+      "companyName": "Alabaster Co"
+    },
+    {
+      "name": "Are you a Christian/Catholic company?",
+      "content": "No. We are a for-profit company that releases individual books of the Bible.",
+      "id": "ad4b052e-3b34-4b84-b50c-8554445d923a",
+      "companyName": "Alabaster Co"
+    },
+    {
+      "name": "Military / First responder / Healthcare / Teacher discount",
+      "content": "Thank you for your service! We don't have any specific discounts like that, but our deals will always be shared with our SMS subscribers or on our website, so keep an eye out!",
+      "id": "5e2ebca1-0b6d-494d-a64c-ba7928d03f26",
+      "shortcut": "ms",
+      "companyName": "Alabaster Co"
+    },
+    {
+      "name": "Difference between the bible study volume 1 and 2",
+      "content": "Each study explores 30 distinct stories, each in its own self-contained chapter. You don't have to read Volume 1 of The Good and Beautiful Bible Study before diving into Volume 2. Feel free to explore Volume 2 first or choose the order that suits you best.",
+      "id": "84050e77-1402-4194-b82c-5e584f00be9c",
+      "companyName": "Alabaster Co"
+    },
+    {
+      "name": "What bible versions do you offer?/Do you have the CSB version?",
+      "content": "All books are available in NLT. Select books are available in KJV, ESV, and NIV.",
+      "id": "535550b0-8011-4346-adff-385c3217119c",
+      "companyName": "Alabaster Co"
+    },
+    {
+      "name": "Does the Complete Bible Collection include all the books from the Bible?",
+      "content": "Our Complete Collection does not include all the books of the bible. You can take a look at the books which are included here: https://www.alabasterco.com/products/the-complete-collection?utm_campaign=&utm_medium=sms&utm_source=attentive&externalId=9qhUE",
+      "id": "550a0332-2137-4710-90f4-640ac0d2d0c3",
+      "companyName": "Alabaster Co"
+    },
+    {
+      "name": "How do I redeem my points?",
+      "content": "Redeeming your points is easy. During checkout just use the dropdown in your cart to apply one of the amounts below to any purchase over $50. \n\n$5-50 points\n$10-100 points\n$15-150 points\n$20-200 points\n$25-250 points",
+      "id": "7beb1174-1fdf-4e5f-a206-3eaf40fc1b90",
+      "companyName": "Alabaster Co"
+    },
+    {
+      "name": "Do you ship overseas?",
+      "content": "Yes, we ship all over the world. Shipping costs will apply and will be added at checkout. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.",
+      "id": "4c9680d5-c882-4aa1-81ec-212a3c3b67c2",
+      "companyName": "Alabaster Co"
+    }
+  ]
+}

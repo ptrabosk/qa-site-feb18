@@ -1,0 +1,189 @@
+{
+  "companyKey": "the pink lily boutique",
+  "templates": [
+    {
+      "name": "Size Chart: All - Clothes",
+      "content": "You can take a look at our size chart here: https://pinklily.com/pages/size-guide",
+      "id": "20dfafb9-1ba7-47b6-9276-44a0df54c0c3",
+      "companyName": "The Pink Lily Boutique"
+    },
+    {
+      "name": "When will I receive my refund?",
+      "content": "Please allow up to two weeks (14 Business Days) from the date you mail your item(s) back for your return to be processed. You will receive an email confirmation when complete. Once you receive your email indicating your return has been processed, you can expect to receive your Pink Lily E-Gift Card sent to your email address on file.",
+      "id": "5a3e8b9c-14d3-4671-ac28-4c93e31efb95",
+      "companyName": "The Pink Lily Boutique"
+    },
+    {
+      "name": "Can I return items from different orders in one package?",
+      "content": "Yes, you can return those together in one package. However, each order will need to have an RMA for the return. To create an RMA, you will need to visit the returns portal as you would for a normal return and select the mail on your own option. \n\nThen, you will print the RMA and include that in the package you are sending back. If you don't have access to a printer, please visit your local USPS with the QR Code attached to your return email. USPS will be able to print that label for you to send your return back to us.",
+      "id": "9cd53edf-4a51-41c9-a0ec-0dd62a4a3b1f",
+      "companyName": "The Pink Lily Boutique"
+    },
+    {
+      "name": "How do I start a return?",
+      "content": "You can start your return here: https://pinklily.com/pages/returns",
+      "id": "74479931-8825-46a4-ac4e-cee752943a51",
+      "companyName": "The Pink Lily Boutique"
+    },
+    {
+      "name": "When will I receive my points?",
+      "content": "Your points will be allocated once your order ships, so check back and watch those points pile up!",
+      "id": "2a413238-e0f0-41a3-b0ae-c63660607e12",
+      "companyName": "The Pink Lily Boutique"
+    },
+    {
+      "name": "Return policy",
+      "content": "You can check out our detailed return policy here: https://pinklily.com/policies/refund-policy",
+      "id": "8e3abbdd-407b-4ecc-a261-5935a855f8f7",
+      "shortcut": "rp",
+      "companyName": "The Pink Lily Boutique"
+    },
+    {
+      "name": "Customer support",
+      "content": "The best way to handle this is to email us directly at help@pinklily.com. Our team is happy to help!",
+      "id": "fc8c884e-482a-47de-a745-77775df022f8",
+      "shortcut": "cs",
+      "companyName": "The Pink Lily Boutique"
+    },
+    {
+      "name": "Payment / financing methods",
+      "content": "We currently offer Visa, Mastercard, American Express, Discover, Diners Club, ELO, JCB, AfterPay, Venmo, Shop pay and PayPal.",
+      "id": "5983f35d-9dea-4406-a67d-e39603ccd970",
+      "companyName": "The Pink Lily Boutique"
+    },
+    {
+      "name": "How do I use Rewards Points",
+      "content": "You can log into your account and click on the Pink Perks icon located on your screen's bottom left. You can spend the points by applying your balance to items in your cart when you check out or you can wait and accumulate them to spend on a more significant purchase! You won't be able to use points to purchase a gift card though, and points can't be combined with a coupon code. Once you hit a reward threshold, you must use that reward coupon in a single purchase; it won't carry a remaining balance.",
+      "id": "fecd65c2-6d26-4ce5-b4f7-6f949c6a9b4e",
+      "companyName": "The Pink Lily Boutique"
+    },
+    {
+      "name": "Phone support",
+      "content": "You can give us a call at 270-495-3598 or contact customer care via this link: https://pinklily.com/pages/contact-us Let me know if I can help via text as well, it may be faster.",
+      "id": "2eff91ca-0e12-4634-b7b9-b3a1e90d62d1",
+      "shortcut": "ps",
+      "companyName": "The Pink Lily Boutique"
+    },
+    {
+      "name": "Free shipping",
+      "content": "We offer free shipping on domestic orders over $99. Maybe you can add something else to reach the minimum?",
+      "id": "74294568-f409-4752-9ccc-810a02a96f88",
+      "shortcut": "fs",
+      "companyName": "The Pink Lily Boutique"
+    },
+    {
+      "name": "Shipping time",
+      "content": "Our processing time takes 1-3 business days for standard orders and 7-10 business days for monogrammed orders. We usually ship via UPS or USPS and once shipped, it will take 3-5 business days for domestic orders, and 7-14 business days for international orders.",
+      "id": "cd39f922-2c8d-4ed6-aba2-a101b01b538a",
+      "shortcut": "shp",
+      "companyName": "The Pink Lily Boutique"
+    },
+    {
+      "name": "Sizing",
+      "content": "Happy to help you find the right size! Our clothes generally run true to size, and you can check out our size guide here: https://pinklily.com/pages/size-guide If you're still unsure, just let me know!",
+      "id": "1c24e72e-740a-48f5-b3f5-ef51d53b332f",
+      "shortcut": "sz",
+      "companyName": "The Pink Lily Boutique"
+    },
+    {
+      "name": "Rewards / referral",
+      "content": "If it helps to know, we have a rewards and referral program where you can earn points to redeem on future purchases. Check it out here - https://pinklily.com/pages/pink-perks",
+      "id": "e9658657-22e0-4c35-bdec-32efc9bfe784",
+      "shortcut": "rwd",
+      "companyName": "The Pink Lily Boutique"
+    },
+    {
+      "name": "Social media",
+      "content": "Give us a follow on IG: https://www.instagram.com/pinklily/ and FB here: https://www.facebook.com/thepinklilyboutique/",
+      "id": "fd7e830b-cb44-4ae7-a1a4-5ba977824a6a",
+      "shortcut": "smd",
+      "companyName": "The Pink Lily Boutique"
+    },
+    {
+      "name": "Do my points expire?",
+      "content": "Points will only expire after an extended length of inactivity. In other words, as long as you continue to earn or spend your points, they'll remain in your account. And don't worry, we'll give you a fair warning via email if your points will be expiring. Hope this helps!",
+      "id": "0e707f6b-b14c-4967-8b0e-20e6e048d4d3",
+      "companyName": "The Pink Lily Boutique"
+    },
+    {
+      "name": "How will my monogrammed item look?",
+      "content": "Since we offer slightly different styles for each personalized item, you'll see samples of how your monogram will look on every product page by clicking the Monogram Guide. Hope this helps!",
+      "id": "b1e55be3-00e5-4fcf-a988-5664161beb12",
+      "companyName": "The Pink Lily Boutique"
+    },
+    {
+      "name": "Wholesale inquiries",
+      "content": "The best way to discuss wholesale is to email us directly at help@pinklily.com. Our team is happy to chat.",
+      "id": "4b2afef4-899a-4845-9dbf-e0e66affe5b3",
+      "shortcut": "wls",
+      "companyName": "The Pink Lily Boutique"
+    },
+    {
+      "name": "Brand ambassador / sponsorship",
+      "content": "Thank you for your interest! You can learn more and apply for our Ambassador Program here: https://pinklily.com/pages/pink-lily-ambassador-program",
+      "id": "d806dce8-c521-4908-baa3-3602577cb2b4",
+      "shortcut": "ams",
+      "companyName": "The Pink Lily Boutique"
+    },
+    {
+      "name": "Can I buy these items without personalization?",
+      "content": "Yes, we can send out blank versions of every monogrammed item. Just skip the monogram selections and check out!",
+      "id": "3352b4bf-8989-4950-8190-8d501b9e8aa8",
+      "companyName": "The Pink Lily Boutique"
+    },
+    {
+      "name": "Military / First responder / Healthcare / Teacher discount",
+      "content": "Thank you for your service! We don't have any specific discounts like that but if it helps, you can check out the items we have on sale here: https://pinklily.com/collections/sale",
+      "id": "e5a4b423-57e2-43ce-9ef7-c40be66d3f47",
+      "shortcut": "ms",
+      "companyName": "The Pink Lily Boutique"
+    },
+    {
+      "name": "How to redeem points?",
+      "content": "You can spend the points by applying your balance to items in your cart when you check out - or you can wait and accumulate them to spend on a more significant purchase! You cannot use points to purchase a Pink Lily gift card. Points cannot be combined with a coupon code. Once you hit a reward threshold, you must use that reward coupon in a single purchase; it will not carry a remaining balance. Hope this helps!",
+      "id": "27be641c-aa09-47e1-8212-067c92b3339e",
+      "companyName": "The Pink Lily Boutique"
+    },
+    {
+      "name": "Cancel / edit order",
+      "content": "We don't handle post-purchase requests via text. Please submit your request using this link: https://pinklily.com/pages/contact-us or feel free to call this number 270-495-3598. Please let me know if you have any questions about our products, I'm more than happy to help out!",
+      "id": "1c3700e3-3cbc-46c1-8510-d1b6219a3f57",
+      "shortcut": "ced",
+      "companyName": "The Pink Lily Boutique"
+    },
+    {
+      "name": "Post Purchase Inquiries",
+      "content": "We don't handle post-purchase requests via text. Please submit your request using this link: https://pinklily.com/pages/contact-us or feel free to call this number 270-495-3598. Please let me know if you have any questions about our products, I'm more than happy to help out!",
+      "id": "69efc912-db8c-4614-997a-929c7c412158",
+      "shortcut": "ppi",
+      "companyName": "The Pink Lily Boutique"
+    },
+    {
+      "name": "Sales Collection",
+      "content": "You can take a look at our sale collection here: https://pinklily.com/collections/sale",
+      "id": "6037b458-d339-48f1-a9dc-dd922006da16",
+      "shortcut": "spg",
+      "companyName": "The Pink Lily Boutique"
+    },
+    {
+      "name": "cx sends in \"CREATOR\"",
+      "content": "We're so happy you're here! Stay tuned for weekly updates on promotions and collection launches!\nView the Dropbox here: pinklily.attn.tv/aMNLLdafDn4E",
+      "id": "418ee18a-4faf-461c-b6d6-170c86ea400e",
+      "shortcut": "cr",
+      "companyName": "The Pink Lily Boutique"
+    },
+    {
+      "name": "Can I purchase in store?",
+      "content": "Unfortunately, purchases can only be made on pinklily.com or any verified Pink Lily social media accounts.",
+      "id": "4603e319-4aaf-4bcf-922d-cae6bc5948c3",
+      "companyName": "The Pink Lily Boutique"
+    },
+    {
+      "name": "Store location / retailer",
+      "content": "We don't currently have a store but definitely keep an eye out!",
+      "id": "cc8f5cda-9a19-4495-939f-0d8e851d65e4",
+      "shortcut": "sl",
+      "companyName": "The Pink Lily Boutique"
+    }
+  ]
+}

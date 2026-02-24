@@ -1,0 +1,108 @@
+{
+  "companyKey": "the frye company",
+  "templates": [
+    {
+      "name": "Shipping time",
+      "content": "We usually ship via UPS and once shipped, it will take 4-8 business days for domestic orders.",
+      "id": "77d4bf0f-c972-4a81-b4ae-d92b6b892f71",
+      "shortcut": "shp",
+      "companyName": "The Frye Company"
+    },
+    {
+      "name": "When will I receive my points?",
+      "content": "Points should appear in the Rewards history section as \"pending\" until 30 days after purchase and as \"approved\" within 24 hours for any non-purchase engagement (ex. product review, social media follow).",
+      "id": "282aee7d-1bf7-409c-9b4e-8f9cb7f0b3fe",
+      "companyName": "The Frye Company"
+    },
+    {
+      "name": "Customer support",
+      "content": "The best way to handle this is to email us directly at support@thefryecompany.com or give us a call at 1-800-399-4819. Our team is happy to help!",
+      "id": "ec9127ce-1524-44ec-87ae-56e17c9a7252",
+      "shortcut": "cs",
+      "companyName": "The Frye Company"
+    },
+    {
+      "name": "Cancel / edit order",
+      "content": "The best way to handle this is to email us directly at support@thefryecompany.com or give us a call at 1-800-399-4819. Our team is happy to help!",
+      "id": "276ef91e-ce23-4ed1-bfcf-6d14b5fcdb48",
+      "shortcut": "ced",
+      "companyName": "The Frye Company"
+    },
+    {
+      "name": "Store location / retailer",
+      "content": "We don't currently have a store but definitely keep an eye out.",
+      "id": "a89af8a6-150f-47ef-8e19-d2c63f6b5351",
+      "shortcut": "sl",
+      "companyName": "The Frye Company"
+    },
+    {
+      "name": "Social Media",
+      "content": "Give us a follow on IG: https://www.instagram.com/thefryecompany/ and FB here: https://www.facebook.com/thefryecompany",
+      "id": "ee779a29-4c03-48ed-88de-ef07fc04a3d5",
+      "shortcut": "smd",
+      "companyName": "The Frye Company"
+    },
+    {
+      "name": "Rewards / referral",
+      "content": "We have a rewards/referral program where you can earn points to redeem on future purchases. Check it out here - https://www.thefryecompany.com/pages/fryevip",
+      "id": "a3fbe924-36f6-4d79-8381-7399ecebdf93",
+      "shortcut": "rwd",
+      "companyName": "The Frye Company"
+    },
+    {
+      "name": "Phone support",
+      "content": "You can give us a call at 1-800-399-4819 or let me know if I can help via text, it may be faster.",
+      "id": "d3e1acff-9b7d-429f-b0dd-f1aa68578146",
+      "shortcut": "ps",
+      "companyName": "The Frye Company"
+    },
+    {
+      "name": "Sizing",
+      "content": "Happy to help you find the right size! I'd recommend taking a look at our size chart on each product page. If your foot is between sizes, we recommend you order the larger of the two. If you have a wide foot, be sure to check out our styles that come in wide sizes, however if only regular widths is available in the style you like, you might need to order a half size up. If you're unsure, just let me know!",
+      "id": "f2063395-89ec-4030-a156-4b0612d4bb51",
+      "shortcut": "sz",
+      "companyName": "The Frye Company"
+    },
+    {
+      "name": "Wholesale inquiries",
+      "content": "Thank you for your interest! The best way to discuss wholesale is to email us directly at asmith@footwearunlimited.com. Our team is happy to chat.",
+      "id": "fef2c362-6555-404a-a8bc-28a931e47b98",
+      "shortcut": "wls",
+      "companyName": "The Frye Company"
+    },
+    {
+      "name": "Military discount",
+      "content": "Thank you for your service! As a small sign of gratitude, we proudly offer all active United States military personnel a 15% discount on full-priced purchases. Simply call our customer service team at 1-800-399-4819 and let them handle your order.",
+      "id": "dbe23d05-0f68-47de-9c69-e7834ab2a813",
+      "shortcut": "ms",
+      "companyName": "The Frye Company"
+    },
+    {
+      "name": "Brand ambassador / sponsorship / affiliate program",
+      "content": "Thank you for your interest! The best way to discuss this is to email us directly at support@thefryecompany.com. Our team is happy to chat.",
+      "id": "649598b5-4798-4efd-93f9-78c6c7de09dc",
+      "shortcut": "ams",
+      "companyName": "The Frye Company"
+    },
+    {
+      "name": "Do you offer payment plan/financing?",
+      "content": "We offer Afterpay as our installment payment option. It allows you to pay in 4 interest-free payments instead of all at once! Just select that option at checkout and follow the steps for sign up. You can check this link for more info: https://frye.attn.tv/acWGIyxaqTwh Let me know how it goes.",
+      "id": "5161bb46-9514-43e2-9d5b-638a8ff17fd9",
+      "companyName": "The Frye Company"
+    },
+    {
+      "name": "Free shipping",
+      "content": "We offer free shipping on orders over $275. Maybe you can add something else to reach the minimum?",
+      "id": "f07661ca-30ee-470d-bf19-e033ed85bdfa",
+      "shortcut": "fs",
+      "companyName": "The Frye Company"
+    },
+    {
+      "name": "Return policy",
+      "content": "You can check out our detailed return policy here: https://encore.brandedonline.com/returns/FRYE_SHOPIFY/ordersearch, and you can start your return or exchange here: https://www.thefryecompany.com/apps/aftership-returns-center",
+      "id": "1a82ec7f-e779-4d00-80d2-e6bfc738396d",
+      "shortcut": "rp",
+      "companyName": "The Frye Company"
+    }
+  ]
+}

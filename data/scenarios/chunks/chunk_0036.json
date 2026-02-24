@@ -1,0 +1,110 @@
+{
+  "version": 1,
+  "chunk": "chunk_0036",
+  "scenarios": {
+    "176": {
+      "id": "019c4e43-4417-4b5b-f000-0000fa8d263d",
+      "companyName": "HEYDUDE US",
+      "companyWebsite": "https://heydude.com",
+      "agentName": "Casey",
+      "messageTone": "Casual",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "HEYDUDE: Welcome to HEYDUDE! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel. Privacy: attnl.tv/p/o76",
+          "message_type": "system",
+          "date_time": "2026-02-11 14:17:26.009"
+        },
+        {
+          "message_media": [],
+          "message_text": "HEYDUDE: We're so stoked you're here!\n\nGet 20% off your first purchase with code ATTWDAR4DEX2 at checkout.\n\nShop Now:\nhttps://heydudeshoes.attn.tv/auN6FhwVISP0 .",
+          "message_type": "system",
+          "date_time": "2026-02-11 14:17:28.170"
+        },
+        {
+          "message_media": [],
+          "message_text": "HEYDUDE: Over the next few days we'll try to help you find something that you will love!\n\nUntil then, shop our viral best-sellers: https://heydudeshoes.attn.tv/acqt4VE2w9Uw .",
+          "message_type": "system",
+          "date_time": "2026-02-11 14:18:35.178"
+        },
+        {
+          "message_media": [],
+          "message_text": "HEYDUDE: We're so pumped for you to get your new shoes!\n\nWhile you wait, check out our newest arrivals:\nheydudeshoes.attn.tv/abGg-fRyZvqC .",
+          "message_type": "system",
+          "date_time": "2026-02-11 14:19:50.633"
+        },
+        {
+          "message_media": [],
+          "message_text": "I didn't get a receipt. Can you send one?",
+          "message_type": "customer",
+          "date_time": "2026-02-11 14:40:47.774"
+        },
+        {
+          "message_media": [],
+          "message_text": "HEYDUDE: I'm sorry to hear that! We sent you a confirmation email. Just to be sure, did you check your spam/promo folders already? Our emails can end up there sometimes.",
+          "message_type": "agent",
+          "agent": "33482",
+          "message_id": "019c4e39-a4cc-476b-f000-0000fa8d263d",
+          "date_time": "2026-02-11 14:42:06.566"
+        },
+        {
+          "message_media": [],
+          "message_text": "Please Send another email to Ginnie.Harwood@gmail.com",
+          "message_type": "customer",
+          "date_time": "2026-02-11 14:47:38.005"
+        },
+        {
+          "message_media": [],
+          "message_text": "I still haven't gotten it and not in spam",
+          "message_type": "customer",
+          "date_time": "2026-02-11 14:47:48.029"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"Post Purchase Inquiries\"; last updated: 2024-02-12 22:33:07.578",
+          "message_type": "template",
+          "date_time": "2026-02-11 14:52:37.161"
+        },
+        {
+          "message_media": [],
+          "message_text": "HEYDUDE: Sorry, I can't change the email address associated with your order or send the confirmation email to your new email on my end. We don't handle post-purchase requests via text and the fastest way to get help with your order is to email us at customerservice@heydude.com. Please let me know if you have any questions about our products, I'm more than happy to help you here!",
+          "message_type": "agent",
+          "agent": "87295",
+          "message_id": "019c4e43-4417-4b5b-f000-0000fa8d263d",
+          "date_time": "2026-02-11 14:52:37.164"
+        }
+      ],
+      "notes": {
+        "important": [
+          "There is a scam website that customers are texting in from (https://heydudestores.com/)",
+          "If you notice this, reroute customers to the correct website!"
+        ],
+        "send_to_cs": [
+          "Don't ESC post-purchase issues, use PPI shortcut"
+        ],
+        "templates": [
+          "For wrong items received use WMP shortcut",
+          "For damaged items received use DMI shortcut",
+          "For order status requests use OSR shortcut"
+        ],
+        "promo_and_promo_exclusions": [
+          "The welcome code is valid for first-time customers only.",
+          "➜ Applies to full-price styles",
+          "➜ Can't be combined with any other discounts or offers, including sale styles",
+          "➜  Use cww temp for code issues",
+          "The promotional price shown on the Heydude website may not always be guaranteed when cx is redirected to Prime for purchase if the item is out of stock"
+        ]
+      },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://heydude.com",
+          "date": ""
+        }
+      },
+      "escalation_preferences": [],
+      "blocklisted_words": [],
+      "has_shopify": true
+    }
+  }
+}

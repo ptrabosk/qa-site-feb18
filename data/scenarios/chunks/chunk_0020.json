@@ -3,683 +3,868 @@
   "chunk": "chunk_0020",
   "scenarios": {
     "96": {
-      "id": "019c590c-1983-477c-f000-0000882ddf1a",
-      "companyName": "Comfrt",
-      "companyWebsite": "https://comfrt.com",
-      "agentName": "Samantha",
-      "messageTone": "Polished",
-      "conversation": [
-        {
-          "message_media": [],
-          "message_text": "Comfrt: Something sweet is in the air.\n\nOur Valentine's Day Gift Guide is live, and it's made for every kind of love.\n\nShop now:\ncomfrt.attn.tv/adjzl33fllvn ",
-          "message_type": "system",
-          "date_time": "2026-01-16 15:29:49.183"
-        },
-        {
-          "message_media": [],
-          "message_text": "Comfrt: Winter storm? We've got you covered.\n\nShop up to 70% off sitewide on the coziest essentials.\n\nShop now: comfrt.attn.tv/aw3MKezvsO6E ",
-          "message_type": "system",
-          "date_time": "2026-01-23 16:40:20.225"
-        },
-        {
-          "message_media": [],
-          "message_text": "Comfrt: Made to move with you.\n\nComing 1.28. \n\nShop your favorites while you wait: comfrt.attn.tv/arlDJkSHsaM8 ",
-          "message_type": "system",
-          "date_time": "2026-01-26 19:38:14.553"
-        },
-        {
-          "message_media": [],
-          "message_text": "Comfrt: JUST DROPPED\n\nDesigned to move with you. Made to feel like you.\n\nIntroducing ComfrtCoreTM. Created for your body and mind.\n\nMove your way:\ncomfrt.attn.tv/aPmRLMoRvHiS",
-          "message_type": "system",
-          "date_time": "2026-01-28 15:13:06.868"
-        },
-        {
-          "message_media": [],
-          "message_text": "Comfrt: The finishing touch. \n\nThe NEW Basic Crop Zip Hoodie is the perfect layer for your ComfrtCoreTM sets. \n\nLightweight, cropped, and ready for your life in motion.\n\nComplete the look:\ncomfrt.attn.tv/aGHZeTqD3Onu",
-          "message_type": "system",
-          "date_time": "2026-01-30 19:03:10.137"
-        },
-        {
-          "message_media": [],
-          "message_text": "Comfrt: You reached the finish line. January is over and the weekend is here!\n\nReward yourself with the NEW Basic Quarter Zip.\n\nGrab your go-to:\ncomfrt.attn.tv/aI8DuzeQWE6J",
-          "message_type": "system",
-          "date_time": "2026-01-31 16:09:41.080"
-        },
-        {
-          "message_media": [],
-          "message_text": "Comfrt: Whether your team wins or loses, your outfit shouldn't. \n\nFinal score: You look great.\n\nGrab your game day set:\ncomfrt.attn.tv/akweRkxxgbcp",
-          "message_type": "system",
-          "date_time": "2026-02-01 18:02:12.258"
-        },
-        {
-          "message_media": [],
-          "message_text": "Comfrt: Your winter remedy is here.\n\nMeet the Ember Heated Blanket. Perfectly warm, irresistibly soft, and made to feel like a dream you never want to wake up from.\n\nGet cozy: comfrt.attn.tv/aogPPpbJ8jEx",
-          "message_type": "system",
-          "date_time": "2026-02-11 12:16:24.950"
-        },
-        {
-          "message_media": [],
-          "message_text": "Comfrt: Upgrade to first class.\n\nThe VIP Airplane Mode Hoodie with a satin-lined hood and eye mask has officially landed! \n\nAlso, four new limited shades just got added to our original collection.\n\nGet it while you can: comfrt.attn.tv/a6UZWDW-5-kD \n",
-          "message_type": "system",
-          "date_time": "2026-02-13 15:35:36.975"
-        },
-        {
-          "message_media": [],
-          "message_text": "Which hoodies is less weighted ?",
-          "message_type": "customer",
-          "date_time": "2026-02-13 15:58:15.781"
-        },
-        {
-          "message_media": [],
-          "message_text": "Comfrt: Our Basic Crop Zip Hoodie is less weighted, offering comfort without the extra weight. Check it out here: https://comfrt.attn.tv/a-mrDb-gBEjx",
-          "message_type": "agent",
-          "agent": "62551",
-          "message_id": "019c58cc-6482-479a-f000-0000882ddf1a",
-          "date_time": "2026-02-13 15:58:36.052"
-        },
-        {
-          "message_media": [],
-          "message_text": "I do t like colors, anything else?",
-          "message_type": "customer",
-          "date_time": "2026-02-13 16:01:05.244"
-        },
-        {
-          "message_media": [],
-          "message_text": "Comfrt: Consider the Airplane Mode Travel Hoodie for a lightweight option. It's available in various colors. Check it out here: https://comfrt.attn.tv/a3Ne_zeJDA8P",
-          "message_type": "agent",
-          "agent": "62551",
-          "message_id": "019c58cf-184c-4478-f000-0000882ddf1a",
-          "date_time": "2026-02-13 16:01:33.148"
-        },
-        {
-          "message_media": [],
-          "message_text": "Thank you, I would love to order but really afraid because have very bad experience with return. I never received store credit for returned item",
-          "message_type": "customer",
-          "date_time": "2026-02-13 16:04:50.490"
-        },
-        {
-          "message_media": [],
-          "message_text": "Comfrt: You are already subscribed. Click here to shop now: comfrt.com.",
-          "message_type": "system",
-          "date_time": "2026-02-13 16:06:23.189"
-        },
-        {
-          "message_media": [],
-          "message_text": "Comfrt: I'm really sorry to hear that you had a difficult experience with your previous return. I completely understand why that would make you hesitant to place another order. \n\nCould you let me know when the return was completed and what the last update you received from our team was? Please take a moment to check your spam and promo folders as well, since our store credit notifications and updates can occasionally land there. \n\nNote that store credit will be issued one week after our warehouse receives your return. If there is an issue with your return upon arrival, you will be contacted by our team. If you're unable to find any update or confirmation, the best next step would be to email us directly at info@comfrt.com Our specialized team will be able to review your return in detail and provide a clear resolution. \n\n",
-          "message_type": "agent",
-          "agent": "87595",
-          "message_id": "019c58ec-2d78-490a-f000-0000882ddf1a",
-          "date_time": "2026-02-13 16:33:19.120"
-        },
-        {
-          "message_media": [],
-          "message_text": "I sent email so many times to info@comfrt.com",
-          "message_type": "customer",
-          "date_time": "2026-02-13 17:04:49.625"
-        },
-        {
-          "message_media": [],
-          "message_text": "No response!",
-          "message_type": "customer",
-          "date_time": "2026-02-13 17:04:59.650"
-        },
-        {
-          "message_media": [],
-          "message_text": "I also te texted another rep and the response was;",
-          "message_type": "customer",
-          "date_time": "2026-02-13 17:05:29.256"
-        },
-        {
-          "message_media": [],
-          "message_text": "Template used: \"No response from customer support 2\"; last updated: 2023-10-16 22:00:00.972",
-          "message_type": "template",
-          "date_time": "2026-02-13 17:08:11.163"
-        },
-        {
-          "message_media": [],
-          "message_text": "Comfrt: Thanks for letting me know, and I'm truly sorry to hear that! Could you please let me know when you initiated the return process? Also, we are dealing with an influx of support messages but this does not make your concern any less important. The team is working as hard as possible to address each issue promptly. \n\nThey should get back to you soon!",
-          "message_type": "agent",
-          "agent": "109617",
-          "message_id": "019c590c-1983-477c-f000-0000882ddf1a",
-          "date_time": "2026-02-13 17:08:11.166"
-        }
-      ],
-      "notes": {
-        "send_to_cs": [
-          "Send to CS for post-purchase issues"
-        ],
-        "escalate": [
-          "ESC if the discount % is not the same as indicated in the automated message"
-        ],
-        "templates": [
-          "If cx asks if Comfrt was formerly another brand, use CFB shortcut"
-        ]
-      },
-      "rightPanel": {
-        "source": {
-          "label": "Website",
-          "value": "https://comfrt.com",
-          "date": ""
-        }
-      },
-      "escalation_preferences": [
-        "Exchanges and returns",
-        "Sizing questions",
-        "Discount code errors"
-      ],
-      "blocklisted_words": [],
-      "has_shopify": true
-    },
-    "97": {
-      "id": "019c6e1a-f614-4e98-f000-0000fbbbb20e",
-      "companyName": "Kathy Kuo Home",
-      "companyWebsite": "https://kathykuohome.com",
+      "id": "019c4ee0-19cf-4937-f000-000044cd6d21",
+      "companyName": "Georg Jensen",
+      "companyWebsite": "https://georgjensen.com/en-us",
       "agentName": "Sarah",
       "messageTone": "Polished",
       "conversation": [
         {
           "message_media": [],
-          "message_text": "Kathy Kuo: Reply Y to subscribe to recurring automated personalized marketing alerts (e.g. cart reminders) from Kathy Kuo.",
+          "message_text": "Georg Jensen: Hey there this is Sarah. Thanks for checking out our site! 😊 https://georgjensen.attn.tv/asC2NQjB-gGX .\n\nAny questions I can answer for you? ",
           "message_type": "system",
-          "date_time": "2026-02-16 14:17:32.540"
+          "date_time": "2026-01-12 21:39:36.571"
         },
         {
           "message_media": [],
-          "message_text": "Kathy Kuo: Welcome! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
+          "message_text": "Georg Jensen: Find your favorite holiday ornaments and explore Winter Sale offers on the Christmas Collectibles and seasonal decorations. \n\nShop Now: georgjensen.attn.tv/a32R6lPMUSlo \n\nText back if you have any questions! \n\nText STOP to opt out.",
           "message_type": "system",
-          "date_time": "2026-02-16 14:17:53.265"
+          "date_time": "2026-01-13 15:00:30.497"
         },
         {
           "message_media": [],
-          "message_text": "Kathy Kuo: You're in! Enjoy up to 25% Off + Free Shipping Over $1000 with code PREZ2026: kathykuohome.attn.tv/a0F-Gght9r7L . \n\nShopping full price? Use code YOUREIN for 10% Off. Exclusions apply. ",
+          "message_text": "Georg Jensen: A selection of timeless and well-crafted jewelry that can be styled into different expressions. \n\nShop Now: georgjensen.attn.tv/a_B6Bq7ZpMdB \n\nText back if you have any questions! \n\nText STOP to opt out. ",
           "message_type": "system",
-          "date_time": "2026-02-16 14:17:56.150"
+          "date_time": "2026-01-15 15:00:28.530"
         },
         {
           "message_media": [],
-          "message_text": "Kathy Kuo: Save our contact info to never miss exclusive offers and updates!",
+          "message_text": "Georg Jensen: Hey there, this is Sarah. I see you left something in your cart https://georgjensen.attn.tv/aAqNdlQcW_Y3 .\n\nGreat choice! 😊 Any questions I can answer for you? ",
           "message_type": "system",
-          "date_time": "2026-02-16 14:17:58.985"
+          "date_time": "2026-01-15 15:59:30.090"
         },
         {
           "message_media": [],
-          "message_text": "Kathy Kuo: Hey there, the piece you loved is waiting! Use code ALMOSTHOME for 15% Off + Free Shipping when you finish your order: kathykuohome.attn.tv/aJJsW6LnCFXt . ",
+          "message_text": "Georg Jensen: Hey, we noticed you checking us out. Have you seen our new home decor arrivals yet? https://georgjensen.attn.tv/a0kAxiV7i1Ma ",
           "message_type": "system",
-          "date_time": "2026-02-16 14:49:30.456"
+          "date_time": "2026-01-19 17:19:17.778"
         },
         {
           "message_media": [],
-          "message_text": "Kathy Kuo: Hi, I'm Sarah, your personal shopper for Kathy Kuo Home. Do you need help finding that perfect piece? \n\nhttps://kathykuohome.attn.tv/ab8GwwtVCJrb .",
+          "message_text": "Georg Jensen: The Bernadotte collection, a house classic, is defined by its elegant grooved surface - a design Sigvard Bernadotte became known for after joining Georg Jensen in the 1930s.\n\nShop Now: georgjensen.attn.tv/amZuoVo9hq1Z \n\nText back if you have any questions! \n",
           "message_type": "system",
-          "date_time": "2026-02-17 16:09:59.847"
+          "date_time": "2026-01-22 15:00:22.666"
         },
         {
           "message_media": [],
-          "message_text": "Kathy Kuo: The pieces you've been eyeing are still on sale, but not for long! Up to 25% off + free shipping ends at midnight: kathykuohome.attn.tv/aLjdn620S6YT ",
+          "message_text": "Georg Jensen: Daniela wears two Fusion combinations in interlocking yellow and white 18kt gold, paired with a matching Fusion earring inspired by the collection's signature pattern.\n\nDiscover Fusion: georgjensen.attn.tv/aOQorMtdpAbl \n\nText back if you have any questions! \n\nText STOP to opt out.",
           "message_type": "system",
-          "date_time": "2026-02-17 19:00:37.780"
+          "date_time": "2026-01-27 15:00:26.747"
         },
         {
           "message_media": [],
-          "message_text": "Hi there- I have item 145039 in my cart. I received a text that I can use a code for additional savings and free shipping. However when I use the code it is invalid. Can you advise??",
+          "message_text": "Georg Jensen: Final days - enjoy up to 50% off selected home designs. Shop your favorites while supplies last. All offers are valid until February 2nd, 2026.\n\nShop Now: georgjensen.attn.tv/acaQi8BBDUth \n\nText back if you have any questions! \n\nText STOP to opt out.",
+          "message_type": "system",
+          "date_time": "2026-01-29 15:00:23.471"
+        },
+        {
+          "message_media": [],
+          "message_text": "Georg Jensen: Our Winter Sale ends tonight! Save up to 50% on a range of timeless Georg Jensen designs before it's too late. \n\nShop Now: georgjensen.attn.tv/a4Pdo6c_PGz2 \n\nText back if you have any questions! \n\nText STOP to opt out.",
+          "message_type": "system",
+          "date_time": "2026-02-02 15:00:23.635"
+        },
+        {
+          "message_media": [],
+          "message_text": "Georg Jensen: Receive a Heart keyring for Valentine's Day with any home purchase of $400 or more. Offer valid on home, bar, and dining designs only, until February 14th or while supplies last. Fine silverware excluded.\n\nShop Now: georgjensen.attn.tv/as5USMkIoWwW \n\nText back if you have any questions! ",
+          "message_type": "system",
+          "date_time": "2026-02-05 15:00:38.373"
+        },
+        {
+          "message_media": [],
+          "message_text": "Georg Jensen: From the 2026 Heart pendant to elegant accessories in stainless steel, our Valentine's edit features thoughtful gifts crafted to last and be loved.\n\nShop Now: georgjensen.attn.tv/aos9-xku9aQN \n\nText back if you have any questions! \n",
+          "message_type": "system",
+          "date_time": "2026-02-10 15:00:28.396"
+        },
+        {
+          "message_media": [],
+          "message_text": "Georg Jensen: Hey there this is Sarah. Thanks for checking out our site! 😊 https://georgjensen.attn.tv/abNFjA-Wlb5r .\n\nAny questions I can answer for you? ",
+          "message_type": "system",
+          "date_time": "2026-02-11 17:18:43.599"
+        },
+        {
+          "message_media": [],
+          "message_text": "Yes I am looking for my refund when 2 of these arrived too late. Used your pkg drop off on 20 Jan at the UPS Store where I had to pick it up. Now almost a month ago. Need this refund to potentially buy again.",
           "message_type": "customer",
-          "date_time": "2026-02-17 19:05:25.170"
+          "date_time": "2026-02-11 17:21:16.545"
         },
         {
           "message_media": [],
-          "message_text": "Kathy Kuo: I'm sorry about that! We have quite a few vendors that don't participate in any of our sales, so our codes won't work on their items. Our codes also won't work if an item is already discounted, as discounts may not overlap. ",
-          "message_type": "agent",
-          "agent": "50269",
-          "message_id": "019c6e12-8fc4-46f3-f000-0000fbbbb20e",
-          "date_time": "2026-02-17 19:07:16.193"
-        },
-        {
-          "message_media": [],
-          "message_text": "Can you send a code for free shipping?",
+          "message_text": "Receipt says was picked up to come back to you Jan 20",
           "message_type": "customer",
-          "date_time": "2026-02-17 19:10:25.037"
+          "date_time": "2026-02-11 17:21:56.613"
         },
         {
           "message_media": [],
-          "message_text": "Kathy Kuo: I'm really sorry about that. We don't currently offer free shipping, but all promos will always be shared with our SMS subscribers or on our website, so keep an eye out!",
-          "message_type": "agent",
-          "agent": "39001",
-          "message_id": "019c6e16-83fd-41db-f000-0000fbbbb20e",
-          "date_time": "2026-02-17 19:11:35.329"
-        },
-        {
-          "message_media": [],
-          "message_text": "Why did I receive a text w a code for an additional discount and free shipping for the item in my cart if it is not valid for the item that was in my cart?",
+          "message_text": "Hi are you there?!?",
           "message_type": "customer",
-          "date_time": "2026-02-17 19:12:54.989"
+          "date_time": "2026-02-11 17:23:46.884"
         },
         {
           "message_media": [],
-          "message_text": "Template used: \"Retroactive discount request\"; last updated: 2025-10-23 16:05:56.432",
-          "message_type": "template",
-          "date_time": "2026-02-17 19:16:26.665"
-        },
-        {
-          "message_media": [],
-          "message_text": "Kathy Kuo: Thank you for getting back to me and providing that information! I'm really sorry for the inconvenience. Could you send a screenshot of your cart and the error message that you're getting, and the code you're trying to use? Just a heads up, if you're trying to use the code PREZ2026, it is only valid for orders over $1000.",
+          "message_text": "Georg Jensen: Sorry for the wait, and I understand. Let me check on this with my team. Can I have your order number and email?",
           "message_type": "agent",
-          "agent": "109840",
-          "message_id": "019c6e1a-f614-4e98-f000-0000fbbbb20e",
-          "date_time": "2026-02-17 19:16:26.669"
+          "agent": "46059",
+          "message_id": "019c4ece-0157-4af4-f000-000044cd6d21",
+          "date_time": "2026-02-11 17:24:09.591"
+        },
+        {
+          "message_media": [],
+          "message_text": "Sb12@sbcglobal.net",
+          "message_type": "customer",
+          "date_time": "2026-02-11 17:25:36.662"
+        },
+        {
+          "message_media": [],
+          "message_text": "Georg Jensen: Thanks for your email address! Can I also have the order number?",
+          "message_type": "agent",
+          "agent": "45474",
+          "message_id": "019c4ed0-b460-4989-f000-000044cd6d21",
+          "date_time": "2026-02-11 17:27:06.490"
+        },
+        {
+          "message_media": [],
+          "message_text": "Was case #01044766",
+          "message_type": "customer",
+          "date_time": "2026-02-11 17:27:36.494"
+        },
+        {
+          "message_media": [],
+          "message_text": "There were two orders , got one returned other. So either US11110210263 or same ending 264",
+          "message_type": "customer",
+          "date_time": "2026-02-11 17:29:16.753"
+        },
+        {
+          "message_media": [],
+          "message_text": "The more expensive one with two pitchers",
+          "message_type": "customer",
+          "date_time": "2026-02-11 17:29:46.832"
+        },
+        {
+          "message_media": [],
+          "message_text": "Turned out orders never got transmitted from sales to warehouse.",
+          "message_type": "customer",
+          "date_time": "2026-02-11 17:31:00.076"
+        },
+        {
+          "message_media": [],
+          "message_text": "When finally shipped (ground) my gift recipients had long before left for their homes and countries.",
+          "message_type": "customer",
+          "date_time": "2026-02-11 17:33:46.983"
+        },
+        {
+          "message_media": [],
+          "message_text": "VOC: Yes I am looking for my refund when 2 of these arrived too late. Used your pkg drop off on 20 Jan at the UPS Store where I had to pick it up. Now almost a month ago. Need this refund to potentially buy again.",
+          "message_type": "escalation",
+          "date_time": "2026-02-11 17:43:53.339"
+        },
+        {
+          "message_media": [],
+          "message_text": "Georg Jensen: Thanks for letting me know the order number, and I'm sorry to hear that! Let me bring this forward to my team now; I'll get back to you as soon as I hear back. \n\nPlease hang tight!",
+          "message_type": "agent",
+          "agent": "109617",
+          "message_id": "019c4ee0-19cf-4937-f000-000044cd6d21",
+          "date_time": "2026-02-11 17:43:55.496"
         }
       ],
       "notes": {
-        "escalate": [
-          "Esc inquiries about items not on the site",
-          "ESC if the cx missed a sale & wants to take advantage of it",
-          "ESC if the customer is asking for a discount and we don't have one",
-          "If cx is looking for general recommendations use LFR shortcut and ESC"
-        ],
-        "templates": [
-          "If cx is building a new home, interested in refurnishing their entire home or rooms in their home, use the IDS shortcut",
-          "If cx is shopping for a client use SFC shortcut",
-          "Any convo without a positive outcome (out of stock, not on sale, not shipping in time), use DSS shortcut"
+        "tone": [
+          "Use less smileys",
+          "Don't tell cx's they can return products bought from North American retail stores"
         ],
         "dos_and_don_ts": [
-          "For product-specific delivery time-frame inquiries always check the product page for delivery info and share that with the cx"
+          "Don't share the brand's phone number with cxs"
+        ],
+        "templates": [
+          "For order status/tracking, use OSU shortcut",
+          "They have a journey where they ask for ratings:",
+          "➜ For 1, 2 & 3 use CJR shortcut",
+          "➜ For 4 & 5 close the convo"
+        ],
+        "promo_and_promo_exclusions": [
+          "Welcome codes do not apply to fine silverware"
         ]
       },
       "rightPanel": {
         "source": {
           "label": "Website",
-          "value": "https://kathykuohome.com",
+          "value": "https://georgjensen.com/en-us",
           "date": ""
         },
         "browsingHistory": [
           {
-            "item": "Natalia Modern Black Striated Indoor Outdoor Rug - 10'x14'",
-            "link": "https://www.kathykuohome.com/Product/Detail/145039-Natalia-Modern-Black-Striated-Indoor-Outdoor-Rug-x?utm_campaign=020326_cart_abandon_email1&utm_content=journey&utm_medium=email&utm_source=attentive&externalId=F8cno&attn_macro=dHJpZ2dlckV2ZW50LnByb2R1Y3QubGluaw%3D%3D&attn_pos=0",
-            "timeAgo": "2026-02-17"
+            "item": "KOPPEL Pitcher, Midnight Black, in stainless steel",
+            "link": "https://www.georgjensen.com/en-us/dining-and-bar/pitchers-carafes/koppel-pitcher-midnight-black-075l/10020468.html",
+            "timeAgo": "2026-02-11"
           },
           {
-            "item": "Natalia Modern Black Striated Indoor Outdoor Rug - 10'x14'",
-            "link": "https://www.kathykuohome.com/Product/Detail/145039-Natalia-Modern-Black-Striated-Indoor-Outdoor-Rug-x?utm_campaign=020326_cart_abandon_email1&utm_content=journey&utm_medium=email&utm_source=attentive&externalId=F8cno&attn_macro=dHJpZ2dlckV2ZW50LnByb2R1Y3QubGluaw%3D%3D&attn_pos=0",
-            "timeAgo": "2026-02-17"
+            "item": "New York stainless steel 5 piece cutlery set | Georg Jensen",
+            "link": "https://www.georgjensen.com/en-us/sale/cutlery/new-york-5-pcs.-set-(012-017-021-022-031)/3320555.html?cgid=Sale_904&utm_campaign=4857617_2026_week2_winter_sale_2_cutlery_US&utm_medium=email&utm_source=Georg%20Jensen%20-%20USA&dm_i=752N,2W45T,2LS44Z,823UA,1",
+            "timeAgo": "2026-01-13"
           },
           {
-            "item": "Natalia Modern Black Striated Indoor Outdoor Rug - 10'x14'",
-            "link": "https://www.kathykuohome.com/Product/Detail/145039-Natalia-Modern-Black-Striated-Indoor-Outdoor-Rug-x?utm_campaign=smscartabandon_textandimage_feb2025&utm_medium=cpc&utm_source=attentive&utm_content=journey&externalId=F8cno",
-            "timeAgo": "2026-02-16"
+            "item": "ALFREDO - The Twist Family kids cutlery set | Georg Jensen",
+            "link": "https://www.georgjensen.com/en-us/dining-and-bar/cutlery/alfredo-the-twist-family-4-pcs.-cutlery-set/3580049.html",
+            "timeAgo": "2026-01-02"
           },
           {
-            "item": "Natalia Modern Black Striated Indoor Outdoor Rug - 10'x14'",
-            "link": "https://www.kathykuohome.com/Product/Detail/145039-Natalia-Modern-Black-Striated-Indoor-Outdoor-Rug-x",
-            "timeAgo": "2026-02-16"
+            "item": "OFFSPRING Small Earhoop in sterling silver.",
+            "link": "https://www.georgjensen.com/en-us/jewelry/earrings/offspring-earhoops-small/20001002.html?utm_campaign=Cart-Abandonment-Conierge&utm_source=attentive&utm_medium=text&externalId=68T7A",
+            "timeAgo": "2025-12-30"
+          },
+          {
+            "item": "OFFSPRING Small Earhoop in sterling silver.",
+            "link": "https://www.georgjensen.com/en-us/jewelry/earrings/offspring-earhoops-small/20001002.html?utm_campaign=Cart-Abandonment-Conierge&utm_source=attentive&utm_medium=text&externalId=68T7A",
+            "timeAgo": "2025-12-29"
+          }
+        ],
+        "orders": [
+          {
+            "orderNumber": "US11110210264",
+            "orderDate": "2025-12-19",
+            "items": [
+              {
+                "name": "NEW YORK Salad Servers",
+                "price": 109
+              }
+            ],
+            "total": 109,
+            "date_time": "2025-12-19 19:24:40.009"
+          },
+          {
+            "orderNumber": "US11110210263",
+            "orderDate": "2025-12-19",
+            "items": [
+              {
+                "name": "KOPPEL Pitcher, Midnight Black 1,2 L",
+                "price": 207.2,
+                "productLink": "https://www.allposters.com/-sp/Headless-Statue-Roman-Gymnasium-Salamis-North-Cyprus-Posters_i10019718_.htm?UPI=Q15BH100"
+              }
+            ],
+            "total": 414.4,
+            "date_time": "2025-12-19 19:16:10.968"
+          },
+          {
+            "orderNumber": "US11110181599",
+            "orderDate": "2024-01-20",
+            "items": [
+              {
+                "name": "NEW YORK 5 Pcs Setting – 8 Sets",
+                "price": 374.25,
+                "productLink": "https://www.replacements.com/silver-farberware-casselbury-stainless-tablespoon-serving-spoon/p/10019361"
+              },
+              {
+                "name": "NEW YORK 5 Pcs Setting – 8 Sets",
+                "price": 374.25,
+                "productLink": "https://www.chairish.com/product/id/10019361?utm_content=Planters&utm_medium=text&utm_source=attentive&utm_term=10019361"
+              },
+              {
+                "name": "NEW YORK 5 Pcs Setting – 8 Sets",
+                "price": 374.25,
+                "productLink": "https://www.allposters.com/-sp/Harbour-Assos-Kefalonia-Greece-Posters_i10019361_.htm?UPI=PY7QUV0"
+              }
+            ],
+            "total": 374.25,
+            "date_time": "2024-01-20 20:49:56.418"
+          }
+        ]
+      },
+      "escalation_preferences": [],
+      "blocklisted_words": [
+        "North"
+      ],
+      "has_shopify": false
+    },
+    "97": {
+      "id": "019c53c7-8b31-4507-f000-0000fa8d62ca",
+      "companyName": "Birkenstock",
+      "companyWebsite": "https://birkenstock.com",
+      "agentName": "Taylor",
+      "messageTone": "Polished",
+      "conversation": [
+        {
+          "message_media": [],
+          "message_text": "Birkenstock: Reply “Y” to confirm your opt in to our SMS program and receive messages from Birkenstock. . Msg & Data rates apply. Msg Freq may vary. Terms: birkenstock.attn.tv/cl/aH8",
+          "message_type": "system",
+          "date_time": "2026-02-11 14:27:53.533"
+        },
+        {
+          "message_media": [],
+          "message_text": "Birkenstock: Welcome to Birkenstock! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel. Privacy: attnl.tv/p/8y2",
+          "message_type": "system",
+          "date_time": "2026-02-11 14:28:08.549"
+        },
+        {
+          "message_media": [],
+          "message_text": "Birkenstock: CLICK ON THE LINK to reveal your FREE GROUND SHIPPING CODE, good for your next full price purchase:\n\nhttps://birkenstock.attn.tv/a6lZTywvD8lE\n\nWelcome to the family!",
+          "message_type": "system",
+          "date_time": "2026-02-11 14:28:14.087"
+        },
+        {
+          "message_media": [],
+          "message_text": "Birkenstock: Oh, also, a lot of people like getting personal recs from us. Over the next few days we'll try to help you find something that you will love.\n\nDid you know we have exclusive versions of our top sellers that you can't get in stores? Check them out now: https://birkenstock.attn.tv/a92F26-r_pOZ .",
+          "message_type": "system",
+          "date_time": "2026-02-11 14:29:17.592"
+        },
+        {
+          "message_media": [],
+          "message_text": "Birkenstock: Shearling season is here. \nDiscover our newest lined clogs, boots, slippers & more: https://birkenstock.attn.tv/aQHTFTX4o2UQ .\n",
+          "message_type": "system",
+          "date_time": "2026-02-11 16:24:28.579"
+        },
+        {
+          "message_media": [],
+          "message_text": "Birkenstock: Hey, I'm Taylor - your personal Birkenstock expert.\n\nHave you seen our latest arrivals? We have so many new colors in your favorite classic styles.\n\nhttps://birkenstock.attn.tv/aH_rwxnPesps .\n\nReply back anytime if you need help!",
+          "message_type": "system",
+          "date_time": "2026-02-12 16:24:36.011"
+        },
+        {
+          "message_media": [],
+          "message_text": "How do I get information about when my shoes will ship I just purchased them a couple days ago",
+          "message_type": "customer",
+          "date_time": "2026-02-12 16:27:32.573"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"Shipping time\"; last updated: 2023-10-27 20:11:17.329",
+          "message_type": "template",
+          "date_time": "2026-02-12 16:35:12.201"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"Order status/order tracking\"; last updated: 2023-10-27 20:40:45.884",
+          "message_type": "template",
+          "date_time": "2026-02-12 16:35:12.201"
+        },
+        {
+          "message_media": [],
+          "message_text": "Birkenstock: Thanks for reaching out! Are you referring to the order that was placed yesterday, 02/11? If so, please note that our processing time takes 1-2 business days and we usually ship via UPS. Once shipped it will take 2-5 business days for domestic orders. \n\nAdditionally, you can use our convenient online tool to see the latest updates on your order: https://birkenstock.attn.tv/aVaRsyjRpgLk\n\nPlease let me know how I can assist you further today, I'm just a text away!",
+          "message_type": "agent",
+          "agent": "109617",
+          "message_id": "019c53c7-8b31-4507-f000-0000fa8d62ca",
+          "date_time": "2026-02-12 16:35:12.205"
+        }
+      ],
+      "notes": {
+        "escalate": [
+          "For all pre-purchase and post purchase ESC always include the customers full name in the notes",
+          "Don't ESC if they get an error with the fs code while logged in"
+        ],
+        "templates": [
+          "For free shipping retroactive code requests, use SRP shortcut",
+          "For holiday/extended returns - use the template"
+        ],
+        "dos_and_don_ts": [
+          "Close the convo once the client takes over",
+          "🤖 If someone sends a product category, link them to the category and ask if they are looking for something specific"
+        ]
+      },
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://birkenstock.com",
+          "date": ""
+        },
+        "browsingHistory": [
+          {
+            "item": "Buy Zermatt Shearling Felt for USD 99.95 | Birkenstock US",
+            "link": "https://www.birkenstock.com/us/zermatt-shearling-felt/zermatt-cozyhomeshearling-woolfelt-0-latex-u_3732.html",
+            "timeAgo": "2026-02-11"
+          },
+          {
+            "item": "Buy Zermatt Shearling Felt for USD 99.95 | Birkenstock US",
+            "link": "https://www.birkenstock.com/us/zermatt-shearling-felt/zermatt-cozyhomeshearling-woolfelt-0-latex-u_523.html",
+            "timeAgo": "2026-02-11"
+          },
+          {
+            "item": "Buy Zermatt Shearling Felt for USD 99.95 | Birkenstock US",
+            "link": "https://www.birkenstock.com/us/zermatt-shearling-felt/zermatt-cozyhomeshearling-woolfelt-0-latex-u_11951.html",
+            "timeAgo": "2026-02-11"
+          },
+          {
+            "item": "Buy Zermatt Shearling Felt for USD 99.95 | Birkenstock US",
+            "link": "https://www.birkenstock.com/us/zermatt-shearling-felt/zermatt-cozyhomeshearling-woolfelt-0-latex-u_4369.html",
+            "timeAgo": "2026-02-11"
+          },
+          {
+            "item": "Buy Zermatt Shearling Felt for USD 99.95 | Birkenstock US",
+            "link": "https://www.birkenstock.com/us/zermatt-shearling-felt/zermatt-cozyhomeshearling-woolfelt-0-latex-u_3732.html",
+            "timeAgo": "2026-02-11"
+          }
+        ],
+        "orders": [
+          {
+            "orderNumber": "521307037",
+            "orderDate": "2026-02-11",
+            "items": [
+              {
+                "name": "Arizona Soft Footbed Suede Leather Taupe",
+                "price": 154.95,
+                "productLink": "https://www.birkenstock.com/us/arizona-soft-footbed-suede-leather/arizona-core-suedeleather-softfootbed-eva-u_46.html"
+              },
+              {
+                "name": "Boston Wool Anthracite",
+                "price": 130,
+                "productLink": "https://www.birkenstock.com/us/boston-wool/boston-core-woolfelt-0-eva-u_2075.html"
+              },
+              {
+                "name": "Boston Wool Anthracite",
+                "price": 130,
+                "productLink": "https://www.birkenstock.com/ca/boston-wool/boston-core-woolfelt-0-eva-u_2075.html"
+              },
+              {
+                "name": "Arizona Soft Footbed Suede Leather Taupe",
+                "price": 154.95,
+                "productLink": "https://www.birkenstock.com/ca/arizona-soft-footbed-suede-leather/arizona-core-suedeleather-softfootbed-eva-u_46.html"
+              }
+            ],
+            "total": 284.95,
+            "date_time": "2026-02-11 19:36:49.361"
           }
         ]
       },
       "escalation_preferences": [
-        "Shipping questions",
-        "Discount code errors",
-        "Exchanges and returns",
-        "Lead time questions",
-        "Stock questions",
-        "Price matching",
-        "Angry or dissatisfied customer"
+        "Shipping codes"
       ],
       "blocklisted_words": [],
       "has_shopify": false
     },
     "98": {
-      "id": "019c677d-042b-47c9-f000-00003de911fa",
-      "companyName": "ChurchSource",
-      "companyWebsite": "https://churchsource.com",
-      "agentName": "Carla",
-      "messageTone": "Polished",
-      "conversation": [
-        {
-          "message_media": [],
-          "message_text": "ChurchSource: You've unlocked this exclusive offer! This week only, stack & save like never before:\n\n- Take 15% off anything w/ code EXTRA15\n- Combine it w/ our Semi-Annual Sale pricing of up to 55% off!\n- Earn points to redeem on a future purchase\n\nDeal ends 01/26: churchsource.attn.tv/aWv0Gt9vfZ30",
-          "message_type": "system",
-          "date_time": "2026-01-19 11:26:01.528"
-        },
-        {
-          "message_media": [],
-          "message_text": "ChurchSource: Don't miss out! YOU HAVE 25 You've earned your points - shop now because time is running out! Learn more here: churchsource.attn.tv/astzdRw0UVHY ",
-          "message_type": "system",
-          "date_time": "2026-01-19 14:29:38.430"
-        },
-        {
-          "message_media": [],
-          "message_text": "ChurchSource: Want to upgrade your Study Bible or add a new one to your shelf? Now's the perfect time.\n\nSave up to 55% on bestselling Study Bibles during our Semi-Annual Sale. Plus, exclusively for you: take an extra 15% off w/ code EXTRA15.\n\nShop: churchsource.attn.tv/aknNLWrUh-yn\n\nText w/ questions!",
-          "message_type": "system",
-          "date_time": "2026-01-21 11:11:33.829"
-        },
-        {
-          "message_media": [],
-          "message_text": "ChurchSource: Because you're a customer, save 15% on your next order! \n\nUse code EXTRA15. We're here to help you prepare well. Visit churchsource.attn.tv/a7uzTsbBmnQh .",
-          "message_type": "system",
-          "date_time": "2026-01-23 12:10:28.728"
-        },
-        {
-          "message_media": [],
-          "message_text": "ChurchSource: Last day. Customer-only extra 15% off Semi-Annual Sale pricing.\n\nUse code EXTRA15 to save more today. churchsource.attn.tv/aNPBvxvewqjp ",
-          "message_type": "system",
-          "date_time": "2026-01-26 13:00:54.893"
-        },
-        {
-          "message_media": [],
-          "message_text": "ChurchSource: Don't miss out! YOU HAVE 25 You've earned your points - shop now because time is running out! Learn more here: churchsource.attn.tv/ajA4xqsg_wwB ",
-          "message_type": "system",
-          "date_time": "2026-01-26 14:50:46.733"
-        },
-        {
-          "message_media": [],
-          "message_text": "ChurchSource: Don't wait-our most popular resources are moving quickly, and inventory is limited. \n\nOrder now while supplies last and save up to 60% as you stay focused on God's Word: churchsource.attn.tv/a09XIjseg8ub ",
-          "message_type": "system",
-          "date_time": "2026-02-02 11:00:38.340"
-        },
-        {
-          "message_media": [],
-          "message_text": "ChurchSource: Surprise! Just for YOU (our loyal SMS friends), enjoy our 1-day only Flash Sale! \n\nTake an EXTRA 15% off, on top of 55% off Semi-Annual Sale discounts. Use code CS15 to shop and save! churchsource.attn.tv/awWsmQin_Tsl ",
-          "message_type": "system",
-          "date_time": "2026-02-05 12:01:58.784"
-        },
-        {
-          "message_media": [],
-          "message_text": "ChurchSource: Hours left on YOUR EXCLUSIVE SMS perks! \n\nTake an EXTRA 15% off already discounted prices during our flash sale by using code CS15. Ends today at midnight CST! \n\nWhat are you waiting for? churchsource.attn.tv/akj9AxfAPIc_ ",
-          "message_type": "system",
-          "date_time": "2026-02-05 16:00:40.544"
-        },
-        {
-          "message_media": [],
-          "message_text": "ChurchSource: New stock alert!\n\nNew titles, same savings- up to 50% off during our Semi-Annual Sale. Shop the sale now: churchsource.attn.tv/aQssHM1BDDiG ",
-          "message_type": "system",
-          "date_time": "2026-02-09 13:00:56.836"
-        },
-        {
-          "message_media": [],
-          "message_text": "ChurchSource: Take advantage of our Semi-Annual Sale to stock up on the Bibles your ministry relies on most-all backed by ChurchSource's commitment to trusted translations, publisher-direct pricing, and bulk savings.\n\n\nShop now with discounts up to 60% off! churchsource.attn.tv/a_Eih9tkRzwP ",
-          "message_type": "system",
-          "date_time": "2026-02-11 13:00:46.549"
-        },
-        {
-          "message_media": [],
-          "message_text": "ChurchSource: This week only, save up to 60% AND earn 2x points! \n\nShop and save with extra points before 2/18: churchsource.attn.tv/as3IaPzzPB5B ",
-          "message_type": "system",
-          "date_time": "2026-02-12 12:15:46.456"
-        },
-        {
-          "message_media": [],
-          "message_text": "ChurchSource: Time is quickly running out!\n\nWe're leaving the best for last: an extra 15% off AND double reward points with code CS15! Don't miss out, get your resources here: churchsource.attn.tv/a2tDDd1LxJrp ",
-          "message_type": "system",
-          "date_time": "2026-02-16 11:15:33.484"
-        },
-        {
-          "message_media": [],
-          "message_text": "ChurchSource: Hey there, it's Carla! I saw you left something behind. It's selling fast - and 10% off with code CART10! Plus, there could be additional savings during our Semi-Annual Sale.\nAnything I can help with before it's gone? churchsource.attn.tv/aCe5AjNyh2UP",
-          "message_type": "system",
-          "date_time": "2026-02-16 11:50:29.141"
-        },
-        {
-          "message_media": [],
-          "message_text": "I was sent a 15% off plus double points promo code but it won't work",
-          "message_type": "customer",
-          "date_time": "2026-02-16 11:58:22.233"
-        },
-        {
-          "message_media": [],
-          "message_text": "ChurchSource: I'm sorry to hear that. Have you encountered any error messages? Also, could you kindly share a screenshot of the items in your cart? I'll be happy to look into the issue! ",
-          "message_type": "agent",
-          "agent": "39001",
-          "message_id": "019c676d-b115-4729-f000-00003de911fa",
-          "date_time": "2026-02-16 12:09:27.988"
-        },
-        {
-          "message_media": [],
-          "message_text": "No it just says it is invalid.",
-          "message_type": "customer",
-          "date_time": "2026-02-16 12:16:29.856"
-        },
-        {
-          "message_media": [],
-          "message_text": "We're leaving the best for last: an extra 15% off AND double reward points with code CS15! Don't miss out, get your resources here: churchsource.attn.tv/a2tDDd1LxJrp",
-          "message_type": "customer",
-          "date_time": "2026-02-16 12:16:47.421"
-        },
-        {
-          "message_media": [],
-          "message_text": "ChurchSource: Thank you for sharing that, and I apologize for the inconvenience. Allow me to double-check this with my team for you. I will send you a message as soon as I hear back. Please stand by.",
-          "message_type": "agent",
-          "agent": "109968",
-          "message_id": "019c677d-042b-47c9-f000-00003de911fa",
-          "date_time": "2026-02-16 12:26:12.297"
-        }
-      ],
-      "notes": {
-        "drive_to_purchase": [
-          "Recommend collections instead of specific products",
-          "Don't recommend bestsellers! Stick to the top categories: Top Bibles in Bulk, Small Group Studies, and Church & Pastor Resources"
-        ]
-      },
-      "rightPanel": {
-        "source": {
-          "label": "Website",
-          "value": "https://churchsource.com",
-          "date": ""
-        },
-        "browsingHistory": [
-          {
-            "item": "The GREAT Morning Revolution: Daily Spiritual Practices for Meaningful Moments with God - Softcover",
-            "link": "https://churchsource.com/products/the-great-morning-revolution-daily-spiritual-practices-for-meaningful-moments-with-god?variant=42068477247585",
-            "timeAgo": "2026-02-16"
-          },
-          {
-            "item": "Made to Belong: Five Practices for Cultivating Community in a Disconnected World - Softcover",
-            "link": "https://churchsource.com/products/made-to-belong-five-practices-for-cultivating-community-in-a-disconnected-world?variant=40284750315617",
-            "timeAgo": "2026-02-16"
-          },
-          {
-            "item": "Intentional: Living Out the Eight Principles of Disciple Making - Softcover",
-            "link": "https://churchsource.com/products/intentional-living-out-the-eight-principles-of-disciple-making?variant=40756695466081",
-            "timeAgo": "2026-02-16"
-          },
-          {
-            "item": "Nelson's Annual Preacher's Sourcebook, Volume 2 - Softcover",
-            "link": "https://churchsource.com/products/nelsons-annual-preachers-sourcebook-volume-2?variant=14918002442309",
-            "timeAgo": "2026-02-16"
-          },
-          {
-            "item": "Becoming a Future-Ready Church: 8 Shifts to Encourage and Empower the Next Generation of Leaders - Softcover",
-            "link": "https://churchsource.com/products/becoming-a-future-ready-church-8-shifts-to-encourage-and-empower-the-next-generation-of-leaders?variant=41619400130657",
-            "timeAgo": "2026-02-16"
-          }
-        ]
-      },
-      "escalation_preferences": [
-        "Shipping questions",
-        "Discount code errors",
-        "Exchanges and returns"
-      ],
-      "blocklisted_words": [],
-      "has_shopify": true
-    },
-    "99": {
-      "id": "019c7d34-adf2-4f9e-f000-0000fd3d0f67",
-      "companyName": "Ryka",
-      "companyWebsite": "https://ryka.com",
+      "id": "019c52e4-9f71-4863-f000-0000f6f5aefd",
+      "companyName": "Barbell Apparel",
+      "companyWebsite": "https://barbellapparel.com",
       "agentName": "",
       "messageTone": "Polished",
       "conversation": [
         {
           "message_media": [],
-          "message_text": "Rykä: Reply Y to subscribe to recurring automated personalized marketing alerts (e.g. cart reminders) from Rykä.",
+          "message_text": "Barbell Apparel: Reply Y to subscribe to recurring automated personalized marketing texts (e.g. cart reminders).",
           "message_type": "system",
-          "date_time": "2026-02-20 11:55:00.415"
+          "date_time": "2026-02-01 17:31:28.738"
         },
         {
           "message_media": [],
-          "message_text": "Rykä: Welcome to Rykä! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel. Privacy: attnl.tv/p/keI",
+          "message_text": "Barbell Apparel: Welcome! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel.",
           "message_type": "system",
-          "date_time": "2026-02-20 11:55:17.433"
+          "date_time": "2026-02-01 21:05:28.422"
         },
         {
           "message_media": [],
-          "message_text": "Rykä: Hey! I'm Jordan with Ryka! \n\nStep into a world Made Just for Women and enjoy $10 off $65+ ryka.attn.tv/aoEtyffDijAH .",
+          "message_text": "Barbell Apparel: Hey there! We saw you checking out our athletic inspired apparel. If Need help? We're happy to chat here: https://barbell.attn.tv/a3n-UhlthRs2 ",
           "message_type": "system",
-          "date_time": "2026-02-20 11:55:22.836"
+          "date_time": "2026-02-02 12:43:29.837"
         },
         {
           "message_media": [],
-          "message_text": "Rykä: Oh, also, a lot of people like getting personal recs from us. Over the next few days we'll try to help you find something that you will love.\n\nFrom daily walks to hitting the gym, we're all about finding joy in our strength, every workout, every day: https://ryka.attn.tv/aIy-xvBC4v0e .",
+          "message_text": "Barbell Apparel: Hey John, this is Sarah. I see you left something in your cart. https://barbell.attn.tv/ag01LHmkr4tC \n\nI like Adapt Jogger too! Any questions I can answer for you?",
           "message_type": "system",
-          "date_time": "2026-02-20 11:56:32.033"
+          "date_time": "2026-02-04 19:08:01.483"
         },
         {
           "message_media": [],
-          "message_text": "Rykä: RYKWELATRRHUEFUC",
+          "message_text": "Barbell Apparel: Hey John, this is Sarah. I see you left something in your cart. https://barbell.attn.tv/aE5tJ1GIENF9 \n\nI like Ultralight Jogger too! Any questions I can answer for you?",
           "message_type": "system",
-          "date_time": "2026-02-20 12:09:27.492"
+          "date_time": "2026-02-07 15:40:17.800"
         },
         {
           "message_media": [],
-          "message_text": "Rykä: Sky Walk Walking Sneaker and Devotion Plus 3 Walking Sneaker are waiting in the cart.\n\nUse code RYKWELATRRHUEFUC for $10 off on orders of $65+.\n\nDiscover the fit: https://ryka.attn.tv/afMMw26Hxo_Y .",
+          "message_text": "Barbell Apparel: Hey John, this is Sarah. I see you left something in your cart. https://barbell.attn.tv/acmBuqxbB_va \n\nI like Ultralight Jogger too! Any questions I can answer for you?",
           "message_type": "system",
-          "date_time": "2026-02-20 12:19:56.200"
+          "date_time": "2026-02-09 23:08:33.689"
         },
         {
           "message_media": [],
-          "message_text": "$10 didn't comeoff but toook the code",
+          "message_text": "Barbell Apparel: Hey John, this is Sarah. I see you left something in your cart. https://barbell.attn.tv/aRYtbQ3R4tIa \n\nI like Phantom Short too! Any questions I can answer for you?",
+          "message_type": "system",
+          "date_time": "2026-02-10 18:38:20.030"
+        },
+        {
+          "message_media": [],
+          "message_text": "Barbell Apparel: New seasonal colors just landed. The Havok Polo is now available in kiln and forest. Same flextek performance, same athletic fit that everyone loves.\n\nGrab yours before they're gone.\n\nShop now: barbell.attn.tv/a3L8Dec7SnCR ",
+          "message_type": "system",
+          "date_time": "2026-02-11 18:00:37.792"
+        },
+        {
+          "message_media": [],
+          "message_text": "Barbell Apparel: Hey John ! Join Barbell Elite and get up to $125 in bonus credit for your first month, plus free lifetime products guarantees and size exchanges, free 2-day shipping. barbell.attn.tv/a9xnWyWMLXQL ",
+          "message_type": "system",
+          "date_time": "2026-02-12 12:18:19.451"
+        },
+        {
+          "message_media": [],
+          "message_text": "I just joined last night and only got 100 bonus credit?!",
           "message_type": "customer",
-          "date_time": "2026-02-20 12:47:26.804"
+          "date_time": "2026-02-12 12:20:56.634"
         },
         {
           "message_media": [],
-          "message_text": "who pays return shipping if necessary ???",
-          "message_type": "customer",
-          "date_time": "2026-02-20 12:47:46.808"
-        },
-        {
-          "message_media": [],
-          "message_text": "Rykä: I'm sorry to hear that. Can I have a screenshot of your cart showing the order summary? It's working on my end for both items. Also, return is free via Happy Returns or $9.95 via mail. You can check out our detailed return policy here: https://ryka.attn.tv/aQLZGwff1_j- ",
+          "message_text": "Barbell Apparel: Thank you for reaching out, and I'm sorry to hear that! May I have your email address?",
           "message_type": "agent",
-          "agent": "46059",
-          "message_id": "019c7c2d-6955-441a-f000-0000fd3d0f67",
-          "date_time": "2026-02-20 12:51:16.852"
+          "agent": "87295",
+          "message_id": "019c52e4-9f71-4863-f000-0000f6f5aefd",
+          "date_time": "2026-02-12 12:27:20.726"
+        }
+      ],
+      "notes": {},
+      "rightPanel": {
+        "source": {
+          "label": "Website",
+          "value": "https://barbellapparel.com",
+          "date": ""
         },
+        "browsingHistory": [
+          {
+            "item": "Barbell Elite Membership - Trainee/Legacy",
+            "link": "https://barbellapparel.com/products/barbell-elite-membership",
+            "timeAgo": "2026-02-12"
+          },
+          {
+            "item": "Barbell Elite Membership - Trainee/Legacy",
+            "link": "https://barbellapparel.com/products/barbell-elite-membership",
+            "timeAgo": "2026-02-12"
+          },
+          {
+            "item": "Barbell Elite Membership - Trainee/Legacy",
+            "link": "https://barbellapparel.com/products/barbell-elite-membership?utm_source=Klaviyo&utm_medium=email&utm_campaign=Email+%231+Free+store+Credit+%28R7RxBb%29&bxid=01KFDY6WJCC5DFYTM0ZTR62KF4&utm_klaviyo_id=01KFDY6WJCC5DFYTM0ZTR62KF4&_kx=C2dc40sUQYu5Io2w63vlqPzjUaTMgGA2FegE1q1kXoY.mem8yj#tiers",
+            "timeAgo": "2026-02-12"
+          },
+          {
+            "item": "The Foundation Crewneck - XXL / Ash",
+            "link": "https://barbellapparel.com/products/the-foundation-crewneck?variant=52691167838574",
+            "timeAgo": "2026-02-11"
+          },
+          {
+            "item": "The Foundation Crewneck - XL / Ash",
+            "link": "https://barbellapparel.com/products/the-foundation-crewneck?variant=52691167609198",
+            "timeAgo": "2026-02-11"
+          }
+        ],
+        "orders": [
+          {
+            "orderNumber": "11793699078510",
+            "orderDate": "2026-02-12",
+            "items": [
+              {
+                "name": "Barbell Elite Membership - Pro",
+                "price": 99,
+                "productLink": "https://barbellapparel.myshopify.com/products/barbell-elite-membership-pro"
+              }
+            ],
+            "total": 99,
+            "coupon": "FREE100",
+            "date_time": "2026-02-12 04:52:10.791"
+          },
+          {
+            "orderNumber": "11781779456366",
+            "orderDate": "2026-02-01",
+            "items": [
+              {
+                "name": "Fitted Drop Hem",
+                "price": 204,
+                "productLink": "https://barbellapparel.myshopify.com/products/fitted-drop-hem"
+              },
+              {
+                "name": "Adapt Jogger",
+                "price": 99,
+                "productLink": "https://barbellapparel.myshopify.com/products/adapt-jogger"
+              },
+              {
+                "name": "Free Returns or Exchanges (US orders only)",
+                "price": 2.98,
+                "productLink": "https://barbellapparel.myshopify.com/products/free-returns-or-exchanges-package-protection-us-orders-only"
+              }
+            ],
+            "total": 125.16,
+            "coupon": "FSK6D8NOO",
+            "date_time": "2026-02-01 22:31:24.801"
+          }
+        ]
+      },
+      "escalation_preferences": [],
+      "blocklisted_words": [],
+      "has_shopify": true
+    },
+    "99": {
+      "id": "019c625a-0cac-43ff-f000-0000fb93a56c",
+      "companyName": "Lifestride",
+      "companyWebsite": "https://lifestride.com/",
+      "agentName": "",
+      "messageTone": "Polished",
+      "conversation": [
         {
           "message_media": [],
-          "message_text": "not home now.  will do later",
-          "message_type": "customer",
-          "date_time": "2026-02-20 12:54:16.507"
-        },
-        {
-          "message_media": [],
-          "message_text": "Rykä: No problem! Feel free to reach out anytime, I'm always here to help! ",
-          "message_type": "agent",
-          "agent": "50269",
-          "message_id": "019c7c31-35f2-4a52-f000-0000fd3d0f67",
-          "date_time": "2026-02-20 12:55:25.839"
-        },
-        {
-          "message_media": [],
-          "message_text": "did you hear he's moving to a diff dorm/roommate???  Part of his education......!",
-          "message_type": "customer",
-          "date_time": "2026-02-20 13:01:06.754"
-        },
-        {
-          "message_media": [],
-          "message_text": "not. for Ryka.... sorry",
-          "message_type": "customer",
-          "date_time": "2026-02-20 13:02:01.446"
-        },
-        {
-          "message_media": [],
-          "message_text": "these must be on sale, so $10 doesn't  apply????",
-          "message_type": "customer",
-          "date_time": "2026-02-20 16:45:45.531"
-        },
-        {
-          "message_media": [],
-          "message_text": "Rykä: No problem! Can you send me a screenshot of the items in your cart if you don't mind? Please ensure that your order total is $65+. I tried and the code worked on my end. Here is a screenshot for reference: https://ryka.attn.tv/apKEDbD0GSTY",
-          "message_type": "agent",
-          "agent": "40539",
-          "message_id": "019c7d08-6b51-4501-f000-0000fd3d0f67",
-          "date_time": "2026-02-20 16:50:29.742"
-        },
-        {
-          "message_media": [],
-          "message_text": "did you receive???",
-          "message_type": "customer",
-          "date_time": "2026-02-20 16:55:05.652"
-        },
-        {
-          "message_media": [],
-          "message_text": "Rykä: Thank you for sending this over. I got the same error message when my cart total was below $65. Can you confirm that your cart total is $65+?",
-          "message_type": "agent",
-          "agent": "40539",
-          "message_id": "019c7d1a-8d09-43ae-f000-0000fd3d0f67",
-          "date_time": "2026-02-20 17:10:18.026"
-        },
-        {
-          "message_media": [],
-          "message_text": "Rykä: Slide into Devotion Plus 3 Walking Sneaker — lightweight comfort with RE-ZORB® cushioning and Made for Women fit!\n\n880 people have recently viewed it.\n\nShop now: https://ryka.attn.tv/auXQRWHlwQ2t .",
+          "message_text": "LifeStride: Reply Y to subscribe to recurring automated personalized marketing alerts (e.g. cart reminders) from LifeStride.",
           "message_type": "system",
-          "date_time": "2026-02-20 17:13:29.100"
+          "date_time": "2026-02-15 07:46:02.096"
         },
         {
           "message_media": [],
-          "message_text": "64.99.... that's why!!!!",
+          "message_text": "LifeStride: Welcome to LifeStride! Msg & data rates may apply. Msg frequency varies. Reply HELP for help, STOP to cancel. Privacy: attnl.tv/p/xeF",
+          "message_type": "system",
+          "date_time": "2026-02-15 07:46:23.163"
+        },
+        {
+          "message_media": [],
+          "message_text": "LifeStride: Hey! I'm Jordan, thanks for joining us! As a special gift, enjoy $10 off $50+: lifestride.attn.tv/aKmHGXtJsabI Text me any time with questions!",
+          "message_type": "system",
+          "date_time": "2026-02-15 07:46:26.140"
+        },
+        {
+          "message_media": [],
+          "message_text": "LifeStride: Oh, also, a lot of people like getting personal recs from us. Over the next few days we'll try to help you find something that you will love.\n\nNeed help finding the perfect pair? See what's trending now to find the season's hottest styles: https://lifestride.attn.tv/auCz9I_RA2Jy .",
+          "message_type": "system",
+          "date_time": "2026-02-15 07:47:28.581"
+        },
+        {
+          "message_media": [],
+          "message_text": "LifeStride: FINAL HOURS! Your cart still has London Mule Loafer and Margot Loafer.\n\nUse code LSWELC10RJSHZQYH to take $10 off your purchase: https://lifestride.attn.tv/aS3lP3NB8r3t .",
+          "message_type": "system",
+          "date_time": "2026-02-15 08:07:08.751"
+        },
+        {
+          "message_media": [],
+          "message_text": "LifeStride: Grab your London Mule Loafer — easy slip-on comfort with a lug sole and recycled linings you'll love.\n\nShop now: https://lifestride.attn.tv/aRBeyyQ8MlZH .",
+          "message_type": "system",
+          "date_time": "2026-02-15 12:20:54.025"
+        },
+        {
+          "message_media": [],
+          "message_text": "The code doesn't work",
           "message_type": "customer",
-          "date_time": "2026-02-20 17:15:25.833"
+          "date_time": "2026-02-15 12:27:10.460"
         },
         {
           "message_media": [],
-          "message_text": "same price on Amazon, free shipping and free returns",
-          "message_type": "customer",
-          "date_time": "2026-02-20 17:15:45.896"
+          "message_text": "Template used: \"Code won't work - All brands\"; last updated: 2023-10-10 16:36:42.859",
+          "message_type": "template",
+          "date_time": "2026-02-15 12:29:54.639"
         },
         {
           "message_media": [],
-          "message_text": "Rykä: I understand. We offer free shipping on all orders over $65. Maybe you can add something else to reach the minimum? We partner with Happy Returns to offer free returns when you drop off your return. You can check out our detailed return policy here: https://ryka.attn.tv/az5f3B6sG6Af Do keep an eye out as our deals will always be shared with our subscribers. Do check out our sales page here: https://ryka.attn.tv/aii1KMik4TMh",
+          "message_text": "LifeStride: I'm sorry to hear that. I have tried on my end, and the code: LSWELC10RJSHZQYH works!\nHave you encountered any error messages? Also, could you kindly share a screenshot of the items in your cart? I'll be happy to look into the issue!",
           "message_type": "agent",
-          "agent": "40539",
-          "message_id": "019c7d25-2528-4dbc-f000-0000fd3d0f67",
-          "date_time": "2026-02-20 17:21:52.327"
-        },
-        {
-          "message_media": [],
-          "message_text": "Thanks....",
-          "message_type": "customer",
-          "date_time": "2026-02-20 17:33:05.468"
-        },
-        {
-          "message_media": [],
-          "message_text": "Rykä: You're welcome! Please don't hesitate to reach out anytime, I'm just a text away. ",
-          "message_type": "agent",
-          "agent": "109617",
-          "message_id": "019c7d34-adf2-4f9e-f000-0000fd3d0f67",
-          "date_time": "2026-02-20 17:38:50.384"
+          "agent": "109964",
+          "message_id": "019c625a-0cac-43ff-f000-0000fb93a56c",
+          "date_time": "2026-02-15 12:29:54.641"
         }
       ],
       "notes": {
         "escalate": [
-          "When ESC always use ESC shortcut",
-          "When ESC discount/promotion inquiries always include the exact offer/discount/promo code in your escalation notes",
-          "Include details of the cx's issue in your ESC notes & any relevant cx information"
+          "When ESC include full name for all escalations",
+          "For code issues, include email address and code"
         ]
       },
       "rightPanel": {
         "source": {
           "label": "Website",
-          "value": "https://ryka.com",
+          "value": "https://lifestride.com/",
           "date": ""
         },
         "browsingHistory": [
           {
-            "item": "devotion plus 3 walking sneaker",
-            "link": "https://www.ryka.com/product/womens-devotion-plus-3-walking-sneaker-5260574/navy-61989",
-            "timeAgo": "2026-02-20"
+            "item": "chelsea loafer",
+            "link": "https://www.lifestride.com/product/womens-chelsea-loafer-5281046/lux-navy-patent-leather-86554",
+            "timeAgo": "2026-02-15"
           },
           {
-            "item": "sky walk walking sneaker",
-            "link": "https://www.ryka.com/product/womens-sky-walk-walking-sneaker-5232883/black-blush-leather-28656",
-            "timeAgo": "2026-02-20"
+            "item": "london mule loafer",
+            "link": "https://www.lifestride.com/product/womens-london-mule-loafer-5281059/cali-wine-croc-faux-leather-86565?icid=CircusRecommendationsPDPBottom_LifeStride_5281059_20004_86565",
+            "timeAgo": "2026-02-15"
+          },
+          {
+            "item": "london mule loafer",
+            "link": "https://www.lifestride.com/product/womens-london-mule-loafer-5281059/dark-brown-croc-faux-leather-86564",
+            "timeAgo": "2026-02-15"
+          },
+          {
+            "item": "london mule loafer",
+            "link": "https://www.lifestride.com/product/womens-london-mule-loafer-5281059/dark-brown-croc-faux-leather-86564",
+            "timeAgo": "2026-02-15"
+          },
+          {
+            "item": "london mule loafer",
+            "link": "https://www.lifestride.com/product/womens-london-mule-loafer-5281059/cali-wine-croc-faux-leather-86565",
+            "timeAgo": "2026-02-15"
+          }
+        ],
+        "orders": [
+          {
+            "orderNumber": "005029267811",
+            "orderDate": "2026-02-15",
+            "items": [
+              {
+                "name": "london mule loafer",
+                "price": 24,
+                "productLink": "https://www.famousfootwear.com/product/lifestride-womens-london-mule-loafer-5281059/cali-wine-croc-faux-leather-86565"
+              },
+              {
+                "name": "london mule loafer",
+                "price": 24,
+                "productLink": "https://dev.goggles4u.info/g4u/rectangle-eyeglasses-141580.html"
+              },
+              {
+                "name": "london mule loafer",
+                "price": 24,
+                "productLink": "https://venue.com/product/12-bottle-deluxe-wine-cellar/"
+              },
+              {
+                "name": "london mule loafer",
+                "price": 24,
+                "productLink": "https://tgmskateboards.com/mvp-disc-golf-fission-volt-fairway-driver-8-5-0-5-2-hot-pink-173g/"
+              },
+              {
+                "name": "london mule loafer",
+                "price": 24,
+                "productLink": "https://ridelikeaninja.com/product/fundamental-skills-womens-only-xx000000w-master-template-copy-92/"
+              },
+              {
+                "name": "london mule loafer",
+                "price": 24,
+                "productLink": "https://store.dailysteals.com/products/my-burberry-by-burberry-for-women-1-6-oz-edp-spray/"
+              },
+              {
+                "name": "london mule loafer",
+                "price": 24,
+                "productLink": "https://www.homeshoppingmalls.com/baxton-studio-warwick-modern-contemporary-espresso-brown-finished-wood-sideboard-ca-6279-01-dark-brown"
+              },
+              {
+                "name": "london mule loafer",
+                "price": 24,
+                "productLink": "https://www.enjukuracing.com/products/boost-products-silicone-reducer-elbow-45-degrees-102-76mm-4-3-id-black.html"
+              },
+              {
+                "name": "london mule loafer",
+                "price": 24,
+                "productLink": "https://www.vitalitymedical.com/20150328-86565.html"
+              },
+              {
+                "name": "london mule loafer",
+                "price": 24,
+                "productLink": "https://www.lillianvernon.com/trio-of-roses-deluxe-address-labels-l22912.html"
+              },
+              {
+                "name": "london mule loafer",
+                "price": 24,
+                "productLink": "https://www.thertastore.com/tuscan-kona-brown-24-tilt-out-tray-2367920-86565.html"
+              },
+              {
+                "name": "london mule loafer",
+                "price": 24,
+                "productLink": "https://www.christianbook.com/Christian/Books/product?item_no=86565"
+              },
+              {
+                "name": "london mule loafer",
+                "price": 24,
+                "productLink": "https://genuinestyle.com/products/serengeti-ss547004-shelton-mens-sunglasses-matte-khaki-mineral-polarised-555nm/"
+              },
+              {
+                "name": "london mule loafer",
+                "price": 24,
+                "productLink": "https://trustypetsupplies.co.uk/product/carnilove-ostrich-with-blackberries-dog-treats-200g/"
+              },
+              {
+                "name": "london mule loafer",
+                "price": 24,
+                "productLink": "https://www.adriatic.com.au/product/chenac-220cm-buffet-natural/"
+              },
+              {
+                "name": "london mule loafer",
+                "price": 24,
+                "productLink": "https://www.misfitsmarket.com/shop/aisle?addToCart=86565"
+              },
+              {
+                "name": "london mule loafer",
+                "price": 24,
+                "productLink": "https://www.chairish.com/product/id/86565?utm_content=Rugs&utm_medium=text&utm_source=attentive&utm_term=86565"
+              },
+              {
+                "name": "london mule loafer",
+                "price": 24,
+                "productLink": "https://ansgear.com/planet-eclipse-14-shaft-fl-aluminum-barrel-front-cobalt/"
+              },
+              {
+                "name": "london mule loafer",
+                "price": 24,
+                "productLink": "https://greekgear.com/alpha-phi-festive-glass-oval-ornament.html"
+              },
+              {
+                "name": "london mule loafer",
+                "price": 24,
+                "productLink": "https://www.goggles4u.com/g4u/rectangle-eyeglasses-141580.html"
+              },
+              {
+                "name": "london mule loafer",
+                "price": 24,
+                "productLink": "https://www.spicylingerie.com/ms-m270.html"
+              },
+              {
+                "name": "london mule loafer",
+                "price": 24,
+                "productLink": "https://danasafetysupply.com/nar-zz-0049-surgical-tape-6-per-pack/"
+              },
+              {
+                "name": "london mule loafer",
+                "price": 24,
+                "productLink": "https://www.prioritytire.com/achilles-four-seasons-155-70r13-75t-as-a-s-all-season-tire"
+              },
+              {
+                "name": "london mule loafer",
+                "price": 24,
+                "productLink": "https://www.claires.com/us/black-enamel-and-silver-stud-earrings---9-pack-157471.html?cgid=2757"
+              },
+              {
+                "name": "london mule loafer",
+                "price": 24,
+                "productLink": "https://x-ph.com/fabspeed-porsche-991-2-speedster-race-competition-exhaust-system-package-2019-2020/"
+              },
+              {
+                "name": "london mule loafer",
+                "price": 24,
+                "productLink": "https://www.charlies.co.uk/coleman-galiano-2-man-pop-up-tent/"
+              },
+              {
+                "name": "london mule loafer",
+                "price": 24,
+                "productLink": "https://www.silverts.com/ca/in-outdoor-easy-closure-open-toe-sandal-in-black-black.html"
+              },
+              {
+                "name": "london mule loafer",
+                "price": 24,
+                "productLink": "https://www.lifestride.com/product/womens-london-mule-loafer-5281059/cali-wine-croc-faux-leather-86565"
+              },
+              {
+                "name": "london mule loafer",
+                "price": 24,
+                "productLink": "https://www.charlies.co.uk/coleman-galiano-2-2-person-pop-up-tent/"
+              },
+              {
+                "name": "london mule loafer",
+                "price": 24,
+                "productLink": "https://www.everest.com/seirus-all-wther-glv-polartec-blk.html"
+              },
+              {
+                "name": "london mule loafer",
+                "price": 24,
+                "productLink": "https://www.bambibaby.com/natart-classic-twin-bed-39-in-elephant-grey/"
+              },
+              {
+                "name": "london mule loafer",
+                "price": 24,
+                "productLink": "https://www.prioritytire.com/en/1-wheel-15-84-d-window-15x8-5x114-3-gloss-black-6et-83cb-84h5865ns6.html"
+              },
+              {
+                "name": "london mule loafer",
+                "price": 24,
+                "productLink": "https://checkout.fascinatingdiamonds.com/1-12-carat-princess-diamond-i400-10a/"
+              },
+              {
+                "name": "london mule loafer",
+                "price": 24,
+                "productLink": "https://safetysourcellc.com/office-supplies/file-folders-portable-storage-box-files/file-jackets/sleeves/wallets/smead-smd73230-supertab-pockets-redrope-3-1-2-expansion-letter-25-box/"
+              }
+            ],
+            "total": 24,
+            "coupon": "teach555",
+            "date_time": "2026-02-15 16:59:44.688"
           }
         ]
       },
@@ -688,96 +873,106 @@
       "has_shopify": false
     },
     "100": {
-      "id": "019c536e-8073-4c7d-f000-0000b95103f4",
-      "companyName": "Dr.Westin Childs",
-      "companyWebsite": "https://restartmed.com",
-      "agentName": "Kat",
+      "id": "019c5990-b15b-4dd9-f000-00001735f315",
+      "companyName": "The Art of Shaving",
+      "companyWebsite": "https://theartofshaving.com",
+      "agentName": "John",
       "messageTone": "Polished",
       "conversation": [
         {
           "message_media": [],
-          "message_text": "Dr. Westin Childs: Hello! This is Kat. Thanks for checking out our store! https://drwc.attn.tv/ak0IYNBFMKAN \n\nDo you have any questions about Childs' supplements? Let me know! Stop to stop",
+          "message_text": "The Art of Shaving: Up to 30% Off for our Valentine's Sale!\n10% off $50\n20% off $100\n30% off $150. \nNo code required\naos.attn.tv/aqRsZG56j4qE ",
           "message_type": "system",
-          "date_time": "2026-02-12 13:40:18.792"
+          "date_time": "2026-02-02 19:00:28.688"
         },
         {
           "message_media": [],
-          "message_text": "No questions, just like to read his newsletter emails",
+          "message_text": "The Art of Shaving: You are already subscribed. Click here to shop now: theartofshaving.com.",
+          "message_type": "system",
+          "date_time": "2026-02-13 18:55:53.148"
+        },
+        {
+          "message_media": [],
+          "message_text": "The Art of Shaving: Hey, this is John. Thanks for checking us out! https://aos.attn.tv/aMypGqMjncZ- \n\nAny specific shaving questions I can help with?",
+          "message_type": "system",
+          "date_time": "2026-02-13 19:07:04.817"
+        },
+        {
+          "message_media": [],
+          "message_text": "John I'm trying to log into my old account but not having any luck.  I like to look at razor s, can you help?",
           "message_type": "customer",
-          "date_time": "2026-02-12 14:44:53.058"
+          "date_time": "2026-02-13 19:18:17.561"
         },
         {
           "message_media": [],
-          "message_text": "Dr. Westin Childs: No worries! Feel free to reach out if there's anything I can help with, and in the meantime, check out our available products here: https://drwc.attn.tv/apbMSOGapUg5",
+          "message_text": "Template used: \"Is the site secure? - All brands\"; last updated: 2023-10-10 17:49:13.114",
+          "message_type": "template",
+          "date_time": "2026-02-13 19:33:00.801"
+        },
+        {
+          "message_media": [],
+          "message_text": "Template used: \"Site won't work - All brands\"; last updated: 2025-07-16 17:54:02.115",
+          "message_type": "template",
+          "date_time": "2026-02-13 19:33:00.801"
+        },
+        {
+          "message_media": [],
+          "message_text": "The Art of Shaving: Hi, thanks for reaching out. I'm so sorry to hear that. First, I might suggest trying to open the site in an incognito or private window to rule out any browser cache or extension issues. Let me know how that goes.",
           "message_type": "agent",
-          "agent": "109964",
-          "message_id": "019c5363-e23b-49d0-f000-0000b95103f4",
-          "date_time": "2026-02-12 14:46:20.891"
-        },
-        {
-          "message_media": [],
-          "message_text": "Thank you!",
-          "message_type": "customer",
-          "date_time": "2026-02-12 14:47:02.824"
-        },
-        {
-          "message_media": [],
-          "message_text": "Dr. Westin Childs: My pleasure! Have a good day!",
-          "message_type": "agent",
-          "agent": "87295",
-          "message_id": "019c536e-8073-4c7d-f000-0000b95103f4",
-          "date_time": "2026-02-12 14:57:56.761"
+          "agent": "109630",
+          "message_id": "019c5990-b15b-4dd9-f000-00001735f315",
+          "date_time": "2026-02-13 19:33:00.805"
         }
       ],
       "notes": {
         "send_to_cs": [
-          "Send to CS for post purchase issues, use PPI shortcut"
+          "Send to CS if cx wants us to place order for them, use CS shortcut"
+        ],
+        "templates": [
+          "For adverse events or product quality complaints, use PS shortcut"
+        ],
+        "tone": [
+          "Ensure the word \"staging\" isn't in any link you send"
         ]
       },
       "rightPanel": {
         "source": {
           "label": "Website",
-          "value": "https://restartmed.com",
+          "value": "https://theartofshaving.com",
           "date": ""
         },
         "browsingHistory": [
           {
-            "item": "https://www.restartmed.com/product/thyroid-nodule-rx/?utm_source=Restart+Medical+Newsletter&utm_campaign=ea606a4d46-EMAIL_CAMPAIGN_2026_02_11_08_29&utm_medium=email&utm_term=0_-ea606a4d46-604977689&goal=0_5171b97996-ea606a4d46-604977689&mc_cid=ea606a4d46&mc_eid=23bca92eb8",
-            "link": "https://www.restartmed.com/product/thyroid-nodule-rx/?utm_source=Restart+Medical+Newsletter&utm_campaign=ea606a4d46-EMAIL_CAMPAIGN_2026_02_11_08_29&utm_medium=email&utm_term=0_-ea606a4d46-604977689&goal=0_5171b97996-ea606a4d46-604977689&mc_cid=ea606a4d46&mc_eid=23bca92eb8",
-            "timeAgo": "2026-02-12"
+            "item": "Core Elements Bundle  -  Sandalwood",
+            "link": "https://www.theartofshaving.com/products/all/core-elements-bundle-sandalwood/?utm_campaign=Concierge-Site-Visitor-3&utm_medium=sms&utm_source=taossms&externalId=_Jr9k",
+            "timeAgo": "2026-02-14"
           },
           {
-            "item": "https://www.restartmed.com/product/thyro-adk/",
-            "link": "https://www.restartmed.com/product/thyro-adk/",
-            "timeAgo": "2026-02-05"
+            "item": "Core Elements Bundle  -  Sandalwood",
+            "link": "https://www.theartofshaving.com/products/all/core-elements-bundle-sandalwood/?utm_campaign=Concierge-Site-Visitor-3&utm_medium=sms&utm_source=taossms&externalId=_Jr9k",
+            "timeAgo": "2026-02-14"
           },
           {
-            "item": "https://www.restartmed.com/product/thyroid-glandular-plus/",
-            "link": "https://www.restartmed.com/product/thyroid-glandular-plus/",
-            "timeAgo": "2026-02-03"
+            "item": "Core Elements Bundle  -  Sandalwood",
+            "link": "https://www.theartofshaving.com/products/all/core-elements-bundle-sandalwood/",
+            "timeAgo": "2026-02-14"
           },
           {
-            "item": "https://www.restartmed.com/product/t3-conversion-booster/",
-            "link": "https://www.restartmed.com/product/t3-conversion-booster/",
-            "timeAgo": "2026-01-04"
-          }
-        ],
-        "orders": [
+            "item": "Sandalwood Beard Comb",
+            "link": "https://www.theartofshaving.com/products/shaving-accessories/sandalwood-beard-comb/?utm_campaign=Concierge-Site-Visitor-3&utm_medium=sms&externalId=_Jr9k&utm_source=taossms",
+            "timeAgo": "2024-01-24"
+          },
           {
-            "orderNumber": "288922",
-            "orderDate": "2025-04-01",
-            "items": [
-              {
-                "name": "Thyroid Glandular+ | Freeze Dried, Grass-Fed Bovine Desiccated Thyroid Supplement (Raw) 150 mg",
-                "price": 46.75
-              }
-            ],
-            "total": 46.75,
-            "date_time": "2025-04-01 14:37:48.947"
+            "item": "Sandalwood Beard Comb",
+            "link": "https://www.theartofshaving.com/products/shaving-accessories/sandalwood-beard-comb/?utm_medium=sms&utm_source=taossms&utm_campaign=FINAL_HOURS_50DOLLAR_RAZOR_19Jan24&externalId=_Jr9k",
+            "timeAgo": "2024-01-24"
           }
         ]
       },
-      "escalation_preferences": [],
+      "escalation_preferences": [
+        "Adverse Events",
+        "Product Quality Complaints"
+      ],
       "blocklisted_words": [],
       "has_shopify": false
     }

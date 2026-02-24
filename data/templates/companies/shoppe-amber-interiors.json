@@ -1,0 +1,276 @@
+{
+  "companyKey": "shoppe amber interiors",
+  "templates": [
+    {
+      "name": "Does your trade program offer tax exemption?",
+      "content": "Yes! Just send an email to trade@shoppeamberinteriors.com and our team will be more than happy to assist you with this.",
+      "id": "5f6045ef-3103-4809-ac1d-e4d49a7f59d6",
+      "companyName": "Shoppe Amber Interiors"
+    },
+    {
+      "name": "Can I return an item that has been purchased online, in-store?",
+      "content": "Yes, we accept online returns in-store. Simply visit our Returns page here: https://shoppe.amberinteriordesign.com/apps/returns to begin a return for your order. Select \"Return in Store\" and choose your nearest Shoppe location to complete your return.",
+      "id": "3482b5b6-a321-41ab-a22b-50ac23531a86",
+      "companyName": "Shoppe Amber Interiors"
+    },
+    {
+      "name": "Can I choose pillows for my gift registry?",
+      "content": "Yes! However, we cannot guarantee how long an item will remain available for purchase. Most of our pillows are one of a kind and made with vintage textiles so we typically do not have multiples in stock. This same rule applies to rugs and other vintage items.",
+      "id": "a4ebd1b7-6c07-48d1-b0a9-ed96b6d7f0bc",
+      "companyName": "Shoppe Amber Interiors"
+    },
+    {
+      "name": "Return policy",
+      "content": "You can check out our detailed return policy here: https://shoppe.amberinteriordesign.com/pages/customer-care#returns",
+      "id": "7d1c3b03-34ed-4208-b594-64011770a023",
+      "shortcut": "rp",
+      "companyName": "Shoppe Amber Interiors"
+    },
+    {
+      "name": "Can I edit my gift registry at any time?",
+      "content": "Yes, you can edit your registry at any time or date.",
+      "id": "0db92d72-245b-45ed-bb6d-f8cf11291920",
+      "companyName": "Shoppe Amber Interiors"
+    },
+    {
+      "name": "Customer support",
+      "content": "The best way to handle this is to email us directly at shoppe@shoppeamberinteriors.com. Our team is happy to help!",
+      "id": "29e454b4-cea8-42c1-a6cc-b63950d2e554",
+      "shortcut": "cs",
+      "companyName": "Shoppe Amber Interiors"
+    },
+    {
+      "name": "Rewards / referral",
+      "content": "We have a rewards program where you can earn points to redeem on future purchases. Check it out here - https://shoppe.amberinteriordesign.com/pages/shoppe-perks",
+      "id": "0b030414-dfb3-4211-8a9c-30cac43420da",
+      "shortcut": "rwd",
+      "companyName": "Shoppe Amber Interiors"
+    },
+    {
+      "name": "How do I request swatches/samples?",
+      "content": "You can request swatches at the following link: https://shoppe.amberinteriordesign.com/collections/request-swatches-finishes Simply choose the product you're interested in, select your swatches and proceed to the checkout to place your order. Then, simply repeat the process if you're interested in more than one product. Most fabric swatches are free ($0.00). Specialty fabrics & Wood Swatches are $25.00 per swatch.",
+      "id": "78626b30-08b0-4506-b2d0-2758450ef2b6",
+      "companyName": "Shoppe Amber Interiors"
+    },
+    {
+      "name": "Where do you ship from?",
+      "content": "All orders are shipped from Los Angeles, California.",
+      "id": "366bcbbf-a267-49a6-aa77-9a920177e04c",
+      "companyName": "Shoppe Amber Interiors"
+    },
+    {
+      "name": "Military / First responder / Healthcare / Teacher discount",
+      "content": "Thank you for your service! We don't have any specific discounts like that but if it helps, you can check out the items we have on sale here: https://shoppe.amberinteriordesign.com/collections/sale",
+      "id": "14856a20-034d-4ac3-8bfb-19cccdb2c832",
+      "shortcut": "ms",
+      "companyName": "Shoppe Amber Interiors"
+    },
+    {
+      "name": "Cancel / edit order",
+      "content": "We offer a 24-hour grace period for order cancellations as long as your order has not shipped. Should you wish to cancel your order, please contact us at shoppe@shoppeamberinteriors.com or call us at (888) 670-3689 within 24 hours for assistance.",
+      "id": "116560a4-521b-41f9-a26e-6a2f1c1a39d0",
+      "shortcut": "ced",
+      "companyName": "Shoppe Amber Interiors"
+    },
+    {
+      "name": "Do you offer international shipping?",
+      "content": "At this time we do not offer shipping outside of the US and Canada.",
+      "id": "0d7da868-c9ab-41e3-9ff5-552b10b6ac53",
+      "companyName": "Shoppe Amber Interiors"
+    },
+    {
+      "name": "Do you offer local delivery?",
+      "content": "Local furniture delivery is available within the Los Angeles area. This service is available in a 50-mile radius from Los Angeles zip code 90048 incurring a flat rate of $200. To determine eligibility, simply select L.A. Furniture Delivery at checkout and enter your postal code.",
+      "id": "7c970f01-b2b5-40bc-8060-424203595fdd",
+      "companyName": "Shoppe Amber Interiors"
+    },
+    {
+      "name": "Social Media",
+      "content": "Give us a follow on IG: https://www.instagram.com/shoppeamberinteriors/ and FB here: https://www.facebook.com/shoppeamberinteriors/",
+      "id": "61ddcc2e-1b84-4c34-9841-c2b37a3de595",
+      "shortcut": "smd",
+      "companyName": "Shoppe Amber Interiors"
+    },
+    {
+      "name": "When does my gift registry expire?",
+      "content": "Registries expire the day after the event.",
+      "id": "750144aa-7521-4cbb-a88a-518bfae41138",
+      "companyName": "Shoppe Amber Interiors"
+    },
+    {
+      "name": "Do you offer in store pick up?",
+      "content": "In-store pickup is available for a majority of our items and is dependent upon stock availability. If an item is unavailable at your selected store, please note the item must be removed in order to proceed with checkout for store pick-up. Unfortunately at this time we're not able to offer store pick-up and online fulfillment in a single order. Should your order contain items such as large furniture pieces, artwork, or select lighting, please proceed with shipping as your delivery method.",
+      "id": "bdd40fde-08db-46bb-ac78-1ba94918d45c",
+      "companyName": "Shoppe Amber Interiors"
+    },
+    {
+      "name": "Do you offer expedited shipping?",
+      "content": "We offer expedited shipping for domestic orders within the 48 contiguous states. By selecting expedited shipping at checkout, your in-stock orders will arrive within 2 days if placed by 11am PST, Monday through Friday. If your order is placed after 11am PST, orders will ship the next day and you will receive your order within 3 days. Oversized or large furniture items are not eligible for expedited shipping.",
+      "id": "be9aaea6-9759-4da8-af37-2d2fcb213c50",
+      "companyName": "Shoppe Amber Interiors"
+    },
+    {
+      "name": "How do I file a claim (Mulberry)?",
+      "content": "Mulberry makes it easy to file a claim online through their customer dashboard, no receipts needed! You can also contact their customer support team 24/7 at support@getmulberry.com, or by calling (917) 994-6394.",
+      "id": "5f9ed1f0-acf3-44c2-8919-b4bfd49b350b",
+      "companyName": "Shoppe Amber Interiors"
+    },
+    {
+      "name": "Do you offer white glove delivery?",
+      "content": "Oversized items will be delivered curbside unless otherwise noted as \"White Glove\". Please note that white glove delivery is dependent upon the availability of the service with each freight carrier and is not always available. If you would like to confirm if your item is shipped white glove please contact us at shoppe@shoppeamberinteriors.com before placing an order. We make every effort to offer white glove delivery in most instances; however, it's not a guarantee that a 3rd party carrier offers white glove delivery service. \n\nWhite glove delivery service includes a two-man delivery team, in-home placement in the room of your choosing, and removal of any packaging. Please note, our white glove delivery service does not include the removal of any existing furniture.",
+      "id": "93bd7c2f-b6a0-43c5-bfc0-2821510666d8",
+      "companyName": "Shoppe Amber Interiors"
+    },
+    {
+      "name": "Do you offer free returns?",
+      "content": "Please note all original shipping charges are non-refundable and return shipping costs are the responsibility of the buyer. We recommend all returns be sent insured and with tracking as we cannot be held responsible for lost or damaged products.",
+      "id": "92d84066-5964-44bc-a795-c0590ff68cd0",
+      "companyName": "Shoppe Amber Interiors"
+    },
+    {
+      "name": "What does COM & COL mean?",
+      "content": "We offer a Customer's Own Material (COM) option for certain products. This allows you to custom tailor certain Shoppe furniture with your own fabrics. We also offer a Customer's Own Leather (COL) option for certain products. This allows you to custom tailor certain Shoppe furniture with your own leather.",
+      "id": "aff419ca-eb91-4db1-ae69-2515830d6d94",
+      "companyName": "Shoppe Amber Interiors"
+    },
+    {
+      "name": "How do I create a gift registy?",
+      "content": "You can create a registry here: https://shoppe.amberinteriordesign.com/apps/giftregistry/signup You will be required to create a Shoppe account when creating a Registry account.",
+      "id": "a325aeff-c5f0-43b6-b934-ce8b8dfec1a5",
+      "companyName": "Shoppe Amber Interiors"
+    },
+    {
+      "name": "Will the freight carrier contact me before delivery?",
+      "content": "Once your order has been processed, you will receive an email regarding your shipment and carrier. Most carriers schedule deliveries Monday through Friday between 9am-5pm. Your freight carrier will contact you within 1-2 days of delivery to finalize delivery, typically with a 4-hour window.",
+      "id": "87e27143-f0ed-4e76-804d-92c6878ede08",
+      "companyName": "Shoppe Amber Interiors"
+    },
+    {
+      "name": "How do I add a protection plan to my purchase?",
+      "content": "Items that are eligible for a Shoppe Care protection plan will have a button above 'add to cart' where you can purchase a protection plan. Simply click 'protect your purchase' from the product page and select the protection plan you'd like for your item. You'll then see the plan as a line item in your shopping cart.",
+      "id": "a5393ece-ab41-4cc5-8145-0409cc48f32d",
+      "companyName": "Shoppe Amber Interiors"
+    },
+    {
+      "name": "Shipping time",
+      "content": "Orders with in-stock inventory will be fulfilled within 5-7 business days. Large in-stock furniture items will ship in 2-4 weeks and made to order items are made based on the lead times displayed on each product page which does not include shipment time. We usually ship via UPS or USPS and oversized items will be shipped via freight carriers. For all types of orders, you will receive tracking information via email as soon as it's shipped.",
+      "id": "5ba80c23-82bf-4264-9534-188ccc4e3360",
+      "shortcut": "shp",
+      "companyName": "Shoppe Amber Interiors"
+    },
+    {
+      "name": "Do you offer trade discounts?",
+      "content": "Yes, we offer a 15% trade discount for industry professionals. You can find more information on our trade program here: https://shoppe.amberinteriordesign.com/pages/designer-trade",
+      "id": "e00f6313-9549-40b3-bd11-2c5d7fefd79e",
+      "companyName": "Shoppe Amber Interiors"
+    },
+    {
+      "name": "How do I find a gift registry?",
+      "content": "Gift Registries can be found here: https://shoppe.amberinteriordesign.com/apps/giftregistry/find?rsid=1",
+      "id": "4c6bbd3a-9db3-4560-a625-20b3fc3c78c6",
+      "companyName": "Shoppe Amber Interiors"
+    },
+    {
+      "name": "Do you offer same day delivery?",
+      "content": "We offer same day and next day delivery for a flat rate of $25 within a 10-mile radius of our Calabasas, Newport Beach, and Marin store locations, and within a 15-mile radius of our Pacific Palisades store location. All items must be stocked at the qualifying location in order for this delivery option to appear during checkout. Please note that furniture, large rugs, artwork and most lighting do not qualify for same day delivery. Should your order be placed outside of normal business hours, the delivery will be made next day.",
+      "id": "a2d0da27-dd17-42d7-aa4b-d3d48823a2b4",
+      "companyName": "Shoppe Amber Interiors"
+    },
+    {
+      "name": "Free shipping",
+      "content": "We offer free shipping on orders up to $10. For orders above this, you can check out our shipping rates here: https://shoppe.amberinteriordesign.com/pages/customer-care#shipping",
+      "id": "2b00b2a6-6232-48cd-9704-7deeedbd3aa4",
+      "shortcut": "fs",
+      "companyName": "Shoppe Amber Interiors"
+    },
+    {
+      "name": "What is Shoppe Care?",
+      "content": "The Shoppe Care protection plan is a limited warranty coverage for your purchase. This product coverage plan includes most furniture pieces, rugs, lighting, rugs and more.",
+      "id": "12b83324-c35e-432e-b22d-d4edaa964ec7",
+      "companyName": "Shoppe Amber Interiors"
+    },
+    {
+      "name": "What does the Shoppe Care protection plan cover?",
+      "content": "On eligible products, the Shoppe Care protection plan covers everything from stains & spills, to accidental rips & tears, seam separation, damage from liquid marks & rings, chipped, dented & scratched surfaces, burn & heat marks as well as defects & malfunctions.",
+      "id": "c875bd1a-d084-4142-aef0-6884b6377e66",
+      "companyName": "Shoppe Amber Interiors"
+    },
+    {
+      "name": "How do I start a return?",
+      "content": "You can start your return here: https://shoppe.amberinteriordesign.com/apps/returns",
+      "id": "f9c77d99-8bb1-49a0-9beb-e8757d944095",
+      "companyName": "Shoppe Amber Interiors"
+    },
+    {
+      "name": "Phone support",
+      "content": "You can give us a call at (888)-670-3689 or let me know if I can help via text, it may be faster.",
+      "id": "eacbea9d-eb3b-4809-a2e3-a23a6cf74217",
+      "shortcut": "ps",
+      "companyName": "Shoppe Amber Interiors"
+    },
+    {
+      "name": "Store location / retailer",
+      "content": "You can find us near you here: https://shoppe.amberinteriordesign.com/pages/visit-us",
+      "id": "e52d8cc4-771c-436e-927c-9db02690769f",
+      "shortcut": "sl",
+      "companyName": "Shoppe Amber Interiors"
+    },
+    {
+      "name": "Are your packing materials sustainable?",
+      "content": "We use biodegradable packing peanuts in all of our shipments. They are water-soluble and leave no residue. Place your packing peanuts in the sink and run water over them to dissolve.",
+      "id": "85a53ec3-7df4-41ec-917e-230b36887785",
+      "companyName": "Shoppe Amber Interiors"
+    },
+    {
+      "name": "Brand ambassador / sponsorship / affiliate program",
+      "content": "Thank you for your interest! The best way to discuss this is to email us directly at shoppe@shoppeamberinteriors.com. Our team is happy to chat.",
+      "id": "0b245946-9acb-43ee-8209-a5087633050c",
+      "shortcut": "ams",
+      "companyName": "Shoppe Amber Interiors"
+    },
+    {
+      "name": "Can I purchase a protection plan after I receive my item?",
+      "content": "Yes, you have 15 days after delivery to decide if you would like to add Shoppe Care protection coverage to your purchase.",
+      "id": "a1f346e4-a2df-4be3-9a87-d2e19e5426b0",
+      "companyName": "Shoppe Amber Interiors"
+    },
+    {
+      "name": "Wholesale inquiries",
+      "content": "Thank you for your interest! The best way to discuss wholesale is to email us directly at shoppe@shoppeamberinteriors.com. Our team is happy to chat.",
+      "id": "d857b537-d49c-4cac-8447-5fa3b6159a74",
+      "shortcut": "wls",
+      "companyName": "Shoppe Amber Interiors"
+    },
+    {
+      "name": "How do I redeem my points",
+      "content": "Please make sure you're logged into your account with your Shoppe Perks email to redeem your points at checkout. At checkout, you'll see a slider to apply eligible points towards your purchase. You can find more info here - https://shoppeamberinteriors.attn.tv/sl/vRInl1AE",
+      "id": "06059cb9-9c65-49bf-ac0d-9c124e1fe92b",
+      "companyName": "Shoppe Amber Interiors"
+    },
+    {
+      "name": "Sales Collection",
+      "content": "You can take a look at our sale collection here: https://shoppe.amberinteriordesign.com/collections/sale",
+      "id": "d3967157-7372-4d49-8e64-a5cec85b7a58",
+      "shortcut": "spg",
+      "companyName": "Shoppe Amber Interiors"
+    },
+    {
+      "name": "How do I care for my items?",
+      "content": "You can view our Care Guide here: https://cdn.shopify.com/s/files/1/0233/8069/files/Care_Instructions_SAI_6.23.pdf?v=1688056140 For velvet fabrics it's important to not allow for heavy/sharp edges to rest or lean onto the velvets to avoid permanent marks. To clean up stains, we recommend blotting the stain with a clean dry cloth to remove excess stain residue. Then use a mild dishwashing detergent with water and apply only the suds onto the stain and reblotting with a dry cloth. Then let it dry.",
+      "id": "0be0f9a9-654b-4950-8779-3792061a343d",
+      "companyName": "Shoppe Amber Interiors"
+    },
+    {
+      "name": "Can you check on my job/work application?",
+      "content": "All job applications are reviewed directly through our Careers page, and if your application is selected, a member of our team will be in touch with you directly. Unfortunately, we don't have visibility into the status of applications from this channel.",
+      "id": "9eca9f13-b40b-46f2-99fc-b1be84db9718",
+      "companyName": "Shoppe Amber Interiors"
+    },
+    {
+      "name": "Price matching",
+      "content": "Unfortunately, we do not price match.",
+      "id": "26377b09-2a1e-4cf5-bef0-b057e7990283",
+      "companyName": "Shoppe Amber Interiors"
+    }
+  ]
+}

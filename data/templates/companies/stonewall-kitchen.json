@@ -1,0 +1,420 @@
+{
+  "companyKey": "stonewall kitchen",
+  "templates": [
+    {
+      "name": "Rewards / referral",
+      "content": "I'm afraid we don't have a rewards program anymore. I'm sorry for the inconvenience.",
+      "id": "62cbcf42-288a-41b6-a559-9c1a417c7668",
+      "shortcut": "rwd",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "Do items on barn sale have a shorter shelf life?",
+      "content": "All items are first-quality, but please note, some food items in Barn Sale may have a shorter shelf life-so check your labels (and eat them first!). You can check out all Barn Sale items here: https://www.stonewallkitchen.com/barn-sale/all-barn-sale/",
+      "id": "482f8c46-73e2-4559-939f-74cbd982f4e9",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "Can I use the code/promotion in store?",
+      "content": "I'm afraid codes and promotions can only be redeemed online. Really sorry about that!",
+      "id": "c44960ac-eb6b-498c-982b-fc7be45e49f1",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "Can I ship to a PO Box?",
+      "content": "We partner with UPS and USPS for standard delivery. Please provide both physical and PO Box address information if both are available. Your carrier will be indicated on your shipment confirmation.",
+      "id": "2aa6a0fc-4c1a-4712-a91f-be6a50c46b1a",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "When will my catalog arrive if I request it today?",
+      "content": "We will send out your catalog in approximately 2 weeks after a request has been put in.",
+      "id": "ade38ec4-d62a-49d2-8a41-76df92f030dd",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "Is pricing online the same as it is found in-store?",
+      "content": "I'm afraid not as we frequently provide unique promotions, specials, and giveaways online that cannot be redeemed in-store.",
+      "id": "4c1555b0-f751-489f-81e3-6a970ee07e49",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "Are your products gluten-free?",
+      "content": "Approximately 90% of our food products are gluten-free (not made from wheat, oats, rye, or barley (malt)). The products that do contain gluten are fully disclosed in the ingredient list - even if they are a sub-ingredient. For those products that do contain gluten, we continue to work on developing gluten-free options whenever possible.",
+      "id": "c3bf5297-5164-4ca1-b45e-1a1ee6cf72c0",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "Are your products all natural?",
+      "content": "While the term has never fully been defined, we based the designation \"All Natural\" to products that do not contain ingredients on the Whole Foods unapproved list. We have always and will continue to avoid using artificial colors, flavors or any chemical preservatives, unless it is necessary for the safety of our Guests. The vast majority of our products, branded ~95%, have clean label with nothing artificial.",
+      "id": "d4e451ab-22db-40b9-af93-ff4db90d6781",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "I live overseas, where can I find your products?",
+      "content": "Currently, we export to over 50 countries! If you would like to find out if there are retailers in your country that carry our products, please contact us directly at internationalsales@stonewallkitchen.com. One of my colleagues will be more than happy to help out!",
+      "id": "21434eff-9cd8-4c06-a113-2fe9539aa67e",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "Order status/order tracking",
+      "content": "You can use our convenient online tool to see the latest updates on your order: https://www.stonewallkitchen.com/login?rurl=1",
+      "id": "a5e2b7fc-b919-4ead-b746-bad406c4e76e",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "Can I bake cupcakes with your cake mixes?",
+      "content": "You can use our cake mixes to create cupcakes. Prepare the batter according to the box instructions and fill the paper-lined muffin tin cups (3/4 full). Bake for 18-22 minutes at the recommended oven temperature or until a toothpick inserted into the center of each cupcake comes out clean. Cool completely before frosting.",
+      "id": "a8ce15ea-0f65-43bd-879a-117a160a8680",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "To help with your decision",
+      "content": "To help with your decision today, check out our gifts collection for any occasion: https://www.stonewallkitchen.com/gifts/gifts-for-every-occasion/",
+      "id": "4ea146dc-0949-4dcd-97d5-cca82e49012c",
+      "shortcut": "hyd",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "Sold Out Product Rec [INSERT LINK]",
+      "content": "Sorry that product is sold out at the moment. What do you think about this instead [link]?",
+      "id": "febce4fc-f6ee-4999-992b-a23c34e32a90",
+      "shortcut": "rstok",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "Just Looking Best Sellers",
+      "content": "Sounds good. Here are our most popular products at the moment:\n\n- https://www.stonewallkitchen.com/food/jams-jellies-marmalades/\n- https://www.stonewallkitchen.com/food/dessert-sauces-toppings/\n- https://www.stonewallkitchen.com/family-of-brands/village-candle/villagecandle-fob-landing.html \n\nDoes anything catch your eye?",
+      "id": "b9d778c1-3d21-4acd-a27b-6017d0247c18",
+      "shortcut": "bs",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "Size of the Black & White Floral Pitcher",
+      "content": "The capacity of the Black & White Floral Pitcher is 64 oz.",
+      "id": "d5ffcf0e-81d1-46ff-8f01-1860c2bc2a75",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "Store location / retailer",
+      "content": "You can find us at a store near you here: https://www.stonewallkitchen.com/shelf-smart-store-locator/ShelfSmartStoreLocator.html",
+      "id": "228b10d6-8c2e-4247-ae21-69e1b2ce7883",
+      "shortcut": "sl",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "Cancel / edit order",
+      "content": "I can check if that's possible. What's the order number, email address and the change you'd like to make?",
+      "id": "78af1805-6a7d-4d3f-90f1-0ec8ffcaa157",
+      "shortcut": "ced",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "Do you have potent candles with 3 wicks?",
+      "content": "Our candles are developed specifically to burn cleanly and evenly with dual wicks, without the need for a heat diffuser or additional wicks.",
+      "id": "8f17ae0e-631d-461c-b3c6-f21675b67b36",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "Military / First responder discount",
+      "content": "Thank you for your service! We don't have any specific discounts like that, but our deals will always be shared with our SMS subscribers or on our website, so keep an eye out!",
+      "id": "113df6a5-e885-4d76-b5f4-53566a77842a",
+      "shortcut": "ms",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "Why is shipping charged?",
+      "content": "We apologize, but shipping surcharges are assessed at the item level only when delivery specifically requires additional care and preparation, so this can't be waived.",
+      "id": "4cbfda80-232f-471a-aa9f-0c381aa5729a",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "Can your oils get frozen?",
+      "content": "We don't recommend that our liquid items be left outside in freezing temps for multiple days, however, incidental exposure shouldn't be a problem.",
+      "id": "7165886e-d831-44c9-b5e1-71b348e2e288",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "Social media",
+      "content": "Give us a follow on IG: https://instagram.com/stonewallkitchen/ and FB here: https://www.facebook.com/StonewallKitchen/",
+      "id": "1a8e2eac-0e9b-4510-ac56-9172e1bc389d",
+      "shortcut": "smd",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "When will my item expire?",
+      "content": "If you'd like to have more assurance of the exact shelf life, please contact our team at guestservices@stonewallkitchen.com. They'll be happy to provide additional information.",
+      "id": "099ab40f-a552-4b56-b696-8a6844bfb565",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "Can I order over the phone?",
+      "content": "You can give us a call at 1-800-826-1752, Monday-Friday 8am-5pm EST to place an order over the phone.",
+      "id": "6e2bb5e0-c00e-4047-b346-ea41cf7803b9",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "Can I add a gift message to my order?",
+      "content": "Yes, a gift message can be provided during checkout.",
+      "id": "f8e3afa2-2d6b-46e2-92c5-4c410d44c3f4",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "Order Upsell",
+      "content": "By the way, I think our Market Tote would go really well with your order: https://www.stonewallkitchen.com/small-jute-market-tote-with-logo-606886.html",
+      "id": "8759b04e-f412-494c-9598-954ff3f0f76e",
+      "shortcut": "ous",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "Has the ingredients for the Maple balsamic salad dressing changed?",
+      "content": "Yes, the ingredients have slightly changed from the original ones.",
+      "id": "e4dc3164-3047-4235-8d5c-9603ff9db23a",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "Wholesale inquiries",
+      "content": "To open a wholesale account and for other wholesale inquiries, please email us at wholesale@stonewallkitchen.com or give us a call at 888-326-5678. If you wish to access our wholesale portal, you can do so here: https://www.stonewallkitchen.com/wholesale-1/wholesale-landing.html",
+      "id": "874e878f-f193-4adc-8a9a-48dbfca49cd3",
+      "shortcut": "wls",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "Shipping time",
+      "content": "We usually ship via UPS and USPS and once shipped it will take 7-10 business days for domestic orders.",
+      "id": "1131c287-3c3d-42a0-8272-61b478430b9e",
+      "shortcut": "shp",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "Can I ship to different/multiple addresses at checkout?",
+      "content": "I'm afraid we can't ship one order to multiple addresses. If you want to ship to more than one address, then you will need to place multiple orders.",
+      "id": "6d466fad-c40d-4db5-bcfc-b9a42f5ecce9",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "Where can I get a catalog?",
+      "content": "You can request for a catalog at the following link: https://www.stonewallkitchen.com/request-a-catalog/swk-spdf-catalog-order.html",
+      "id": "1951bd54-a10f-4af4-adfb-272cbd481b6c",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "Shelf life of jams",
+      "content": "Generally speaking, our jams have more than enough shelf life for you to purchase now and enjoy it in the new year at your leisure - typically at least 12 months. This varies by product and date of manufacture.",
+      "id": "b0971160-a668-463e-907c-2a9d93ed3d2b",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "Customer support",
+      "content": "The best way to handle this is to email us directly at guestservices@stonewallkitchen.com. Our team is happy to help!",
+      "id": "fb8892c0-068f-4246-8315-52d3b7069de0",
+      "shortcut": "cs",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "New England breakfast gift VS the Deluxe New England Breakfast gift",
+      "content": "The Deluxe New England Breakfast comes with Applewood Smoked Bacon and Maple Sausage whereas the standard gift does not.",
+      "id": "de22ee99-4a77-46d3-9442-94c1006ec817",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "What meat comes in The Deluxe New England Breakfast?",
+      "content": "The gift comes with sausage and bacon - and I can say from my personal experience that they're both incredible. 😄",
+      "id": "e7496836-021c-49e1-9059-2e1b2e5e9b6f",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "I used the wrong email on my order! Can you please change it?",
+      "content": "We're unable to change the email address used on orders to trigger the order confirmation being resent, though you can still track it using our website and your order number.",
+      "id": "bb1765e7-7819-4527-a6bf-9065b51e8d2b",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "Return policy",
+      "content": "You can check out our detailed return policy here: https://stonewallkitchen.zendesk.com/hc/en-us/articles/19179876082323-What-is-your-return-policy",
+      "id": "c40a5b1f-9625-4499-b582-4aa06f027d4c",
+      "shortcut": "rp",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "If I buy a basket will all of the items be shipped together?",
+      "content": "If a basket is pictured online for a gift, then your order will come assembled in the basket.",
+      "id": "c9f0cc5b-4e18-44e1-9af8-6a20537520b9",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "Can I order now and ship later?",
+      "content": "We don't offer future ship dates at this time, as availability for many of our items is limited. We apologize for the inconvenience, but hope you'll still be able to make us a part of your holiday celebrations.",
+      "id": "fe3b5cf4-3cf2-4aed-8d01-10e8ba921b80",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "Can I edit my subscription?",
+      "content": "Simply log into your account to manage your subscription service. You can change your next order date or frequency there.",
+      "id": "1c3dbef8-0d79-4b36-8e72-1221be3e3ebd",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "How do I subscribe?",
+      "content": "Subscribing is quick and easy! It can be done while browsing on a product page and selecting Subscription Service or during checkout. Once the order is placed, at anytime you can log into your account to edit the subscription.",
+      "id": "fda962fe-dc85-4d8d-91e8-c8304569f3b2",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "Do I have to pay for shipping for subscriptions?",
+      "content": "All orders under $50 will be charged a shipping fee. We recommend combining your subscription orders to save on shipping or to reach our free shipping threshold.",
+      "id": "84e0780a-7f48-4143-af21-08bced47574e",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "When will I be billed for my subscription order?",
+      "content": "You will be charged once the order ships.",
+      "id": "805fc649-e70b-434d-b1b8-7568640691d0",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "Phone support",
+      "content": "You can give us a call at 1-800-826-1752, Monday-Friday 8 am-5 pm, or let me know if I can help via text, it may be faster.",
+      "id": "afbbe2e5-9a94-4621-a521-db9fcc010b6d",
+      "shortcut": "ps",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "When will your cooking classes be released?",
+      "content": "After 13 wonderful years, our Cooking School in York will be closing its doors for the final time on 12/31. We have loved every minute of our renowned cooking school, with our stunningly talented staff and welcoming hundreds of guest chefs from around the world to create special experiences for thousands of our guests. A HUGE thank you and hats off to all who have made the last 13 years so special. ❤️",
+      "id": "c08dc032-3654-48a2-89d7-167a39f40c0f",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "Can I exchange / swap out items in a gift basket?",
+      "content": "Unfortunately, we're unable to customize gift baskets. Apologies for the inconvenience!",
+      "id": "df42bc93-bc3e-4c78-9dab-029227642b5c",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "Will there be a gift receipt included with orders?",
+      "content": "The packing list included in each delivery shows proof of purchase without disclosing the amount spent.",
+      "id": "f9c34271-ae14-4095-82c9-d8c409e2317b",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "What happens when an item is sold out from my subscription?",
+      "content": "From time to time we do sell out of our most popular products. We will email you to notify you of the out-of-stock item and let you know when it's available! And of course, don't worry as you won't be charged until the item is back in stock and your subscription plan will continue at its normal frequency.",
+      "id": "1db3aaf0-87bb-4d54-b561-bfc2353734a6",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "What is the SWK Subscription service?",
+      "content": "The Stonewall Kitchen Subscription service is the most convenient way for you to get your favorite products quickly and easily for your lifestyle and schedule! Through our service, you can select the products, choose the frequency of delivery and the best part - receive 10% off your order!\n\nDepending on the frequency, you will receive an email reminder from us 10 days before your order on when to expect your next shipment.",
+      "id": "5b72cadf-214d-49fc-b0ce-d877fc5ed321",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "How do I cancel my subscription at any time?",
+      "content": "Just log into your account and you can skip or cancel your subscription before your next order date.",
+      "id": "e1a1a4ab-0eba-41de-a854-e0b5bdf6f644",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "Can I combine subscription products to be in the same order?",
+      "content": "Subscription products that have the same order date, shipping address, billing address, and payment method will ship as one order. If you have multiple shipment dates and you want to combine shipment dates, select the \"Change Shipment Date\" and choose your preferred shipping date for each subscription. Please note that all shipping details must be the same.",
+      "id": "75f010d9-acd9-44f4-aff0-7c71241cc56c",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "How can I return my subscription order?",
+      "content": "We want our guests to be satisfied with all orders. Our Guest Services Team is happy to assist with order issues. Please email us at guestservices@stonewallkitchen.com or give us a call at 800-207-5267 or 800-826-1752.",
+      "id": "d184813d-5ba9-49f9-84d3-35887ed27e25",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "Why are only certain products available for subscription?",
+      "content": "At this time, we have curated a list of top-selling products for this program. Make sure to check back as we'll keep adding products as this program evolves. Is there a product that you'd love to subscribe to and not seeing? If so, please send a message to our team on social or email our Guest Services Team at guestservices@stonewallkitchen.com.",
+      "id": "66190320-1334-4833-9051-ba8c6b86d80c",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "Can I use a gift card for the subscription service?",
+      "content": "At this time, gift cards aren't eligible for subscription service orders. We accept Visa, MasterCard, American Express, and Discover.",
+      "id": "d05e5c06-f6ed-4d8c-8cfa-0ed0fda77555",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "Brand ambassador / sponsorship",
+      "content": "Thank you for your interest! You can learn more and apply for our affiliate program here: https://www.stonewallkitchen.com/affiliate/affiliate.html",
+      "id": "9c7e6c87-4143-4955-a76a-b52efa231aa4",
+      "shortcut": "ams",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "Restock? (autosend enabled)",
+      "content": "I currently don't have the exact date of a possible restock, but I recommend checking our website and social media frequently.",
+      "id": "83b83b38-3531-11ed-a261-0242ac120002",
+      "shortcut": "stok",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "What are the delivery frequencies?",
+      "content": "We offer four- or eight-week delivery options. You have the option to choose what's best for you, pause, or cancel at any time.",
+      "id": "77c89260-b564-4c4c-9b70-a8a5342ce6f4",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "Can I use additional discounts on my subscription orders?",
+      "content": "I'm afraid not, subscription discounts cannot be combined with other offers or promotions.",
+      "id": "5b1ef861-fdba-4f35-8809-535b841a460f",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "Can I order online and pick it up in-store?",
+      "content": "I'm afraid we currently don't have this feature available for our site. Apologies for the inconvenience!",
+      "id": "36ba245b-89c2-4752-a726-ab1e7295dfba",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "Are your products kosher?",
+      "content": "We are not a kosher certified facility.",
+      "id": "d5cfc103-52a6-40f1-8566-067e6d737495",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "I received a damaged item",
+      "content": "I'm so sorry to hear that! I would highly suggest contacting our Guest Services via email at guestservices@stonewallkitchen.com or call at (800) 826-1735. Our team's happy to help!",
+      "id": "147ea1ea-527e-4d98-a42c-449f55c28a4b",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "I'm not receiving my password reset email",
+      "content": "If you haven't received the password reset email then you may not have an account with us. I'd recommend trying to create an account using the same email.",
+      "id": "16cb630d-2f3d-43d6-a1bb-cf418e16c00c",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "Free shipping",
+      "content": "We don't currently offer free shipping, but all promos will always be shared with our SMS subscribers or on our website, so keep an eye out!",
+      "id": "ca8fe610-2e83-4d4e-8c7d-ef2d2d433967",
+      "shortcut": "fs",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "International shipping/Canada",
+      "content": "I'm afraid we don't offer international shipping at this time.",
+      "id": "599ae541-028c-4275-afdf-b76e273d5633",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "Sales Collection",
+      "content": "You can take a look at our sale collection here: https://www.stonewallkitchen.com/barn-sale/",
+      "id": "4e5aa2c6-22e6-4a1a-a409-ff7f3d0b49b6",
+      "shortcut": "spg",
+      "companyName": "Stonewall Kitchen"
+    },
+    {
+      "name": "Retroactive discount request",
+      "content": "Unfortunately, we are unable to apply coupons retroactively.",
+      "id": "d3325b44-0fe9-4763-aa84-d294e0a5e0ba",
+      "shortcut": "rdr",
+      "companyName": "Stonewall Kitchen"
+    }
+  ]
+}

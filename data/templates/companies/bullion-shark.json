@@ -1,0 +1,137 @@
+{
+  "companyKey": "bullion shark",
+  "templates": [
+    {
+      "name": "Rewards / referral",
+      "content": "We have a rewards program where you can earn points to redeem on future purchases. You can join by creating an account here: https://bullionsharks.com/login.php",
+      "id": "8fdd5a3f-7e26-4fab-98af-13514cddb73d",
+      "shortcut": "rwd",
+      "companyName": "Bullion Shark"
+    },
+    {
+      "name": "Do you buy coins?",
+      "content": "Please email us at ebay@bullionsharks.com with pictures and details about the coin. One of our reps will take a look at them and give you a decision on whether or not a purchase will take place.",
+      "id": "38961abb-7ff7-44cf-bdb5-6b44e36fa171",
+      "companyName": "Bullion Shark"
+    },
+    {
+      "name": "Auction/Bidding",
+      "content": "You can go here and register for the upcoming auctions you want to participate in: https://bullionsharkauctions.com/",
+      "id": "a659b4c7-1d7b-409b-ac78-651a7157aee9",
+      "companyName": "Bullion Shark"
+    },
+    {
+      "name": "How long does it take to process a return?",
+      "content": "We will issue you a refund for returned goods within 48 hours of them being delivered to us.",
+      "id": "10d51a33-6733-4c42-9be0-39f51751f6d7",
+      "companyName": "Bullion Shark"
+    },
+    {
+      "name": "I want to know more about the value of your coins",
+      "content": "You can learn more about the history, facts, and coin mintage numbers here: https://bullionsharks.com/coin-values/",
+      "id": "86cdaa44-ae58-4f8e-962c-8ac56121a8a0",
+      "companyName": "Bullion Shark"
+    },
+    {
+      "name": "Wholesale inquiries",
+      "content": "Thank you for your interest! The best way to discuss wholesale is to email us directly at customerservice@bullionsharks.com. Our team is happy to chat.",
+      "id": "93dac61d-f595-42ef-bc6c-898c79a5ec55",
+      "shortcut": "wls",
+      "companyName": "Bullion Shark"
+    },
+    {
+      "name": "Brand ambassador / sponsorship",
+      "content": "Thank you for your interest! The best way to discuss this is to email us directly at customerservice@bullionsharks.com. Our team is happy to chat.",
+      "id": "4ff5ee92-8d95-469f-96ee-e7e7dc7c465f",
+      "shortcut": "ams",
+      "companyName": "Bullion Shark"
+    },
+    {
+      "name": "Phone support",
+      "content": "You can give us a call at 516-739-5822 or let me know if I can help via text, it may be faster.",
+      "id": "1aa14f24-05b2-4186-817b-0a894276a7f5",
+      "shortcut": "ps",
+      "companyName": "Bullion Shark"
+    },
+    {
+      "name": "Return policy",
+      "content": "We will accept returns within 14 days of you receiving your order. Items must be returned in the same condition they were received and certified coins can't be removed from their holders. You can read more here: https://bullionsharks.com/returns-exchanges/",
+      "id": "23486ab0-4b3e-47fa-9be2-50df39d30e30",
+      "shortcut": "rp",
+      "companyName": "Bullion Shark"
+    },
+    {
+      "name": "How do I know your coins are authentic?",
+      "content": "The vast majority of our rare coins are certified by PCGS and NGC, the leaders in 3rd party coin authentication. We stand behind our graded and non-graded coins with a full money-back guarantee that they are authentic. Each coin is inspected for authenticity by our experts before we purchase it.",
+      "id": "50810d68-8e7c-493b-9cb8-029b6b2e5e84",
+      "companyName": "Bullion Shark"
+    },
+    {
+      "name": "Social media",
+      "content": "Give us a follow on IG: https://www.instagram.com/bullionshark/ and FB here: https://www.facebook.com/bullionshark/",
+      "id": "573c40a4-a8ba-4e0e-a1df-1d2910bd77d8",
+      "shortcut": "smd",
+      "companyName": "Bullion Shark"
+    },
+    {
+      "name": "Will I need to sign for my package?",
+      "content": "Any order over $250 will require a signature at delivery.",
+      "id": "62e529bf-945c-4d14-a784-4d3e4fa6853c",
+      "companyName": "Bullion Shark"
+    },
+    {
+      "name": "Do you insure shipments?",
+      "content": "We fully insure all of our shipments. If anything happens while your package is in transit to you, it will be covered by our insurance policy. However, we will not accept responsibility if you have left instructions with any carriers or delivery service to leave parcels unattended for you without the need for a signature. You can read more about it here: https://bullionsharks.com/shipping-delivery/",
+      "id": "8888144a-8895-47ca-8f70-44a65fc4119a",
+      "companyName": "Bullion Shark"
+    },
+    {
+      "name": "Free shipping",
+      "content": "We offer free shipping on domestic orders over $199. Maybe you can add something else to reach the minimum?",
+      "id": "24aa947d-3094-437f-9d10-8fb8b1505095",
+      "shortcut": "fs",
+      "companyName": "Bullion Shark"
+    },
+    {
+      "name": "Shipping time",
+      "content": "We ship all orders within 2-3 business days once payment is cleared. Once shipped, orders under $50 ship without tracking via USPS and generally take around 5 business days, orders under $500 ship via USPS First Class Mail and generally take 2-5 business days and orders over $500 ship via USPS Priority Mail and generally take 1-3 business days to be delivered. If shipping will take longer, you will be notified or it will be stated next to the \"checkout\" button.",
+      "id": "77873ce3-7d6c-492f-98dc-7da481bfe601",
+      "shortcut": "shp",
+      "companyName": "Bullion Shark"
+    },
+    {
+      "name": "Customer support",
+      "content": "The best way to handle this is to email us directly at customerservice@bullionsharks.com, or give us a call at 516-739-5822. Our team is happy to help!",
+      "id": "d16edefc-28d3-4f68-af30-6445ad1080f3",
+      "shortcut": "cs",
+      "companyName": "Bullion Shark"
+    },
+    {
+      "name": "How soon will I get a response from customer service?",
+      "content": "We strive to answer all inquiries as soon as possible. You should hear back within a few hours of sending an email if you send one during normal business hours of 9am-5pm EST. If it's before or after these hours, you should expect an answer when we re-open!",
+      "id": "8025c981-7fcd-42f1-ae02-adc37d055d81",
+      "companyName": "Bullion Shark"
+    },
+    {
+      "name": "Store location / retailer",
+      "content": "We don't currently have a store but definitely keep an eye out.",
+      "id": "bba181f9-157a-43f1-ba54-22b92ec53374",
+      "shortcut": "sl",
+      "companyName": "Bullion Shark"
+    },
+    {
+      "name": "Military / First responder / Healthcare / Teacher discount",
+      "content": "Thank you for your service! We don't have any specific discounts like that but if it helps, you can check out the items we have on sale here: https://bullionsharks.com/deals/",
+      "id": "a0e7ac2b-99f2-4ad7-8835-521dab438e26",
+      "shortcut": "ms",
+      "companyName": "Bullion Shark"
+    },
+    {
+      "name": "Cancel / edit order",
+      "content": "I can check if that's possible. What's the order number, email address and the change you'd like to make?",
+      "id": "c98d4005-00c8-4bd1-98e6-fbdb16041b51",
+      "shortcut": "ced",
+      "companyName": "Bullion Shark"
+    }
+  ]
+}

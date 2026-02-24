@@ -1,0 +1,126 @@
+{
+  "companyKey": "wee squeak",
+  "templates": [
+    {
+      "name": "Sales Collection",
+      "content": "You can take a look at our sale collection here: https://weesqueak.com/collections/sale",
+      "id": "629308ae-4de2-48bd-b7be-92fd27fc8c0c",
+      "shortcut": "spg",
+      "companyName": "Wee Squeak"
+    },
+    {
+      "name": "Brand ambassador / sponsorship",
+      "content": "The best way to discuss this is to email us directly at support@weesqueak.com. Our team is happy to chat.",
+      "id": "83abe651-d823-4967-a614-8447302d2dc6",
+      "shortcut": "ams",
+      "companyName": "Wee Squeak"
+    },
+    {
+      "name": "Free Shipping",
+      "content": "We offer free shipping on domestic orders over $100. Maybe you can add something to reach the min?",
+      "id": "0b6c228d-4f6b-407e-b3e2-8cc0c38701a6",
+      "shortcut": "fs",
+      "companyName": "Wee Squeak"
+    },
+    {
+      "name": "Do your shoes run wide/narrow?",
+      "content": "The width will vary slightly depending on the style of shoe/sole. Most of our shoes do tend to run on the wider side with exception of the tennis shoes.",
+      "id": "5f9ef66b-bd97-41bc-96da-cb4c57d5c630",
+      "companyName": "Wee Squeak"
+    },
+    {
+      "name": "Sizing",
+      "content": "You can check out our size chart here: https://weesqueak.com/pages/sizing-chart?externalId=TDr-T Or print out a measuring chart to help you find the perfect size: https://cdn.shopify.com/s/files/1/0264/5959/files/WS_sizechart.pdf?604=&externalId=TDr-T let me know if you're still unsure!",
+      "id": "a5a1c493-f404-4b5c-ac21-697eabf5f148",
+      "shortcut": "sz",
+      "companyName": "Wee Squeak"
+    },
+    {
+      "name": "Shipping time",
+      "content": "All online orders can take up to 3-7 business days from the date an order is placed, although Canada orders can take longer.",
+      "id": "3b665aa3-f1a7-4964-96ac-5d67607d6b78",
+      "shortcut": "shp",
+      "companyName": "Wee Squeak"
+    },
+    {
+      "name": "How long do the squeakers/squeaker plugs last?",
+      "content": "The squeaker plugs should last the life of the shoe. We don't recommend the shoes be submerged in water or sand, and it's worth mentioning that some customers actually do choose to purchase additional replacement squeakers in the case they were to lose them when switching out the silent plugs/squeaker plugs.",
+      "id": "a5bd57ca-15e0-4f50-942c-84d6418eebd0",
+      "companyName": "Wee Squeak"
+    },
+    {
+      "name": "Social Media",
+      "content": "Give us a follow on IG: https://www.instagram.com/weesqueak/ and FB here: https://www.facebook.com/weesqueakshoes",
+      "id": "efa65025-ca55-403f-83db-65a2a1078fd1",
+      "shortcut": "smd",
+      "companyName": "Wee Squeak"
+    },
+    {
+      "name": "Phone support",
+      "content": "You can give us a call at +1 334-400-9832 or let me know if I can help via text, it may be faster.",
+      "id": "f0d18029-6701-442a-806e-c86a600d0308",
+      "shortcut": "ps",
+      "companyName": "Wee Squeak"
+    },
+    {
+      "name": "Military / First responder / Healthcare / Teacher discount",
+      "content": "Thank you for your service! We don't have any specific discounts like that but if it helps, you can check out the items we have on sale here: https://weesqueak.com/collections/sale",
+      "id": "9e85cc07-a4e1-47a6-aca3-ef5fcc7b6183",
+      "shortcut": "ms",
+      "companyName": "Wee Squeak"
+    },
+    {
+      "name": "Customer support",
+      "content": "The best way to handle this is to email us directly at support@weesqueak.com. Our team is happy to help!",
+      "id": "c79b2f79-b707-4b27-8161-d21d669717b8",
+      "shortcut": "cs",
+      "companyName": "Wee Squeak"
+    },
+    {
+      "name": "Store location / retailer",
+      "content": "We don't currently have a store but definitely keep an eye out.",
+      "id": "6cf44f76-0035-4299-97c6-332ba4ffa08d",
+      "shortcut": "sl",
+      "companyName": "Wee Squeak"
+    },
+    {
+      "name": "Return Policy",
+      "content": "You can check our detailed return policy here: https://weesqueak.attn.tv/sl/87GsJZXM .",
+      "id": "88b2898f-cf46-4400-a1e8-4406a66edad6",
+      "shortcut": "rp",
+      "companyName": "Wee Squeak"
+    },
+    {
+      "name": "Can the squeak be removed?",
+      "content": "Yes it can. To remove the squeaker, use your fingers or a pair of tweezers to simply pull out the white button located near the heel of the shoe.",
+      "id": "a04cead7-286a-47c2-8c06-38a415b5666d",
+      "companyName": "Wee Squeak"
+    },
+    {
+      "name": "Wholesale",
+      "content": "The best way to discuss wholesale is to email us directly at support@weesqueak.com Our team is happy to chat. If you haven't already, be sure to apply for a wholesale account here: https://weesqueak.attn.tv/sl/4kXBR4JC",
+      "id": "567f3e67-106e-4afd-97dc-42915f3cbe8c",
+      "shortcut": "wls",
+      "companyName": "Wee Squeak"
+    },
+    {
+      "name": "Size Chart: Kids - Shoes",
+      "content": "You can take a look at our kids' size chart here: https://weesqueak.com/pages/sizing-chart",
+      "id": "fb14d798-a058-4426-bdfd-2cb62d549ecd",
+      "companyName": "Wee Squeak"
+    },
+    {
+      "name": "Why don't my shoes squeak?",
+      "content": "Wee Squeak shoes will only sound if the child is walking in the correct heel-toe rotation. Please note that Squeaker sounds may vary. Be sure to never wear Wee Squeak shoes in sandboxes or at the beach. Sometimes the foam in the heel blocks the air from escaping the hole and prevents the squeaking. Remove the squeaker and place a ballpoint pen (or something similar) in the squeaker outlet. Push the foam towards the back of the shoe with the pen. This should fix the problem.",
+      "id": "da433ebc-12e5-416a-b5ae-d082f9684bca",
+      "companyName": "Wee Squeak"
+    },
+    {
+      "name": "Cancel / edit order",
+      "content": "The best way to check if you can cancel or edit your order is to email us directly at support@weesqueak.com. Our team is happy to help!",
+      "id": "5d293057-11cc-4261-9163-7cfd6a030bcd",
+      "shortcut": "ced",
+      "companyName": "Wee Squeak"
+    }
+  ]
+}
