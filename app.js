@@ -16,6 +16,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     ).trim();
     const RUNTIME_SCENARIO_INDEX_PATH = 'data/scenarios/index.json';
     const RUNTIME_TEMPLATE_INDEX_PATH = 'data/templates/index.json';
+    const AUDITOR_TEMPLATES_PATH = 'data/templates/auditor-templates.json';
     const ASSIGNMENT_HEARTBEAT_INTERVAL_MS = 60 * 1000;
     const ASSIGNMENT_API_TIMEOUT_MS = 15000;
     const ASSIGNMENT_GET_TIMEOUT_MS = 25000;
@@ -62,6 +63,9 @@ document.addEventListener('DOMContentLoaded', async () => {
     let runtimeTemplatesUnavailable = false;
     let templateSearchSourceTemplates = [];
     let templateSearchBound = false;
+    let auditorTemplateSearchSourceTemplates = [];
+    let auditorTemplateSearchBound = false;
+    let auditorTemplatesData = [];
     let assignmentSessionState = null;
     let assignmentHeartbeatTimer = null;
     let assignmentHeartbeatWarningShown = false;
@@ -3069,6 +3073,160 @@ document.addEventListener('DOMContentLoaded', async () => {
         };
     }
 
+    function normalizeAuditorTemplates(rawTemplates) {
+        const sourceTemplates = Array.isArray(rawTemplates) ? rawTemplates : [];
+        return sourceTemplates
+            .map((entry, index) => {
+                if (!entry || typeof entry !== 'object') return null;
+                const name = firstNonEmptyValue([
+                    entry.auditor_template_title,
+                    entry.title,
+                    entry.name
+                ]);
+                const content = firstNonEmptyValue([
+                    entry.auditor_template_text,
+                    entry.text,
+                    entry.content
+                ]);
+                const shortcut = firstNonEmptyValue([
+                    entry.auditor_template_shortcut,
+                    entry.shortcut,
+                    entry.code
+                ]);
+                if (!name && !content && !shortcut) return null;
+                return {
+                    name: name || `Auditor Template ${index + 1}`,
+                    content: content || '',
+                    shortcut: shortcut || ''
+                };
+            })
+            .filter(Boolean);
+    }
+
+    async function loadAuditorTemplatesData() {
+        try {
+            const response = await fetch(AUDITOR_TEMPLATES_PATH, { method: 'GET' });
+            if (!response.ok) throw new Error(`auditor templates load failed (${response.status})`);
+            const payload = await response.json();
+            auditorTemplatesData = normalizeAuditorTemplates(payload && payload.auditor_templates);
+        } catch (error) {
+            console.error('Error loading auditor templates:', error);
+            auditorTemplatesData = [];
+        }
+        return auditorTemplatesData;
+    }
+
+    function renderAuditorTemplateItems(templates, searchTerm) {
+        const templatesContainer = document.getElementById('auditorTemplateItems');
+        if (!templatesContainer) return;
+        templatesContainer.innerHTML = '';
+
+        const safeSearch = String(searchTerm || '').toLowerCase().trim();
+        const sourceTemplates = Array.isArray(templates) ? templates : [];
+        const filteredTemplates = sourceTemplates.filter(template => {
+            const name = String((template && template.name) || '').toLowerCase();
+            const shortcut = String((template && template.shortcut) || '').toLowerCase();
+            const content = String((template && template.content) || '').toLowerCase();
+            return name.includes(safeSearch) ||
+                shortcut.includes(safeSearch) ||
+                content.includes(safeSearch);
+        });
+
+        filteredTemplates.forEach(template => {
+            const templateDiv = document.createElement('div');
+            templateDiv.className = 'template-item';
+
+            const headerDiv = document.createElement('div');
+            headerDiv.className = 'template-header';
+
+            const nameSpan = document.createElement('span');
+            nameSpan.appendChild(createHighlightedFragment(String(template && template.name ? template.name : ''), safeSearch));
+            headerDiv.appendChild(nameSpan);
+
+            const shortcutText = String((template && template.shortcut) || '').trim();
+            if (shortcutText) {
+                const shortcutSpan = document.createElement('span');
+                shortcutSpan.className = 'template-shortcut';
+                shortcutSpan.appendChild(createHighlightedFragment(shortcutText, safeSearch));
+                headerDiv.appendChild(shortcutSpan);
+            }
+
+            templateDiv.appendChild(headerDiv);
+
+            const contentText = String((template && template.content) || '').trim();
+            if (contentText) {
+                const contentP = document.createElement('p');
+                contentP.appendChild(createHighlightedFragment(contentText, safeSearch));
+                templateDiv.appendChild(contentP);
+            }
+
+            templatesContainer.appendChild(templateDiv);
+        });
+
+        if (filteredTemplates.length === 0 && safeSearch !== '') {
+            const noResultsDiv = document.createElement('div');
+            noResultsDiv.className = 'no-results';
+            noResultsDiv.textContent = 'No auditor templates found';
+            templatesContainer.appendChild(noResultsDiv);
+        }
+    }
+
+    function initializeAuditorTemplateSearch(templates) {
+        const searchInput = document.getElementById('auditorTemplateSearch');
+        const templatesContainer = document.getElementById('auditorTemplateItems');
+        if (!searchInput || !templatesContainer) return;
+
+        auditorTemplateSearchSourceTemplates = Array.isArray(templates) ? templates : [];
+
+        if (!auditorTemplateSearchBound) {
+            searchInput.addEventListener('input', function(e) {
+                const searchTerm = e && e.target ? e.target.value : '';
+                renderAuditorTemplateItems(auditorTemplateSearchSourceTemplates, searchTerm);
+            });
+            auditorTemplateSearchBound = true;
+        }
+
+        renderAuditorTemplateItems(auditorTemplateSearchSourceTemplates, searchInput.value || '');
+    }
+
+    function resetAuditorTemplateSearch() {
+        const searchInput = document.getElementById('auditorTemplateSearch');
+        if (searchInput) {
+            searchInput.value = '';
+        }
+        renderAuditorTemplateItems(auditorTemplateSearchSourceTemplates, '');
+    }
+
+    function initializeAuditorTemplatesToggle() {
+        const panel = document.querySelector('.auditor-templates-panel');
+        const toggleBtn = document.getElementById('auditorTemplatesToggle');
+        const leftPanel = document.querySelector('.left-panel');
+        if (!panel || !toggleBtn || !leftPanel) return;
+
+        const collapsedHeight = 300;
+        const setExpandedHeight = () => {
+            if (!panel.classList.contains('is-expanded')) return;
+            const targetHeight = Math.max(collapsedHeight, Math.floor((leftPanel.clientHeight || 0) / 2));
+            panel.style.setProperty('--auditor-expanded-height', `${targetHeight}px`);
+        };
+
+        toggleBtn.addEventListener('click', () => {
+            const willExpand = !panel.classList.contains('is-expanded');
+            panel.classList.toggle('is-expanded', willExpand);
+            toggleBtn.setAttribute('aria-expanded', willExpand ? 'true' : 'false');
+            setExpandedHeight();
+        });
+
+        window.addEventListener('resize', setExpandedHeight);
+    }
+
+    async function initializeAuditorTemplatesPanel() {
+        initializeAuditorTemplatesToggle();
+        const auditorTemplates = await loadAuditorTemplatesData();
+        initializeAuditorTemplateSearch(auditorTemplates);
+        resetAuditorTemplateSearch();
+    }
+
     function renderConversationMessages(conversation, scenario) {
         if (!chatMessages) return;
         chatMessages.innerHTML = '';
@@ -3630,66 +3788,68 @@ document.addEventListener('DOMContentLoaded', async () => {
         scrollChatToBottomAfterRender();
         
         // Update guidelines dynamically
-        const guidelinesContainer = document.getElementById('dynamic-guidelines-container');
         const notesData = scenario.notes || scenario.guidelines;
-        if (guidelinesContainer && notesData) {
+        const guidelinesContainer = document.getElementById('dynamic-guidelines-container');
+        if (guidelinesContainer) {
             guidelinesContainer.innerHTML = '';
-            
-            // Create categories dynamically based on scenario data
-            Object.keys(notesData).forEach(categoryKey => {
-                const categoryData = notesData[categoryKey];
-                if (Array.isArray(categoryData) && categoryData.length > 0) {
-                    // Get category display info
-                    const categoryInfo = getCategoryInfo(categoryKey);
-                    
-                    // Create category section
-                    const categorySection = document.createElement('div');
-                    categorySection.className = 'guidelines-section';
-                    
-                    // Create category header
-                    const categoryHeader = document.createElement('div');
-                    categoryHeader.className = 'guidelines-header';
-                    
-                    // Create icon element
-                    const iconElement = document.createElement('i');
-                    iconElement.setAttribute('data-feather', categoryInfo.icon);
-                    iconElement.className = 'icon-small';
-                    
-                    // Create category title
-                    const titleElement = document.createElement('span');
-                    titleElement.textContent = categoryInfo.display;
-                    
-                    // Assemble header
-                    categoryHeader.appendChild(iconElement);
-                    categoryHeader.appendChild(titleElement);
-                    
-                    // Create guidelines list
-                    const guidelinesList = document.createElement('ul');
-                    guidelinesList.className = 'guidelines-list';
-                    
-                    // Add guidelines items
-                    categoryData.forEach(item => {
-                        const li = document.createElement('li');
-                        const text = String(item || '').trim();
-                        const match = text.match(/^\*\*(.*)\*\*$/);
-                        if (match) {
-                            const strong = document.createElement('strong');
-                            strong.textContent = match[1];
-                            li.appendChild(strong);
-                        } else {
-                            li.textContent = text;
-                        }
-                        guidelinesList.appendChild(li);
-                    });
-                    
-                    // Assemble category section
-                    categorySection.appendChild(categoryHeader);
-                    categorySection.appendChild(guidelinesList);
-                    
-                    // Add to container
-                    guidelinesContainer.appendChild(categorySection);
-                }
-            });
+
+            if (notesData) {
+                // Create categories dynamically based on scenario data
+                Object.keys(notesData).forEach(categoryKey => {
+                    const categoryData = notesData[categoryKey];
+                    if (Array.isArray(categoryData) && categoryData.length > 0) {
+                        // Get category display info
+                        const categoryInfo = getCategoryInfo(categoryKey);
+                        
+                        // Create category section
+                        const categorySection = document.createElement('div');
+                        categorySection.className = 'guidelines-section';
+                        
+                        // Create category header
+                        const categoryHeader = document.createElement('div');
+                        categoryHeader.className = 'guidelines-header';
+                        
+                        // Create icon element
+                        const iconElement = document.createElement('i');
+                        iconElement.setAttribute('data-feather', categoryInfo.icon);
+                        iconElement.className = 'icon-small';
+                        
+                        // Create category title
+                        const titleElement = document.createElement('span');
+                        titleElement.textContent = categoryInfo.display;
+                        
+                        // Assemble header
+                        categoryHeader.appendChild(iconElement);
+                        categoryHeader.appendChild(titleElement);
+                        
+                        // Create guidelines list
+                        const guidelinesList = document.createElement('ul');
+                        guidelinesList.className = 'guidelines-list';
+                        
+                        // Add guidelines items
+                        categoryData.forEach(item => {
+                            const li = document.createElement('li');
+                            const text = String(item || '').trim();
+                            const match = text.match(/^\*\*(.*)\*\*$/);
+                            if (match) {
+                                const strong = document.createElement('strong');
+                                strong.textContent = match[1];
+                                li.appendChild(strong);
+                            } else {
+                                li.textContent = text;
+                            }
+                            guidelinesList.appendChild(li);
+                        });
+                        
+                        // Assemble category section
+                        categorySection.appendChild(categoryHeader);
+                        categorySection.appendChild(guidelinesList);
+                        
+                        // Add to container
+                        guidelinesContainer.appendChild(categorySection);
+                    }
+                });
+            }
         }
         
         // Update right panel content
@@ -4723,7 +4883,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 
     // Function to initialize template search functionality
     function initializeTemplateSearch(templates) {
-        const searchInput = document.querySelector('.search-templates input');
+        const searchInput = document.getElementById('templateSearch');
         const templatesContainer = document.getElementById('templateItems');
         if (!searchInput || !templatesContainer) return;
 
@@ -4741,7 +4901,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     }
 
     function resetTemplateSearch() {
-        const searchInput = document.querySelector('.search-templates input');
+        const searchInput = document.getElementById('templateSearch');
         if (searchInput) {
             searchInput.value = '';
         }
@@ -4880,6 +5040,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     
     // Initialize new features
     initTemplateSearchKeyboardShortcut();
+    await initializeAuditorTemplatesPanel();
 
     if (assignmentSelect) {
         assignmentSelect.addEventListener('dblclick', () => {
@@ -4991,9 +5152,43 @@ document.addEventListener('DOMContentLoaded', async () => {
             }
             return required;
         }
+
+        function getCheckboxInputElements() {
+            return Array.from(customForm.querySelectorAll('label.checkbox-item input[type="checkbox"]'));
+        }
+
+        function getCheckboxDisplayLabel(checkboxInput) {
+            const label = checkboxInput && checkboxInput.closest('label.checkbox-item');
+            return label ? String(label.textContent || '').replace(/\s+/g, ' ').trim() : '';
+        }
+
+        function syncUncheckedCheckboxesToNotes() {
+            if (!notesField) return;
+
+            const checkboxInputs = getCheckboxInputElements();
+            const allCheckboxLabels = checkboxInputs
+                .map(getCheckboxDisplayLabel)
+                .filter(Boolean);
+            const allManagedLines = new Set(allCheckboxLabels.map(label => `${label}:`));
+
+            const uncheckedLines = checkboxInputs
+                .filter(input => !input.checked)
+                .map(getCheckboxDisplayLabel)
+                .filter(Boolean)
+                .map(label => `${label}:`);
+
+            const existingLines = String(notesField.value || '')
+                .split(/\r?\n/)
+                .map(line => line.trimEnd());
+
+            const preservedLines = existingLines.filter(line => !allManagedLines.has(line.trim()));
+            const mergedLines = preservedLines.concat(uncheckedLines);
+            notesField.value = mergedLines.join('\n').replace(/\n{3,}/g, '\n\n');
+        }
         
         // Ensure all checkboxes are checked by default (and on reset)
         applyDefaultCustomFormState(customForm);
+        syncUncheckedCheckboxesToNotes();
         updateNotesRequirementUI();
         
         // ---- Form autosave/restore ----
@@ -5015,11 +5210,16 @@ document.addEventListener('DOMContentLoaded', async () => {
             applyCustomFormState(customForm, parsed);
         }
         customForm.addEventListener('input', saveCustomFormState);
-        customForm.addEventListener('change', () => {
+        customForm.addEventListener('change', (event) => {
+            const changedEl = event && event.target;
+            if (changedEl && changedEl.matches && changedEl.matches('input[type="checkbox"]')) {
+                syncUncheckedCheckboxesToNotes();
+            }
             updateNotesRequirementUI();
             saveCustomFormState();
         });
         restoreCustomFormState();
+        syncUncheckedCheckboxesToNotes();
         updateNotesRequirementUI();
 
         // Clear form functionality
@@ -5028,6 +5228,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                 customForm.reset();
                 // Re-apply default checked state
                 applyDefaultCustomFormState(customForm);
+                syncUncheckedCheckboxesToNotes();
                 updateNotesRequirementUI();
                 try {
                     const key = assignmentContext && assignmentContext.assignment_id

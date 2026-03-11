@@ -1,0 +1,28 @@
+{
+  "auditor_templates": [
+    {
+      "id": 1,
+      "auditor_template_title": "Greeting QA Check",
+      "auditor_template_text": "Verify the first response acknowledges the customer issue and sets a clear expectation.",
+      "auditor_template_shortcut": "A-GREET"
+    },
+    {
+      "id": 2,
+      "auditor_template_title": "Escalation Validation",
+      "auditor_template_text": "Confirm escalation reason is explicit, policy-aligned, and includes any required internal notes.",
+      "auditor_template_shortcut": "A-ESC"
+    },
+    {
+      "id": 3,
+      "auditor_template_title": "Resolution Completeness",
+      "auditor_template_text": "Check that final response resolves the request, includes next steps, and avoids ambiguous wording.",
+      "auditor_template_shortcut": "A-RESOLVE"
+    },
+    {
+      "id": 4,
+      "auditor_template_title": "Tone Compliance",
+      "auditor_template_text": "Ensure response tone matches account preference and remains professional and empathetic.",
+      "auditor_template_shortcut": "A-TONE"
+    }
+  ]
+}

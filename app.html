@@ -329,6 +329,30 @@
                     <div id="escalationPreferencesRow" class="agent-badges-row agent-badges-row--escalation" style="display:none;"></div>
                     <div id="couponCodesContainer" class="coupon-codes-container" style="display:none;"></div>
                 </div>
+
+                <div class="auditor-templates-panel">
+                    <div class="info-block templates-block templates-block--auditor">
+                        <div class="info-block-header">
+                            <span><i data-feather="layers" class="icon-small section-header-icon"></i> Auditor Templates</span>
+                            <button
+                                type="button"
+                                id="auditorTemplatesToggle"
+                                class="auditor-templates-toggle"
+                                aria-label="Expand auditor templates"
+                                aria-expanded="false"
+                            ></button>
+                        </div>
+                        <div class="search-templates search-templates--auditor">
+                            <input type="text" placeholder="Search Auditor Templates" id="auditorTemplateSearch">
+                        </div>
+                        <div class="templates-scroll templates-scroll--auditor">
+                            <div id="auditorTemplateItems">
+                                <!-- Dynamic auditor template content will be loaded here -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
             </aside>
 
             <!-- Resize handle -->
