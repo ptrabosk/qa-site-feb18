@@ -66,6 +66,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     let auditorTemplateSearchSourceTemplates = [];
     let auditorTemplateSearchBound = false;
     let auditorTemplatesData = [];
+    let expandAuditorTemplatesPanel = null;
     let assignmentSessionState = null;
     let assignmentHeartbeatTimer = null;
     let assignmentHeartbeatWarningShown = false;
@@ -3181,6 +3182,9 @@ document.addEventListener('DOMContentLoaded', async () => {
         if (!auditorTemplateSearchBound) {
             searchInput.addEventListener('input', function(e) {
                 const searchTerm = e && e.target ? e.target.value : '';
+                if (searchTerm.trim() && typeof expandAuditorTemplatesPanel === 'function') {
+                    expandAuditorTemplatesPanel();
+                }
                 renderAuditorTemplateItems(auditorTemplateSearchSourceTemplates, searchTerm);
             });
             auditorTemplateSearchBound = true;
@@ -3203,21 +3207,51 @@ document.addEventListener('DOMContentLoaded', async () => {
         const leftPanel = document.querySelector('.left-panel');
         if (!panel || !toggleBtn || !leftPanel) return;
 
-        const collapsedHeight = 300;
+        const collapsedHeight = 250;
+        const syncPanelViewportPosition = () => {
+            const rect = leftPanel.getBoundingClientRect();
+            const width = Math.max(0, Math.floor(rect.width || 0));
+            const left = Math.floor(rect.left || 0);
+            if (width <= 0) {
+                panel.style.display = 'none';
+                return;
+            }
+            panel.style.display = 'flex';
+            panel.style.setProperty('--auditor-panel-left', `${left}px`);
+            panel.style.setProperty('--auditor-panel-width', `${width}px`);
+        };
         const setExpandedHeight = () => {
             if (!panel.classList.contains('is-expanded')) return;
-            const targetHeight = Math.max(collapsedHeight, Math.floor((leftPanel.clientHeight || 0) / 2));
+            const viewportHeight = window.innerHeight || document.documentElement.clientHeight || 0;
+            const targetHeight = Math.max(collapsedHeight, Math.floor(viewportHeight * 0.65));
             panel.style.setProperty('--auditor-expanded-height', `${targetHeight}px`);
         };
 
-        toggleBtn.addEventListener('click', () => {
-            const willExpand = !panel.classList.contains('is-expanded');
+        const setExpandedState = (shouldExpand) => {
+            const willExpand = !!shouldExpand;
             panel.classList.toggle('is-expanded', willExpand);
             toggleBtn.setAttribute('aria-expanded', willExpand ? 'true' : 'false');
+            syncPanelViewportPosition();
             setExpandedHeight();
+        };
+        expandAuditorTemplatesPanel = () => setExpandedState(true);
+
+        toggleBtn.addEventListener('click', () => {
+            setExpandedState(!panel.classList.contains('is-expanded'));
         });
 
-        window.addEventListener('resize', setExpandedHeight);
+        const syncSizeAndPosition = () => {
+            syncPanelViewportPosition();
+            setExpandedHeight();
+        };
+
+        syncSizeAndPosition();
+        window.addEventListener('resize', syncSizeAndPosition);
+        window.addEventListener('scroll', syncPanelViewportPosition, true);
+        if (typeof ResizeObserver === 'function') {
+            const resizeObserver = new ResizeObserver(syncSizeAndPosition);
+            resizeObserver.observe(leftPanel);
+        }
     }
 
     async function initializeAuditorTemplatesPanel() {
@@ -3225,6 +3259,51 @@ document.addEventListener('DOMContentLoaded', async () => {
         const auditorTemplates = await loadAuditorTemplatesData();
         initializeAuditorTemplateSearch(auditorTemplates);
         resetAuditorTemplateSearch();
+    }
+
+    function getAuditorShortcutContentMap() {
+        const map = new Map();
+        const source = Array.isArray(auditorTemplatesData) ? auditorTemplatesData : [];
+        source.forEach((template) => {
+            const shortcut = String((template && template.shortcut) || '').trim().toLowerCase();
+            const content = String((template && template.content) || '').trim();
+            if (!shortcut || !content || map.has(shortcut)) return;
+            map.set(shortcut, content);
+        });
+        return map;
+    }
+
+    function expandAuditorShortcutOnTrailingSpace(fieldEl) {
+        if (!fieldEl) return false;
+        if (typeof fieldEl.selectionStart !== 'number' || typeof fieldEl.selectionEnd !== 'number') return false;
+        if (fieldEl.selectionStart !== fieldEl.selectionEnd) return false;
+
+        const cursorIndex = fieldEl.selectionStart;
+        if (cursorIndex <= 0) return false;
+
+        const fullText = String(fieldEl.value || '');
+        if (fullText.charAt(cursorIndex - 1) !== ' ') return false;
+
+        const shortcutEnd = cursorIndex - 1;
+        let shortcutStart = shortcutEnd - 1;
+        while (shortcutStart >= 0 && !/\s/.test(fullText.charAt(shortcutStart))) {
+            shortcutStart -= 1;
+        }
+        shortcutStart += 1;
+
+        if (shortcutStart >= shortcutEnd) return false;
+        const typedShortcut = fullText.slice(shortcutStart, shortcutEnd).trim().toLowerCase();
+        if (!typedShortcut) return false;
+
+        const shortcutMap = getAuditorShortcutContentMap();
+        const replacementContent = shortcutMap.get(typedShortcut);
+        if (!replacementContent) return false;
+
+        const replacement = `${replacementContent} `;
+        fieldEl.value = `${fullText.slice(0, shortcutStart)}${replacement}${fullText.slice(cursorIndex)}`;
+        const nextCursorIndex = shortcutStart + replacement.length;
+        fieldEl.setSelectionRange(nextCursorIndex, nextCursorIndex);
+        return true;
     }
 
     function renderConversationMessages(conversation, scenario) {
@@ -5074,6 +5153,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     // Persist internal notes and assignment drafts
     if (internalNotesEl) {
         internalNotesEl.addEventListener('input', () => {
+            expandAuditorShortcutOnTrailingSpace(internalNotesEl);
             if (isSnapshotMode) return;
             if (assignmentContext && assignmentContext.assignment_id) {
                 const key = assignmentNotesStorageKey();
@@ -5142,6 +5222,12 @@ document.addEventListener('DOMContentLoaded', async () => {
             return false;
         }
 
+        if (notesField) {
+            notesField.addEventListener('input', () => {
+                expandAuditorShortcutOnTrailingSpace(notesField);
+            });
+        }
+
         function updateNotesRequirementUI() {
             const required = shouldRequireNotes();
             if (notesField) {
@@ -5162,7 +5248,7 @@ document.addEventListener('DOMContentLoaded', async () => {
             return label ? String(label.textContent || '').replace(/\s+/g, ' ').trim() : '';
         }
 
-        function syncUncheckedCheckboxesToNotes() {
+        function syncUncheckedCheckboxesToNotes(changedCheckboxInput = null) {
             if (!notesField) return;
 
             const checkboxInputs = getCheckboxInputElements();
@@ -5171,18 +5257,34 @@ document.addEventListener('DOMContentLoaded', async () => {
                 .filter(Boolean);
             const allManagedLines = new Set(allCheckboxLabels.map(label => `${label}:`));
 
-            const uncheckedLines = checkboxInputs
-                .filter(input => !input.checked)
-                .map(getCheckboxDisplayLabel)
-                .filter(Boolean)
-                .map(label => `${label}:`);
-
-            const existingLines = String(notesField.value || '')
-                .split(/\r?\n/)
-                .map(line => line.trimEnd());
+            const rawNotesValue = String(notesField.value || '');
+            const existingLines = rawNotesValue.trim() === ''
+                ? []
+                : rawNotesValue
+                    .split(/\r?\n/)
+                    .map(line => line.trimEnd());
 
             const preservedLines = existingLines.filter(line => !allManagedLines.has(line.trim()));
-            const mergedLines = preservedLines.concat(uncheckedLines);
+            let managedLines = existingLines.filter(line => allManagedLines.has(line.trim()));
+
+            if (changedCheckboxInput && changedCheckboxInput.matches && changedCheckboxInput.matches('input[type="checkbox"]')) {
+                const changedLabel = getCheckboxDisplayLabel(changedCheckboxInput);
+                const changedLine = changedLabel ? `${changedLabel}:` : '';
+                if (changedLine) {
+                    managedLines = managedLines.filter(line => line.trim() !== changedLine);
+                    if (!changedCheckboxInput.checked) {
+                        managedLines.push(changedLine);
+                    }
+                }
+            } else {
+                managedLines = checkboxInputs
+                    .filter(input => !input.checked)
+                    .map(getCheckboxDisplayLabel)
+                    .filter(Boolean)
+                    .map(label => `${label}:`);
+            }
+
+            const mergedLines = preservedLines.concat(managedLines);
             notesField.value = mergedLines.join('\n').replace(/\n{3,}/g, '\n\n');
         }
         
@@ -5213,7 +5315,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         customForm.addEventListener('change', (event) => {
             const changedEl = event && event.target;
             if (changedEl && changedEl.matches && changedEl.matches('input[type="checkbox"]')) {
-                syncUncheckedCheckboxesToNotes();
+                syncUncheckedCheckboxesToNotes(changedEl);
             }
             updateNotesRequirementUI();
             saveCustomFormState();
